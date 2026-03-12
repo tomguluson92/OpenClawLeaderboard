@@ -318,7 +318,12 @@ function getTier(score: number): string {
   return "beginner";
 }
 
-function getCharacterClass(s: UserStats): string {
+const FIXED_ROLES: Record<string, string> = {
+  steipete: "Founder",
+};
+
+function getCharacterClass(s: UserStats, login?: string): string {
+  if (login && FIXED_ROLES[login]) return FIXED_ROLES[login];
   const total = s.prs + s.issues + s.reviews + s.comments + s.commits;
   if (total === 0) return "Contributor";
   const prPct = (s.prs + s.commits) / total;
@@ -378,7 +383,7 @@ function buildLeaderboard(users: Map<string, UserStats>, mode: "lifetime" | "mon
       reviewsCount: mode === "weekly" ? stats.weeklyReviews : mode === "monthly" ? stats.monthlyReviews : stats.reviews,
       commentsCount: mode === "weekly" ? stats.weeklyComments : mode === "monthly" ? stats.monthlyComments : stats.comments,
       tier: getTier(sc.score),
-      characterClass: getCharacterClass(stats),
+      characterClass: getCharacterClass(stats, login),
       focusAreas: [],
       links: { github: `https://github.com/${login}` },
     });
@@ -672,7 +677,7 @@ async function main() {
       githubUrl: `https://github.com/${login}`,
       score: sc,
       tier: getTier(sc.score),
-      characterClass: getCharacterClass(stats),
+      characterClass: getCharacterClass(stats, login),
       stats: {
         commits: stats.commits,
         prs: stats.prs,

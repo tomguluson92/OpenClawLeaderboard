@@ -109,7 +109,12 @@ function getTier(score: number): string {
   return "beginner";
 }
 
-function getCharacterClass(stats: ProfileStats): string {
+const FIXED_ROLES: Record<string, string> = {
+  steipete: "Founder",
+};
+
+function getCharacterClass(stats: ProfileStats, username?: string): string {
+  if (username && FIXED_ROLES[username]) return FIXED_ROLES[username];
   const total = stats.prs + stats.issues + stats.reviews + stats.comments + stats.commits;
   if (total === 0) return "Contributor";
   const prPct = (stats.prs + stats.commits) / total;
@@ -145,7 +150,7 @@ function main() {
     const newScore = calculateScore(p.stats, null, "lifetime");
     p.score = newScore;
     p.tier = getTier(newScore.score);
-    p.characterClass = getCharacterClass(p.stats);
+    p.characterClass = getCharacterClass(p.stats, p.username);
     p.stats.prMergeRate = p.stats.prs > 0 ? Math.round(p.stats.prsMerged / p.stats.prs * 100) : 0;
     writeFileSync(join(PROFILES_DIR, `${p.username}.json`), JSON.stringify(p, null, 2));
   }
@@ -189,7 +194,7 @@ function main() {
         reviewsCount: mode === "weekly" ? p.period.weekly.reviews : mode === "monthly" ? p.period.monthly.reviews : p.stats.reviews,
         commentsCount: mode === "weekly" ? p.period.weekly.comments : mode === "monthly" ? p.period.monthly.comments : p.stats.comments,
         tier: getTier(sc.score),
-        characterClass: getCharacterClass(p.stats),
+        characterClass: getCharacterClass(p.stats, p.username),
         focusAreas: [],
         links: { github: p.githubUrl },
       });
