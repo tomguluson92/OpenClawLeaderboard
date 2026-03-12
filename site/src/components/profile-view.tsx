@@ -267,7 +267,7 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
       <div className="grid grid-cols-1 gap-5 lg:grid-cols-[1fr_1fr]">
         <Section title="Recent Activity (Last 31 Days)" icon={Clock} delay={2}>
           <ActivityChart profile={profile} />
-          <div className="mt-4 flex flex-wrap items-center gap-4 text-[11px] font-medium">
+          <div className="mt-4 flex flex-wrap items-center gap-3 sm:gap-4 text-[10px] sm:text-[11px] font-medium">
             <ChartLegend color="bg-teal-500" label="Commits" />
             <ChartLegend color="bg-indigo-700 dark:bg-indigo-400" label="Issues" />
             <ChartLegend color="bg-amber-500" label="PRs" />
@@ -549,13 +549,13 @@ function ActivityChart({ profile }: { profile: ProfileData }) {
   if (yTicks[yTicks.length - 1] < maxVal) yTicks.push(maxVal);
 
   return (
-    <div className="flex gap-1.5">
-      <div className="flex flex-col justify-between pr-1 text-right" style={{ height: chartH }}>
+    <div className="flex gap-1.5 min-w-0 overflow-hidden">
+      <div className="flex shrink-0 flex-col justify-between pr-1 text-right" style={{ height: chartH }}>
         {yTicks.slice().reverse().map((v) => (
           <span key={v} className="text-[10px] text-muted-foreground/60 leading-none tabular-nums font-medium">{v}</span>
         ))}
       </div>
-      <div className="flex flex-1 items-end gap-[2px]" style={{ height: chartH }}>
+      <div className="flex flex-1 min-w-0 items-end gap-[1px] sm:gap-[2px]" style={{ height: chartH }}>
         {buckets.map((b, i) => {
           const total = b.commits + b.issues + b.prs + b.reviews;
           const barH = total > 0 ? (total / maxVal) * chartH : 0;

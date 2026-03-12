@@ -25,7 +25,7 @@ export default function Home() {
   const hasData = lifetime || monthly || weekly;
 
   return (
-    <main className="mx-auto max-w-6xl px-5 py-10">
+    <main className="mx-auto max-w-6xl px-4 sm:px-5 py-10 overflow-hidden">
       {/* Hero */}
       <div className="animate-fade-up mb-10 text-center">
         <div className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/5 px-4 py-1.5 text-xs font-medium text-primary mb-4">

@@ -64,7 +64,7 @@ export default async function ProfilePage({
   }
 
   return (
-    <main className="mx-auto max-w-5xl px-5 py-10">
+    <main className="mx-auto max-w-5xl px-4 sm:px-5 py-10 overflow-hidden">
       <ProfileView profile={profile} />
     </main>
   );

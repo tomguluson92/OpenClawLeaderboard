@@ -56,24 +56,24 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
       {/* Controls */}
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         {/* Tabs */}
-        <div className="inline-flex rounded-xl border border-border bg-card p-1 gap-0.5 shadow-sm dark:shadow-none dark:border-border/60 dark:bg-card/40 dark:glass">
+        <div className="flex w-full sm:w-auto rounded-xl border border-border bg-card p-1 gap-0.5 shadow-sm dark:shadow-none dark:border-border/60 dark:bg-card/40 dark:glass">
           {TABS.map((tab) => {
             const count = dataMap[tab.id]?.totalUsers ?? 0;
             return (
               <button
                 key={tab.id}
                 onClick={() => handlePeriodChange(tab.id)}
-                className={`inline-flex items-center gap-1 sm:gap-1.5 rounded-lg px-2.5 sm:px-4 py-2 text-xs sm:text-sm font-medium transition-all ${
+                className={`flex-1 sm:flex-none inline-flex items-center justify-center gap-1 sm:gap-1.5 rounded-lg px-2 sm:px-4 py-2 text-xs sm:text-sm font-medium transition-all ${
                   period === tab.id
                     ? "bg-primary text-primary-foreground shadow-md shadow-primary/20"
                     : "text-muted-foreground hover:text-foreground hover:bg-accent"
                 }`}
               >
-                <tab.icon className="h-3.5 w-3.5" />
+                <tab.icon className="h-3.5 w-3.5 shrink-0" />
                 <span className="font-semibold">{tab.label}</span>
                 {count > 0 && (
                   <span
-                    className={`ml-1 rounded-full px-1.5 py-0.5 text-[10px] font-bold ${
+                    className={`hidden sm:inline ml-1 rounded-full px-1.5 py-0.5 text-[10px] font-bold ${
                       period === tab.id
                         ? "bg-primary-foreground/20 text-primary-foreground"
                         : "bg-muted text-muted-foreground"
@@ -104,7 +104,7 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
       </div>
 
       {/* Table */}
-      <div className="rounded-xl border border-border bg-card shadow-sm dark:shadow-none dark:border-border/60 dark:bg-card/40 dark:glass overflow-hidden">
+      <div className="rounded-xl border border-border bg-card shadow-sm dark:shadow-none dark:border-border/60 dark:bg-card/40 dark:glass overflow-hidden min-w-0">
         {/* Table Header */}
         <div className="grid h-11 grid-cols-[2.5rem_1fr_auto] sm:grid-cols-[3rem_2fr_5rem_5rem_1fr] items-center border-b border-border dark:border-border/40 bg-muted/50 dark:bg-muted/30 px-3 sm:px-4 text-[10px] font-bold uppercase tracking-[0.15em] text-muted-foreground">
           <span>#</span>
