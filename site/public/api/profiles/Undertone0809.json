@@ -1,0 +1,152 @@
+{
+  "username": "Undertone0809",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/72488598?u=e555d8a515c5804f2a794ae68d317e2f47603489&v=4",
+  "githubUrl": "https://github.com/Undertone0809",
+  "score": {
+    "score": 111.07,
+    "prScore": 105.57,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 961,
+    "prDeletions": 49,
+    "prChangedFiles": 34,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T16:31:39Z",
+  "lastContribution": "2026-03-07T07:34:49Z",
+  "recentPRs": [
+    {
+      "number": 38670,
+      "title": "feat(hooks): add agent-scoped internal hook policy overrides",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T07:34:49Z",
+      "mergedAt": null,
+      "additions": 578,
+      "deletions": 31,
+      "changedFiles": 22
+    },
+    {
+      "number": 37898,
+      "title": "fix(discord): ignore synthetic thread starter messages in text-channel threads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T14:20:26Z",
+      "mergedAt": null,
+      "additions": 199,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36086,
+      "title": "fix(control-ui): show effective agent for cron jobs without explicit agentId",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T12:27:03Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 35539,
+      "title": "UI: make Agents Files editor fill the right pane",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:51:53Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35238,
+      "title": "UI: persist agent model edits when config view is in raw mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T02:20:59Z",
+      "mergedAt": null,
+      "additions": 121,
+      "deletions": 17,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 33261,
+      "title": "[Bug]: /skills page shows only main agent workspace skills in multi-agent setup (misleading global scope)",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T16:31:39Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

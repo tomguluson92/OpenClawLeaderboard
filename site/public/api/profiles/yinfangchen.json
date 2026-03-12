@@ -1,0 +1,138 @@
+{
+  "username": "yinfangchen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22325534?u=78621d6d3facd935d8752760fc6d3fe07e7443bf&v=4",
+  "githubUrl": "https://github.com/yinfangchen",
+  "score": {
+    "score": 70.69,
+    "prScore": 70.69,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 907,
+    "prDeletions": 18,
+    "prChangedFiles": 14,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T08:35:59Z",
+  "lastContribution": "2026-03-04T18:10:22Z",
+  "recentPRs": [
+    {
+      "number": 34824,
+      "title": "fix(sanitize): strip leaked XML tool tags and template delimiters (#34156)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T18:10:22Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34823,
+      "title": "fix(typing): suppress typing indicator for NO_REPLY runs (#33951)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T18:10:13Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 34822,
+      "title": "fix(cron): manual run no longer shifts 'every' schedule anchor (#33940)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T18:10:05Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 7,
+      "changedFiles": 1
+    },
+    {
+      "number": 34234,
+      "title": "fix(whatsapp): use fresh config per-message instead of stale handler snapshot (#33974)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:25:52Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 6,
+      "changedFiles": 1
+    },
+    {
+      "number": 34229,
+      "title": "fix(inbound-meta): skip sender metadata for Control UI / webchat (#34153)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:21:07Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34174,
+      "title": "feat(skills): add 6 new skills \u2014 git-standup, openbb, sysinfo, url-summarizer, crontab-helper, regex-helper",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:35:59Z",
+      "mergedAt": null,
+      "additions": 850,
+      "deletions": 0,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

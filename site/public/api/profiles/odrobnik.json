@@ -1,0 +1,105 @@
+{
+  "username": "odrobnik",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/333270?u=83d168a7ea146f7f8161d8a10c4fb66ecddc022e&v=4",
+  "githubUrl": "https://github.com/odrobnik",
+  "score": {
+    "score": 22.31,
+    "prScore": 8.31,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 76,
+    "prDeletions": 3,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T12:31:28Z",
+  "lastContribution": "2026-03-06T10:36:57Z",
+  "recentPRs": [
+    {
+      "number": 31680,
+      "title": "feat(skills): enhance cursor-agent support in coding-agent skill",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-02T12:31:28Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 3,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 33504,
+      "title": "WhatsApp extension plugin sendMedia doesn't forward mediaLocalRoots (agent workspace media blocked)",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T21:21:33Z",
+      "closedAt": null
+    },
+    {
+      "number": 32804,
+      "title": "ACP sessions invisible to sessions_list when agents.list is configured",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T08:47:12Z",
+      "closedAt": "2026-03-03T21:19:20Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

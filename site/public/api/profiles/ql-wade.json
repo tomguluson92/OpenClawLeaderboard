@@ -1,0 +1,316 @@
+{
+  "username": "ql-wade",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/262266039?v=4",
+  "githubUrl": "https://github.com/ql-wade",
+  "score": {
+    "score": 342.7,
+    "prScore": 338.2,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 4.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 31,
+    "prsMerged": 2,
+    "prAdditions": 1366,
+    "prDeletions": 426,
+    "prChangedFiles": 103,
+    "prMergeRate": 6,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 9,
+    "commitAdditions": 347,
+    "commitDeletions": 25,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 9
+  },
+  "period": {
+    "weekly": {
+      "prs": 31,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 9,
+      "commitAdditions": 347,
+      "commitDeletions": 25,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 31,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 9,
+      "commitAdditions": 347,
+      "commitDeletions": 25,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-06T16:56:46Z",
+  "lastContribution": "2026-03-11T12:08:59Z",
+  "recentPRs": [
+    {
+      "number": 43160,
+      "title": "fix: UI/Chat: show full command in sidebar when clicking tool cards",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T12:08:59Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 17,
+      "changedFiles": 3
+    },
+    {
+      "number": 42773,
+      "title": "fix: fix(ci): bump tar override to patched 7.5.11",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T04:07:09Z",
+      "mergedAt": null,
+      "additions": 99,
+      "deletions": 82,
+      "changedFiles": 4
+    },
+    {
+      "number": 42582,
+      "title": "fix: fix(telegram): normalize delivery-only group chat ids",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T00:10:18Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 15,
+      "changedFiles": 4
+    },
+    {
+      "number": 42115,
+      "title": "fix: fix(models): guard optional model input capabilities ",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T12:10:42Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 41907,
+      "title": "fix: auto-reset session model fields on model config change (#41649)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T07:32:08Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 5,
+      "changedFiles": 4
+    },
+    {
+      "number": 41153,
+      "title": "fix(telegram): harden poll stall watchdog threshold",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T14:49:31Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 16,
+      "changedFiles": 4
+    },
+    {
+      "number": 41133,
+      "title": "fix(telegram): harden poll stall watchdog threshold",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T14:35:07Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 16,
+      "changedFiles": 4
+    },
+    {
+      "number": 41057,
+      "title": "fix(agents): pass agent timeout to undici stream timeouts (#41046)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:32:57Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 40896,
+      "title": "fix(ui): display token counts even when not fresh (#40809)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T11:00:26Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 3,
+      "changedFiles": 5
+    },
+    {
+      "number": 40647,
+      "title": "fix(telegram): add verbose log when mention gating drops messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T05:46:26Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 40610,
+      "title": "fix(telegram): add verbose log when mention gating drops messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T04:57:31Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 40564,
+      "title": "fix(gateway): allow localhost Control UI to connect without token",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T04:06:56Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40561,
+      "title": "fix: use atomic write for saveJsonFile to prevent JSON corruption",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T04:04:29Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 40506,
+      "title": "feat(tui): prioritize configured models in model picker",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T03:10:08Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40369,
+      "title": "fix(voice-call): add speed and instructions to OpenAI TTS config schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T23:52:27Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 40002,
+      "title": "fix: complete allowSyntheticToolResults parameter propagation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T15:29:41Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 10,
+      "changedFiles": 6
+    },
+    {
+      "number": 39773,
+      "title": "fix(session): correct totalTokensFresh flag for fallback path",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T11:35:32Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 39741,
+      "title": "fix(session): use accumulated usage as fallback for token display",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T10:50:28Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 39458,
+      "title": "fix(slack): allow unsigned url_verification challenge in HTTP mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T04:32:43Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39452,
+      "title": "fix(slack): allow unsigned url_verification challenge in HTTP mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T04:26:34Z",
+      "mergedAt": null,
+      "additions": 102,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-07": 2
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

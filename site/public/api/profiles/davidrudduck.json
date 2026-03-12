@@ -1,0 +1,226 @@
+{
+  "username": "davidrudduck",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47308254?v=4",
+  "githubUrl": "https://github.com/davidrudduck",
+  "score": {
+    "score": 238,
+    "prScore": 187,
+    "issueScore": 0,
+    "reviewScore": 51,
+    "commentScore": 0
+  },
+  "tier": "active",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 9,
+    "prs": 4,
+    "prsMerged": 1,
+    "prAdditions": 898,
+    "prDeletions": 57,
+    "prChangedFiles": 26,
+    "prMergeRate": 25,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 17,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 605,
+    "commitDeletions": 75,
+    "weeklyCommits": 1,
+    "monthlyCommits": 8,
+    "commitChangedFiles": 41
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 17,
+      "comments": 0,
+      "commitAdditions": 429,
+      "commitDeletions": 50,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 17,
+      "comments": 0,
+      "commitAdditions": 605,
+      "commitDeletions": 75,
+      "commits": 10
+    }
+  },
+  "firstContribution": "2026-03-09T18:48:22Z",
+  "lastContribution": "2026-03-11T17:29:08Z",
+  "recentPRs": [
+    {
+      "number": 43370,
+      "title": "fix(agents): deduplicate tool_use IDs when merging consecutive assistant messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T17:13:56Z",
+      "mergedAt": null,
+      "additions": 113,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 41724,
+      "title": "feat(plugins): pluggable session store adapter via plugin API",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T04:12:43Z",
+      "mergedAt": null,
+      "additions": 130,
+      "deletions": 2,
+      "changedFiles": 12
+    },
+    {
+      "number": 41723,
+      "title": "feat(sessions): JSONL transcript archival with configurable retention",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T04:12:18Z",
+      "mergedAt": null,
+      "additions": 226,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 41361,
+      "title": "fix(context-engine): guard compact() throw + fire hooks for ownsCompaction engines",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T18:48:22Z",
+      "mergedAt": "2026-03-12T03:19:20Z",
+      "additions": 429,
+      "deletions": 50,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43370,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T17:29:08Z"
+    },
+    {
+      "prNumber": 41724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:45Z"
+    },
+    {
+      "prNumber": 41724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:44Z"
+    },
+    {
+      "prNumber": 41724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:40Z"
+    },
+    {
+      "prNumber": 41724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:38Z"
+    },
+    {
+      "prNumber": 41724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:36Z"
+    },
+    {
+      "prNumber": 41723,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:26Z"
+    },
+    {
+      "prNumber": 41723,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:25Z"
+    },
+    {
+      "prNumber": 41723,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:23Z"
+    },
+    {
+      "prNumber": 41723,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:21Z"
+    },
+    {
+      "prNumber": 41723,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:20Z"
+    },
+    {
+      "prNumber": 41723,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:18Z"
+    },
+    {
+      "prNumber": 41723,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:31:17Z"
+    },
+    {
+      "prNumber": 41361,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T22:31:17Z"
+    },
+    {
+      "prNumber": 41361,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T22:31:10Z"
+    },
+    {
+      "prNumber": 41361,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T19:02:13Z"
+    },
+    {
+      "prNumber": 41361,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T19:02:11Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 1,
+    "2026-03-03": 1,
+    "2026-02-25": 1,
+    "2026-02-19": 4,
+    "2026-02-13": 3
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 12
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    }
+  }
+}

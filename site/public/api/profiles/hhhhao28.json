@@ -1,0 +1,237 @@
+{
+  "username": "hhhhao28",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/112874572?u=454aad41bd16247a0c22739a6b0f174cb81a9343&v=4",
+  "githubUrl": "https://github.com/hhhhao28",
+  "score": {
+    "score": 191.13,
+    "prScore": 137.63,
+    "issueScore": 0,
+    "reviewScore": 51,
+    "commentScore": 2.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 2490,
+    "prDeletions": 399,
+    "prChangedFiles": 40,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 17,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 17,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 17,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-11T11:39:27Z",
+  "lastContribution": "2026-03-12T04:23:47Z",
+  "recentPRs": [
+    {
+      "number": 43573,
+      "title": "fix(acp): persist initial sessions_spawn task for ACP sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T01:42:14Z",
+      "mergedAt": null,
+      "additions": 946,
+      "deletions": 107,
+      "changedFiles": 13
+    },
+    {
+      "number": 43280,
+      "title": "Clarify Telegram attachment delivery guidance in agent prompts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T15:12:03Z",
+      "mergedAt": null,
+      "additions": 523,
+      "deletions": 144,
+      "changedFiles": 13
+    },
+    {
+      "number": 43277,
+      "title": "fix(windows): avoid queued gateway restarts after schtasks /End",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T15:03:31Z",
+      "mergedAt": null,
+      "additions": 398,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 43250,
+      "title": "Control UI/Sessions: avoid \"device identity required\" disconnect when opening a session",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T14:12:30Z",
+      "mergedAt": null,
+      "additions": 196,
+      "deletions": 2,
+      "changedFiles": 7
+    },
+    {
+      "number": 43189,
+      "title": "fix(reply): isolate heartbeat transcript writes (#43168)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T13:03:30Z",
+      "mergedAt": null,
+      "additions": 395,
+      "deletions": 140,
+      "changedFiles": 3
+    },
+    {
+      "number": 43147,
+      "title": "test: cover Kimi Coding onboarding config validity",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T11:39:27Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43573,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T04:23:47Z"
+    },
+    {
+      "prNumber": 43573,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T04:19:16Z"
+    },
+    {
+      "prNumber": 43573,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T03:11:53Z"
+    },
+    {
+      "prNumber": 43573,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:34:20Z"
+    },
+    {
+      "prNumber": 43189,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:12:06Z"
+    },
+    {
+      "prNumber": 43189,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:11:59Z"
+    },
+    {
+      "prNumber": 43573,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:10:40Z"
+    },
+    {
+      "prNumber": 43280,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:06:11Z"
+    },
+    {
+      "prNumber": 43573,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T01:58:53Z"
+    },
+    {
+      "prNumber": 43280,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T01:52:03Z"
+    },
+    {
+      "prNumber": 43280,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T01:16:44Z"
+    },
+    {
+      "prNumber": 43280,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:38:37Z"
+    },
+    {
+      "prNumber": 43280,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:38:32Z"
+    },
+    {
+      "prNumber": 43277,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:35:44Z"
+    },
+    {
+      "prNumber": 43277,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:27:19Z"
+    },
+    {
+      "prNumber": 43277,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:26:56Z"
+    },
+    {
+      "prNumber": 43277,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:21:32Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 11
+    },
+    "2026-03-11": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 6
+    }
+  }
+}

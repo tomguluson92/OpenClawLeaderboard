@@ -1,0 +1,117 @@
+{
+  "username": "luka2chat",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/204259479?u=8fe852305aaa0274e440a5599254f76b802992eb&v=4",
+  "githubUrl": "https://github.com/luka2chat",
+  "score": {
+    "score": 46.01,
+    "prScore": 40.01,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 2199,
+    "prDeletions": 556,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T10:23:12Z",
+  "lastContribution": "2026-03-07T11:34:58Z",
+  "recentPRs": [
+    {
+      "number": 38788,
+      "title": "chore: update .secrets.baseline to resolve CI false positives",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T11:07:45Z",
+      "mergedAt": null,
+      "additions": 2169,
+      "deletions": 538,
+      "changedFiles": 1
+    },
+    {
+      "number": 38766,
+      "title": "fix(ui): guard against undefined cron job payload in render loop",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T10:25:42Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 10,
+      "changedFiles": 4
+    },
+    {
+      "number": 38763,
+      "title": "fix(ui): guard against undefined cron job payload in render loop",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T10:23:12Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 8,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 38766,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T11:34:58Z"
+    },
+    {
+      "prNumber": 38766,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T11:34:22Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

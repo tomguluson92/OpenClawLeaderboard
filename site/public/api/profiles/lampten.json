@@ -1,0 +1,153 @@
+{
+  "username": "lampten",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50524710?u=11b4b649b451bd0f849724a00930546a4749dfbd&v=4",
+  "githubUrl": "https://github.com/lampten",
+  "score": {
+    "score": 151.41,
+    "prScore": 124.91,
+    "issueScore": 0,
+    "reviewScore": 24,
+    "commentScore": 2.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 2814,
+    "prDeletions": 999,
+    "prChangedFiles": 42,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 8,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T00:13:34Z",
+  "lastContribution": "2026-03-10T11:35:11Z",
+  "recentPRs": [
+    {
+      "number": 41592,
+      "title": "fix(telegram): route inbound media downloads through telegram fetch wrapper",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T01:32:30Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 16,
+      "changedFiles": 3
+    },
+    {
+      "number": 40305,
+      "title": "fix(gateway): abort timed-out local browser requests",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T22:12:08Z",
+      "mergedAt": null,
+      "additions": 1117,
+      "deletions": 435,
+      "changedFiles": 9
+    },
+    {
+      "number": 39277,
+      "title": "Fix browser timeout propagation for local actions and CLI commands",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T00:13:34Z",
+      "mergedAt": null,
+      "additions": 1630,
+      "deletions": 548,
+      "changedFiles": 30
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 40305,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T22:54:53Z"
+    },
+    {
+      "prNumber": 40305,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T22:41:05Z"
+    },
+    {
+      "prNumber": 40305,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T22:41:05Z"
+    },
+    {
+      "prNumber": 39277,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T01:15:15Z"
+    },
+    {
+      "prNumber": 39277,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T00:55:25Z"
+    },
+    {
+      "prNumber": 39277,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T00:43:36Z"
+    },
+    {
+      "prNumber": 39277,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T00:33:29Z"
+    },
+    {
+      "prNumber": 39277,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T00:33:23Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 8
+    }
+  }
+}

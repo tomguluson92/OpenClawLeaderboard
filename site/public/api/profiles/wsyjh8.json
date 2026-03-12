@@ -1,0 +1,148 @@
+{
+  "username": "wsyjh8",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31175216?v=4",
+  "githubUrl": "https://github.com/wsyjh8",
+  "score": {
+    "score": 70.26,
+    "prScore": 46.76,
+    "issueScore": 5,
+    "reviewScore": 15,
+    "commentScore": 3.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 714,
+    "prDeletions": 24,
+    "prChangedFiles": 13,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 5,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 5,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T00:40:32Z",
+  "lastContribution": "2026-03-10T00:24:42Z",
+  "recentPRs": [
+    {
+      "number": 41546,
+      "title": "fix(ui): preserve gateway token when editing websocket url",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T23:59:26Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 41241,
+      "title": "fix(gateway): fail probe immediately on non-JSON ws messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T16:21:59Z",
+      "mergedAt": null,
+      "additions": 434,
+      "deletions": 15,
+      "changedFiles": 5
+    },
+    {
+      "number": 40472,
+      "title": "fix(tui): refresh on external session reset and clear stale run state",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T02:37:50Z",
+      "mergedAt": null,
+      "additions": 227,
+      "deletions": 5,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41545,
+      "title": "[Bug]: Editing WebSocket URL clears Gateway Token in Overview",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T23:58:04Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41241,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T17:17:40Z"
+    },
+    {
+      "prNumber": 41241,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T17:14:53Z"
+    },
+    {
+      "prNumber": 41241,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:58:01Z"
+    },
+    {
+      "prNumber": 41241,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:57:44Z"
+    },
+    {
+      "prNumber": 40472,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T04:46:47Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 5
+    }
+  }
+}

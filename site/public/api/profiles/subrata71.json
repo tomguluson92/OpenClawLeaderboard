@@ -1,0 +1,110 @@
+{
+  "username": "subrata71",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3524599?u=10d6fbad053ccf3478983acd35ee67cfdf741d41&v=4",
+  "githubUrl": "https://github.com/subrata71",
+  "score": {
+    "score": 24.54,
+    "prScore": 12.54,
+    "issueScore": 0,
+    "reviewScore": 12,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 420,
+    "prDeletions": 49,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T18:20:29Z",
+  "lastContribution": "2026-03-11T10:05:42Z",
+  "recentPRs": [
+    {
+      "number": 42431,
+      "title": "fix(cron): reserve job before enqueuing in enqueueRun to fix TOCTOU race",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T18:20:29Z",
+      "mergedAt": null,
+      "additions": 420,
+      "deletions": 49,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42431,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T10:05:42Z"
+    },
+    {
+      "prNumber": 42431,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T18:58:26Z"
+    },
+    {
+      "prNumber": 42431,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T18:46:03Z"
+    },
+    {
+      "prNumber": 42431,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T18:30:29Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "username": "qiyuey",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7856182?u=ab6604fa321e91b8e8d0f20dc0818e2ff02a8da5&v=4",
+  "githubUrl": "https://github.com/qiyuey",
+  "score": {
+    "score": 76.52,
+    "prScore": 55.52,
+    "issueScore": 13,
+    "reviewScore": 6,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 576,
+    "prDeletions": 20,
+    "prChangedFiles": 18,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 2,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T13:03:59Z",
+  "lastContribution": "2026-03-04T16:33:17Z",
+  "recentPRs": [
+    {
+      "number": 34170,
+      "title": "fix(webchat): clear chatStream before updating chatMessages to prevent duplicate rendering",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:31:06Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 34164,
+      "title": "fix(webchat): clear chatStream before updating chatMessages to prevent duplicate rendering",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:24:31Z",
+      "mergedAt": null,
+      "additions": 455,
+      "deletions": 8,
+      "changedFiles": 14
+    },
+    {
+      "number": 33040,
+      "title": "fix(daemon): stop execFileUtf8 from polluting stderr with Node.js error message",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T13:14:55Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 4,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 34413,
+      "title": "bug: webchat replies duplicate in transcript when cross-channel delivery fails with 'message to be replied not found'",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T12:26:16Z",
+      "closedAt": null
+    },
+    {
+      "number": 33020,
+      "title": "gateway install fails on Linux: execFileUtf8 pollutes stderr, causing isSystemdUnitNotEnabled() to miss stdout",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T13:03:59Z",
+      "closedAt": "2026-03-04T21:06:59Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 34640,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T16:33:17Z"
+    },
+    {
+      "prNumber": 34470,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T16:30:14Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 2
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

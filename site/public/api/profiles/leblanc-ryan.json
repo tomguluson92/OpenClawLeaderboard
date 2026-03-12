@@ -1,0 +1,105 @@
+{
+  "username": "leblanc-ryan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/91286009?u=21a9f59cec4e629897ed551fd7935117c40369bd&v=4",
+  "githubUrl": "https://github.com/leblanc-ryan",
+  "score": {
+    "score": 37.84,
+    "prScore": 24.34,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 593,
+    "prDeletions": 21,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T03:46:58Z",
+  "lastContribution": "2026-03-10T18:01:11Z",
+  "recentPRs": [
+    {
+      "number": 38542,
+      "title": "feat(matrix): auto cross-sign device via recovery key at startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T03:46:58Z",
+      "mergedAt": null,
+      "additions": 593,
+      "deletions": 21,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42421,
+      "title": "[Bug]: openai-completions token usage logging broken for non-native endpoints (Kimi/Moonshot) since v2026.3.3",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T18:01:11Z",
+      "closedAt": null
+    },
+    {
+      "number": 42418,
+      "title": "openai-completions token usage logging broken for non-native endpoints (Kimi/Moonshot) since v2026.3.3",
+      "state": "CLOSED",
+      "createdAt": "2026-03-10T17:56:39Z",
+      "closedAt": "2026-03-10T17:59:10Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "username": "Bartok9",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/259807879?v=4",
+  "githubUrl": "https://github.com/Bartok9",
+  "score": {
+    "score": 107.35,
+    "prScore": 100.35,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 566,
+    "prDeletions": 52,
+    "prChangedFiles": 23,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-27T18:48:49Z",
+  "lastContribution": "2026-03-10T08:38:51Z",
+  "recentPRs": [
+    {
+      "number": 41969,
+      "title": "fix(browser): return host URL from resolveBrowserBaseUrl instead of undefined",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T08:38:51Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 19,
+      "changedFiles": 2
+    },
+    {
+      "number": 40779,
+      "title": "fix(tui): strip <think> tags from text content when thinking is disabled",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T08:36:34Z",
+      "mergedAt": null,
+      "additions": 107,
+      "deletions": 11,
+      "changedFiles": 4
+    },
+    {
+      "number": 39636,
+      "title": "fix(messages): add suppressMutatingToolErrorWarnings config option",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T08:38:40Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 1,
+      "changedFiles": 6
+    },
+    {
+      "number": 37568,
+      "title": "fix(security): redact resolved secrets from models.json",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:37:46Z",
+      "mergedAt": null,
+      "additions": 247,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35852,
+      "title": "fix(security): add Russian Cyrillic SYSTEM locale for Windows ACL audit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T09:35:01Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 34246,
+      "title": "fix(daemon): handle generic 'command failed' error for systemctl --user",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:36:07Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 32846,
+      "title": "fix(browser): add missing return statement in resolveBrowserBaseUrl for host target",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T09:38:01Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 15,
+      "changedFiles": 2
+    },
+    {
+      "number": 31764,
+      "title": "fix(config): clean up backup files after successful write",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T14:17:31Z",
+      "mergedAt": null,
+      "additions": 87,
+      "deletions": 2,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 29311,
+      "title": "xAI model catalog missing grok-4-1-fast-reasoning and other Grok 4.1 models",
+      "state": "OPEN",
+      "createdAt": "2026-02-28T02:00:44Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-02-28": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

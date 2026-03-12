@@ -1,0 +1,124 @@
+{
+  "username": "joeykrug",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5925937?v=4",
+  "githubUrl": "https://github.com/joeykrug",
+  "score": {
+    "score": 167.31,
+    "prScore": 160.81,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 3,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 2845,
+    "prDeletions": 171,
+    "prChangedFiles": 48,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 1041,
+    "commitDeletions": 51,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 20
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 1041,
+      "commitDeletions": 51,
+      "commits": 3
+    }
+  },
+  "firstContribution": "2026-03-05T19:33:35Z",
+  "lastContribution": "2026-03-08T07:29:39Z",
+  "recentPRs": [
+    {
+      "number": 39212,
+      "title": "fix(signal): forward all inbound attachments instead of only the first",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:43:50Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 28,
+      "changedFiles": 1
+    },
+    {
+      "number": 39204,
+      "title": "fix(signal): forward all inbound attachments instead of only the first",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:37:50Z",
+      "mergedAt": null,
+      "additions": 458,
+      "deletions": 41,
+      "changedFiles": 10
+    },
+    {
+      "number": 36630,
+      "title": "fix(signal): complete bidirectional quote-reply support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T19:36:35Z",
+      "mergedAt": null,
+      "additions": 2327,
+      "deletions": 102,
+      "changedFiles": 37
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 36628,
+      "title": "[Signal] Native quote-reply support missing \u2014 replyTo tag stripped but not translated to signal-cli quote params",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T19:33:35Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-13": 2,
+    "2026-02-12": 1
+  },
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

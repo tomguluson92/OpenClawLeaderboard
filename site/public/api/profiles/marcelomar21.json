@@ -1,0 +1,102 @@
+{
+  "username": "marcelomar21",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39570728?u=780b9d04916a7c6e064f803a58649ac78d32b218&v=4",
+  "githubUrl": "https://github.com/marcelomar21",
+  "score": {
+    "score": 24,
+    "prScore": 20.5,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 211,
+    "prDeletions": 14,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-11T17:34:29Z",
+  "lastContribution": "2026-03-11T17:51:24Z",
+  "recentPRs": [
+    {
+      "number": 43390,
+      "title": "fix(cron): prune resolved storeLocks entries to prevent unbounded Map growth",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T17:51:24Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43386,
+      "title": "refactor(cron): replace promise chaining with deferred promises in locked()",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T17:34:29Z",
+      "mergedAt": null,
+      "additions": 148,
+      "deletions": 13,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43386,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T17:45:34Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

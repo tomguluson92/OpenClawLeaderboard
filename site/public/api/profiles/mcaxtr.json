@@ -1,0 +1,386 @@
+{
+  "username": "mcaxtr",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7562095?v=4",
+  "githubUrl": "https://github.com/mcaxtr",
+  "score": {
+    "score": 578.38,
+    "prScore": 450.88,
+    "issueScore": 79,
+    "reviewScore": 39,
+    "commentScore": 9.5
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 51,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 2830,
+    "prDeletions": 436,
+    "prChangedFiles": 55,
+    "prMergeRate": 0,
+    "issues": 14,
+    "issuesClosed": 3,
+    "reviews": 13,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 19,
+    "commitAdditions": 7173,
+    "commitDeletions": 777,
+    "weeklyCommits": 1,
+    "monthlyCommits": 19,
+    "commitChangedFiles": 200
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 11,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 14,
+      "reviews": 13,
+      "comments": 19,
+      "commitAdditions": 6777,
+      "commitDeletions": 637,
+      "commits": 46
+    }
+  },
+  "firstContribution": "2026-03-01T16:23:09Z",
+  "lastContribution": "2026-03-10T07:12:54Z",
+  "recentPRs": [
+    {
+      "number": 39483,
+      "title": "fix(media): trim structured MEDIA tails",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T04:52:33Z",
+      "mergedAt": null,
+      "additions": 236,
+      "deletions": 52,
+      "changedFiles": 2
+    },
+    {
+      "number": 39430,
+      "title": "fix(auth): canonicalize new OpenAI Codex login profile ids",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T03:47:02Z",
+      "mergedAt": null,
+      "additions": 408,
+      "deletions": 21,
+      "changedFiles": 7
+    },
+    {
+      "number": 35451,
+      "title": "refactor: canonicalize chat.send/cron route derivation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:42:06Z",
+      "mergedAt": null,
+      "additions": 1009,
+      "deletions": 170,
+      "changedFiles": 12
+    },
+    {
+      "number": 33668,
+      "title": "refactor(command-auth): canonical commands.allowFrom enforcement foundation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T00:24:40Z",
+      "mergedAt": null,
+      "additions": 492,
+      "deletions": 35,
+      "changedFiles": 5
+    },
+    {
+      "number": 33156,
+      "title": "fix(telegram): canonicalize native command auth precedence",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T15:14:10Z",
+      "mergedAt": null,
+      "additions": 288,
+      "deletions": 27,
+      "changedFiles": 4
+    },
+    {
+      "number": 32173,
+      "title": "refactor(attempt): consolidate streamFn sanitizer wrappers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T21:11:58Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 51,
+      "changedFiles": 2
+    },
+    {
+      "number": 32067,
+      "title": "refactor(session): consolidate findExistingTranscriptPath helper",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T19:04:08Z",
+      "mergedAt": null,
+      "additions": 143,
+      "deletions": 11,
+      "changedFiles": 5
+    },
+    {
+      "number": 31874,
+      "title": "refactor: consolidate DM policy config-path resolution into shared SDK helper",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T16:09:42Z",
+      "mergedAt": null,
+      "additions": 214,
+      "deletions": 69,
+      "changedFiles": 18
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 35419,
+      "title": "[Bug]: Stop button clears unsent web chat draft input",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T04:18:57Z",
+      "closedAt": null
+    },
+    {
+      "number": 35418,
+      "title": "[Bug]: Node pairing requests from WebSocket path are not consistently actionable",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T04:18:21Z",
+      "closedAt": null
+    },
+    {
+      "number": 35416,
+      "title": "[Bug]: guard missing model.input in model list/scan paths",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T04:17:31Z",
+      "closedAt": "2026-03-08T02:20:26Z"
+    },
+    {
+      "number": 32171,
+      "title": "[Feature]: Canonical wrapStreamFnWithMessageSanitizer helper to eliminate inline streamFn sanitizer duplication in attempt.ts",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T21:09:56Z",
+      "closedAt": null
+    },
+    {
+      "number": 32064,
+      "title": "[Feature]: Consolidate transcript path resolution into a single canonical helper",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T19:02:01Z",
+      "closedAt": null
+    },
+    {
+      "number": 31869,
+      "title": "[Feature]: consolidate channel extension DM policy config-path resolution into shared helper",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T16:06:25Z",
+      "closedAt": "2026-03-04T15:09:41Z"
+    },
+    {
+      "number": 31259,
+      "title": "[Feature]: Extract shared helpers from session-cost-usage.ts to enable multi-agent and deleted-session fixes",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T04:03:21Z",
+      "closedAt": null
+    },
+    {
+      "number": 31155,
+      "title": "[Refactor]: Extract shared batch embedding lifecycle from OpenAI/Voyage/Gemini providers",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T01:52:24Z",
+      "closedAt": null
+    },
+    {
+      "number": 31014,
+      "title": "[Refactor]: Consolidate QMD subprocess spawning \u2014 unify runQmd and runMcporter",
+      "state": "OPEN",
+      "createdAt": "2026-03-01T22:14:09Z",
+      "closedAt": null
+    },
+    {
+      "number": 30967,
+      "title": "[Refactor]: Unify channel account-list helpers with binding-aware default resolution",
+      "state": "OPEN",
+      "createdAt": "2026-03-01T20:50:43Z",
+      "closedAt": null
+    },
+    {
+      "number": 30956,
+      "title": "[Bug]: sessions_send announce uses wrong Slack accountId in multi-account setups",
+      "state": "CLOSED",
+      "createdAt": "2026-03-01T20:34:38Z",
+      "closedAt": "2026-03-02T01:21:06Z"
+    },
+    {
+      "number": 30898,
+      "title": "[Refactor]: Consolidate config defaults pipeline into single function",
+      "state": "OPEN",
+      "createdAt": "2026-03-01T18:59:04Z",
+      "closedAt": null
+    },
+    {
+      "number": 30798,
+      "title": "[Refactor]: Extract patchAgentDefaults helper to eliminate 28-site config spread duplication",
+      "state": "OPEN",
+      "createdAt": "2026-03-01T16:29:47Z",
+      "closedAt": null
+    },
+    {
+      "number": 30784,
+      "title": "hooks: unify internal + plugin hook registries to fix 5 systemic bugs",
+      "state": "OPEN",
+      "createdAt": "2026-03-01T16:23:09Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 39483,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T05:09:18Z"
+    },
+    {
+      "prNumber": 39483,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T05:09:17Z"
+    },
+    {
+      "prNumber": 39483,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T05:01:36Z"
+    },
+    {
+      "prNumber": 39430,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T04:01:12Z"
+    },
+    {
+      "prNumber": 39430,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T03:56:45Z"
+    },
+    {
+      "prNumber": 39430,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T03:56:38Z"
+    },
+    {
+      "prNumber": 39430,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T03:56:08Z"
+    },
+    {
+      "prNumber": 35451,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T05:39:11Z"
+    },
+    {
+      "prNumber": 35451,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T05:39:05Z"
+    },
+    {
+      "prNumber": 35451,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T05:22:14Z"
+    },
+    {
+      "prNumber": 35451,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T05:21:48Z"
+    },
+    {
+      "prNumber": 33668,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T01:29:57Z"
+    },
+    {
+      "prNumber": 33668,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T01:29:32Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-02": 3,
+    "2026-02-24": 7,
+    "2026-02-22": 2,
+    "2026-02-20": 2,
+    "2026-02-19": 1,
+    "2026-02-16": 3,
+    "2026-02-15": 1,
+    "2026-02-14": 3,
+    "2026-02-13": 18,
+    "2026-02-12": 4,
+    "2026-02-11": 2,
+    "2026-02-10": 1,
+    "2026-02-09": 1,
+    "2026-02-07": 2,
+    "2026-02-05": 1
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 4
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 3,
+      "issues": 5,
+      "reviews": 0
+    },
+    "2026-03-01": {
+      "prs": 0,
+      "issues": 6,
+      "reviews": 0
+    }
+  }
+}

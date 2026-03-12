@@ -1,0 +1,164 @@
+{
+  "username": "who96",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44131846?u=d0936f57843854f3ce47f2c2c826e25a6c2d4960&v=4",
+  "githubUrl": "https://github.com/who96",
+  "score": {
+    "score": 167.57,
+    "prScore": 135.57,
+    "issueScore": 0,
+    "reviewScore": 27,
+    "commentScore": 5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 1197,
+    "prDeletions": 104,
+    "prChangedFiles": 55,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 9,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 9,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 9,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-06T11:06:02Z",
+  "lastContribution": "2026-03-07T19:43:41Z",
+  "recentPRs": [
+    {
+      "number": 38232,
+      "title": "fix(auto-reply): add unified outbound text sanitizer for NO_REPLY and streaming leaks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T17:42:27Z",
+      "mergedAt": null,
+      "additions": 200,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 38173,
+      "title": "refactor(agents): unify canonical codex model facts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T16:55:21Z",
+      "mergedAt": null,
+      "additions": 370,
+      "deletions": 54,
+      "changedFiles": 5
+    },
+    {
+      "number": 37940,
+      "title": "fix(agents): unify Think/Reasoning defaults via shared resolveReasoningDefault helper",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T14:50:30Z",
+      "mergedAt": null,
+      "additions": 320,
+      "deletions": 25,
+      "changedFiles": 21
+    },
+    {
+      "number": 37674,
+      "title": "[codex] Add GPT-5.4 Codex support and fix status-card reasoning defaults",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T11:06:02Z",
+      "mergedAt": null,
+      "additions": 307,
+      "deletions": 16,
+      "changedFiles": 26
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 38232,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T19:13:36Z"
+    },
+    {
+      "prNumber": 38232,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T19:13:32Z"
+    },
+    {
+      "prNumber": 38232,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T19:13:30Z"
+    },
+    {
+      "prNumber": 38232,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T19:13:27Z"
+    },
+    {
+      "prNumber": 38232,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T19:13:25Z"
+    },
+    {
+      "prNumber": 38173,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T19:13:22Z"
+    },
+    {
+      "prNumber": 38173,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T19:13:19Z"
+    },
+    {
+      "prNumber": 37940,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T19:13:16Z"
+    },
+    {
+      "prNumber": 37940,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T19:13:13Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 9
+    }
+  }
+}

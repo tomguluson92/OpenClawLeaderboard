@@ -1,0 +1,545 @@
+{
+  "username": "bmendonca3",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/208517100?v=4",
+  "githubUrl": "https://github.com/bmendonca3",
+  "score": {
+    "score": 4139.53,
+    "prScore": 3850.03,
+    "issueScore": 184,
+    "reviewScore": 24,
+    "commentScore": 81.5
+  },
+  "tier": "elite",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 69,
+    "prs": 475,
+    "prsMerged": 13,
+    "prAdditions": 11427,
+    "prDeletions": 684,
+    "prChangedFiles": 700,
+    "prMergeRate": 3,
+    "issues": 29,
+    "issuesClosed": 13,
+    "reviews": 8,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 163,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 374,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 40,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 475,
+      "issues": 29,
+      "reviews": 8,
+      "comments": 163,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T15:50:36Z",
+  "lastContribution": "2026-03-06T17:08:28Z",
+  "recentPRs": [
+    {
+      "number": 38198,
+      "title": "[Issue #38083] [Bug]: Slack channel auth failures cause retry storm without backoff, degrading other channels",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:08:28Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38197,
+      "title": "[Issue #38090] [Bug] OpenClaw UI WebSocket reconnect \u5bfc\u81f4\u4f1a\u8bdd terminated",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:08:27Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38196,
+      "title": "[Issue #38091] [Bug] OpenClaw UI WebSocket reconnect \u5bfc\u81f4\u4f1a\u8bdd terminated",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:08:26Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38195,
+      "title": "[Issue #38120] Compaction fails with 'Unknown model: openai-codex/gpt-5.4-pro'",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:08:24Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38194,
+      "title": "[Issue #38124] [Bug]: Node host cannot pair: \"pairing required\" while \"openclaw nodes pending\" is always empty (Oracle Cloud Ubuntu)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:08:11Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38193,
+      "title": "[Issue #38126] [Bug]: Matrix cannot connect to private server",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:08:10Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38192,
+      "title": "[Issue #38133] CC Chat: /usage footer and responseUsage line not appearing in agent replies",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:08:09Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38191,
+      "title": "[Issue #38138] Feature request: mention-based agent routing override",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:08:07Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38190,
+      "title": "[Issue #38141] Discord thread-bound subagent session binding fails (session mode unavailable)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:07:56Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38189,
+      "title": "[Issue #38145] maxConcurrent setting has no effect on Telegram message processing (code-splitting issue)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:07:54Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38188,
+      "title": "[Issue #38155] web_search tool returns 'fetch failed' while web_fetch works",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:07:53Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38187,
+      "title": "[Issue #38166] Bootstrap agent attempts to write local files via messaging tool",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:07:52Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38186,
+      "title": "[Issue #38168] [Bug]: Erroenous HTTP 400 errors when using Venice.AI due to too high hard-coded max_completion_tokens",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:07:42Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38185,
+      "title": "[Issue #38169] ugc-factory-01 node cannot connect: DNS resolution failure for Tailscale MagicDNS",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:07:41Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38184,
+      "title": "[Issue #38171] feat: support per-agent thinkingDefault configuration",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:07:40Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38183,
+      "title": "[Issue #38179] [Bug] Discord channel exec fails with gateway token mismatch",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:07:38Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38114,
+      "title": "[Issue #38022] [Bug]: Secret Provider Configuration Has \"Chicken and Egg\" Validation Problem",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:08:23Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38113,
+      "title": "[Issue #38038] [Feature Request] Agent Pack \u2014 shareable workspace templates for OpenClaw",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:08:22Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38112,
+      "title": "[Issue #38040] [Bug] Cron job with kimi-coding/k2p5 model fails with \"35 validation errors\"",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:08:20Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38110,
+      "title": "[Issue #38045] feat(slack): Add `mode: \"mux\"` for WebSocket-based event delivery via external multiplexer",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:08:06Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 36626,
+      "title": "[Bug]: UI node tests fail on import-time localStorage access",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T19:32:22Z",
+      "closedAt": null
+    },
+    {
+      "number": 36620,
+      "title": "[Bug]: UI lifecycle node tests cannot run under ui/vitest.node.config",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T19:26:29Z",
+      "closedAt": null
+    },
+    {
+      "number": 36581,
+      "title": "[Bug]: Feishu media extension fails typecheck after SDK request option change",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T18:46:55Z",
+      "closedAt": null
+    },
+    {
+      "number": 35066,
+      "title": "[Bug]: pnpm check fails on main due formatting drift in src/i18n/registry.test.ts",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T23:34:12Z",
+      "closedAt": "2026-03-07T22:04:51Z"
+    },
+    {
+      "number": 35063,
+      "title": "[Bug]: web_search Grok parser crashes on malformed output entries",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T23:32:31Z",
+      "closedAt": null
+    },
+    {
+      "number": 35051,
+      "title": "[Bug]: openai-ws input conversion crashes on malformed content entries",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T23:20:27Z",
+      "closedAt": null
+    },
+    {
+      "number": 35045,
+      "title": "[Bug]: openai-ws response parser crashes on malformed message content entries",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T23:17:30Z",
+      "closedAt": null
+    },
+    {
+      "number": 35032,
+      "title": "[Bug]: promoteThinkingTagsToBlocks crashes on malformed assistant content entries",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T22:38:15Z",
+      "closedAt": "2026-03-05T05:37:34Z"
+    },
+    {
+      "number": 35026,
+      "title": "[Bug]: Context pruning crashes on malformed thinking block",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T22:32:00Z",
+      "closedAt": "2026-03-05T05:52:25Z"
+    },
+    {
+      "number": 35017,
+      "title": "[Bug]: Context pruning crashes on malformed text content block",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T22:13:29Z",
+      "closedAt": "2026-03-05T06:08:43Z"
+    },
+    {
+      "number": 33611,
+      "title": "[Bug]: LINE send helpers ignore caller cfg and reload config snapshot",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T23:17:55Z",
+      "closedAt": "2026-03-04T06:46:33Z"
+    },
+    {
+      "number": 33604,
+      "title": "[Bug]: WhatsApp outbound helper ignores caller cfg and always reloads config",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T23:12:36Z",
+      "closedAt": "2026-03-04T06:46:30Z"
+    },
+    {
+      "number": 33599,
+      "title": "[Bug]: Mattermost outbound send path ignores resolved cfg (SecretRef token can fail)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T23:03:48Z",
+      "closedAt": "2026-03-04T06:46:28Z"
+    },
+    {
+      "number": 33596,
+      "title": "[Bug]: IRC outbound send path ignores resolved cfg (SecretRef password can fail)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T23:00:00Z",
+      "closedAt": "2026-03-04T06:46:26Z"
+    },
+    {
+      "number": 33589,
+      "title": "[Bug]: Nextcloud Talk outbound send path ignores resolved cfg (SecretRef fails in message send)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T22:54:33Z",
+      "closedAt": "2026-03-04T06:46:24Z"
+    },
+    {
+      "number": 33580,
+      "title": "[Bug]: Google Chat extension sendMedia ignores mediaLocalRoots for local media paths",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T22:43:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 33572,
+      "title": "[Bug]: Feishu extension outbound sendText/sendMedia drops reply target context",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T22:38:47Z",
+      "closedAt": null
+    },
+    {
+      "number": 33561,
+      "title": "[Bug]: Mattermost extension outbound sendText/sendMedia ignores threadId fallback",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T22:27:40Z",
+      "closedAt": null
+    },
+    {
+      "number": 33554,
+      "title": "[Bug]: Discord extension outbound sendText/sendMedia/sendPoll ignores threadId",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T22:22:29Z",
+      "closedAt": null
+    },
+    {
+      "number": 33548,
+      "title": "[Bug]: Slack extension outbound sendText/sendMedia doesn't forward identity",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T22:18:05Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 31862,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T22:20:55Z"
+    },
+    {
+      "prNumber": 31862,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T22:20:53Z"
+    },
+    {
+      "prNumber": 32172,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T22:19:43Z"
+    },
+    {
+      "prNumber": 32174,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T22:18:19Z"
+    },
+    {
+      "prNumber": 32174,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T22:18:13Z"
+    },
+    {
+      "prNumber": 32178,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T22:16:52Z"
+    },
+    {
+      "prNumber": 32186,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T22:15:35Z"
+    },
+    {
+      "prNumber": 32210,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T22:08:57Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "pr-legend",
+      "label": "PR Legend",
+      "description": "100+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "issue-tracker",
+      "label": "Issue Tracker",
+      "description": "20+ issues filed"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 7,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 10,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 8
+    }
+  }
+}

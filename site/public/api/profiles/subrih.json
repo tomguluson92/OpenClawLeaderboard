@@ -1,0 +1,155 @@
+{
+  "username": "subrih",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3961556?v=4",
+  "githubUrl": "https://github.com/subrih",
+  "score": {
+    "score": 121.25,
+    "prScore": 106.25,
+    "issueScore": 5,
+    "reviewScore": 3,
+    "commentScore": 7
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 2705,
+    "prDeletions": 37,
+    "prChangedFiles": 30,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 14,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 14,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 14,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T23:59:17Z",
+  "lastContribution": "2026-03-11T02:43:02Z",
+  "recentPRs": [
+    {
+      "number": 42653,
+      "title": "feat(fs): path-scoped RWX permissions for file and exec tools",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T01:48:58Z",
+      "mergedAt": null,
+      "additions": 2392,
+      "deletions": 13,
+      "changedFiles": 22
+    },
+    {
+      "number": 39475,
+      "title": "fix(plugins): suppress duplicate-id warning when user plugin shadows bundled",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T04:46:58Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 39410,
+      "title": "fix(gateway): auto-create transcript file in chat.inject when missing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T03:12:07Z",
+      "mergedAt": null,
+      "additions": 159,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39308,
+      "title": "fix(telegram): forward resolved cfg to send/delete/edit/sticker functions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T00:57:14Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 39290,
+      "title": "fix(voice-call): use ?? instead of || for TTS speed config default",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T00:31:42Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 11,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39979,
+      "title": "[Feature]: Path-scoped RWX permissions for exec and file tools",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T15:15:27Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 39475,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T05:21:47Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 4,
+      "issues": 1,
+      "reviews": 1
+    }
+  }
+}

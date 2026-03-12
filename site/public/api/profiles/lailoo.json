@@ -1,0 +1,177 @@
+{
+  "username": "lailoo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20536249?v=4",
+  "githubUrl": "https://github.com/lailoo",
+  "score": {
+    "score": 239.89,
+    "prScore": 236.39,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 3.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 25,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 704,
+    "prDeletions": 26,
+    "prChangedFiles": 28,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-28T18:44:20Z",
+  "lastContribution": "2026-03-06T14:31:19Z",
+  "recentPRs": [
+    {
+      "number": 37911,
+      "title": "fix(subagents): enforce config runTimeoutSeconds as minimum floor (#37902)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:31:19Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 35079,
+      "title": "fix(gateway): use 4-hour threshold for iMessage health monitor",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T00:03:40Z",
+      "mergedAt": null,
+      "additions": 78,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 34504,
+      "title": "fix(agents): allow workspace symlinks between sibling .openclaw directories",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T13:59:19Z",
+      "mergedAt": null,
+      "additions": 188,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 34491,
+      "title": "fix(slack): suppress implicit thread mentions when requireMention is true",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T13:47:04Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 34486,
+      "title": "fix(ui): add confirmation dialog for New Session button",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T13:42:23Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 34480,
+      "title": "fix(slack): always pass threadId to readSlackMessages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T13:37:37Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 16,
+      "changedFiles": 5
+    },
+    {
+      "number": 33248,
+      "title": "fix(telegram): groupPolicy='open' should not require mention (#33218)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T16:22:15Z",
+      "mergedAt": null,
+      "additions": 221,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 33190,
+      "title": "fix(cli): add tui.deliver config option (#33102)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T15:40:31Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 2,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

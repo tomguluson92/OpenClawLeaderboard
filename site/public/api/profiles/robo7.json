@@ -1,0 +1,93 @@
+{
+  "username": "robo7",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11325956?v=4",
+  "githubUrl": "https://github.com/robo7",
+  "score": {
+    "score": 22.03,
+    "prScore": 13.53,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 222,
+    "prDeletions": 8,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T04:31:22Z",
+  "lastContribution": "2026-03-09T08:01:20Z",
+  "recentPRs": [
+    {
+      "number": 38614,
+      "title": "fix: persist transcript for ACP agent run outputs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T05:49:30Z",
+      "mergedAt": null,
+      "additions": 222,
+      "deletions": 8,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 38565,
+      "title": "Bug: ACP Claude run accepted but child session history stays empty after env is fixed",
+      "state": "CLOSED",
+      "createdAt": "2026-03-07T04:31:22Z",
+      "closedAt": "2026-03-08T18:37:01Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

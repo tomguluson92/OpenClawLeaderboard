@@ -1,0 +1,105 @@
+{
+  "username": "NibbinNone",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/115966484?v=4",
+  "githubUrl": "https://github.com/NibbinNone",
+  "score": {
+    "score": 23.65,
+    "prScore": 23.65,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 12,
+    "prDeletions": 6,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T11:54:50Z",
+  "lastContribution": "2026-03-05T16:20:07Z",
+  "recentPRs": [
+    {
+      "number": 36420,
+      "title": "fix: normalizeToolParams file_path alias skipped when path is empty string [AI-assisted]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T16:20:07Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 36072,
+      "title": "fix: normalizeToolParams treats empty string aliases as absent [AI-assisted]",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T12:12:36Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 36050,
+      "title": "fix: ignore empty string for legacy to/channelId params [AI-assisted]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T11:54:50Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

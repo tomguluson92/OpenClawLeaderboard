@@ -1,0 +1,151 @@
+{
+  "username": "yfge",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1186273?u=8c79b8f6b210f9a4a5100834873d5d03310b1978&v=4",
+  "githubUrl": "https://github.com/yfge",
+  "score": {
+    "score": 100.68,
+    "prScore": 98.18,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 2.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 1,
+    "prAdditions": 526,
+    "prDeletions": 4,
+    "prChangedFiles": 18,
+    "prMergeRate": 20,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5,
+    "commitAdditions": 248,
+    "commitDeletions": 23,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 12
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 5,
+      "commitAdditions": 63,
+      "commitDeletions": 1,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 5,
+      "commitAdditions": 248,
+      "commitDeletions": 23,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-06T15:24:27Z",
+  "lastContribution": "2026-03-11T08:45:05Z",
+  "recentPRs": [
+    {
+      "number": 42988,
+      "title": "test(gateway): guard spawnedBy support for agent-scoped subagent/acp sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T08:45:05Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 41678,
+      "title": "fix(feishu): include interactive card content in inbound messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T03:17:15Z",
+      "mergedAt": null,
+      "additions": 113,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39547,
+      "title": "fix(gateway): circuit-break outbound duplicate sends",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T06:24:09Z",
+      "mergedAt": null,
+      "additions": 230,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 38535,
+      "title": "fix(gateway): invalidate bootstrap cache on session rollover",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T03:34:46Z",
+      "mergedAt": "2026-03-07T05:46:02Z",
+      "additions": 63,
+      "deletions": 1,
+      "changedFiles": 7
+    },
+    {
+      "number": 38026,
+      "title": "fix(openai): Enable gpt-5.4 support via Chat Completions fallback on scope error",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:24:27Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 1,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-07": 1,
+    "2026-02-28": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

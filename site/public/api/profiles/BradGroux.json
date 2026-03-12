@@ -1,0 +1,152 @@
+{
+  "username": "BradGroux",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3053586?u=55d4112802fcae06d1b21074709f32cdfa5fe6c7&v=4",
+  "githubUrl": "https://github.com/BradGroux",
+  "score": {
+    "score": 74.64,
+    "prScore": 43.64,
+    "issueScore": 13,
+    "reviewScore": 9,
+    "commentScore": 9
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 379,
+    "prDeletions": 210,
+    "prChangedFiles": 7,
+    "prMergeRate": 33,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 18,
+    "commitAdditions": 96,
+    "commitDeletions": 12,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 3,
+      "comments": 18,
+      "commitAdditions": 96,
+      "commitDeletions": 12,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 3,
+      "comments": 18,
+      "commitAdditions": 96,
+      "commitDeletions": 12,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-09T10:28:07Z",
+  "lastContribution": "2026-03-10T18:24:55Z",
+  "recentPRs": [
+    {
+      "number": 41838,
+      "title": "fix(msteams): use General channel conversation ID as team key for Bot Framework compatibility",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T06:21:55Z",
+      "mergedAt": "2026-03-10T08:13:41Z",
+      "additions": 96,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 41836,
+      "title": "fix(msteams): use General channel conversation ID as team key for Bot Framework compatibility",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T06:20:16Z",
+      "mergedAt": null,
+      "additions": 70,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 41453,
+      "title": "fix(msteams): use General channel conversation ID as team key for Bot Framework compatibility",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T21:32:04Z",
+      "mergedAt": null,
+      "additions": 213,
+      "deletions": 186,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41390,
+      "title": "MS Teams: startup resolution stores Graph group GUID as team key, but Bot Framework sends General channel conversation ID \u2014 all channel messages silently dropped",
+      "state": "CLOSED",
+      "createdAt": "2026-03-09T19:37:28Z",
+      "closedAt": "2026-03-10T08:13:43Z"
+    },
+    {
+      "number": 40865,
+      "title": "feat(msteams): Implement read and search message actions for Teams channel",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T10:28:07Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41838,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T06:45:24Z"
+    },
+    {
+      "prNumber": 41838,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T06:43:37Z"
+    },
+    {
+      "prNumber": 41838,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T06:40:17Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-10": 1
+  },
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

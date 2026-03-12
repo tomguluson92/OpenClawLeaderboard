@@ -1,0 +1,200 @@
+{
+  "username": "jackal092927",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3854860?v=4",
+  "githubUrl": "https://github.com/jackal092927",
+  "score": {
+    "score": 176.82,
+    "prScore": 175.82,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 11,
+    "prsMerged": 0,
+    "prAdditions": 1400,
+    "prDeletions": 109,
+    "prChangedFiles": 45,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T18:21:09Z",
+  "lastContribution": "2026-03-10T01:31:38Z",
+  "recentPRs": [
+    {
+      "number": 41450,
+      "title": "fix(codex): normalize openai-codex transport in all remaining runtime paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T21:27:16Z",
+      "mergedAt": null,
+      "additions": 536,
+      "deletions": 66,
+      "changedFiles": 10
+    },
+    {
+      "number": 41449,
+      "title": "fix(memory): allow localhost/private-network Ollama endpoints for embeddings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T21:26:53Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 41448,
+      "title": "fix(openai-completions): flatten assistant content arrays to plain strings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T21:26:30Z",
+      "mergedAt": null,
+      "additions": 160,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 41419,
+      "title": "fix(discord): preserve MIME type on uploads and skip WebP optimization",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T20:37:23Z",
+      "mergedAt": null,
+      "additions": 91,
+      "deletions": 17,
+      "changedFiles": 6
+    },
+    {
+      "number": 41398,
+      "title": "fix(models): strip google/ provider prefix before sending model ID to Google API",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T20:08:23Z",
+      "mergedAt": null,
+      "additions": 174,
+      "deletions": 11,
+      "changedFiles": 5
+    },
+    {
+      "number": 41383,
+      "title": "fix(cron): do not misclassify empty/NO_REPLY as interim acknowledgement",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T19:20:56Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 41378,
+      "title": "fix(config): accept agents.list[].params in schema validation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T19:17:10Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 41376,
+      "title": "fix(models): report correct 1M context window for gpt-5.4 in catalog",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T19:13:52Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 41351,
+      "title": "fix(skills): restore executable bit on bundled whisper script + release-time check",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T18:23:26Z",
+      "mergedAt": null,
+      "additions": 95,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 41350,
+      "title": "fix(security): detect Gemini/Grok/Kimi env-var web search keys in audit",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T18:22:48Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 41349,
+      "title": "fix(line): suppress false-positive doctor warnings for file-backed credentials",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T18:21:09Z",
+      "mergedAt": null,
+      "additions": 120,
+      "deletions": 4,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "username": "BryanTegomoh",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/67350434?u=daba8f99aee96ae7dcb7275b0a31047bafaa9c5f&v=4",
+  "githubUrl": "https://github.com/BryanTegomoh",
+  "score": {
+    "score": 281.96,
+    "prScore": 246.96,
+    "issueScore": 0,
+    "reviewScore": 27,
+    "commentScore": 8
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 10,
+    "prsMerged": 0,
+    "prAdditions": 114378,
+    "prDeletions": 18508,
+    "prChangedFiles": 1757,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 9,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 16,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 9,
+      "comments": 16,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T22:01:59Z",
+  "lastContribution": "2026-03-09T03:11:58Z",
+  "recentPRs": [
+    {
+      "number": 39804,
+      "title": "fix: suppress doctor stdout for ACP commands",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T12:12:19Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39574,
+      "title": "fix: accept session_status sessionKey=current alias",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T07:05:22Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39425,
+      "title": "fix(agents): strip store field from payload when compat.supportsStore is false",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T03:40:05Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 39348,
+      "title": "fix: preserve explicit speed values in voice-call OpenAI TTS",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T01:33:14Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34988,
+      "title": "fix(cron): bypass pending-descendant guard for cron completion direct-send",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T21:14:24Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34905,
+      "title": "fix(gateway): forward child session node events to spawnedBy subscribers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T19:17:08Z",
+      "mergedAt": null,
+      "additions": 47889,
+      "deletions": 18246,
+      "changedFiles": 1387
+    },
+    {
+      "number": 33510,
+      "title": "fix(sessions): make sessions.list transcript reads non-blocking",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T21:34:05Z",
+      "mergedAt": null,
+      "additions": 186,
+      "deletions": 41,
+      "changedFiles": 5
+    },
+    {
+      "number": 32585,
+      "title": "fix(telegram): reuse preview message across tool-use rounds",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T05:08:33Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 32270,
+      "title": "fix(nostr): add sendMedia to outbound adapter",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-02T22:54:17Z",
+      "mergedAt": null,
+      "additions": 102,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 32212,
+      "title": "feat(i18n): add complete French language support",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T22:01:59Z",
+      "mergedAt": null,
+      "additions": 66067,
+      "deletions": 216,
+      "changedFiles": 350
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 34905,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T21:25:14Z"
+    },
+    {
+      "prNumber": 34905,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T21:25:04Z"
+    },
+    {
+      "prNumber": 32585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T19:08:08Z"
+    },
+    {
+      "prNumber": 32585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T17:06:10Z"
+    },
+    {
+      "prNumber": 32585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T17:06:02Z"
+    },
+    {
+      "prNumber": 33510,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T17:05:55Z"
+    },
+    {
+      "prNumber": 33510,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T17:05:49Z"
+    },
+    {
+      "prNumber": 32585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T05:35:52Z"
+    },
+    {
+      "prNumber": 32585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T05:35:44Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-02": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

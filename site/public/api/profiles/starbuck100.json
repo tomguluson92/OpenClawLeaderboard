@@ -1,0 +1,111 @@
+{
+  "username": "starbuck100",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25417736?u=b080da582b4974d126a9dc8278ed0422c06254d4&v=4",
+  "githubUrl": "https://github.com/starbuck100",
+  "score": {
+    "score": 65.3,
+    "prScore": 59.8,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 148,
+    "prDeletions": 5,
+    "prChangedFiles": 13,
+    "prMergeRate": 50,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 143,
+    "commitDeletions": 4,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 12
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 143,
+      "commitDeletions": 4,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 143,
+      "commitDeletions": 4,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-07T10:09:57Z",
+  "lastContribution": "2026-03-09T14:10:43Z",
+  "recentPRs": [
+    {
+      "number": 41104,
+      "title": "fix(compaction): return user-friendly reason when safeguard cancels compaction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T14:10:43Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 38753,
+      "title": "feat: allow compaction model override via config",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T10:09:57Z",
+      "mergedAt": "2026-03-08T17:47:34Z",
+      "additions": 143,
+      "deletions": 4,
+      "changedFiles": 12
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41100,
+      "title": "Compaction fails silently with 'Compaction cancelled' \u2014 safeguard returns no user-friendly reason",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T14:08:12Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-08": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

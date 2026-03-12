@@ -1,0 +1,258 @@
+{
+  "username": "xialonglee",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22994703?u=92f56ba453ac696f1117d38bf117ecd4df917eef&v=4",
+  "githubUrl": "https://github.com/xialonglee",
+  "score": {
+    "score": 201.09,
+    "prScore": 170.09,
+    "issueScore": 8,
+    "reviewScore": 12,
+    "commentScore": 11
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 10,
+    "prsMerged": 1,
+    "prAdditions": 952,
+    "prDeletions": 129,
+    "prChangedFiles": 32,
+    "prMergeRate": 10,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 22,
+    "commitAdditions": 451,
+    "commitDeletions": 31,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 12
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 11,
+      "commitAdditions": 343,
+      "commitDeletions": 26,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 10,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 22,
+      "commitAdditions": 451,
+      "commitDeletions": 31,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-03T03:16:01Z",
+  "lastContribution": "2026-03-08T07:54:20Z",
+  "recentPRs": [
+    {
+      "number": 38965,
+      "title": "fix(feishu): treat block payloads as independent deltas to avoid truncation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T15:35:50Z",
+      "mergedAt": null,
+      "additions": 316,
+      "deletions": 52,
+      "changedFiles": 2
+    },
+    {
+      "number": 38733,
+      "title": "fix(telegram): resolve session entry for /stop in forum topics",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T09:46:59Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 38533,
+      "title": "fix(agents): broaden 402 temporary-limit detection and allow billing cooldown probe",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T03:33:03Z",
+      "mergedAt": "2026-03-08T07:27:01Z",
+      "additions": 343,
+      "deletions": 26,
+      "changedFiles": 7
+    },
+    {
+      "number": 38488,
+      "title": "fix(ui): clear connectTimer in GatewayBrowserClient.stop() to prevent\u2026",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T02:30:49Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 37574,
+      "title": "perf(ui): avoid per-event array allocation in eventLogBuffer",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T09:43:49Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 34244,
+      "title": "fix(doctor): iterate all channel accounts in security warnings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:33:11Z",
+      "mergedAt": null,
+      "additions": 96,
+      "deletions": 30,
+      "changedFiles": 2
+    },
+    {
+      "number": 34165,
+      "title": "fix: omit sender metadata block for direct webchat chats",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T08:25:37Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 34113,
+      "title": "fix(gateway): prevent health monitor stale-socket restart loop in multi-account setups",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T07:29:00Z",
+      "mergedAt": null,
+      "additions": 129,
+      "deletions": 6,
+      "changedFiles": 10
+    },
+    {
+      "number": 33867,
+      "title": "fix(tui): lowercase session keys to match Gateway canonical form",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T03:44:34Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 32464,
+      "title": "fix(logging): unify console timestamps via formatConsoleTimestamp for consistent output",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T03:16:01Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 3,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 33866,
+      "title": "[BUG] Case-sensitive session key in TUI prevents real-time message display",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T03:44:16Z",
+      "closedAt": "2026-03-04T06:53:41Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 38965,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T07:49:47Z"
+    },
+    {
+      "prNumber": 38533,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T08:40:17Z"
+    },
+    {
+      "prNumber": 34113,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T03:10:47Z"
+    },
+    {
+      "prNumber": 34244,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T09:51:42Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-08": 1,
+    "2026-02-11": 1
+  },
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 4,
+      "issues": 1,
+      "reviews": 1
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

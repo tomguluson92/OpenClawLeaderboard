@@ -1,0 +1,93 @@
+{
+  "username": "liuyixin-louis",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53036760?v=4",
+  "githubUrl": "https://github.com/liuyixin-louis",
+  "score": {
+    "score": 16.25,
+    "prScore": 7.75,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 10,
+    "prDeletions": 1,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T04:24:50Z",
+  "lastContribution": "2026-03-03T16:07:00Z",
+  "recentPRs": [
+    {
+      "number": 32539,
+      "title": "fix(agents): preserve thinking block signatures for Anthropic and Bedrock Claude",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T04:33:50Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32526,
+      "title": "fix(agents): set preserveSignatures to isAnthropic in resolveTranscriptPolicy to prevent thinking block corruption",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T04:24:50Z",
+      "closedAt": "2026-03-03T16:06:59Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

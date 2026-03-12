@@ -1,0 +1,97 @@
+{
+  "username": "habakan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12531644?v=4",
+  "githubUrl": "https://github.com/habakan",
+  "score": {
+    "score": 44.43,
+    "prScore": 38.93,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 2,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 58,
+    "prDeletions": 36,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 186,
+    "commitDeletions": 489,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 186,
+      "commitDeletions": 489,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-04T10:06:56Z",
+  "lastContribution": "2026-03-04T11:56:52Z",
+  "recentPRs": [
+    {
+      "number": 34305,
+      "title": "feat(test): add trackedMkdtemp utilities to prevent /tmp/openclaw-* accumulation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T10:24:17Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 36,
+      "changedFiles": 7
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 34286,
+      "title": "[Bug]: Test temp directories (/tmp/openclaw-*) accumulate without cleanup",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T10:06:56Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-04": 1,
+    "2026-02-19": 1
+  },
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

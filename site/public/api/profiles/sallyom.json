@@ -1,0 +1,266 @@
+{
+  "username": "sallyom",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11166065?v=4",
+  "githubUrl": "https://github.com/sallyom",
+  "score": {
+    "score": 239.73,
+    "prScore": 162.73,
+    "issueScore": 0,
+    "reviewScore": 71,
+    "commentScore": 6
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 3,
+    "prs": 5,
+    "prsMerged": 2,
+    "prAdditions": 1262,
+    "prDeletions": 66,
+    "prChangedFiles": 32,
+    "prMergeRate": 40,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 23,
+    "reviewsApproved": 2,
+    "reviewsChangesRequested": 0,
+    "comments": 12,
+    "commitAdditions": 279,
+    "commitDeletions": 47,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 16
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 21,
+      "comments": 12,
+      "commitAdditions": 237,
+      "commitDeletions": 47,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 23,
+      "comments": 12,
+      "commitAdditions": 279,
+      "commitDeletions": 47,
+      "commits": 3
+    }
+  },
+  "firstContribution": "2026-03-02T22:18:09Z",
+  "lastContribution": "2026-03-12T05:11:20Z",
+  "recentPRs": [
+    {
+      "number": 43356,
+      "title": "[DRAFT] feat: add anthropic-vertex provider for Claude via GCP Vertex AI",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T16:47:38Z",
+      "mergedAt": null,
+      "additions": 153,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 39092,
+      "title": "CI: fix false positive secret",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T18:35:32Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 19,
+      "changedFiles": 5
+    },
+    {
+      "number": 38479,
+      "title": "reduce image size, offer slim image",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T02:20:19Z",
+      "mergedAt": "2026-03-07T19:26:29Z",
+      "additions": 166,
+      "deletions": 45,
+      "changedFiles": 4
+    },
+    {
+      "number": 34492,
+      "title": "docs: add Kubernetes install guide, setup script, and manifests",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T13:47:23Z",
+      "mergedAt": null,
+      "additions": 853,
+      "deletions": 0,
+      "changedFiles": 10
+    },
+    {
+      "number": 32223,
+      "title": "container builds: opt-in extension deps via OPENCLAW_EXTENSIONS build arg",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T22:18:09Z",
+      "mergedAt": "2026-03-06T17:18:42Z",
+      "additions": 71,
+      "deletions": 2,
+      "changedFiles": 8
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 34492,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T06:10:45Z"
+    },
+    {
+      "prNumber": 34492,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T06:04:14Z"
+    },
+    {
+      "prNumber": 34492,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T06:02:59Z"
+    },
+    {
+      "prNumber": 34492,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T06:01:49Z"
+    },
+    {
+      "prNumber": 34492,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T06:01:08Z"
+    },
+    {
+      "prNumber": 39449,
+      "state": "APPROVED",
+      "createdAt": "2026-03-08T21:53:54Z"
+    },
+    {
+      "prNumber": 39449,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T21:52:40Z"
+    },
+    {
+      "prNumber": 39449,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T21:52:30Z"
+    },
+    {
+      "prNumber": 39449,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T21:52:20Z"
+    },
+    {
+      "prNumber": 39449,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T21:52:11Z"
+    },
+    {
+      "prNumber": 39449,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T21:52:03Z"
+    },
+    {
+      "prNumber": 39435,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T21:20:25Z"
+    },
+    {
+      "prNumber": 39435,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T21:20:05Z"
+    },
+    {
+      "prNumber": 39435,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T21:19:33Z"
+    },
+    {
+      "prNumber": 39435,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T21:19:21Z"
+    },
+    {
+      "prNumber": 39435,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T21:19:05Z"
+    },
+    {
+      "prNumber": 39435,
+      "state": "APPROVED",
+      "createdAt": "2026-03-08T21:18:15Z"
+    },
+    {
+      "prNumber": 38479,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T18:14:20Z"
+    },
+    {
+      "prNumber": 38479,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T18:10:20Z"
+    },
+    {
+      "prNumber": 38479,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T09:00:39Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-07": 1,
+    "2026-03-06": 1,
+    "2026-02-23": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 12
+    }
+  }
+}

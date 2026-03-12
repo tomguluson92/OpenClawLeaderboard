@@ -1,0 +1,260 @@
+{
+  "username": "quanshequ12-star",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264341499?v=4",
+  "githubUrl": "https://github.com/quanshequ12-star",
+  "score": {
+    "score": 136.96,
+    "prScore": 127.46,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 14,
+    "prsMerged": 0,
+    "prAdditions": 214,
+    "prDeletions": 19,
+    "prChangedFiles": 18,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 14,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T04:24:39Z",
+  "lastContribution": "2026-03-10T17:29:08Z",
+  "recentPRs": [
+    {
+      "number": 36534,
+      "title": "fix(cron): keep tie-break direction consistent for descending sorts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T18:00:08Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34922,
+      "title": "fix(compaction): normalize unstructured summaries to required headings",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T19:31:33Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34918,
+      "title": "test(outbound): keep bestEffort delivery after media-only fallback failure",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T19:27:00Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34897,
+      "title": "fix(review): require non-empty behavioral sweep branch fields",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T19:06:53Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34890,
+      "title": "fix(ports): suppress lsof errors when ss fallback succeeds",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T19:04:41Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 34888,
+      "title": "fix(gateway): use provided env for restart probe auth",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T19:03:00Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 34856,
+      "title": "ui(storage): sanitize navGroupsCollapsed to boolean map",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T18:35:35Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 34084,
+      "title": "ui(i18n): preselect persisted locale before lazy translation load",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T06:55:02Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34083,
+      "title": "ui(navigation): use title case for tab group labels",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T06:54:36Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 34081,
+      "title": "ui: guard opener nulling for proxy-like window objects",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T06:54:10Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34080,
+      "title": "ui(cron): render run history newest-first by timestamp",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T06:53:43Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34079,
+      "title": "ui(cron): avoid duplicate history load call from History action",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T06:53:21Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 33935,
+      "title": "docs: standardize GitHub label casing in maintainers list",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T04:37:39Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 33918,
+      "title": "docs: rename duplicate maintainers heading for clarity",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T04:24:39Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 34890,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T17:29:08Z"
+    },
+    {
+      "prNumber": 34890,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T17:29:07Z"
+    },
+    {
+      "prNumber": 34890,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T17:29:05Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
+    }
+  }
+}

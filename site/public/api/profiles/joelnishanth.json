@@ -1,0 +1,435 @@
+{
+  "username": "joelnishanth",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/140015627?v=4",
+  "githubUrl": "https://github.com/joelnishanth",
+  "score": {
+    "score": 348.34,
+    "prScore": 269.84,
+    "issueScore": 13,
+    "reviewScore": 45,
+    "commentScore": 20.5
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 2,
+    "prs": 19,
+    "prsMerged": 2,
+    "prAdditions": 2455,
+    "prDeletions": 218,
+    "prChangedFiles": 69,
+    "prMergeRate": 11,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 15,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 41,
+    "commitAdditions": 470,
+    "commitDeletions": 9,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 16
+  },
+  "period": {
+    "weekly": {
+      "prs": 11,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 32,
+      "commitAdditions": 432,
+      "commitDeletions": 5,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 19,
+      "issues": 2,
+      "reviews": 15,
+      "comments": 41,
+      "commitAdditions": 470,
+      "commitDeletions": 9,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-03T04:27:50Z",
+  "lastContribution": "2026-03-12T00:36:36Z",
+  "recentPRs": [
+    {
+      "number": 43545,
+      "title": "fix(agents): truncate tool call IDs for OpenAI-compat proxies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T00:25:28Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43506,
+      "title": "fix(message): fall back to target param when to is not set",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T22:36:24Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 41440,
+      "title": "fix(agents): strip tool_uses JSON orchestration payloads from user-facing text",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T21:13:38Z",
+      "mergedAt": null,
+      "additions": 193,
+      "deletions": 13,
+      "changedFiles": 8
+    },
+    {
+      "number": 40225,
+      "title": "perf(sandbox): replace file lock with in-process mutex for registry mutations",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T19:57:36Z",
+      "mergedAt": null,
+      "additions": 133,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 40224,
+      "title": "fix(line): use getRegistry callback in plugin HTTP handler to prevent stale-route 404",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T19:57:35Z",
+      "mergedAt": null,
+      "additions": 113,
+      "deletions": 65,
+      "changedFiles": 3
+    },
+    {
+      "number": 40223,
+      "title": "fix(whatsapp): fix mid-session listener desync and watchdog null-lastMessageAt bug",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T19:57:34Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 40222,
+      "title": "fix(models): add openai-codex as built-in provider for models auth login",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T19:57:33Z",
+      "mergedAt": null,
+      "additions": 142,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 40221,
+      "title": "fix: suppress undici TLS session null-deref as transient uncaughtException",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T19:57:33Z",
+      "mergedAt": null,
+      "additions": 155,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 36756,
+      "title": "fix(models): add openai-codex as built-in provider for models auth login",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T21:51:07Z",
+      "mergedAt": null,
+      "additions": 142,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 36746,
+      "title": "fix(telegram): clear DM draft after materialize to prevent duplicate display",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T21:35:19Z",
+      "mergedAt": "2026-03-06T05:46:01Z",
+      "additions": 58,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 36588,
+      "title": "fix: suppress undici TLS session null-deref as transient uncaughtException",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T18:58:04Z",
+      "mergedAt": null,
+      "additions": 155,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 34783,
+      "title": "fix(whatsapp): fix mid-session listener desync and watchdog null-lastMessageAt bug",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T17:45:09Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 34740,
+      "title": "fix(models): preserve api/authHeader/headers from models.json during merge-mode regen",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T17:07:25Z",
+      "mergedAt": null,
+      "additions": 96,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 34646,
+      "title": "fix(line): use getRegistry callback in plugin HTTP handler to prevent stale-route 404",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T15:57:25Z",
+      "mergedAt": null,
+      "additions": 79,
+      "deletions": 33,
+      "changedFiles": 3
+    },
+    {
+      "number": 33562,
+      "title": "perf(sandbox): replace file lock with in-process mutex for registry mutations",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T22:30:46Z",
+      "mergedAt": null,
+      "additions": 134,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 33335,
+      "title": "fix(compact): surface specific cancel reasons and debounce rapid /compact clicks",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T17:43:58Z",
+      "mergedAt": null,
+      "additions": 321,
+      "deletions": 11,
+      "changedFiles": 6
+    },
+    {
+      "number": 33295,
+      "title": "fix(imessage): prevent echo loop from leaking internal metadata and amplifying NO_REPLY into queue overflow",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T17:05:46Z",
+      "mergedAt": "2026-03-07T00:19:57Z",
+      "additions": 432,
+      "deletions": 5,
+      "changedFiles": 12
+    },
+    {
+      "number": 32568,
+      "title": "fix(feishu): auto-format bot.ts and feishu-command-handler.ts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T04:56:07Z",
+      "mergedAt": null,
+      "additions": 54,
+      "deletions": 40,
+      "changedFiles": 2
+    },
+    {
+      "number": 32534,
+      "title": "fix(memory): dispose GGML Metal contexts on shutdown to prevent assertion crash",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:27:50Z",
+      "mergedAt": null,
+      "additions": 127,
+      "deletions": 0,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40399,
+      "title": "feat: Adaptive Model Routing \u2014 run local model first, escalate to cloud on quality failure",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T00:33:26Z",
+      "closedAt": null
+    },
+    {
+      "number": 32566,
+      "title": "[Bug]: CI check job fails on all PRs due to unformatted feishu extension files on main",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T04:55:37Z",
+      "closedAt": "2026-03-07T02:01:57Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41440,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T02:45:03Z"
+    },
+    {
+      "prNumber": 41440,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T02:44:57Z"
+    },
+    {
+      "prNumber": 41440,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T02:44:52Z"
+    },
+    {
+      "prNumber": 36588,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T19:33:02Z"
+    },
+    {
+      "prNumber": 36588,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T19:33:01Z"
+    },
+    {
+      "prNumber": 36588,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T19:32:59Z"
+    },
+    {
+      "prNumber": 34783,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T18:16:16Z"
+    },
+    {
+      "prNumber": 33335,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T15:28:14Z"
+    },
+    {
+      "prNumber": 33335,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T15:17:58Z"
+    },
+    {
+      "prNumber": 33335,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T15:17:51Z"
+    },
+    {
+      "prNumber": 33562,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T01:28:40Z"
+    },
+    {
+      "prNumber": 33562,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T01:28:34Z"
+    },
+    {
+      "prNumber": 33562,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T01:28:28Z"
+    },
+    {
+      "prNumber": 33562,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T01:28:23Z"
+    },
+    {
+      "prNumber": 33562,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T01:28:18Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-07": 1,
+    "2026-02-27": 1
+  },
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-03": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
+    }
+  }
+}

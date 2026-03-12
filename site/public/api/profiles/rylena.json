@@ -1,0 +1,145 @@
+{
+  "username": "rylena",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47320423?u=114ff200c45bc7eb83904c6aae17f09ec34f2bb0&v=4",
+  "githubUrl": "https://github.com/rylena",
+  "score": {
+    "score": 94.9,
+    "prScore": 94.4,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 2000,
+    "prDeletions": 14,
+    "prChangedFiles": 25,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 15,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 15,
+      "commitDeletions": 0,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-02T15:20:31Z",
+  "lastContribution": "2026-03-05T15:19:43Z",
+  "recentPRs": [
+    {
+      "number": 36337,
+      "title": "fix(feishu): detect group mentions when display name is decorated",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T15:19:43Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 34601,
+      "title": "fix: avoid llama.cpp grammar failures from oversized maxLength tool constraints",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T15:22:32Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 34529,
+      "title": "docs: add OpenClaw Instagram to community plugins",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T14:22:43Z",
+      "mergedAt": null,
+      "additions": 1679,
+      "deletions": 0,
+      "changedFiles": 16
+    },
+    {
+      "number": 33168,
+      "title": "fix(queue): dedupe queued message IDs across drain restarts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T15:22:02Z",
+      "mergedAt": null,
+      "additions": 92,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 31835,
+      "title": "fix(bluebubbles): coalesce text + URL balloon webhook events",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-02T15:20:31Z",
+      "mergedAt": null,
+      "additions": 121,
+      "deletions": 4,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 1
+  },
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

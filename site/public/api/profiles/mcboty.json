@@ -1,0 +1,98 @@
+{
+  "username": "mcboty",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/260586437?v=4",
+  "githubUrl": "https://github.com/mcboty",
+  "score": {
+    "score": 31.88,
+    "prScore": 22.88,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 356,
+    "prDeletions": 1,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T23:58:54Z",
+  "lastContribution": "2026-03-08T04:16:02Z",
+  "recentPRs": [
+    {
+      "number": 39442,
+      "title": "feat: memory auto-prefetch \u2014 inject memory context before LLM sees the message",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T04:13:48Z",
+      "mergedAt": null,
+      "additions": 356,
+      "deletions": 1,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32317,
+      "title": "v2026.3.1 regression: pre-compaction memory flush fires on every message (aggressive compaction threshold)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T23:58:54Z",
+      "closedAt": "2026-03-03T01:00:19Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

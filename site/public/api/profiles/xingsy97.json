@@ -1,0 +1,182 @@
+{
+  "username": "xingsy97",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/87063252?u=88d0559f9ca0bf5ec2537608527dc9299ca6163a&v=4",
+  "githubUrl": "https://github.com/xingsy97",
+  "score": {
+    "score": 103.82,
+    "prScore": 83.82,
+    "issueScore": 0,
+    "reviewScore": 18,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 399,
+    "prDeletions": 50,
+    "prChangedFiles": 19,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-11T17:57:25Z",
+  "lastContribution": "2026-03-12T00:04:56Z",
+  "recentPRs": [
+    {
+      "number": 43438,
+      "title": "test(config): cover requiresOpenAiAnthropicToolPayload in compat schema fixture",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T19:58:33Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43414,
+      "title": "fix(msteams): persist first-DM conversation reference in pairing path",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T18:59:00Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 22,
+      "changedFiles": 2
+    },
+    {
+      "number": 43412,
+      "title": "fix(message-tool): use runtime-resolved config for SecretRef credentials",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T18:41:15Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 43411,
+      "title": "fix(logging): make user redactPatterns additive with defaults + fix config resolution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T18:41:01Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 43404,
+      "title": "fix(cron): support isolated cron jobs in reminder guard + preserve counter across compaction",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T18:23:07Z",
+      "mergedAt": null,
+      "additions": 142,
+      "deletions": 7,
+      "changedFiles": 4
+    },
+    {
+      "number": 43403,
+      "title": "fix(agents): rephrase session reset prompt to avoid Azure content filter",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T18:22:53Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 8,
+      "changedFiles": 7
+    },
+    {
+      "number": 43393,
+      "title": "fix(exec): honor ask=off from user config in approval context",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T17:57:25Z",
+      "mergedAt": null,
+      "additions": 109,
+      "deletions": 3,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43411,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T19:49:03Z"
+    },
+    {
+      "prNumber": 43404,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T19:48:46Z"
+    },
+    {
+      "prNumber": 43404,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T19:48:36Z"
+    },
+    {
+      "prNumber": 43404,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T19:48:29Z"
+    },
+    {
+      "prNumber": 43404,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T19:48:11Z"
+    },
+    {
+      "prNumber": 43393,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T18:27:54Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 6
+    }
+  }
+}

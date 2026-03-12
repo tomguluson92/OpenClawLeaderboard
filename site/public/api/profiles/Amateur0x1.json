@@ -1,0 +1,144 @@
+{
+  "username": "Amateur0x1",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/157032610?u=500f5090d713017dd44637b0886383de0410a012&v=4",
+  "githubUrl": "https://github.com/Amateur0x1",
+  "score": {
+    "score": 57.67,
+    "prScore": 47.17,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 85,
+    "prDeletions": 73,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T03:31:43Z",
+  "lastContribution": "2026-03-10T09:53:48Z",
+  "recentPRs": [
+    {
+      "number": 41884,
+      "title": "fix: delete parent agent directory when removing agent",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T07:13:19Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 41794,
+      "title": "fix(i18n): add locale prefix to internal links during translation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T05:36:15Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 22,
+      "changedFiles": 3
+    },
+    {
+      "number": 41776,
+      "title": "docs: fix zh-CN homepage links to use localized paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T05:21:09Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 13,
+      "changedFiles": 1
+    },
+    {
+      "number": 41688,
+      "title": "fix: delete parent agent directory when removing agent",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T03:32:49Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 19,
+      "changedFiles": 2
+    },
+    {
+      "number": 41687,
+      "title": "fix: only show registered agents in sessions.list",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T03:32:40Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 19,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41686,
+      "title": "[Bug]: Agent directory not fully cleaned up after deletion",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T03:31:54Z",
+      "closedAt": null
+    },
+    {
+      "number": 41685,
+      "title": "[Bug]: Control UI displays sessions from unregistered agents",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T03:31:43Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 5,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "username": "howardpen9",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36764495?u=040caeb21ce3aec553cc9cf49790d74ee4cb9d98&v=4",
+  "githubUrl": "https://github.com/howardpen9",
+  "score": {
+    "score": 20.1,
+    "prScore": 9.6,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 74,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-27T06:45:06Z",
+  "lastContribution": "2026-03-11T15:00:50Z",
+  "recentPRs": [
+    {
+      "number": 43273,
+      "title": "fix: validate Edge TTS output file is non-empty before reporting success",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T15:00:50Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40562,
+      "title": "Feature: Cross-App Control \u2014 interact with native apps (macOS/iOS)",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T04:05:38Z",
+      "closedAt": null
+    },
+    {
+      "number": 28405,
+      "title": "Heartbeat `every` interval >24.8 days triggers infinite TimeoutOverflowWarning loop (CPU/memory storm)",
+      "state": "OPEN",
+      "createdAt": "2026-02-27T06:45:06Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-02-27": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

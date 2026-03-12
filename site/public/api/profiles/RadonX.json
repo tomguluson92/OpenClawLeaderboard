@@ -1,0 +1,100 @@
+{
+  "username": "RadonX",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/944393?u=5a69821916fac3f62bef91f4bfa33ac65308e24d&v=4",
+  "githubUrl": "https://github.com/RadonX",
+  "score": {
+    "score": 21.16,
+    "prScore": 7.66,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 6,
+    "prDeletions": 2,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T05:37:11Z",
+  "lastContribution": "2026-03-02T23:20:11Z",
+  "recentPRs": [
+    {
+      "number": 32282,
+      "title": "Fix: Exclude Telegram Forum topic system messages from implicitMention detection",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T23:05:30Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32256,
+      "title": "[Bug] Telegram Forum: implicitMention incorrectly triggered by topic system messages",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T22:40:19Z",
+      "closedAt": "2026-03-02T23:32:55Z"
+    },
+    {
+      "number": 31322,
+      "title": "Bug: Silent Daily Session Resets and Data Loss After Upgrade to v2026.2.26",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T05:37:11Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

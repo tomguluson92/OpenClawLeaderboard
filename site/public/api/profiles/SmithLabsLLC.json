@@ -1,0 +1,231 @@
+{
+  "username": "SmithLabsLLC",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/232409717?u=ff6457447c04ac4c0449b2d0ef2225c8438b3eb8&v=4",
+  "githubUrl": "https://github.com/SmithLabsLLC",
+  "score": {
+    "score": 221.28,
+    "prScore": 157.28,
+    "issueScore": 0,
+    "reviewScore": 63,
+    "commentScore": 1
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 4093,
+    "prDeletions": 1440,
+    "prChangedFiles": 124,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 21,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 21,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 21,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T22:18:17Z",
+  "lastContribution": "2026-03-09T01:42:03Z",
+  "recentPRs": [
+    {
+      "number": 40401,
+      "title": "fix(memory): keep group:memory read-only",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T00:37:57Z",
+      "mergedAt": null,
+      "additions": 1264,
+      "deletions": 77,
+      "changedFiles": 20
+    },
+    {
+      "number": 40400,
+      "title": "fix(memory): harden durable memory writes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T00:37:57Z",
+      "mergedAt": null,
+      "additions": 1144,
+      "deletions": 47,
+      "changedFiles": 9
+    },
+    {
+      "number": 40310,
+      "title": "fix(memory): sanitize durable memory metadata",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T22:18:31Z",
+      "mergedAt": null,
+      "additions": 828,
+      "deletions": 650,
+      "changedFiles": 47
+    },
+    {
+      "number": 40309,
+      "title": "fix(memory): keep group:memory read-only",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T22:18:17Z",
+      "mergedAt": null,
+      "additions": 857,
+      "deletions": 666,
+      "changedFiles": 48
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 40400,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T01:42:03Z"
+    },
+    {
+      "prNumber": 40401,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T01:07:20Z"
+    },
+    {
+      "prNumber": 40401,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T01:07:19Z"
+    },
+    {
+      "prNumber": 40400,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T01:07:17Z"
+    },
+    {
+      "prNumber": 40401,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T00:51:57Z"
+    },
+    {
+      "prNumber": 40401,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T00:51:56Z"
+    },
+    {
+      "prNumber": 40401,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T00:51:54Z"
+    },
+    {
+      "prNumber": 40401,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T00:51:53Z"
+    },
+    {
+      "prNumber": 40400,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T00:51:50Z"
+    },
+    {
+      "prNumber": 40309,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T23:36:08Z"
+    },
+    {
+      "prNumber": 40309,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T23:36:08Z"
+    },
+    {
+      "prNumber": 40310,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T23:06:06Z"
+    },
+    {
+      "prNumber": 40310,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T22:53:18Z"
+    },
+    {
+      "prNumber": 40310,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T22:53:17Z"
+    },
+    {
+      "prNumber": 40310,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T22:53:15Z"
+    },
+    {
+      "prNumber": 40310,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T22:53:14Z"
+    },
+    {
+      "prNumber": 40310,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T22:53:13Z"
+    },
+    {
+      "prNumber": 40309,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T22:53:11Z"
+    },
+    {
+      "prNumber": 40309,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T22:53:10Z"
+    },
+    {
+      "prNumber": 40309,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T22:53:09Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 11
+    }
+  }
+}

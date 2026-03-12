@@ -1,0 +1,153 @@
+{
+  "username": "X-AlexBin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/265483407?u=e66080df7cd22937921bed604fb37bdc44266145&v=4",
+  "githubUrl": "https://github.com/X-AlexBin",
+  "score": {
+    "score": 118.51,
+    "prScore": 113.01,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 5555,
+    "prDeletions": 259,
+    "prChangedFiles": 30,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T09:26:01Z",
+  "lastContribution": "2026-03-10T13:10:46Z",
+  "recentPRs": [
+    {
+      "number": 42091,
+      "title": "[i18n] Localize Control UI Agents page",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T11:37:10Z",
+      "mergedAt": null,
+      "additions": 325,
+      "deletions": 31,
+      "changedFiles": 7
+    },
+    {
+      "number": 41015,
+      "title": "fix(terminal): fallback to ASCII borders on legacy Windows consoles",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T13:07:00Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 40655,
+      "title": "fix(ui): language selector sync and locale restore on Overview tab",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T05:57:57Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 40495,
+      "title": "[feature] Skills: migrate Anthropic skill-creator (agents, eval viewer, references, scripts) into repo-managed skills/skill-creator",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T03:04:20Z",
+      "mergedAt": null,
+      "additions": 5097,
+      "deletions": 222,
+      "changedFiles": 16
+    },
+    {
+      "number": 37490,
+      "title": "UI: label dashboard vs feishu message source",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T08:54:12Z",
+      "mergedAt": null,
+      "additions": 104,
+      "deletions": 1,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 34235,
+      "title": "[Feature]: Support creating and debugging skills directly from chat (with file tree & online editor)",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T09:26:01Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

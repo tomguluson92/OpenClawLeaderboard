@@ -1,0 +1,131 @@
+{
+  "username": "littleben",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1573829?v=4",
+  "githubUrl": "https://github.com/littleben",
+  "score": {
+    "score": 75.05,
+    "prScore": 75.05,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 2,
+    "prs": 5,
+    "prsMerged": 2,
+    "prAdditions": 245,
+    "prDeletions": 11,
+    "prChangedFiles": 8,
+    "prMergeRate": 40,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 212,
+    "commitDeletions": 8,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 5
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 212,
+      "commitDeletions": 8,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 212,
+      "commitDeletions": 8,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-04T19:43:45Z",
+  "lastContribution": "2026-03-04T19:53:32Z",
+  "recentPRs": [
+    {
+      "number": 34937,
+      "title": "fix(slack): exempt app_mention from dedup to prevent race condition",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T19:53:32Z",
+      "mergedAt": "2026-03-05T23:00:05Z",
+      "additions": 208,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 34933,
+      "title": "fix(ui): set selected attribute on option elements to fix model select initial value",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T19:44:49Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34932,
+      "title": "fix(infra): classify SQLITE_CANTOPEN and related codes as transient errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T19:44:09Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34931,
+      "title": "fix(slack): remove double mrkdwn conversion in native streaming path",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T19:43:56Z",
+      "mergedAt": "2026-03-06T02:34:43Z",
+      "additions": 4,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 34930,
+      "title": "fix(ollama): use message.thinking field for native API stream reader",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T19:43:45Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-06": 1,
+    "2026-03-05": 1
+  },
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

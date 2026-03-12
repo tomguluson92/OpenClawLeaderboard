@@ -1,0 +1,304 @@
+{
+  "username": "yzxlr",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1021764?u=7d50b20203169c2856878f4b56f5e096d9c76d31&v=4",
+  "githubUrl": "https://github.com/yzxlr",
+  "score": {
+    "score": 488,
+    "prScore": 488,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 51,
+    "prsMerged": 0,
+    "prAdditions": 5786,
+    "prDeletions": 419,
+    "prChangedFiles": 194,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 51,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 51,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T19:48:43Z",
+  "lastContribution": "2026-03-11T20:19:52Z",
+  "recentPRs": [
+    {
+      "number": 43446,
+      "title": "browser: extend /start timeout budget",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T20:19:52Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43445,
+      "title": "agents: discover Bedrock inference profiles",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T20:16:59Z",
+      "mergedAt": null,
+      "additions": 237,
+      "deletions": 48,
+      "changedFiles": 2
+    },
+    {
+      "number": 43426,
+      "title": "Doctor: fix legacy gateway cleanup hints",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T19:27:30Z",
+      "mergedAt": null,
+      "additions": 122,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43423,
+      "title": "Voice-call: time out hanging ngrok commands",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T19:23:35Z",
+      "mergedAt": null,
+      "additions": 148,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43421,
+      "title": "Plugins: apply manifest config patches on install",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T19:19:53Z",
+      "mergedAt": null,
+      "additions": 105,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 43401,
+      "title": "Agents: add session_status compact action",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T18:12:19Z",
+      "mergedAt": null,
+      "additions": 153,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 43397,
+      "title": "Web: enable WhatsApp link previews",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T18:07:05Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43394,
+      "title": "Agents: teach natural-language model switching",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T18:05:06Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 43384,
+      "title": "Agents: expose context usage in runtime line",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T17:32:16Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 0,
+      "changedFiles": 9
+    },
+    {
+      "number": 43382,
+      "title": "Gateway: avoid false webchat event gaps on dropped broadcasts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T17:27:18Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 43380,
+      "title": "Reply: add /models test-fallback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T17:23:49Z",
+      "mergedAt": null,
+      "additions": 391,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43364,
+      "title": "UI: render safe markdown images inline",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T17:00:16Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 10,
+      "changedFiles": 4
+    },
+    {
+      "number": 43362,
+      "title": "Reply: preserve reminder coverage across compaction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:54:18Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 6,
+      "changedFiles": 5
+    },
+    {
+      "number": 43352,
+      "title": "CLI: validate backend session ids",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:45:20Z",
+      "mergedAt": null,
+      "additions": 78,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 43350,
+      "title": "Session: add system event suppression switch",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:40:01Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 1,
+      "changedFiles": 6
+    },
+    {
+      "number": 43342,
+      "title": "Reply: add /models test-fallback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:33:25Z",
+      "mergedAt": null,
+      "additions": 391,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43264,
+      "title": "fix(ui): render subagent announces as tool output",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T14:44:51Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 43227,
+      "title": "Chat UI: show full exec commands in sidebar",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T13:48:05Z",
+      "mergedAt": null,
+      "additions": 102,
+      "deletions": 12,
+      "changedFiles": 4
+    },
+    {
+      "number": 43222,
+      "title": "Exec approvals: add denylist support",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T13:38:42Z",
+      "mergedAt": null,
+      "additions": 650,
+      "deletions": 80,
+      "changedFiles": 14
+    },
+    {
+      "number": 43105,
+      "title": "Telegram: store human-readable topic labels",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:42:58Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 1,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

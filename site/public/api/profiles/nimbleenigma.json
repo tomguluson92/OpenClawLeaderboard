@@ -1,0 +1,165 @@
+{
+  "username": "nimbleenigma",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/129692390?v=4",
+  "githubUrl": "https://github.com/nimbleenigma",
+  "score": {
+    "score": 179.66,
+    "prScore": 157.16,
+    "issueScore": 8,
+    "reviewScore": 12,
+    "commentScore": 2.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 5040,
+    "prDeletions": 448,
+    "prChangedFiles": 71,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T11:51:11Z",
+  "lastContribution": "2026-03-08T18:59:51Z",
+  "recentPRs": [
+    {
+      "number": 40175,
+      "title": "android: finalize notification forwarding controls and picker UX",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T18:58:24Z",
+      "mergedAt": null,
+      "additions": 1324,
+      "deletions": 42,
+      "changedFiles": 13
+    },
+    {
+      "number": 36960,
+      "title": "android: finalize notification controls v1 picker + hybrid discovery",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T01:13:58Z",
+      "mergedAt": null,
+      "additions": 1062,
+      "deletions": 13,
+      "changedFiles": 10
+    },
+    {
+      "number": 34399,
+      "title": "telegram: trace streamed reply delivery + skip non-final draft fallback send",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T12:15:02Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 34384,
+      "title": "telegram: trace streamed reply delivery + skip non-final draft fallback send",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T11:51:38Z",
+      "mergedAt": null,
+      "additions": 2615,
+      "deletions": 390,
+      "changedFiles": 45
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 34383,
+      "title": "Telegram partial streaming: user-visible duplicate/disappear flicker despite single final send",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T11:51:11Z",
+      "closedAt": "2026-03-09T02:13:29Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 36960,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T02:53:10Z"
+    },
+    {
+      "prNumber": 36960,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T02:53:00Z"
+    },
+    {
+      "prNumber": 36960,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T02:25:21Z"
+    },
+    {
+      "prNumber": 34399,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T12:27:17Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 1
+    }
+  }
+}

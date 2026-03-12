@@ -1,0 +1,225 @@
+{
+  "username": "jalehman",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/550978?v=4",
+  "githubUrl": "https://github.com/jalehman",
+  "score": {
+    "score": 302.04,
+    "prScore": 252.04,
+    "issueScore": 5,
+    "reviewScore": 31,
+    "commentScore": 14
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 14,
+    "prs": 6,
+    "prsMerged": 4,
+    "prAdditions": 850,
+    "prDeletions": 72,
+    "prChangedFiles": 24,
+    "prMergeRate": 67,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 7,
+    "reviewsApproved": 1,
+    "reviewsChangesRequested": 6,
+    "comments": 28,
+    "commitAdditions": 3877,
+    "commitDeletions": 296,
+    "weeklyCommits": 9,
+    "monthlyCommits": 39,
+    "commitChangedFiles": 86
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 7,
+      "comments": 19,
+      "commitAdditions": 2345,
+      "commitDeletions": 108,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 1,
+      "reviews": 7,
+      "comments": 28,
+      "commitAdditions": 2826,
+      "commitDeletions": 199,
+      "commits": 8
+    }
+  },
+  "firstContribution": "2026-03-02T20:04:14Z",
+  "lastContribution": "2026-03-10T21:25:33Z",
+  "recentPRs": [
+    {
+      "number": 42505,
+      "title": "fix: migrate tlon installs to @tloncorp/openclaw",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T21:25:33Z",
+      "mergedAt": null,
+      "additions": 377,
+      "deletions": 19,
+      "changedFiles": 12
+    },
+    {
+      "number": 40450,
+      "title": "fix: format daemon lifecycle test",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T01:56:51Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    },
+    {
+      "number": 40115,
+      "title": "fix: share context engine registry across bundled chunks",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T17:26:15Z",
+      "mergedAt": "2026-03-08T18:56:01Z",
+      "additions": 37,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 32286,
+      "title": "test: skip chmod-dependent backup rotation tests on Windows",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T23:12:39Z",
+      "mergedAt": "2026-03-02T23:38:17Z",
+      "additions": 11,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 32191,
+      "title": "fix: refresh session-store cache when file size changes within same mtime tick",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T21:33:26Z",
+      "mergedAt": "2026-03-02T22:09:36Z",
+      "additions": 66,
+      "deletions": 14,
+      "changedFiles": 6
+    },
+    {
+      "number": 32126,
+      "title": "fix(scripts/pr): SSH-first prhead remote with GraphQL fallback for fork PRs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T20:04:14Z",
+      "mergedAt": "2026-03-03T02:46:01Z",
+      "additions": 359,
+      "deletions": 20,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40096,
+      "title": "Published 2026.3.7 build splits context-engine registry across bundle chunks",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T17:10:35Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 35536,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-06T21:52:11Z"
+    },
+    {
+      "prNumber": 34511,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-06T21:51:05Z"
+    },
+    {
+      "prNumber": 34485,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-06T21:49:52Z"
+    },
+    {
+      "prNumber": 38301,
+      "state": "APPROVED",
+      "createdAt": "2026-03-06T21:24:34Z"
+    },
+    {
+      "prNumber": 36537,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-06T20:22:20Z"
+    },
+    {
+      "prNumber": 35629,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-06T20:22:07Z"
+    },
+    {
+      "prNumber": 36093,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-06T20:22:06Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Quality Gating"
+  ],
+  "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-08": 1,
+    "2026-03-06": 1,
+    "2026-03-03": 1,
+    "2026-03-02": 4,
+    "2026-02-27": 1,
+    "2026-01-16": 1
+  },
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 7
+    }
+  }
+}

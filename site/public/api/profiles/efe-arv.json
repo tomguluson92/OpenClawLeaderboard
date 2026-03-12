@@ -1,0 +1,311 @@
+{
+  "username": "efe-arv",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/259833796?u=5a43b18b793ba9b2a26cf30fa1a5a1edaa8f52cb&v=4",
+  "githubUrl": "https://github.com/efe-arv",
+  "score": {
+    "score": 257.91,
+    "prScore": 187.41,
+    "issueScore": 5,
+    "reviewScore": 60,
+    "commentScore": 5.5
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 9,
+    "prsMerged": 1,
+    "prAdditions": 2442,
+    "prDeletions": 513,
+    "prChangedFiles": 56,
+    "prMergeRate": 11,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 20,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 11,
+    "commitAdditions": 256,
+    "commitDeletions": 62,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 9
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 256,
+      "commitDeletions": 62,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 9,
+      "issues": 1,
+      "reviews": 20,
+      "comments": 11,
+      "commitAdditions": 256,
+      "commitDeletions": 62,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-02-27T05:25:22Z",
+  "lastContribution": "2026-03-09T06:40:02Z",
+  "recentPRs": [
+    {
+      "number": 34891,
+      "title": "feat(infra): structured INFO-level model API request/response timing and payload-size logging",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T19:04:59Z",
+      "mergedAt": null,
+      "additions": 444,
+      "deletions": 3,
+      "changedFiles": 6
+    },
+    {
+      "number": 34876,
+      "title": "fix(ci): remove semver build metadata from bun version",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T18:53:33Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34556,
+      "title": "feat(compaction): make post-compaction context sections configurable",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T14:46:10Z",
+      "mergedAt": "2026-03-06T22:57:15Z",
+      "additions": 256,
+      "deletions": 62,
+      "changedFiles": 9
+    },
+    {
+      "number": 33410,
+      "title": "fix(restart): poll port free after SIGKILL to prevent EADDRINUSE restart loop",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T19:17:32Z",
+      "mergedAt": null,
+      "additions": 851,
+      "deletions": 22,
+      "changedFiles": 3
+    },
+    {
+      "number": 33399,
+      "title": "fix(restart): poll port free after SIGKILL to prevent EADDRINUSE restart loop",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T19:07:06Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 33350,
+      "title": "fix(matrix): multi-account identity routing, voice message support, and security hardening",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T18:04:31Z",
+      "mergedAt": null,
+      "additions": 148,
+      "deletions": 34,
+      "changedFiles": 11
+    },
+    {
+      "number": 33338,
+      "title": "fix(matrix): multi-account identity routing, voice message support, and security hardening",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T17:44:57Z",
+      "mergedAt": null,
+      "additions": 345,
+      "deletions": 194,
+      "changedFiles": 12
+    },
+    {
+      "number": 33326,
+      "title": "fix(matrix): multi-account identity routing, voice message support, and security hardening",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T17:40:34Z",
+      "mergedAt": null,
+      "additions": 345,
+      "deletions": 194,
+      "changedFiles": 12
+    },
+    {
+      "number": 32901,
+      "title": "fix(build): add missing keyed-async-queue entry to tsdown config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T10:39:13Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 28337,
+      "title": "Post-compaction token count shows `?` due to scope mismatch in tokensAfter sanity check",
+      "state": "OPEN",
+      "createdAt": "2026-02-27T05:25:22Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 34556,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T00:06:06Z"
+    },
+    {
+      "prNumber": 34556,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T21:17:24Z"
+    },
+    {
+      "prNumber": 34556,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T20:49:22Z"
+    },
+    {
+      "prNumber": 34891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T20:05:01Z"
+    },
+    {
+      "prNumber": 34891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T20:04:59Z"
+    },
+    {
+      "prNumber": 34891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T19:55:14Z"
+    },
+    {
+      "prNumber": 34556,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T19:32:35Z"
+    },
+    {
+      "prNumber": 34891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T19:32:09Z"
+    },
+    {
+      "prNumber": 34891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T19:32:07Z"
+    },
+    {
+      "prNumber": 34556,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T14:53:15Z"
+    },
+    {
+      "prNumber": 33410,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T21:24:14Z"
+    },
+    {
+      "prNumber": 33410,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T21:24:04Z"
+    },
+    {
+      "prNumber": 33410,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T21:14:36Z"
+    },
+    {
+      "prNumber": 33410,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T20:13:53Z"
+    },
+    {
+      "prNumber": 33410,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T19:29:48Z"
+    },
+    {
+      "prNumber": 33350,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T18:54:27Z"
+    },
+    {
+      "prNumber": 33350,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T18:53:15Z"
+    },
+    {
+      "prNumber": 33350,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T18:52:56Z"
+    },
+    {
+      "prNumber": 33350,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T18:51:58Z"
+    },
+    {
+      "prNumber": 33350,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T18:47:22Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-06": 1
+  },
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-03": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 10
+    },
+    "2026-02-27": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

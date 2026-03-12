@@ -1,0 +1,98 @@
+{
+  "username": "isle07kim-creator",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264604395?v=4",
+  "githubUrl": "https://github.com/isle07kim-creator",
+  "score": {
+    "score": 16,
+    "prScore": 10.5,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 30,
+    "prDeletions": 18,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-28T10:15:24Z",
+  "lastContribution": "2026-03-12T02:55:20Z",
+  "recentPRs": [
+    {
+      "number": 43613,
+      "title": "fix: skip device pairing when authenticated via Tailscale identity",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T02:55:20Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 18,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 29670,
+      "title": "[Bug]: [Tailscale serve] Control UI requires pairing despite allowTailscale=true",
+      "state": "OPEN",
+      "createdAt": "2026-02-28T10:15:24Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-02-28": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

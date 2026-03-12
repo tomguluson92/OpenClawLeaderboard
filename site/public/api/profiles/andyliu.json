@@ -1,0 +1,135 @@
+{
+  "username": "andyliu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2377291?u=80ee8b6585c1b90368535482293203fbe3e9d20a&v=4",
+  "githubUrl": "https://github.com/andyliu",
+  "score": {
+    "score": 63.23,
+    "prScore": 47.73,
+    "issueScore": 0,
+    "reviewScore": 12,
+    "commentScore": 3.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 207,
+    "prDeletions": 25,
+    "prChangedFiles": 10,
+    "prMergeRate": 33,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 47,
+    "commitDeletions": 4,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 7,
+      "commitAdditions": 47,
+      "commitDeletions": 4,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 7,
+      "commitAdditions": 47,
+      "commitDeletions": 4,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-10T10:31:04Z",
+  "lastContribution": "2026-03-11T05:04:17Z",
+  "recentPRs": [
+    {
+      "number": 42153,
+      "title": "fix(tts): propagate audio_as_voice from tool results",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T13:03:37Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 12,
+      "changedFiles": 4
+    },
+    {
+      "number": 42096,
+      "title": "fix(models): guard optional model input capabilities ",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T11:47:15Z",
+      "mergedAt": "2026-03-11T12:44:00Z",
+      "additions": 47,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 42045,
+      "title": "fix(telegram): preserve whitespace when chunking",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T10:31:04Z",
+      "mergedAt": null,
+      "additions": 96,
+      "deletions": 9,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42096,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T05:04:17Z"
+    },
+    {
+      "prNumber": 42096,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T12:00:32Z"
+    },
+    {
+      "prNumber": 42096,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T11:59:26Z"
+    },
+    {
+      "prNumber": 42045,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T11:23:06Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-11": 1
+  },
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

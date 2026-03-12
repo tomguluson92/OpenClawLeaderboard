@@ -1,0 +1,249 @@
+{
+  "username": "zhouhe-xydt",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/265407618?v=4",
+  "githubUrl": "https://github.com/zhouhe-xydt",
+  "score": {
+    "score": 193.88,
+    "prScore": 185.38,
+    "issueScore": 5,
+    "reviewScore": 3,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 12,
+    "prsMerged": 1,
+    "prAdditions": 1698,
+    "prDeletions": 296,
+    "prChangedFiles": 38,
+    "prMergeRate": 8,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 56,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 5
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 56,
+      "commitDeletions": 0,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 12,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 56,
+      "commitDeletions": 0,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-04T02:16:49Z",
+  "lastContribution": "2026-03-11T11:55:19Z",
+  "recentPRs": [
+    {
+      "number": 43155,
+      "title": "UI/Chat: show full command in sidebar when clicking tool cards",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T11:55:19Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 42706,
+      "title": "cron: Run manual \"Run Now\" directly instead of via enqueue",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T02:49:35Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 38,
+      "changedFiles": 2
+    },
+    {
+      "number": 41921,
+      "title": "fix: subagent uses target agent workspace when configured (fixes #41695)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T08:03:38Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 40762,
+      "title": "fix(ui): normalize primitive+object unions in config form analyzer \u2014 matches the commit message, clear and conventional.",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T08:09:49Z",
+      "mergedAt": null,
+      "additions": 319,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 34307,
+      "title": "UI: add zh-CN i18n for agents page",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T10:25:58Z",
+      "mergedAt": null,
+      "additions": 445,
+      "deletions": 127,
+      "changedFiles": 6
+    },
+    {
+      "number": 34266,
+      "title": "fix(ui): enable Save when toggling tools with missing agents.list",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:52:27Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 12,
+      "changedFiles": 1
+    },
+    {
+      "number": 34199,
+      "title": "Feishu: buffer and send blocks on onIdle when streaming-card unavailable (#34093)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T08:52:07Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 33839,
+      "title": "Heartbeat: add notify targets from HEARTBEAT.md for alert delivery (#33828)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T03:16:14Z",
+      "mergedAt": null,
+      "additions": 382,
+      "deletions": 5,
+      "changedFiles": 4
+    },
+    {
+      "number": 33825,
+      "title": "heartbeat: add jitter to stagger first trigger across agents",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T02:55:42Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 3,
+      "changedFiles": 5
+    },
+    {
+      "number": 33813,
+      "title": "Fix failover for zhipuai 1310 Weekly/Monthly Limit Exhausted",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T02:47:03Z",
+      "mergedAt": "2026-03-06T09:04:09Z",
+      "additions": 56,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 33790,
+      "title": "fix: auto-create memory directory in workspace",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T02:32:05Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 27,
+      "changedFiles": 1
+    },
+    {
+      "number": 33778,
+      "title": "fix(line): prefer caller cfg in send helpers, forward from extension outbound",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T02:16:49Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 63,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43153,
+      "title": "[Bug]: Chat tool card sidebar does not show full command for long exec commands",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T11:52:23Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 34266,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T10:21:24Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-06": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

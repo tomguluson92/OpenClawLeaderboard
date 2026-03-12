@@ -1,0 +1,127 @@
+{
+  "username": "pavelzak",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2132599?v=4",
+  "githubUrl": "https://github.com/pavelzak",
+  "score": {
+    "score": 90.68,
+    "prScore": 90.68,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 512,
+    "prDeletions": 89,
+    "prChangedFiles": 29,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T04:22:45Z",
+  "lastContribution": "2026-03-12T04:31:25Z",
+  "recentPRs": [
+    {
+      "number": 43674,
+      "title": "fix: strip silent-reply token instead of discarding entire payload",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T04:31:25Z",
+      "mergedAt": null,
+      "additions": 256,
+      "deletions": 45,
+      "changedFiles": 15
+    },
+    {
+      "number": 43671,
+      "title": "fix: retry Ollama stream on empty responses (tool call parse failure)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T04:26:39Z",
+      "mergedAt": null,
+      "additions": 86,
+      "deletions": 37,
+      "changedFiles": 1
+    },
+    {
+      "number": 43670,
+      "title": "fix: treat transient network errors as retryable for failover",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T04:25:39Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 3,
+      "changedFiles": 7
+    },
+    {
+      "number": 43669,
+      "title": "fix: wait for agent idle after prompt to prevent auto-retry race",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T04:24:40Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43666,
+      "title": "fix: auto-close browser tabs when embedded run ends",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T04:22:45Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 2,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

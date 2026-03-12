@@ -1,0 +1,160 @@
+{
+  "username": "damiagent001-bit",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/235265637?u=3ed074c0148fc17a3640eeaa95a69d6a8df6f574&v=4",
+  "githubUrl": "https://github.com/damiagent001-bit",
+  "score": {
+    "score": 81.01,
+    "prScore": 69.51,
+    "issueScore": 5,
+    "reviewScore": 3,
+    "commentScore": 3.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 386,
+    "prDeletions": 39,
+    "prChangedFiles": 19,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T09:49:00Z",
+  "lastContribution": "2026-03-11T01:50:05Z",
+  "recentPRs": [
+    {
+      "number": 42656,
+      "title": "fix(synology-chat): add keywordFilterEnabled option for optional keyword filtering",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T01:50:05Z",
+      "mergedAt": null,
+      "additions": 104,
+      "deletions": 4,
+      "changedFiles": 8
+    },
+    {
+      "number": 41968,
+      "title": "fix(directives): preserve code-block indentation in outbound replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T08:38:43Z",
+      "mergedAt": null,
+      "additions": 127,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 41872,
+      "title": "fix(directive-tags): preserve code block indentation in outbound replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T07:03:36Z",
+      "mergedAt": null,
+      "additions": 93,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 40893,
+      "title": "Fix Feishu Chinese filename displayed as URL-encoded in file uploads (Closes #40770)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T10:57:20Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 14,
+      "changedFiles": 4
+    },
+    {
+      "number": 40833,
+      "title": "Fix Feishu Chinese filename displayed as URL-encoded in file uploads (Closes #40770)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T09:49:00Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 10,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41860,
+      "title": "[Bug]: When openclaw sends a link with an underscore to Feishu, the full hyperlink cannot be displayed",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T06:52:15Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41968,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T09:28:39Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 1
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

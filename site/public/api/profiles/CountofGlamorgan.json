@@ -1,0 +1,154 @@
+{
+  "username": "CountofGlamorgan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59939121?v=4",
+  "githubUrl": "https://github.com/CountofGlamorgan",
+  "score": {
+    "score": 43.25,
+    "prScore": 9.75,
+    "issueScore": 33,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 42,
+    "prDeletions": 55,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 6,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 6,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-01T13:30:14Z",
+  "lastContribution": "2026-03-11T07:39:11Z",
+  "recentPRs": [
+    {
+      "number": 42950,
+      "title": "fix(feishu): preserve UTF-8 filenames in file uploads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T07:39:11Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 55,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42228,
+      "title": "Feishu: slash commands (/reset, /new, /status) not intercepted in group chats",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T14:30:13Z",
+      "closedAt": null
+    },
+    {
+      "number": 41675,
+      "title": "Feishu: reply/quoted image content not downloaded in group chat",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T03:13:05Z",
+      "closedAt": null
+    },
+    {
+      "number": 41654,
+      "title": "Cron subagent API errors (e.g. thinking block rejection) leak as visible channel messages",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T02:48:42Z",
+      "closedAt": null
+    },
+    {
+      "number": 40800,
+      "title": "2026.3.8 regression: ACP sessions_spawn fails with 'spawnedBy is only supported for subagent:* sessions'",
+      "state": "CLOSED",
+      "createdAt": "2026-03-09T08:57:10Z",
+      "closedAt": "2026-03-11T23:50:20Z"
+    },
+    {
+      "number": 36263,
+      "title": "fix(cron): payload.fallbacks not persisted via cron.update API",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T14:34:18Z",
+      "closedAt": null
+    },
+    {
+      "number": 30675,
+      "title": "web_search tool returns missing_gemini_api_key for concurrent subagent calls",
+      "state": "OPEN",
+      "createdAt": "2026-03-01T13:30:14Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-01": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

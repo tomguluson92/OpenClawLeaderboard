@@ -1,0 +1,131 @@
+{
+  "username": "digital2dna",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10132512?u=92f6a483642c37ec35fe5f1a536b261daf78ded8&v=4",
+  "githubUrl": "https://github.com/digital2dna",
+  "score": {
+    "score": 62.67,
+    "prScore": 45.17,
+    "issueScore": 5,
+    "reviewScore": 12,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 290,
+    "prDeletions": 34,
+    "prChangedFiles": 22,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T13:33:12Z",
+  "lastContribution": "2026-03-12T01:25:02Z",
+  "recentPRs": [
+    {
+      "number": 42617,
+      "title": "feat(pairing): add configurable pairingMessage text per channel (#41058)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T01:04:46Z",
+      "mergedAt": null,
+      "additions": 290,
+      "deletions": 34,
+      "changedFiles": 22
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41058,
+      "title": "[Feature]: Configurable pairing message text to stop exposing implementation details (channels.*.pairingMessage)",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T13:33:12Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 42617,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T01:25:02Z"
+    },
+    {
+      "prNumber": 42617,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T01:24:57Z"
+    },
+    {
+      "prNumber": 42617,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T01:24:45Z"
+    },
+    {
+      "prNumber": 42617,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T01:24:38Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 4
+    }
+  }
+}

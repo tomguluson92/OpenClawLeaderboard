@@ -1,0 +1,122 @@
+{
+  "username": "DranboFieldston",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/258684645?u=478d6d5281e89fb24020a6ecfb5dd2cf5978978e&v=4",
+  "githubUrl": "https://github.com/DranboFieldston",
+  "score": {
+    "score": 31.93,
+    "prScore": 18.43,
+    "issueScore": 8,
+    "reviewScore": 3,
+    "commentScore": 2.5
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 130,
+    "prDeletions": 6,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T00:14:09Z",
+  "lastContribution": "2026-03-09T15:38:51Z",
+  "recentPRs": [
+    {
+      "number": 39347,
+      "title": "fix: Strip provider prefix from model ID and normalize proxy base URLs in Gemini PDF tool",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T01:31:46Z",
+      "mergedAt": null,
+      "additions": 126,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 39304,
+      "title": "fix: Strip provider prefix from model ID in Gemini PDF tool",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T00:49:50Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39279,
+      "title": "PDF tool returns 404 Not Found when using Gemini provider",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T00:14:09Z",
+      "closedAt": "2026-03-10T21:09:53Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 39347,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T15:38:51Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

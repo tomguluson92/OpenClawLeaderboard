@@ -1,0 +1,224 @@
+{
+  "username": "okuyam2y",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/982333?v=4",
+  "githubUrl": "https://github.com/okuyam2y",
+  "score": {
+    "score": 109.6,
+    "prScore": 77.1,
+    "issueScore": 13,
+    "reviewScore": 15,
+    "commentScore": 4.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 472,
+    "prDeletions": 42,
+    "prChangedFiles": 15,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 9,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 1,
+      "reviews": 5,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 2,
+      "reviews": 5,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T13:05:52Z",
+  "lastContribution": "2026-03-11T13:37:05Z",
+  "recentPRs": [
+    {
+      "number": 43217,
+      "title": "fix: gate Google thinkingLevel injection on model.reasoning",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T13:37:05Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 14,
+      "changedFiles": 3
+    },
+    {
+      "number": 39980,
+      "title": "fix(utils): replace maskApiKey partial exposure with full redaction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T15:15:33Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 22,
+      "changedFiles": 3
+    },
+    {
+      "number": 39840,
+      "title": "fix(gateway): silently auto-approve local role-upgrade pairing requests",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T12:41:25Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39709,
+      "title": "fix(reasoning-tags): fall back to tag-only removal when strict mode produces empty result",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T10:12:52Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 38689,
+      "title": "fix(telegram): add reasoning filter to slash command delivery path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T08:22:55Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 37892,
+      "title": "fix(telegram): suppress bare Reasoning: prefix leak during Gemini streaming",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T14:11:43Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35510,
+      "title": "feat: add configurable exec blocked paths guard",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T05:30:03Z",
+      "mergedAt": null,
+      "additions": 220,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 37890,
+      "title": "Gemini raw reasoning text leaks into answer during Telegram DM streaming",
+      "state": "CLOSED",
+      "createdAt": "2026-03-06T14:11:31Z",
+      "closedAt": "2026-03-08T15:07:15Z"
+    },
+    {
+      "number": 34452,
+      "title": "maskApiKey leaks up to 16 characters of API keys in chat messages",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T13:05:52Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 35510,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T06:31:17Z"
+    },
+    {
+      "prNumber": 35510,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T06:31:10Z"
+    },
+    {
+      "prNumber": 35510,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T06:31:09Z"
+    },
+    {
+      "prNumber": 35510,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T06:15:06Z"
+    },
+    {
+      "prNumber": 35510,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T06:06:31Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

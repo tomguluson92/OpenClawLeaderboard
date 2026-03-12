@@ -1,0 +1,94 @@
+{
+  "username": "hsiaoa",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70124331?u=3eadb3dbdc3c1ab6143db0a24c6316529af3d61d&v=4",
+  "githubUrl": "https://github.com/hsiaoa",
+  "score": {
+    "score": 22.99,
+    "prScore": 14.99,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 56,
+    "prDeletions": 0,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 7,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 7,
+      "commitDeletions": 0,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-02T23:23:56Z",
+  "lastContribution": "2026-03-02T23:34:15Z",
+  "recentPRs": [
+    {
+      "number": 32295,
+      "title": "models-config: apply config env vars before implicit provider discovery",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T23:34:15Z",
+      "mergedAt": "2026-03-03T00:25:25Z",
+      "additions": 56,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32290,
+      "title": "bedrock-discovery ignores env.vars and AWS credentials from config",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T23:23:56Z",
+      "closedAt": "2026-03-03T00:25:26Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-03": 1
+  },
+  "recentActivityDays": {
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "username": "kevinsong0",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/100554541?u=7946db7a857e7dfdb976daf4f77782f15542e67c&v=4",
+  "githubUrl": "https://github.com/kevinsong0",
+  "score": {
+    "score": 249.2,
+    "prScore": 239.7,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 3.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 20,
+    "prsMerged": 0,
+    "prAdditions": 1880,
+    "prDeletions": 26,
+    "prChangedFiles": 44,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T08:15:53Z",
+  "lastContribution": "2026-03-06T06:52:12Z",
+  "recentPRs": [
+    {
+      "number": 37321,
+      "title": "fix: respect user-configured baseUrl for MiniMax provider",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:52:12Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 37287,
+      "title": "docs(troubleshooting): add Xfinity SSL error section for FAQ anchor link",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:26:16Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35270,
+      "title": "fix(skills): coerce skill name to string to prevent YAML number parsing issue",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T02:44:57Z",
+      "mergedAt": null,
+      "additions": 248,
+      "deletions": 7,
+      "changedFiles": 7
+    },
+    {
+      "number": 35255,
+      "title": "fix(gateway): reset seq and reconnect on event gap to prevent stale state",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T02:33:24Z",
+      "mergedAt": null,
+      "additions": 236,
+      "deletions": 5,
+      "changedFiles": 6
+    },
+    {
+      "number": 34293,
+      "title": "docs(contributing): add Feishu contribution guide",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T10:15:31Z",
+      "mergedAt": null,
+      "additions": 236,
+      "deletions": 5,
+      "changedFiles": 6
+    },
+    {
+      "number": 34288,
+      "title": "docs(tools): add plugin tools section with Feishu reference",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T10:07:33Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34270,
+      "title": "docs(feishu): add comprehensive README for Feishu plugin",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:55:48Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34268,
+      "title": "docs(feishu): add testing guide and troubleshooting section",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:53:33Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34245,
+      "title": "docs(feishu): add available tools section to Feishu channel docs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:33:57Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34224,
+      "title": "test(feishu): add reaction schema validation tests",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:15:55Z",
+      "mergedAt": null,
+      "additions": 156,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34210,
+      "title": "docs(feishu): add complete emoji reference guide",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:01:49Z",
+      "mergedAt": null,
+      "additions": 139,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34101,
+      "title": "docs(zh-CN): add Feishu reaction tool documentation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T07:15:38Z",
+      "mergedAt": null,
+      "additions": 127,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 34100,
+      "title": "docs(reactions): add Feishu/Lark reaction tool notes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T07:15:35Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34099,
+      "title": "feat(feishu): add reaction tool (add/remove/list emoji reactions)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T07:14:36Z",
+      "mergedAt": null,
+      "additions": 566,
+      "deletions": 1,
+      "changedFiles": 8
+    },
+    {
+      "number": 33909,
+      "title": "fix: respect user-configured baseUrl for Moonshot provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T04:16:58Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 32866,
+      "title": "fix: add RTL mark support for Telegram draft streaming",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T09:56:22Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 32844,
+      "title": "fix: improve Slack manifest copy instructions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T09:35:52Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 32835,
+      "title": "fix: correct abort-signal import in nextcloud-talk extension",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T09:19:26Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 32817,
+      "title": "fix: correct normalizeSecretInputString import in feishu extension",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T09:02:14Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    },
+    {
+      "number": 32758,
+      "title": "fix: allow channels without sendMedia in createPluginHandler",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:15:53Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 32866,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T10:44:43Z"
+    },
+    {
+      "prNumber": 32835,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T10:44:41Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

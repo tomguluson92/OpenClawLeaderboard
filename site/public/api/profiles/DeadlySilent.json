@@ -1,0 +1,98 @@
+{
+  "username": "DeadlySilent",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3342508?v=4",
+  "githubUrl": "https://github.com/DeadlySilent",
+  "score": {
+    "score": 17.6,
+    "prScore": 9.6,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 72,
+    "prDeletions": 3,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T11:58:45Z",
+  "lastContribution": "2026-03-10T15:57:02Z",
+  "recentPRs": [
+    {
+      "number": 42194,
+      "title": "fix(openai-codex): normalize legacy override transport to codex responses",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T13:43:28Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 3,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39792,
+      "title": "[Bug]: openai-codex OAuth returns 400 'Authorization header is badly formatted' after upgrade to 2026.3.7",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T11:58:45Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

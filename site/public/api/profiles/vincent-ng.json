@@ -1,0 +1,100 @@
+{
+  "username": "vincent-ng",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6469269?v=4",
+  "githubUrl": "https://github.com/vincent-ng",
+  "score": {
+    "score": 24.12,
+    "prScore": 10.62,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 401,
+    "prDeletions": 16,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T15:44:49Z",
+  "lastContribution": "2026-03-08T16:18:48Z",
+  "recentPRs": [
+    {
+      "number": 40045,
+      "title": "fix(feishu): prevent duplicate streaming messages with comprehensive tests",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T16:06:47Z",
+      "mergedAt": null,
+      "additions": 401,
+      "deletions": 16,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40028,
+      "title": "[Bug]: Feishu streaming sends duplicate messages with corrupted format",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T15:49:09Z",
+      "closedAt": null
+    },
+    {
+      "number": 40021,
+      "title": "Fix: Feishu streaming sends duplicate messages with corrupted format",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T15:44:49Z",
+      "closedAt": "2026-03-08T15:47:19Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

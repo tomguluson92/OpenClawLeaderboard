@@ -1,0 +1,189 @@
+{
+  "username": "ccsang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3917184?u=7388890a8bbc29dcff8584c85eaf827be575ff42&v=4",
+  "githubUrl": "https://github.com/ccsang",
+  "score": {
+    "score": 124.9,
+    "prScore": 117.9,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 4
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 9,
+    "prsMerged": 0,
+    "prAdditions": 1028,
+    "prDeletions": 110,
+    "prChangedFiles": 26,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 8,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 8,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T07:07:33Z",
+  "lastContribution": "2026-03-11T23:50:08Z",
+  "recentPRs": [
+    {
+      "number": 43525,
+      "title": "fix(ui): show full command/args in tool card sidebar (#43153)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T23:50:08Z",
+      "mergedAt": null,
+      "additions": 192,
+      "deletions": 12,
+      "changedFiles": 4
+    },
+    {
+      "number": 43115,
+      "title": "fix(cron): avoid manual cron.run deadlock with re-entrant lane detection (#43008)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T10:53:20Z",
+      "mergedAt": null,
+      "additions": 105,
+      "deletions": 11,
+      "changedFiles": 7
+    },
+    {
+      "number": 42790,
+      "title": "fix(status): skip tailscale probe when mode is off",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T04:32:49Z",
+      "mergedAt": null,
+      "additions": 153,
+      "deletions": 30,
+      "changedFiles": 4
+    },
+    {
+      "number": 42689,
+      "title": "fix: honor proxy env during codex oauth token exchange",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T02:33:08Z",
+      "mergedAt": null,
+      "additions": 200,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 42070,
+      "title": "fix: add missing zh-CN cron jobs labels",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T11:02:28Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 42018,
+      "title": "Fix/issue 41993 ssrf mixed dns",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T09:53:40Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 16,
+      "changedFiles": 2
+    },
+    {
+      "number": 41917,
+      "title": "Fix/issue 41845 start recover",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T07:57:08Z",
+      "mergedAt": null,
+      "additions": 239,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 34112,
+      "title": "feat(telegram): send authorization hint when bot is @mentioned but unauthorized",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T07:28:56Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 26,
+      "changedFiles": 1
+    },
+    {
+      "number": 34095,
+      "title": "feat: add /groupid command to show Telegram group chat ID",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T07:07:33Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42790,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T04:39:01Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

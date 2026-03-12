@@ -1,0 +1,362 @@
+{
+  "username": "byungsker",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/72309817?v=4",
+  "githubUrl": "https://github.com/byungsker",
+  "score": {
+    "score": 408.93,
+    "prScore": 355.93,
+    "issueScore": 0,
+    "reviewScore": 12,
+    "commentScore": 41
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 9,
+    "prs": 26,
+    "prsMerged": 2,
+    "prAdditions": 2243,
+    "prDeletions": 122,
+    "prChangedFiles": 73,
+    "prMergeRate": 8,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 82,
+    "commitAdditions": 1173,
+    "commitDeletions": 84,
+    "weeklyCommits": 1,
+    "monthlyCommits": 16,
+    "commitChangedFiles": 32
+  },
+  "period": {
+    "weekly": {
+      "prs": 16,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 56,
+      "commitAdditions": 243,
+      "commitDeletions": 7,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 26,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 82,
+      "commitAdditions": 1173,
+      "commitDeletions": 84,
+      "commits": 11
+    }
+  },
+  "firstContribution": "2026-02-27T15:59:21Z",
+  "lastContribution": "2026-03-12T01:40:52Z",
+  "recentPRs": [
+    {
+      "number": 39766,
+      "title": "fix(config): make models.providers.<id>.models optional to allow credential-only entries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T11:23:05Z",
+      "mergedAt": null,
+      "additions": 278,
+      "deletions": 8,
+      "changedFiles": 8
+    },
+    {
+      "number": 39650,
+      "title": "fix(ui): use SPA navigation for session links to preserve in-memory auth token",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T09:01:16Z",
+      "mergedAt": null,
+      "additions": 163,
+      "deletions": 7,
+      "changedFiles": 5
+    },
+    {
+      "number": 39293,
+      "title": "fix(skills): use maxCandidatesPerRoot for workspace skill discovery window",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T00:34:41Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 38967,
+      "title": "fix(imessage): strip [[reply_to:...]] directive tags before delivery",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T15:39:25Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 38900,
+      "title": "fix(security): use icacls /sid for locale-independent Windows ACL audit",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T13:49:44Z",
+      "mergedAt": "2026-03-07T17:49:33Z",
+      "additions": 182,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 38408,
+      "title": "fix(gateway): chat.abort RPC now aborts Pi agent, sub-agents, and queues",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T23:54:13Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38397,
+      "title": "fix(daemon): treat systemd bus connection failure as 'not enabled' during onboard",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T23:24:13Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38393,
+      "title": "fix(agents): apply cache_control injection for LiteLLM-proxied Anthropic models",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T23:20:24Z",
+      "mergedAt": null,
+      "additions": 250,
+      "deletions": 18,
+      "changedFiles": 2
+    },
+    {
+      "number": 37980,
+      "title": "fix(agents): apply cache_control injection for LiteLLM-proxied Anthropic models",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:17:10Z",
+      "mergedAt": null,
+      "additions": 238,
+      "deletions": 18,
+      "changedFiles": 2
+    },
+    {
+      "number": 36216,
+      "title": "fix(ui): catch marked.js parse errors and fall back to escaped plain text",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T13:49:17Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 36214,
+      "title": "fix(security): use icacls /sid for locale-independent Windows ACL audit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T13:47:07Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 35836,
+      "title": "fix(msteams): strip stray double-quote from Graph API messageId",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T09:24:49Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35829,
+      "title": "fix(agents): inject messageToolHints into sub-agent prompts in minimal mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T09:21:16Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35813,
+      "title": "fix(exec): bypass cmd.exe for explicit PowerShell invocations on Windows",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T09:09:28Z",
+      "mergedAt": null,
+      "additions": 159,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35553,
+      "title": "fix(telegram): only mark selected model \u2713 for the matching provider",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:05:35Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 35493,
+      "title": "fix(session): archive old transcript on daily/scheduled reset to prevent orphaned files",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T05:11:12Z",
+      "mergedAt": "2026-03-05T19:52:23Z",
+      "additions": 61,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 35186,
+      "title": "fix(agents): recognise OpenAI/Codex `server_error` JSON body as retryable so model fallback triggers on transient 500s",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T01:37:33Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 35126,
+      "title": "fix(exec): persist script path for shell+script \"Always allow\" so it survives across runs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T00:56:24Z",
+      "mergedAt": null,
+      "additions": 267,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 34591,
+      "title": "fix(feishu): strip :reaction: suffix from message_id before Feishu API calls",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T15:18:53Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 8,
+      "changedFiles": 5
+    },
+    {
+      "number": 34553,
+      "title": "fix(agents): recover reply when model omits <final> tags with enforceFinalTag",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T14:43:15Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 6,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 40594,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T05:35:48Z"
+    },
+    {
+      "prNumber": 40581,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T05:12:06Z"
+    },
+    {
+      "prNumber": 40574,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T05:11:08Z"
+    },
+    {
+      "prNumber": 40574,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T05:10:56Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-07": 1,
+    "2026-03-05": 1,
+    "2026-03-02": 1,
+    "2026-02-27": 1,
+    "2026-02-26": 3,
+    "2026-02-25": 1,
+    "2026-02-24": 1,
+    "2026-02-22": 1,
+    "2026-02-20": 1
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 4
+    }
+  }
+}

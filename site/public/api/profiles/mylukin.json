@@ -1,0 +1,312 @@
+{
+  "username": "mylukin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1021019?v=4",
+  "githubUrl": "https://github.com/mylukin",
+  "score": {
+    "score": 309.82,
+    "prScore": 302.32,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 7.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 20,
+    "prsMerged": 0,
+    "prAdditions": 46998,
+    "prDeletions": 3058,
+    "prChangedFiles": 400,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 15,
+    "commitAdditions": 8,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 14,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 15,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-27T07:35:06Z",
+  "lastContribution": "2026-03-09T19:43:41Z",
+  "recentPRs": [
+    {
+      "number": 39080,
+      "title": "feat(feishu): streaming cards, native reply dispatcher, and message recall handling",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T18:18:27Z",
+      "mergedAt": null,
+      "additions": 5930,
+      "deletions": 212,
+      "changedFiles": 57
+    },
+    {
+      "number": 38747,
+      "title": "feat(cli-runner): 3-layer context overflow protection and LLM-based bootstrap compaction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T10:03:53Z",
+      "mergedAt": null,
+      "additions": 6300,
+      "deletions": 1211,
+      "changedFiles": 16
+    },
+    {
+      "number": 38746,
+      "title": "fix: buffer split BPE tokens to prevent silent-token prefix leak during streaming",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T10:03:41Z",
+      "mergedAt": null,
+      "additions": 193,
+      "deletions": 8,
+      "changedFiles": 6
+    },
+    {
+      "number": 38743,
+      "title": "feat(agents): split E bootstrap compaction, overflow protection, and Feishu media persistence",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T09:57:49Z",
+      "mergedAt": null,
+      "additions": 3204,
+      "deletions": 174,
+      "changedFiles": 13
+    },
+    {
+      "number": 38742,
+      "title": "feat(plugins): split D Bun embedded-plugin loading and SkillStore publishing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T09:57:47Z",
+      "mergedAt": null,
+      "additions": 185,
+      "deletions": 29,
+      "changedFiles": 3
+    },
+    {
+      "number": 38741,
+      "title": "feat(feishu): split C message pipeline, streaming cards, and plugin dispatch",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T09:57:44Z",
+      "mergedAt": null,
+      "additions": 9242,
+      "deletions": 399,
+      "changedFiles": 62
+    },
+    {
+      "number": 38740,
+      "title": "feat(cli): split B backend routing, MCP context propagation, and streaming safety",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T09:57:42Z",
+      "mergedAt": null,
+      "additions": 3709,
+      "deletions": 114,
+      "changedFiles": 41
+    },
+    {
+      "number": 38739,
+      "title": "feat(core): split A runtime hooks, node policy, slug routing, and image pre-analysis",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T09:57:40Z",
+      "mergedAt": null,
+      "additions": 2398,
+      "deletions": 102,
+      "changedFiles": 32
+    },
+    {
+      "number": 38732,
+      "title": "feat(cli-runner): add context overflow protection and LLM-based bootstrap compaction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T09:46:58Z",
+      "mergedAt": null,
+      "additions": 2064,
+      "deletions": 82,
+      "changedFiles": 11
+    },
+    {
+      "number": 38722,
+      "title": "fix(feishu): persist bot media-only messages to DB",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T09:37:50Z",
+      "mergedAt": null,
+      "additions": 277,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 38720,
+      "title": "fix: buffer split BPE tokens to prevent silent-token prefix leak during streaming",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T09:36:08Z",
+      "mergedAt": null,
+      "additions": 165,
+      "deletions": 6,
+      "changedFiles": 5
+    },
+    {
+      "number": 36393,
+      "title": "fix(mattermost): migrate monolithic plugin-sdk imports to scoped subpaths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T16:01:26Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    },
+    {
+      "number": 36130,
+      "title": "fix: pass message channel header to MCP client",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T12:48:41Z",
+      "mergedAt": null,
+      "additions": 11037,
+      "deletions": 506,
+      "changedFiles": 103
+    },
+    {
+      "number": 35709,
+      "title": "fix(feishu): restore member hook relay, fix import paths, and enrich quoted-message mentions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T07:44:02Z",
+      "mergedAt": null,
+      "additions": 288,
+      "deletions": 5,
+      "changedFiles": 9
+    },
+    {
+      "number": 35705,
+      "title": "fix(cli): honor systemPromptWhen=always on session resume",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T07:42:55Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35696,
+      "title": "feat(core): enrich plugin delivery metadata, carry ChannelData, and expose embedded runtime API",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T07:40:23Z",
+      "mergedAt": null,
+      "additions": 463,
+      "deletions": 185,
+      "changedFiles": 18
+    },
+    {
+      "number": 35692,
+      "title": "fix(slug-gen): resolve model aliases and support hook-level model override",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T07:38:37Z",
+      "mergedAt": null,
+      "additions": 362,
+      "deletions": 11,
+      "changedFiles": 5
+    },
+    {
+      "number": 35676,
+      "title": "fix(mcp): harden MCP loopback server and scope CLI tool access to claude-cli",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T07:32:15Z",
+      "mergedAt": null,
+      "additions": 1086,
+      "deletions": 9,
+      "changedFiles": 9
+    },
+    {
+      "number": 35674,
+      "title": "fix(hooks): restore messageId/metadata in message_sent and channelData in message_received",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T07:30:23Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 35671,
+      "title": "fix(heartbeat): prevent LLM from delivering HEARTBEAT_OK via message tool",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T07:30:00Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-01-29": 1
+  },
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

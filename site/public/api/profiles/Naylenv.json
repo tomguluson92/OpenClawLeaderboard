@@ -1,0 +1,304 @@
+{
+  "username": "Naylenv",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45486779?u=ecc99a3b8012a356df67a8607822bcefdb12573a&v=4",
+  "githubUrl": "https://github.com/Naylenv",
+  "score": {
+    "score": 579.61,
+    "prScore": 579.61,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 64,
+    "prsMerged": 0,
+    "prAdditions": 6148,
+    "prDeletions": 315,
+    "prChangedFiles": 208,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 16,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 64,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T09:45:15Z",
+  "lastContribution": "2026-03-05T09:03:20Z",
+  "recentPRs": [
+    {
+      "number": 35806,
+      "title": "fix: [Bug]: Windows node onboarding: no --token flag, config overwritten on restart, confusing devices/nodes split (#35796)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T09:03:20Z",
+      "mergedAt": null,
+      "additions": 162,
+      "deletions": 26,
+      "changedFiles": 8
+    },
+    {
+      "number": 35797,
+      "title": "fix: Bug: Orphaned parent session when subagent session is cleaned up before runTimeout fires (#35791)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T08:56:16Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 35786,
+      "title": "fix: BlueBubbles: debounce flush crashes on null text (.trim() on null) (#35777)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T08:47:06Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35781,
+      "title": "fix: Out of memory: Process killed with no error message (#35773)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T08:43:11Z",
+      "mergedAt": null,
+      "additions": 196,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 35772,
+      "title": "fix: [Bug]: Homebrew version shows \"dev\" - requires OPENCLAW_VERSION env var (#35768)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T08:38:47Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 35727,
+      "title": "fix: [Bug]: Browser warning: unsupported command line switch --disable-blink-features=AutomationControlled (#35721)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T07:57:41Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 38,
+      "changedFiles": 2
+    },
+    {
+      "number": 35723,
+      "title": "fix: [Bug]: Matrix channel fails to attach files from agent workspace (Local media path is not under an allowed directory) (#35715)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T07:54:56Z",
+      "mergedAt": null,
+      "additions": 170,
+      "deletions": 3,
+      "changedFiles": 12
+    },
+    {
+      "number": 35695,
+      "title": "fix: Matrix: Agents unable to send files (#35686)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T07:39:46Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 3,
+      "changedFiles": 8
+    },
+    {
+      "number": 35666,
+      "title": "fix: [Bug]: Version 2026.3.2 TUI does not have cron / connector permission (#35658)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T07:25:36Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35664,
+      "title": "fix: [Bug]: Feishu logs refresh frequently (#35656)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T07:22:23Z",
+      "mergedAt": null,
+      "additions": 100,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35657,
+      "title": "fix: Failed delivery notifications leak into group chats (Telegram) (#35655)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T07:19:00Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35606,
+      "title": "fix: [Bug] Discord agentComponents config rejected by strict Zod schema (#35564)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:45:21Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35593,
+      "title": "fix: openai-codex provider: pipe-delimited tool call IDs written to transcript break Codex API validation (#35528)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:38:25Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 35587,
+      "title": "fix: Doctor injects orphan top-level keys into multi-account telegram config on every CLI command (#35560)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:35:32Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35566,
+      "title": "fix: message:sent internal hook never fires for direct agent responses (#35557)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:18:07Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 35555,
+      "title": "fix: UX: no feedback during context auto-compaction (10-30s freeze) (#35545)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:06:16Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 1,
+      "changedFiles": 12
+    },
+    {
+      "number": 35417,
+      "title": "fix: Telegram skill commands registered multiple times (_2, _3 suffixes) (#35285)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:18:14Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35412,
+      "title": "fix: [Bug] Gateway restart causes Telegram group sessions to reset instead of restoring from sessions.json (#35283)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:15:22Z",
+      "mergedAt": null,
+      "additions": 205,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 35381,
+      "title": "fix: openclaw-tui: Messages displaying twice in terminal UI (#35278)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T03:54:53Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35376,
+      "title": "fix: openclaw-tui: Messages displaying twice in terminal UI (#35277)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T03:52:23Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 3,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

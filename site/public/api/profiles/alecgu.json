@@ -1,0 +1,104 @@
+{
+  "username": "alecgu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30724675?v=4",
+  "githubUrl": "https://github.com/alecgu",
+  "score": {
+    "score": 21.16,
+    "prScore": 8.16,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 46,
+    "prDeletions": 0,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T09:19:15Z",
+  "lastContribution": "2026-03-09T12:43:22Z",
+  "recentPRs": [
+    {
+      "number": 40697,
+      "title": "feat(feishu): add delete_record tool for bitable",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T06:43:18Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40986,
+      "title": "[Feature] Share memory between different sessions of the same agent",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T12:43:22Z",
+      "closedAt": null
+    },
+    {
+      "number": 31526,
+      "title": "[Bug]: Feishu messages being sent twice - duplicate delivery via delivery-mirror",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T09:19:15Z",
+      "closedAt": "2026-03-02T13:35:59Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "username": "iFwu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16523864?u=0b6c2d47d1f64dad89828bef2e66c86ea636ac67&v=4",
+  "githubUrl": "https://github.com/iFwu",
+  "score": {
+    "score": 16,
+    "prScore": 0,
+    "issueScore": 13,
+    "reviewScore": 3,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 0,
+    "prsMerged": 0,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T03:01:51Z",
+  "lastContribution": "2026-03-11T11:44:32Z",
+  "recentPRs": [],
+  "recentIssues": [
+    {
+      "number": 39609,
+      "title": "[Bug]: Main session context collapses onto an orphan branch with `Compactions: 0`",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T07:54:37Z",
+      "closedAt": null
+    },
+    {
+      "number": 38510,
+      "title": "[Bug]: Gateway crashes on Discord client re-init after wrapped fetch/TLS error",
+      "state": "CLOSED",
+      "createdAt": "2026-03-07T03:01:51Z",
+      "closedAt": "2026-03-07T03:47:33Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 35691,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T11:44:32Z"
+    }
+  ],
+  "skills": [
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

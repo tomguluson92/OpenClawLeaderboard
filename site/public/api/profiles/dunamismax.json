@@ -1,0 +1,329 @@
+{
+  "username": "dunamismax",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/65822992?u=12c9dd16ec4d400df5be982474ffdc6bb53cf179&v=4",
+  "githubUrl": "https://github.com/dunamismax",
+  "score": {
+    "score": 326.71,
+    "prScore": 313.71,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 7
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 26,
+    "prsMerged": 2,
+    "prAdditions": 3535,
+    "prDeletions": 723,
+    "prChangedFiles": 97,
+    "prMergeRate": 8,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 14,
+    "commitAdditions": 92,
+    "commitDeletions": 11,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 11
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 10,
+      "commitAdditions": 45,
+      "commitDeletions": 3,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 26,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 14,
+      "commitAdditions": 92,
+      "commitDeletions": 11,
+      "commits": 3
+    }
+  },
+  "firstContribution": "2026-03-02T22:11:01Z",
+  "lastContribution": "2026-03-08T02:48:16Z",
+  "recentPRs": [
+    {
+      "number": 39397,
+      "title": "fix(ui): support agent config union schemas in config form analyzer",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T02:48:16Z",
+      "mergedAt": null,
+      "additions": 297,
+      "deletions": 295,
+      "changedFiles": 4
+    },
+    {
+      "number": 39384,
+      "title": "fix(gateway): remove duplicate webchat chat fanout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T02:20:26Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 22,
+      "changedFiles": 5
+    },
+    {
+      "number": 39326,
+      "title": "fix(ui): auto-create agent config entry so agents-page edits mark form dirty",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T01:10:15Z",
+      "mergedAt": null,
+      "additions": 140,
+      "deletions": 104,
+      "changedFiles": 3
+    },
+    {
+      "number": 38977,
+      "title": "fix(discord): keep native /new and /reset on bound channel session",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T15:54:30Z",
+      "mergedAt": null,
+      "additions": 825,
+      "deletions": 69,
+      "changedFiles": 13
+    },
+    {
+      "number": 38324,
+      "title": "docs: clarify NVIDIA refs with slash-containing model ids",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T20:28:57Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 38325,
+      "title": "fix: point misplaced Feishu plugin creds to channels.feishu",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T20:28:57Z",
+      "mergedAt": null,
+      "additions": 140,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 38156,
+      "title": "fix(cron): keep fallback watchdog independent from agent timeout",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:40:59Z",
+      "mergedAt": null,
+      "additions": 87,
+      "deletions": 101,
+      "changedFiles": 3
+    },
+    {
+      "number": 37933,
+      "title": "gateway: clear runtime model metadata on sessions.reset",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:42:47Z",
+      "mergedAt": null,
+      "additions": 103,
+      "deletions": 27,
+      "changedFiles": 4
+    },
+    {
+      "number": 34854,
+      "title": "fix(agents): include all assistant text segments in channel delivery",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T18:29:42Z",
+      "mergedAt": null,
+      "additions": 298,
+      "deletions": 17,
+      "changedFiles": 6
+    },
+    {
+      "number": 34831,
+      "title": "fix(slack): thread channel ID through inbound context for reactions",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T18:14:09Z",
+      "mergedAt": "2026-03-06T02:47:31Z",
+      "additions": 45,
+      "deletions": 3,
+      "changedFiles": 7
+    },
+    {
+      "number": 34826,
+      "title": "fix(discord): respond to unauthorized slash commands instead of silent timeout",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T18:10:57Z",
+      "mergedAt": null,
+      "additions": 321,
+      "deletions": 2,
+      "changedFiles": 5
+    },
+    {
+      "number": 34813,
+      "title": "fix(doctor): eliminate false positive orphan transcript warnings",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T18:06:52Z",
+      "mergedAt": null,
+      "additions": 129,
+      "deletions": 16,
+      "changedFiles": 4
+    },
+    {
+      "number": 34806,
+      "title": "fix(agents): prevent Gemini PDF URL /v1beta duplication",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T18:03:45Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 34803,
+      "title": "fix(infra): classify SQLite transient errors to prevent crash loops",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T18:03:02Z",
+      "mergedAt": null,
+      "additions": 89,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 34763,
+      "title": "fix: strip synthetic :reaction: suffix from Feishu message IDs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T17:22:53Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34762,
+      "title": "fix: treat HTTP 400 errors as permanent in delivery queue",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T17:22:34Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 34759,
+      "title": "fix: remove double Markdown-to-mrkdwn conversion in Slack streaming",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T17:22:15Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 6,
+      "changedFiles": 1
+    },
+    {
+      "number": 34758,
+      "title": "fix: use message.thinking instead of message.reasoning for Ollama native API",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T17:21:25Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 34723,
+      "title": "fix: Anthropic 529 overloaded_error failover + thinking block corruption on retry",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T16:52:18Z",
+      "mergedAt": null,
+      "additions": 267,
+      "deletions": 2,
+      "changedFiles": 10
+    },
+    {
+      "number": 34510,
+      "title": "docs(architecture): document timestamp injection strategy, close #34422",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T14:05:30Z",
+      "mergedAt": null,
+      "additions": 356,
+      "deletions": 11,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 34723,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T17:12:18Z"
+    },
+    {
+      "prNumber": 34723,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T17:12:16Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-06": 1,
+    "2026-03-02": 2
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

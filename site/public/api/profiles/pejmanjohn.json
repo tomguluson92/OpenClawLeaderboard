@@ -1,0 +1,157 @@
+{
+  "username": "pejmanjohn",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/481729?v=4",
+  "githubUrl": "https://github.com/pejmanjohn",
+  "score": {
+    "score": 202.08,
+    "prScore": 195.58,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 3.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 9,
+    "prs": 5,
+    "prsMerged": 5,
+    "prAdditions": 603,
+    "prDeletions": 19,
+    "prChangedFiles": 19,
+    "prMergeRate": 100,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 798,
+    "commitDeletions": 42,
+    "weeklyCommits": 5,
+    "monthlyCommits": 7,
+    "commitChangedFiles": 27
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 7,
+      "commitAdditions": 603,
+      "commitDeletions": 19,
+      "commits": 5
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 7,
+      "commitAdditions": 798,
+      "commitDeletions": 42,
+      "commits": 9
+    }
+  },
+  "firstContribution": "2026-03-09T15:30:54Z",
+  "lastContribution": "2026-03-10T21:11:56Z",
+  "recentPRs": [
+    {
+      "number": 42280,
+      "title": "docs(acp): document resumeSessionId for session resume",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T15:21:44Z",
+      "mergedAt": "2026-03-10T17:06:09Z",
+      "additions": 27,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 41847,
+      "title": "feat(acp): add resumeSessionId to sessions_spawn for ACP session resume",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T06:30:48Z",
+      "mergedAt": "2026-03-10T09:36:13Z",
+      "additions": 98,
+      "deletions": 8,
+      "changedFiles": 9
+    },
+    {
+      "number": 41331,
+      "title": "fix(acp): scope cancellation and event routing by runId",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T18:02:48Z",
+      "mergedAt": "2026-03-10T21:37:21Z",
+      "additions": 298,
+      "deletions": 10,
+      "changedFiles": 3
+    },
+    {
+      "number": 41187,
+      "title": "fix(acp): map error states to end_turn instead of unconditional refusal",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T15:31:24Z",
+      "mergedAt": "2026-03-09T16:37:33Z",
+      "additions": 117,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 41185,
+      "title": "fix(acp): propagate setSessionMode gateway errors to client",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T15:30:54Z",
+      "mergedAt": "2026-03-09T16:50:38Z",
+      "additions": 63,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 41331,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T21:11:56Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "precision",
+      "label": "Precision",
+      "description": "90%+ PR merge rate"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-10": 3,
+    "2026-03-09": 2,
+    "2026-02-18": 1,
+    "2026-02-14": 3
+  },
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-09": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

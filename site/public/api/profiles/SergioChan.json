@@ -1,0 +1,304 @@
+{
+  "username": "SergioChan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10103766?u=c58ebaf6aba79b02ce3b392c3a0240af9d59df4b&v=4",
+  "githubUrl": "https://github.com/SergioChan",
+  "score": {
+    "score": 414.03,
+    "prScore": 398.53,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 15.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 40,
+    "prsMerged": 0,
+    "prAdditions": 2264,
+    "prDeletions": 438,
+    "prChangedFiles": 104,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 31,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 40,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 31,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 40,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 31,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T12:37:02Z",
+  "lastContribution": "2026-03-11T20:52:50Z",
+  "recentPRs": [
+    {
+      "number": 43463,
+      "title": "fix(msteams): persist first-DM conversation reference in pairing path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T20:52:50Z",
+      "mergedAt": null,
+      "additions": 133,
+      "deletions": 24,
+      "changedFiles": 2
+    },
+    {
+      "number": 43396,
+      "title": "fix(daemon): use kickstart-first launchd restart path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T18:05:54Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 52,
+      "changedFiles": 2
+    },
+    {
+      "number": 43377,
+      "title": "test(config): cover requiresOpenAiAnthropicToolPayload compat key",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T17:18:17Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43344,
+      "title": "fix(msteams): persist first-DM conversation reference in pairing path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:35:52Z",
+      "mergedAt": null,
+      "additions": 131,
+      "deletions": 24,
+      "changedFiles": 2
+    },
+    {
+      "number": 43333,
+      "title": "fix(agents): sanitize tool call ids for OpenAI-compatible responses routes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T16:22:28Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 43321,
+      "title": "fix(daemon): avoid self-kill dead restart loop for launchd restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:08:15Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 52,
+      "changedFiles": 2
+    },
+    {
+      "number": 43309,
+      "title": "fix(cron): avoid false unscheduled reminder note for isolated cron jobs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T15:56:19Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 2,
+      "changedFiles": 5
+    },
+    {
+      "number": 43298,
+      "title": "fix(node): honor gateway exec ask/security on system.run forwarding",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T15:37:12Z",
+      "mergedAt": null,
+      "additions": 93,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 43191,
+      "title": "fix(heartbeat): prune event-driven turns from main transcript",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T13:05:18Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 43183,
+      "title": "fix: allow same-group message tool usage for media/file sends",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T12:51:35Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43166,
+      "title": "fix(ui): show full tool command in tool-card sidebar",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T12:16:47Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 43055,
+      "title": "fix(cron): avoid manual run self-deadlock on cron lane",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T09:54:50Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43040,
+      "title": "Fix cron.run deadlock from nested cron lane enqueue",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T09:32:55Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 42955,
+      "title": "fix(chat): stop advertising /subagents spawn in UI/help",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T07:47:52Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 42929,
+      "title": "Fix misleading tool failure warning after successful retries",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T07:14:00Z",
+      "mergedAt": null,
+      "additions": 92,
+      "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 42884,
+      "title": "fix(agent): auto-select auth profile for local provider runs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:19:54Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 18,
+      "changedFiles": 2
+    },
+    {
+      "number": 42868,
+      "title": "fix: derive Termux home when HOME resolves to /home",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:04:24Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 42844,
+      "title": "docker: move Playwright browser cache to /opt and expose chrome on PATH",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T05:34:44Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 11,
+      "changedFiles": 5
+    },
+    {
+      "number": 42831,
+      "title": "fix(discord): apply configured proxy to RequestClient REST calls",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T05:19:07Z",
+      "mergedAt": null,
+      "additions": 259,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 42743,
+      "title": "Fix false unknown-entry warnings for optional coding tools",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T03:23:17Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "username": "altaywtf",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9790196?v=4",
+  "githubUrl": "https://github.com/altaywtf",
+  "score": {
+    "score": 585.63,
+    "prScore": 505.13,
+    "issueScore": 0,
+    "reviewScore": 24,
+    "commentScore": 56.5
+  },
+  "tier": "veteran",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 23,
+    "prs": 27,
+    "prsMerged": 20,
+    "prAdditions": 6230,
+    "prDeletions": 486,
+    "prChangedFiles": 198,
+    "prMergeRate": 74,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 8,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 113,
+    "commitAdditions": 5127,
+    "commitDeletions": 353,
+    "weeklyCommits": 36,
+    "monthlyCommits": 56,
+    "commitChangedFiles": 148
+  },
+  "period": {
+    "weekly": {
+      "prs": 22,
+      "issues": 0,
+      "reviews": 7,
+      "comments": 93,
+      "commitAdditions": 3878,
+      "commitDeletions": 300,
+      "commits": 17
+    },
+    "monthly": {
+      "prs": 27,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 113,
+      "commitAdditions": 5127,
+      "commitDeletions": 353,
+      "commits": 23
+    }
+  },
+  "firstContribution": "2026-03-02T10:05:14Z",
+  "lastContribution": "2026-03-11T23:18:05Z",
+  "recentPRs": [
+    {
+      "number": 43476,
+      "title": "test(gateway): widen before tool hook mock typing",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T21:13:10Z",
+      "mergedAt": "2026-03-11T21:17:03Z",
+      "additions": 18,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 42451,
+      "title": "docs(telegram): clarify group and sender allowlists",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T18:42:01Z",
+      "mergedAt": "2026-03-10T18:56:30Z",
+      "additions": 29,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 42450,
+      "title": "docs(telegram): clarify group and sender allowlists",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T18:41:21Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 41439,
+      "title": "Sandbox: avoid config barrel mock crashes in constants",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T21:09:55Z",
+      "mergedAt": "2026-03-09T21:18:41Z",
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 41422,
+      "title": "fix(agents): probe single-provider billing cooldowns",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T20:43:11Z",
+      "mergedAt": "2026-03-09T21:58:51Z",
+      "additions": 152,
+      "deletions": 18,
+      "changedFiles": 4
+    },
+    {
+      "number": 41338,
+      "title": "Logging: harden probe suppression for observations",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T18:07:48Z",
+      "mergedAt": "2026-03-09T22:40:15Z",
+      "additions": 157,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 41337,
+      "title": "Agents: add fallback error observations",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T18:07:40Z",
+      "mergedAt": "2026-03-09T22:12:10Z",
+      "additions": 502,
+      "deletions": 36,
+      "changedFiles": 17
+    },
+    {
+      "number": 41336,
+      "title": "Agents: add embedded error observations",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T18:07:32Z",
+      "mergedAt": "2026-03-09T19:27:06Z",
+      "additions": 634,
+      "deletions": 11,
+      "changedFiles": 9
+    },
+    {
+      "number": 41023,
+      "title": "Agents: add structured error observation logs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T13:09:41Z",
+      "mergedAt": null,
+      "additions": 1072,
+      "deletions": 51,
+      "changedFiles": 23
+    },
+    {
+      "number": 39712,
+      "title": "CLI: include commit hash in --version output",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T10:15:09Z",
+      "mergedAt": "2026-03-08T16:10:48Z",
+      "additions": 903,
+      "deletions": 42,
+      "changedFiles": 19
+    },
+    {
+      "number": 39704,
+      "title": "docs(changelog): add #39377 failover note",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T10:07:47Z",
+      "mergedAt": "2026-03-08T10:09:26Z",
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39652,
+      "title": "fix: remove redundant root strip-ansi dependency",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T09:04:20Z",
+      "mergedAt": "2026-03-08T09:04:47Z",
+      "additions": 0,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 39251,
+      "title": "test(ui): reduce gateway client test mocking",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T22:57:20Z",
+      "mergedAt": "2026-03-07T22:58:44Z",
+      "additions": 67,
+      "deletions": 41,
+      "changedFiles": 1
+    },
+    {
+      "number": 39146,
+      "title": "fix(ci): restore strip-ansi and typecheck fixtures",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T19:56:32Z",
+      "mergedAt": "2026-03-07T20:13:13Z",
+      "additions": 40,
+      "deletions": 5,
+      "changedFiles": 8
+    },
+    {
+      "number": 38353,
+      "title": "fix: unblock check and secrets CI failures",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T21:47:37Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 14,
+      "changedFiles": 4
+    },
+    {
+      "number": 38301,
+      "title": "fix(agents): handle overloaded failover separately",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T19:54:49Z",
+      "mergedAt": "2026-03-06T22:42:11Z",
+      "additions": 1036,
+      "deletions": 84,
+      "changedFiles": 36
+    },
+    {
+      "number": 37817,
+      "title": "fix(agents): classify overloaded failures separately",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T12:49:57Z",
+      "mergedAt": null,
+      "additions": 227,
+      "deletions": 36,
+      "changedFiles": 10
+    },
+    {
+      "number": 37738,
+      "title": "fix(agents): classify overloaded failures separately",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T11:48:02Z",
+      "mergedAt": null,
+      "additions": 227,
+      "deletions": 36,
+      "changedFiles": 10
+    },
+    {
+      "number": 37470,
+      "title": "fix(ci): restore protocol and schema checks",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T08:39:57Z",
+      "mergedAt": "2026-03-06T08:46:17Z",
+      "additions": 91,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 36783,
+      "title": "fix(agents): classify insufficient_quota 400s as billing",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T22:09:09Z",
+      "mergedAt": "2026-03-05T22:17:48Z",
+      "additions": 47,
+      "deletions": 0,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 41468,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T22:17:00Z"
+    },
+    {
+      "prNumber": 39600,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T08:17:48Z"
+    },
+    {
+      "prNumber": 39600,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T08:17:24Z"
+    },
+    {
+      "prNumber": 39600,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T08:16:56Z"
+    },
+    {
+      "prNumber": 39600,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T08:15:10Z"
+    },
+    {
+      "prNumber": 38301,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T20:57:04Z"
+    },
+    {
+      "prNumber": 38301,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T20:49:40Z"
+    },
+    {
+      "prNumber": 32724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T09:05:43Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-11": 1,
+    "2026-03-10": 1,
+    "2026-03-09": 5,
+    "2026-03-08": 3,
+    "2026-03-07": 2,
+    "2026-03-06": 2,
+    "2026-03-05": 3,
+    "2026-03-03": 1,
+    "2026-03-02": 4,
+    "2026-03-01": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

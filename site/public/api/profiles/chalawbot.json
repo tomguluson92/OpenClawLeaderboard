@@ -1,0 +1,183 @@
+{
+  "username": "chalawbot",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/202879235?u=eaa8e0d8749ff38583ec1a7decb9b3a2a0ce7b98&v=4",
+  "githubUrl": "https://github.com/chalawbot",
+  "score": {
+    "score": 170.03,
+    "prScore": 150.53,
+    "issueScore": 13,
+    "reviewScore": 6,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 4228,
+    "prDeletions": 278,
+    "prChangedFiles": 43,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 2,
+      "reviews": 2,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 2,
+      "reviews": 2,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T12:53:14Z",
+  "lastContribution": "2026-03-07T21:45:55Z",
+  "recentPRs": [
+    {
+      "number": 39213,
+      "title": "fix(telegram): coalesce streaming preview across tool-call rounds in partial mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T21:45:55Z",
+      "mergedAt": null,
+      "additions": 174,
+      "deletions": 32,
+      "changedFiles": 5
+    },
+    {
+      "number": 38350,
+      "title": "feat: contextual group activation with peeking/engaged state machine",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T21:42:39Z",
+      "mergedAt": null,
+      "additions": 2643,
+      "deletions": 94,
+      "changedFiles": 20
+    },
+    {
+      "number": 38170,
+      "title": "feat(telegram): embed file_id in media placeholders and add download-file action",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T16:50:51Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 22,
+      "changedFiles": 6
+    },
+    {
+      "number": 38032,
+      "title": "fix(telegram): allow custom providers for sticker vision description cache",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T15:29:14Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 37581,
+      "title": "feat(telegram): support animated and video stickers via thumbnail fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T09:47:58Z",
+      "mergedAt": null,
+      "additions": 234,
+      "deletions": 46,
+      "changedFiles": 4
+    },
+    {
+      "number": 36140,
+      "title": "fix(gateway): support `openclaw gateway restart/stop` in containers without systemd",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T12:54:04Z",
+      "mergedAt": null,
+      "additions": 1061,
+      "deletions": 78,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 38349,
+      "title": "feat: contextual group activation \u2014 LLM-driven peeking/engaged state machine",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T21:40:46Z",
+      "closedAt": null
+    },
+    {
+      "number": 36137,
+      "title": "[Bug]: `openclaw gateway restart/stop` fail in containers without systemd",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T12:53:14Z",
+      "closedAt": "2026-03-08T02:20:30Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 36140,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T14:02:38Z"
+    },
+    {
+      "prNumber": 36140,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T14:01:24Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 4,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "username": "195440",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18521081?u=0548443caf5ceddfbaf3fcba7ebaa90a9ee7f96b&v=4",
+  "githubUrl": "https://github.com/195440",
+  "score": {
+    "score": 15.93,
+    "prScore": 15.93,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 22,
+    "prDeletions": 2,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T05:04:16Z",
+  "lastContribution": "2026-03-05T05:04:34Z",
+  "recentPRs": [
+    {
+      "number": 35486,
+      "title": "fix(compaction): skip LLM API call when no real conversation messages exist",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:04:34Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35485,
+      "title": "fix(cron): create backup before writing new content",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T05:04:16Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

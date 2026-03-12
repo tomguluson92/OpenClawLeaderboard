@@ -1,0 +1,90 @@
+{
+  "username": "dnishimura",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/512169?u=0f70ddd4ff9cb16b43e54095c11f4b8e5d72beba&v=4",
+  "githubUrl": "https://github.com/dnishimura",
+  "score": {
+    "score": 11.11,
+    "prScore": 8.11,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 36,
+    "prDeletions": 4,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T02:42:41Z",
+  "lastContribution": "2026-03-12T02:53:01Z",
+  "recentPRs": [
+    {
+      "number": 43609,
+      "title": "fix(web-search): guard null entries in extractGrokContent, wrap Grok AbortErrors, raise Grok default timeout to 60s",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T02:42:41Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 4,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43609,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:53:01Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

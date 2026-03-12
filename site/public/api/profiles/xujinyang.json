@@ -1,0 +1,227 @@
+{
+  "username": "xujinyang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4199903?u=38638a4e8c758e25fe16b903ea5ef0bb807b9620&v=4",
+  "githubUrl": "https://github.com/xujinyang",
+  "score": {
+    "score": 220.77,
+    "prScore": 220.77,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 13,
+    "prsMerged": 0,
+    "prAdditions": 4302,
+    "prDeletions": 1415,
+    "prChangedFiles": 67,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T02:06:41Z",
+  "lastContribution": "2026-03-08T05:57:08Z",
+  "recentPRs": [
+    {
+      "number": 39529,
+      "title": "fix: extract agentId correctly from sessionKey in before_reset hook",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T05:57:08Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39527,
+      "title": "fix: add shell:true for browser spawn on Windows",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T05:56:00Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39525,
+      "title": "fix: support /agent/ mount path in read tool for workspaceAccess:ro mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T05:54:46Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 21,
+      "changedFiles": 5
+    },
+    {
+      "number": 39524,
+      "title": "fix: support legacy array format for commands.allowFrom",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T05:52:10Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 39523,
+      "title": "fix: support mediaLocalRoots config for Feishu channel",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T05:51:13Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 38540,
+      "title": "fix(tui): show active run hint on Ctrl+C",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T03:40:54Z",
+      "mergedAt": null,
+      "additions": 1026,
+      "deletions": 189,
+      "changedFiles": 13
+    },
+    {
+      "number": 38538,
+      "title": "feat(memory): add proxy support for Gemini embedding API",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T03:39:08Z",
+      "mergedAt": null,
+      "additions": 1024,
+      "deletions": 188,
+      "changedFiles": 12
+    },
+    {
+      "number": 38536,
+      "title": "fix(error): sanitize provider error JSON before displaying to users",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T03:35:48Z",
+      "mergedAt": null,
+      "additions": 1018,
+      "deletions": 187,
+      "changedFiles": 10
+    },
+    {
+      "number": 38534,
+      "title": "feat(config): add autoDiscover flag to disable Ollama auto-discovery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T03:34:21Z",
+      "mergedAt": null,
+      "additions": 996,
+      "deletions": 187,
+      "changedFiles": 9
+    },
+    {
+      "number": 38532,
+      "title": "fix(tools): rename web_search tool to oc_web_search to avoid provider collision",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T03:32:49Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 175,
+      "changedFiles": 4
+    },
+    {
+      "number": 38504,
+      "title": "fix(plugins): reorder plugin discovery to prevent duplicate warnings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T02:54:03Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 174,
+      "changedFiles": 3
+    },
+    {
+      "number": 38498,
+      "title": "fix(version): add debug logging for version resolution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T02:49:42Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 144,
+      "changedFiles": 2
+    },
+    {
+      "number": 38466,
+      "title": "test(agents): add unit tests for resolveAgentAvatar",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T02:06:41Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 144,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

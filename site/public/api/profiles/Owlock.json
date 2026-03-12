@@ -1,0 +1,147 @@
+{
+  "username": "Owlock",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/135854806?v=4",
+  "githubUrl": "https://github.com/Owlock",
+  "score": {
+    "score": 72.82,
+    "prScore": 48.82,
+    "issueScore": 18,
+    "reviewScore": 3,
+    "commentScore": 3
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 578,
+    "prDeletions": 2,
+    "prChangedFiles": 13,
+    "prMergeRate": 33,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 1,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 1,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T02:06:18Z",
+  "lastContribution": "2026-03-10T20:08:29Z",
+  "recentPRs": [
+    {
+      "number": 42478,
+      "title": "docs: clarify stable host-IP pattern for WSL2 + Windows remote Chrome CDP",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T19:55:14Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 42474,
+      "title": "docs: clarify stable host-IP pattern for WSL2 + Windows remote Chrome CDP",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T19:42:58Z",
+      "mergedAt": null,
+      "additions": 288,
+      "deletions": 1,
+      "changedFiles": 6
+    },
+    {
+      "number": 39407,
+      "title": "docs: add WSL2 + Windows remote Chrome CDP troubleshooting guide",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T03:01:08Z",
+      "mergedAt": "2026-03-08T19:21:42Z",
+      "additions": 252,
+      "deletions": 1,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41618,
+      "title": "[Bug] Dashboard/webchat can show \u201cYour authentication token has been invalidated\u201d for non-token root causes",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T02:11:17Z",
+      "closedAt": null
+    },
+    {
+      "number": 41553,
+      "title": "[UX] Surface layer-specific diagnostics for Control UI auth/origin vs remote CDP reachability in WSL2 + Windows setups",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T00:11:04Z",
+      "closedAt": null
+    },
+    {
+      "number": 39369,
+      "title": "[Bug]: WSL2 + Windows + remote Chrome CDP: working setup, misleading failures, and missing diagnostics",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T02:06:18Z",
+      "closedAt": "2026-03-08T19:21:43Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 39407,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T03:40:47Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    }
+  }
+}

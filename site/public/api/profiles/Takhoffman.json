@@ -1,0 +1,486 @@
+{
+  "username": "Takhoffman",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/781889?v=4",
+  "githubUrl": "https://github.com/Takhoffman",
+  "score": {
+    "score": 1336.76,
+    "prScore": 1182.26,
+    "issueScore": 32,
+    "reviewScore": 30,
+    "commentScore": 92.5
+  },
+  "tier": "elite",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 123,
+    "prs": 40,
+    "prsMerged": 33,
+    "prAdditions": 8074,
+    "prDeletions": 706,
+    "prChangedFiles": 225,
+    "prMergeRate": 83,
+    "issues": 4,
+    "issuesClosed": 4,
+    "reviews": 10,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 185,
+    "commitAdditions": 173230,
+    "commitDeletions": 100348,
+    "weeklyCommits": 17,
+    "monthlyCommits": 256,
+    "commitChangedFiles": 7544
+  },
+  "period": {
+    "weekly": {
+      "prs": 21,
+      "issues": 3,
+      "reviews": 3,
+      "comments": 106,
+      "commitAdditions": 1578,
+      "commitDeletions": 209,
+      "commits": 17
+    },
+    "monthly": {
+      "prs": 40,
+      "issues": 4,
+      "reviews": 10,
+      "comments": 185,
+      "commitAdditions": 19277,
+      "commitDeletions": 16592,
+      "commits": 91
+    }
+  },
+  "firstContribution": "2026-03-02T13:35:04Z",
+  "lastContribution": "2026-03-12T03:59:15Z",
+  "recentPRs": [
+    {
+      "number": 43436,
+      "title": "fix: restore web tools to coding profile",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T19:53:18Z",
+      "mergedAt": "2026-03-11T20:07:17Z",
+      "additions": 13,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43248,
+      "title": "Fix env proxy bootstrap for model traffic",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T14:11:07Z",
+      "mergedAt": "2026-03-11T15:21:35Z",
+      "additions": 208,
+      "deletions": 33,
+      "changedFiles": 9
+    },
+    {
+      "number": 41712,
+      "title": "Collect provider routing details in bug reports",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T03:57:52Z",
+      "mergedAt": "2026-03-10T04:01:56Z",
+      "additions": 31,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 40548,
+      "title": "chore(acpx): move runtime test fixtures to test-utils",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T03:46:36Z",
+      "mergedAt": "2026-03-09T03:47:04Z",
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 40142,
+      "title": "fix: scope PR secrets scanning to changed files",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T18:07:38Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 17,
+      "changedFiles": 2
+    },
+    {
+      "number": 40138,
+      "title": "fix(plugins): align duplicate warning with actual skipped copy",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T18:05:31Z",
+      "mergedAt": null,
+      "additions": 160,
+      "deletions": 23,
+      "changedFiles": 4
+    },
+    {
+      "number": 40094,
+      "title": "fix: prefer bundled channel plugins over npm duplicates",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T17:10:11Z",
+      "mergedAt": "2026-03-08T18:00:25Z",
+      "additions": 343,
+      "deletions": 50,
+      "changedFiles": 9
+    },
+    {
+      "number": 39990,
+      "title": "fix(plugins): ship Feishu bundled runtime dependency",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T15:21:12Z",
+      "mergedAt": "2026-03-08T15:36:41Z",
+      "additions": 39,
+      "deletions": 16,
+      "changedFiles": 5
+    },
+    {
+      "number": 39952,
+      "title": "fix: resolve live config paths in status and gateway metadata",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T14:37:42Z",
+      "mergedAt": "2026-03-08T14:59:32Z",
+      "additions": 73,
+      "deletions": 15,
+      "changedFiles": 8
+    },
+    {
+      "number": 39942,
+      "title": "docs: clarify bot review conversation ownership",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T14:30:13Z",
+      "mergedAt": "2026-03-08T14:39:39Z",
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 39083,
+      "title": "fix(gateway): clear stale Slack socket state after disconnect",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T18:20:58Z",
+      "mergedAt": "2026-03-07T18:37:32Z",
+      "additions": 77,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 38643,
+      "title": "fix(gateway): stop stale-socket restarts before first event",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T06:33:54Z",
+      "mergedAt": "2026-03-07T06:58:08Z",
+      "additions": 157,
+      "deletions": 26,
+      "changedFiles": 11
+    },
+    {
+      "number": 38492,
+      "title": "fix(googlechat): inherit shared defaults for multi-account webhook auth",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T02:34:41Z",
+      "mergedAt": "2026-03-07T03:11:55Z",
+      "additions": 147,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 38429,
+      "title": "fix(discord): normalize tagged reasoning in user-visible replies",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T00:43:35Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 5,
+      "changedFiles": 4
+    },
+    {
+      "number": 38425,
+      "title": "fix(gateway): handle malformed tool payload validation safely",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T00:32:03Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 37033,
+      "title": "fix(slack): record app_mention retry key before dedupe check",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T02:31:59Z",
+      "mergedAt": "2026-03-06T03:47:52Z",
+      "additions": 129,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 36868,
+      "title": "onboard: add tools profile picker step and --tools-profile",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T23:31:50Z",
+      "mergedAt": null,
+      "additions": 513,
+      "deletions": 22,
+      "changedFiles": 19
+    },
+    {
+      "number": 36500,
+      "title": "fix(feishu): avoid media regressions from global HTTP timeout",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T17:30:16Z",
+      "mergedAt": "2026-03-05T18:13:40Z",
+      "additions": 214,
+      "deletions": 15,
+      "changedFiles": 5
+    },
+    {
+      "number": 36480,
+      "title": "Mattermost: switch plugin-sdk imports to scoped subpaths",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T17:05:41Z",
+      "mergedAt": "2026-03-05T17:28:16Z",
+      "additions": 6,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 36197,
+      "title": "test(cron): add cross-channel announce fallback regression coverage",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T13:31:35Z",
+      "mergedAt": "2026-03-05T13:37:37Z",
+      "additions": 53,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40141,
+      "title": "[Bug]: secrets PR scan falls back to full-repo scan when base SHA is unavailable",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T18:07:12Z",
+      "closedAt": "2026-03-08T22:16:53Z"
+    },
+    {
+      "number": 40092,
+      "title": "[Bug]: Bundled channel onboarding can install duplicate npm plugin copies",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T17:09:43Z",
+      "closedAt": "2026-03-08T18:00:25Z"
+    },
+    {
+      "number": 39986,
+      "title": "[Bug]: bundled Feishu plugin fails to load after documented install flow",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T15:17:51Z",
+      "closedAt": "2026-03-08T15:36:42Z"
+    },
+    {
+      "number": 31740,
+      "title": "Windows spawn follow-up: unify non-core call sites behind canonical strategy",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T13:54:46Z",
+      "closedAt": "2026-03-02T14:05:41Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 39990,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:27:24Z"
+    },
+    {
+      "prNumber": 35230,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T05:51:12Z"
+    },
+    {
+      "prNumber": 35230,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T05:48:07Z"
+    },
+    {
+      "prNumber": 33786,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T03:24:24Z"
+    },
+    {
+      "prNumber": 32546,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T05:21:18Z"
+    },
+    {
+      "prNumber": 32546,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T05:21:17Z"
+    },
+    {
+      "prNumber": 32546,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T05:21:16Z"
+    },
+    {
+      "prNumber": 32546,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T05:21:14Z"
+    },
+    {
+      "prNumber": 32546,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T04:54:48Z"
+    },
+    {
+      "prNumber": 32546,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T04:54:47Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "centurion",
+      "label": "Centurion",
+      "description": "100+ commits"
+    },
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-11": 2,
+    "2026-03-10": 1,
+    "2026-03-09": 1,
+    "2026-03-08": 5,
+    "2026-03-07": 3,
+    "2026-03-06": 1,
+    "2026-03-05": 7,
+    "2026-03-04": 6,
+    "2026-03-03": 3,
+    "2026-03-02": 9,
+    "2026-03-01": 2,
+    "2026-02-28": 3,
+    "2026-02-23": 11,
+    "2026-02-22": 6,
+    "2026-02-21": 2,
+    "2026-02-20": 3,
+    "2026-02-15": 3,
+    "2026-02-14": 4,
+    "2026-02-13": 4,
+    "2026-02-12": 13,
+    "2026-02-11": 2,
+    "2026-02-10": 2,
+    "2026-02-09": 3,
+    "2026-02-07": 3,
+    "2026-02-06": 5,
+    "2026-02-05": 1,
+    "2026-02-04": 2,
+    "2026-02-03": 8,
+    "2026-02-02": 1,
+    "2026-02-01": 3,
+    "2026-01-31": 3,
+    "2026-01-24": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 6,
+      "issues": 3,
+      "reviews": 1
+    },
+    "2026-03-07": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 6
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "username": "iml885203",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17023091?u=f94e61dfcf0420c3084d1afe7b069b0f96325afd&v=4",
+  "githubUrl": "https://github.com/iml885203",
+  "score": {
+    "score": 70.12,
+    "prScore": 57.12,
+    "issueScore": 10,
+    "reviewScore": 3,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 4386,
+    "prDeletions": 309,
+    "prChangedFiles": 17,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T17:08:47Z",
+  "lastContribution": "2026-03-05T01:02:54Z",
+  "recentPRs": [
+    {
+      "number": 35102,
+      "title": "fix(skill-creator): harden quick_validate.py name/description checks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T00:30:39Z",
+      "mergedAt": null,
+      "additions": 70,
+      "deletions": 25,
+      "changedFiles": 2
+    },
+    {
+      "number": 34742,
+      "title": "feat(skill-creator): port Anthropic skill-creator improvements (eval, benchmark, iterate)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T17:08:47Z",
+      "mergedAt": null,
+      "additions": 4316,
+      "deletions": 284,
+      "changedFiles": 15
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 35134,
+      "title": "[Feature]: skill-creator \u2014 add eval-driven description improvement workflow",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T01:02:54Z",
+      "closedAt": null
+    },
+    {
+      "number": 35110,
+      "title": "[Bug]: skill-creator quick_validate.py silently accepts empty name and description",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T00:40:08Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 35102,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T00:42:02Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 1
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "username": "smartchainark",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/213560776?u=a51774d2a9af65c096b6d7ce2913909844730004&v=4",
+  "githubUrl": "https://github.com/smartchainark",
+  "score": {
+    "score": 148.18,
+    "prScore": 139.68,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 3.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 11,
+    "prsMerged": 0,
+    "prAdditions": 801,
+    "prDeletions": 43,
+    "prChangedFiles": 31,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T18:22:44Z",
+  "lastContribution": "2026-03-12T03:56:27Z",
+  "recentPRs": [
+    {
+      "number": 40816,
+      "title": "fix(update): align entrypoint candidate order with program-args",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T09:28:34Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 34795,
+      "title": "fix(discord): respond to unauthorized slash commands instead of silent timeout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T17:55:24Z",
+      "mergedAt": null,
+      "additions": 123,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 34565,
+      "title": "fix(feishu): strip reaction suffix from message_id before API calls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T14:53:42Z",
+      "mergedAt": null,
+      "additions": 54,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 34461,
+      "title": "fix(cron): advance expired nextRunAtMs after gateway restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T13:15:33Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 34197,
+      "title": "fix(feishu): flush accumulated block replies on idle when streaming unavailable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:51:05Z",
+      "mergedAt": null,
+      "additions": 161,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 34145,
+      "title": "fix(agents): replace blank tool names with sentinel to prevent dispatch loops",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T07:59:54Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 33464,
+      "title": "fix(telegram): frame STT audio transcripts as untrusted content",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T20:21:37Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 33428,
+      "title": "fix(google): guard vertex payload wrapper and patch gaxios fetch fallback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T19:50:24Z",
+      "mergedAt": null,
+      "additions": 184,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 33414,
+      "title": "fix(delivery): move permanently failing messages (HTTP 4xx) to failed/ immediately",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T19:24:53Z",
+      "mergedAt": null,
+      "additions": 100,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 33381,
+      "title": "fix(googlechat): respect replyToMode when sending DM replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T18:47:12Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 33365,
+      "title": "feat(config): add discovery toggles for Copilot, HuggingFace, and Ollama",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T18:22:44Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 4,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40811,
+      "title": "Gateway entrypoint mismatch after `openclaw update` \u2014 plist not reinstalled",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T09:21:17Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

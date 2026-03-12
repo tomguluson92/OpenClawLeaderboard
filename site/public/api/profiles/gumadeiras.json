@@ -1,0 +1,314 @@
+{
+  "username": "gumadeiras",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5599352?v=4",
+  "githubUrl": "https://github.com/gumadeiras",
+  "score": {
+    "score": 1648.7,
+    "prScore": 1630.7,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 18
+  },
+  "tier": "elite",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 268,
+    "prs": 13,
+    "prsMerged": 8,
+    "prAdditions": 41622,
+    "prDeletions": 6593,
+    "prChangedFiles": 595,
+    "prMergeRate": 62,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 36,
+    "commitAdditions": 49610,
+    "commitDeletions": 24351,
+    "weeklyCommits": 10,
+    "monthlyCommits": 209,
+    "commitChangedFiles": 2125
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 20,
+      "commitAdditions": 4488,
+      "commitDeletions": 666,
+      "commits": 12
+    },
+    "monthly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 36,
+      "commitAdditions": 34107,
+      "commitDeletions": 7917,
+      "commits": 187
+    }
+  },
+  "firstContribution": "2026-03-02T09:47:52Z",
+  "lastContribution": "2026-03-11T22:29:16Z",
+  "recentPRs": [
+    {
+      "number": 43460,
+      "title": "Memory: add multimodal image and audio indexing",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T20:46:24Z",
+      "mergedAt": "2026-03-11T22:28:34Z",
+      "additions": 1295,
+      "deletions": 178,
+      "changedFiles": 23
+    },
+    {
+      "number": 43409,
+      "title": "memory: normalize Gemini embeddings",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T18:36:57Z",
+      "mergedAt": "2026-03-11T19:06:22Z",
+      "additions": 96,
+      "deletions": 24,
+      "changedFiles": 8
+    },
+    {
+      "number": 40946,
+      "title": "Matrix: replace legacy plugin with new implementation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T11:55:14Z",
+      "mergedAt": null,
+      "additions": 32127,
+      "deletions": 5514,
+      "changedFiles": 262
+    },
+    {
+      "number": 37266,
+      "title": "Gateway: add path-scoped config schema lookup",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T06:07:04Z",
+      "mergedAt": "2026-03-06T07:50:48Z",
+      "additions": 633,
+      "deletions": 7,
+      "changedFiles": 18
+    },
+    {
+      "number": 36904,
+      "title": "Diffs: restore system prompt guidance",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T00:23:28Z",
+      "mergedAt": "2026-03-06T00:46:39Z",
+      "additions": 48,
+      "deletions": 4,
+      "changedFiles": 6
+    },
+    {
+      "number": 36567,
+      "title": "plugins: enforce prompt hook policy with runtime validation",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T18:29:13Z",
+      "mergedAt": "2026-03-05T23:15:54Z",
+      "additions": 379,
+      "deletions": 3,
+      "changedFiles": 15
+    },
+    {
+      "number": 36547,
+      "title": "Harden Telegram poll gating and schema consistency",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T18:09:13Z",
+      "mergedAt": "2026-03-06T00:24:44Z",
+      "additions": 1129,
+      "deletions": 65,
+      "changedFiles": 27
+    },
+    {
+      "number": 34775,
+      "title": "Fix Telegram poll actions and routing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T17:37:28Z",
+      "mergedAt": null,
+      "additions": 633,
+      "deletions": 18,
+      "changedFiles": 17
+    },
+    {
+      "number": 33737,
+      "title": "Plugin SDK: add channel subpaths and migrate bundled plugins",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T01:36:02Z",
+      "mergedAt": null,
+      "additions": 802,
+      "deletions": 177,
+      "changedFiles": 75
+    },
+    {
+      "number": 33690,
+      "title": "build: fix ineffective dynamic imports with lazy boundaries",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T00:46:58Z",
+      "mergedAt": "2026-03-04T01:14:41Z",
+      "additions": 330,
+      "deletions": 153,
+      "changedFiles": 31
+    },
+    {
+      "number": 32769,
+      "title": "Agent: unify bootstrap truncation warning handling",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T08:26:17Z",
+      "mergedAt": "2026-03-03T21:28:38Z",
+      "additions": 1485,
+      "deletions": 221,
+      "changedFiles": 34
+    },
+    {
+      "number": 32335,
+      "title": "CLI: dedupe config validate errors and expose allowed values",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T00:28:01Z",
+      "mergedAt": null,
+      "additions": 1393,
+      "deletions": 134,
+      "changedFiles": 41
+    },
+    {
+      "number": 32050,
+      "title": "CLI: dedupe config validate errors and expose allowed values",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T18:49:16Z",
+      "mergedAt": null,
+      "additions": 1272,
+      "deletions": 95,
+      "changedFiles": 38
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "centurion",
+      "label": "Centurion",
+      "description": "100+ commits"
+    },
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-11": 4,
+    "2026-03-08": 2,
+    "2026-03-06": 5,
+    "2026-03-05": 1,
+    "2026-03-04": 69,
+    "2026-03-03": 6,
+    "2026-03-02": 7,
+    "2026-03-01": 6,
+    "2026-02-28": 2,
+    "2026-02-26": 13,
+    "2026-02-24": 3,
+    "2026-02-23": 4,
+    "2026-02-21": 3,
+    "2026-02-20": 3,
+    "2026-02-19": 4,
+    "2026-02-18": 8,
+    "2026-02-17": 7,
+    "2026-02-16": 2,
+    "2026-02-15": 7,
+    "2026-02-14": 10,
+    "2026-02-13": 3,
+    "2026-02-12": 10,
+    "2026-02-11": 4,
+    "2026-02-10": 5,
+    "2026-02-08": 6,
+    "2026-02-07": 3,
+    "2026-02-06": 6,
+    "2026-02-05": 11,
+    "2026-02-04": 4,
+    "2026-02-03": 7,
+    "2026-02-01": 1,
+    "2026-01-30": 10,
+    "2026-01-29": 3,
+    "2026-01-28": 3,
+    "2026-01-27": 18,
+    "2026-01-18": 4,
+    "2026-01-17": 1,
+    "2026-01-16": 1,
+    "2026-01-13": 2
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

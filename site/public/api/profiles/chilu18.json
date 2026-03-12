@@ -1,0 +1,134 @@
+{
+  "username": "chilu18",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7957943?v=4",
+  "githubUrl": "https://github.com/chilu18",
+  "score": {
+    "score": 212.01,
+    "prScore": 211.01,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 11,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 1026,
+    "prDeletions": 929,
+    "prChangedFiles": 84,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 1086,
+    "commitDeletions": 146,
+    "weeklyCommits": 0,
+    "monthlyCommits": 16,
+    "commitChangedFiles": 32
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 1086,
+      "commitDeletions": 146,
+      "commits": 11
+    }
+  },
+  "firstContribution": "2026-03-04T03:29:41Z",
+  "lastContribution": "2026-03-09T03:47:19Z",
+  "recentPRs": [
+    {
+      "number": 33904,
+      "title": "fix(cli): add bin/openclaw.js shim",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T04:13:08Z",
+      "mergedAt": null,
+      "additions": 248,
+      "deletions": 229,
+      "changedFiles": 21
+    },
+    {
+      "number": 33900,
+      "title": "fix(browser): use wsUrl for extension act routes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T04:10:12Z",
+      "mergedAt": null,
+      "additions": 248,
+      "deletions": 230,
+      "changedFiles": 19
+    },
+    {
+      "number": 33870,
+      "title": "fix(browser): use wsUrl when available for extension snapshots",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T03:49:15Z",
+      "mergedAt": null,
+      "additions": 245,
+      "deletions": 232,
+      "changedFiles": 19
+    },
+    {
+      "number": 33865,
+      "title": "fix(slack): reply to DM channel id",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T03:43:31Z",
+      "mergedAt": null,
+      "additions": 244,
+      "deletions": 230,
+      "changedFiles": 19
+    },
+    {
+      "number": 33847,
+      "title": "fix(system.run): accept rawCommand matching wrapper argv",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T03:29:41Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 8,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 3,
+    "2026-03-01": 1,
+    "2026-02-24": 6,
+    "2026-02-23": 1
+  },
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

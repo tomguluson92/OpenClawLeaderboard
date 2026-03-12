@@ -1,0 +1,93 @@
+{
+  "username": "devkoriel",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11952424?u=2b1311bf5ac942cd07b30d22f60bb13152faebf3&v=4",
+  "githubUrl": "https://github.com/devkoriel",
+  "score": {
+    "score": 19.72,
+    "prScore": 10.22,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 144,
+    "prDeletions": 70,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T01:37:42Z",
+  "lastContribution": "2026-03-03T01:53:56Z",
+  "recentPRs": [
+    {
+      "number": 32391,
+      "title": "fix(voice-call): clear failed runtime promise to prevent EADDRINUSE errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T01:44:40Z",
+      "mergedAt": null,
+      "additions": 144,
+      "deletions": 70,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32387,
+      "title": "[voice-call] Port conflict error on every call attempt (EADDRINUSE)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T01:37:42Z",
+      "closedAt": "2026-03-03T02:39:51Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

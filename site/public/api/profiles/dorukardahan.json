@@ -1,0 +1,195 @@
+{
+  "username": "dorukardahan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35905596?v=4",
+  "githubUrl": "https://github.com/dorukardahan",
+  "score": {
+    "score": 218.81,
+    "prScore": 183.31,
+    "issueScore": 5,
+    "reviewScore": 24,
+    "commentScore": 6.5
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 5,
+    "prs": 4,
+    "prsMerged": 2,
+    "prAdditions": 1845,
+    "prDeletions": 562,
+    "prChangedFiles": 37,
+    "prMergeRate": 50,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 8,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 13,
+    "commitAdditions": 1337,
+    "commitDeletions": 229,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 37
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 11,
+      "commitAdditions": 1131,
+      "commitDeletions": 209,
+      "commits": 3
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 1,
+      "reviews": 8,
+      "comments": 13,
+      "commitAdditions": 1337,
+      "commitDeletions": 229,
+      "commits": 5
+    }
+  },
+  "firstContribution": "2026-03-03T07:20:18Z",
+  "lastContribution": "2026-03-09T01:09:49Z",
+  "recentPRs": [
+    {
+      "number": 40160,
+      "title": "fix(models): keep --all aligned with synthetic catalog rows",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T18:36:11Z",
+      "mergedAt": "2026-03-08T23:30:58Z",
+      "additions": 199,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 36979,
+      "title": "docs(install): warn about owner-preserving rsync on migration",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T01:37:01Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 36590,
+      "title": "feat(openai): add gpt-5.4 support for API and Codex OAuth",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T19:04:58Z",
+      "mergedAt": "2026-03-06T05:01:38Z",
+      "additions": 911,
+      "deletions": 176,
+      "changedFiles": 27
+    },
+    {
+      "number": 32691,
+      "title": "fix(gateway): align health and doctor with runtime state",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T07:21:25Z",
+      "mergedAt": null,
+      "additions": 723,
+      "deletions": 372,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32689,
+      "title": "[Bug]: gateway health drops live runtime state and doctor warns for disabled allowlist channels",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T07:20:18Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 36590,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T01:22:57Z"
+    },
+    {
+      "prNumber": 36590,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T21:23:20Z"
+    },
+    {
+      "prNumber": 36590,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T20:00:32Z"
+    },
+    {
+      "prNumber": 36590,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T19:24:03Z"
+    },
+    {
+      "prNumber": 32691,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T09:17:33Z"
+    },
+    {
+      "prNumber": 32691,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:26:15Z"
+    },
+    {
+      "prNumber": 32691,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:08:39Z"
+    },
+    {
+      "prNumber": 32691,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T07:38:21Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-08": 2,
+    "2026-03-06": 1,
+    "2026-03-03": 1,
+    "2026-02-23": 1
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "username": "ingyukoh",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6015960?v=4",
+  "githubUrl": "https://github.com/ingyukoh",
+  "score": {
+    "score": 217.55,
+    "prScore": 168.05,
+    "issueScore": 45,
+    "reviewScore": 0,
+    "commentScore": 4.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 4,
+    "prs": 9,
+    "prsMerged": 4,
+    "prAdditions": 156,
+    "prDeletions": 25,
+    "prChangedFiles": 27,
+    "prMergeRate": 44,
+    "issues": 6,
+    "issuesClosed": 5,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 9,
+    "commitAdditions": 91,
+    "commitDeletions": 15,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 16
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 6,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 91,
+      "commitDeletions": 15,
+      "commits": 4
+    },
+    "monthly": {
+      "prs": 9,
+      "issues": 6,
+      "reviews": 0,
+      "comments": 9,
+      "commitAdditions": 91,
+      "commitDeletions": 15,
+      "commits": 4
+    }
+  },
+  "firstContribution": "2026-03-02T21:44:57Z",
+  "lastContribution": "2026-03-11T07:46:40Z",
+  "recentPRs": [
+    {
+      "number": 40616,
+      "title": "fix(agents): prevent false billing error replacing valid response text",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T05:07:31Z",
+      "mergedAt": "2026-03-11T19:00:11Z",
+      "additions": 54,
+      "deletions": 14,
+      "changedFiles": 7
+    },
+    {
+      "number": 35621,
+      "title": "fix(browser): accept \"openclaw\" as browser profile driver in schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:52:18Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 35615,
+      "title": "fix(discovery): add missing domain to wideArea Zod config schema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T06:50:03Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35608,
+      "title": "fix(discord): add missing autoThread to DiscordGuildChannelConfig type",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T06:46:40Z",
+      "mergedAt": "2026-03-11T18:54:49Z",
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 35578,
+      "title": "fix(signal): add missing accountUuid to Zod config schema",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T06:28:39Z",
+      "mergedAt": "2026-03-11T17:57:07Z",
+      "additions": 14,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 35565,
+      "title": "fix(discord): add missing agentComponents to Zod config schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:16:54Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35498,
+      "title": "fix(config): add missing editMessage and createForumTopic to Telegram actions schema",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T05:17:40Z",
+      "mergedAt": "2026-03-11T17:59:28Z",
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 32243,
+      "title": "fix(slack): preserve session continuity for top-level channel messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T22:31:14Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 32197,
+      "title": "fix(mac): default to universal binary for release builds",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T21:44:57Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 35620,
+      "title": "[Bug] Browser profile driver \"openclaw\" rejected by Zod schema (only accepts legacy \"clawd\")",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T06:52:17Z",
+      "closedAt": "2026-03-08T09:04:50Z"
+    },
+    {
+      "number": 35614,
+      "title": "[Bug] discovery.wideArea.domain config rejected by strict Zod schema",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T06:50:02Z",
+      "closedAt": null
+    },
+    {
+      "number": 35607,
+      "title": "[Bug] DiscordGuildChannelConfig type missing autoThread field",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T06:46:26Z",
+      "closedAt": "2026-03-11T18:54:51Z"
+    },
+    {
+      "number": 35577,
+      "title": "[Bug] Signal accountUuid config rejected by strict Zod schema",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T06:28:27Z",
+      "closedAt": "2026-03-11T17:57:09Z"
+    },
+    {
+      "number": 35564,
+      "title": "[Bug] Discord agentComponents config rejected by strict Zod schema",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T06:16:38Z",
+      "closedAt": "2026-03-08T03:11:13Z"
+    },
+    {
+      "number": 35497,
+      "title": "[Bug]: Telegram actions schema missing editMessage and createForumTopic fields",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T05:17:19Z",
+      "closedAt": "2026-03-11T17:59:29Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-11": 4
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 6,
+      "issues": 6,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

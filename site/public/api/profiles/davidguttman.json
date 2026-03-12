@@ -1,0 +1,183 @@
+{
+  "username": "davidguttman",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/431696?v=4",
+  "githubUrl": "https://github.com/davidguttman",
+  "score": {
+    "score": 204.25,
+    "prScore": 197.75,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 4,
+    "prs": 7,
+    "prsMerged": 2,
+    "prAdditions": 2697,
+    "prDeletions": 142,
+    "prChangedFiles": 39,
+    "prMergeRate": 29,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 706,
+    "commitDeletions": 34,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 19
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 576,
+      "commitDeletions": 19,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 576,
+      "commitDeletions": 19,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-02-27T20:19:02Z",
+  "lastContribution": "2026-03-12T00:06:44Z",
+  "recentPRs": [
+    {
+      "number": 43535,
+      "title": "Agents: add shared simple completion runtime",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T00:06:44Z",
+      "mergedAt": null,
+      "additions": 516,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 43427,
+      "title": "add missing autoArchiveDuration to DiscordGuildChannelConfig type",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T19:32:24Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43366,
+      "title": "feat(discord): add autoThreadName 'generated' strategy",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T17:07:35Z",
+      "mergedAt": null,
+      "additions": 1139,
+      "deletions": 110,
+      "changedFiles": 12
+    },
+    {
+      "number": 42564,
+      "title": "[ignore] feat(discord): add autoThreadName config with LLM summarization",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T23:13:20Z",
+      "mergedAt": null,
+      "additions": 216,
+      "deletions": 6,
+      "changedFiles": 6
+    },
+    {
+      "number": 42404,
+      "title": "fix(acp): implicit streamToParent for mode=run without thread",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T17:38:43Z",
+      "mergedAt": "2026-03-10T20:42:15Z",
+      "additions": 483,
+      "deletions": 17,
+      "changedFiles": 8
+    },
+    {
+      "number": 35065,
+      "title": "feat(discord): add autoArchiveDuration config option",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T23:33:26Z",
+      "mergedAt": "2026-03-10T22:13:25Z",
+      "additions": 93,
+      "deletions": 2,
+      "changedFiles": 5
+    },
+    {
+      "number": 34789,
+      "title": "feat(discord): add autoThreadName and autoThreadArchiveMin config options",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T17:49:30Z",
+      "mergedAt": null,
+      "additions": 248,
+      "deletions": 7,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 29116,
+      "title": "[Bug]: restart-sentinel consumed on startup but wake message never delivered",
+      "state": "OPEN",
+      "createdAt": "2026-02-27T20:19:02Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-10": 2,
+    "2026-01-12": 2
+  },
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-02-27": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

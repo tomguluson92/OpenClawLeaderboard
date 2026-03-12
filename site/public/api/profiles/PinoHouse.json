@@ -1,0 +1,162 @@
+{
+  "username": "PinoHouse",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5390633?u=ffd29919360f15dca8e784dca70b6e733f263be5&v=4",
+  "githubUrl": "https://github.com/PinoHouse",
+  "score": {
+    "score": 110.76,
+    "prScore": 110.76,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 301,
+    "prDeletions": 129,
+    "prChangedFiles": 29,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 4,
+    "commitDeletions": 4,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 4,
+      "commitDeletions": 4,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-03T04:50:00Z",
+  "lastContribution": "2026-03-03T04:50:21Z",
+  "recentPRs": [
+    {
+      "number": 32557,
+      "title": "feat(discord): format reasoning blocks as blockquotes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:50:21Z",
+      "mergedAt": null,
+      "additions": 78,
+      "deletions": 69,
+      "changedFiles": 2
+    },
+    {
+      "number": 32556,
+      "title": "chore: update labeler.yml for missing and stale entries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:50:18Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 32555,
+      "title": "fix(msteams): clear pending upload timeout on removal",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:50:15Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 32554,
+      "title": "fix(daemon): include WorkingDirectory in LaunchAgent plist",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:50:12Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 32553,
+      "title": "fix(config): deduplicate repeated config warnings on reload",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:50:09Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 13,
+      "changedFiles": 1
+    },
+    {
+      "number": 32552,
+      "title": "fix: preserve thought_signature for Anthropic providers during compaction",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:50:05Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 32551,
+      "title": "fix(daemon): fix backslash escape in systemd env parser",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:50:03Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 32550,
+      "title": "docs: fix heading formatting, broken links, and stale redirects",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:50:00Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 30,
+      "changedFiles": 16
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-24": 1
+  },
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

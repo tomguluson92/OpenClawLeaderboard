@@ -1,0 +1,156 @@
+{
+  "username": "YUJIE2002",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/123847463?v=4",
+  "githubUrl": "https://github.com/YUJIE2002",
+  "score": {
+    "score": 106.25,
+    "prScore": 93.25,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 2,
+    "prs": 5,
+    "prsMerged": 1,
+    "prAdditions": 634,
+    "prDeletions": 38,
+    "prChangedFiles": 17,
+    "prMergeRate": 20,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 269,
+    "commitDeletions": 8,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 5
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 269,
+      "commitDeletions": 8,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-01T13:27:55Z",
+  "lastContribution": "2026-03-03T05:01:45Z",
+  "recentPRs": [
+    {
+      "number": 32580,
+      "title": "fix(gateway): scope chat event broadcasts to session-associated clients",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T05:01:45Z",
+      "mergedAt": null,
+      "additions": 366,
+      "deletions": 19,
+      "changedFiles": 5
+    },
+    {
+      "number": 31867,
+      "title": "fix: prevent orphaned session locks after cron job completion",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T16:04:42Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 31782,
+      "title": "fix(telegram): preserve original filename from document/audio/video/animation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T14:36:31Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 31730,
+      "title": "fix(gateway): prevent sessions_send from corrupting target session channel",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-02T13:41:33Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 31718,
+      "title": "fix(config): harden backup file permissions and clean orphan .bak files",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T13:31:13Z",
+      "mergedAt": "2026-03-02T20:40:15Z",
+      "additions": 155,
+      "deletions": 6,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32579,
+      "title": "[Bug]: Gateway broadcasts chat events to all WebSocket clients regardless of session",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T05:00:50Z",
+      "closedAt": null
+    },
+    {
+      "number": 30673,
+      "title": "[Bug]: Channel-level `groups` config silently inherited by all Telegram accounts via shallow merge, causing message loss in multi-account setups",
+      "state": "CLOSED",
+      "createdAt": "2026-03-01T13:27:55Z",
+      "closedAt": "2026-03-02T02:08:12Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 2
+  },
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-01": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

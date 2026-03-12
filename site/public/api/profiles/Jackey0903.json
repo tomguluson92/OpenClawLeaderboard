@@ -1,0 +1,134 @@
+{
+  "username": "Jackey0903",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/97658517?u=b50a54b5cf47608da399b2a18958c2bd545e02e8&v=4",
+  "githubUrl": "https://github.com/Jackey0903",
+  "score": {
+    "score": 52.88,
+    "prScore": 37.38,
+    "issueScore": 15,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 430,
+    "prDeletions": 1,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T05:27:30Z",
+  "lastContribution": "2026-03-10T15:21:28Z",
+  "recentPRs": [
+    {
+      "number": 42279,
+      "title": "docs(zh-CN): \u6dfb\u52a0 5 \u4e2a CLI \u547d\u4ee4\u4e2d\u6587\u6587\u6863\u7ffb\u8bd1",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T15:21:28Z",
+      "mergedAt": null,
+      "additions": 365,
+      "deletions": 0,
+      "changedFiles": 6
+    },
+    {
+      "number": 42277,
+      "title": "docs(zh-CN): \u6dfb\u52a0 CI \u6d41\u6c34\u7ebf\u6587\u6863\u7ffb\u8bd1",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T15:19:21Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38621,
+      "title": "fix(security): add default pidsLimit for sandbox containers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T05:59:18Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 38633,
+      "title": "[Docs] \u6587\u6863\u4e2d pidsLimit \u793a\u4f8b\u503c\u4e3a 256\uff0c\u4f46\u4ee3\u7801\u65e0\u9ed8\u8ba4\u503c\uff0c\u5bb9\u6613\u8bef\u5bfc\u7528\u6237",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T06:20:25Z",
+      "closedAt": null
+    },
+    {
+      "number": 38604,
+      "title": "[Security] Sandbox containers have no default pidsLimit - vulnerable to fork bomb attacks",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T05:32:04Z",
+      "closedAt": null
+    },
+    {
+      "number": 38601,
+      "title": "[Bug] PTY silently disabled in sandbox mode without warning when pty:true is set",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T05:27:30Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0
+    }
+  }
+}

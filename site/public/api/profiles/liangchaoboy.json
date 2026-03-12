@@ -1,0 +1,154 @@
+{
+  "username": "liangchaoboy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17689793?u=57df5277948babbb030224d3e441520ff10437fc&v=4",
+  "githubUrl": "https://github.com/liangchaoboy",
+  "score": {
+    "score": 166.36,
+    "prScore": 155.36,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 3045,
+    "prDeletions": 8,
+    "prChangedFiles": 79,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T11:34:05Z",
+  "lastContribution": "2026-03-09T10:29:07Z",
+  "recentPRs": [
+    {
+      "number": 40858,
+      "title": "fix: use configurable min max_tokens (16) for model verification",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T10:20:05Z",
+      "mergedAt": null,
+      "additions": 972,
+      "deletions": 4,
+      "changedFiles": 21
+    },
+    {
+      "number": 35880,
+      "title": "fix: add memory check at gateway startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T09:55:53Z",
+      "mergedAt": null,
+      "additions": 881,
+      "deletions": 1,
+      "changedFiles": 19
+    },
+    {
+      "number": 35811,
+      "title": "fix: add memory check at gateway startup (#35773)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T09:07:27Z",
+      "mergedAt": null,
+      "additions": 831,
+      "deletions": 1,
+      "changedFiles": 19
+    },
+    {
+      "number": 35798,
+      "title": "feat(feishu): improve permission error messages with helpful hints",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T08:57:03Z",
+      "mergedAt": null,
+      "additions": 265,
+      "deletions": 1,
+      "changedFiles": 15
+    },
+    {
+      "number": 31632,
+      "title": "feat(providers): add Qiniu Cloud AI as a built-in provider",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T11:34:05Z",
+      "mergedAt": null,
+      "additions": 96,
+      "deletions": 1,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40857,
+      "title": "Model verification fails for third-party OpenAI-compatible providers (e.g., GPT-5.4)",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T10:19:36Z",
+      "closedAt": null
+    },
+    {
+      "number": 35773,
+      "title": "Out of memory: Process killed with no error message",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T08:38:59Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

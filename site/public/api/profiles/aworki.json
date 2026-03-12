@@ -1,0 +1,155 @@
+{
+  "username": "aworki",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/56264443?u=11a5d36c01259ce8dd721e34f7ce17f450ec026c&v=4",
+  "githubUrl": "https://github.com/aworki",
+  "score": {
+    "score": 72.71,
+    "prScore": 69.71,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 288,
+    "prDeletions": 26,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T09:18:01Z",
+  "lastContribution": "2026-03-10T11:53:05Z",
+  "recentPRs": [
+    {
+      "number": 39498,
+      "title": "fix(secrets): prevent ByteString crashes from pasted unicode chars",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T05:03:47Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 39495,
+      "title": "fix(ui): reset agent overview model form on agent switch",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T05:01:09Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 16,
+      "changedFiles": 1
+    },
+    {
+      "number": 39485,
+      "title": "fix(routing): map discord account IDs to matching agents",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T04:53:47Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39481,
+      "title": "fix(slack): support unsigned url_verification in http mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T04:51:11Z",
+      "mergedAt": null,
+      "additions": 147,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39465,
+      "title": "fix(discord): fallback DM target when To is missing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T04:39:40Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34263,
+      "title": "test(plugin-sdk): stabilize root-alias lazy export assertion on Windows",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:51:42Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    },
+    {
+      "number": 34226,
+      "title": "fix(installer): fail early on Windows npm install when Git is missing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:18:01Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 3,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

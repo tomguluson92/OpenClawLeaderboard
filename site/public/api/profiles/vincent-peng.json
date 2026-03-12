@@ -1,0 +1,164 @@
+{
+  "username": "vincent-peng",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9654118?u=072776e48f5eacf0fae19aa48111a7a3f89a00e3&v=4",
+  "githubUrl": "https://github.com/vincent-peng",
+  "score": {
+    "score": 81.11,
+    "prScore": 58.11,
+    "issueScore": 0,
+    "reviewScore": 21,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 799,
+    "prDeletions": 5,
+    "prChangedFiles": 15,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 7,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 7,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 7,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T20:41:14Z",
+  "lastContribution": "2026-03-10T21:41:27Z",
+  "recentPRs": [
+    {
+      "number": 42513,
+      "title": "acp: honor model and thinking in ACP sessions_spawn",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T21:41:27Z",
+      "mergedAt": null,
+      "additions": 215,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39876,
+      "title": "config: hint when plugin config keys are misplaced outside .config",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T13:31:11Z",
+      "mergedAt": null,
+      "additions": 297,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39564,
+      "title": "acp: improve backend-unavailable diagnostics in sessions_spawn",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T06:53:01Z",
+      "mergedAt": null,
+      "additions": 157,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39166,
+      "title": "acp: add defaultRunTimeoutSeconds fallback for ACP sessions_spawn",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T20:41:14Z",
+      "mergedAt": null,
+      "additions": 130,
+      "deletions": 0,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 39876,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T19:41:33Z"
+    },
+    {
+      "prNumber": 39876,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T19:41:32Z"
+    },
+    {
+      "prNumber": 39876,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T19:41:31Z"
+    },
+    {
+      "prNumber": 39564,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T12:01:13Z"
+    },
+    {
+      "prNumber": 39564,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T07:15:10Z"
+    },
+    {
+      "prNumber": 39166,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T20:48:31Z"
+    },
+    {
+      "prNumber": 39166,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T20:48:30Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

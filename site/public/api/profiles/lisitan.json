@@ -1,0 +1,305 @@
+{
+  "username": "lisitan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50470712?u=8d231e17b28451a61d46c25557865a8d05119f55&v=4",
+  "githubUrl": "https://github.com/lisitan",
+  "score": {
+    "score": 270.34,
+    "prScore": 270.34,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 22,
+    "prsMerged": 0,
+    "prAdditions": 2174,
+    "prDeletions": 160,
+    "prChangedFiles": 129,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 19,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 19,
+      "commitDeletions": 1,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 22,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 19,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-05T03:21:17Z",
+  "lastContribution": "2026-03-06T13:21:18Z",
+  "recentPRs": [
+    {
+      "number": 37840,
+      "title": "fix: return undefined for non-string apiKey (PR #37643)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T13:21:18Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 14,
+      "changedFiles": 1
+    },
+    {
+      "number": 37838,
+      "title": "fix: address separator review feedback (PR #37806)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T13:17:42Z",
+      "mergedAt": null,
+      "additions": 176,
+      "deletions": 18,
+      "changedFiles": 14
+    },
+    {
+      "number": 37806,
+      "title": "fix: use agentId parameter instead of closure-captured resolvedAgentId (PR #35438)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T12:28:04Z",
+      "mergedAt": null,
+      "additions": 158,
+      "deletions": 18,
+      "changedFiles": 14
+    },
+    {
+      "number": 37764,
+      "title": "fix: use static import for resolveContextTokensForModel (PR #35500)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T12:20:42Z",
+      "mergedAt": null,
+      "additions": 206,
+      "deletions": 3,
+      "changedFiles": 5
+    },
+    {
+      "number": 37759,
+      "title": "fix(skills): test fixes for numeric skill name coercion",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T12:14:28Z",
+      "mergedAt": null,
+      "additions": 112,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 37668,
+      "title": "fix(docs): remove broken FAQ link to non-existent troubleshooting anchor",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T10:56:36Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 37662,
+      "title": "fix(logging): rotate log file on date change",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T10:51:50Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 37649,
+      "title": "fix(exec): use cmd.exe wrapper for Windows paths with spaces",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T10:36:53Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 37643,
+      "title": "fix(web-search): support SecretRef in apiKey config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T10:33:17Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 14,
+      "changedFiles": 1
+    },
+    {
+      "number": 35533,
+      "title": "fix: add missing editMessage and createForumTopic fields to Telegram actions schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T05:46:42Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35514,
+      "title": "fix: archive transcripts on daily/idle reset to prevent orphaned files",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T05:33:19Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 35507,
+      "title": "fix(telegram): add editMessage and createForumTopic fields to schema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:26:09Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35500,
+      "title": "fix(agents): recalculate contextTokens when model changes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:21:12Z",
+      "mergedAt": null,
+      "additions": 206,
+      "deletions": 3,
+      "changedFiles": 5
+    },
+    {
+      "number": 35456,
+      "title": "fix(doctor): guard apiKey trim against SecretRef objects",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:45:32Z",
+      "mergedAt": null,
+      "additions": 167,
+      "deletions": 15,
+      "changedFiles": 14
+    },
+    {
+      "number": 35450,
+      "title": "fix(llm-task): add type field to input/schema params for llama.cpp compatibility",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T04:41:44Z",
+      "mergedAt": null,
+      "additions": 168,
+      "deletions": 14,
+      "changedFiles": 13
+    },
+    {
+      "number": 35438,
+      "title": "fix(control-ui): reload active file content on refresh",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T04:30:47Z",
+      "mergedAt": null,
+      "additions": 152,
+      "deletions": 12,
+      "changedFiles": 12
+    },
+    {
+      "number": 35430,
+      "title": "fix: preserve draft input when stopping chat",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T04:27:03Z",
+      "mergedAt": null,
+      "additions": 144,
+      "deletions": 11,
+      "changedFiles": 11
+    },
+    {
+      "number": 35420,
+      "title": "fix: guard missing model.input in model list/scan paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T04:19:32Z",
+      "mergedAt": null,
+      "additions": 144,
+      "deletions": 10,
+      "changedFiles": 10
+    },
+    {
+      "number": 35407,
+      "title": "fix: pass OPENCLAW_DOCKER_APT_PACKAGES to podman build",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:14:05Z",
+      "mergedAt": null,
+      "additions": 140,
+      "deletions": 6,
+      "changedFiles": 8
+    },
+    {
+      "number": 35364,
+      "title": "fix: prevent duplicate assistant messages in TUI (fixes #35278)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T03:45:56Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 1
+  },
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

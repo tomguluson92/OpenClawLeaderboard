@@ -1,0 +1,377 @@
+{
+  "username": "xinhuagu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/562450?v=4",
+  "githubUrl": "https://github.com/xinhuagu",
+  "score": {
+    "score": 551.7,
+    "prScore": 518.2,
+    "issueScore": 0,
+    "reviewScore": 18,
+    "commentScore": 15.5
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 12,
+    "prs": 46,
+    "prsMerged": 4,
+    "prAdditions": 3070,
+    "prDeletions": 280,
+    "prChangedFiles": 126,
+    "prMergeRate": 9,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 31,
+    "commitAdditions": 511,
+    "commitDeletions": 81,
+    "weeklyCommits": 1,
+    "monthlyCommits": 12,
+    "commitChangedFiles": 38
+  },
+  "period": {
+    "weekly": {
+      "prs": 43,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 31,
+      "commitAdditions": 164,
+      "commitDeletions": 7,
+      "commits": 4
+    },
+    "monthly": {
+      "prs": 46,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 31,
+      "commitAdditions": 511,
+      "commitDeletions": 81,
+      "commits": 12
+    }
+  },
+  "firstContribution": "2026-03-04T08:57:41Z",
+  "lastContribution": "2026-03-11T19:07:45Z",
+  "recentPRs": [
+    {
+      "number": 43118,
+      "title": "fix(agents): custom providers with local base URLs rejected with \"No API key found\" after onboarding",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T11:01:07Z",
+      "mergedAt": null,
+      "additions": 217,
+      "deletions": 11,
+      "changedFiles": 3
+    },
+    {
+      "number": 41745,
+      "title": "fix(session): defer systemSent persistence until LLM response succeeds",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T04:36:11Z",
+      "mergedAt": null,
+      "additions": 215,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 41090,
+      "title": "fix(plugins): expose model auth API to context-engine plugins",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T13:58:55Z",
+      "mergedAt": "2026-03-09T23:07:26Z",
+      "additions": 63,
+      "deletions": 0,
+      "changedFiles": 6
+    },
+    {
+      "number": 39770,
+      "title": "fix(gateway): graceful retry on EBUSY/EACCES/EPERM file lock errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T11:32:24Z",
+      "mergedAt": null,
+      "additions": 226,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 39702,
+      "title": "fix(agents): strip unsupported schema keywords for Moonshot/Kimi models",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T10:05:03Z",
+      "mergedAt": null,
+      "additions": 211,
+      "deletions": 12,
+      "changedFiles": 6
+    },
+    {
+      "number": 39684,
+      "title": "fix(agents): resolve gateway token from env for agent tool calls",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T09:44:12Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39263,
+      "title": "fix(heartbeat): don't advance schedule on requests-in-flight skip",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T23:28:50Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 38814,
+      "title": "fix(feishu): reply inside P2P threads instead of main chat",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T11:27:34Z",
+      "mergedAt": null,
+      "additions": 92,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 38642,
+      "title": "fix(cli): guard against missing schedule/payload in cron list output",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T06:32:34Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 38530,
+      "title": "fix(gateway): classify wrapped \"fetch failed\" messages as transient network errors",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T03:27:11Z",
+      "mergedAt": "2026-03-07T03:47:33Z",
+      "additions": 49,
+      "deletions": 7,
+      "changedFiles": 4
+    },
+    {
+      "number": 38489,
+      "title": "fix(slack): fall back to context channelId for reactions and file uploads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T02:31:22Z",
+      "mergedAt": null,
+      "additions": 83,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 38456,
+      "title": "fix(agents): allow all configured agents by default when allowAgents is not set",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T01:28:26Z",
+      "mergedAt": null,
+      "additions": 125,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 38448,
+      "title": "fix: downgrade cross-origin duplicate plugin warning to info",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T01:09:14Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 38426,
+      "title": "fix(ui): suppress partial NO_REPLY prefix \"NO\" leaking into console stream",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T00:37:38Z",
+      "mergedAt": null,
+      "additions": 100,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 38422,
+      "title": "fix(feishu): disable block streaming to prevent silent reply drops",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T00:27:26Z",
+      "mergedAt": "2026-03-07T04:33:30Z",
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 38421,
+      "title": "fix(feishu): disable block streaming to prevent silent reply drop",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T00:26:26Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38398,
+      "title": "fix(feishu): disable block streaming to prevent silent reply drops",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T23:27:12Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38373,
+      "title": "fix(feishu): disable block streaming to prevent silent reply drops",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T22:28:39Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38343,
+      "title": "fix(hooks): pass session key to outbound delivery for message:sent hook dispatch",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T21:32:16Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 38323,
+      "title": "fix(feishu): disable block streaming to prevent silent reply drops",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T20:27:42Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 34204,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T21:14:23Z"
+    },
+    {
+      "prNumber": 36673,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T21:12:48Z"
+    },
+    {
+      "prNumber": 36625,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T21:11:54Z"
+    },
+    {
+      "prNumber": 36286,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T21:11:14Z"
+    },
+    {
+      "prNumber": 36286,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T21:11:05Z"
+    },
+    {
+      "prNumber": 36286,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T21:10:53Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-09": 1,
+    "2026-03-07": 2,
+    "2026-03-06": 1,
+    "2026-03-02": 1,
+    "2026-02-27": 1,
+    "2026-02-20": 1,
+    "2026-02-16": 3,
+    "2026-02-15": 1,
+    "2026-02-12": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 6
+    }
+  }
+}

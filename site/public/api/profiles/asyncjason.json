@@ -1,0 +1,169 @@
+{
+  "username": "asyncjason",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4665758?u=ffad0fdaebbe9d0d4ffa0018b2d2553deb877a13&v=4",
+  "githubUrl": "https://github.com/asyncjason",
+  "score": {
+    "score": 85.98,
+    "prScore": 45.48,
+    "issueScore": 23,
+    "reviewScore": 9,
+    "commentScore": 8.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 643,
+    "prDeletions": 27,
+    "prChangedFiles": 11,
+    "prMergeRate": 33,
+    "issues": 4,
+    "issuesClosed": 1,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 17,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 3,
+      "comments": 11,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 4,
+      "reviews": 3,
+      "comments": 17,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T18:46:07Z",
+  "lastContribution": "2026-03-09T23:23:22Z",
+  "recentPRs": [
+    {
+      "number": 41506,
+      "title": "fix(web): resolve account-level ackReaction and allowFrom in group gating",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T23:03:18Z",
+      "mergedAt": null,
+      "additions": 359,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 40511,
+      "title": "fix(web-search): add SecretRef support for provider apiKey resolvers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T03:14:52Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 32080,
+      "title": "fix(tools): strip xAI-unsupported JSON Schema keywords from tool definitions",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T19:19:33Z",
+      "mergedAt": "2026-03-02T20:37:07Z",
+      "additions": 221,
+      "deletions": 12,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41505,
+      "title": "[Bug]: WhatsApp multi-account ackReaction and allowFrom ignore account-level overrides",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T23:02:49Z",
+      "closedAt": null
+    },
+    {
+      "number": 40510,
+      "title": "[Bug]: web_search provider apiKey fields silently drop SecretRef objects (Perplexity, Grok, Kimi, Gemini)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-09T03:14:12Z",
+      "closedAt": "2026-03-10T03:57:04Z"
+    },
+    {
+      "number": 33974,
+      "title": "[Bug]: WhatsApp group config changes (requireMention, group policy) silently ignored until channel restart \u2014 on-message handler holds stale config reference",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T05:18:31Z",
+      "closedAt": null
+    },
+    {
+      "number": 33961,
+      "title": "[Bug]: WhatsApp QR pairing fails 100% on Baileys v7 \u2014 getStatusCode() never unwraps lastDisconnect wrapper, 515 restart path is dead code",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T05:08:42Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41506,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T23:22:57Z"
+    },
+    {
+      "prNumber": 41506,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T23:12:40Z"
+    },
+    {
+      "prNumber": 40511,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T03:24:33Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 3
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

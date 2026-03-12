@@ -1,0 +1,259 @@
+{
+  "username": "liangruochong44-ui",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/229361665?v=4",
+  "githubUrl": "https://github.com/liangruochong44-ui",
+  "score": {
+    "score": 223.66,
+    "prScore": 132.66,
+    "issueScore": 65,
+    "reviewScore": 0,
+    "commentScore": 26
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 1230,
+    "prDeletions": 44,
+    "prChangedFiles": 39,
+    "prMergeRate": 0,
+    "issues": 13,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 52,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 13,
+      "reviews": 0,
+      "comments": 52,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 13,
+      "reviews": 0,
+      "comments": 52,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T01:41:22Z",
+  "lastContribution": "2026-03-09T01:02:30Z",
+  "recentPRs": [
+    {
+      "number": 40124,
+      "title": "fix: classify transient SQLite errors as non-fatal",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T17:35:53Z",
+      "mergedAt": null,
+      "additions": 332,
+      "deletions": 3,
+      "changedFiles": 8
+    },
+    {
+      "number": 40076,
+      "title": "feat: implement append tool to solve Write tool data loss issue",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T16:54:12Z",
+      "mergedAt": null,
+      "additions": 332,
+      "deletions": 3,
+      "changedFiles": 8
+    },
+    {
+      "number": 40058,
+      "title": "feat: Add append tool to solve Write tool data loss issue",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T16:24:10Z",
+      "mergedAt": null,
+      "additions": 212,
+      "deletions": 15,
+      "changedFiles": 7
+    },
+    {
+      "number": 39988,
+      "title": "fix(embeddings): update Ollama API from /api/embeddings to /api/embed",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T15:20:46Z",
+      "mergedAt": null,
+      "additions": 78,
+      "deletions": 15,
+      "changedFiles": 4
+    },
+    {
+      "number": 39940,
+      "title": "fix(compaction): drop thinking/redacted_thinking blocks for Anthropic models",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T14:25:39Z",
+      "mergedAt": null,
+      "additions": 153,
+      "deletions": 8,
+      "changedFiles": 7
+    },
+    {
+      "number": 39706,
+      "title": "fix(cron): implement true LRU cache eviction",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T10:11:34Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 39471,
+      "title": "fix(database): add WAL journal mode and transient SQLite error handling",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T04:44:34Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40412,
+      "title": "[Feature][Frontend]: TUI Model Picker - Add filter/search functionality for configured models only",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T00:57:16Z",
+      "closedAt": null
+    },
+    {
+      "number": 40353,
+      "title": "[Feature][backend]: Add structured logging with trace ID for request correlation",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T23:29:53Z",
+      "closedAt": null
+    },
+    {
+      "number": 40352,
+      "title": "[Bug]: Control UI Model Selection dropdown shows stale model after config reload",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T23:28:48Z",
+      "closedAt": null
+    },
+    {
+      "number": 40333,
+      "title": "[Bug]: Gateway panic when MCP server config contains invalid JSON in transport params",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T22:58:09Z",
+      "closedAt": null
+    },
+    {
+      "number": 40317,
+      "title": "feat(config): add config validation mode (strict vs tolerant) for different operations",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T22:28:27Z",
+      "closedAt": null
+    },
+    {
+      "number": 40236,
+      "title": "[Feature]: Cron job \u751f\u547d\u5468\u671f hooks - \u652f\u6301 job \u7ea7 timeout \u548c\u81ea\u52a8\u6e05\u7406\u7b56\u7565",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T20:19:04Z",
+      "closedAt": null
+    },
+    {
+      "number": 40183,
+      "title": "[Feature] Backend: \u7edf\u4e00\u5a92\u4f53\u8def\u5f84\u9a8c\u8bc1\u903b\u8f91\uff0c\u4fee\u590d symlink \u5de5\u4f5c\u533a\u95ee\u9898",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T19:15:05Z",
+      "closedAt": null
+    },
+    {
+      "number": 40127,
+      "title": "[Feature] Control UI Login Page \u6539\u8fdb",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T17:40:56Z",
+      "closedAt": null
+    },
+    {
+      "number": 40049,
+      "title": "[Backend Feature]: \u5b9e\u73b0 Append \u5de5\u5177\u89e3\u51b3 Write \u5de5\u5177\u6570\u636e\u4e22\u5931\u95ee\u9898",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T16:16:17Z",
+      "closedAt": null
+    },
+    {
+      "number": 39928,
+      "title": "[Bug] Gateway model provider auth state not persisted correctly after OAuth flow",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T14:14:21Z",
+      "closedAt": null
+    },
+    {
+      "number": 39844,
+      "title": "[Bug] v2026.3.7 \u540e\u7aef\u56de\u5f52\uff1a\u591a\u4e2a provider \u7684 tool calls \u548c session \u5904\u7406\u51fa\u73b0\u95ee\u9898",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T12:45:35Z",
+      "closedAt": null
+    },
+    {
+      "number": 39633,
+      "title": "[Feature] Backend: Add circuit breaker for gateway model providers",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T08:31:46Z",
+      "closedAt": null
+    },
+    {
+      "number": 39373,
+      "title": "[Feature]: Web UI \u7ec4\u4ef6\u5e93\u73b0\u4ee3\u5316\u5347\u7ea7",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T02:10:47Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 7,
+      "issues": 12,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

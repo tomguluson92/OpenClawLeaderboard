@@ -1,0 +1,170 @@
+{
+  "username": "mwfj",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12121110?u=d1f6eb52a940c0430e232edb83f32f4da2f59c84&v=4",
+  "githubUrl": "https://github.com/mwfj",
+  "score": {
+    "score": 78.25,
+    "prScore": 38.25,
+    "issueScore": 26,
+    "reviewScore": 6,
+    "commentScore": 8
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 106,
+    "prDeletions": 25,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 2,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 16,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 8,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 4,
+      "reviews": 2,
+      "comments": 16,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T02:55:57Z",
+  "lastContribution": "2026-03-09T02:41:51Z",
+  "recentPRs": [
+    {
+      "number": 38502,
+      "title": "fix(tui): clarify Ctrl+C status when run is still active",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T02:52:04Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 38482,
+      "title": "fix(ci): ensure PR base commit before secrets diff; avoid full-scan fallback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T02:23:26Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 33298,
+      "title": "fix(onboard): honor openai-codex auth-choice by setting primary model (#33290)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T17:07:52Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 32454,
+      "title": "fix(tests): update stale mocks for ResolvedAgentRoute and related type changes (#32446)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T03:03:06Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 12,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 38501,
+      "title": "[Bug]: TUI Ctrl+C can imply cancellation while active run continues",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T02:51:53Z",
+      "closedAt": null
+    },
+    {
+      "number": 38481,
+      "title": "CI secrets PR fast-path can fallback to full scan when base SHA missing in shallow checkout",
+      "state": "CLOSED",
+      "createdAt": "2026-03-07T02:23:08Z",
+      "closedAt": "2026-03-09T02:16:22Z"
+    },
+    {
+      "number": 33290,
+      "title": "[Bug]: onboard --auth-choice openai-codex does not set agents.defaults.model.primary",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T17:00:53Z",
+      "closedAt": null
+    },
+    {
+      "number": 32446,
+      "title": "[Bug]: tsgo check broken on main \u2014 extension test mocks missing ResolvedAgentRoute fields (channel, mainSessionKey, matchedBy)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T02:55:57Z",
+      "closedAt": "2026-03-03T03:06:17Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 33298,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T01:57:51Z"
+    },
+    {
+      "prNumber": 33298,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T17:16:48Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 1
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 1
+    }
+  }
+}

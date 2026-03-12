@@ -1,0 +1,106 @@
+{
+  "username": "FradSer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1439628?v=4",
+  "githubUrl": "https://github.com/FradSer",
+  "score": {
+    "score": 30.56,
+    "prScore": 29.56,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 223,
+    "prDeletions": 77,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-06T07:21:42Z",
+  "lastContribution": "2026-03-06T12:42:09Z",
+  "recentPRs": [
+    {
+      "number": 37740,
+      "title": "fix(daemon): add systemd system service fallback for VPS/cloud servers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T11:49:20Z",
+      "mergedAt": null,
+      "additions": 217,
+      "deletions": 70,
+      "changedFiles": 3
+    },
+    {
+      "number": 37435,
+      "title": "fix(gateway): track stopped channels on restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T08:01:21Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 37382,
+      "title": "fix(ui): separate device token from shared auth token",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T07:21:42Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 4,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

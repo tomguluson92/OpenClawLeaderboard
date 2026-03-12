@@ -1,0 +1,166 @@
+{
+  "username": "eachann1024",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43348055?u=79c9ef497ef176d6cee7326c3c6cca77da62698d&v=4",
+  "githubUrl": "https://github.com/eachann1024",
+  "score": {
+    "score": 120.06,
+    "prScore": 118.56,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 616,
+    "prDeletions": 59,
+    "prChangedFiles": 32,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T18:36:10Z",
+  "lastContribution": "2026-03-04T09:53:15Z",
+  "recentPRs": [
+    {
+      "number": 34267,
+      "title": "Telegram: accept telegram.me lookup targets",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:53:15Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34261,
+      "title": "Feishu: support chat_id/user_id target prefixes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:49:38Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34259,
+      "title": "Telegram: resolve legacy  botToken references",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:47:46Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 34248,
+      "title": "Telegram: validate and normalize t.me lookup targets",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:37:02Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34240,
+      "title": "Telegram: normalize legacy direct target prefixes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:31:15Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 34236,
+      "title": "Telegram: honor text_mention in requireMention gating",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:28:59Z",
+      "mergedAt": null,
+      "additions": 191,
+      "deletions": 10,
+      "changedFiles": 4
+    },
+    {
+      "number": 33391,
+      "title": "Fix CI command-spec test and harden Feishu/Telegram edge cases",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T19:00:41Z",
+      "mergedAt": null,
+      "additions": 235,
+      "deletions": 38,
+      "changedFiles": 14
+    },
+    {
+      "number": 33373,
+      "title": "Auth: force Codex default model when auth choice is openai-codex",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T18:36:10Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 3,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

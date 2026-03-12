@@ -1,0 +1,109 @@
+{
+  "username": "kenkamwaileung",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/266336690?v=4",
+  "githubUrl": "https://github.com/kenkamwaileung",
+  "score": {
+    "score": 18.66,
+    "prScore": 8.66,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 14,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T17:50:16Z",
+  "lastContribution": "2026-03-10T03:36:29Z",
+  "recentPRs": [
+    {
+      "number": 39796,
+      "title": "fix: refresh lastEventAt on heartbeat to prevent false stale-socket restarts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T12:04:22Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41695,
+      "title": "[Bug]: Sub-agent inherits requester's workspace instead of its own configured workspace",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T03:36:29Z",
+      "closedAt": null
+    },
+    {
+      "number": 39066,
+      "title": "[BUG]: delivery-recovery races ahead of channel startup, causing permanent message loss",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T17:50:16Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

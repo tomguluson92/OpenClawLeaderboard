@@ -1,0 +1,175 @@
+{
+  "username": "panpan0000",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14049268?u=409078a6fc5ca8ec2201f186ccb43b26fa3b28bb&v=4",
+  "githubUrl": "https://github.com/panpan0000",
+  "score": {
+    "score": 60.72,
+    "prScore": 28.72,
+    "issueScore": 10,
+    "reviewScore": 21,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 53,
+    "prDeletions": 19,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 7,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 7,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 7,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T07:28:10Z",
+  "lastContribution": "2026-03-12T03:51:41Z",
+  "recentPRs": [
+    {
+      "number": 42976,
+      "title": "Fix regex safety and enhance session log redaction",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T08:25:21Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 42771,
+      "title": "Docker: Move Playwright browsers to `/opt/playwright`",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T04:05:54Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 10,
+      "changedFiles": 3
+    },
+    {
+      "number": 41900,
+      "title": "fix: typo spelling",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T07:28:10Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42982,
+      "title": "[Bug]:  redact logging not working properly",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T08:36:39Z",
+      "closedAt": null
+    },
+    {
+      "number": 42819,
+      "title": "[Bug]: browser in docker hidden in cache folder",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T05:05:28Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 42771,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T03:51:41Z"
+    },
+    {
+      "prNumber": 42771,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T03:33:53Z"
+    },
+    {
+      "prNumber": 42771,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T03:33:32Z"
+    },
+    {
+      "prNumber": 42976,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T08:50:10Z"
+    },
+    {
+      "prNumber": 42771,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T05:02:24Z"
+    },
+    {
+      "prNumber": 42771,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T05:02:07Z"
+    },
+    {
+      "prNumber": 42771,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T04:11:53Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 4
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
+    }
+  }
+}

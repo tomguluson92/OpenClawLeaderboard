@@ -1,0 +1,123 @@
+{
+  "username": "CyberWenShiFu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58394779?u=44afc82f175ffe0a28bef0cb670e8af8504218d1&v=4",
+  "githubUrl": "https://github.com/CyberWenShiFu",
+  "score": {
+    "score": 48.82,
+    "prScore": 27.32,
+    "issueScore": 18,
+    "reviewScore": 0,
+    "commentScore": 3.5
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 130,
+    "prDeletions": 8,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-06T02:57:43Z",
+  "lastContribution": "2026-03-09T01:24:56Z",
+  "recentPRs": [
+    {
+      "number": 39489,
+      "title": "fix(feishu): report connection/event activity for health monitor",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T04:55:06Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 39487,
+      "title": "fix(feishu): report liveness status to prevent false health-monitor restarts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T04:54:27Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 4,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39488,
+      "title": "[Bug] Feishu health-check restarts can clear pending mention history context",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T04:54:50Z",
+      "closedAt": null
+    },
+    {
+      "number": 39486,
+      "title": "[Bug] Feishu mention-gated pending history can be lost after health-monitor auto-restart",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T04:54:12Z",
+      "closedAt": null
+    },
+    {
+      "number": 37058,
+      "title": "[Bug] Group chat mention-triggered context injection can miss pre-mention messages",
+      "state": "CLOSED",
+      "createdAt": "2026-03-06T02:57:43Z",
+      "closedAt": "2026-03-08T03:18:32Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

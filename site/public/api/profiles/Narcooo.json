@@ -1,0 +1,326 @@
+{
+  "username": "Narcooo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33502405?u=a7bc9c7c7fb6212969aef00dc67adcdcbf3c974a&v=4",
+  "githubUrl": "https://github.com/Narcooo",
+  "score": {
+    "score": 549.7,
+    "prScore": 532.7,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 14
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 58,
+    "prsMerged": 0,
+    "prAdditions": 4029,
+    "prDeletions": 630,
+    "prChangedFiles": 165,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 28,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 48,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 28,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 58,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 28,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T02:42:06Z",
+  "lastContribution": "2026-03-09T13:13:56Z",
+  "recentPRs": [
+    {
+      "number": 41038,
+      "title": "fix(chatui): show stdout for structured tool results",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:13:56Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 41037,
+      "title": "fix(config): infer auth profile providers from profile ids",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:13:46Z",
+      "mergedAt": null,
+      "additions": 102,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 41036,
+      "title": "fix(gateway): recover deliveries after sidecars start",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:13:35Z",
+      "mergedAt": null,
+      "additions": 124,
+      "deletions": 42,
+      "changedFiles": 4
+    },
+    {
+      "number": 41035,
+      "title": "fix(slack): accept unsigned url verification challenges",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:13:27Z",
+      "mergedAt": null,
+      "additions": 159,
+      "deletions": 29,
+      "changedFiles": 4
+    },
+    {
+      "number": 41034,
+      "title": "fix(daemon): accept localized schtasks running states",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:13:17Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 21,
+      "changedFiles": 4
+    },
+    {
+      "number": 41033,
+      "title": "fix(agents): allow /agent reads in ro sandbox guards",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:13:06Z",
+      "mergedAt": null,
+      "additions": 117,
+      "deletions": 23,
+      "changedFiles": 5
+    },
+    {
+      "number": 41032,
+      "title": "fix(agents): reduce env base64 heuristic false positives",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:12:56Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 41031,
+      "title": "fix(heartbeat): honor explicit target session keys",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:12:45Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 41030,
+      "title": "fix(gateway): avoid false stuck restarts with fresh events",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:12:34Z",
+      "mergedAt": null,
+      "additions": 92,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 40814,
+      "title": "fix(telegram): accept @bot suffix in inline directives",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T09:23:30Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 10,
+      "changedFiles": 7
+    },
+    {
+      "number": 40549,
+      "title": "fix(bluebubbles): keep monitor normalizer self-contained",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T03:47:32Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40061,
+      "title": "fix(gateway): avoid false stuck restarts with fresh events",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T16:27:18Z",
+      "mergedAt": null,
+      "additions": 92,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 39707,
+      "title": "fix(heartbeat): honor explicit target session keys",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T10:12:08Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 39700,
+      "title": "fix(agents): reduce env base64 heuristic false positives",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T10:02:05Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39584,
+      "title": "fix(doctor): read gateway token from systemd EnvironmentFile",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T07:16:30Z",
+      "mergedAt": null,
+      "additions": 154,
+      "deletions": 6,
+      "changedFiles": 4
+    },
+    {
+      "number": 39571,
+      "title": "fix(agents): allow /agent reads in ro sandbox guards",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T07:01:29Z",
+      "mergedAt": null,
+      "additions": 117,
+      "deletions": 23,
+      "changedFiles": 5
+    },
+    {
+      "number": 39451,
+      "title": "fix(daemon): accept localized schtasks running states",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T04:25:55Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 21,
+      "changedFiles": 4
+    },
+    {
+      "number": 39444,
+      "title": "fix(auth): accept newer Anthropic setup tokens",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T04:19:23Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 12,
+      "changedFiles": 5
+    },
+    {
+      "number": 39433,
+      "title": "fix(slack): accept unsigned url verification challenges",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T03:57:09Z",
+      "mergedAt": null,
+      "additions": 159,
+      "deletions": 29,
+      "changedFiles": 4
+    },
+    {
+      "number": 39431,
+      "title": "fix(gateway): recover deliveries after sidecars start",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T03:48:06Z",
+      "mergedAt": null,
+      "additions": 124,
+      "deletions": 42,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 33982,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T06:33:29Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

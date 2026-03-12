@@ -1,0 +1,122 @@
+{
+  "username": "FAL1989",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/172536661?u=857b4e97e3f71d6aa930cf05d4d527681f966ec6&v=4",
+  "githubUrl": "https://github.com/FAL1989",
+  "score": {
+    "score": 71.37,
+    "prScore": 65.87,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 5.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 1026,
+    "prDeletions": 84,
+    "prChangedFiles": 18,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 11,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 11,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T22:14:46Z",
+  "lastContribution": "2026-03-08T14:33:03Z",
+  "recentPRs": [
+    {
+      "number": 39921,
+      "title": "fix(gateway): preserve runtime-backed health state",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T14:09:57Z",
+      "mergedAt": null,
+      "additions": 105,
+      "deletions": 32,
+      "changedFiles": 6
+    },
+    {
+      "number": 33608,
+      "title": "chore(ci): unblock audit + command spec checks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T23:15:28Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 37,
+      "changedFiles": 3
+    },
+    {
+      "number": 33547,
+      "title": "fix: fast-fail rate limits in embedded runner + move slug generator to cron lane",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T22:18:05Z",
+      "mergedAt": null,
+      "additions": 780,
+      "deletions": 12,
+      "changedFiles": 5
+    },
+    {
+      "number": 33543,
+      "title": "fix: fast-fail cooldown after rate_limit and move slug generator to cron lane",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T22:14:46Z",
+      "mergedAt": null,
+      "additions": 115,
+      "deletions": 3,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

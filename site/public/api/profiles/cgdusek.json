@@ -1,0 +1,468 @@
+{
+  "username": "cgdusek",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38732970?v=4",
+  "githubUrl": "https://github.com/cgdusek",
+  "score": {
+    "score": 627.95,
+    "prScore": 375.45,
+    "issueScore": 0,
+    "reviewScore": 189,
+    "commentScore": 63.5
+  },
+  "tier": "veteran",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 11,
+    "prs": 24,
+    "prsMerged": 3,
+    "prAdditions": 11634,
+    "prDeletions": 1271,
+    "prChangedFiles": 217,
+    "prMergeRate": 13,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 63,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 127,
+    "commitAdditions": 1229,
+    "commitDeletions": 102,
+    "weeklyCommits": 2,
+    "monthlyCommits": 10,
+    "commitChangedFiles": 38
+  },
+  "period": {
+    "weekly": {
+      "prs": 15,
+      "issues": 0,
+      "reviews": 46,
+      "comments": 82,
+      "commitAdditions": 882,
+      "commitDeletions": 76,
+      "commits": 10
+    },
+    "monthly": {
+      "prs": 24,
+      "issues": 0,
+      "reviews": 63,
+      "comments": 127,
+      "commitAdditions": 1229,
+      "commitDeletions": 102,
+      "commits": 11
+    }
+  },
+  "firstContribution": "2026-02-28T05:12:59Z",
+  "lastContribution": "2026-03-12T04:48:45Z",
+  "recentPRs": [
+    {
+      "number": 43258,
+      "title": "fix(auto-reply): retry inbound debounce flush after lock contention",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T14:33:27Z",
+      "mergedAt": null,
+      "additions": 504,
+      "deletions": 28,
+      "changedFiles": 2
+    },
+    {
+      "number": 42562,
+      "title": "fix(agents): fail over on streaming server_error",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T23:11:38Z",
+      "mergedAt": null,
+      "additions": 95,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 41711,
+      "title": "fix(agents): avoid duplicate same-provider cooldown probes in fallback runs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T03:56:48Z",
+      "mergedAt": "2026-03-10T12:26:47Z",
+      "additions": 129,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 41466,
+      "title": "ACP: fix native thread-bound session placement",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T21:54:07Z",
+      "mergedAt": null,
+      "additions": 524,
+      "deletions": 43,
+      "changedFiles": 8
+    },
+    {
+      "number": 40457,
+      "title": "fix(kimi): recover downgraded text/XML tool calls in embedded runner",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T02:08:02Z",
+      "mergedAt": null,
+      "additions": 1408,
+      "deletions": 551,
+      "changedFiles": 13
+    },
+    {
+      "number": 40324,
+      "title": "fix(agents): bound compaction retry wait and drain embedded runs on restart",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T22:44:32Z",
+      "mergedAt": "2026-03-09T15:27:29Z",
+      "additions": 478,
+      "deletions": 19,
+      "changedFiles": 10
+    },
+    {
+      "number": 40202,
+      "title": "fix(config): auto-migrate legacy local onboarding messaging profile",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T19:38:43Z",
+      "mergedAt": null,
+      "additions": 651,
+      "deletions": 91,
+      "changedFiles": 21
+    },
+    {
+      "number": 39049,
+      "title": "Feature: add continuity context engine",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T17:35:54Z",
+      "mergedAt": null,
+      "additions": 4042,
+      "deletions": 151,
+      "changedFiles": 53
+    },
+    {
+      "number": 38241,
+      "title": "Onboarding: default local tools profile to coding",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:54:10Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 7,
+      "changedFiles": 9
+    },
+    {
+      "number": 38051,
+      "title": "fix(agents): cap Google OAuth retry delay in embedded runs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:39:52Z",
+      "mergedAt": null,
+      "additions": 139,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37261,
+      "title": "agents: scope parallel_tool_calls to OpenAI-compatible payloads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:06:48Z",
+      "mergedAt": null,
+      "additions": 403,
+      "deletions": 25,
+      "changedFiles": 7
+    },
+    {
+      "number": 37128,
+      "title": "feat(hooks): make llm_input/llm_output payloads mutable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:49:32Z",
+      "mergedAt": null,
+      "additions": 378,
+      "deletions": 73,
+      "changedFiles": 14
+    },
+    {
+      "number": 36677,
+      "title": "feat(tools): add Brave llm-context mode for web_search",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T20:36:42Z",
+      "mergedAt": null,
+      "additions": 392,
+      "deletions": 2,
+      "changedFiles": 8
+    },
+    {
+      "number": 36654,
+      "title": "process: fix Windows npm fallback spawn EINVAL",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T20:01:17Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 36442,
+      "title": "failover: avoid false global rate-limit classification from generic cooling-down text",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T16:33:50Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 35016,
+      "title": "fix(agents): discover Bedrock inference profile IDs alongside foundation models",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T22:06:19Z",
+      "mergedAt": null,
+      "additions": 529,
+      "deletions": 106,
+      "changedFiles": 4
+    },
+    {
+      "number": 34958,
+      "title": "onboard: default local tools profile to coding",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T20:15:18Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 7,
+      "changedFiles": 9
+    },
+    {
+      "number": 34949,
+      "title": "onboard: default local tools profile to coding",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T20:06:22Z",
+      "mergedAt": null,
+      "additions": 269,
+      "deletions": 58,
+      "changedFiles": 15
+    },
+    {
+      "number": 34692,
+      "title": "fix(whatsapp): recover relink on wrapped disconnect status + stale auth",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T16:31:29Z",
+      "mergedAt": null,
+      "additions": 381,
+      "deletions": 13,
+      "changedFiles": 7
+    },
+    {
+      "number": 34614,
+      "title": "macOS: add remote gateway token field for remote mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T15:31:47Z",
+      "mergedAt": null,
+      "additions": 254,
+      "deletions": 47,
+      "changedFiles": 7
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43258,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T04:48:45Z"
+    },
+    {
+      "prNumber": 43258,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:19:08Z"
+    },
+    {
+      "prNumber": 43258,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:09:17Z"
+    },
+    {
+      "prNumber": 42562,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T03:33:07Z"
+    },
+    {
+      "prNumber": 42562,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T23:54:52Z"
+    },
+    {
+      "prNumber": 42562,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T23:36:30Z"
+    },
+    {
+      "prNumber": 42562,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T23:36:30Z"
+    },
+    {
+      "prNumber": 42562,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T23:36:19Z"
+    },
+    {
+      "prNumber": 41466,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T23:14:24Z"
+    },
+    {
+      "prNumber": 41711,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:29:17Z"
+    },
+    {
+      "prNumber": 41466,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T22:58:44Z"
+    },
+    {
+      "prNumber": 41466,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T22:39:27Z"
+    },
+    {
+      "prNumber": 40202,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T08:01:32Z"
+    },
+    {
+      "prNumber": 40457,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T02:37:53Z"
+    },
+    {
+      "prNumber": 40457,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T02:27:36Z"
+    },
+    {
+      "prNumber": 40457,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T02:27:34Z"
+    },
+    {
+      "prNumber": 40457,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T02:27:33Z"
+    },
+    {
+      "prNumber": 40457,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T02:27:31Z"
+    },
+    {
+      "prNumber": 40457,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T02:27:29Z"
+    },
+    {
+      "prNumber": 40324,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T23:10:31Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "review-guru",
+      "label": "Review Guru",
+      "description": "50+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-10": 1,
+    "2026-03-09": 1,
+    "2026-03-08": 8,
+    "2026-03-02": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

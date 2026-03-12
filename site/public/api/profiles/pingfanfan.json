@@ -1,0 +1,227 @@
+{
+  "username": "pingfanfan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/155778871?u=5c356bbbe39bb712665440ba3fa7d3e670e6a26c&v=4",
+  "githubUrl": "https://github.com/pingfanfan",
+  "score": {
+    "score": 188.77,
+    "prScore": 185.27,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 3.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 13,
+    "prsMerged": 0,
+    "prAdditions": 1361,
+    "prDeletions": 130,
+    "prChangedFiles": 43,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T21:54:05Z",
+  "lastContribution": "2026-03-10T14:23:39Z",
+  "recentPRs": [
+    {
+      "number": 42222,
+      "title": "fix(discord): clarify allowBots bot-message drops",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T14:23:26Z",
+      "mergedAt": null,
+      "additions": 54,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 42088,
+      "title": "fix(discord): clarify allowBots bot-message drops",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T11:36:02Z",
+      "mergedAt": null,
+      "additions": 54,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 41557,
+      "title": "fix(agent): route explicit channel targets per recipient",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T00:25:04Z",
+      "mergedAt": null,
+      "additions": 137,
+      "deletions": 11,
+      "changedFiles": 5
+    },
+    {
+      "number": 41552,
+      "title": "fix(control-ui): preserve token when editing WebSocket URL",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T00:07:12Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 41547,
+      "title": "fix(restart): wait for session event queue before clearing active run",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T23:59:43Z",
+      "mergedAt": null,
+      "additions": 113,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 41528,
+      "title": "fix(ui): surface update.run failures in control ui",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T23:32:21Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 41517,
+      "title": "fix(models): strip redundant same-provider model prefixes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T23:16:34Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 41508,
+      "title": "fix(cli): bootstrap unloaded launchd restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T23:04:33Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 41499,
+      "title": "fix(subagents): align /agents with spawn allowlists",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T22:51:54Z",
+      "mergedAt": null,
+      "additions": 196,
+      "deletions": 67,
+      "changedFiles": 7
+    },
+    {
+      "number": 41490,
+      "title": "fix(openai-completions): flatten assistant tool history content",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T22:38:28Z",
+      "mergedAt": null,
+      "additions": 132,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 41482,
+      "title": "fix(fallback): treat http 499 as transient",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T22:29:08Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 41478,
+      "title": "fix(matrix): bootstrap missing SDK before startup",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T22:20:31Z",
+      "mergedAt": null,
+      "additions": 379,
+      "deletions": 33,
+      "changedFiles": 7
+    },
+    {
+      "number": 41465,
+      "title": "fix(compaction): include turn prefix messages in safeguard",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T21:54:05Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 6,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

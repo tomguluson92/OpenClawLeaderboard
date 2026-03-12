@@ -1,0 +1,107 @@
+{
+  "username": "tag-assistant",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/260167501?u=1d3959ca3980c446c130399bbd4ba6194605c37a&v=4",
+  "githubUrl": "https://github.com/tag-assistant",
+  "score": {
+    "score": 84.81,
+    "prScore": 84.81,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 2398,
+    "prDeletions": 220,
+    "prChangedFiles": 25,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 15,
+    "commitDeletions": 5,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 15,
+      "commitDeletions": 5,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-03T02:00:25Z",
+  "lastContribution": "2026-03-03T02:01:52Z",
+  "recentPRs": [
+    {
+      "number": 32408,
+      "title": "feat: add Copilot SDK provider integration with streaming support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T02:01:52Z",
+      "mergedAt": null,
+      "additions": 1512,
+      "deletions": 3,
+      "changedFiles": 15
+    },
+    {
+      "number": 32407,
+      "title": "fix: sanitize thinking signatures on cross-provider model fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T02:01:15Z",
+      "mergedAt": null,
+      "additions": 768,
+      "deletions": 195,
+      "changedFiles": 8
+    },
+    {
+      "number": 32406,
+      "title": "feat: expand Copilot model catalog with Opus 4.6, reasoning models, and anthropic-messages routing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T02:00:25Z",
+      "mergedAt": null,
+      "additions": 118,
+      "deletions": 22,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-16": 1
+  },
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

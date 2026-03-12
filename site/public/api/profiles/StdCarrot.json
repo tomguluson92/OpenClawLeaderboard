@@ -1,0 +1,155 @@
+{
+  "username": "StdCarrot",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1968929?v=4",
+  "githubUrl": "https://github.com/StdCarrot",
+  "score": {
+    "score": 167.99,
+    "prScore": 144.99,
+    "issueScore": 10,
+    "reviewScore": 12,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 3692,
+    "prDeletions": 197,
+    "prChangedFiles": 68,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 4,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T15:45:55Z",
+  "lastContribution": "2026-03-04T05:50:41Z",
+  "recentPRs": [
+    {
+      "number": 34010,
+      "title": "feat(discord): add self-profile action for safe bot-only nickname/avatar/status updates",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T05:50:41Z",
+      "mergedAt": null,
+      "additions": 997,
+      "deletions": 67,
+      "changedFiles": 20
+    },
+    {
+      "number": 33202,
+      "title": "feat(discord): use bot presence as runtime healthcheck signal (self-profile + quota-aware status)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T15:53:18Z",
+      "mergedAt": null,
+      "additions": 1432,
+      "deletions": 65,
+      "changedFiles": 24
+    },
+    {
+      "number": 33195,
+      "title": "feat(discord): use bot presence as runtime healthcheck signal (self-profile + quota-aware status)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T15:45:55Z",
+      "mergedAt": null,
+      "additions": 1263,
+      "deletions": 65,
+      "changedFiles": 24
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 34004,
+      "title": "[Feature]: Discord self-profile updates (strict bot-only scope for nickname/avatar/status)",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T05:44:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 33270,
+      "title": "[Feature]: Discord self-only profile updates + runtime health signaling via auto presence",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T16:46:06Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 33202,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T16:36:26Z"
+    },
+    {
+      "prNumber": 33202,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T16:28:43Z"
+    },
+    {
+      "prNumber": 33202,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T16:28:16Z"
+    },
+    {
+      "prNumber": 33202,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T16:27:51Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 4
+    }
+  }
+}

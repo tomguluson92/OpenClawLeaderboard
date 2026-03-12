@@ -1,0 +1,207 @@
+{
+  "username": "zwffff",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5809959?u=c2264a2e647cae265cc8cc8609dc9ed8c406cbf5&v=4",
+  "githubUrl": "https://github.com/zwffff",
+  "score": {
+    "score": 143.17,
+    "prScore": 143.17,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 11,
+    "prsMerged": 0,
+    "prAdditions": 656,
+    "prDeletions": 56,
+    "prChangedFiles": 26,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 83,
+    "commitDeletions": 3,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 7
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 83,
+      "commitDeletions": 3,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-03T08:10:56Z",
+  "lastContribution": "2026-03-04T08:42:43Z",
+  "recentPRs": [
+    {
+      "number": 34183,
+      "title": "fix: preserve thought_signature for Gemini models proxied via Ollama \u2026",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:42:43Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 32806,
+      "title": "fix: strip bare 'thought' text markers from Gemini 3.0 Flash output (fixes #32721)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:54:00Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 32795,
+      "title": "Fix #32711: Make sendMedia optional in createPluginHandler",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:43:22Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 32794,
+      "title": "Fix #32689: Gateway health state and doctor warnings",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:43:15Z",
+      "mergedAt": null,
+      "additions": 121,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 32793,
+      "title": "Fix #32678: Feishu plugin bindings configuration",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:43:07Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 32792,
+      "title": "Fix #32662: Export waitForAbortSignal from plugin-sdk",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:42:58Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 18,
+      "changedFiles": 1
+    },
+    {
+      "number": 32791,
+      "title": "Fix #32638: Normalize reasoning_effort for Groq models",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:42:51Z",
+      "mergedAt": null,
+      "additions": 160,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 32776,
+      "title": "Fix Feishu card message content retrieval when quoted and @mentioned",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:29:56Z",
+      "mergedAt": null,
+      "additions": 103,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 32761,
+      "title": "daemon: fix readSystemctlDetail to prefer stdout when stderr is generic error",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:18:43Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 32754,
+      "title": "Slack: fix react action failures in DMs and add messageId auto-inference",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:13:27Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 32749,
+      "title": "gateway: fix HTTP handler order to prevent 405 errors on plugin endpoints",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:10:56Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 19,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-02": 1,
+    "2026-02-22": 1
+  },
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

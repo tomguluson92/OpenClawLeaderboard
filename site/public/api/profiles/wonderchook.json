@@ -1,0 +1,118 @@
+{
+  "username": "wonderchook",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/67992?u=7b9230d97b020ce676f432e5ed0b452b4d4e2bda&v=4",
+  "githubUrl": "https://github.com/wonderchook",
+  "score": {
+    "score": 35.53,
+    "prScore": 24.03,
+    "issueScore": 5,
+    "reviewScore": 6,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 177,
+    "prDeletions": 2,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 108,
+    "commitDeletions": 4,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 1,
+      "commitAdditions": 108,
+      "commitDeletions": 4,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-05T18:49:24Z",
+  "lastContribution": "2026-03-06T05:03:19Z",
+  "recentPRs": [
+    {
+      "number": 36587,
+      "title": "feat(slack): per-channel replyToMode config override",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T18:55:28Z",
+      "mergedAt": null,
+      "additions": 177,
+      "deletions": 2,
+      "changedFiles": 7
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 36583,
+      "title": "feat(slack): per-channel replyToMode override",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T18:49:24Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 36587,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T05:03:19Z"
+    },
+    {
+      "prNumber": 36587,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T05:03:13Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-02": 1
+  },
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

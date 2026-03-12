@@ -1,0 +1,100 @@
+{
+  "username": "fitz123",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10243861?u=65ab628dd344ed4ac34fe57c80935bfe2741e941&v=4",
+  "githubUrl": "https://github.com/fitz123",
+  "score": {
+    "score": 27.17,
+    "prScore": 9.17,
+    "issueScore": 16,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 35,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 2,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T18:39:20Z",
+  "lastContribution": "2026-03-10T20:25:54Z",
+  "recentPRs": [
+    {
+      "number": 40283,
+      "title": "fix(acp): apply media understanding before ACP dispatch",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T21:48:03Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40243,
+      "title": "ACP persistent session: agent process dies silently, gateway keeps state=running",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T20:30:13Z",
+      "closedAt": "2026-03-08T20:53:50Z"
+    },
+    {
+      "number": 40161,
+      "title": "[Bug]: ACP agents receive <media:document> instead of voice transcriptions",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T18:39:20Z",
+      "closedAt": "2026-03-10T20:25:55Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

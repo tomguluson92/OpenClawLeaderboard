@@ -1,0 +1,105 @@
+{
+  "username": "pascalkienast",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6682526?u=c2ded78f48bedc9c62defe6a8742f12bc3550a51&v=4",
+  "githubUrl": "https://github.com/pascalkienast",
+  "score": {
+    "score": 31.19,
+    "prScore": 23.19,
+    "issueScore": 5,
+    "reviewScore": 3,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 112,
+    "prDeletions": 22,
+    "prChangedFiles": 11,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T16:56:07Z",
+  "lastContribution": "2026-03-09T18:31:10Z",
+  "recentPRs": [
+    {
+      "number": 41347,
+      "title": "fix(agents): normalize openai-codex base URLs to /backend-api/codex",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T18:18:31Z",
+      "mergedAt": null,
+      "additions": 112,
+      "deletions": 22,
+      "changedFiles": 11
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41282,
+      "title": "[Bug]: Regression/incomplete fix: openai-codex still times out on GPT-5.4 after #38736 due to remaining non-codex transport path",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T16:56:07Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41347,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T18:31:10Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    }
+  }
+}

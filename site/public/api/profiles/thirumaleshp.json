@@ -1,0 +1,194 @@
+{
+  "username": "thirumaleshp",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85149081?v=4",
+  "githubUrl": "https://github.com/thirumaleshp",
+  "score": {
+    "score": 129.63,
+    "prScore": 113.63,
+    "issueScore": 0,
+    "reviewScore": 15,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 1049,
+    "prDeletions": 89,
+    "prChangedFiles": 24,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 173,
+    "commitDeletions": 2,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 6
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 2,
+      "commitAdditions": 173,
+      "commitDeletions": 2,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 2,
+      "commitAdditions": 173,
+      "commitDeletions": 2,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-03T15:43:23Z",
+  "lastContribution": "2026-03-09T13:08:40Z",
+  "recentPRs": [
+    {
+      "number": 41021,
+      "title": "feat(compaction): truncate session JSONL after compaction to prevent unbounded growth",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:08:40Z",
+      "mergedAt": null,
+      "additions": 338,
+      "deletions": 0,
+      "changedFiles": 7
+    },
+    {
+      "number": 40112,
+      "title": "fix(agents): suppress intermediate tool failure messages when agent self-corrects",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T17:19:43Z",
+      "mergedAt": null,
+      "additions": 141,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 39982,
+      "title": "feat(config): use datetime suffix for backup rotation instead of numeric",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T15:16:40Z",
+      "mergedAt": null,
+      "additions": 236,
+      "deletions": 71,
+      "changedFiles": 2
+    },
+    {
+      "number": 39055,
+      "title": "feat(agent-runner): abort active run on priority message during steer\u2026",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T17:39:52Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 38885,
+      "title": "fix(cron): preserve sandbox config when merging agent overrides (#38663)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T13:27:58Z",
+      "mergedAt": null,
+      "additions": 123,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 33383,
+      "title": "feat: add Brave Search LLM Context API mode for web_search",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T18:50:14Z",
+      "mergedAt": null,
+      "additions": 173,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 33194,
+      "title": "fix: enable shell for .cmd package-manager wrappers on Windows",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T15:43:23Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 12,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 39982,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T16:15:35Z"
+    },
+    {
+      "prNumber": 39982,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T16:15:29Z"
+    },
+    {
+      "prNumber": 39982,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T16:15:25Z"
+    },
+    {
+      "prNumber": 39982,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T16:15:20Z"
+    },
+    {
+      "prNumber": 39982,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T16:15:11Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-08": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

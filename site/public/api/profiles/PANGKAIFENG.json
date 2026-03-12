@@ -1,0 +1,93 @@
+{
+  "username": "PANGKAIFENG",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27541507?v=4",
+  "githubUrl": "https://github.com/PANGKAIFENG",
+  "score": {
+    "score": 17.7,
+    "prScore": 12.2,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 41,
+    "prDeletions": 282,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T07:36:43Z",
+  "lastContribution": "2026-03-09T09:54:17Z",
+  "recentPRs": [
+    {
+      "number": 39602,
+      "title": "fix(cron): reject Feishu announce jobs without target",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T07:42:19Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 282,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39599,
+      "title": "Cron allows invalid Feishu announce jobs without delivery.to, causing runtime delivery failure",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T07:36:43Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

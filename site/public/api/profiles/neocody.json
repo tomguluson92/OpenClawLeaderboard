@@ -1,0 +1,220 @@
+{
+  "username": "neocody",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25426121?u=b3381e36499fd822ea5d5479f3fdfdd373d8ca33&v=4",
+  "githubUrl": "https://github.com/neocody",
+  "score": {
+    "score": 120.36,
+    "prScore": 117.36,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 11,
+    "prsMerged": 0,
+    "prAdditions": 319,
+    "prDeletions": 27,
+    "prChangedFiles": 23,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T15:10:36Z",
+  "lastContribution": "2026-03-08T17:12:58Z",
+  "recentPRs": [
+    {
+      "number": 40103,
+      "title": "fix(telegram): add 30s timeout to media downloads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T17:12:58Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 39135,
+      "title": "fix(schtasks): recognize localized Windows Task Scheduler status strings",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:43:51Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39130,
+      "title": "fix(telegram): resolve env SecretRefs in account-inspect for status command",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:36:29Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 39124,
+      "title": "fix(ws-stream): respect compat.supportsStore=false in WebSocket payloads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:28:31Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 38333,
+      "title": "fix(models): update default aliases for gemini and gpt",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T20:46:52Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 36629,
+      "title": "fix(sessions): always cleanup .deleted files during maintenance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T19:34:31Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36474,
+      "title": "fix(security): classify Russian SYSTEM account as trusted",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T16:59:49Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 36456,
+      "title": "feat(browser): add ignoreCertificateErrors config option",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T16:43:26Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 36416,
+      "title": "fix(cron): create files with 600 permissions for defense-in-depth",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T16:15:44Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 33198,
+      "title": "feat(cli): add tui.deliver config option for default --deliver behavior",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T15:49:53Z",
+      "mergedAt": null,
+      "additions": 78,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 33152,
+      "title": "fix: show configured fallback models in /status output",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T15:10:36Z",
+      "mergedAt": null,
+      "additions": 70,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

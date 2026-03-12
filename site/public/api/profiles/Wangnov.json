@@ -1,0 +1,122 @@
+{
+  "username": "Wangnov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48670012?u=47a8baffdd02b7455c533b6a26f97ec04048f4cb&v=4",
+  "githubUrl": "https://github.com/Wangnov",
+  "score": {
+    "score": 55.56,
+    "prScore": 38.56,
+    "issueScore": 5,
+    "reviewScore": 12,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 656,
+    "prDeletions": 48,
+    "prChangedFiles": 15,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 12,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T14:53:41Z",
+  "lastContribution": "2026-03-10T15:51:43Z",
+  "recentPRs": [
+    {
+      "number": 42253,
+      "title": "fix(session-tools): add narrow tree-only creator-owned ACP visibility",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T14:54:44Z",
+      "mergedAt": null,
+      "additions": 656,
+      "deletions": 48,
+      "changedFiles": 15
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42251,
+      "title": "Session tools: allow tree-scoped access to creator-owned ACP sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T14:53:41Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 42253,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T15:51:43Z"
+    },
+    {
+      "prNumber": 42253,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T15:27:05Z"
+    },
+    {
+      "prNumber": 42253,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T15:27:04Z"
+    },
+    {
+      "prNumber": 42253,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T15:27:04Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-02-04": 1
+  },
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4
+    }
+  }
+}

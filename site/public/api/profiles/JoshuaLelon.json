@@ -1,0 +1,250 @@
+{
+  "username": "JoshuaLelon",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23615754?u=02c96074bce0622f3dad382057f012205ae27525&v=4",
+  "githubUrl": "https://github.com/JoshuaLelon",
+  "score": {
+    "score": 225.69,
+    "prScore": 177.69,
+    "issueScore": 0,
+    "reviewScore": 48,
+    "commentScore": 0
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 1,
+    "prAdditions": 3331,
+    "prDeletions": 121,
+    "prChangedFiles": 43,
+    "prMergeRate": 14,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 16,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 619,
+    "commitDeletions": 285,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 8
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 16,
+      "comments": 0,
+      "commitAdditions": 3,
+      "commitDeletions": 1,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 16,
+      "comments": 0,
+      "commitAdditions": 619,
+      "commitDeletions": 285,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-02T16:06:03Z",
+  "lastContribution": "2026-03-08T15:23:46Z",
+  "recentPRs": [
+    {
+      "number": 39969,
+      "title": "fix(swiftformat): exclude generated security policy from formatters",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T15:01:23Z",
+      "mergedAt": "2026-03-09T14:30:43Z",
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 36302,
+      "title": "feat(hooks): workspace events subscription hook",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T14:59:34Z",
+      "mergedAt": null,
+      "additions": 1462,
+      "deletions": 4,
+      "changedFiles": 19
+    },
+    {
+      "number": 35506,
+      "title": "feat(hooks): support gws as alternative to gog for Gmail Pub/Sub",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:25:40Z",
+      "mergedAt": null,
+      "additions": 1146,
+      "deletions": 108,
+      "changedFiles": 12
+    },
+    {
+      "number": 35421,
+      "title": "docs: add Google Workspace quick-start guide",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T04:19:36Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 35409,
+      "title": "docs: add gws to default agent skill roster",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:14:36Z",
+      "mergedAt": null,
+      "additions": 305,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 35382,
+      "title": "feat(skills): bundled gws skill + fix xurl install kind",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T03:56:17Z",
+      "mergedAt": null,
+      "additions": 303,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 31868,
+      "title": "fix: resolve two pre-existing TS errors blocking CI check job",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T16:06:03Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 3,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 35409,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:23:46Z"
+    },
+    {
+      "prNumber": 35382,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:23:05Z"
+    },
+    {
+      "prNumber": 35506,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:15:04Z"
+    },
+    {
+      "prNumber": 35506,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:14:06Z"
+    },
+    {
+      "prNumber": 35506,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:13:40Z"
+    },
+    {
+      "prNumber": 35506,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:13:30Z"
+    },
+    {
+      "prNumber": 35506,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:13:20Z"
+    },
+    {
+      "prNumber": 35506,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:12:47Z"
+    },
+    {
+      "prNumber": 36302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:10:48Z"
+    },
+    {
+      "prNumber": 36302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:10:40Z"
+    },
+    {
+      "prNumber": 36302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:10:33Z"
+    },
+    {
+      "prNumber": 36302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:10:26Z"
+    },
+    {
+      "prNumber": 36302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:10:18Z"
+    },
+    {
+      "prNumber": 36302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:10:09Z"
+    },
+    {
+      "prNumber": 36302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:09:33Z"
+    },
+    {
+      "prNumber": 35421,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T14:52:36Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-09": 1,
+    "2026-02-16": 1
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 16
+    },
+    "2026-03-05": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

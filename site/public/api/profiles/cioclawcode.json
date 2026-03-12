@@ -1,0 +1,107 @@
+{
+  "username": "cioclawcode",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/261991534?v=4",
+  "githubUrl": "https://github.com/cioclawcode",
+  "score": {
+    "score": 26.16,
+    "prScore": 7.66,
+    "issueScore": 18,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 7,
+    "prDeletions": 1,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T15:10:26Z",
+  "lastContribution": "2026-03-05T15:19:01Z",
+  "recentPRs": [
+    {
+      "number": 36332,
+      "title": "fix(hooks): suppress system event injection when deliver is false [AI-assisted]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T15:14:34Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 36326,
+      "title": "Hook transform `model` override ignored at runtime",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T15:11:21Z",
+      "closedAt": null
+    },
+    {
+      "number": 36325,
+      "title": "Hook `deliver: false` still injects system event into main session",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T15:10:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 36324,
+      "title": "test-access",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T15:10:26Z",
+      "closedAt": "2026-03-05T15:10:31Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0
+    }
+  }
+}

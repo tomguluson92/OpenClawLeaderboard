@@ -1,0 +1,255 @@
+{
+  "username": "bde1",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/252620095?u=b745429bb67592642faa261466f2e27ded3263a1&v=4",
+  "githubUrl": "https://github.com/bde1",
+  "score": {
+    "score": 195.99,
+    "prScore": 162.99,
+    "issueScore": 0,
+    "reviewScore": 33,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 10,
+    "prsMerged": 0,
+    "prAdditions": 1873,
+    "prDeletions": 46,
+    "prChangedFiles": 41,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 11,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 11,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 11,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T15:54:21Z",
+  "lastContribution": "2026-03-09T19:49:29Z",
+  "recentPRs": [
+    {
+      "number": 41287,
+      "title": "fix(cron): preserve silent NO_REPLY completions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T17:03:38Z",
+      "mergedAt": null,
+      "additions": 226,
+      "deletions": 1,
+      "changedFiles": 9
+    },
+    {
+      "number": 41245,
+      "title": "fix(plugins): clear discovery cache before install validation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T16:25:43Z",
+      "mergedAt": null,
+      "additions": 284,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 41170,
+      "title": "fix(exec): preserve multiline async approval output",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T15:11:51Z",
+      "mergedAt": null,
+      "additions": 133,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 41096,
+      "title": "fix(plugins): preserve modular config includes on cli writes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T14:07:11Z",
+      "mergedAt": null,
+      "additions": 675,
+      "deletions": 10,
+      "changedFiles": 8
+    },
+    {
+      "number": 41005,
+      "title": "fix(reply): strip leading session recap scaffolding",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T12:57:48Z",
+      "mergedAt": null,
+      "additions": 201,
+      "deletions": 7,
+      "changedFiles": 8
+    },
+    {
+      "number": 40143,
+      "title": "fix(doctor): warn when stale Codex overrides shadow OAuth",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T18:08:44Z",
+      "mergedAt": null,
+      "additions": 174,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 40093,
+      "title": "fix(daemon): concatenate stderr and stdout in remaining systemd error paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T17:10:02Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 40075,
+      "title": "fix(replies): strip leaked tool markers from user-facing replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T16:52:33Z",
+      "mergedAt": null,
+      "additions": 164,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 40071,
+      "title": "fix(plugins): route Mattermost parseStrictPositiveInteger through plugin-sdk",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T16:45:59Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40032,
+      "title": "docs: fix FAQ cross-context messaging config path",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T15:54:21Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 12,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 41287,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T19:49:29Z"
+    },
+    {
+      "prNumber": 41287,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T19:49:29Z"
+    },
+    {
+      "prNumber": 41170,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T15:23:33Z"
+    },
+    {
+      "prNumber": 41170,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T15:23:33Z"
+    },
+    {
+      "prNumber": 41096,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T14:26:39Z"
+    },
+    {
+      "prNumber": 41005,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T14:10:26Z"
+    },
+    {
+      "prNumber": 41005,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T13:19:04Z"
+    },
+    {
+      "prNumber": 40143,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T18:13:42Z"
+    },
+    {
+      "prNumber": 40075,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T17:23:51Z"
+    },
+    {
+      "prNumber": 40075,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T17:09:45Z"
+    },
+    {
+      "prNumber": 40075,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T17:09:45Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-08": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 4
+    }
+  }
+}

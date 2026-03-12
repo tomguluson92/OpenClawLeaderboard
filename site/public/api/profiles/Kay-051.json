@@ -1,0 +1,225 @@
+{
+  "username": "Kay-051",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/210470990?v=4",
+  "githubUrl": "https://github.com/Kay-051",
+  "score": {
+    "score": 170.08,
+    "prScore": 168.08,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 3,
+    "prs": 12,
+    "prsMerged": 1,
+    "prAdditions": 1163,
+    "prDeletions": 60,
+    "prChangedFiles": 24,
+    "prMergeRate": 8,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 311,
+    "commitDeletions": 9,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 6
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 311,
+      "commitDeletions": 9,
+      "commits": 3
+    }
+  },
+  "firstContribution": "2026-03-02T02:47:44Z",
+  "lastContribution": "2026-03-06T05:53:17Z",
+  "recentPRs": [
+    {
+      "number": 37249,
+      "title": "fix(hooks): extract correct agentId from session key in before_reset hook",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T05:53:17Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37112,
+      "title": "fix(discord): use trimmed file path consistently in ensureOggOpus",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:38:39Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 37099,
+      "title": "fix(telegram): prevent substring false-positive in hasBotMention text check",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:25:10Z",
+      "mergedAt": null,
+      "additions": 71,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37084,
+      "title": "fix(discord): wrap reaction REST calls with retry runner for consistency",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:11:34Z",
+      "mergedAt": null,
+      "additions": 144,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 37062,
+      "title": "fix(auto-reply): normalize followup queue keys with trim() for consistency",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:02:33Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37059,
+      "title": "fix(cli): prevent Infinity% cached in status output when totalTokens is 0",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T02:57:56Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37050,
+      "title": "fix(telegram): add HTML parse fallback for media captions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T02:52:45Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37045,
+      "title": "fix(whatsapp): reject empty/non-numeric input in toWhatsappJid",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T02:46:17Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 33973,
+      "title": "fix(heartbeat): trim whitespace from activeHours time strings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T05:16:15Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 33954,
+      "title": "fix(discord): preserve HTTP status in probe result when JSON parsing fails",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T05:04:49Z",
+      "mergedAt": null,
+      "additions": 90,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 31838,
+      "title": "fix(slack): use users.info for ID-based allowlist lookups to avoid rate-limit loop",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-02T15:25:16Z",
+      "mergedAt": null,
+      "additions": 339,
+      "deletions": 26,
+      "changedFiles": 2
+    },
+    {
+      "number": 31837,
+      "title": "fix(telegram): preserve original filename for inbound document/audio/video",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T15:24:42Z",
+      "mergedAt": "2026-03-02T20:36:39Z",
+      "additions": 180,
+      "deletions": 6,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-02": 2,
+    "2026-02-23": 1
+  },
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

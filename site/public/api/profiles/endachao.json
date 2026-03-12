@@ -1,0 +1,109 @@
+{
+  "username": "endachao",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8328651?u=d4765adf1cd4b1d9fd264db95a68a5a96650dd61&v=4",
+  "githubUrl": "https://github.com/endachao",
+  "score": {
+    "score": 24.61,
+    "prScore": 18.61,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 166,
+    "prDeletions": 0,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T15:44:33Z",
+  "lastContribution": "2026-03-10T12:41:16Z",
+  "recentPRs": [
+    {
+      "number": 42136,
+      "title": "docs: add openclaw-feishu-custom to community plugins",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T12:41:16Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 41223,
+      "title": "fix: spawn detached recovery process before launchctl bootout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T16:08:31Z",
+      "mergedAt": null,
+      "additions": 161,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41198,
+      "title": "Gateway restart from agent exec kills gateway without recovery (bootout before bootstrap)",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T15:44:33Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

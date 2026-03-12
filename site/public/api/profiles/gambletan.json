@@ -1,0 +1,429 @@
+{
+  "username": "gambletan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/266203672?v=4",
+  "githubUrl": "https://github.com/gambletan",
+  "score": {
+    "score": 513.61,
+    "prScore": 440.61,
+    "issueScore": 0,
+    "reviewScore": 66,
+    "commentScore": 7
+  },
+  "tier": "veteran",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 32,
+    "prsMerged": 3,
+    "prAdditions": 792900,
+    "prDeletions": 232733,
+    "prChangedFiles": 6735,
+    "prMergeRate": 9,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 22,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 14,
+    "commitAdditions": 106,
+    "commitDeletions": 7,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 13
+  },
+  "period": {
+    "weekly": {
+      "prs": 32,
+      "issues": 0,
+      "reviews": 22,
+      "comments": 14,
+      "commitAdditions": 106,
+      "commitDeletions": 7,
+      "commits": 3
+    },
+    "monthly": {
+      "prs": 32,
+      "issues": 0,
+      "reviews": 22,
+      "comments": 14,
+      "commitAdditions": 106,
+      "commitDeletions": 7,
+      "commits": 3
+    }
+  },
+  "firstContribution": "2026-03-07T02:39:13Z",
+  "lastContribution": "2026-03-11T02:08:20Z",
+  "recentPRs": [
+    {
+      "number": 42659,
+      "title": "docs(plugins): add Cortex Memory to community plugins",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T01:53:52Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39728,
+      "title": "fix: include current time in system prompt for correct time-of-day greetings",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T10:31:27Z",
+      "mergedAt": null,
+      "additions": 178,
+      "deletions": 45,
+      "changedFiles": 10
+    },
+    {
+      "number": 39655,
+      "title": "fix(discord): add missing autoThread to DiscordGuildChannelConfig type",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T09:07:49Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 39647,
+      "title": "auto-reply: suppress JSON-wrapped NO_REPLY payloads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T08:58:41Z",
+      "mergedAt": null,
+      "additions": 124,
+      "deletions": 4,
+      "changedFiles": 8
+    },
+    {
+      "number": 39646,
+      "title": "fix(status): use resolved model when raw default references removed provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T08:55:20Z",
+      "mergedAt": null,
+      "additions": 175,
+      "deletions": 27,
+      "changedFiles": 9
+    },
+    {
+      "number": 39594,
+      "title": "fix(config): add video and audio to ModelDefinitionConfig and Zod schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T07:33:42Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 5,
+      "changedFiles": 6
+    },
+    {
+      "number": 39593,
+      "title": "fix(status): use resolved model when default references removed provider",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T07:33:39Z",
+      "mergedAt": null,
+      "additions": 175,
+      "deletions": 27,
+      "changedFiles": 9
+    },
+    {
+      "number": 39590,
+      "title": "fix(config): add missing params field to AgentEntrySchema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T07:26:45Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39583,
+      "title": "Fix double JSON-serialization of vLLM content blocks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T07:14:43Z",
+      "mergedAt": null,
+      "additions": 106,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39581,
+      "title": "fix: guard llm_output hook against undefined lastAssistant after timeout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T07:13:56Z",
+      "mergedAt": null,
+      "additions": 103,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 39385,
+      "title": "fix(signal): add groups config to schema for per-group requireMention",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T02:20:38Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39379,
+      "title": "fix(voice-call): add speed and instructions to OpenAI TTS plugin schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T02:16:42Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39378,
+      "title": "fix(discord): add agentComponents to config Zod schema",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T02:15:43Z",
+      "mergedAt": "2026-03-08T03:11:12Z",
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39377,
+      "title": "fix: add rate limit patterns for 'too many tokens' and 'tokens per day'",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T02:15:16Z",
+      "mergedAt": "2026-03-08T10:03:34Z",
+      "additions": 98,
+      "deletions": 3,
+      "changedFiles": 7
+    },
+    {
+      "number": 39376,
+      "title": "fix: treat empty strings as non-legacy params in channel-target.ts (#38830)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T02:14:18Z",
+      "mergedAt": null,
+      "additions": 155,
+      "deletions": 23,
+      "changedFiles": 4
+    },
+    {
+      "number": 39375,
+      "title": "fix(telegram): add editMessage and createForumTopic to actions schema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T02:14:09Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39374,
+      "title": "fix(config): accept \"openclaw\" as browser profile driver in Zod schema",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T02:11:56Z",
+      "mergedAt": "2026-03-08T09:04:49Z",
+      "additions": 7,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 38968,
+      "title": "fix(compaction): apply contextTokens cap to model for auto-compaction threshold",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T15:41:30Z",
+      "mergedAt": null,
+      "additions": 107,
+      "deletions": 3,
+      "changedFiles": 6
+    },
+    {
+      "number": 38910,
+      "title": "fix(cli): guard zsh completion against missing compinit",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T14:01:32Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38906,
+      "title": "fix(telegram): use message transport for all DM streaming lanes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T13:56:16Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 5,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 39875,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:58:44Z"
+    },
+    {
+      "prNumber": 39876,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:58:43Z"
+    },
+    {
+      "prNumber": 39877,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:58:30Z"
+    },
+    {
+      "prNumber": 39880,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:58:26Z"
+    },
+    {
+      "prNumber": 39881,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:58:20Z"
+    },
+    {
+      "prNumber": 39883,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:58:09Z"
+    },
+    {
+      "prNumber": 39886,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:57:58Z"
+    },
+    {
+      "prNumber": 39888,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:57:49Z"
+    },
+    {
+      "prNumber": 39891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:57:44Z"
+    },
+    {
+      "prNumber": 39892,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:57:39Z"
+    },
+    {
+      "prNumber": 39353,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T08:54:41Z"
+    },
+    {
+      "prNumber": 39351,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T08:54:39Z"
+    },
+    {
+      "prNumber": 38894,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T14:52:57Z"
+    },
+    {
+      "prNumber": 38916,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T14:52:43Z"
+    },
+    {
+      "prNumber": 38920,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T14:52:32Z"
+    },
+    {
+      "prNumber": 38891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T14:52:19Z"
+    },
+    {
+      "prNumber": 38893,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T14:52:07Z"
+    },
+    {
+      "prNumber": 38909,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T14:50:54Z"
+    },
+    {
+      "prNumber": 38911,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T14:50:40Z"
+    },
+    {
+      "prNumber": 38925,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T14:50:30Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-08": 3
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 16,
+      "issues": 0,
+      "reviews": 12
+    },
+    "2026-03-07": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 8
+    }
+  }
+}

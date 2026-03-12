@@ -1,0 +1,432 @@
+{
+  "username": "ayanesakura",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/40628300?v=4",
+  "githubUrl": "https://github.com/ayanesakura",
+  "score": {
+    "score": 550.07,
+    "prScore": 471.57,
+    "issueScore": 10,
+    "reviewScore": 42,
+    "commentScore": 26.5
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 2,
+    "prs": 46,
+    "prsMerged": 3,
+    "prAdditions": 4940,
+    "prDeletions": 982,
+    "prChangedFiles": 156,
+    "prMergeRate": 7,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 14,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 53,
+    "commitAdditions": 106,
+    "commitDeletions": 3,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 5
+  },
+  "period": {
+    "weekly": {
+      "prs": 39,
+      "issues": 2,
+      "reviews": 14,
+      "comments": 48,
+      "commitAdditions": 106,
+      "commitDeletions": 3,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 46,
+      "issues": 2,
+      "reviews": 14,
+      "comments": 53,
+      "commitAdditions": 106,
+      "commitDeletions": 3,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-04T04:12:17Z",
+  "lastContribution": "2026-03-12T02:59:50Z",
+  "recentPRs": [
+    {
+      "number": 42847,
+      "title": "fix(slack): respect userTokenReadOnly flag for read operations",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T05:40:29Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 41796,
+      "title": "fix(cron): start isolated job timeout after queue wait",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T05:38:43Z",
+      "mergedAt": null,
+      "additions": 283,
+      "deletions": 46,
+      "changedFiles": 8
+    },
+    {
+      "number": 41741,
+      "title": "fix(discord): pass local gateway tls fingerprint to exec approvals",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T04:31:33Z",
+      "mergedAt": null,
+      "additions": 123,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 41087,
+      "title": "fix(ui): auto-load usage data on tab open",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T13:58:10Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 41009,
+      "title": "fix(config): migrate tailscale serve binds to loopback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:01:26Z",
+      "mergedAt": null,
+      "additions": 192,
+      "deletions": 12,
+      "changedFiles": 6
+    },
+    {
+      "number": 40973,
+      "title": "fix(config): add missing requiresOpenAiAnthropicToolPayload to compat schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T12:30:50Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40744,
+      "title": "fix(agents): strip malformed `required` from tool schemas",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T07:46:05Z",
+      "mergedAt": null,
+      "additions": 99,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 40623,
+      "title": "fix(feishu): pass mediaLocalRoots in sendText local-image auto-convert shim",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T05:14:58Z",
+      "mergedAt": "2026-03-10T03:26:07Z",
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 40033,
+      "title": "chore(secrets): refresh baseline offsets",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T15:56:21Z",
+      "mergedAt": null,
+      "additions": 1155,
+      "deletions": 626,
+      "changedFiles": 25
+    },
+    {
+      "number": 39974,
+      "title": "fix(telegram): emit message:sent internal hook for Telegram delivery path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T15:11:31Z",
+      "mergedAt": null,
+      "additions": 160,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 39931,
+      "title": "fix(plugins): remove channel config during plugin uninstall",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T14:16:08Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 39863,
+      "title": "fix(outbound): strip echoed inbound metadata before delivery",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T13:18:39Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 6,
+      "changedFiles": 4
+    },
+    {
+      "number": 39814,
+      "title": "fix(feishu): restore @larksuiteoapi/node-sdk in root dependencies",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T12:18:37Z",
+      "mergedAt": "2026-03-08T13:56:46Z",
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39755,
+      "title": "fix(memory): truncate local embedding input to model context size",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T11:11:46Z",
+      "mergedAt": null,
+      "additions": 110,
+      "deletions": 21,
+      "changedFiles": 2
+    },
+    {
+      "number": 38949,
+      "title": "fix(models): skip cancelled token persistence",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T15:11:13Z",
+      "mergedAt": null,
+      "additions": 228,
+      "deletions": 74,
+      "changedFiles": 2
+    },
+    {
+      "number": 38883,
+      "title": "fix(agents): strip unsupported schema keywords for Volcengine/Kimi models",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T13:26:15Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 38860,
+      "title": "fix(failover): classify \"too many tokens\" as rate_limit (AWS Bedrock)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T12:56:44Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38855,
+      "title": "fix(failover): classify \"too many tokens\" as rate_limit (AWS Bedrock)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T12:52:11Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38765,
+      "title": "fix(webchat): use agent identity name in session dropdown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T10:25:13Z",
+      "mergedAt": null,
+      "additions": 125,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 38579,
+      "title": "fix(sessions): include requester identity in a2a prompts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T04:54:18Z",
+      "mergedAt": null,
+      "additions": 154,
+      "deletions": 18,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41783,
+      "title": "bug(cron): job timeout includes cron-lane queue wait time",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T05:26:42Z",
+      "closedAt": null
+    },
+    {
+      "number": 41740,
+      "title": "fix: discord exec approvals fails against local self-signed TLS gateway",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T04:31:31Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41741,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:20:41Z"
+    },
+    {
+      "prNumber": 41741,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:20:38Z"
+    },
+    {
+      "prNumber": 41796,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:19:20Z"
+    },
+    {
+      "prNumber": 41796,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:19:16Z"
+    },
+    {
+      "prNumber": 41796,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:19:13Z"
+    },
+    {
+      "prNumber": 41796,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:19:01Z"
+    },
+    {
+      "prNumber": 40744,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T15:15:54Z"
+    },
+    {
+      "prNumber": 42847,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T05:47:00Z"
+    },
+    {
+      "prNumber": 41009,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T08:08:53Z"
+    },
+    {
+      "prNumber": 41009,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T08:08:52Z"
+    },
+    {
+      "prNumber": 41009,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T13:18:20Z"
+    },
+    {
+      "prNumber": 41009,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T13:18:19Z"
+    },
+    {
+      "prNumber": 41009,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T13:18:19Z"
+    },
+    {
+      "prNumber": 37244,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T05:43:01Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-10": 1,
+    "2026-03-05": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 2
+    },
+    "2026-03-09": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-08": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

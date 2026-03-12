@@ -1,0 +1,158 @@
+{
+  "username": "jarimustonen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1272053?v=4",
+  "githubUrl": "https://github.com/jarimustonen",
+  "score": {
+    "score": 82,
+    "prScore": 64,
+    "issueScore": 0,
+    "reviewScore": 18,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 271,
+    "prDeletions": 31,
+    "prChangedFiles": 21,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T09:40:46Z",
+  "lastContribution": "2026-03-09T12:37:02Z",
+  "recentPRs": [
+    {
+      "number": 40781,
+      "title": "fix(hooks): pass sessionFile and sessionKey in after_compaction hook",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T08:37:21Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 40126,
+      "title": "feat(memory): pluggable system prompt section for memory plugins",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T17:38:46Z",
+      "mergedAt": null,
+      "additions": 166,
+      "deletions": 23,
+      "changedFiles": 12
+    },
+    {
+      "number": 38945,
+      "title": "fix(memory): Unicode support for MMR and FTS tokenizers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T15:07:14Z",
+      "mergedAt": null,
+      "additions": 90,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 38724,
+      "title": "docs: fix stale PR_WORKFLOW.md reference in AGENTS.md",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T09:40:46Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 40126,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T12:37:02Z"
+    },
+    {
+      "prNumber": 40126,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T12:34:15Z"
+    },
+    {
+      "prNumber": 40126,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T05:31:45Z"
+    },
+    {
+      "prNumber": 40126,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T05:30:50Z"
+    },
+    {
+      "prNumber": 38945,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T15:28:58Z"
+    },
+    {
+      "prNumber": 38724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T09:49:00Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

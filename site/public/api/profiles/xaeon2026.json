@@ -1,0 +1,295 @@
+{
+  "username": "xaeon2026",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264572156?v=4",
+  "githubUrl": "https://github.com/xaeon2026",
+  "score": {
+    "score": 256.74,
+    "prScore": 233.74,
+    "issueScore": 18,
+    "reviewScore": 0,
+    "commentScore": 5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 16,
+    "prsMerged": 1,
+    "prAdditions": 2411,
+    "prDeletions": 292,
+    "prChangedFiles": 51,
+    "prMergeRate": 6,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10,
+    "commitAdditions": 33,
+    "commitDeletions": 4,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 16,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 10,
+      "commitAdditions": 33,
+      "commitDeletions": 4,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 16,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 10,
+      "commitAdditions": 33,
+      "commitDeletions": 4,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-07T21:42:33Z",
+  "lastContribution": "2026-03-11T06:30:07Z",
+  "recentPRs": [
+    {
+      "number": 42892,
+      "title": "fix(agents): fail over and sanitize Codex server_error payloads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T06:29:43Z",
+      "mergedAt": null,
+      "additions": 181,
+      "deletions": 19,
+      "changedFiles": 7
+    },
+    {
+      "number": 42267,
+      "title": "fix(models): avoid spending probe timeout budget on post-run idle flush",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T15:05:37Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 41510,
+      "title": "fix(macOS): use detached helper for LaunchAgent gateway restarts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T23:06:35Z",
+      "mergedAt": null,
+      "additions": 216,
+      "deletions": 196,
+      "changedFiles": 4
+    },
+    {
+      "number": 41078,
+      "title": "Fix LINE doctor warnings for file-backed credentials",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T13:51:50Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 41077,
+      "title": "Enforce executable shell scripts in bundled skills",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T13:51:50Z",
+      "mergedAt": null,
+      "additions": 87,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 41076,
+      "title": "Recognize Gemini/Grok/Kimi web search keys in security audit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T13:51:50Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 41056,
+      "title": "Preserve streaming usage for compatible openai-completions endpoints",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:31:01Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 17,
+      "changedFiles": 2
+    },
+    {
+      "number": 41055,
+      "title": "Accept web fetch Firecrawl config in the runtime schema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:31:01Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 41054,
+      "title": "Accept legacy anthropic tool payload compat config overrides",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:31:01Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40996,
+      "title": "Deduplicate repeated tool call IDs for OpenAI-compatible APIs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T12:50:33Z",
+      "mergedAt": null,
+      "additions": 247,
+      "deletions": 29,
+      "changedFiles": 7
+    },
+    {
+      "number": 40995,
+      "title": "Allow ACP sessions.patch lineage fields on ACP session keys",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T12:50:33Z",
+      "mergedAt": "2026-03-09T16:08:12Z",
+      "additions": 33,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 40926,
+      "title": "Skip plugin reinstalls when npm updates are already current",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T11:32:25Z",
+      "mergedAt": null,
+      "additions": 532,
+      "deletions": 10,
+      "changedFiles": 3
+    },
+    {
+      "number": 40925,
+      "title": "Allow negative Telegram groupAllowFrom IDs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T11:32:15Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 10,
+      "changedFiles": 2
+    },
+    {
+      "number": 40885,
+      "title": "Track ACP sessions_spawn runs and emit ACP lifecycle events",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T10:48:44Z",
+      "mergedAt": null,
+      "additions": 364,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 40834,
+      "title": "Surface install hints for stable/beta bundled plugins with unresolved package dependencies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T09:49:30Z",
+      "mergedAt": null,
+      "additions": 487,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39229,
+      "title": "Fix macOS LaunchAgent restart path leaving gateway unloaded after bootout",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T22:15:32Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42264,
+      "title": "Probe sessions can time out after a successful reply because post-run idle flush consumes the timeout budget",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T15:05:03Z",
+      "closedAt": null
+    },
+    {
+      "number": 40832,
+      "title": "Stable/beta bundled plugins can fail to load when published artifacts omit required package dependencies",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T09:44:40Z",
+      "closedAt": null
+    },
+    {
+      "number": 39211,
+      "title": "[Bug]: macOS LaunchAgent restart can leave ai.openclaw.gateway unloaded after bootout",
+      "state": "CLOSED",
+      "createdAt": "2026-03-07T21:42:33Z",
+      "closedAt": "2026-03-09T05:36:28Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-09": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 13,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

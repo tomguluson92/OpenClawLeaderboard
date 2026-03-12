@@ -1,0 +1,194 @@
+{
+  "username": "clay-relay",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/257248983?v=4",
+  "githubUrl": "https://github.com/clay-relay",
+  "score": {
+    "score": 207.05,
+    "prScore": 180.05,
+    "issueScore": 10,
+    "reviewScore": 15,
+    "commentScore": 2
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 9684,
+    "prDeletions": 245,
+    "prChangedFiles": 152,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 2,
+      "reviews": 5,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T06:11:41Z",
+  "lastContribution": "2026-03-03T06:29:30Z",
+  "recentPRs": [
+    {
+      "number": 32646,
+      "title": "feat(exec): add wakeOnExit immediate session-event wake for background completions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T06:29:30Z",
+      "mergedAt": null,
+      "additions": 1946,
+      "deletions": 46,
+      "changedFiles": 26
+    },
+    {
+      "number": 32330,
+      "title": "feat(exec): add wakeOnExit immediate session-event wake for background completions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T00:17:32Z",
+      "mergedAt": null,
+      "additions": 1934,
+      "deletions": 43,
+      "changedFiles": 26
+    },
+    {
+      "number": 32302,
+      "title": "feat(exec): add wakeOnExit immediate session-event wake for background completions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T23:42:35Z",
+      "mergedAt": null,
+      "additions": 1651,
+      "deletions": 42,
+      "changedFiles": 26
+    },
+    {
+      "number": 32187,
+      "title": "fix(exec): add opt-in wakeOnExit session run for background completions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T21:27:10Z",
+      "mergedAt": null,
+      "additions": 1483,
+      "deletions": 42,
+      "changedFiles": 26
+    },
+    {
+      "number": 31981,
+      "title": "fix(exec): add opt-in wakeOnExit session run for background completions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T17:40:40Z",
+      "mergedAt": null,
+      "additions": 1612,
+      "deletions": 42,
+      "changedFiles": 26
+    },
+    {
+      "number": 31877,
+      "title": "fix(exec): add opt-in wakeOnExit session run for background completions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T16:12:47Z",
+      "mergedAt": null,
+      "additions": 1058,
+      "deletions": 30,
+      "changedFiles": 22
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 31354,
+      "title": "Session-event run failures should retry instead of dropping immediate wake",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T06:19:07Z",
+      "closedAt": null
+    },
+    {
+      "number": 31348,
+      "title": "Session event runs do not route outbound replies for webchat sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T06:11:41Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 31877,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T17:38:49Z"
+    },
+    {
+      "prNumber": 31877,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T17:19:32Z"
+    },
+    {
+      "prNumber": 31877,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T17:19:31Z"
+    },
+    {
+      "prNumber": 31877,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T16:39:03Z"
+    },
+    {
+      "prNumber": 31877,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T16:39:01Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 4,
+      "issues": 2,
+      "reviews": 5
+    }
+  }
+}

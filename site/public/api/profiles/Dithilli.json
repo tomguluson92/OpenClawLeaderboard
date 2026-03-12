@@ -1,0 +1,97 @@
+{
+  "username": "Dithilli",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41286037?v=4",
+  "githubUrl": "https://github.com/Dithilli",
+  "score": {
+    "score": 76.75,
+    "prScore": 68.25,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 5,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 152,
+    "prDeletions": 58,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 609,
+    "commitDeletions": 3,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 8
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 609,
+      "commitDeletions": 3,
+      "commits": 5
+    }
+  },
+  "firstContribution": "2026-03-02T22:26:30Z",
+  "lastContribution": "2026-03-02T23:50:18Z",
+  "recentPRs": [
+    {
+      "number": 32233,
+      "title": "fix(ui): break server-only import chain crashing pnpm ui:build from source [AI]",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T22:28:45Z",
+      "mergedAt": null,
+      "additions": 152,
+      "deletions": 58,
+      "changedFiles": 10
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32232,
+      "title": "fix: pnpm ui:build fails from source with createRequire browser-external error",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T22:26:30Z",
+      "closedAt": "2026-03-02T23:58:59Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-19": 1,
+    "2026-02-16": 4
+  },
+  "recentActivityDays": {
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

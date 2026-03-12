@@ -1,0 +1,164 @@
+{
+  "username": "HeMuling",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/74801533?v=4",
+  "githubUrl": "https://github.com/HeMuling",
+  "score": {
+    "score": 182.52,
+    "prScore": 180.52,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 3,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 1261,
+    "prDeletions": 47,
+    "prChangedFiles": 40,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 403,
+    "commitDeletions": 9,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 9
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 403,
+      "commitDeletions": 9,
+      "commits": 3
+    }
+  },
+  "firstContribution": "2026-03-08T13:49:32Z",
+  "lastContribution": "2026-03-08T17:05:42Z",
+  "recentPRs": [
+    {
+      "number": 40085,
+      "title": "Keep sessions active through async media delivery",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T17:05:15Z",
+      "mergedAt": null,
+      "additions": 216,
+      "deletions": 8,
+      "changedFiles": 6
+    },
+    {
+      "number": 40084,
+      "title": "Fix stop aborting long-running exec scopes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T17:05:15Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 39957,
+      "title": "fix(telegram): suppress toolUse intermediate message_end block replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T14:42:52Z",
+      "mergedAt": null,
+      "additions": 112,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39898,
+      "title": "Reject SecretRef placeholders from runtime auth fallbacks",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T13:50:06Z",
+      "mergedAt": null,
+      "additions": 188,
+      "deletions": 4,
+      "changedFiles": 6
+    },
+    {
+      "number": 39897,
+      "title": "Preinstall bundled Matrix deps in Docker images",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T13:50:05Z",
+      "mergedAt": null,
+      "additions": 104,
+      "deletions": 11,
+      "changedFiles": 7
+    },
+    {
+      "number": 39896,
+      "title": "Add release-check guard for bundled Feishu runtime deps",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T13:50:05Z",
+      "mergedAt": null,
+      "additions": 222,
+      "deletions": 11,
+      "changedFiles": 6
+    },
+    {
+      "number": 39895,
+      "title": "Honor account-scoped Synology Chat bindings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T13:50:05Z",
+      "mergedAt": null,
+      "additions": 266,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 39894,
+      "title": "Fix outbound metadata leaking through reply normalization",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T13:49:32Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 8,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-24": 3
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

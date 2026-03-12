@@ -1,0 +1,127 @@
+{
+  "username": "StriderXOXO",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/191675137?u=8b1038e488672d769ba78d2990b76b6b148dfde9&v=4",
+  "githubUrl": "https://github.com/StriderXOXO",
+  "score": {
+    "score": 47.68,
+    "prScore": 38.68,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 204,
+    "prDeletions": 7,
+    "prChangedFiles": 11,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T03:32:54Z",
+  "lastContribution": "2026-03-11T13:14:07Z",
+  "recentPRs": [
+    {
+      "number": 43194,
+      "title": "fix(cron): persist payload.fallbacks in cron.update API",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T13:14:07Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40534,
+      "title": "fix(cron): filter reasoning/thinking payloads from announce delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T03:36:13Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 6,
+      "changedFiles": 5
+    },
+    {
+      "number": 40530,
+      "title": "feat(feishu): add requireMentionInThread to allow thread replies without @mention",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T03:32:54Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 1,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 40534,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T05:08:12Z"
+    },
+    {
+      "prNumber": 40534,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T05:08:03Z"
+    },
+    {
+      "prNumber": 40530,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T05:07:57Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    }
+  }
+}

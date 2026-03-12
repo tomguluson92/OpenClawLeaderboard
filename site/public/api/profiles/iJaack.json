@@ -1,0 +1,143 @@
+{
+  "username": "iJaack",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6631681?u=54dc1e9bed556a4078a3fcd13d347cdbcab89652&v=4",
+  "githubUrl": "https://github.com/iJaack",
+  "score": {
+    "score": 97.22,
+    "prScore": 83.22,
+    "issueScore": 5,
+    "reviewScore": 6,
+    "commentScore": 3
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 717,
+    "prDeletions": 87,
+    "prChangedFiles": 31,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T16:04:28Z",
+  "lastContribution": "2026-03-11T11:39:10Z",
+  "recentPRs": [
+    {
+      "number": 43129,
+      "title": "fix(cron): allow agentTurn jobs on main sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T11:23:03Z",
+      "mergedAt": null,
+      "additions": 243,
+      "deletions": 61,
+      "changedFiles": 11
+    },
+    {
+      "number": 33223,
+      "title": "feat(cron): add maxRunsPerDay for daily run deduplication",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T16:04:45Z",
+      "mergedAt": null,
+      "additions": 359,
+      "deletions": 16,
+      "changedFiles": 11
+    },
+    {
+      "number": 33221,
+      "title": "feat(compaction): add preserveSections config for post-compaction context [AI-assisted]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T16:04:28Z",
+      "mergedAt": null,
+      "additions": 115,
+      "deletions": 10,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 38887,
+      "title": "Telegram multi-account: stale-socket restarts kill idle bot connections",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T13:31:54Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 43129,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T11:31:35Z"
+    },
+    {
+      "prNumber": 43129,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T11:31:34Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "username": "GymPupil",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/149050909?u=530fe994197f9b3f1d315b2ca3c01f8e258d8fa4&v=4",
+  "githubUrl": "https://github.com/GymPupil",
+  "score": {
+    "score": 46.61,
+    "prScore": 34.61,
+    "issueScore": 0,
+    "reviewScore": 12,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 77,
+    "prDeletions": 4,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T10:04:23Z",
+  "lastContribution": "2026-03-09T10:50:12Z",
+  "recentPRs": [
+    {
+      "number": 40849,
+      "title": "web-tools: allow per-call SSRF policy overrides in web-guarded-fetch",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T10:07:49Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 40847,
+      "title": "media-understanding: log image processing failures when no outputs are produced",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T10:06:47Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 40846,
+      "title": "gateway: prevent macOS idle sleep while the gateway is running",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T10:05:39Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 40844,
+      "title": "telegram: treat explicit network request failures as recoverable in send context",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T10:04:23Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 3,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 40849,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T10:50:12Z"
+    },
+    {
+      "prNumber": 40847,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T10:49:36Z"
+    },
+    {
+      "prNumber": 40846,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T10:49:03Z"
+    },
+    {
+      "prNumber": 40844,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T10:48:27Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 4
+    }
+  }
+}

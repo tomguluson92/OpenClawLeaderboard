@@ -1,0 +1,106 @@
+{
+  "username": "aashari",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4284487?u=019133ec54104b77c0fab5ff74d89a837a54cdf9&v=4",
+  "githubUrl": "https://github.com/aashari",
+  "score": {
+    "score": 17.94,
+    "prScore": 9.44,
+    "issueScore": 5,
+    "reviewScore": 3,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 56,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T18:37:03Z",
+  "lastContribution": "2026-03-06T10:04:36Z",
+  "recentPRs": [
+    {
+      "number": 34858,
+      "title": "fix(ui): use ?selected binding on model options to fix initial render",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T18:37:17Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 34857,
+      "title": "bug: agents model selection <select> shows wrong primary model on initial load",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T18:37:03Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 34858,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T19:15:42Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "username": "daymade",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4291901?v=4",
+  "githubUrl": "https://github.com/daymade",
+  "score": {
+    "score": 47.12,
+    "prScore": 37.62,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 3,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 20,
+    "prDeletions": 17,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 36,
+    "commitDeletions": 33,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 6
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 36,
+      "commitDeletions": 33,
+      "commits": 3
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 36,
+      "commitDeletions": 33,
+      "commits": 3
+    }
+  },
+  "firstContribution": "2026-03-08T11:19:35Z",
+  "lastContribution": "2026-03-08T12:06:08Z",
+  "recentPRs": [
+    {
+      "number": 39763,
+      "title": "fix(darwin): remove self-kickstart from launchd gateway restart; rely on KeepAlive",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T11:21:08Z",
+      "mergedAt": "2026-03-08T13:42:51Z",
+      "additions": 20,
+      "deletions": 17,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39760,
+      "title": "fix(darwin): launchd gateway self-restart permanently unloads LaunchAgent",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T11:19:35Z",
+      "closedAt": "2026-03-08T13:42:51Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-08": 3
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

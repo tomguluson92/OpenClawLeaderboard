@@ -1,0 +1,106 @@
+{
+  "username": "SaucePackets",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33006469?u=28e9a22b5fd420f97a4f94c46ad4f4fa96b603ff&v=4",
+  "githubUrl": "https://github.com/SaucePackets",
+  "score": {
+    "score": 26.37,
+    "prScore": 25.87,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 53,
+    "prDeletions": 4,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T02:10:57Z",
+  "lastContribution": "2026-03-07T17:38:55Z",
+  "recentPRs": [
+    {
+      "number": 39054,
+      "title": "fix(cron): prevent duplicate isolated runs from watchdog timer race",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T17:38:55Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38483,
+      "title": "fix(sandbox-explain): resolve Telegram channel from direct session keys in CLI context",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T02:24:02Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 38472,
+      "title": "fix(sandbox-explain): resolve telegram channel from direct session keys in CLI context",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T02:10:57Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

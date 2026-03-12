@@ -1,0 +1,154 @@
+{
+  "username": "Haohao-end",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/184792454?v=4",
+  "githubUrl": "https://github.com/Haohao-end",
+  "score": {
+    "score": 76.45,
+    "prScore": 53.45,
+    "issueScore": 0,
+    "reviewScore": 18,
+    "commentScore": 5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 1093,
+    "prDeletions": 82,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T13:09:36Z",
+  "lastContribution": "2026-03-11T17:02:38Z",
+  "recentPRs": [
+    {
+      "number": 43365,
+      "title": "fix(agents): resolve main agent config when no sessionKey is provided",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T17:02:38Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 42460,
+      "title": "Tests/docs: clarify profile and subagent allow semantics for browser and web tools",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T19:07:59Z",
+      "mergedAt": null,
+      "additions": 110,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 42425,
+      "title": "fix(hooks): load workspace hooks for non-default agents",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T18:05:49Z",
+      "mergedAt": null,
+      "additions": 951,
+      "deletions": 79,
+      "changedFiles": 3
+    },
+    {
+      "number": 42163,
+      "title": "fix(skills): bound watcher recursion to reduce FD exhaustion risk",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T13:09:36Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42425,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T19:04:30Z"
+    },
+    {
+      "prNumber": 42425,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T18:49:18Z"
+    },
+    {
+      "prNumber": 42425,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T18:26:22Z"
+    },
+    {
+      "prNumber": 42425,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T18:25:52Z"
+    },
+    {
+      "prNumber": 42425,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T18:25:41Z"
+    },
+    {
+      "prNumber": 42163,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T13:19:04Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 6
+    }
+  }
+}

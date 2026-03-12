@@ -1,0 +1,479 @@
+{
+  "username": "AytuncYildizli",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47717026?v=4",
+  "githubUrl": "https://github.com/AytuncYildizli",
+  "score": {
+    "score": 459.19,
+    "prScore": 355.19,
+    "issueScore": 56,
+    "reviewScore": 27,
+    "commentScore": 21
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 4,
+    "prs": 22,
+    "prsMerged": 3,
+    "prAdditions": 55857,
+    "prDeletions": 40142,
+    "prChangedFiles": 1723,
+    "prMergeRate": 14,
+    "issues": 10,
+    "issuesClosed": 2,
+    "reviews": 9,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 42,
+    "commitAdditions": 667,
+    "commitDeletions": 45,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 12
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 22,
+      "issues": 10,
+      "reviews": 9,
+      "comments": 42,
+      "commitAdditions": 667,
+      "commitDeletions": 45,
+      "commits": 5
+    }
+  },
+  "firstContribution": "2026-02-27T13:21:26Z",
+  "lastContribution": "2026-03-08T08:34:47Z",
+  "recentPRs": [
+    {
+      "number": 39624,
+      "title": "fix: harden macOS update restart recovery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T08:20:08Z",
+      "mergedAt": null,
+      "additions": 150,
+      "deletions": 12,
+      "changedFiles": 6
+    },
+    {
+      "number": 38381,
+      "title": "feat(coding-agent): add Codex CLI multi-agent orchestration support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T23:03:17Z",
+      "mergedAt": null,
+      "additions": 137,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38254,
+      "title": "fix(dotenv): expand env references in loaded env files",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T18:18:42Z",
+      "mergedAt": null,
+      "additions": 179,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 38240,
+      "title": "fix(dotenv): expand env references in loaded env files",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:52:06Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 36569,
+      "title": "docs(cron): propose persisted run-record + morning handoff MVP",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T18:30:58Z",
+      "mergedAt": null,
+      "additions": 96,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35188,
+      "title": "fix(gateway): keep hook announce summaries in target session lane",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T01:39:40Z",
+      "mergedAt": null,
+      "additions": 157,
+      "deletions": 33,
+      "changedFiles": 7
+    },
+    {
+      "number": 35089,
+      "title": "fix(subagents): enforce target model lock on spawn override",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T00:16:31Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 35082,
+      "title": "fix(gateway): keep hook announce summaries in target session lane",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T00:08:16Z",
+      "mergedAt": null,
+      "additions": 2842,
+      "deletions": 22595,
+      "changedFiles": 801
+    },
+    {
+      "number": 35012,
+      "title": "fix(gateway): harden Gemini CLI OAuth loadCodeAssist handling",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T21:40:01Z",
+      "mergedAt": null,
+      "additions": 433,
+      "deletions": 26,
+      "changedFiles": 6
+    },
+    {
+      "number": 34643,
+      "title": "fix(gateway): resolve unique provider model shorthand in sessions.patch",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T15:55:08Z",
+      "mergedAt": null,
+      "additions": 190,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 34349,
+      "title": "feat(session): gateway-level liveness triggers (fixes #34506)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T11:20:50Z",
+      "mergedAt": null,
+      "additions": 120,
+      "deletions": 7,
+      "changedFiles": 7
+    },
+    {
+      "number": 34348,
+      "title": "feat(tts): per-agent TTS voice configuration",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T11:20:44Z",
+      "mergedAt": null,
+      "additions": 194,
+      "deletions": 9,
+      "changedFiles": 14
+    },
+    {
+      "number": 34139,
+      "title": "feat(status): add channel health summary to /status output",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T07:50:25Z",
+      "mergedAt": null,
+      "additions": 234,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 33644,
+      "title": "fix(whatsapp): store post-conversion text in echo tracker to prevent self-chat loops",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T00:02:50Z",
+      "mergedAt": null,
+      "additions": 164,
+      "deletions": 10,
+      "changedFiles": 4
+    },
+    {
+      "number": 33613,
+      "title": "fix(agents): auto-fallback to CLI backend for codex-responses models",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T23:21:02Z",
+      "mergedAt": null,
+      "additions": 284,
+      "deletions": 180,
+      "changedFiles": 2
+    },
+    {
+      "number": 33586,
+      "title": "feat(acp): bridge fleet agent persona (SOUL.md/AGENTS.md) to CLAUDE.md for ACP sessions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T22:52:10Z",
+      "mergedAt": null,
+      "additions": 403,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 33521,
+      "title": "feat(hooks): bridge subagent lifecycle events to internal hook system",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T21:54:14Z",
+      "mergedAt": null,
+      "additions": 87,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 32629,
+      "title": "feat(session): gateway-level liveness triggers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T06:11:07Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 1,
+      "changedFiles": 7
+    },
+    {
+      "number": 32596,
+      "title": "feat(tts): per-agent TTS voice configuration",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T05:19:14Z",
+      "mergedAt": null,
+      "additions": 49136,
+      "deletions": 17202,
+      "changedFiles": 835
+    },
+    {
+      "number": 32320,
+      "title": "fix(slack): restore persistent per-channel session routing",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T00:00:45Z",
+      "mergedAt": "2026-03-03T01:00:50Z",
+      "additions": 32,
+      "deletions": 38,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 38259,
+      "title": "dotenv loader does not expand env references in .env files",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T18:24:40Z",
+      "closedAt": null
+    },
+    {
+      "number": 35083,
+      "title": "hooks/agent: keep summaries in requested session and use hook lane tag",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T00:09:53Z",
+      "closedAt": null
+    },
+    {
+      "number": 34642,
+      "title": "sessions.patch rejects unique provider-scoped model shorthand (e.g. nvidia/kimi)",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T15:54:54Z",
+      "closedAt": null
+    },
+    {
+      "number": 34506,
+      "title": "feat: gateway-level liveness triggers",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T13:59:43Z",
+      "closedAt": null
+    },
+    {
+      "number": 33593,
+      "title": "RFC: ACP Fleet Agent Integration (4-Phase Plan)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T22:56:41Z",
+      "closedAt": "2026-03-03T23:00:09Z"
+    },
+    {
+      "number": 33587,
+      "title": "feat: Codex (openai-codex-responses) embedded runner should support tool calls",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T22:52:28Z",
+      "closedAt": null
+    },
+    {
+      "number": 33584,
+      "title": "RFC: ACP Fleet Agent Integration \u2014 Persona, Context & State Bridging",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T22:49:54Z",
+      "closedAt": null
+    },
+    {
+      "number": 32598,
+      "title": "Feature: Gateway-level liveness check \u2014 instant agent status without waiting for LLM turn",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T05:22:31Z",
+      "closedAt": null
+    },
+    {
+      "number": 31884,
+      "title": "WhatsApp channel: HTML tags (e.g. <br>) not stripped before delivery",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T16:26:09Z",
+      "closedAt": "2026-03-02T19:28:49Z"
+    },
+    {
+      "number": 28730,
+      "title": "[Bug]: ACP sessions_spawn fails with fleet agent IDs \u2014 \"Failed to spawn agent command: <fleet-id>\"",
+      "state": "OPEN",
+      "createdAt": "2026-02-27T13:21:26Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 39624,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T08:34:47Z"
+    },
+    {
+      "prNumber": 39624,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T08:34:47Z"
+    },
+    {
+      "prNumber": 39624,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T08:34:47Z"
+    },
+    {
+      "prNumber": 35188,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T01:52:49Z"
+    },
+    {
+      "prNumber": 35012,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T01:52:49Z"
+    },
+    {
+      "prNumber": 34349,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T14:02:14Z"
+    },
+    {
+      "prNumber": 33644,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T00:10:20Z"
+    },
+    {
+      "prNumber": 33644,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T00:10:12Z"
+    },
+    {
+      "prNumber": 33644,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T00:03:09Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-03": 1,
+    "2026-03-02": 3,
+    "2026-02-26": 1
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-06": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 4,
+      "issues": 1,
+      "reviews": 2
+    },
+    "2026-03-04": {
+      "prs": 6,
+      "issues": 2,
+      "reviews": 4
+    },
+    "2026-03-03": {
+      "prs": 6,
+      "issues": 4,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-02-27": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "username": "tsukhani",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/156283?v=4",
+  "githubUrl": "https://github.com/tsukhani",
+  "score": {
+    "score": 178.06,
+    "prScore": 178.06,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 55199,
+    "prDeletions": 1032,
+    "prChangedFiles": 291,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T13:36:40Z",
+  "lastContribution": "2026-03-05T13:36:43Z",
+  "recentPRs": [
+    {
+      "number": 36204,
+      "title": "fix(memory-neo4j): cursor-based credential scan (Perf-6), batch entity dedup rels (OP-106), batch Phase 8 tips (OP-107)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T13:36:43Z",
+      "mergedAt": null,
+      "additions": 27718,
+      "deletions": 516,
+      "changedFiles": 145
+    },
+    {
+      "number": 36203,
+      "title": "fix(memory-neo4j): sanitize entity extraction input (Sec-5), add CLI abort signal (OP-95 gap)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T13:36:40Z",
+      "mergedAt": null,
+      "additions": 27481,
+      "deletions": 516,
+      "changedFiles": 146
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

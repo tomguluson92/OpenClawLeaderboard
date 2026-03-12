@@ -1,0 +1,222 @@
+{
+  "username": "GeekCheyun",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/170835184?u=454ff6a899e306329c7eb11701a6e744a696bb6a&v=4",
+  "githubUrl": "https://github.com/GeekCheyun",
+  "score": {
+    "score": 141.07,
+    "prScore": 134.57,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 6.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 11,
+    "prsMerged": 1,
+    "prAdditions": 759,
+    "prDeletions": 40,
+    "prChangedFiles": 25,
+    "prMergeRate": 9,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 13,
+    "commitAdditions": 43,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 13,
+      "commitAdditions": 43,
+      "commitDeletions": 0,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 13,
+      "commitAdditions": 43,
+      "commitDeletions": 0,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-03T13:34:56Z",
+  "lastContribution": "2026-03-08T15:31:39Z",
+  "recentPRs": [
+    {
+      "number": 40004,
+      "title": "docs(feishu): stop recommending separate install on current releases",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T15:31:39Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 39874,
+      "title": "fix(gateway): prevent chat.send cross-channel leakage on configured main",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T13:28:14Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 23,
+      "changedFiles": 3
+    },
+    {
+      "number": 39854,
+      "title": "fix(issue-39839): handle kimi anthropic-messages tool-call extra params",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T13:12:22Z",
+      "mergedAt": "2026-03-08T14:14:06Z",
+      "additions": 43,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39774,
+      "title": "fix(synology-chat): preserve 0 rate limit and fallback invalid env to default",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T11:36:54Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38786,
+      "title": "fix(gateway): hide delivery-mirror transcript entries from chat history",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T11:06:45Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36942,
+      "title": "fix: multiple targeted fixes (Matrix import, subagent steer, cron payload)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T01:05:17Z",
+      "mergedAt": null,
+      "additions": 203,
+      "deletions": 7,
+      "changedFiles": 7
+    },
+    {
+      "number": 36360,
+      "title": "fix(mattermost): replace monolithic plugin-sdk imports",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T15:33:01Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 36322,
+      "title": "fix(feishu): accept legacy groupPolicy allowall",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T15:09:29Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35874,
+      "title": "fix(security): avoid localized NT AUTHORITY ACL false positives on Windows",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T09:49:06Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 35817,
+      "title": "fix: improve WhatsApp allowFrom mismatch error",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T09:12:40Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 33055,
+      "title": "docs(zh-CN): add security reporting and AI contributing guides",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T13:34:56Z",
+      "mergedAt": null,
+      "additions": 304,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-08": 1
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "username": "uninhibite-scholar",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/238404526?v=4",
+  "githubUrl": "https://github.com/uninhibite-scholar",
+  "score": {
+    "score": 526.53,
+    "prScore": 513.53,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 13
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 56,
+    "prsMerged": 0,
+    "prAdditions": 2527,
+    "prDeletions": 773,
+    "prChangedFiles": 199,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 26,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 56,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 26,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 56,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 26,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T05:25:48Z",
+  "lastContribution": "2026-03-12T02:35:43Z",
+  "recentPRs": [
+    {
+      "number": 43600,
+      "title": "fix: respect tools.exec.ask=off in webchat/control-ui",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T02:35:43Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 43597,
+      "title": "fix: respect tools.exec.ask=off in webchat/control-ui",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T02:34:26Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 21,
+      "changedFiles": 5
+    },
+    {
+      "number": 43575,
+      "title": "fix: respect tools.exec.ask=off in webchat/control-ui",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T01:48:13Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 23,
+      "changedFiles": 5
+    },
+    {
+      "number": 43572,
+      "title": "fix: show expired OAuth profiles as 'expired' even when refreshable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T01:40:36Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 43571,
+      "title": "fix: respect tools.exec.ask=off in webchat/control-ui",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T01:40:33Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 42917,
+      "title": "improve: make error messages more actionable and user-friendly",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:52:17Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 21,
+      "changedFiles": 4
+    },
+    {
+      "number": 42915,
+      "title": "fix: TUI honors active gateway runtime port",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:52:01Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 19,
+      "changedFiles": 5
+    },
+    {
+      "number": 42914,
+      "title": "fix: use target agent workspace for sessions_spawn with agentId",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:51:40Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 19,
+      "changedFiles": 5
+    },
+    {
+      "number": 42913,
+      "title": "improve: add troubleshooting hints to Discord fetch failed error",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:51:19Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 22,
+      "changedFiles": 5
+    },
+    {
+      "number": 42899,
+      "title": "fix: only promote 'expiring' to 'ok' when refresh token exists",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:36:12Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 24,
+      "changedFiles": 5
+    },
+    {
+      "number": 42897,
+      "title": "fix: respect tools.exec.ask=off in webchat/control-ui",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:36:07Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 24,
+      "changedFiles": 5
+    },
+    {
+      "number": 42896,
+      "title": "fix: preserve whitespace inside fenced code blocks in directive normalization",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:35:41Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 23,
+      "changedFiles": 5
+    },
+    {
+      "number": 42813,
+      "title": "improve: make Telegram token error message more user-friendly",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T05:01:34Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 22,
+      "changedFiles": 5
+    },
+    {
+      "number": 42812,
+      "title": "fix: respect messageDefaults.receive_id_type config in Feishu send",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T05:01:22Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 24,
+      "changedFiles": 7
+    },
+    {
+      "number": 42811,
+      "title": "fix: remove duplicate const matches declaration in media parser",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T05:01:07Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 21,
+      "changedFiles": 4
+    },
+    {
+      "number": 42778,
+      "title": "improve: make Telegram token error message more user-friendly (v2)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T04:13:47Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 22,
+      "changedFiles": 5
+    },
+    {
+      "number": 42777,
+      "title": "fix: respect messageDefaults.receive_id_type config in Feishu send (v5)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T04:13:20Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 24,
+      "changedFiles": 7
+    },
+    {
+      "number": 42776,
+      "title": "fix: remove duplicate const matches declaration in media parser (v4)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T04:12:53Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 21,
+      "changedFiles": 4
+    },
+    {
+      "number": 42760,
+      "title": "improve: make target error messages more helpful and actionable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T03:44:35Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 14,
+      "changedFiles": 3
+    },
+    {
+      "number": 42759,
+      "title": "improve: add troubleshooting hint to Signal message actions error",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T03:43:23Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 12,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 15,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

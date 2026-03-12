@@ -1,0 +1,251 @@
+{
+  "username": "teconomix",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6959299?v=4",
+  "githubUrl": "https://github.com/teconomix",
+  "score": {
+    "score": 150.82,
+    "prScore": 74.82,
+    "issueScore": 48,
+    "reviewScore": 21,
+    "commentScore": 7
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 774,
+    "prDeletions": 26,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
+    "issues": 9,
+    "issuesClosed": 1,
+    "reviews": 7,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 14,
+    "commitAdditions": 495,
+    "commitDeletions": 12,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 15
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 6,
+      "reviews": 7,
+      "comments": 6,
+      "commitAdditions": 495,
+      "commitDeletions": 12,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 9,
+      "reviews": 7,
+      "comments": 14,
+      "commitAdditions": 495,
+      "commitDeletions": 12,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-02-27T19:01:43Z",
+  "lastContribution": "2026-03-11T19:50:20Z",
+  "recentPRs": [
+    {
+      "number": 43041,
+      "title": "fix(mattermost): stream each turn independently in multi-tool-call responses",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T09:33:25Z",
+      "mergedAt": null,
+      "additions": 415,
+      "deletions": 13,
+      "changedFiles": 4
+    },
+    {
+      "number": 33506,
+      "title": "feat(mattermost): block streaming edit-in-place (rebased)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T21:26:18Z",
+      "mergedAt": null,
+      "additions": 351,
+      "deletions": 13,
+      "changedFiles": 4
+    },
+    {
+      "number": 33390,
+      "title": "fix(mattermost): allowlist baseUrl hostname in SSRF policy for inbound media",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T19:00:00Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43435,
+      "title": "Mattermost: media attachments in intermediate multi-turn turns are silently dropped",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T19:50:20Z",
+      "closedAt": null
+    },
+    {
+      "number": 43020,
+      "title": "Mattermost: multi-turn responses batch all messages at end when edit-in-place streaming is active",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:19:38Z",
+      "closedAt": null
+    },
+    {
+      "number": 42459,
+      "title": "mattermost: streaming final delivery may race with in-flight interval patch under high latency",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T19:07:28Z",
+      "closedAt": null
+    },
+    {
+      "number": 39759,
+      "title": "feat(mattermost): carry thread context (replyToId) to non-inbound-triggered deliveries",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T11:19:01Z",
+      "closedAt": null
+    },
+    {
+      "number": 39518,
+      "title": "feat(mattermost): stream text progressively even when response includes media attachments",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T05:36:56Z",
+      "closedAt": null
+    },
+    {
+      "number": 39491,
+      "title": "feat(mattermost): chunk text before final streaming edit to respect post size limits",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T04:58:24Z",
+      "closedAt": null
+    },
+    {
+      "number": 30871,
+      "title": "Slack: agent workspace-<id> media paths blocked after 2026.2.26 security hardening (regression)",
+      "state": "OPEN",
+      "createdAt": "2026-03-01T18:18:01Z",
+      "closedAt": null
+    },
+    {
+      "number": 29881,
+      "title": "mattermost: message tool media upload fails with 403 in DMs (channel_id not resolved)",
+      "state": "CLOSED",
+      "createdAt": "2026-02-28T16:00:35Z",
+      "closedAt": "2026-03-10T08:52:26Z"
+    },
+    {
+      "number": 29058,
+      "title": "[Feature]: Mattermost: support Slack-like \u201cauto-thread replies\u201d so each top-level message can become its own session/thread",
+      "state": "OPEN",
+      "createdAt": "2026-02-27T19:01:43Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 43041,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T19:09:22Z"
+    },
+    {
+      "prNumber": 43041,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T09:49:21Z"
+    },
+    {
+      "prNumber": 43041,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T09:49:20Z"
+    },
+    {
+      "prNumber": 43041,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T09:49:19Z"
+    },
+    {
+      "prNumber": 43041,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T09:49:18Z"
+    },
+    {
+      "prNumber": 43041,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T09:49:17Z"
+    },
+    {
+      "prNumber": 43041,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T09:49:03Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-10": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 7
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-01": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-02-28": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-02-27": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

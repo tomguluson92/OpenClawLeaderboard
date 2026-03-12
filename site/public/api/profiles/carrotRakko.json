@@ -1,0 +1,537 @@
+{
+  "username": "carrotRakko",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24588751?v=4",
+  "githubUrl": "https://github.com/carrotRakko",
+  "score": {
+    "score": 524.61,
+    "prScore": 306.11,
+    "issueScore": 72,
+    "reviewScore": 141,
+    "commentScore": 5.5
+  },
+  "tier": "veteran",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 3,
+    "prs": 25,
+    "prsMerged": 0,
+    "prAdditions": 1685,
+    "prDeletions": 442,
+    "prChangedFiles": 136,
+    "prMergeRate": 0,
+    "issues": 12,
+    "issuesClosed": 4,
+    "reviews": 47,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 11,
+    "commitAdditions": 166,
+    "commitDeletions": 6,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 15,
+      "issues": 3,
+      "reviews": 34,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 25,
+      "issues": 12,
+      "reviews": 47,
+      "comments": 11,
+      "commitAdditions": 166,
+      "commitDeletions": 6,
+      "commits": 3
+    }
+  },
+  "firstContribution": "2026-02-27T15:29:27Z",
+  "lastContribution": "2026-03-10T15:19:39Z",
+  "recentPRs": [
+    {
+      "number": 42010,
+      "title": "fix(line): migrate media downloads to saveMediaBuffer for sandbox access",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T09:48:11Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 151,
+      "changedFiles": 4
+    },
+    {
+      "number": 41814,
+      "title": "fix(auth): ownerAllowFrom wildcard now grants senderIsOwner",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T05:52:30Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 41812,
+      "title": "fix: add catalog validation to models set command",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T05:52:07Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 41811,
+      "title": "feat(slack): add thread.autoReplyOnParticipation config option",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T05:51:46Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 1,
+      "changedFiles": 11
+    },
+    {
+      "number": 41810,
+      "title": "feat: add configurable FTS5 tokenizer for CJK text support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T05:51:23Z",
+      "mergedAt": null,
+      "additions": 109,
+      "deletions": 18,
+      "changedFiles": 8
+    },
+    {
+      "number": 41809,
+      "title": "feat(config): add agents.defaults.reasoningDefault config key",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T05:50:58Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 3,
+      "changedFiles": 6
+    },
+    {
+      "number": 41808,
+      "title": "feat: allow sandbox browser to access sandbox localhost via network namespace sharing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T05:50:38Z",
+      "mergedAt": null,
+      "additions": 208,
+      "deletions": 7,
+      "changedFiles": 10
+    },
+    {
+      "number": 41807,
+      "title": "feat: add agents.defaults.systemPromptFile config option",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T05:50:08Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 41806,
+      "title": "fix(sandbox): mount skills at dedicated /skills path for sandboxed agents",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T05:49:32Z",
+      "mergedAt": null,
+      "additions": 146,
+      "deletions": 29,
+      "changedFiles": 14
+    },
+    {
+      "number": 41803,
+      "title": "fix(agents): suppress unrecognized errors from user surface",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T05:48:12Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 41802,
+      "title": "fix(auto-reply): inject timestamp into BodyForAgent for channel messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T05:47:17Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 12,
+      "changedFiles": 7
+    },
+    {
+      "number": 40666,
+      "title": "fix: add auto-delivery hints to browser, nodes, and canvas tool descriptions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T06:06:48Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 36189,
+      "title": "feat: add agents.defaults.systemPromptFile config option",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T13:26:22Z",
+      "mergedAt": null,
+      "additions": 100,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 35937,
+      "title": "feat: add configurable FTS5 tokenizer for CJK text support",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T10:27:24Z",
+      "mergedAt": null,
+      "additions": 91,
+      "deletions": 12,
+      "changedFiles": 8
+    },
+    {
+      "number": 35596,
+      "title": "feat: add CJK fonts to sandbox-browser for correct screenshot rendering",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:40:57Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34769,
+      "title": "fix(auto-reply): inject timestamp into BodyForAgent for channel messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T17:28:37Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 12,
+      "changedFiles": 4
+    },
+    {
+      "number": 34682,
+      "title": "fix: remove double Markdown-to-mrkdwn conversion in Slack native streaming",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T16:26:31Z",
+      "mergedAt": null,
+      "additions": 90,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 34606,
+      "title": "fix: add Markdown formatting hints to Slack channel dock",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T15:26:16Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34121,
+      "title": "feat: sandbox browser localhost access via network namespace sharing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T07:36:49Z",
+      "mergedAt": null,
+      "additions": 163,
+      "deletions": 7,
+      "changedFiles": 10
+    },
+    {
+      "number": 34002,
+      "title": "fix: add ssrfPolicy to sandbox browser config to allow localhost access",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T05:44:06Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40668,
+      "title": "[Bug]: Tools returning MEDIA: paths lack auto-delivery hint, causing agent to misreport media delivery",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T06:07:10Z",
+      "closedAt": null
+    },
+    {
+      "number": 36190,
+      "title": "[Feature]: agents.defaults.systemPromptFile \u2014 file-based system prompt injection from config",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T13:27:02Z",
+      "closedAt": null
+    },
+    {
+      "number": 35597,
+      "title": "[Feature]: Add CJK fonts to sandbox-browser container for correct screenshot rendering",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T06:41:53Z",
+      "closedAt": null
+    },
+    {
+      "number": 34690,
+      "title": "[Bug]: Slack native streaming double-converts Markdown\u2192mrkdwn, rendering bold as italic",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T16:29:28Z",
+      "closedAt": "2026-03-06T02:34:44Z"
+    },
+    {
+      "number": 34609,
+      "title": "[Bug]: Markdown\u2192mrkdwn pipeline misinterprets Slack mrkdwn bold (*text*) as Markdown italic",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T15:27:15Z",
+      "closedAt": null
+    },
+    {
+      "number": 34124,
+      "title": "[Feature]: Allow sandbox browser to access dev servers on sandbox localhost via network namespace sharing",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T07:37:31Z",
+      "closedAt": null
+    },
+    {
+      "number": 33989,
+      "title": "[Bug]: Sandbox browser SSRF policy defaults to strict mode, blocking localhost access",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T05:33:29Z",
+      "closedAt": "2026-03-04T07:37:55Z"
+    },
+    {
+      "number": 32752,
+      "title": "[Bug]: skills.entries.<key>.enabled: true does not override requires.bins check",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T08:11:36Z",
+      "closedAt": null
+    },
+    {
+      "number": 31728,
+      "title": "[Feature]: Add opt-out config for thread participation auto-reply (#29165)",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T13:40:44Z",
+      "closedAt": null
+    },
+    {
+      "number": 31653,
+      "title": "[Bug]: LINE webhook returns 401 Unauthorized \u2014 gateway auth enforced on registerPluginHttpRoute-registered webhook",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T12:05:41Z",
+      "closedAt": "2026-03-02T16:28:46Z"
+    },
+    {
+      "number": 31340,
+      "title": "[Feature]: Support OAuth 2.0 flow for Slack to enable cross-workspace installation",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T05:57:12Z",
+      "closedAt": null
+    },
+    {
+      "number": 28870,
+      "title": "[Bug]: Sandbox browser Chromium fails to start in Docker \u2014 missing chromium-sandbox package",
+      "state": "CLOSED",
+      "createdAt": "2026-02-27T15:29:27Z",
+      "closedAt": "2026-02-28T16:13:57Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41808,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T10:19:14Z"
+    },
+    {
+      "prNumber": 42010,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T09:58:42Z"
+    },
+    {
+      "prNumber": 41810,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T08:37:37Z"
+    },
+    {
+      "prNumber": 41809,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T08:33:19Z"
+    },
+    {
+      "prNumber": 41808,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T08:29:51Z"
+    },
+    {
+      "prNumber": 41812,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T08:21:22Z"
+    },
+    {
+      "prNumber": 41812,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T08:21:18Z"
+    },
+    {
+      "prNumber": 41812,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T08:21:15Z"
+    },
+    {
+      "prNumber": 41811,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T08:14:56Z"
+    },
+    {
+      "prNumber": 41810,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T08:02:51Z"
+    },
+    {
+      "prNumber": 41809,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T07:57:43Z"
+    },
+    {
+      "prNumber": 41809,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T07:57:39Z"
+    },
+    {
+      "prNumber": 41808,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T07:52:30Z"
+    },
+    {
+      "prNumber": 41808,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T07:52:24Z"
+    },
+    {
+      "prNumber": 41808,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T07:52:22Z"
+    },
+    {
+      "prNumber": 41807,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T07:42:24Z"
+    },
+    {
+      "prNumber": 41807,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T07:42:20Z"
+    },
+    {
+      "prNumber": 41807,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T07:42:17Z"
+    },
+    {
+      "prNumber": 41806,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T07:03:51Z"
+    },
+    {
+      "prNumber": 41806,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T06:44:36Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-02-28": 1,
+    "2026-02-22": 1,
+    "2026-02-16": 1
+  },
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 20
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 5,
+      "issues": 4,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-02-27": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

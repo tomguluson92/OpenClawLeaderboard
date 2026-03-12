@@ -1,0 +1,135 @@
+{
+  "username": "bhalliburton",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/94708?v=4",
+  "githubUrl": "https://github.com/bhalliburton",
+  "score": {
+    "score": 33.8,
+    "prScore": 11.8,
+    "issueScore": 15,
+    "reviewScore": 6,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 202,
+    "prDeletions": 3,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 2,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T17:40:36Z",
+  "lastContribution": "2026-03-10T05:10:41Z",
+  "recentPRs": [
+    {
+      "number": 33402,
+      "title": "fix: filter implicit providers from final result when models.providers is configured",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T19:08:36Z",
+      "mergedAt": null,
+      "additions": 202,
+      "deletions": 3,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 33329,
+      "title": "Document and add config toggles for all implicit discovery mechanisms",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T17:40:54Z",
+      "closedAt": null
+    },
+    {
+      "number": 33328,
+      "title": "Surface detected-but-unconfigured provider env vars instead of silently activating them",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T17:40:45Z",
+      "closedAt": null
+    },
+    {
+      "number": 33327,
+      "title": "Implicit provider auto-discovery silently merges with explicit config \u2014 can cause unexpected costs and routing",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T17:40:36Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 33402,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T05:10:41Z"
+    },
+    {
+      "prNumber": 33402,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T14:31:48Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

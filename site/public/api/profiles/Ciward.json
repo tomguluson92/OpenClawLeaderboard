@@ -1,0 +1,143 @@
+{
+  "username": "Ciward",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/108670147?u=923df0d7a92441cb5b81285f14e078891c7abc01&v=4",
+  "githubUrl": "https://github.com/Ciward",
+  "score": {
+    "score": 171.31,
+    "prScore": 154.81,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 3.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 3630,
+    "prDeletions": 1064,
+    "prChangedFiles": 54,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T12:10:29Z",
+  "lastContribution": "2026-03-10T04:54:04Z",
+  "recentPRs": [
+    {
+      "number": 40638,
+      "title": "fix: strip Telegram @bot mention suffix from inline directives",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T05:31:39Z",
+      "mergedAt": null,
+      "additions": 90,
+      "deletions": 6,
+      "changedFiles": 6
+    },
+    {
+      "number": 39617,
+      "title": "fix: reload config in slash command routing so dmScope is respected",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T08:03:52Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 39606,
+      "title": "fix: reload config in slash command routing so dmScope is respected",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T07:48:38Z",
+      "mergedAt": null,
+      "additions": 1751,
+      "deletions": 503,
+      "changedFiles": 25
+    },
+    {
+      "number": 36070,
+      "title": "feat(gateway): resume inflight agent runs after gateway restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T12:10:29Z",
+      "mergedAt": null,
+      "additions": 1774,
+      "deletions": 547,
+      "changedFiles": 20
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40637,
+      "title": "Inline directives fail when Telegram appends @BotUsername suffix in groups",
+      "state": "CLOSED",
+      "createdAt": "2026-03-09T05:31:28Z",
+      "closedAt": "2026-03-09T06:42:31Z"
+    },
+    {
+      "number": 39605,
+      "title": "Discord/Telegram/Slack slash commands ignore session.dmScope routing",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T07:48:21Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "username": "skidder",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4603901?u=584928db58b113dc6fa4d58f92e27471684b953e&v=4",
+  "githubUrl": "https://github.com/skidder",
+  "score": {
+    "score": 36.52,
+    "prScore": 31.52,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 133,
+    "prDeletions": 16,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T15:11:36Z",
+  "lastContribution": "2026-03-09T16:38:01Z",
+  "recentPRs": [
+    {
+      "number": 41265,
+      "title": "fix(discord): preserve content-type and skip optimization for animated/WebP images",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T16:38:01Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 6,
+      "changedFiles": 5
+    },
+    {
+      "number": 39976,
+      "title": "fix(discord): honor threadId in extension outbound send paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T15:11:39Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 6,
+      "changedFiles": 1
+    },
+    {
+      "number": 39975,
+      "title": "fix(discord): remove invalid message_reference from webhook payloads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T15:11:36Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 4,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41256,
+      "title": "[Bug]: Discord media uploads lose content-type and animated images lose frames",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T16:33:24Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

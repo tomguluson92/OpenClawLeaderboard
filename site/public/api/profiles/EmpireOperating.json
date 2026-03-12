@@ -1,0 +1,169 @@
+{
+  "username": "EmpireOperating",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/258363005?v=4",
+  "githubUrl": "https://github.com/EmpireOperating",
+  "score": {
+    "score": 69.55,
+    "prScore": 35.05,
+    "issueScore": 0,
+    "reviewScore": 30,
+    "commentScore": 4.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 771,
+    "prDeletions": 34,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 10,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 9,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 10,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 10,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T04:28:18Z",
+  "lastContribution": "2026-03-12T05:05:48Z",
+  "recentPRs": [
+    {
+      "number": 42585,
+      "title": "fix(auth-profiles): canonicalize legacy default oauth session override",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T00:16:24Z",
+      "mergedAt": null,
+      "additions": 478,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 41098,
+      "title": "fix(acpx): prefer OAuth session auth and block OpenAI key env leakage in chatgpt mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T14:07:53Z",
+      "mergedAt": null,
+      "additions": 93,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40585,
+      "title": "fix(ws): hard-fallback when replay boundary/tool-call pairing is invalid",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T04:28:18Z",
+      "mergedAt": null,
+      "additions": 200,
+      "deletions": 22,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T01:19:00Z"
+    },
+    {
+      "prNumber": 41098,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T00:52:14Z"
+    },
+    {
+      "prNumber": 42585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T00:42:31Z"
+    },
+    {
+      "prNumber": 42585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T00:41:01Z"
+    },
+    {
+      "prNumber": 42585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T00:41:00Z"
+    },
+    {
+      "prNumber": 42585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T00:40:59Z"
+    },
+    {
+      "prNumber": 41098,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T19:58:22Z"
+    },
+    {
+      "prNumber": 41098,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T19:58:14Z"
+    },
+    {
+      "prNumber": 40585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T08:46:39Z"
+    },
+    {
+      "prNumber": 40585,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T08:46:37Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 4
+    }
+  }
+}

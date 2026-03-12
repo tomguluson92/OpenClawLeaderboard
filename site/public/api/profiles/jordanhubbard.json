@@ -1,0 +1,97 @@
+{
+  "username": "jordanhubbard",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5066252?u=46b3f82624645dbb1bb377deaeddbc068c460112&v=4",
+  "githubUrl": "https://github.com/jordanhubbard",
+  "score": {
+    "score": 30.99,
+    "prScore": 25.99,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 309,
+    "prDeletions": 6,
+    "prChangedFiles": 11,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-06T19:56:03Z",
+  "lastContribution": "2026-03-10T06:21:14Z",
+  "recentPRs": [
+    {
+      "number": 38303,
+      "title": "fix(gateway): reduce agent timeout and add stuck session auto-recovery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T19:56:03Z",
+      "mergedAt": null,
+      "additions": 309,
+      "deletions": 6,
+      "changedFiles": 11
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41837,
+      "title": "Mattermost health monitor doesn't detect deaf websocket (connected but not delivering messages)",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T06:21:14Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

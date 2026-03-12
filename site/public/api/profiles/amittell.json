@@ -1,0 +1,320 @@
+{
+  "username": "amittell",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1388680?u=fc90f7e097f51fcf33433bbee8e6892a209c59b1&v=4",
+  "githubUrl": "https://github.com/amittell",
+  "score": {
+    "score": 332.59,
+    "prScore": 197.59,
+    "issueScore": 5,
+    "reviewScore": 126,
+    "commentScore": 4
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 9,
+    "prsMerged": 0,
+    "prAdditions": 7619,
+    "prDeletions": 265,
+    "prChangedFiles": 79,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 42,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 8,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 9,
+      "issues": 1,
+      "reviews": 42,
+      "comments": 8,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 9,
+      "issues": 1,
+      "reviews": 42,
+      "comments": 8,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T23:14:32Z",
+  "lastContribution": "2026-03-12T02:23:51Z",
+  "recentPRs": [
+    {
+      "number": 43498,
+      "title": "feat(memory-lancedb): add memory_refresh tool for atomic replace and conflict preview",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T22:10:20Z",
+      "mergedAt": null,
+      "additions": 818,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43497,
+      "title": "fix(agents): recover subagent runs after gateway restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T22:09:24Z",
+      "mergedAt": null,
+      "additions": 2009,
+      "deletions": 3,
+      "changedFiles": 5
+    },
+    {
+      "number": 42485,
+      "title": "fix(telegram): restore retry behaviour for 429 rate-limit and failed-after network errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T20:16:08Z",
+      "mergedAt": null,
+      "additions": 104,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 41640,
+      "title": "feat(auth): add `models auth clean` command to prune stale auth profiles",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T02:27:23Z",
+      "mergedAt": null,
+      "additions": 1463,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 41597,
+      "title": "feat(gateway): queue inbound messages during drain and recover interrupted turns on restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T01:43:56Z",
+      "mergedAt": null,
+      "additions": 2171,
+      "deletions": 50,
+      "changedFiles": 20
+    },
+    {
+      "number": 40384,
+      "title": "fix(telegram): silently skip empty-text sends instead of failing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T00:19:40Z",
+      "mergedAt": null,
+      "additions": 273,
+      "deletions": 43,
+      "changedFiles": 6
+    },
+    {
+      "number": 40383,
+      "title": "fix(telegram): restore retry behaviour for 429 rate-limit and failed-after network errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T00:19:16Z",
+      "mergedAt": null,
+      "additions": 89,
+      "deletions": 31,
+      "changedFiles": 31
+    },
+    {
+      "number": 39205,
+      "title": "fix(telegram): reset webhookCleared latch on 409 conflict to prevent infinite polling loop",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:39:35Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36860,
+      "title": "fix(acp): pass abort signal to runTurn to prevent stuck sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T23:14:32Z",
+      "mergedAt": null,
+      "additions": 651,
+      "deletions": 128,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41634,
+      "title": "[Bug]: Legacy auth profiles accumulate indefinitely and cannot be cleaned up (profile order silently wrong, subagent sessions hang)",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T02:22:17Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 43497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:23:51Z"
+    },
+    {
+      "prNumber": 43497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:23:50Z"
+    },
+    {
+      "prNumber": 43497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:23:49Z"
+    },
+    {
+      "prNumber": 43497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:23:48Z"
+    },
+    {
+      "prNumber": 43497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:23:47Z"
+    },
+    {
+      "prNumber": 43497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:23:46Z"
+    },
+    {
+      "prNumber": 43498,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T00:15:39Z"
+    },
+    {
+      "prNumber": 43498,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T00:15:33Z"
+    },
+    {
+      "prNumber": 43498,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T00:15:25Z"
+    },
+    {
+      "prNumber": 43498,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T00:15:19Z"
+    },
+    {
+      "prNumber": 43498,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T00:15:09Z"
+    },
+    {
+      "prNumber": 43498,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T00:15:03Z"
+    },
+    {
+      "prNumber": 43498,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T00:14:55Z"
+    },
+    {
+      "prNumber": 42485,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T22:13:17Z"
+    },
+    {
+      "prNumber": 42485,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T22:13:16Z"
+    },
+    {
+      "prNumber": 42485,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T22:13:15Z"
+    },
+    {
+      "prNumber": 36860,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:10:46Z"
+    },
+    {
+      "prNumber": 41640,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T03:03:12Z"
+    },
+    {
+      "prNumber": 41640,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T03:03:11Z"
+    },
+    {
+      "prNumber": 41640,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T03:03:10Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 7
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 13
+    }
+  }
+}

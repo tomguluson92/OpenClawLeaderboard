@@ -1,0 +1,134 @@
+{
+  "username": "dmiv",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8742027?v=4",
+  "githubUrl": "https://github.com/dmiv",
+  "score": {
+    "score": 94.48,
+    "prScore": 94.48,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 1,
+    "prAdditions": 993,
+    "prDeletions": 72,
+    "prChangedFiles": 26,
+    "prMergeRate": 20,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 1,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 1,
+      "commitDeletions": 0,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 1,
+      "commitDeletions": 0,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-07T01:06:21Z",
+  "lastContribution": "2026-03-11T21:58:54Z",
+  "recentPRs": [
+    {
+      "number": 43495,
+      "title": "feat(tts): add <notts> tag support for visual-only content",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T21:58:54Z",
+      "mergedAt": null,
+      "additions": 874,
+      "deletions": 39,
+      "changedFiles": 17
+    },
+    {
+      "number": 38447,
+      "title": "feat(telegram): deliver TTS audio as voice bubble instead of file link",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T01:06:47Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 18,
+      "changedFiles": 5
+    },
+    {
+      "number": 38446,
+      "title": "feat(media): auto-convert non-WAV audio to WAV for whisper-cli transcription",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T01:06:37Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 14,
+      "changedFiles": 1
+    },
+    {
+      "number": 38445,
+      "title": "fix(macos): set speech recognition taskHint for Talk Mode mic capture",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T01:06:28Z",
+      "mergedAt": "2026-03-08T13:52:08Z",
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38444,
+      "title": "feat(gateway): allow node role to call config.schema and UI methods",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T01:06:21Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-08": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

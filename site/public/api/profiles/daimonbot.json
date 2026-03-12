@@ -1,0 +1,101 @@
+{
+  "username": "daimonbot",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/260491108?u=11c0d23ecabd4cd1a7632f7bc2ab7e8a1876074e&v=4",
+  "githubUrl": "https://github.com/daimonbot",
+  "score": {
+    "score": 19.3,
+    "prScore": 9.8,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 105,
+    "prDeletions": 0,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T13:49:31Z",
+  "lastContribution": "2026-03-06T17:39:15Z",
+  "recentPRs": [
+    {
+      "number": 33071,
+      "title": "fix(cron): persist payload.model as modelOverride for subagent callback turns",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T13:49:31Z",
+      "mergedAt": null,
+      "additions": 105,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 33071,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T15:16:54Z"
+    },
+    {
+      "prNumber": 33071,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T14:19:39Z"
+    },
+    {
+      "prNumber": 33071,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T14:19:34Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "username": "tianxiao1430-jpg",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/255869001?v=4",
+  "githubUrl": "https://github.com/tianxiao1430-jpg",
+  "score": {
+    "score": 30.78,
+    "prScore": 10.78,
+    "issueScore": 20,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 53,
+    "prDeletions": 13,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-28T15:14:48Z",
+  "lastContribution": "2026-03-09T15:45:26Z",
+  "recentPRs": [
+    {
+      "number": 38247,
+      "title": "fix(browser): ensure stop kills all child processes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T18:05:59Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 13,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41203,
+      "title": "[Optimization] \u4f18\u5316\u91cd\u590d\u8c03\u7528: browser(['action', 'profile'])",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T15:45:26Z",
+      "closedAt": null
+    },
+    {
+      "number": 41202,
+      "title": "[Optimization] \u4f18\u5316\u91cd\u590d\u8c03\u7528: exec(['command'])",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T15:45:18Z",
+      "closedAt": null
+    },
+    {
+      "number": 38236,
+      "title": "Bug: Browser processes not cleaned up after automation tasks",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T17:49:25Z",
+      "closedAt": null
+    },
+    {
+      "number": 29838,
+      "title": "Agents modify openclaw.json without authorization",
+      "state": "OPEN",
+      "createdAt": "2026-02-28T15:14:48Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-02-28": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

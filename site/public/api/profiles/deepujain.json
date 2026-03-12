@@ -1,0 +1,150 @@
+{
+  "username": "deepujain",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/406777?u=9e4b385acfe2123577ebc77b1364d82858bbd879&v=4",
+  "githubUrl": "https://github.com/deepujain",
+  "score": {
+    "score": 78.55,
+    "prScore": 78.05,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 307,
+    "prDeletions": 117,
+    "prChangedFiles": 16,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T19:12:56Z",
+  "lastContribution": "2026-03-07T23:09:35Z",
+  "recentPRs": [
+    {
+      "number": 39255,
+      "title": "fix(memory): index and search in FTS-only mode (provider=none)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T23:09:35Z",
+      "mergedAt": null,
+      "additions": 133,
+      "deletions": 90,
+      "changedFiles": 2
+    },
+    {
+      "number": 39245,
+      "title": "fix(agents): normalize mangled tool names and IDs from OpenAI-compati\u2026",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T22:42:41Z",
+      "mergedAt": null,
+      "additions": 132,
+      "deletions": 17,
+      "changedFiles": 4
+    },
+    {
+      "number": 39239,
+      "title": "docs(session-tool): fix subagent spawn policy drift with maxSpawnDepth",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T22:36:01Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 39234,
+      "title": "fix(gateway): flush pending chat delta before tool start events",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T22:23:34Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    },
+    {
+      "number": 39137,
+      "title": "fix(pre-commit): use single pytest dependency specifier",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T19:45:03Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 39115,
+      "title": "feat(config): add reasoningDefault to agents.defaults",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T19:20:12Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 39109,
+      "title": "fix(voice-call): add staleCallReaperSeconds and webhookSecurity to co\u2026",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:12:56Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

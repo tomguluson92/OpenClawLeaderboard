@@ -1,0 +1,114 @@
+{
+  "username": "darklion84",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/95440896?v=4",
+  "githubUrl": "https://github.com/darklion84",
+  "score": {
+    "score": 94.13,
+    "prScore": 88.13,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 3184,
+    "prDeletions": 594,
+    "prChangedFiles": 30,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T22:55:18Z",
+  "lastContribution": "2026-03-11T12:39:31Z",
+  "recentPRs": [
+    {
+      "number": 42470,
+      "title": "feat: add Langfuse tracing on fresh main",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T19:33:25Z",
+      "mergedAt": null,
+      "additions": 1312,
+      "deletions": 85,
+      "changedFiles": 10
+    },
+    {
+      "number": 41501,
+      "title": "Add Langfuse tracing PoC and fix cron completion delivery confirmation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T22:55:18Z",
+      "mergedAt": null,
+      "additions": 1872,
+      "deletions": 509,
+      "changedFiles": 20
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43177,
+      "title": "Cron announce may report delivered=true without actual Telegram delivery",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T12:39:31Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

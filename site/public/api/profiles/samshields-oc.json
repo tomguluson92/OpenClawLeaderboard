@@ -1,0 +1,141 @@
+{
+  "username": "samshields-oc",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/261743399?v=4",
+  "githubUrl": "https://github.com/samshields-oc",
+  "score": {
+    "score": 58.1,
+    "prScore": 33.6,
+    "issueScore": 23,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 348,
+    "prDeletions": 55,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T22:12:46Z",
+  "lastContribution": "2026-03-10T20:29:28Z",
+  "recentPRs": [
+    {
+      "number": 42290,
+      "title": "fix: stream backup tar archive to prevent stalls on large installations (#42282)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T15:33:15Z",
+      "mergedAt": null,
+      "additions": 123,
+      "deletions": 16,
+      "changedFiles": 2
+    },
+    {
+      "number": 42281,
+      "title": "fix: add --exclude-logs and --exclude-media flags to backup create (#42273)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T15:21:45Z",
+      "mergedAt": null,
+      "additions": 210,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 42094,
+      "title": "fix: prevent NO_REPLY token from leaking to Telegram",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T11:44:02Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 39,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42282,
+      "title": "backup create should stream tar archive instead of buffering in memory",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T15:25:24Z",
+      "closedAt": null
+    },
+    {
+      "number": 42273,
+      "title": "backup create stalls on large installations (4GB+ .openclaw dir)",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T15:12:23Z",
+      "closedAt": null
+    },
+    {
+      "number": 33541,
+      "title": "feat: SecretRef support for plugins.entries.*.config.* (plugin config secrets)",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T22:12:57Z",
+      "closedAt": null
+    },
+    {
+      "number": 33539,
+      "title": "feat: SecretRef support for models.providers.*.headers.* (custom provider auth headers)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T22:12:46Z",
+      "closedAt": "2026-03-09T19:37:17Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

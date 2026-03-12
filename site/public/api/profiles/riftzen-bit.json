@@ -1,0 +1,378 @@
+{
+  "username": "riftzen-bit",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/139470135?u=a6cbc2c7a7f14a5fafaeff72d8abcbe823e52c5d&v=4",
+  "githubUrl": "https://github.com/riftzen-bit",
+  "score": {
+    "score": 291.46,
+    "prScore": 210.46,
+    "issueScore": 13,
+    "reviewScore": 66,
+    "commentScore": 2
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 14,
+    "prsMerged": 1,
+    "prAdditions": 1825,
+    "prDeletions": 152,
+    "prChangedFiles": 44,
+    "prMergeRate": 7,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 22,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 13,
+    "commitDeletions": 10,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 22,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 14,
+      "issues": 2,
+      "reviews": 22,
+      "comments": 4,
+      "commitAdditions": 13,
+      "commitDeletions": 10,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-03T01:31:33Z",
+  "lastContribution": "2026-03-09T16:36:31Z",
+  "recentPRs": [
+    {
+      "number": 41248,
+      "title": "feat(infra): add active turn tracker to recover from silent failures after gateway restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T16:27:29Z",
+      "mergedAt": null,
+      "additions": 868,
+      "deletions": 0,
+      "changedFiles": 8
+    },
+    {
+      "number": 41239,
+      "title": "fix: serve remote and data URL avatars in Control UI",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T16:19:31Z",
+      "mergedAt": null,
+      "additions": 167,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 41232,
+      "title": "fix: add google/gemini provider pairing for image tool",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T16:15:07Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 41208,
+      "title": "fix(cron): strip thinking/reasoning content from announce delivery",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T15:52:30Z",
+      "mergedAt": null,
+      "additions": 140,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 41200,
+      "title": "fix(telegram): accept negative group/supergroup IDs in groupAllowFrom",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T15:44:55Z",
+      "mergedAt": null,
+      "additions": 71,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 40656,
+      "title": "fix(agents): clear stale tool call history between heartbeat cycles",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T05:59:29Z",
+      "mergedAt": null,
+      "additions": 114,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40648,
+      "title": "fix(kimi-coding): use native Anthropic tool format instead of OpenAI function format",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T05:51:55Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 73,
+      "changedFiles": 5
+    },
+    {
+      "number": 40642,
+      "title": "docs: quote bracket-notation paths in config CLI examples",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T05:41:43Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 14,
+      "changedFiles": 6
+    },
+    {
+      "number": 40628,
+      "title": "fix: make exec approval modal scrollable",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T05:20:35Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 39576,
+      "title": "fix: prevent silence and context loss after auto-compaction",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T07:06:23Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 39358,
+      "title": "fix(agent): notify user when context compaction produces empty response",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T01:51:03Z",
+      "mergedAt": null,
+      "additions": 183,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39209,
+      "title": "fix(telegram): send error fallback instead of silent failure on dispatch errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:41:16Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 20,
+      "changedFiles": 4
+    },
+    {
+      "number": 32613,
+      "title": "fix(gateway): health check always times out when lsof is not installed",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T05:50:47Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 32382,
+      "title": "fix(gemini-cli-auth): use PLATFORM_UNSPECIFIED for Linux in loadCodeAssist",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T01:31:33Z",
+      "mergedAt": "2026-03-03T02:36:01Z",
+      "additions": 11,
+      "deletions": 8,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32620,
+      "title": "gateway restart always times out (60s) on systems without lsof",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T05:58:28Z",
+      "closedAt": null
+    },
+    {
+      "number": 32399,
+      "title": "Gemini CLI OAuth completely broken on Linux \u2014 loadCodeAssist rejects \"LINUX\" platform",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T01:52:23Z",
+      "closedAt": "2026-03-03T02:41:22Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41248,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:36:31Z"
+    },
+    {
+      "prNumber": 41248,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:36:29Z"
+    },
+    {
+      "prNumber": 41248,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:36:27Z"
+    },
+    {
+      "prNumber": 41248,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:36:26Z"
+    },
+    {
+      "prNumber": 41248,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:36:25Z"
+    },
+    {
+      "prNumber": 41248,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:36:23Z"
+    },
+    {
+      "prNumber": 41248,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:36:22Z"
+    },
+    {
+      "prNumber": 41239,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:28:59Z"
+    },
+    {
+      "prNumber": 41239,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:28:57Z"
+    },
+    {
+      "prNumber": 41239,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:28:56Z"
+    },
+    {
+      "prNumber": 41239,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:28:54Z"
+    },
+    {
+      "prNumber": 41239,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:28:52Z"
+    },
+    {
+      "prNumber": 41239,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:28:50Z"
+    },
+    {
+      "prNumber": 41239,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:28:49Z"
+    },
+    {
+      "prNumber": 41208,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:03:33Z"
+    },
+    {
+      "prNumber": 41208,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:03:31Z"
+    },
+    {
+      "prNumber": 40656,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T06:14:08Z"
+    },
+    {
+      "prNumber": 40656,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T06:09:14Z"
+    },
+    {
+      "prNumber": 40656,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T06:09:10Z"
+    },
+    {
+      "prNumber": 40656,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T06:09:07Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-03": 2
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 20
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

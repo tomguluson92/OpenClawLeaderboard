@@ -1,0 +1,309 @@
+{
+  "username": "clawbie",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/259760016?u=e34afd3cd688f91c30ef1213f214f8cf60154e3b&v=4",
+  "githubUrl": "https://github.com/clawbie",
+  "score": {
+    "score": 645.65,
+    "prScore": 631.65,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 14
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 73,
+    "prsMerged": 0,
+    "prAdditions": 2772,
+    "prDeletions": 339,
+    "prChangedFiles": 154,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 28,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 73,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 28,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 73,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 28,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T05:15:23Z",
+  "lastContribution": "2026-03-06T17:51:49Z",
+  "recentPRs": [
+    {
+      "number": 38239,
+      "title": "config: warn when Feishu creds miskeyed under plugin config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:51:49Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 38174,
+      "title": "fix(discord): process forwarded-only messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:55:27Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 38150,
+      "title": "fix(cron): preserve sandbox defaults in isolated runs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:37:59Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 38111,
+      "title": "fix(cron): preserve sandbox docker dangerous flags in isolated runs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:08:12Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 38082,
+      "title": "fix(webchat): hide delivery-mirror transcript entries from chat.history",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:00:47Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38043,
+      "title": "fix(windows): npm pack works when Node path contains spaces",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:34:45Z",
+      "mergedAt": null,
+      "additions": 138,
+      "deletions": 18,
+      "changedFiles": 2
+    },
+    {
+      "number": 37958,
+      "title": "fix(telegram): use runtime config snapshot for SecretRef botToken",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:03:26Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 37938,
+      "title": "fix(nextcloud-talk): avoid importing src/infra from bundled extension",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:46:14Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37858,
+      "title": "docs: fix broken FAQ troubleshooting anchor",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T13:42:23Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37809,
+      "title": "fix(telegram): suppress JSON NO_REPLY action payload",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T12:28:46Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37754,
+      "title": "fix(plugins): resolve secrets for CLI plugin status",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T12:08:02Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37719,
+      "title": "fix(process): wrap npm/npx .cmd via cmd.exe when npm-cli.js missing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T11:32:58Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37646,
+      "title": "fix(models): include config-injected models in --all list",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T10:35:41Z",
+      "mergedAt": null,
+      "additions": 134,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 37575,
+      "title": "fix(gateway): allow hardlinked control-ui assets",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:44:01Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 37559,
+      "title": "fix(logging): rotate file logs after midnight for long-running gateway",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:33:24Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 37504,
+      "title": "fix(delivery-recovery): stop retrying Telegram permanent Bad Request errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:03:25Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 37492,
+      "title": "fix(infra): classify wrapped 'fetch failed' as transient",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T08:55:58Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 37462,
+      "title": "fix(cron): handle paginated cron.list response",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T08:30:57Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 37445,
+      "title": "fix(telegram): skip empty replies instead of crashing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T08:06:40Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 27,
+      "changedFiles": 3
+    },
+    {
+      "number": 37434,
+      "title": "fix(cron): avoid crash when cron.list returns malformed payload",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T08:00:49Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 5,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

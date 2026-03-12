@@ -1,0 +1,160 @@
+{
+  "username": "ethanperezz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33138306?v=4",
+  "githubUrl": "https://github.com/ethanperezz",
+  "score": {
+    "score": 81.79,
+    "prScore": 81.79,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 284,
+    "prDeletions": 23,
+    "prChangedFiles": 15,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T04:55:30Z",
+  "lastContribution": "2026-03-05T06:00:01Z",
+  "recentPRs": [
+    {
+      "number": 35549,
+      "title": "fix: pass OPENCLAW_DOCKER_APT_PACKAGES build-arg in setup-podman.sh",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:00:01Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 35547,
+      "title": "feat: make channel health stale-socket threshold configurable",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:58:29Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 35541,
+      "title": "fix: update sessionEntry.contextTokens on model switch",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:54:40Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35536,
+      "title": "fix: skip compaction pipeline for sessions with no real messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:47:48Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35535,
+      "title": "fix: add missing web search providers to security audit key check",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:47:38Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 35534,
+      "title": "fix: return authorization error reply for unauthorized command senders",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:47:28Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 35470,
+      "title": "docs(cron): enhance troubleshooting guide and add config path warning",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T04:55:53Z",
+      "mergedAt": null,
+      "additions": 119,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 35469,
+      "title": "fix(cron): apply responsePrefix to direct delivery payloads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T04:55:30Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

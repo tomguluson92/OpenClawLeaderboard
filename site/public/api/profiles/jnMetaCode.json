@@ -1,0 +1,421 @@
+{
+  "username": "jnMetaCode",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12096460?v=4",
+  "githubUrl": "https://github.com/jnMetaCode",
+  "score": {
+    "score": 526.43,
+    "prScore": 465.43,
+    "issueScore": 0,
+    "reviewScore": 48,
+    "commentScore": 13
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 4,
+    "prs": 44,
+    "prsMerged": 4,
+    "prAdditions": 3529,
+    "prDeletions": 662,
+    "prChangedFiles": 125,
+    "prMergeRate": 9,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 16,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 26,
+    "commitAdditions": 68,
+    "commitDeletions": 22,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 9
+  },
+  "period": {
+    "weekly": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 16,
+      "comments": 19,
+      "commitAdditions": 48,
+      "commitDeletions": 5,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 44,
+      "issues": 0,
+      "reviews": 16,
+      "comments": 26,
+      "commitAdditions": 68,
+      "commitDeletions": 22,
+      "commits": 4
+    }
+  },
+  "firstContribution": "2026-03-02T17:36:35Z",
+  "lastContribution": "2026-03-11T23:15:16Z",
+  "recentPRs": [
+    {
+      "number": 43513,
+      "title": "fix(failover): add socket disconnected and TLS error patterns to timeout classifier",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T23:06:47Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 43512,
+      "title": "fix(feishu): bypass per-chat queue for control commands",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T23:04:45Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 21,
+      "changedFiles": 1
+    },
+    {
+      "number": 42830,
+      "title": "fix(failover): add missing network errno patterns to text-based timeout classifier",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T05:18:17Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 42436,
+      "title": "fix(feishu): enable autoReconnect for WSClient resilience",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T18:25:30Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 42378,
+      "title": "fix(outbound): reject unconfigured channels in message channel selection",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T17:09:42Z",
+      "mergedAt": null,
+      "additions": 89,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 42292,
+      "title": "fix(failover): classify Gemini MALFORMED_RESPONSE as retryable timeout",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T15:35:36Z",
+      "mergedAt": "2026-03-10T17:34:32Z",
+      "additions": 24,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 42275,
+      "title": "fix(failover): recognize Poe \"used up your points\" as billing error",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T15:13:03Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 42260,
+      "title": "fix(agents): strip tool_call/tool_result XML leaking into channel messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T15:03:45Z",
+      "mergedAt": null,
+      "additions": 103,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39492,
+      "title": "fix(providers): add kimi-coding User-Agent for subscription auth",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T04:58:41Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36646,
+      "title": "fix(failover): narrow service-unavailable to require overload indicator (#32828)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T19:52:15Z",
+      "mergedAt": "2026-03-05T21:01:57Z",
+      "additions": 24,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 34765,
+      "title": "fix(agents): use correct Ollama thinking field instead of reasoning",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T17:24:44Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 15,
+      "changedFiles": 2
+    },
+    {
+      "number": 34689,
+      "title": "ci: remove stale google-antigravity-auth labeler entry",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T16:29:24Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 34679,
+      "title": "fix(memory): differentiate error messages for path validation failures",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T16:25:13Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 8,
+      "changedFiles": 5
+    },
+    {
+      "number": 34551,
+      "title": "fix(daemon): correct systemd availability checks for degraded user sessions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T14:41:06Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 34078,
+      "title": "ci: fix security labeler glob to match actual docs path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T06:52:55Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34075,
+      "title": "ci: add missing labeler entries for synology-chat, diffs, and thread-ownership",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T06:49:28Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 33793,
+      "title": "security: apply default security headers to extension relay server",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T02:34:26Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 33753,
+      "title": "security: apply default security headers to canvas host server",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T01:55:36Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 33731,
+      "title": "security: add Permissions-Policy to diffs viewer responses",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T01:32:58Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 33729,
+      "title": "docs: replace em-dashes with hyphens in headings",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T01:28:44Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 13,
+      "changedFiles": 8
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43512,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T23:15:16Z"
+    },
+    {
+      "prNumber": 43512,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T23:15:12Z"
+    },
+    {
+      "prNumber": 42830,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T18:50:15Z"
+    },
+    {
+      "prNumber": 42378,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T18:02:38Z"
+    },
+    {
+      "prNumber": 42260,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T18:02:20Z"
+    },
+    {
+      "prNumber": 42260,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T03:38:28Z"
+    },
+    {
+      "prNumber": 42260,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T17:17:25Z"
+    },
+    {
+      "prNumber": 42260,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T17:17:10Z"
+    },
+    {
+      "prNumber": 42260,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T17:16:58Z"
+    },
+    {
+      "prNumber": 34679,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T23:57:18Z"
+    },
+    {
+      "prNumber": 34765,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T03:51:59Z"
+    },
+    {
+      "prNumber": 34551,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T20:17:31Z"
+    },
+    {
+      "prNumber": 34551,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T20:17:24Z"
+    },
+    {
+      "prNumber": 34551,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T20:17:09Z"
+    },
+    {
+      "prNumber": 34551,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T20:17:02Z"
+    },
+    {
+      "prNumber": 34551,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T20:16:55Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-10": 1,
+    "2026-03-05": 1,
+    "2026-03-02": 2
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-10": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-04": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

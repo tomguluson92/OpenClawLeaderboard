@@ -1,0 +1,337 @@
+{
+  "username": "BlueBirdBack",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/126304167?u=505a93d23a3ba4b887ad36972fedecfc46a0ecec&v=4",
+  "githubUrl": "https://github.com/BlueBirdBack",
+  "score": {
+    "score": 406.7,
+    "prScore": 373.2,
+    "issueScore": 24,
+    "reviewScore": 0,
+    "commentScore": 9.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 35,
+    "prsMerged": 1,
+    "prAdditions": 4048,
+    "prDeletions": 167,
+    "prChangedFiles": 105,
+    "prMergeRate": 3,
+    "issues": 3,
+    "issuesClosed": 3,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 19,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 14,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 18,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 35,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 19,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-28T15:07:58Z",
+  "lastContribution": "2026-03-07T15:35:00Z",
+  "recentPRs": [
+    {
+      "number": 38225,
+      "title": "fix(line): resolve tokenFile/secretFile relative paths using configFile dir (#10428)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:34:47Z",
+      "mergedAt": null,
+      "additions": 115,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 38115,
+      "title": "fix(telegram): entity-first detection in hasBotMention to prevent false positives (#28602)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:09:47Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 37952,
+      "title": "fix(gateway): allow control-ui bypass when dangerouslyDisableDeviceAuth=true (#35944)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:59:42Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 37888,
+      "title": "fix(agents): sanitize tool schemas for llama.cpp GBNF grammar compat (#32916)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:10:00Z",
+      "mergedAt": null,
+      "additions": 404,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 37860,
+      "title": "fix(tui): guard runTui against non-TTY environments (#32900)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T13:43:06Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37665,
+      "title": "fix(infra): suppress undici TLS session resumption crash (#19168)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T10:51:59Z",
+      "mergedAt": null,
+      "additions": 99,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 37594,
+      "title": "fix(config): migrate removed acp.stream keys from v2026.3.2 (#35957)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T10:01:50Z",
+      "mergedAt": null,
+      "additions": 388,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 37556,
+      "title": "fix(config): strip deprecated gateway.controlUi device-auth keys on upgrade (#35957)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:31:14Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 37551,
+      "title": "fix(agents): flush pending tool results on gateway restart (#30082)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:24:56Z",
+      "mergedAt": null,
+      "additions": 161,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 37327,
+      "title": "fix(gateway): guard source.data with nullish coalesce in image_url byte count",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:58:01Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 36187,
+      "title": "fix(acp): normalize configOptionKeys comparison to lowercase (#28339)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T13:25:40Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 5,
+      "changedFiles": 4
+    },
+    {
+      "number": 35837,
+      "title": "fix(gateway): allow allowInsecureAuth bypass for loopback-proxy Control UI (#20524)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T09:25:10Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 35613,
+      "title": "fix(cli): return to section menu on ESC inside configure sub-section (#20495)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:49:59Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 40,
+      "changedFiles": 3
+    },
+    {
+      "number": 35509,
+      "title": "fix(discord): append attachment placeholder to agent text when content is non-empty (#28296)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T05:29:05Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 35479,
+      "title": "fix(discord): add allowBotIds config to selectively allow bot messages (#11199)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T05:02:01Z",
+      "mergedAt": null,
+      "additions": 176,
+      "deletions": 3,
+      "changedFiles": 5
+    },
+    {
+      "number": 35437,
+      "title": "test(discord-monitor): add integration tests for native-command",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:29:29Z",
+      "mergedAt": null,
+      "additions": 566,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35408,
+      "title": "test(config): add unit tests for schema.help",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:14:33Z",
+      "mergedAt": null,
+      "additions": 289,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35237,
+      "title": "fix(browser): use refreshConfigFromDisk: false in stopKnownBrowserProfiles (#11257)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T02:20:11Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 35172,
+      "title": "fix(models-config): config apiKey wins over stale models.json on merge (#12740)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T01:27:29Z",
+      "mergedAt": null,
+      "additions": 148,
+      "deletions": 6,
+      "changedFiles": 4
+    },
+    {
+      "number": 35043,
+      "title": "fix(sandbox): replace GNU readlink -f with POSIX cd -P/pwd -P (#27305)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T23:16:35Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 3,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 29831,
+      "title": "[Bug]: nodes tool screen_record accepts unbounded durationMs \u2014 can block gateway for hours",
+      "state": "CLOSED",
+      "createdAt": "2026-02-28T15:08:21Z",
+      "closedAt": "2026-03-02T02:00:06Z"
+    },
+    {
+      "number": 29830,
+      "title": "[Bug]: Mattermost private channels (type \"P\") silently misclassified as public channels",
+      "state": "CLOSED",
+      "createdAt": "2026-02-28T15:08:18Z",
+      "closedAt": "2026-03-02T03:14:39Z"
+    },
+    {
+      "number": 29829,
+      "title": "[Bug]: EXEC_SECRET_REF_ID_PATTERN allows path traversal sequences in exec secret IDs",
+      "state": "CLOSED",
+      "createdAt": "2026-02-28T15:07:58Z",
+      "closedAt": "2026-03-10T18:45:39Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-02-28": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    }
+  }
+}

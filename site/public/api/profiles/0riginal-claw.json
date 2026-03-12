@@ -1,0 +1,94 @@
+{
+  "username": "0riginal-claw",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/265676882?v=4",
+  "githubUrl": "https://github.com/0riginal-claw",
+  "score": {
+    "score": 16.86,
+    "prScore": 16.86,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 13,
+    "prDeletions": 10,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T01:06:46Z",
+  "lastContribution": "2026-03-05T01:11:01Z",
+  "recentPRs": [
+    {
+      "number": 35147,
+      "title": "fix(gateway): resolve token from config/env for agent tool calls; honour --ask CLI override",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T01:11:01Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 35140,
+      "title": "fix: resolve node_sqlite3 native binding load failure under jiti",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T01:06:46Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

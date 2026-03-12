@@ -1,0 +1,125 @@
+{
+  "username": "theotarr",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25567135?u=0779ea55d2bb2a8fcaa3229d2c7901dff04b1588&v=4",
+  "githubUrl": "https://github.com/theotarr",
+  "score": {
+    "score": 78.6,
+    "prScore": 54.1,
+    "issueScore": 24,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 868,
+    "prDeletions": 26,
+    "prChangedFiles": 14,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 3,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 205,
+    "commitDeletions": 36,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 5
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 205,
+      "commitDeletions": 36,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-01T20:27:05Z",
+  "lastContribution": "2026-03-03T22:48:46Z",
+  "recentPRs": [
+    {
+      "number": 33583,
+      "title": "fix(discord): decouple MESSAGE_CREATE handler from AI run execution to prevent blocking",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T22:48:46Z",
+      "mergedAt": null,
+      "additions": 647,
+      "deletions": 20,
+      "changedFiles": 10
+    },
+    {
+      "number": 33582,
+      "title": "fix(discord): inherit parent guild allowlist when account groupPolicy overrides without users",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T22:48:44Z",
+      "mergedAt": null,
+      "additions": 221,
+      "deletions": 6,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 33570,
+      "title": "Bug: Discord MESSAGE_CREATE listener blocks on long AI runs causing stuck restarts",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T22:36:29Z",
+      "closedAt": "2026-03-05T23:00:14Z"
+    },
+    {
+      "number": 33569,
+      "title": "Bug: Discord account-level groupPolicy=allowlist silently drops all group messages when allowlist is empty",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T22:36:25Z",
+      "closedAt": "2026-03-05T22:59:52Z"
+    },
+    {
+      "number": 30953,
+      "title": "[Bug]: Stale typing indicator \u2014 Discord channel shows bot as always typing",
+      "state": "CLOSED",
+      "createdAt": "2026-03-01T20:27:05Z",
+      "closedAt": "2026-03-01T20:27:40Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-26": 1
+  },
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-01": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

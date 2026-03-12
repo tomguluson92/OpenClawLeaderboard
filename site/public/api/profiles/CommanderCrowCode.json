@@ -1,0 +1,94 @@
+{
+  "username": "CommanderCrowCode",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/72845369?u=bacf802b453d786409ef3c50ce4699a67142529e&v=4",
+  "githubUrl": "https://github.com/CommanderCrowCode",
+  "score": {
+    "score": 27.23,
+    "prScore": 22.23,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 8,
+    "prDeletions": 1,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 107,
+    "commitDeletions": 43,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 7
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 107,
+      "commitDeletions": 43,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-03T06:18:21Z",
+  "lastContribution": "2026-03-03T06:30:06Z",
+  "recentPRs": [
+    {
+      "number": 32648,
+      "title": "fix(slack): pass mediaLocalRoots through sendSlackMessage to file uploads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T06:30:06Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 1,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32639,
+      "title": "[Bug] Slack: agent react action fails in DMs, missing messageId auto-inference, missing currentMessageTs",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T06:18:21Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-14": 1
+  },
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

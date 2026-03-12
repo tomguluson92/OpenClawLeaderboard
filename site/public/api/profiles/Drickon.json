@@ -1,0 +1,87 @@
+{
+  "username": "Drickon",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41375613?v=4",
+  "githubUrl": "https://github.com/Drickon",
+  "score": {
+    "score": 64.26,
+    "prScore": 64.26,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 5,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 37,
+    "prDeletions": 2,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 617,
+    "commitDeletions": 9,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 12
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 617,
+      "commitDeletions": 9,
+      "commits": 5
+    }
+  },
+  "firstContribution": "2026-03-02T23:25:50Z",
+  "lastContribution": "2026-03-02T23:25:50Z",
+  "recentPRs": [
+    {
+      "number": 32292,
+      "title": "fix(hooks): use globalThis singleton for handler registry to survive bundle splitting",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T23:25:50Z",
+      "mergedAt": "2026-03-03T00:27:11Z",
+      "additions": 37,
+      "deletions": 2,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-03": 2,
+    "2026-03-02": 3
+  },
+  "recentActivityDays": {
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

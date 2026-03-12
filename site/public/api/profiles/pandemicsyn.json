@@ -1,0 +1,103 @@
+{
+  "username": "pandemicsyn",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/333354?v=4",
+  "githubUrl": "https://github.com/pandemicsyn",
+  "score": {
+    "score": 88.41,
+    "prScore": 78.41,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 832,
+    "prDeletions": 168,
+    "prChangedFiles": 15,
+    "prMergeRate": 100,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 832,
+    "commitDeletions": 168,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 15
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 832,
+      "commitDeletions": 168,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 2,
+      "commitAdditions": 832,
+      "commitDeletions": 168,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-03T00:42:26Z",
+  "lastContribution": "2026-03-07T15:50:01Z",
+  "recentPRs": [
+    {
+      "number": 32352,
+      "title": "fix(providers): make all models available in kilocode provider",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T00:42:26Z",
+      "mergedAt": "2026-03-07T16:14:06Z",
+      "additions": 832,
+      "deletions": 168,
+      "changedFiles": 15
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 32352,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T20:58:22Z"
+    },
+    {
+      "prNumber": 32352,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T20:57:22Z"
+    },
+    {
+      "prNumber": 32352,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T13:59:57Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-07": 1
+  },
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    }
+  }
+}

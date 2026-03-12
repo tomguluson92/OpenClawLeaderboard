@@ -1,0 +1,231 @@
+{
+  "username": "zoe531",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10573385?u=8c0c40d30f8b79701d5da725012aface73041196&v=4",
+  "githubUrl": "https://github.com/zoe531",
+  "score": {
+    "score": 127.45,
+    "prScore": 127.45,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 13,
+    "prsMerged": 0,
+    "prAdditions": 176,
+    "prDeletions": 20,
+    "prChangedFiles": 23,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T06:48:26Z",
+  "lastContribution": "2026-03-07T07:21:02Z",
+  "recentPRs": [
+    {
+      "number": 38661,
+      "title": "fix: resolve multiple issues (#38517, #38501, #38554, #38494)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T07:21:02Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 11,
+      "changedFiles": 7
+    },
+    {
+      "number": 37098,
+      "title": "fix(browser): accept openclaw driver in Zod schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:24:29Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 37096,
+      "title": "docs: add PR description checklist to CONTRIBUTING",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T03:23:31Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 37095,
+      "title": "fix(config): add domain field to discovery.wideArea schema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T03:22:45Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 36265,
+      "title": "fix(chat.inject): auto-create transcript file on first inject",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T14:34:44Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 36238,
+      "title": "fix(chat.inject): improve error message for missing transcript file",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T14:07:42Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 36184,
+      "title": "fix(chat.inject): auto-create transcript file when session exists",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T13:25:01Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 35986,
+      "title": "fix(gateway,auto-reply): guard toolUsage.tools iteration and fix indexOf semantics in status log tail",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T11:14:50Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 35642,
+      "title": "fix(discord): add autoThread field to DiscordGuildChannelConfig type",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T07:06:07Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35631,
+      "title": "fix(config): add domain field to discovery.wideArea schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:57:11Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35627,
+      "title": "fix(browser): accept openclaw driver in Zod schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:55:38Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 35619,
+      "title": "fix(gateway,auto-reply): guard toolUsage.tools iteration and fix indexOf semantics in status log tail",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:52:10Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 35611,
+      "title": "docs: add PR description checklist to CONTRIBUTING",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:48:26Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

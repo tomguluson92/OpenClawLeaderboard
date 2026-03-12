@@ -1,0 +1,135 @@
+{
+  "username": "jmzlx",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/665485?u=dee4d41a90e0f31efdb6a37ffd4055575bb91247&v=4",
+  "githubUrl": "https://github.com/jmzlx",
+  "score": {
+    "score": 46.73,
+    "prScore": 29.73,
+    "issueScore": 13,
+    "reviewScore": 3,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 53,
+    "prDeletions": 10,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T04:37:09Z",
+  "lastContribution": "2026-03-05T18:31:24Z",
+  "recentPRs": [
+    {
+      "number": 35464,
+      "title": "fix(doctor): handle SecretRef objects in memory search apiKey check",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:50:08Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 35463,
+      "title": "fix(llm-task): add explicit type to input/schema params for llama.cpp compat",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T04:50:06Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 35452,
+      "title": "fix: llm-task tool schema compatibility with llama.cpp + doctor SecretRef crash",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:42:08Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 3,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 35444,
+      "title": "`openclaw doctor` crashes with TypeError on SecretRef/vault-resolved apiKey values",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T04:37:24Z",
+      "closedAt": "2026-03-06T02:06:00Z"
+    },
+    {
+      "number": 35443,
+      "title": "llm-task plugin tool parameters missing `type` field \u2014 breaks llama.cpp backends",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T04:37:09Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 35463,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T18:31:24Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 1
+    }
+  }
+}

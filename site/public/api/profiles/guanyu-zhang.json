@@ -1,0 +1,184 @@
+{
+  "username": "guanyu-zhang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/63548771?u=1c1af6a46bea7386af56ed58ababa51894d78807&v=4",
+  "githubUrl": "https://github.com/guanyu-zhang",
+  "score": {
+    "score": 102.8,
+    "prScore": 77.8,
+    "issueScore": 18,
+    "reviewScore": 6,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 1,
+    "prAdditions": 695,
+    "prDeletions": 64,
+    "prChangedFiles": 20,
+    "prMergeRate": 20,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 2,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 3,
+      "reviews": 2,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T22:09:00Z",
+  "lastContribution": "2026-03-10T09:53:24Z",
+  "recentPRs": [
+    {
+      "number": 41948,
+      "title": "fix(acpx): start Gemini CLI with --experimental-acp",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T08:22:49Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37636,
+      "title": "feat(models): upgrade pi-mono to 0.56.2 to support gpt-5.4 natively and fix oauth import paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T10:28:44Z",
+      "mergedAt": null,
+      "additions": 220,
+      "deletions": 30,
+      "changedFiles": 10
+    },
+    {
+      "number": 36867,
+      "title": "fix(config): support bracket notation in paths for keys with periods",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T23:31:37Z",
+      "mergedAt": null,
+      "additions": 454,
+      "deletions": 25,
+      "changedFiles": 5
+    },
+    {
+      "number": 32227,
+      "title": "fix(sandbox): make /workspace bind mount read-only when workspaceAcce\u2026",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T22:23:32Z",
+      "mergedAt": "2026-03-02T22:58:09Z",
+      "additions": 2,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 32215,
+      "title": "fix(sandbox): make /workspace bind mount read-only when workspaceAccess is not rw",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T22:09:00Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42017,
+      "title": "acp: document and expose agent command overrides for acpx-backed agents",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T09:53:24Z",
+      "closedAt": null
+    },
+    {
+      "number": 36871,
+      "title": "[Bug]: CLI and config path parser incorrectly splits custom provider keys containing periods (e.g. llama.cpp)",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T23:32:23Z",
+      "closedAt": null
+    },
+    {
+      "number": 32231,
+      "title": "[Question] sandbox workspace bind mount behavior when workspaceAccess is ro or none",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T22:25:46Z",
+      "closedAt": "2026-03-02T22:58:11Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 36867,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T00:51:21Z"
+    },
+    {
+      "prNumber": 36867,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T00:49:38Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

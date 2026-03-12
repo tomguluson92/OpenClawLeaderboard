@@ -1,0 +1,123 @@
+{
+  "username": "BruceMacD",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5853428?u=d233d9c0f7c3c0be7941888525050d12d69d50fe&v=4",
+  "githubUrl": "https://github.com/BruceMacD",
+  "score": {
+    "score": 115.43,
+    "prScore": 106.43,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 1245,
+    "prDeletions": 70,
+    "prChangedFiles": 22,
+    "prMergeRate": 50,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 1176,
+    "commitDeletions": 61,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 16
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 0,
+      "commitAdditions": 1176,
+      "commitDeletions": 61,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 0,
+      "commitAdditions": 1176,
+      "commitDeletions": 61,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-09T23:33:13Z",
+  "lastContribution": "2026-03-11T21:12:05Z",
+  "recentPRs": [
+    {
+      "number": 43473,
+      "title": "docs(ollama): update onboarding flow",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T21:12:05Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 9,
+      "changedFiles": 5
+    },
+    {
+      "number": 41529,
+      "title": "Onboard: add Ollama auth flow and improve model defaults",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T23:33:13Z",
+      "mergedAt": "2026-03-11T14:52:55Z",
+      "additions": 1176,
+      "deletions": 61,
+      "changedFiles": 17
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 41529,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T21:44:56Z"
+    },
+    {
+      "prNumber": 41529,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T21:44:18Z"
+    },
+    {
+      "prNumber": 41529,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T16:39:44Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-11": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
+    }
+  }
+}

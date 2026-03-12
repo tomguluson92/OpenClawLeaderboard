@@ -1,0 +1,115 @@
+{
+  "username": "littleWalikrence",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41196524?v=4",
+  "githubUrl": "https://github.com/littleWalikrence",
+  "score": {
+    "score": 24.01,
+    "prScore": 10.01,
+    "issueScore": 5,
+    "reviewScore": 9,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 148,
+    "prDeletions": 2,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-11T03:40:03Z",
+  "lastContribution": "2026-03-11T06:58:51Z",
+  "recentPRs": [
+    {
+      "number": 42908,
+      "title": "feat(feishu): extract option, options, form_value from card action callbacks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T06:45:13Z",
+      "mergedAt": null,
+      "additions": 148,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42754,
+      "title": "[Feature]: Feishu card action handler discards action.option, action.options, and action.form_value",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T03:40:03Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 42908,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T06:58:51Z"
+    },
+    {
+      "prNumber": 42908,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T06:58:38Z"
+    },
+    {
+      "prNumber": 42908,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T06:58:24Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3
+    }
+  }
+}

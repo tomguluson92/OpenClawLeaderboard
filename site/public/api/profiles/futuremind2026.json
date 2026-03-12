@@ -1,0 +1,173 @@
+{
+  "username": "futuremind2026",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/258860756?v=4",
+  "githubUrl": "https://github.com/futuremind2026",
+  "score": {
+    "score": 119.54,
+    "prScore": 109.54,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 7
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 2217,
+    "prDeletions": 86,
+    "prChangedFiles": 24,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 14,
+    "commitAdditions": 45,
+    "commitDeletions": 3,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 5
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 9,
+      "commitAdditions": 45,
+      "commitDeletions": 3,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 14,
+      "commitAdditions": 45,
+      "commitDeletions": 3,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-04T17:43:11Z",
+  "lastContribution": "2026-03-11T04:35:51Z",
+  "recentPRs": [
+    {
+      "number": 42768,
+      "title": "fix(ci): bump tar override to patched 7.5.11",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T03:57:26Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 10,
+      "changedFiles": 2
+    },
+    {
+      "number": 40147,
+      "title": "fix(feishu): prioritize root_id before replyInThread when replying",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T18:10:32Z",
+      "mergedAt": null,
+      "additions": 114,
+      "deletions": 7,
+      "changedFiles": 4
+    },
+    {
+      "number": 38958,
+      "title": "feat(feishu): configurable group and DM display-name resolution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T15:22:36Z",
+      "mergedAt": null,
+      "additions": 1104,
+      "deletions": 25,
+      "changedFiles": 7
+    },
+    {
+      "number": 38378,
+      "title": "feat(feishu): split DM/group display names with members-only DM lookup",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T22:52:29Z",
+      "mergedAt": null,
+      "additions": 691,
+      "deletions": 32,
+      "changedFiles": 6
+    },
+    {
+      "number": 36530,
+      "title": "fix(feishu): support fields_json fallback for bitable records",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T17:56:37Z",
+      "mergedAt": null,
+      "additions": 296,
+      "deletions": 11,
+      "changedFiles": 3
+    },
+    {
+      "number": 34781,
+      "title": "fix: treat wrapped 'fetch failed' rejections as transient network errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T17:43:11Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 38958,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T03:09:33Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-10": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

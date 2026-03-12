@@ -1,0 +1,124 @@
+{
+  "username": "glitch418x",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/189487110?u=d7f1e533285dc7c49031796c3c90b1f9d5cee30d&v=4",
+  "githubUrl": "https://github.com/glitch418x",
+  "score": {
+    "score": 56.28,
+    "prScore": 31.28,
+    "issueScore": 24,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 181,
+    "prDeletions": 22,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 3,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 112,
+    "commitDeletions": 8,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 5
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 112,
+      "commitDeletions": 8,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-01T11:17:37Z",
+  "lastContribution": "2026-03-11T06:59:00Z",
+  "recentPRs": [
+    {
+      "number": 40053,
+      "title": "fix: preserve selected session model during fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T16:21:20Z",
+      "mergedAt": null,
+      "additions": 181,
+      "deletions": 22,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42919,
+      "title": "System events don't route to active session when dmScope is per-channel-peer",
+      "state": "CLOSED",
+      "createdAt": "2026-03-11T06:59:00Z",
+      "closedAt": "2026-03-11T06:59:25Z"
+    },
+    {
+      "number": 34886,
+      "title": "ACP stream delivery: no way to fully suppress output to originating chat",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T19:01:38Z",
+      "closedAt": "2026-03-04T19:02:03Z"
+    },
+    {
+      "number": 30582,
+      "title": "Sandbox write fails for existing subdirectories with workspaceAccess: rw (2026.2.26 regression)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-01T11:17:37Z",
+      "closedAt": "2026-03-01T21:41:48Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-01": 1
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-01": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

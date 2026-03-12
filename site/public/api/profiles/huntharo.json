@@ -1,0 +1,149 @@
+{
+  "username": "huntharo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5617868?v=4",
+  "githubUrl": "https://github.com/huntharo",
+  "score": {
+    "score": 258.51,
+    "prScore": 248.01,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 4.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 13,
+    "prs": 4,
+    "prsMerged": 3,
+    "prAdditions": 6715,
+    "prDeletions": 1037,
+    "prChangedFiles": 119,
+    "prMergeRate": 75,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 9,
+    "commitAdditions": 8019,
+    "commitDeletions": 1113,
+    "weeklyCommits": 2,
+    "monthlyCommits": 13,
+    "commitChangedFiles": 146
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 9,
+      "commitAdditions": 6506,
+      "commitDeletions": 978,
+      "commits": 3
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 9,
+      "commitAdditions": 8019,
+      "commitDeletions": 1113,
+      "commits": 13
+    }
+  },
+  "firstContribution": "2026-03-05T13:46:00Z",
+  "lastContribution": "2026-03-11T21:32:56Z",
+  "recentPRs": [
+    {
+      "number": 42664,
+      "title": "Gateway/Dashboard: surface config validation issues",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T01:59:42Z",
+      "mergedAt": "2026-03-11T21:32:41Z",
+      "additions": 53,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 37233,
+      "title": "Telegram: fix exec approvals and topic follow-up routing",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T05:25:11Z",
+      "mergedAt": "2026-03-10T03:04:35Z",
+      "additions": 4058,
+      "deletions": 524,
+      "changedFiles": 78
+    },
+    {
+      "number": 36683,
+      "title": "feat(telegram/acp): Topic Binding, Pin Binding Message, Fix Spawn Param Parsing",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T20:43:07Z",
+      "mergedAt": "2026-03-06T01:17:51Z",
+      "additions": 2395,
+      "deletions": 451,
+      "changedFiles": 35
+    },
+    {
+      "number": 36211,
+      "title": "chore(gateway): ignore `.test.ts` changes in `gateway:watch`",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T13:46:00Z",
+      "mergedAt": null,
+      "additions": 209,
+      "deletions": 59,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 36683,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T21:17:01Z"
+    },
+    {
+      "prNumber": 36683,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T20:55:22Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-11": 1,
+    "2026-03-10": 1,
+    "2026-03-06": 1,
+    "2026-03-05": 1,
+    "2026-02-26": 6,
+    "2026-02-21": 2,
+    "2026-02-20": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

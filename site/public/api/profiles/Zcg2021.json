@@ -1,0 +1,192 @@
+{
+  "username": "Zcg2021",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/80769518?v=4",
+  "githubUrl": "https://github.com/Zcg2021",
+  "score": {
+    "score": 158.97,
+    "prScore": 140.47,
+    "issueScore": 0,
+    "reviewScore": 12,
+    "commentScore": 6.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 1128,
+    "prDeletions": 72,
+    "prChangedFiles": 43,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 13,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 13,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 13,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T16:02:00Z",
+  "lastContribution": "2026-03-12T02:30:15Z",
+  "recentPRs": [
+    {
+      "number": 43594,
+      "title": "Cron: add opt-in isolated session reuse",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T02:30:15Z",
+      "mergedAt": null,
+      "additions": 283,
+      "deletions": 34,
+      "changedFiles": 20
+    },
+    {
+      "number": 42691,
+      "title": "Gateway: align nested lane concurrency with cron.maxConcurrentRuns",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T02:37:26Z",
+      "mergedAt": null,
+      "additions": 120,
+      "deletions": 7,
+      "changedFiles": 8
+    },
+    {
+      "number": 41643,
+      "title": "fix(anthropic): recover from empty session error stubs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T02:32:48Z",
+      "mergedAt": null,
+      "additions": 163,
+      "deletions": 5,
+      "changedFiles": 4
+    },
+    {
+      "number": 41580,
+      "title": "test(pi-ai): align oauth mocks with current subpath exports",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T01:11:31Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 41561,
+      "title": "fix(thinking): support xhigh through aliases and proxy refs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T00:31:32Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 41502,
+      "title": "fix: exec tool loop detection bypassed by volatile details fields",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T22:55:52Z",
+      "mergedAt": null,
+      "additions": 229,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40041,
+      "title": "refactor: remove dead isAnthropicProvider guard from normalizeToolParameters",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T16:02:00Z",
+      "mergedAt": null,
+      "additions": 217,
+      "deletions": 8,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 40041,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T00:30:18Z"
+    },
+    {
+      "prNumber": 41502,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T00:26:30Z"
+    },
+    {
+      "prNumber": 41561,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T00:25:37Z"
+    },
+    {
+      "prNumber": 42691,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T16:27:58Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

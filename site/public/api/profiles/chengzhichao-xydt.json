@@ -1,0 +1,233 @@
+{
+  "username": "chengzhichao-xydt",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264300353?v=4",
+  "githubUrl": "https://github.com/chengzhichao-xydt",
+  "score": {
+    "score": 209,
+    "prScore": 209,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 13,
+    "prsMerged": 1,
+    "prAdditions": 1803,
+    "prDeletions": 179,
+    "prChangedFiles": 54,
+    "prMergeRate": 8,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 140,
+    "commitDeletions": 13,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 10
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 140,
+      "commitDeletions": 13,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-02T13:07:07Z",
+  "lastContribution": "2026-03-04T00:53:26Z",
+  "recentPRs": [
+    {
+      "number": 33696,
+      "title": "Moonshot: respect explicit baseUrl for CN endpoint so platform.moonshot.cn keys authenticate (#33637)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T00:53:26Z",
+      "mergedAt": null,
+      "additions": 70,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 33149,
+      "title": "Gateway: fix restart-loop by terminating wss clients before close and triggering supervisor restart on Linux",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T15:08:40Z",
+      "mergedAt": null,
+      "additions": 237,
+      "deletions": 14,
+      "changedFiles": 5
+    },
+    {
+      "number": 33097,
+      "title": "fix(docker): preserve gateway token on docker-setup.sh re-run and align compose env defaults",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T14:20:31Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 33060,
+      "title": "feishu: pass audio duration to file upload to fix TTS truncation (#33043)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T13:40:24Z",
+      "mergedAt": null,
+      "additions": 173,
+      "deletions": 1,
+      "changedFiles": 7
+    },
+    {
+      "number": 32876,
+      "title": "fix(telegram): drain buffered messages on graceful shutdown to prevent loss on systemd restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T10:09:12Z",
+      "mergedAt": null,
+      "additions": 265,
+      "deletions": 19,
+      "changedFiles": 9
+    },
+    {
+      "number": 32830,
+      "title": "Agents: fix Save button disabled when agent not in config list",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T09:14:55Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 45,
+      "changedFiles": 1
+    },
+    {
+      "number": 32764,
+      "title": "Discord: always use autocomplete for command args with choices to fixinline arg ignored (#32753)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:23:01Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 32455,
+      "title": "auth-profiles: fix round-robin broken on /new by recording selection immediately",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T03:04:03Z",
+      "mergedAt": null,
+      "additions": 159,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 32426,
+      "title": "Telegram: allow named-account DMs through with per-account session key(#32351)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T02:19:12Z",
+      "mergedAt": null,
+      "additions": 175,
+      "deletions": 9,
+      "changedFiles": 4
+    },
+    {
+      "number": 32381,
+      "title": "fix: substitute YYYY-MM-DD at session startup and post-compaction (#32363)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T01:27:40Z",
+      "mergedAt": "2026-03-03T14:21:26Z",
+      "additions": 140,
+      "deletions": 13,
+      "changedFiles": 10
+    },
+    {
+      "number": 31798,
+      "title": "Telegram: preserve original file_name from Bot API when saving inbound documents (#31768)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T14:52:12Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 31779,
+      "title": "providers: strip x-stainless-* headers for custom upstream providers to avoid Cloudflare blocks (#31720)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-02T14:34:15Z",
+      "mergedAt": null,
+      "additions": 302,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 31700,
+      "title": "Slack: add message.channels and message.groups handlers for channel visibility(#31674)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T13:07:07Z",
+      "mergedAt": null,
+      "additions": 123,
+      "deletions": 61,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-03": 1
+  },
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

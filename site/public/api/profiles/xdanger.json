@@ -1,0 +1,206 @@
+{
+  "username": "xdanger",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7087?v=4",
+  "githubUrl": "https://github.com/xdanger",
+  "score": {
+    "score": 118.02,
+    "prScore": 67.52,
+    "issueScore": 36,
+    "reviewScore": 12,
+    "commentScore": 2.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 3,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 326,
+    "prDeletions": 32,
+    "prChangedFiles": 7,
+    "prMergeRate": 33,
+    "issues": 6,
+    "issuesClosed": 2,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5,
+    "commitAdditions": 200,
+    "commitDeletions": 7,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 8
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 4,
+      "comments": 4,
+      "commitAdditions": 200,
+      "commitDeletions": 7,
+      "commits": 3
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 6,
+      "reviews": 4,
+      "comments": 5,
+      "commitAdditions": 200,
+      "commitDeletions": 7,
+      "commits": 3
+    }
+  },
+  "firstContribution": "2026-02-27T22:23:46Z",
+  "lastContribution": "2026-03-08T20:35:21Z",
+  "recentPRs": [
+    {
+      "number": 39860,
+      "title": "fix: synthesize implicit openai-codex runtime provider",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T13:16:55Z",
+      "mergedAt": "2026-03-08T13:48:13Z",
+      "additions": 198,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 39859,
+      "title": "fix: cap effective session context window by known model limit",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T13:16:55Z",
+      "mergedAt": null,
+      "additions": 128,
+      "deletions": 27,
+      "changedFiles": 4
+    },
+    {
+      "number": 33191,
+      "title": "fix(telegram): typing indicator not starting during extended thinking",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T15:41:36Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39858,
+      "title": "Implicit models.json generation does not synthesize an openai-codex provider from Codex OAuth",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T13:16:32Z",
+      "closedAt": "2026-03-08T13:48:14Z"
+    },
+    {
+      "number": 39857,
+      "title": "Status/session context window can over-report the selected model's actual window",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T13:16:32Z",
+      "closedAt": null
+    },
+    {
+      "number": 33025,
+      "title": "Telegram DM streaming (sendMessageDraft / editMessageText preview) never triggers",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T13:06:23Z",
+      "closedAt": null
+    },
+    {
+      "number": 31039,
+      "title": "Telegram replyToMode 'first' applies reply-to to all chunks instead of only the first",
+      "state": "CLOSED",
+      "createdAt": "2026-03-01T22:51:03Z",
+      "closedAt": "2026-03-02T02:57:11Z"
+    },
+    {
+      "number": 30120,
+      "title": "feat(whatsapp): support replyToMode for reply-to-message threading",
+      "state": "OPEN",
+      "createdAt": "2026-02-28T22:52:44Z",
+      "closedAt": null
+    },
+    {
+      "number": 29173,
+      "title": "Bug: hasBotMention substring match causes cross-bot mention collision in Telegram multi-account groups",
+      "state": "OPEN",
+      "createdAt": "2026-02-27T22:23:46Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 39859,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T17:11:08Z"
+    },
+    {
+      "prNumber": 39859,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T17:11:06Z"
+    },
+    {
+      "prNumber": 39860,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:40:27Z"
+    },
+    {
+      "prNumber": 39860,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:40:26Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-08": 3
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 4
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-01": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-02-28": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-02-27": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

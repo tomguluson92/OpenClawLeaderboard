@@ -1,0 +1,118 @@
+{
+  "username": "mathiasnagler",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9951231?u=721b74ba917c6ecdda006fd837d20afc58c7d997&v=4",
+  "githubUrl": "https://github.com/mathiasnagler",
+  "score": {
+    "score": 74.21,
+    "prScore": 63.21,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 913,
+    "prDeletions": 16,
+    "prChangedFiles": 24,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 182,
+    "commitDeletions": 6,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 10
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 182,
+      "commitDeletions": 6,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 182,
+      "commitDeletions": 6,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-06T20:09:08Z",
+  "lastContribution": "2026-03-10T08:08:38Z",
+  "recentPRs": [
+    {
+      "number": 41362,
+      "title": "fix(mattermost): prevent duplicate messages when block streaming + threading are active",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T18:48:23Z",
+      "mergedAt": null,
+      "additions": 150,
+      "deletions": 5,
+      "changedFiles": 8
+    },
+    {
+      "number": 38310,
+      "title": "feat(secrets): support SecretRef in sandbox.docker.env",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T20:11:19Z",
+      "mergedAt": null,
+      "additions": 763,
+      "deletions": 11,
+      "changedFiles": 16
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41219,
+      "title": "Mattermost: block streaming + threading produces duplicate messages (one threaded, one top-level)",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T16:02:28Z",
+      "closedAt": null
+    },
+    {
+      "number": 38309,
+      "title": "feat: support SecretRef in sandbox.docker.env",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T20:09:08Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-12": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

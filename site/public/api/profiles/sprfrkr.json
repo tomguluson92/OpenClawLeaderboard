@@ -1,0 +1,146 @@
+{
+  "username": "sprfrkr",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5494966?u=d1c9f787f0dc9df0db4d163332f48bd326b33788&v=4",
+  "githubUrl": "https://github.com/sprfrkr",
+  "score": {
+    "score": 50.84,
+    "prScore": 25.84,
+    "issueScore": 15,
+    "reviewScore": 9,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 268,
+    "prDeletions": 12,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 3,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T14:08:40Z",
+  "lastContribution": "2026-03-06T13:24:50Z",
+  "recentPRs": [
+    {
+      "number": 34559,
+      "title": "feat(chrome-extension): auto-attach all tabs without manual toolbar click",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T14:49:35Z",
+      "mergedAt": null,
+      "additions": 124,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 34526,
+      "title": "Slack: add unfurlLinks / unfurlMedia config to suppress link previews",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T14:20:35Z",
+      "mergedAt": null,
+      "additions": 144,
+      "deletions": 0,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 37842,
+      "title": "Feature: Graph-aware loop detection for sessions_send (triangular/polygonal cascades bypass maxPingPongTurns)",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T13:24:50Z",
+      "closedAt": null
+    },
+    {
+      "number": 34557,
+      "title": "Browser Relay: auto-attach all tabs without manual toolbar click",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T14:47:16Z",
+      "closedAt": null
+    },
+    {
+      "number": 34512,
+      "title": "[Feature]: Add unfurl_links / unfurl_media control for Slack channel",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T14:08:40Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 34559,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T15:02:05Z"
+    },
+    {
+      "prNumber": 34559,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T15:01:58Z"
+    },
+    {
+      "prNumber": 34559,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T15:01:51Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 3
+    },
+    "2026-03-06": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

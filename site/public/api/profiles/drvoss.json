@@ -1,0 +1,233 @@
+{
+  "username": "drvoss",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3031622?u=2448b4afa647fc8b3e678da431801a71f845a86e&v=4",
+  "githubUrl": "https://github.com/drvoss",
+  "score": {
+    "score": 205.69,
+    "prScore": 205.19,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 12,
+    "prsMerged": 0,
+    "prAdditions": 2835,
+    "prDeletions": 288,
+    "prChangedFiles": 72,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 102,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 102,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-03T06:22:24Z",
+  "lastContribution": "2026-03-09T00:22:08Z",
+  "recentPRs": [
+    {
+      "number": 40386,
+      "title": "fix: batch bug fixes for discord, imessage, heartbeat, acpx and cron",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T00:22:08Z",
+      "mergedAt": null,
+      "additions": 109,
+      "deletions": 21,
+      "changedFiles": 9
+    },
+    {
+      "number": 38647,
+      "title": "fix(session): use Discord channel target as session key when From is sender-shaped",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T06:37:36Z",
+      "mergedAt": null,
+      "additions": 86,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 38646,
+      "title": "fix(gateway): use agents.list hot-reload rule for per-agent heartbeat changes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T06:37:27Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 38620,
+      "title": "fix: deduplicate snapshot field reads and add test coverage",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T05:58:19Z",
+      "mergedAt": null,
+      "additions": 686,
+      "deletions": 66,
+      "changedFiles": 9
+    },
+    {
+      "number": 38550,
+      "title": "fix: deduplicate snapshot field reads and add test coverage",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T04:10:31Z",
+      "mergedAt": null,
+      "additions": 681,
+      "deletions": 61,
+      "changedFiles": 9
+    },
+    {
+      "number": 37333,
+      "title": "fix(infra): guard negative ms in formatDurationPrecise and expand duration tests",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T07:02:26Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 37285,
+      "title": "fix(infra): correct import extension, cache snapshot field reads, and add test coverage",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:22:08Z",
+      "mergedAt": null,
+      "additions": 681,
+      "deletions": 61,
+      "changedFiles": 9
+    },
+    {
+      "number": 37184,
+      "title": "fix(tools): convert array-format parameters to JSON Schema and add edge-case tests",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T04:38:38Z",
+      "mergedAt": null,
+      "additions": 208,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 36872,
+      "title": "Fix SecretRef crash in audit and add edge-case test coverage",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T23:36:16Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 32824,
+      "title": "fix(agents): prevent stale baseUrl in models.json from overwriting Moonshot CN endpoint",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T09:10:38Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 14,
+      "changedFiles": 4
+    },
+    {
+      "number": 32775,
+      "title": "fix: gateway plugin ordering, feishu schema 2.0 card, discord acp autocomplete and misc fixes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:29:30Z",
+      "mergedAt": null,
+      "additions": 112,
+      "deletions": 34,
+      "changedFiles": 12
+    },
+    {
+      "number": 32640,
+      "title": "fix(models): do not preserve stale baseUrl from models.json in merge mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T06:22:24Z",
+      "mergedAt": null,
+      "additions": 91,
+      "deletions": 20,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-03": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

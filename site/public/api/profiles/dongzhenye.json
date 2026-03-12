@@ -1,0 +1,138 @@
+{
+  "username": "dongzhenye",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5765843?u=fe420c9a4c41e5b060faaf44029f5485616b470d&v=4",
+  "githubUrl": "https://github.com/dongzhenye",
+  "score": {
+    "score": 47.36,
+    "prScore": 17.86,
+    "issueScore": 25,
+    "reviewScore": 0,
+    "commentScore": 4.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 60,
+    "prDeletions": 12,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 5,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 9,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T03:34:59Z",
+  "lastContribution": "2026-03-04T14:58:15Z",
+  "recentPRs": [
+    {
+      "number": 34301,
+      "title": "fix: send authorization hint when bot is @mentioned but unauthorized",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T10:20:59Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 10,
+      "changedFiles": 2
+    },
+    {
+      "number": 34272,
+      "title": "fix: doctor should check per-group allowFrom configuration",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:56:09Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 34063,
+      "title": "Enhancement: Doctor should verify actual Privacy Mode status via API",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T06:40:21Z",
+      "closedAt": null
+    },
+    {
+      "number": 34062,
+      "title": "Bug: Doctor doesn't check per-group allowFrom configuration",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T06:40:15Z",
+      "closedAt": null
+    },
+    {
+      "number": 34061,
+      "title": "Feature: Support hot-reload for group configuration changes",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T06:40:10Z",
+      "closedAt": null
+    },
+    {
+      "number": 34057,
+      "title": "Feature: Bot should self-report group ID when added to group",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T06:31:43Z",
+      "closedAt": null
+    },
+    {
+      "number": 34056,
+      "title": "Feature: Send authorization hint when bot is @mentioned but unauthorized",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T06:31:00Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 5,
+      "reviews": 0
+    }
+  }
+}

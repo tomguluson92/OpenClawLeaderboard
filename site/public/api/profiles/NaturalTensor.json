@@ -1,0 +1,398 @@
+{
+  "username": "NaturalTensor",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17723822?v=4",
+  "githubUrl": "https://github.com/NaturalTensor",
+  "score": {
+    "score": 839.95,
+    "prScore": 790.45,
+    "issueScore": 0,
+    "reviewScore": 45,
+    "commentScore": 4.5
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 6,
+    "prs": 86,
+    "prsMerged": 4,
+    "prAdditions": 15761,
+    "prDeletions": 1618,
+    "prChangedFiles": 484,
+    "prMergeRate": 5,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 15,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 9,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 55,
+      "issues": 0,
+      "reviews": 10,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 86,
+      "issues": 0,
+      "reviews": 15,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T12:14:04Z",
+  "lastContribution": "2026-03-06T06:01:45Z",
+  "recentPRs": [
+    {
+      "number": 37255,
+      "title": "Fix: Keep TUI messages from reusing Telegram delivery route",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:01:45Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 37205,
+      "title": "fix(cli): support bracket notation for dotted config keys",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T05:06:02Z",
+      "mergedAt": null,
+      "additions": 226,
+      "deletions": 60,
+      "changedFiles": 4
+    },
+    {
+      "number": 37181,
+      "title": "fix(tui): reload history when local final has no visible reply",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T04:35:45Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 37141,
+      "title": "fix(tui): render initial/status updates without keypress",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:59:17Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 37053,
+      "title": "fix(ollama): use conservative fallback num_ctx when contextWindow is missing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T02:54:16Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 37032,
+      "title": "gateway: avoid stale Control UI version from service env",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T02:29:12Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 36984,
+      "title": "fix(cli): skip nodes run approval for on-miss when security is full",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T01:46:57Z",
+      "mergedAt": null,
+      "additions": 379,
+      "deletions": 27,
+      "changedFiles": 13
+    },
+    {
+      "number": 36962,
+      "title": "fix(telegram): restore non-default DM delivery with account-scoped fallback sessions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T01:18:02Z",
+      "mergedAt": null,
+      "additions": 379,
+      "deletions": 22,
+      "changedFiles": 13
+    },
+    {
+      "number": 36933,
+      "title": "perf(routing): reuse binding cache across config snapshots",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T00:55:31Z",
+      "mergedAt": null,
+      "additions": 138,
+      "deletions": 20,
+      "changedFiles": 5
+    },
+    {
+      "number": 36912,
+      "title": "Status: resolve SecretRefs before audit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T00:30:46Z",
+      "mergedAt": null,
+      "additions": 382,
+      "deletions": 25,
+      "changedFiles": 13
+    },
+    {
+      "number": 36896,
+      "title": "fix(exec): honor host=node when elevated mode is active",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T00:10:51Z",
+      "mergedAt": null,
+      "additions": 354,
+      "deletions": 19,
+      "changedFiles": 13
+    },
+    {
+      "number": 36875,
+      "title": "Agents: accept exec cmd alias for command",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T23:39:43Z",
+      "mergedAt": null,
+      "additions": 403,
+      "deletions": 53,
+      "changedFiles": 14
+    },
+    {
+      "number": 36833,
+      "title": "fix(bluebubbles): guard debounce flush against null text",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T23:06:46Z",
+      "mergedAt": null,
+      "additions": 436,
+      "deletions": 19,
+      "changedFiles": 13
+    },
+    {
+      "number": 36818,
+      "title": "fix(cli): allow bare gateway command in invalid-config preflight",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T22:45:48Z",
+      "mergedAt": null,
+      "additions": 328,
+      "deletions": 22,
+      "changedFiles": 13
+    },
+    {
+      "number": 36801,
+      "title": "fix: read systemd EnvironmentFile token in doctor audit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T22:26:46Z",
+      "mergedAt": null,
+      "additions": 154,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36780,
+      "title": "fix(telegram): restore non-default account DM routing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T22:07:31Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 36752,
+      "title": "Gateway: block SIGUSR1 restart when config is invalid",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T21:39:50Z",
+      "mergedAt": null,
+      "additions": 106,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 36689,
+      "title": "daemon: self-heal gateway start for unloaded LaunchAgent",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T20:55:06Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 36669,
+      "title": "fix(version): prefer build-info when package version is dev placeholder",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T20:23:32Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 36636,
+      "title": "Config: avoid merged schema cache key stringify overflow",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T19:45:30Z",
+      "mergedAt": null,
+      "additions": 408,
+      "deletions": 20,
+      "changedFiles": 13
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 36215,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T03:45:33Z"
+    },
+    {
+      "prNumber": 36278,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T03:43:47Z"
+    },
+    {
+      "prNumber": 36179,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T03:33:29Z"
+    },
+    {
+      "prNumber": 36215,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T03:32:03Z"
+    },
+    {
+      "prNumber": 36278,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T03:27:30Z"
+    },
+    {
+      "prNumber": 36278,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T03:27:19Z"
+    },
+    {
+      "prNumber": 35204,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T07:23:08Z"
+    },
+    {
+      "prNumber": 35204,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T07:15:18Z"
+    },
+    {
+      "prNumber": 35204,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T06:58:20Z"
+    },
+    {
+      "prNumber": 35204,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T05:28:55Z"
+    },
+    {
+      "prNumber": 35204,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T05:08:16Z"
+    },
+    {
+      "prNumber": 35204,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T04:35:48Z"
+    },
+    {
+      "prNumber": 35204,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T03:07:59Z"
+    },
+    {
+      "prNumber": 35204,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T02:52:40Z"
+    },
+    {
+      "prNumber": 35204,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T02:24:33Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-05": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 9
+    }
+  }
+}

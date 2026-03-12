@@ -1,0 +1,480 @@
+{
+  "username": "Diaspar4u",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3605840?v=4",
+  "githubUrl": "https://github.com/Diaspar4u",
+  "score": {
+    "score": 700.67,
+    "prScore": 409.17,
+    "issueScore": 30,
+    "reviewScore": 246,
+    "commentScore": 15.5
+  },
+  "tier": "veteran",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 2,
+    "prs": 36,
+    "prsMerged": 0,
+    "prAdditions": 17057,
+    "prDeletions": 990,
+    "prChangedFiles": 203,
+    "prMergeRate": 0,
+    "issues": 6,
+    "issuesClosed": 0,
+    "reviews": 82,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 31,
+    "commitAdditions": 182,
+    "commitDeletions": 10,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 6
+  },
+  "period": {
+    "weekly": {
+      "prs": 26,
+      "issues": 6,
+      "reviews": 52,
+      "comments": 30,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 36,
+      "issues": 6,
+      "reviews": 82,
+      "comments": 31,
+      "commitAdditions": 182,
+      "commitDeletions": 10,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-02T15:05:53Z",
+  "lastContribution": "2026-03-10T21:50:19Z",
+  "recentPRs": [
+    {
+      "number": 42526,
+      "title": "feat(voice-call): sentence-level LLM-to-TTS pipelining",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T21:50:19Z",
+      "mergedAt": null,
+      "additions": 1729,
+      "deletions": 133,
+      "changedFiles": 19
+    },
+    {
+      "number": 42525,
+      "title": "feat(voice-call): stream TTS per-chunk to reduce playback latency",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T21:49:44Z",
+      "mergedAt": null,
+      "additions": 1105,
+      "deletions": 14,
+      "changedFiles": 11
+    },
+    {
+      "number": 42524,
+      "title": "feat(sessions): directory-per-session store",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T21:49:43Z",
+      "mergedAt": null,
+      "additions": 1193,
+      "deletions": 64,
+      "changedFiles": 3
+    },
+    {
+      "number": 42523,
+      "title": "feat(telegram): persist inbound webhooks to survive restarts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T21:49:21Z",
+      "mergedAt": null,
+      "additions": 676,
+      "deletions": 33,
+      "changedFiles": 8
+    },
+    {
+      "number": 42522,
+      "title": "feat: auto-inject shared bootstrap files into all agents",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T21:49:20Z",
+      "mergedAt": null,
+      "additions": 416,
+      "deletions": 7,
+      "changedFiles": 7
+    },
+    {
+      "number": 42521,
+      "title": "fix(restart): drain active work before gateway restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T21:49:17Z",
+      "mergedAt": null,
+      "additions": 133,
+      "deletions": 16,
+      "changedFiles": 4
+    },
+    {
+      "number": 42520,
+      "title": "fix(compaction): emergency fallback when summarization fails",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T21:49:09Z",
+      "mergedAt": null,
+      "additions": 409,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 42519,
+      "title": "fix(memory): follow symlinks in memory indexer, reader, and watcher",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T21:49:07Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 35,
+      "changedFiles": 8
+    },
+    {
+      "number": 42517,
+      "title": "fix(voice-call): add configurable responseAgentId",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T21:49:00Z",
+      "mergedAt": null,
+      "additions": 133,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 42516,
+      "title": "fix(telegram): answer callbacks before sequentialize",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T21:48:48Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 17,
+      "changedFiles": 4
+    },
+    {
+      "number": 42187,
+      "title": "feat(voice-call): stream TTS to reduce voice latency",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T13:34:19Z",
+      "mergedAt": null,
+      "additions": 1514,
+      "deletions": 133,
+      "changedFiles": 17
+    },
+    {
+      "number": 42186,
+      "title": "feat(sessions): directory-per-session store",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T13:33:56Z",
+      "mergedAt": null,
+      "additions": 1186,
+      "deletions": 64,
+      "changedFiles": 3
+    },
+    {
+      "number": 42185,
+      "title": "feat(telegram): persist inbound webhooks to survive restarts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T13:33:34Z",
+      "mergedAt": null,
+      "additions": 587,
+      "deletions": 33,
+      "changedFiles": 8
+    },
+    {
+      "number": 42184,
+      "title": "feat: auto-inject shared bootstrap files",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T13:33:31Z",
+      "mergedAt": null,
+      "additions": 329,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 42183,
+      "title": "fix: chunk all Telegram text-only send paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T13:33:29Z",
+      "mergedAt": null,
+      "additions": 204,
+      "deletions": 14,
+      "changedFiles": 4
+    },
+    {
+      "number": 42182,
+      "title": "fix: emergency fallback when compaction summarization fails",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T13:33:26Z",
+      "mergedAt": null,
+      "additions": 339,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 42181,
+      "title": "fix(telegram): answer callbacks before sequentialize",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T13:33:15Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 17,
+      "changedFiles": 4
+    },
+    {
+      "number": 42180,
+      "title": "fix(restart): drain active work before gateway restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T13:33:03Z",
+      "mergedAt": null,
+      "additions": 114,
+      "deletions": 14,
+      "changedFiles": 4
+    },
+    {
+      "number": 42179,
+      "title": "fix(voice-call): add configurable responseAgentId",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T13:32:53Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 42129,
+      "title": "feat(voice-call): configurable responseAgentId",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T12:29:40Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42160,
+      "title": "Session store monolithic JSON with global lock causes cross-session contention",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T13:06:32Z",
+      "closedAt": null
+    },
+    {
+      "number": 42159,
+      "title": "voice-call TTS latency: entire response synthesized before streaming to Twilio",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T13:06:31Z",
+      "closedAt": null
+    },
+    {
+      "number": 42158,
+      "title": "Compaction summarization failure creates stuck-session retry loop",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T13:06:30Z",
+      "closedAt": null
+    },
+    {
+      "number": 42157,
+      "title": "Inbound Telegram webhook payloads lost on gateway restart",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T13:06:28Z",
+      "closedAt": null
+    },
+    {
+      "number": 42156,
+      "title": "Telegram callback queries time out when agent turn is queued behind sequentialize",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T13:06:27Z",
+      "closedAt": null
+    },
+    {
+      "number": 42155,
+      "title": "voice-call plugin uses main agent workspace for all response generation",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T13:06:25Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 42187,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:44:58Z"
+    },
+    {
+      "prNumber": 42179,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:09:11Z"
+    },
+    {
+      "prNumber": 42180,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:09:09Z"
+    },
+    {
+      "prNumber": 42180,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:09:07Z"
+    },
+    {
+      "prNumber": 42180,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:09:05Z"
+    },
+    {
+      "prNumber": 42181,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:09:03Z"
+    },
+    {
+      "prNumber": 42182,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:09:02Z"
+    },
+    {
+      "prNumber": 42183,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:09:00Z"
+    },
+    {
+      "prNumber": 42183,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:58Z"
+    },
+    {
+      "prNumber": 42183,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:56Z"
+    },
+    {
+      "prNumber": 42183,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:54Z"
+    },
+    {
+      "prNumber": 42184,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:52Z"
+    },
+    {
+      "prNumber": 42184,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:50Z"
+    },
+    {
+      "prNumber": 42184,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:48Z"
+    },
+    {
+      "prNumber": 42184,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:47Z"
+    },
+    {
+      "prNumber": 42184,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:45Z"
+    },
+    {
+      "prNumber": 42185,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:43Z"
+    },
+    {
+      "prNumber": 42185,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:41Z"
+    },
+    {
+      "prNumber": 42185,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:38Z"
+    },
+    {
+      "prNumber": 42185,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:08:37Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "review-guru",
+      "label": "Review Guru",
+      "description": "50+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-02": 1,
+    "2026-02-13": 1
+  },
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 20,
+      "issues": 6,
+      "reviews": 20
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "username": "RealKai42",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44634134?v=4",
+  "githubUrl": "https://github.com/RealKai42",
+  "score": {
+    "score": 891.21,
+    "prScore": 873.21,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 18
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 3,
+    "prs": 100,
+    "prsMerged": 3,
+    "prAdditions": 19122,
+    "prDeletions": 1773,
+    "prChangedFiles": 799,
+    "prMergeRate": 3,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 36,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 62,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 27,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 100,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 36,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T07:40:38Z",
+  "lastContribution": "2026-03-06T04:00:11Z",
+  "recentPRs": [
+    {
+      "number": 37143,
+      "title": "fix: resolve relative MEDIA paths against allowed roots",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T04:00:11Z",
+      "mergedAt": null,
+      "additions": 406,
+      "deletions": 1,
+      "changedFiles": 8
+    },
+    {
+      "number": 37124,
+      "title": "fix: trigger session-memory hook on session delete",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:48:07Z",
+      "mergedAt": null,
+      "additions": 393,
+      "deletions": 11,
+      "changedFiles": 9
+    },
+    {
+      "number": 37110,
+      "title": "fix: add Matrix, MS Teams, WhatsApp, and Feishu to MARKDOWN_CAPABLE_CHANNELS",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:36:22Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 37105,
+      "title": "fix(agents): honor user-configured effort param for Anthropic adaptive thinking",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:31:10Z",
+      "mergedAt": null,
+      "additions": 354,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 37090,
+      "title": "fix(tts): add Matrix to VOICE_BUBBLE_CHANNELS for native voice bubbles",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:20:37Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 2,
+      "changedFiles": 5
+    },
+    {
+      "number": 36989,
+      "title": "Plugins: follow symlinks in extension directory scanning (#36754)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T01:51:01Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 36977,
+      "title": "Telegram: suppress NO_REPLY partial fragments from reaching draft stream (#36811)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T01:36:15Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 36972,
+      "title": "fix(discord): pass appliedTags through channel-edit and editChannelDiscord",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T01:29:43Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 36951,
+      "title": "fix(config): support bracket notation in parseConfigPath for period-containing keys",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T01:08:50Z",
+      "mergedAt": null,
+      "additions": 146,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 36553,
+      "title": "fix(config): use per-item djb2 hash in schema cache key to prevent RangeError (#36508)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T18:12:22Z",
+      "mergedAt": null,
+      "additions": 124,
+      "deletions": 19,
+      "changedFiles": 8
+    },
+    {
+      "number": 36522,
+      "title": "fix(telegram): add setStatus health monitoring to track lastEventAt/lastInboundAt",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T17:49:52Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 0,
+      "changedFiles": 6
+    },
+    {
+      "number": 36487,
+      "title": "fix(mattermost): use scoped plugin-sdk imports (#19957 regression)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T17:12:53Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36484,
+      "title": "fix(slack): propagate mediaLocalRoots through send action path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T17:11:46Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 36476,
+      "title": "fix(feishu): accept 'allowall' as alias for 'open' in groupPolicy",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T17:02:12Z",
+      "mergedAt": null,
+      "additions": 506,
+      "deletions": 40,
+      "changedFiles": 26
+    },
+    {
+      "number": 36471,
+      "title": "fix(cron): write jobs.json, .bak and runs/*.jsonl with 0600 permissions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T16:55:38Z",
+      "mergedAt": null,
+      "additions": 521,
+      "deletions": 43,
+      "changedFiles": 27
+    },
+    {
+      "number": 36470,
+      "title": "fix(feishu): set 30s HTTP timeout on Lark SDK to prevent chat-queue deadlock",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T16:51:11Z",
+      "mergedAt": null,
+      "additions": 474,
+      "deletions": 39,
+      "changedFiles": 24
+    },
+    {
+      "number": 36446,
+      "title": "fix(gateway): create missing transcript on chat.inject instead of hard-failing (#36170)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T16:37:09Z",
+      "mergedAt": null,
+      "additions": 471,
+      "deletions": 39,
+      "changedFiles": 23
+    },
+    {
+      "number": 36444,
+      "title": "fix(hooks): propagate session key through outbound context so message:sent fires for direct agent responses (#35557)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T16:35:02Z",
+      "mergedAt": null,
+      "additions": 467,
+      "deletions": 38,
+      "changedFiles": 22
+    },
+    {
+      "number": 36434,
+      "title": "fix(whatsapp): surface actionable allowFrom policy error instead of misleading format hint (#35580)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T16:26:05Z",
+      "mergedAt": null,
+      "additions": 438,
+      "deletions": 37,
+      "changedFiles": 18
+    },
+    {
+      "number": 36427,
+      "title": "fix(gateway): restore loopback-bound pairing bypass for Docker deployments (#35763)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T16:23:37Z",
+      "mergedAt": null,
+      "additions": 419,
+      "deletions": 36,
+      "changedFiles": 16
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "pr-legend",
+      "label": "PR Legend",
+      "description": "100+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

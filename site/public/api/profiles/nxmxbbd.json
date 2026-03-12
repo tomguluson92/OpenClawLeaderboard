@@ -1,0 +1,134 @@
+{
+  "username": "nxmxbbd",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32288?v=4",
+  "githubUrl": "https://github.com/nxmxbbd",
+  "score": {
+    "score": 33.4,
+    "prScore": 12.4,
+    "issueScore": 18,
+    "reviewScore": 3,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 88,
+    "prDeletions": 1,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T09:57:51Z",
+  "lastContribution": "2026-03-10T11:33:28Z",
+  "recentPRs": [
+    {
+      "number": 42042,
+      "title": "fix(memory): add watcher error handling and non-zero default intervalMinutes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T10:28:36Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 1,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40088,
+      "title": "memory_search: chokidar file watcher silently stops delivering events, index goes stale",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T17:06:37Z",
+      "closedAt": "2026-03-10T12:48:46Z"
+    },
+    {
+      "number": 36659,
+      "title": "feat: configurable retry policy for WhatsApp outbound message sends",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T20:12:25Z",
+      "closedAt": null
+    },
+    {
+      "number": 32868,
+      "title": "Block streaming: block replies not delivered before tool execution (same-channel)",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T09:57:51Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 42042,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T11:33:28Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

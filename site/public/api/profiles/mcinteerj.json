@@ -1,0 +1,105 @@
+{
+  "username": "mcinteerj",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3613653?v=4",
+  "githubUrl": "https://github.com/mcinteerj",
+  "score": {
+    "score": 285.41,
+    "prScore": 283.91,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 30,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 14,
+    "prDeletions": 20,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 2163,
+    "commitDeletions": 766,
+    "weeklyCommits": 0,
+    "monthlyCommits": 2,
+    "commitChangedFiles": 88
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 498,
+      "commitDeletions": 43,
+      "commits": 6
+    }
+  },
+  "firstContribution": "2026-03-07T09:11:39Z",
+  "lastContribution": "2026-03-07T20:53:57Z",
+  "recentPRs": [
+    {
+      "number": 39171,
+      "title": "fix: patch missing long dep in baileys rc.9 via pnpm.packageExtensions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T20:48:28Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 10,
+      "changedFiles": 2
+    },
+    {
+      "number": 38711,
+      "title": "fix: re-add long dep removed in #22481 (breaks baileys rc.9 at runtime)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T09:11:39Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 10,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-15": 1,
+    "2026-02-14": 1,
+    "2026-02-12": 4,
+    "2026-02-10": 1,
+    "2026-02-07": 1,
+    "2026-02-06": 1,
+    "2026-01-15": 1,
+    "2026-01-12": 1
+  },
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

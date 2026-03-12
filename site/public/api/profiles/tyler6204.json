@@ -1,0 +1,174 @@
+{
+  "username": "tyler6204",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64381258?v=4",
+  "githubUrl": "https://github.com/tyler6204",
+  "score": {
+    "score": 756.92,
+    "prScore": 727.92,
+    "issueScore": 16,
+    "reviewScore": 0,
+    "commentScore": 13
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 107,
+    "prs": 3,
+    "prsMerged": 3,
+    "prAdditions": 4632,
+    "prDeletions": 964,
+    "prChangedFiles": 53,
+    "prMergeRate": 100,
+    "issues": 2,
+    "issuesClosed": 2,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 26,
+    "commitAdditions": 39285,
+    "commitDeletions": 7240,
+    "weeklyCommits": 1,
+    "monthlyCommits": 23,
+    "commitChangedFiles": 952
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 20,
+      "commitAdditions": 4632,
+      "commitDeletions": 964,
+      "commits": 3
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 26,
+      "commitAdditions": 17460,
+      "commitDeletions": 3489,
+      "commits": 20
+    }
+  },
+  "firstContribution": "2026-03-02T05:37:58Z",
+  "lastContribution": "2026-03-08T19:40:02Z",
+  "recentPRs": [
+    {
+      "number": 40204,
+      "title": "fix(cron): consolidate announce delivery, fire-and-forget trigger, and minimal prompt mode",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T19:40:02Z",
+      "mergedAt": "2026-03-08T21:46:34Z",
+      "additions": 534,
+      "deletions": 88,
+      "changedFiles": 16
+    },
+    {
+      "number": 39089,
+      "title": "fix(cron): eliminate double-announce and replace delivery polling with push-based flow",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T18:31:24Z",
+      "mergedAt": "2026-03-07T20:13:37Z",
+      "additions": 620,
+      "deletions": 33,
+      "changedFiles": 5
+    },
+    {
+      "number": 35080,
+      "title": "fix(subagents): deterministic announce delivery with descendant gating",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T00:05:30Z",
+      "mergedAt": "2026-03-06T03:20:24Z",
+      "additions": 3478,
+      "deletions": 843,
+      "changedFiles": 32
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40192,
+      "title": "fix(cron): manual cron run trigger should be fire-and-forget",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T19:24:09Z",
+      "closedAt": "2026-03-08T21:46:35Z"
+    },
+    {
+      "number": 40178,
+      "title": "fix(cron): announce delivery + wake event cause double message delivery",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T19:07:24Z",
+      "closedAt": "2026-03-08T21:46:34Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "centurion",
+      "label": "Centurion",
+      "description": "100+ commits"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-08": 1,
+    "2026-03-07": 1,
+    "2026-03-06": 1,
+    "2026-03-02": 2,
+    "2026-02-20": 3,
+    "2026-02-19": 1,
+    "2026-02-17": 6,
+    "2026-02-15": 4,
+    "2026-02-14": 1,
+    "2026-02-09": 2,
+    "2026-02-08": 6,
+    "2026-02-07": 2,
+    "2026-02-06": 1,
+    "2026-02-05": 1,
+    "2026-02-04": 16,
+    "2026-02-02": 4,
+    "2026-02-01": 2,
+    "2026-01-30": 3,
+    "2026-01-29": 1,
+    "2026-01-28": 1,
+    "2026-01-26": 6,
+    "2026-01-25": 7,
+    "2026-01-24": 1,
+    "2026-01-21": 3,
+    "2026-01-20": 22,
+    "2026-01-18": 4,
+    "2026-01-17": 2,
+    "2026-01-16": 3
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

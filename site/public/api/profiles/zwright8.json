@@ -1,0 +1,299 @@
+{
+  "username": "zwright8",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24713584?u=3a7279886b54e98c1e59f56e0ce30a81e77516f3&v=4",
+  "githubUrl": "https://github.com/zwright8",
+  "score": {
+    "score": 264.07,
+    "prScore": 262.57,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 21,
+    "prsMerged": 0,
+    "prAdditions": 1962,
+    "prDeletions": 256,
+    "prChangedFiles": 61,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 21,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T04:50:34Z",
+  "lastContribution": "2026-03-03T09:54:29Z",
+  "recentPRs": [
+    {
+      "number": 32827,
+      "title": "UI: allow saving tool toggles for default agent on fresh installs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T09:13:06Z",
+      "mergedAt": null,
+      "additions": 184,
+      "deletions": 113,
+      "changedFiles": 3
+    },
+    {
+      "number": 32800,
+      "title": "Discord: accept inline /acp action args via autocomplete",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:45:09Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 32787,
+      "title": "Outbound: support text-only channel adapters without sendMedia",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:40:46Z",
+      "mergedAt": null,
+      "additions": 142,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 32782,
+      "title": "Nextcloud Talk: fix runtime src import leak for abort-signal",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:35:15Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 32780,
+      "title": "Plugins: fix keyed-async-queue subpath alias for Matrix runtime",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:32:33Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 32733,
+      "title": "Plugins: harden core-src import failures and dist fallback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T07:55:10Z",
+      "mergedAt": null,
+      "additions": 239,
+      "deletions": 5,
+      "changedFiles": 7
+    },
+    {
+      "number": 32720,
+      "title": "Nextcloud Talk: avoid core src import in plugin runtime",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T07:40:29Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 32719,
+      "title": "Gateway: run plugin HTTP handlers before canvas host",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T07:40:27Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 18,
+      "changedFiles": 2
+    },
+    {
+      "number": 32718,
+      "title": "Slack: print app manifest JSON outside note framing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T07:40:25Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 32717,
+      "title": "Matrix: forward audioAsVoice in message action send path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T07:40:23Z",
+      "mergedAt": null,
+      "additions": 125,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 32716,
+      "title": "Models: preserve explicit Moonshot baseUrl in implicit providers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T07:40:21Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 32577,
+      "title": "Tests: isolate workspace skill prompt fixtures from bundled skills",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T04:59:46Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 32575,
+      "title": "Gateway: refresh service env after update.run",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T04:59:14Z",
+      "mergedAt": null,
+      "additions": 147,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 32574,
+      "title": "Gateway: allow webchat session label updates",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:58:50Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 32573,
+      "title": "Typing: stabilize keepalive and suppress silent-run indicator",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:58:13Z",
+      "mergedAt": null,
+      "additions": 83,
+      "deletions": 5,
+      "changedFiles": 5
+    },
+    {
+      "number": 32570,
+      "title": "Slack: honor SLACK_USER_TOKEN in account resolution and audit",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:57:04Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 32564,
+      "title": "Plugins: suppress duplicate id warnings for same source paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:53:30Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 32561,
+      "title": "Status: cap cached percentage for stale totals",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:52:21Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 32560,
+      "title": "Daemon/Usage: normalize token values and clamp invalid counters",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:51:52Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 32559,
+      "title": "Reply: honor per-model context token overrides",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T04:51:11Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 5,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

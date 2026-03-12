@@ -1,0 +1,453 @@
+{
+  "username": "ademczuk",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5212682?v=4",
+  "githubUrl": "https://github.com/ademczuk",
+  "score": {
+    "score": 948.34,
+    "prScore": 556.34,
+    "issueScore": 0,
+    "reviewScore": 336,
+    "commentScore": 56
+  },
+  "tier": "veteran",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 7,
+    "prs": 41,
+    "prsMerged": 7,
+    "prAdditions": 6881,
+    "prDeletions": 1494986,
+    "prChangedFiles": 8229,
+    "prMergeRate": 17,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 112,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 112,
+    "commitAdditions": 876,
+    "commitDeletions": 53,
+    "weeklyCommits": 4,
+    "monthlyCommits": 14,
+    "commitChangedFiles": 35
+  },
+  "period": {
+    "weekly": {
+      "prs": 36,
+      "issues": 0,
+      "reviews": 105,
+      "comments": 100,
+      "commitAdditions": 352,
+      "commitDeletions": 14,
+      "commits": 4
+    },
+    "monthly": {
+      "prs": 41,
+      "issues": 0,
+      "reviews": 112,
+      "comments": 112,
+      "commitAdditions": 876,
+      "commitDeletions": 53,
+      "commits": 7
+    }
+  },
+  "firstContribution": "2026-03-02T09:39:04Z",
+  "lastContribution": "2026-03-12T02:02:37Z",
+  "recentPRs": [
+    {
+      "number": 43502,
+      "title": "fix(feishu): clear stale streamingStartPromise on card creation failure",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T22:25:13Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 43478,
+      "title": "fix(gateway): skip device pairing when auth.mode=none",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T21:16:11Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43450,
+      "title": "fix(auth): clear stale lockout state when user re-authenticates",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T20:31:00Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 43122,
+      "title": "fix(auth): clear stale expiry display for auto-renewable OAuth profiles",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T11:06:30Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 5,
+      "changedFiles": 4
+    },
+    {
+      "number": 42934,
+      "title": "fix(agents): include azure-openai in Responses API store override",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T07:18:30Z",
+      "mergedAt": "2026-03-11T08:16:10Z",
+      "additions": 16,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 42318,
+      "title": "fix(outbound): skip unconfigured channel providers during contact name resolution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T16:05:15Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 24,
+      "changedFiles": 6
+    },
+    {
+      "number": 41476,
+      "title": "build(protocol): regenerate Swift models after pending node work schemas",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T22:07:36Z",
+      "mergedAt": null,
+      "additions": 192,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40724,
+      "title": "fix(update): surface EBUSY recovery hint when gateway locks install dir on Windows",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T07:18:07Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 40409,
+      "title": "fix(agents): check billing errors before context overflow heuristics",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T00:53:05Z",
+      "mergedAt": "2026-03-11T18:08:56Z",
+      "additions": 101,
+      "deletions": 7,
+      "changedFiles": 5
+    },
+    {
+      "number": 40395,
+      "title": "fix(discord): log dropped bot messages at debug level with config hint",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T00:29:51Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 40391,
+      "title": "fix(discord): graceful fallback when ffprobe is not installed",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T00:26:04Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 40341,
+      "title": "fix(imessage): stop sending <media:image> placeholder as visible text",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T23:08:22Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 11,
+      "changedFiles": 3
+    },
+    {
+      "number": 40339,
+      "title": "fix(tui): improve colour contrast for light-background terminals",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T23:05:53Z",
+      "mergedAt": null,
+      "additions": 381,
+      "deletions": 5,
+      "changedFiles": 6
+    },
+    {
+      "number": 40338,
+      "title": "fix(agents): show env var hint when provider API key is missing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T23:05:38Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 13,
+      "changedFiles": 4
+    },
+    {
+      "number": 39312,
+      "title": "fix(daemon): extract schtasks result code across Windows versions and locales",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T00:58:41Z",
+      "mergedAt": null,
+      "additions": 124,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 39230,
+      "title": "fix(gateway): detect provider reference object in password auth config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T22:16:08Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 39226,
+      "title": "fix(voice-call): add speed and instructions to OpenAI TTS config schema",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T22:04:37Z",
+      "mergedAt": "2026-03-11T17:45:48Z",
+      "additions": 209,
+      "deletions": 4,
+      "changedFiles": 11
+    },
+    {
+      "number": 39219,
+      "title": "fix(agents): strip store param from payload when supportsStore is false",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:57:00Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 39215,
+      "title": "fix(agents): warn on unrecognised model ID instead of silently falling back",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:48:36Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 39201,
+      "title": "fix(ci): resolve pre-existing type errors on main",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:33:50Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 8,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43478,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T21:37:57Z"
+    },
+    {
+      "prNumber": 43478,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T21:37:53Z"
+    },
+    {
+      "prNumber": 43450,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T20:55:29Z"
+    },
+    {
+      "prNumber": 43450,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T20:55:24Z"
+    },
+    {
+      "prNumber": 43450,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T20:55:20Z"
+    },
+    {
+      "prNumber": 43093,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T11:33:43Z"
+    },
+    {
+      "prNumber": 43091,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T11:33:02Z"
+    },
+    {
+      "prNumber": 43115,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T11:32:00Z"
+    },
+    {
+      "prNumber": 43118,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T11:29:56Z"
+    },
+    {
+      "prNumber": 43109,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T11:29:37Z"
+    },
+    {
+      "prNumber": 42318,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T07:05:35Z"
+    },
+    {
+      "prNumber": 42318,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T07:05:29Z"
+    },
+    {
+      "prNumber": 40409,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T12:22:04Z"
+    },
+    {
+      "prNumber": 40409,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T12:14:15Z"
+    },
+    {
+      "prNumber": 40395,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T11:53:39Z"
+    },
+    {
+      "prNumber": 40391,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T11:53:28Z"
+    },
+    {
+      "prNumber": 40409,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T11:52:55Z"
+    },
+    {
+      "prNumber": 40391,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T11:50:22Z"
+    },
+    {
+      "prNumber": 40391,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T11:50:10Z"
+    },
+    {
+      "prNumber": 40391,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T11:49:58Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "review-guru",
+      "label": "Review Guru",
+      "description": "50+ reviews"
+    },
+    {
+      "id": "review-legend",
+      "label": "Review Legend",
+      "description": "100+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-11": 3,
+    "2026-03-07": 1,
+    "2026-03-03": 2,
+    "2026-03-02": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 12
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-08": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "username": "xushen-ma",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7592184?u=b95400583ec061ce893bec7f45e0e617af2e768f&v=4",
+  "githubUrl": "https://github.com/xushen-ma",
+  "score": {
+    "score": 148.46,
+    "prScore": 128.96,
+    "issueScore": 0,
+    "reviewScore": 18,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 1671,
+    "prDeletions": 131,
+    "prChangedFiles": 48,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T07:46:25Z",
+  "lastContribution": "2026-03-11T21:06:45Z",
+  "recentPRs": [
+    {
+      "number": 43470,
+      "title": "feat(matrix): wire Atelier P2-M4a runtime hook via trigger helper",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T21:06:45Z",
+      "mergedAt": null,
+      "additions": 1215,
+      "deletions": 92,
+      "changedFiles": 19
+    },
+    {
+      "number": 37329,
+      "title": "feat(daemon/macos): add `gateway restart --fast` using kickstart for non-destructive restarts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T07:00:13Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 23,
+      "changedFiles": 9
+    },
+    {
+      "number": 34133,
+      "title": "feat: add smart reset flow",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T07:46:25Z",
+      "mergedAt": null,
+      "additions": 340,
+      "deletions": 16,
+      "changedFiles": 20
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 34133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T13:25:44Z"
+    },
+    {
+      "prNumber": 34133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T13:25:42Z"
+    },
+    {
+      "prNumber": 34133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T13:25:40Z"
+    },
+    {
+      "prNumber": 34133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T13:25:39Z"
+    },
+    {
+      "prNumber": 34133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T09:09:13Z"
+    },
+    {
+      "prNumber": 34133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T08:49:48Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 6
+    }
+  }
+}

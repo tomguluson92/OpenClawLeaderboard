@@ -1,0 +1,173 @@
+{
+  "username": "Matthew19990919",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/97017241?v=4",
+  "githubUrl": "https://github.com/Matthew19990919",
+  "score": {
+    "score": 76.12,
+    "prScore": 68.12,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 51,
+    "prDeletions": 37,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T14:27:47Z",
+  "lastContribution": "2026-03-06T03:59:40Z",
+  "recentPRs": [
+    {
+      "number": 37093,
+      "title": "fix(context): remove timestamp from conversation metadata for prompt cache",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T03:21:40Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 23,
+      "changedFiles": 1
+    },
+    {
+      "number": 37080,
+      "title": "fix(tts): add matrix to VOICE_BUBBLE_CHANNELS",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T03:06:45Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 36330,
+      "title": "fix(telegram): explicitly set table mode to 'code' in DEFAULT_TABLE_MODES",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T15:13:08Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 36315,
+      "title": "fix(daemon): patch OPENCLAW_SERVICE_VERSION in gateway.cmd on Windows restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T15:06:03Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 36304,
+      "title": "fix(skill-creator): expand description to cover edit/refactor tasks",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T15:01:54Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 36294,
+      "title": "fix(models): recognize gemini-3.1 series for google provider in fallback routing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T14:51:40Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 36291,
+      "title": "fix(cron): create cron dirs with 0700 and files with 0600 permissions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T14:50:45Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 36257,
+      "title": "fix(chat): create transcript file in chat.inject when missing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T14:27:47Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 36315,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T18:12:04Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

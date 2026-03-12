@@ -1,0 +1,96 @@
+{
+  "username": "Supsumintong",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/222129727?v=4",
+  "githubUrl": "https://github.com/Supsumintong",
+  "score": {
+    "score": 24.84,
+    "prScore": 24.84,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 67,
+    "prDeletions": 2,
+    "prChangedFiles": 4,
+    "prMergeRate": 50,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 7,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 7,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-03T02:03:06Z",
+  "lastContribution": "2026-03-03T02:34:50Z",
+  "recentPRs": [
+    {
+      "number": 32437,
+      "title": "fix(ui): add chat stream timeout guard for Control UI (#32400)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T02:34:50Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 32411,
+      "title": "fix(docker): correct awk quoting in Docker GPG fingerprint check (#32153)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T02:03:06Z",
+      "mergedAt": "2026-03-03T02:32:46Z",
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-03": 1
+  },
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

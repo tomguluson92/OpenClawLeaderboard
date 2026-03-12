@@ -1,0 +1,457 @@
+{
+  "username": "liuxiaopai-ai",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73659136?v=4",
+  "githubUrl": "https://github.com/liuxiaopai-ai",
+  "score": {
+    "score": 2158.13,
+    "prScore": 2054.13,
+    "issueScore": 5,
+    "reviewScore": 78,
+    "commentScore": 21
+  },
+  "tier": "elite",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 30,
+    "prs": 242,
+    "prsMerged": 20,
+    "prAdditions": 20210,
+    "prDeletions": 2004,
+    "prChangedFiles": 1067,
+    "prMergeRate": 8,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 26,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 42,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 77,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 242,
+      "issues": 1,
+      "reviews": 26,
+      "comments": 42,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-01T17:47:37Z",
+  "lastContribution": "2026-03-06T09:01:48Z",
+  "recentPRs": [
+    {
+      "number": 37417,
+      "title": "Memory: honor explicit QMD embed interval in search mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T07:35:45Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 37414,
+      "title": "Logging: rotate rolling file writes at midnight",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T07:27:36Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 37387,
+      "title": "Telegram: drop empty text chunks before send",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T07:22:00Z",
+      "mergedAt": null,
+      "additions": 106,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 37328,
+      "title": "CLI: keep --json stdout machine-readable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:59:43Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 37319,
+      "title": "Cron/CLI: guard malformed cron list and run jobs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:51:48Z",
+      "mergedAt": null,
+      "additions": 96,
+      "deletions": 28,
+      "changedFiles": 8
+    },
+    {
+      "number": 37298,
+      "title": "fix(tts): enable Matrix voice-bubble replies",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:33:12Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 37286,
+      "title": "Telegram: skip empty text replies before send",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:22:57Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 13,
+      "changedFiles": 3
+    },
+    {
+      "number": 37277,
+      "title": "Tools: align Brave search_lang validation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:11:10Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 7,
+      "changedFiles": 4
+    },
+    {
+      "number": 37259,
+      "title": "Config: refresh runtime snapshot after writes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:04:01Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 37248,
+      "title": "Sessions: preserve sessionKey in reset archives",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T05:48:38Z",
+      "mergedAt": null,
+      "additions": 96,
+      "deletions": 3,
+      "changedFiles": 6
+    },
+    {
+      "number": 37245,
+      "title": "fix(reply): keep reminder guard notes internal",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T05:39:39Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 32,
+      "changedFiles": 4
+    },
+    {
+      "number": 37240,
+      "title": "fix(agents): recover OpenAI WS mid-request failures",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T05:33:16Z",
+      "mergedAt": null,
+      "additions": 293,
+      "deletions": 74,
+      "changedFiles": 3
+    },
+    {
+      "number": 37229,
+      "title": "fix(telegram): materialize dm draft finals directly",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T05:21:03Z",
+      "mergedAt": null,
+      "additions": 70,
+      "deletions": 19,
+      "changedFiles": 6
+    },
+    {
+      "number": 37219,
+      "title": "fix(agents): clean google-generative-ai tool schemas",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T05:14:56Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 36405,
+      "title": "fix(cli): stop browser service after local agent runs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T16:09:37Z",
+      "mergedAt": null,
+      "additions": 913,
+      "deletions": 43,
+      "changedFiles": 49
+    },
+    {
+      "number": 36391,
+      "title": "fix(feishu): use probed botName for group mention checks",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T15:58:38Z",
+      "mergedAt": "2026-03-05T16:55:04Z",
+      "additions": 87,
+      "deletions": 18,
+      "changedFiles": 7
+    },
+    {
+      "number": 36373,
+      "title": "fix(gateway): normalize hook transform model overrides",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T15:44:02Z",
+      "mergedAt": null,
+      "additions": 93,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 36364,
+      "title": "fix(models): honor explicit kimi-coding baseUrl in merge mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T15:34:25Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 36355,
+      "title": "fix(feishu): normalize legacy groupPolicy allowall to open",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T15:28:08Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 36338,
+      "title": "fix(gateway): suppress hook fallback summary when deliver=false",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T15:19:47Z",
+      "mergedAt": null,
+      "additions": 139,
+      "deletions": 1,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 33445,
+      "title": "Slack native slash parity: /config dispatch and /debug discoverability",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T20:12:11Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 32862,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T20:20:45Z"
+    },
+    {
+      "prNumber": 32862,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T20:19:01Z"
+    },
+    {
+      "prNumber": 32696,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T20:19:00Z"
+    },
+    {
+      "prNumber": 32880,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T20:17:41Z"
+    },
+    {
+      "prNumber": 32862,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T20:17:41Z"
+    },
+    {
+      "prNumber": 32862,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T20:17:41Z"
+    },
+    {
+      "prNumber": 32722,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:58:28Z"
+    },
+    {
+      "prNumber": 32737,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:55:00Z"
+    },
+    {
+      "prNumber": 32731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:52:39Z"
+    },
+    {
+      "prNumber": 32696,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:51:12Z"
+    },
+    {
+      "prNumber": 32679,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:49:55Z"
+    },
+    {
+      "prNumber": 32722,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:38:19Z"
+    },
+    {
+      "prNumber": 32715,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:34:37Z"
+    },
+    {
+      "prNumber": 32715,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:34:33Z"
+    },
+    {
+      "prNumber": 32696,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:30:22Z"
+    },
+    {
+      "prNumber": 32696,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:30:18Z"
+    },
+    {
+      "prNumber": 32685,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:28:52Z"
+    },
+    {
+      "prNumber": 32679,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:26:10Z"
+    },
+    {
+      "prNumber": 32670,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:24:26Z"
+    },
+    {
+      "prNumber": 32731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:22:37Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "pr-legend",
+      "label": "PR Legend",
+      "description": "100+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 14,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 20
+    }
+  }
+}

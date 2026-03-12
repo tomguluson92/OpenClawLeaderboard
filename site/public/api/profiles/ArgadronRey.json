@@ -1,0 +1,177 @@
+{
+  "username": "ArgadronRey",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/183376875?v=4",
+  "githubUrl": "https://github.com/ArgadronRey",
+  "score": {
+    "score": 85.18,
+    "prScore": 40.68,
+    "issueScore": 15,
+    "reviewScore": 25,
+    "commentScore": 4.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 663,
+    "prDeletions": 42,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 8,
+    "reviewsApproved": 1,
+    "reviewsChangesRequested": 0,
+    "comments": 9,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 7,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 8,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T02:30:51Z",
+  "lastContribution": "2026-03-05T16:11:02Z",
+  "recentPRs": [
+    {
+      "number": 36407,
+      "title": "fix(subagents): raise sessions_spawn gateway timeout budget (replacement for #29468)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T16:11:02Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 36092,
+      "title": "fix(subagents): reconcile missing wait runs after cleanup-before-timeout",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T12:29:36Z",
+      "mergedAt": null,
+      "additions": 326,
+      "deletions": 12,
+      "changedFiles": 5
+    },
+    {
+      "number": 35426,
+      "title": "Harden spawned-session verification fail-open path observability",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T04:23:03Z",
+      "mergedAt": null,
+      "additions": 249,
+      "deletions": 23,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 36082,
+      "title": "Execution Plan: main-agent autonomy/proactivity hardening (silent-stall zero-tolerance)",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T12:25:07Z",
+      "closedAt": null
+    },
+    {
+      "number": 35404,
+      "title": "Hardening follow-up: tighten subagent post-spawn verification fail-open paths",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T04:12:01Z",
+      "closedAt": null
+    },
+    {
+      "number": 35248,
+      "title": "Auto-next chain can commit STARTED without verifiable spawned session, causing phantom-active stall",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T02:30:51Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 36092,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T15:13:40Z"
+    },
+    {
+      "prNumber": 36092,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T15:13:30Z"
+    },
+    {
+      "prNumber": 35426,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T15:12:39Z"
+    },
+    {
+      "prNumber": 35426,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T15:12:27Z"
+    },
+    {
+      "prNumber": 35426,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T13:08:19Z"
+    },
+    {
+      "prNumber": 35426,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T13:08:18Z"
+    },
+    {
+      "prNumber": 35426,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T13:08:12Z"
+    },
+    {
+      "prNumber": 35273,
+      "state": "APPROVED",
+      "createdAt": "2026-03-05T03:15:17Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 8
+    }
+  }
+}

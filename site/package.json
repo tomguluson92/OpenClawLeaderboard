@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "predev": "node -e \"const fs=require('fs');const p=require('path');const src=p.join(__dirname,'..','output');const dst=p.join(__dirname,'public','api');if(!fs.existsSync(dst))fs.mkdirSync(dst,{recursive:true});if(fs.existsSync(src)){fs.readdirSync(src).filter(f=>f.endsWith('.json')).forEach(f=>fs.copyFileSync(p.join(src,f),p.join(dst,f)))}\"",
+    "predev": "node -e \"const fs=require('fs');const p=require('path');const src=p.join(__dirname,'..','output');const dst=p.join(__dirname,'public','api');if(!fs.existsSync(dst))fs.mkdirSync(dst,{recursive:true});if(fs.existsSync(src)){fs.readdirSync(src).filter(f=>f.endsWith('.json')).forEach(f=>fs.copyFileSync(p.join(src,f),p.join(dst,f)));const ps=p.join(src,'profiles');const pd=p.join(dst,'profiles');if(fs.existsSync(ps)){if(!fs.existsSync(pd))fs.mkdirSync(pd,{recursive:true});fs.readdirSync(ps).filter(f=>f.endsWith('.json')).forEach(f=>fs.copyFileSync(p.join(ps,f),p.join(pd,f)))}}\"",
+    "prebuild": "node -e \"const fs=require('fs');const p=require('path');const src=p.join(__dirname,'..','output');const dst=p.join(__dirname,'public','api');if(!fs.existsSync(dst))fs.mkdirSync(dst,{recursive:true});if(fs.existsSync(src)){fs.readdirSync(src).filter(f=>f.endsWith('.json')).forEach(f=>fs.copyFileSync(p.join(src,f),p.join(dst,f)));const ps=p.join(src,'profiles');const pd=p.join(dst,'profiles');if(fs.existsSync(ps)){if(!fs.existsSync(pd))fs.mkdirSync(pd,{recursive:true});fs.readdirSync(ps).filter(f=>f.endsWith('.json')).forEach(f=>fs.copyFileSync(p.join(ps,f),p.join(pd,f)))}}\"",
     "dev": "next dev --port 3456",
     "build": "next build",
     "start": "next start",

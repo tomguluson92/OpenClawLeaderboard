@@ -1,0 +1,104 @@
+{
+  "username": "alaleiwang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1049041?v=4",
+  "githubUrl": "https://github.com/alaleiwang",
+  "score": {
+    "score": 36.89,
+    "prScore": 30.89,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 82,
+    "prDeletions": 26,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T08:18:51Z",
+  "lastContribution": "2026-03-09T09:04:52Z",
+  "recentPRs": [
+    {
+      "number": 40783,
+      "title": "fix(feishu): support union_id fallback for @mention detection in multi-bot groups",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T08:40:43Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 14,
+      "changedFiles": 6
+    },
+    {
+      "number": 40782,
+      "title": "fix(feishu): use union_id as fallback for @mention detection in multi-bot groups",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T08:40:18Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 12,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40768,
+      "title": "Feishu: @mention not recognized in group when multiple bots share the same group (open_id app-scoped mismatch)",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T08:18:51Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "username": "taw0002",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42811278?u=50f619e13dbe9f74094ef28d6bc6f45a0856551e&v=4",
+  "githubUrl": "https://github.com/taw0002",
+  "score": {
+    "score": 145.05,
+    "prScore": 144.55,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 1,
+    "prAdditions": 877,
+    "prDeletions": 19,
+    "prChangedFiles": 27,
+    "prMergeRate": 13,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 136,
+    "commitDeletions": 16,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 14
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 76,
+      "commitDeletions": 2,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 136,
+      "commitDeletions": 16,
+      "commits": 4
+    }
+  },
+  "firstContribution": "2026-03-05T15:06:28Z",
+  "lastContribution": "2026-03-11T14:05:00Z",
+  "recentPRs": [
+    {
+      "number": 43243,
+      "title": "fix: make enqueueCommandInLane abort-aware to prevent stale cron queue entries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T14:05:00Z",
+      "mergedAt": null,
+      "additions": 149,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 39919,
+      "title": "fix: strip thinking/redacted_thinking blocks from non-latest assistant messages for Anthropic",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T14:08:33Z",
+      "mergedAt": null,
+      "additions": 275,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 38041,
+      "title": "fix: include snake_case param aliases in tool mutation fingerprint keys",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T15:33:10Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38028,
+      "title": "feat: enforce minRunTimeoutSeconds floor for sessions_spawn",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T15:26:53Z",
+      "mergedAt": null,
+      "additions": 160,
+      "deletions": 1,
+      "changedFiles": 6
+    },
+    {
+      "number": 37974,
+      "title": "fix: include file_path in tool mutation fingerprint keys",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:12:02Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 37973,
+      "title": "feat: enforce minRunTimeoutSeconds floor for sessions_spawn",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:10:56Z",
+      "mergedAt": null,
+      "additions": 117,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 36319,
+      "title": "fix(skill-creator): broaden description to trigger on edit/refactor tasks (#36039)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T15:08:35Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 36316,
+      "title": "fix: strip skill-injected env vars from ACP harness spawn env (#36280)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T15:06:28Z",
+      "mergedAt": "2026-03-06T23:18:13Z",
+      "additions": 76,
+      "deletions": 2,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-06": 1,
+    "2026-02-26": 1,
+    "2026-02-23": 1,
+    "2026-02-12": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

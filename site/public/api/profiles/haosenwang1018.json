@@ -1,0 +1,272 @@
+{
+  "username": "haosenwang1018",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/167664334?u=6c554e80c380d9bd2427000d62204693bb6c615a&v=4",
+  "githubUrl": "https://github.com/haosenwang1018",
+  "score": {
+    "score": 234.79,
+    "prScore": 234.79,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 17,
+    "prsMerged": 0,
+    "prAdditions": 2155,
+    "prDeletions": 91,
+    "prChangedFiles": 69,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 5,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 17,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 5,
+      "commitDeletions": 0,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-02T11:08:06Z",
+  "lastContribution": "2026-03-03T09:41:07Z",
+  "recentPRs": [
+    {
+      "number": 32848,
+      "title": "fix(gateway): include disk-scanned agent IDs in listConfiguredAgentIds",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T09:41:07Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 17,
+      "changedFiles": 2
+    },
+    {
+      "number": 32819,
+      "title": "Discord: fix chunk delivery order for long messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T09:03:44Z",
+      "mergedAt": null,
+      "additions": 83,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 32805,
+      "title": "session-lock: add regression test for dead-PID stale lock reclamation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T08:53:54Z",
+      "mergedAt": null,
+      "additions": 100,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 32802,
+      "title": "hooks: support { skip: true } in before_agent_start to prevent agent run",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T08:45:35Z",
+      "mergedAt": null,
+      "additions": 446,
+      "deletions": 8,
+      "changedFiles": 13
+    },
+    {
+      "number": 32789,
+      "title": "Skills: enabled: true overrides requires.bins check",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T08:41:57Z",
+      "mergedAt": null,
+      "additions": 369,
+      "deletions": 7,
+      "changedFiles": 9
+    },
+    {
+      "number": 32783,
+      "title": "fix: add Matrix auto-thread-id injection for same-room replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T08:35:45Z",
+      "mergedAt": null,
+      "additions": 129,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 32778,
+      "title": "Agents: gracefully skip compaction when no real conversation messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T08:30:24Z",
+      "mergedAt": null,
+      "additions": 167,
+      "deletions": 6,
+      "changedFiles": 4
+    },
+    {
+      "number": 32773,
+      "title": "fix(outbound): allow channel plugins without sendMedia in createPluginHandler",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:29:08Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 32771,
+      "title": "fix(memory): broaden temporal decay regex to match dates in subdirs and suffixes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T08:27:19Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 32011,
+      "title": "CLI: expose tool deny/sandbox status in agents list",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T17:57:43Z",
+      "mergedAt": null,
+      "additions": 137,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 31990,
+      "title": "fix(gateway): skip gateway auth for LINE webhook routes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T17:49:39Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 3,
+      "changedFiles": 6
+    },
+    {
+      "number": 31982,
+      "title": "fix: forward skill env vars to exec child processes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T17:41:56Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 25,
+      "changedFiles": 9
+    },
+    {
+      "number": 31971,
+      "title": "fix(feishu): guard rate-limit config access against undefined",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T17:29:25Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 6,
+      "changedFiles": 1
+    },
+    {
+      "number": 31968,
+      "title": "fix(telegram): normalize DM topic session key to include chatId",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T17:26:34Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 10,
+      "changedFiles": 3
+    },
+    {
+      "number": 31609,
+      "title": "fix(discord): convert single newlines to paragraph breaks in bot messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T11:09:51Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 31608,
+      "title": "fix(mattermost): use thread root post ID for reply_to_current in threads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T11:09:11Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 31607,
+      "title": "fix(signal): filter out group admin change messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T11:08:06Z",
+      "mergedAt": null,
+      "additions": 200,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-02": 1
+  },
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "username": "charlie-n-hill",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39253519?u=dadf57fa5e57c0c4b27b246c5195ed5eb661c9cc&v=4",
+  "githubUrl": "https://github.com/charlie-n-hill",
+  "score": {
+    "score": 83.8,
+    "prScore": 76.8,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 563,
+    "prDeletions": 5,
+    "prChangedFiles": 33,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-11T15:16:20Z",
+  "lastContribution": "2026-03-11T23:54:50Z",
+  "recentPRs": [
+    {
+      "number": 43459,
+      "title": "feat(session): add session.channelIsolation config option",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T20:46:09Z",
+      "mergedAt": null,
+      "additions": 104,
+      "deletions": 0,
+      "changedFiles": 12
+    },
+    {
+      "number": 43360,
+      "title": "feat(slack): add session.threadIsolation config option",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T16:52:49Z",
+      "mergedAt": null,
+      "additions": 459,
+      "deletions": 5,
+      "changedFiles": 21
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43286,
+      "title": "Add session.threadIsolation: false to allow shared session across Slack threads",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T15:16:20Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

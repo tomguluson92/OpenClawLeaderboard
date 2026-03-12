@@ -1,0 +1,367 @@
+{
+  "username": "Sid-Qin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/201593046?v=4",
+  "githubUrl": "https://github.com/Sid-Qin",
+  "score": {
+    "score": 3963.01,
+    "prScore": 3852.01,
+    "issueScore": 5,
+    "reviewScore": 6,
+    "commentScore": 100
+  },
+  "tier": "elite",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 80,
+    "prs": 459,
+    "prsMerged": 24,
+    "prAdditions": 62414,
+    "prDeletions": 6057,
+    "prChangedFiles": 2250,
+    "prMergeRate": 5,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 366,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 232,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 117,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 459,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 366,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-27T15:03:20Z",
+  "lastContribution": "2026-03-06T17:39:26Z",
+  "recentPRs": [
+    {
+      "number": 38226,
+      "title": "feat(telegram): expose streamThrottleMs config for draft streaming",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:35:37Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 38221,
+      "title": "fix(agents): honor explicit cacheRetention for LiteLLM-proxied Anthropic models",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:32:07Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 38220,
+      "title": "fix(agents): clear mutating tool error when same tool name recovers in same turn",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:29:32Z",
+      "mergedAt": null,
+      "additions": 133,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 38219,
+      "title": "fix(agents): let codex-cli provider reuse openai-codex forward-compat, auth, and xhigh support",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:29:13Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 4,
+      "changedFiles": 6
+    },
+    {
+      "number": 38214,
+      "title": "fix(telegram): suppress bare Reasoning: prefix leak in draft streaming",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:24:40Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38211,
+      "title": "fix(process): use globalThis to deduplicate command-queue lanes Map",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:23:27Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 38210,
+      "title": "fix(gateway): filter delivery-mirror transcript entries from chat.history",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:22:53Z",
+      "mergedAt": null,
+      "additions": 103,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38209,
+      "title": "fix(cron): exclude sandbox from shallow Object.assign in isolated agent config merge",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:20:13Z",
+      "mergedAt": null,
+      "additions": 157,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 38203,
+      "title": "feat(config): support per-agent thinkingDefault configuration",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:10:43Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 38200,
+      "title": "feat(agents): support per-agent thinkingDefault configuration",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:09:39Z",
+      "mergedAt": null,
+      "additions": 124,
+      "deletions": 0,
+      "changedFiles": 9
+    },
+    {
+      "number": 38182,
+      "title": "fix(agents): use per-model maxCompletionTokens from Venice API instead of hardcoded 8192",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:05:56Z",
+      "mergedAt": null,
+      "additions": 105,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 38180,
+      "title": "fix(tools): surface detailed error cause in web_search fetch failures",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:02:13Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 38177,
+      "title": "fix(tools): surface detailed error diagnostics for web_search fetch failures",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:57:12Z",
+      "mergedAt": null,
+      "additions": 123,
+      "deletions": 25,
+      "changedFiles": 2
+    },
+    {
+      "number": 38163,
+      "title": "fix(matrix): allowlist configured homeserver hostname in SSRF guard",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:44:57Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38159,
+      "title": "fix(matrix): add allowPrivateNetwork config for private homeservers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:43:30Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 38157,
+      "title": "fix(agents): add cross-turn dedup cache to prevent duplicate messages after compaction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:41:58Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38154,
+      "title": "fix(sandbox): keep workspaceAccess none workspaces writable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:39:53Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 8,
+      "changedFiles": 6
+    },
+    {
+      "number": 38153,
+      "title": "fix(slack): disable Bolt auto-reconnect to prevent retry storm",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:39:46Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 38149,
+      "title": "fix(cron): use per-attempt abort controller so model fallback chain survives timeout",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:36:39Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 38148,
+      "title": "fix(agents): strip parallel_tool_calls for models that reject it",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:35:32Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 31476,
+      "title": "[Bug]: 3.1 regression \u2014 message tool \"Unknown channel\" + health-monitor false-positive stuck detection",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T08:34:02Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 35301,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T03:19:52Z"
+    },
+    {
+      "prNumber": 35301,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T03:19:44Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "pr-legend",
+      "label": "PR Legend",
+      "description": "100+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

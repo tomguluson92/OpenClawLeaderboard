@@ -1,0 +1,267 @@
+{
+  "username": "aronchick",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51317?u=0e9251cbecc2fd1041879343d32b9f24ba122e11&v=4",
+  "githubUrl": "https://github.com/aronchick",
+  "score": {
+    "score": 193.18,
+    "prScore": 146.68,
+    "issueScore": 40,
+    "reviewScore": 0,
+    "commentScore": 6.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 10,
+    "prsMerged": 0,
+    "prAdditions": 3692,
+    "prDeletions": 115,
+    "prChangedFiles": 31,
+    "prMergeRate": 0,
+    "issues": 8,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 13,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 12,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 10,
+      "issues": 8,
+      "reviews": 0,
+      "comments": 13,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-28T13:16:24Z",
+  "lastContribution": "2026-03-09T17:18:26Z",
+  "recentPRs": [
+    {
+      "number": 41295,
+      "title": "feat(reply): provider-neutral low-thinking hint for simple adaptive turns",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T17:18:26Z",
+      "mergedAt": null,
+      "additions": 170,
+      "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 41207,
+      "title": "feat(workspace): lint and auto-fix code fences in markdown at write time",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T15:47:09Z",
+      "mergedAt": null,
+      "additions": 313,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 41206,
+      "title": "feat(cron): hierarchical job store \u2014 one file per cron job in cron/jobs/ directory",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T15:47:00Z",
+      "mergedAt": null,
+      "additions": 434,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37632,
+      "title": "feat(cron): hierarchical job store \u2014 one file per cron job in cron/jobs/ directory",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T10:24:44Z",
+      "mergedAt": null,
+      "additions": 434,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37628,
+      "title": "feat(workspace): lint and auto-fix code fences in markdown at write time",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T10:21:34Z",
+      "mergedAt": null,
+      "additions": 313,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35460,
+      "title": "feat(reply): provider-neutral low-thinking hint for simple adaptive turns",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:48:17Z",
+      "mergedAt": null,
+      "additions": 170,
+      "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 35433,
+      "title": "fix(workspace-docs): transaction session API, CLI registration, type fixes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T04:27:57Z",
+      "mergedAt": null,
+      "additions": 1149,
+      "deletions": 0,
+      "changedFiles": 6
+    },
+    {
+      "number": 35135,
+      "title": "doctor: detect duplicate openclaw installations",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T01:03:10Z",
+      "mergedAt": null,
+      "additions": 429,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 35114,
+      "title": "fix: validate tailscale/bind compatibility at config-write time",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T00:45:47Z",
+      "mergedAt": null,
+      "additions": 183,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 35105,
+      "title": "fix(gateway): degrade gracefully when Tailscale mode conflicts with bind host",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T00:34:16Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 95,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 37630,
+      "title": "feat(cron): hierarchical job store \u2014 one file per cron job in cron/jobs/ directory",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T10:22:29Z",
+      "closedAt": null
+    },
+    {
+      "number": 37625,
+      "title": "feat(workspace): lint and auto-fix code fences in markdown at write time",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T10:18:32Z",
+      "closedAt": null
+    },
+    {
+      "number": 37469,
+      "title": "feat(workspace): schema enforcement for markdown workspace files (MEMORY.md, AGENTS.md, etc.)",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T08:39:55Z",
+      "closedAt": null
+    },
+    {
+      "number": 35457,
+      "title": "feat(thinking): provider-neutral low-thinking hint for simple turns",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T04:45:51Z",
+      "closedAt": null
+    },
+    {
+      "number": 35129,
+      "title": "openclaw doctor: detect duplicate installations fighting over gateway port",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T00:58:25Z",
+      "closedAt": null
+    },
+    {
+      "number": 35113,
+      "title": "[Bug]: Gateway crash-loops when gateway.tailscale.mode=serve but gateway.bind != loopback",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T00:41:39Z",
+      "closedAt": null
+    },
+    {
+      "number": 29769,
+      "title": "Isolated cron sessions with channel:last produce cascading 'Unknown Channel' errors when multiple channels are configured",
+      "state": "OPEN",
+      "createdAt": "2026-02-28T13:24:39Z",
+      "closedAt": null
+    },
+    {
+      "number": 29766,
+      "title": "Agent jobs fail silently when multiple channels configured and no channel specified in message tool",
+      "state": "OPEN",
+      "createdAt": "2026-02-28T13:16:24Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 5,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-02-28": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

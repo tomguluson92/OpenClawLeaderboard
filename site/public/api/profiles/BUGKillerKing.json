@@ -1,0 +1,131 @@
+{
+  "username": "BUGKillerKing",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/117326392?v=4",
+  "githubUrl": "https://github.com/BUGKillerKing",
+  "score": {
+    "score": 74.43,
+    "prScore": 45.43,
+    "issueScore": 29,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 132,
+    "prDeletions": 7,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 3,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 705,
+    "commitDeletions": 234,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 7
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 705,
+      "commitDeletions": 234,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-02T01:05:18Z",
+  "lastContribution": "2026-03-03T08:00:09Z",
+  "recentPRs": [
+    {
+      "number": 32740,
+      "title": "infra(channel-selection): Add a config switch to control the message.fallbackChannel.enabled",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T08:00:09Z",
+      "mergedAt": null,
+      "additions": 130,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 32436,
+      "title": "fix(cron): timezone dropdown suggestions and add Asia/Shanghai",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T02:31:51Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 31490,
+      "title": "[Bug]: Config Form view marks `models.providers` as unsupported due to SecretInputSchema union",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T08:52:29Z",
+      "closedAt": "2026-03-02T18:35:16Z"
+    },
+    {
+      "number": 31379,
+      "title": "[Feature]: Channels settings page should always show built-in channels alongside custom channels",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T06:40:00Z",
+      "closedAt": null
+    },
+    {
+      "number": 31219,
+      "title": "[Bug]: Browser control fails when HTTP_PROXY / HTTPS_PROXY / ALL_PROXY is set (CDP probes routed through proxy)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T03:09:52Z",
+      "closedAt": "2026-03-02T13:56:31Z"
+    },
+    {
+      "number": 31120,
+      "title": "[Bug]: edit form panel truncated when taller than viewport \u2014 must scroll left list to bottom",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T01:05:18Z",
+      "closedAt": "2026-03-02T02:36:19Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-01": 1
+  },
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 4,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "username": "davidemanuelDEV",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/130842151?u=d70f24d53f37fc5ef26e4da577bc71de20bfb6cd&v=4",
+  "githubUrl": "https://github.com/davidemanuelDEV",
+  "score": {
+    "score": 183.64,
+    "prScore": 183.14,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 13,
+    "prsMerged": 0,
+    "prAdditions": 931,
+    "prDeletions": 333,
+    "prChangedFiles": 43,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T21:36:15Z",
+  "lastContribution": "2026-03-11T16:39:41Z",
+  "recentPRs": [
+    {
+      "number": 43349,
+      "title": "fix: exec approval regression \u2014 node re-gates when gateway allows (security=full, ask=off)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:39:41Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 43346,
+      "title": "fix: include isolated-session crons in reminder guard check (#43292)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:37:46Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 43343,
+      "title": "fix: use kickstart -k for gateway restart instead of bootout+bootstrap (#43311)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:35:24Z",
+      "mergedAt": null,
+      "additions": 89,
+      "deletions": 36,
+      "changedFiles": 4
+    },
+    {
+      "number": 43251,
+      "title": "fix: apply config redactPatterns when callers pass partial options",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T14:14:33Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 42214,
+      "title": "fix: guard model.input against undefined in model-scan and model list",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T14:11:58Z",
+      "mergedAt": null,
+      "additions": 311,
+      "deletions": 248,
+      "changedFiles": 6
+    },
+    {
+      "number": 41107,
+      "title": "fix: recover from invalid fallback temp dir by removing and recreating",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T14:12:55Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39918,
+      "title": "fix: warn at gateway startup when default model provider has no auth configured",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T14:08:21Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 38947,
+      "title": "fix: prefer configured provider when default provider is removed from config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T15:07:50Z",
+      "mergedAt": null,
+      "additions": 99,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38338,
+      "title": "fix: use safe dmScope default to prevent cross-channel reply leakage",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T21:22:07Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 15,
+      "changedFiles": 8
+    },
+    {
+      "number": 37971,
+      "title": "fix: suppress JSON action-object forms of NO_REPLY from reaching end users",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:09:45Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 36864,
+      "title": "fix: use safe dmScope default to prevent cross-channel reply leakage",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T23:27:37Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 14,
+      "changedFiles": 8
+    },
+    {
+      "number": 35011,
+      "title": "fix(security): use Object.hasOwn to prevent prototype pollution bypass",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T21:38:33Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 35010,
+      "title": "fix: skip safeguard compaction on sessions with no real messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T21:38:31Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

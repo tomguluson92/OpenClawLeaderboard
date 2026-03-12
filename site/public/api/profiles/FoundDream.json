@@ -1,0 +1,92 @@
+{
+  "username": "FoundDream",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54743551?v=4",
+  "githubUrl": "https://github.com/FoundDream",
+  "score": {
+    "score": 14.35,
+    "prScore": 9.35,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 39,
+    "prDeletions": 10,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T05:32:20Z",
+  "lastContribution": "2026-03-10T05:35:34Z",
+  "recentPRs": [
+    {
+      "number": 41793,
+      "title": "fix: prune image-containing tool results during context pruning",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T05:35:34Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 10,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41789,
+      "title": "Context pruning skips image-containing tool results, causing unrecoverable context overflow in screenshot-heavy sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T05:32:20Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

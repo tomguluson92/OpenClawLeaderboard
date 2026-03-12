@@ -1,0 +1,415 @@
+{
+  "username": "chengjialu8888",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/261118124?v=4",
+  "githubUrl": "https://github.com/chengjialu8888",
+  "score": {
+    "score": 310.14,
+    "prScore": 235.14,
+    "issueScore": 55,
+    "reviewScore": 9,
+    "commentScore": 11
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 24,
+    "prsMerged": 0,
+    "prAdditions": 2950,
+    "prDeletions": 8,
+    "prChangedFiles": 28,
+    "prMergeRate": 0,
+    "issues": 11,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 22,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 24,
+      "issues": 11,
+      "reviews": 3,
+      "comments": 22,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 24,
+      "issues": 11,
+      "reviews": 3,
+      "comments": 22,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-11T09:02:13Z",
+  "lastContribution": "2026-03-12T01:05:03Z",
+  "recentPRs": [
+    {
+      "number": 43304,
+      "title": "feat(agents): include current date and day-of-week in system prompt",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T15:44:13Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43238,
+      "title": "feat(context-pruning): add rolling pruning mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T13:57:13Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 6,
+      "changedFiles": 4
+    },
+    {
+      "number": 43212,
+      "title": "docs(security): add Security Defaults Audit and Hardening Guide",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T13:26:35Z",
+      "mergedAt": null,
+      "additions": 91,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43210,
+      "title": "docs: add Token Observability and Waste Diagnosis Guide",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T13:26:14Z",
+      "mergedAt": null,
+      "additions": 110,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43208,
+      "title": "docs: add Token Budgeting Strategy Guide",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T13:25:49Z",
+      "mergedAt": null,
+      "additions": 138,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43136,
+      "title": "docs(zh-CN): add Chinese translation for channels/irc.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T11:31:22Z",
+      "mergedAt": null,
+      "additions": 136,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43135,
+      "title": "docs(zh-CN): add Chinese translation for channels/synology-chat.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T11:31:15Z",
+      "mergedAt": null,
+      "additions": 130,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43132,
+      "title": "docs(zh-CN): add Chinese translation for security/THREAT-MODEL-ATLAS.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T11:30:04Z",
+      "mergedAt": null,
+      "additions": 150,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43131,
+      "title": "docs: add Memory Management concepts guide",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T11:29:53Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43104,
+      "title": "docs(security): add Secure Coding Guidelines for contributors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:42:49Z",
+      "mergedAt": null,
+      "additions": 130,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43103,
+      "title": "docs: add Context Window Dynamic Budget RFC",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:41:49Z",
+      "mergedAt": null,
+      "additions": 169,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43102,
+      "title": "docs: add Progressive Memory Flush RFC (biomimetic autophagy model)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:41:26Z",
+      "mergedAt": null,
+      "additions": 284,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43092,
+      "title": "docs: add comprehensive Troubleshooting Guide",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:30:49Z",
+      "mergedAt": null,
+      "additions": 293,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43089,
+      "title": "docs(zh-CN): add Chinese translation for auth-credential-semantics.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:28:08Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43088,
+      "title": "docs(zh-CN): add Chinese translation for cli/clawbot.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:27:27Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43087,
+      "title": "docs(zh-CN): add Chinese translation for cli/backup.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:27:02Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43082,
+      "title": "docs(zh-CN): add Chinese translation for cli/qr.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:24:36Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43081,
+      "title": "docs(zh-CN): add Chinese translation for cli/daemon.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:24:08Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43080,
+      "title": "docs(zh-CN): add Chinese translation for ci.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:23:32Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43079,
+      "title": "docs(zh-CN): add Chinese translation for cli/completion.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:23:02Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43143,
+      "title": "Discussion: 10 active PR limit may throttle batch contributors",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T11:37:44Z",
+      "closedAt": null
+    },
+    {
+      "number": 43034,
+      "title": "Docs: Multi-agent orchestration patterns and best practices",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:28:43Z",
+      "closedAt": null
+    },
+    {
+      "number": 43033,
+      "title": "Docs: Sync missing zh-CN translations for key documents",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:28:41Z",
+      "closedAt": null
+    },
+    {
+      "number": 43032,
+      "title": "Docs: Memory system deep dive guide",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:28:39Z",
+      "closedAt": null
+    },
+    {
+      "number": 43031,
+      "title": "Docs: Add security best practices guide for end users",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:28:38Z",
+      "closedAt": null
+    },
+    {
+      "number": 43006,
+      "title": "Feature: Progressive memory flush before compaction",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:03:19Z",
+      "closedAt": null
+    },
+    {
+      "number": 43005,
+      "title": "Enhancement: Allow custom safe headers in fetch-guard cross-origin redirects",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:03:17Z",
+      "closedAt": null
+    },
+    {
+      "number": 43004,
+      "title": "Feature: Cron job retry with exponential backoff",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:03:15Z",
+      "closedAt": null
+    },
+    {
+      "number": 43003,
+      "title": "Bug: memory-core plugin silently returns null on tool creation failure",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:02:49Z",
+      "closedAt": null
+    },
+    {
+      "number": 43002,
+      "title": "Feature: Memory Consolidation Mechanism (Hippocampal-Cortical Transfer)",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:02:46Z",
+      "closedAt": null
+    },
+    {
+      "number": 42999,
+      "title": "Feature: Dynamic Context Window Token Budget (Metabolic Token Management)",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:02:13Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 43546,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T01:05:03Z"
+    },
+    {
+      "prNumber": 43546,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T01:04:34Z"
+    },
+    {
+      "prNumber": 43238,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T14:53:14Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 20,
+      "issues": 11,
+      "reviews": 1
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

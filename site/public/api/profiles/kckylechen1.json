@@ -1,0 +1,97 @@
+{
+  "username": "kckylechen1",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/115701288?u=ebd20efdc5341ab84ee9200b083c0e878bf54a05&v=4",
+  "githubUrl": "https://github.com/kckylechen1",
+  "score": {
+    "score": 23.29,
+    "prScore": 15.29,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 123,
+    "prDeletions": 127,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-27T15:16:55Z",
+  "lastContribution": "2026-03-11T14:49:54Z",
+  "recentPRs": [
+    {
+      "number": 43268,
+      "title": "fix(gateway): harden launchd restart paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T14:49:54Z",
+      "mergedAt": null,
+      "additions": 123,
+      "deletions": 127,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 28851,
+      "title": "[Bug]: Telegram outbound sendPayload bypasses text chunking, drops messages over 4096 chars",
+      "state": "CLOSED",
+      "createdAt": "2026-02-27T15:16:55Z",
+      "closedAt": "2026-03-10T17:23:06Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-02-27": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

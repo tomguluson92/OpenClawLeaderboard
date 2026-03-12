@@ -1,0 +1,109 @@
+{
+  "username": "No898",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82420070?u=1cb20cd62475b3ec7e6b6f6446ae6707f9d62228&v=4",
+  "githubUrl": "https://github.com/No898",
+  "score": {
+    "score": 38.8,
+    "prScore": 31.8,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 705,
+    "prDeletions": 23,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T13:50:15Z",
+  "lastContribution": "2026-03-11T23:51:24Z",
+  "recentPRs": [
+    {
+      "number": 42764,
+      "title": "fix: fallback announce target to spawnedBy parent",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T03:50:34Z",
+      "mergedAt": null,
+      "additions": 155,
+      "deletions": 21,
+      "changedFiles": 4
+    },
+    {
+      "number": 36217,
+      "title": "Security: isolate plugin env/config (#12518)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T13:50:15Z",
+      "mergedAt": null,
+      "additions": 550,
+      "deletions": 2,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42725,
+      "title": "[Bug]: Discord subagent session inherits incomplete deliveryContext, announce ends in silent ANNOUNCE_SKIP",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T03:10:24Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

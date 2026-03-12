@@ -1,0 +1,242 @@
+{
+  "username": "lishuaigit",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7495165?v=4",
+  "githubUrl": "https://github.com/lishuaigit",
+  "score": {
+    "score": 175.17,
+    "prScore": 167.67,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 7.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 13,
+    "prsMerged": 0,
+    "prAdditions": 1788,
+    "prDeletions": 50,
+    "prChangedFiles": 34,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 15,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 14,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 15,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T05:35:01Z",
+  "lastContribution": "2026-03-10T03:20:30Z",
+  "recentPRs": [
+    {
+      "number": 41136,
+      "title": "fix(test): skip runGatewayLoop signal tests under Bun runtime",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T14:36:28Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 38776,
+      "title": "fix(feishu): extract content from interactive card variants when quoting",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T10:45:00Z",
+      "mergedAt": null,
+      "additions": 269,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 38611,
+      "title": "fix(feishu): extract content from interactive card variants when quoting",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T05:44:29Z",
+      "mergedAt": null,
+      "additions": 233,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 37549,
+      "title": "fix(logging): subsystem loggers now follow root logger rotation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T09:19:25Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 37296,
+      "title": "fix(discord): pass appliedTags through channel-edit action",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T06:32:22Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 36924,
+      "title": "fix(telegram): split messages at word boundaries instead of mid-word",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T00:41:07Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 36810,
+      "title": "fix(feishu): use ReadStream for local file uploads to prevent binary corruption",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T22:37:29Z",
+      "mergedAt": null,
+      "additions": 215,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 36129,
+      "title": "fix: recognize Gemini 3.1 models under google provider for fallback routing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T12:47:40Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 35878,
+      "title": "fix(matrix): import KeyedAsyncQueue from plugin-sdk/matrix subpath",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T09:54:45Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35517,
+      "title": "feat(feishu): add history action to feishu_chat tool",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:35:14Z",
+      "mergedAt": null,
+      "additions": 386,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 34019,
+      "title": "fix: detect Ollama \"prompt too long\" as context overflow error",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T06:00:55Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 33999,
+      "title": "fix(feishu): download media from quoted/replied messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T05:39:35Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 33991,
+      "title": "feat(feishu): expose reaction actions for agent message tool",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T05:35:01Z",
+      "mergedAt": null,
+      "additions": 421,
+      "deletions": 0,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "username": "navendugoyal19",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/132033603?v=4",
+  "githubUrl": "https://github.com/navendugoyal19",
+  "score": {
+    "score": 55.2,
+    "prScore": 21.7,
+    "issueScore": 30,
+    "reviewScore": 0,
+    "commentScore": 3.5
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 445,
+    "prDeletions": 11,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 6,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 6,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-28T09:48:44Z",
+  "lastContribution": "2026-03-11T09:30:17Z",
+  "recentPRs": [
+    {
+      "number": 35116,
+      "title": "fix(ui): prevent webchat message disappearance on loadChatHistory race condition",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T00:46:42Z",
+      "mergedAt": null,
+      "additions": 445,
+      "deletions": 11,
+      "changedFiles": 8
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43037,
+      "title": "Control UI loses gateway token when switching between agent sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T09:30:17Z",
+      "closedAt": null
+    },
+    {
+      "number": 40945,
+      "title": "Control UI chat markdown only renders data URI images, not remote https image URLs",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T11:53:12Z",
+      "closedAt": null
+    },
+    {
+      "number": 39466,
+      "title": "[Bug] Webchat: Assistant text vanishes when tool calls follow text output in same response",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T04:40:50Z",
+      "closedAt": null
+    },
+    {
+      "number": 33641,
+      "title": "[Bug] Webchat: previous assistant message disappears when next message streams (blockStreamingDefault conflict)",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T23:58:17Z",
+      "closedAt": null
+    },
+    {
+      "number": 31144,
+      "title": "Webchat: Long message disappears when new message arrives, reappears on refresh",
+      "state": "OPEN",
+      "createdAt": "2026-03-02T01:38:48Z",
+      "closedAt": null
+    },
+    {
+      "number": 29655,
+      "title": "Bug: Long response disappears from webchat but remains visible in TUI",
+      "state": "OPEN",
+      "createdAt": "2026-02-28T09:48:44Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-02-28": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

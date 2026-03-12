@@ -1,0 +1,101 @@
+{
+  "username": "sburl-bot",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/260316622?u=d5f080a7f7be28680c22ea2d4d73c9b4cf9e1f15&v=4",
+  "githubUrl": "https://github.com/sburl-bot",
+  "score": {
+    "score": 38.24,
+    "prScore": 35.24,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 601,
+    "prDeletions": 23,
+    "prChangedFiles": 11,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-11T05:49:45Z",
+  "lastContribution": "2026-03-11T20:45:22Z",
+  "recentPRs": [
+    {
+      "number": 43443,
+      "title": "fix(launchd): resolve restart race condition via escalating kill and bootstrap retry",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T20:14:06Z",
+      "mergedAt": null,
+      "additions": 417,
+      "deletions": 20,
+      "changedFiles": 2
+    },
+    {
+      "number": 42853,
+      "title": "feat(daemon): auto-detect Node.js heap limit; add gateway.nodeMaxOldSpaceMb config",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T05:49:45Z",
+      "mergedAt": null,
+      "additions": 184,
+      "deletions": 3,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43443,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T20:45:22Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

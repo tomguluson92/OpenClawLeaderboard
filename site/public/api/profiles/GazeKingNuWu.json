@@ -1,0 +1,156 @@
+{
+  "username": "GazeKingNuWu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264914544?v=4",
+  "githubUrl": "https://github.com/GazeKingNuWu",
+  "score": {
+    "score": 88.82,
+    "prScore": 88.82,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 1,
+    "prAdditions": 865,
+    "prDeletions": 10,
+    "prChangedFiles": 14,
+    "prMergeRate": 14,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 37,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 37,
+      "commitDeletions": 1,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 37,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-08T09:22:32Z",
+  "lastContribution": "2026-03-09T04:13:35Z",
+  "recentPRs": [
+    {
+      "number": 40569,
+      "title": "fix: allow negative group IDs in Telegram groupAllowFrom",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T04:13:35Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    },
+    {
+      "number": 39850,
+      "title": "fix: drop thinking blocks for kimi provider to prevent crashes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T12:56:22Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 39752,
+      "title": "fix: clear plugin discovery cache after plugin installation",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T11:08:25Z",
+      "mergedAt": "2026-03-09T05:16:25Z",
+      "additions": 37,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 39747,
+      "title": "fix: resolve heartbeat.target not working for plugin channels like telegram",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T10:59:55Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 39716,
+      "title": "fix: resolve Control UI token field mismatch between client and server",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T10:16:16Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 39699,
+      "title": "docs: add OpenClaw taglines collection",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T10:01:54Z",
+      "mergedAt": null,
+      "additions": 720,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39663,
+      "title": "fix: resolve runtime import error for parse-finite-number in extensions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T09:22:32Z",
+      "mergedAt": null,
+      "additions": 86,
+      "deletions": 2,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-09": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

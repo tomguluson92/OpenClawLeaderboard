@@ -1,0 +1,129 @@
+{
+  "username": "Suidge",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34770064?u=cd2d30b9cdb9107f1b0e3abb0f62b8348f529039&v=4",
+  "githubUrl": "https://github.com/Suidge",
+  "score": {
+    "score": 38.23,
+    "prScore": 10.23,
+    "issueScore": 26,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 215,
+    "prDeletions": 0,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 2,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T10:08:43Z",
+  "lastContribution": "2026-03-10T00:04:29Z",
+  "recentPRs": [
+    {
+      "number": 32390,
+      "title": "[Feature] Add memory search quality monitoring and logging",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T01:42:37Z",
+      "mergedAt": null,
+      "additions": 215,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40932,
+      "title": "[BUG] openclaw gateway restart command fails and Gateway does not restart automatically (macOS LaunchAgent)",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T11:35:57Z",
+      "closedAt": null
+    },
+    {
+      "number": 40909,
+      "title": "[BUG] Feishu client-side card rendering bug: partial message content duplicated (not Gateway issue)",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T11:13:18Z",
+      "closedAt": null
+    },
+    {
+      "number": 39725,
+      "title": "Bug: Context engine plugins not registered before agent bootstrap (boot-md fails)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T10:29:04Z",
+      "closedAt": "2026-03-08T18:56:02Z"
+    },
+    {
+      "number": 31568,
+      "title": "ACP session fails with 'missing tool result' despite acpx backend and Gemini CLI being healthy",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T10:08:43Z",
+      "closedAt": "2026-03-08T12:06:14Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

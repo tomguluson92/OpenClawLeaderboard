@@ -1,0 +1,134 @@
+{
+  "username": "ec-seeq",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/116288582?v=4",
+  "githubUrl": "https://github.com/ec-seeq",
+  "score": {
+    "score": 184.08,
+    "prScore": 184.08,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 20660,
+    "prDeletions": 62,
+    "prChangedFiles": 213,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-11T06:07:55Z",
+  "lastContribution": "2026-03-11T08:05:50Z",
+  "recentPRs": [
+    {
+      "number": 42969,
+      "title": "[END-11] Bind pilot project context into existing chat and runner APIs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T08:05:50Z",
+      "mergedAt": null,
+      "additions": 1301,
+      "deletions": 0,
+      "changedFiles": 29
+    },
+    {
+      "number": 42943,
+      "title": "[END-10] Build `/pilot/project` intake flow for parcel ID, address, and project scope",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T07:28:48Z",
+      "mergedAt": null,
+      "additions": 1487,
+      "deletions": 0,
+      "changedFiles": 38
+    },
+    {
+      "number": 42939,
+      "title": "[END-9] Persist `project`, `parcel`, and `jurisdiction` separately from chat state",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T07:20:34Z",
+      "mergedAt": null,
+      "additions": 453,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 42910,
+      "title": "[END-8] Create `/pilot` shell and dashboard scaffold",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:45:58Z",
+      "mergedAt": null,
+      "additions": 8723,
+      "deletions": 30,
+      "changedFiles": 74
+    },
+    {
+      "number": 42871,
+      "title": "[END-7] Pilot shell and parcel intake on clean main",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:07:55Z",
+      "mergedAt": null,
+      "additions": 8696,
+      "deletions": 32,
+      "changedFiles": 70
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

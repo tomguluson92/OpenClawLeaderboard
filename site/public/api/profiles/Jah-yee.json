@@ -1,0 +1,275 @@
+{
+  "username": "Jah-yee",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/166608075?u=f64bab3157fafcc9cde6ccb077998fd1ad176f2d&v=4",
+  "githubUrl": "https://github.com/Jah-yee",
+  "score": {
+    "score": 252.02,
+    "prScore": 240.02,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 12
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 15,
+    "prsMerged": 0,
+    "prAdditions": 6803,
+    "prDeletions": 1311,
+    "prChangedFiles": 112,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 24,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 15,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 24,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T22:30:14Z",
+  "lastContribution": "2026-03-10T11:38:58Z",
+  "recentPRs": [
+    {
+      "number": 42092,
+      "title": "fix: increase default bootstrapMaxChars from 20k to 40k chars",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T11:38:58Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 38167,
+      "title": "fix(heartbeat): deliver wake-triggered heartbeats to last active channel",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:50:18Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 36572,
+      "title": "test(config): add unit tests for port-defaults module",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T18:35:29Z",
+      "mergedAt": null,
+      "additions": 86,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 36570,
+      "title": "docs(zh-CN): add Diffs tool page with correct internal links",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T18:33:23Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 36561,
+      "title": "test(config): add unit tests for backup-rotation module",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T18:21:35Z",
+      "mergedAt": null,
+      "additions": 253,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 36545,
+      "title": "test(config): fix backup-rotation tests and zh-CN diffs links",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T18:07:43Z",
+      "mergedAt": null,
+      "additions": 390,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 34957,
+      "title": "fix(onboard): default local tools profile to coding",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T20:13:46Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 34952,
+      "title": "fix(ui): set selected attribute on option elements to fix model select initial value",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T20:09:51Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34923,
+      "title": "chore: remove unused strip-ansi dependency (#34920)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T19:33:10Z",
+      "mergedAt": null,
+      "additions": 3401,
+      "deletions": 976,
+      "changedFiles": 6
+    },
+    {
+      "number": 33481,
+      "title": "Feishu/Lark: user-friendly formatting for agent and exec errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T20:46:42Z",
+      "mergedAt": null,
+      "additions": 151,
+      "deletions": 238,
+      "changedFiles": 15
+    },
+    {
+      "number": 33051,
+      "title": "Use provider-native hints to avoid Brave prompts for MiniMax",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T13:27:20Z",
+      "mergedAt": null,
+      "additions": 139,
+      "deletions": 4,
+      "changedFiles": 7
+    },
+    {
+      "number": 32823,
+      "title": "fix: remove duplicate cleaned variable in stripInlineStatus",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T09:10:17Z",
+      "mergedAt": null,
+      "additions": 590,
+      "deletions": 22,
+      "changedFiles": 20
+    },
+    {
+      "number": 32644,
+      "title": "fix: resolve infinite recursion + remove log file + discord wildcard",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T06:28:44Z",
+      "mergedAt": null,
+      "additions": 575,
+      "deletions": 28,
+      "changedFiles": 21
+    },
+    {
+      "number": 32507,
+      "title": "test PR",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T04:05:03Z",
+      "mergedAt": null,
+      "additions": 580,
+      "deletions": 27,
+      "changedFiles": 23
+    },
+    {
+      "number": 32242,
+      "title": "fix: preserve newlines in stripInlineStatus",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T22:30:14Z",
+      "mergedAt": null,
+      "additions": 561,
+      "deletions": 7,
+      "changedFiles": 7
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

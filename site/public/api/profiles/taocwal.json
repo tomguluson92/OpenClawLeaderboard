@@ -1,0 +1,121 @@
+{
+  "username": "taocwal",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62953072?v=4",
+  "githubUrl": "https://github.com/taocwal",
+  "score": {
+    "score": 38.7,
+    "prScore": 38.7,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 159,
+    "prDeletions": 3,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T09:34:44Z",
+  "lastContribution": "2026-03-03T08:57:24Z",
+  "recentPRs": [
+    {
+      "number": 32810,
+      "title": "fix: skills.entries.<key>.enabled",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T08:57:24Z",
+      "mergedAt": null,
+      "additions": 83,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 32755,
+      "title": "fix: resolve Cron + isolated session + Feishu announce message failed",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T08:14:16Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 32687,
+      "title": "fix: resolve Return Msg: <400> InternalError.Algo.DataInspectionFailed",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T07:19:47Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 31539,
+      "title": "fix: resolve Discord slash command hanging on message.send",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T09:34:44Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

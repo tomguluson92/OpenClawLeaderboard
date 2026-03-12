@@ -1,0 +1,329 @@
+{
+  "username": "0xsline",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/151105947?u=12be32400cffcc18f3b8800aa983878a16aea351&v=4",
+  "githubUrl": "https://github.com/0xsline",
+  "score": {
+    "score": 244.78,
+    "prScore": 140.28,
+    "issueScore": 0,
+    "reviewScore": 96,
+    "commentScore": 8.5
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 10,
+    "prsMerged": 3,
+    "prAdditions": 890,
+    "prDeletions": 127,
+    "prChangedFiles": 23,
+    "prMergeRate": 30,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 32,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 17,
+    "commitAdditions": 118,
+    "commitDeletions": 9,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 6
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 31,
+      "comments": 15,
+      "commitAdditions": 23,
+      "commitDeletions": 4,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 32,
+      "comments": 17,
+      "commitAdditions": 118,
+      "commitDeletions": 9,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-03T19:46:09Z",
+  "lastContribution": "2026-03-11T19:47:00Z",
+  "recentPRs": [
+    {
+      "number": 40815,
+      "title": "fix(browser): avoid restart guidance for attachOnly timeout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T09:24:06Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 16,
+      "changedFiles": 2
+    },
+    {
+      "number": 38736,
+      "title": "fix: use codex-responses transport for openai-codex gpt-5.4 fallback",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T09:49:06Z",
+      "mergedAt": "2026-03-08T23:35:21Z",
+      "additions": 157,
+      "deletions": 38,
+      "changedFiles": 3
+    },
+    {
+      "number": 35873,
+      "title": "fix(bluebubbles): guard against null text in debounce flush",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T09:48:49Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 35234,
+      "title": "fix: cron backup should preserve pre-edit snapshot (#35195)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T02:18:39Z",
+      "mergedAt": "2026-03-05T03:46:28Z",
+      "additions": 95,
+      "deletions": 5,
+      "changedFiles": 4
+    },
+    {
+      "number": 34390,
+      "title": "fix(whatsapp): use fresh config per-message instead of stale handler-creation snapshot",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T12:01:46Z",
+      "mergedAt": null,
+      "additions": 334,
+      "deletions": 54,
+      "changedFiles": 4
+    },
+    {
+      "number": 34369,
+      "title": "fix(agents): prevent /v1beta duplication in Gemini PDF URL",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T11:37:56Z",
+      "mergedAt": "2026-03-10T16:52:50Z",
+      "additions": 23,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 34212,
+      "title": "fix: hide control-ui untrusted sender metadata in direct chats",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:03:49Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 34176,
+      "title": "fix(agents): skip tool-call id sanitization for custom-ollama-com",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T08:38:49Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 33446,
+      "title": "fix(plugins): add keyed-async-queue jiti alias for extension loading",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T20:12:52Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    },
+    {
+      "number": 33426,
+      "title": "fix(gateway): force local mode during gateway install",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T19:46:09Z",
+      "mergedAt": null,
+      "additions": 166,
+      "deletions": 4,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43345,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T19:46:47Z"
+    },
+    {
+      "prNumber": 43335,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T19:41:29Z"
+    },
+    {
+      "prNumber": 40564,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T04:42:50Z"
+    },
+    {
+      "prNumber": 40564,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T04:42:49Z"
+    },
+    {
+      "prNumber": 40564,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T04:42:47Z"
+    },
+    {
+      "prNumber": 40564,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T04:42:46Z"
+    },
+    {
+      "prNumber": 40561,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T04:37:30Z"
+    },
+    {
+      "prNumber": 40561,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T04:37:20Z"
+    },
+    {
+      "prNumber": 40522,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T04:30:21Z"
+    },
+    {
+      "prNumber": 40027,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T16:53:04Z"
+    },
+    {
+      "prNumber": 40046,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T16:52:10Z"
+    },
+    {
+      "prNumber": 40046,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T16:52:08Z"
+    },
+    {
+      "prNumber": 39463,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T05:58:15Z"
+    },
+    {
+      "prNumber": 39463,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T05:58:13Z"
+    },
+    {
+      "prNumber": 39463,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T05:58:12Z"
+    },
+    {
+      "prNumber": 39463,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T05:58:11Z"
+    },
+    {
+      "prNumber": 39360,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T02:20:48Z"
+    },
+    {
+      "prNumber": 39360,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T02:20:47Z"
+    },
+    {
+      "prNumber": 38736,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T22:45:17Z"
+    },
+    {
+      "prNumber": 39100,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T19:15:31Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-10": 1,
+    "2026-03-05": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 9
+    }
+  }
+}

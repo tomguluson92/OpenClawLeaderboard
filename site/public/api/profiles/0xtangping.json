@@ -1,0 +1,331 @@
+{
+  "username": "0xtangping",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12505774?u=63a37b3ae46cc9fa6a55eedf40bb9883a1626e44&v=4",
+  "githubUrl": "https://github.com/0xtangping",
+  "score": {
+    "score": 244.08,
+    "prScore": 230.08,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 11
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 21,
+    "prsMerged": 2,
+    "prAdditions": 814,
+    "prDeletions": 222,
+    "prChangedFiles": 37,
+    "prMergeRate": 10,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 22,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 21,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 21,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 22,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T01:54:14Z",
+  "lastContribution": "2026-03-08T23:19:31Z",
+  "recentPRs": [
+    {
+      "number": 39336,
+      "title": "fix: default codex-cli backend sandbox to workspace-write",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T01:18:42Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 39287,
+      "title": "fix(imessage): avoid leaking [[reply_to:<id>]] in outbound text",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T00:26:12Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 20,
+      "changedFiles": 2
+    },
+    {
+      "number": 39235,
+      "title": "docs(cron): document announce targeting errors and consecutiveErrors recovery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T22:24:03Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39128,
+      "title": "fix(gateway): flush pending chat delta before tool-start events",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:30:29Z",
+      "mergedAt": null,
+      "additions": 129,
+      "deletions": 28,
+      "changedFiles": 2
+    },
+    {
+      "number": 38956,
+      "title": "fix(models auth): don't persist clack cancel symbol as token",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T15:21:10Z",
+      "mergedAt": null,
+      "additions": 138,
+      "deletions": 66,
+      "changedFiles": 2
+    },
+    {
+      "number": 38841,
+      "title": "fix(message): ignore empty legacy target fields",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T12:21:04Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 38798,
+      "title": "fix(agents): preserve Azure streaming usage compat in openai-completions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T11:17:53Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38680,
+      "title": "fix(telegram): namespace slash SessionKey by agent",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T07:56:04Z",
+      "mergedAt": "2026-03-07T12:45:30Z",
+      "additions": 8,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 38656,
+      "title": "fix(models): include custom providers in Telegram /models catalog",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T07:03:04Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 38511,
+      "title": "fix(errors): sanitize Codex error-prefixed provider payloads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T03:04:37Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37648,
+      "title": "fix(models): include config-injected entries in models list --all",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T10:36:43Z",
+      "mergedAt": null,
+      "additions": 158,
+      "deletions": 66,
+      "changedFiles": 3
+    },
+    {
+      "number": 37069,
+      "title": "fix(tts): enable Matrix voice-bubble output for auto TTS replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T03:05:32Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 36974,
+      "title": "docs(faq): remove broken troubleshooting anchor for Xfinity SSL",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T01:33:30Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 34322,
+      "title": "fix(browser): improve extension relay tab-not-found diagnostics for blocked CDP attach",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T10:47:45Z",
+      "mergedAt": null,
+      "additions": 85,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 34320,
+      "title": "test(infra): clean up exec-approvals temp dirs after each test",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T10:46:39Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34302,
+      "title": "docs(workspace): clarify media allowlist behavior for workspace-<profile>",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T10:21:39Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34299,
+      "title": "test(infra): cleanup dotenv temp fixtures to avoid /tmp accumulation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T10:20:20Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 33006,
+      "title": "fix(ci): tolerate maintainer-lookup rate limits in auto-response workflow",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T12:49:03Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 32994,
+      "title": "fix(gateway): block global chat/agent broadcasts to node-role WS clients",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T12:38:58Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 32413,
+      "title": "fix(acp): use publishable acpx install hint",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T02:06:02Z",
+      "mergedAt": "2026-03-03T02:34:07Z",
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 33006,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T08:48:58Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-03": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "username": "mbelinky",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/132747814?v=4",
+  "githubUrl": "https://github.com/mbelinky",
+  "score": {
+    "score": 951.13,
+    "prScore": 931.63,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 19.5
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 97,
+    "prs": 30,
+    "prsMerged": 24,
+    "prAdditions": 13931,
+    "prDeletions": 1853,
+    "prChangedFiles": 229,
+    "prMergeRate": 80,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 39,
+    "commitAdditions": 33063,
+    "commitDeletions": 9584,
+    "weeklyCommits": 17,
+    "monthlyCommits": 87,
+    "commitChangedFiles": 703
+  },
+  "period": {
+    "weekly": {
+      "prs": 19,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 24,
+      "commitAdditions": 6613,
+      "commitDeletions": 896,
+      "commits": 16
+    },
+    "monthly": {
+      "prs": 30,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 39,
+      "commitAdditions": 23260,
+      "commitDeletions": 2584,
+      "commits": 84
+    }
+  },
+  "firstContribution": "2026-03-03T12:25:31Z",
+  "lastContribution": "2026-03-09T22:26:36Z",
+  "recentPRs": [
+    {
+      "number": 41477,
+      "title": "build(protocol): regenerate Swift models after pending node work schemas",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T22:12:28Z",
+      "mergedAt": "2026-03-09T22:22:09Z",
+      "additions": 193,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 41464,
+      "title": "acp: harden follow-up reliability and attachments",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T21:53:56Z",
+      "mergedAt": "2026-03-09T22:03:50Z",
+      "additions": 230,
+      "deletions": 44,
+      "changedFiles": 7
+    },
+    {
+      "number": 41456,
+      "title": "acp: add regression coverage and smoke-test docs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T21:34:30Z",
+      "mergedAt": "2026-03-09T21:40:15Z",
+      "additions": 86,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 41443,
+      "title": "iOS: add welcome home canvas",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T21:19:12Z",
+      "mergedAt": null,
+      "additions": 1065,
+      "deletions": 252,
+      "changedFiles": 12
+    },
+    {
+      "number": 41442,
+      "title": "acp: enrich streaming updates for ide clients",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T21:18:54Z",
+      "mergedAt": "2026-03-09T21:26:46Z",
+      "additions": 449,
+      "deletions": 11,
+      "changedFiles": 6
+    },
+    {
+      "number": 41429,
+      "title": "Gateway: tighten node pending drain semantics",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T20:47:51Z",
+      "mergedAt": "2026-03-09T20:56:00Z",
+      "additions": 42,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 41428,
+      "title": "acp: add regression coverage and smoke-test docs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T20:47:13Z",
+      "mergedAt": null,
+      "additions": 185,
+      "deletions": 2,
+      "changedFiles": 9
+    },
+    {
+      "number": 41427,
+      "title": "acp: forward attachments into ACP runtime sessions",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T20:46:57Z",
+      "mergedAt": "2026-03-09T21:32:32Z",
+      "additions": 100,
+      "deletions": 2,
+      "changedFiles": 7
+    },
+    {
+      "number": 41426,
+      "title": "acp: enrich streaming updates for ide clients",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T20:46:41Z",
+      "mergedAt": null,
+      "additions": 1560,
+      "deletions": 23,
+      "changedFiles": 6
+    },
+    {
+      "number": 41425,
+      "title": "acp: restore session context and controls",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T20:46:29Z",
+      "mergedAt": "2026-03-09T21:17:19Z",
+      "additions": 1003,
+      "deletions": 47,
+      "changedFiles": 6
+    },
+    {
+      "number": 41424,
+      "title": "acp: fail honestly in bridge mode",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T20:46:17Z",
+      "mergedAt": "2026-03-09T21:01:30Z",
+      "additions": 153,
+      "deletions": 7,
+      "changedFiles": 5
+    },
+    {
+      "number": 41409,
+      "title": "Gateway: add pending node work primitives",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T20:22:27Z",
+      "mergedAt": "2026-03-09T20:42:57Z",
+      "additions": 678,
+      "deletions": 8,
+      "changedFiles": 15
+    },
+    {
+      "number": 41385,
+      "title": "Doctor: respect explicit cron repair mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T19:26:09Z",
+      "mergedAt": null,
+      "additions": 1327,
+      "deletions": 520,
+      "changedFiles": 22
+    },
+    {
+      "number": 41384,
+      "title": "iOS: reconnect gateway on foreground return",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T19:25:47Z",
+      "mergedAt": "2026-03-09T20:12:23Z",
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40998,
+      "title": "Cron: enforce cron-owned delivery contract",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T12:51:13Z",
+      "mergedAt": "2026-03-09T19:12:37Z",
+      "additions": 1277,
+      "deletions": 517,
+      "changedFiles": 29
+    },
+    {
+      "number": 40473,
+      "title": "ACP: add optional ingress provenance receipts",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T02:38:10Z",
+      "mergedAt": "2026-03-09T03:19:04Z",
+      "additions": 406,
+      "deletions": 6,
+      "changedFiles": 16
+    },
+    {
+      "number": 40282,
+      "title": "iOS: auto-load the scoped gateway canvas with safe fallback",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T21:38:19Z",
+      "mergedAt": "2026-03-08T21:47:39Z",
+      "additions": 185,
+      "deletions": 28,
+      "changedFiles": 4
+    },
+    {
+      "number": 40281,
+      "title": "Gateway/iOS: replay queued foreground actions safely after resume",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T21:38:03Z",
+      "mergedAt": "2026-03-08T21:46:54Z",
+      "additions": 604,
+      "deletions": 1,
+      "changedFiles": 12
+    },
+    {
+      "number": 40137,
+      "title": "fix(acp): persist spawned child session history",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T18:05:11Z",
+      "mergedAt": "2026-03-08T18:37:00Z",
+      "additions": 436,
+      "deletions": 30,
+      "changedFiles": 7
+    },
+    {
+      "number": 33591,
+      "title": "feat(ios): add Live Activity connection status + stale cleanup",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T22:54:46Z",
+      "mergedAt": "2026-03-04T07:44:42Z",
+      "additions": 355,
+      "deletions": 0,
+      "changedFiles": 12
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-10": 1,
+    "2026-03-09": 12,
+    "2026-03-08": 3,
+    "2026-03-04": 1,
+    "2026-03-03": 8,
+    "2026-02-24": 3,
+    "2026-02-20": 13,
+    "2026-02-19": 7,
+    "2026-02-18": 13,
+    "2026-02-17": 5,
+    "2026-02-16": 11,
+    "2026-02-14": 4,
+    "2026-02-13": 3,
+    "2026-02-09": 2,
+    "2026-02-08": 2,
+    "2026-02-02": 5,
+    "2026-01-22": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 16,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

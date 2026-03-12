@@ -1,0 +1,104 @@
+{
+  "username": "1sexywoo8",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/262731466?v=4",
+  "githubUrl": "https://github.com/1sexywoo8",
+  "score": {
+    "score": 20.81,
+    "prScore": 7.81,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 14,
+    "prDeletions": 0,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T02:34:25Z",
+  "lastContribution": "2026-03-10T17:42:32Z",
+  "recentPRs": [
+    {
+      "number": 33796,
+      "title": "Configure post-compaction required reads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T02:38:35Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42408,
+      "title": "[Bug/Docs]: local+hybrid memory_search quality can appear unstable due to extraPaths path drift + benchmark-file contamination",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T17:42:32Z",
+      "closedAt": null
+    },
+    {
+      "number": 33792,
+      "title": "[Feature]: Make post-compaction required reads configurable (avoid hardcoded WORKFLOW_AUTO.md warnings)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T02:34:25Z",
+      "closedAt": "2026-03-06T22:57:17Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

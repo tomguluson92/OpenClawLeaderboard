@@ -1,0 +1,154 @@
+{
+  "username": "Senorsen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4176091?u=bd7c537b14d3cc18262c9716cb428acf5185ab1e&v=4",
+  "githubUrl": "https://github.com/Senorsen",
+  "score": {
+    "score": 69.09,
+    "prScore": 42.59,
+    "issueScore": 10,
+    "reviewScore": 15,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 542,
+    "prDeletions": 31,
+    "prChangedFiles": 15,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 5,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 5,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T05:32:25Z",
+  "lastContribution": "2026-03-12T03:15:04Z",
+  "recentPRs": [
+    {
+      "number": 43218,
+      "title": "feat(session): inject outbound messages into target session history in per-channel-peer mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T13:37:19Z",
+      "mergedAt": null,
+      "additions": 364,
+      "deletions": 0,
+      "changedFiles": 8
+    },
+    {
+      "number": 42317,
+      "title": "feat(session): honor session.mainKey config for custom main session routing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T16:04:29Z",
+      "mergedAt": null,
+      "additions": 178,
+      "deletions": 31,
+      "changedFiles": 7
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43200,
+      "title": "Bug / Feature Request: message tool cross-session messages not recorded in target session history (per-channel-peer)",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T13:21:21Z",
+      "closedAt": null
+    },
+    {
+      "number": 41790,
+      "title": "Feature: Allow session.mainKey to designate any channel session as the main session",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T05:32:25Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 43218,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T03:15:04Z"
+    },
+    {
+      "prNumber": 43218,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T03:15:03Z"
+    },
+    {
+      "prNumber": 42317,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T02:04:12Z"
+    },
+    {
+      "prNumber": 42317,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T02:04:11Z"
+    },
+    {
+      "prNumber": 42317,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T02:03:48Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

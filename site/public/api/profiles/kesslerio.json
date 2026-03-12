@@ -1,0 +1,135 @@
+{
+  "username": "kesslerio",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2647990?u=802378840dc0b01e8347db286763b8cd3247e7e1&v=4",
+  "githubUrl": "https://github.com/kesslerio",
+  "score": {
+    "score": 52.82,
+    "prScore": 24.82,
+    "issueScore": 21,
+    "reviewScore": 6,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 273,
+    "prDeletions": 106,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 2,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 2,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 2,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T18:26:46Z",
+  "lastContribution": "2026-03-11T14:56:43Z",
+  "recentPRs": [
+    {
+      "number": 42667,
+      "title": "fix: preserve WhatsApp paragraph chunk boundaries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T02:01:00Z",
+      "mergedAt": null,
+      "additions": 273,
+      "deletions": 106,
+      "changedFiles": 10
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43271,
+      "title": "Cron announce delivery can collapse WhatsApp paragraph formatting into a single line",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T14:56:43Z",
+      "closedAt": null
+    },
+    {
+      "number": 38344,
+      "title": "coding-agent: detect and recover from silent Codex background exits during long issue workflows",
+      "state": "CLOSED",
+      "createdAt": "2026-03-06T21:33:53Z",
+      "closedAt": "2026-03-06T21:35:30Z"
+    },
+    {
+      "number": 33369,
+      "title": "ACP workflow: spawned run not observable from parent + chrome relay profile mismatch",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T18:26:46Z",
+      "closedAt": "2026-03-03T18:39:48Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 42667,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T04:43:16Z"
+    },
+    {
+      "prNumber": 42667,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T04:43:15Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    },
+    "2026-03-06": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

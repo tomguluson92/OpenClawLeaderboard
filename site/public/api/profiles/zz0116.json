@@ -1,0 +1,127 @@
+{
+  "username": "zz0116",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16729173?u=28e3694926ef62ef2a9fe2fb71c2626bb29e9d75&v=4",
+  "githubUrl": "https://github.com/zz0116",
+  "score": {
+    "score": 49.72,
+    "prScore": 39.22,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 768,
+    "prDeletions": 84,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T07:27:25Z",
+  "lastContribution": "2026-03-05T01:53:27Z",
+  "recentPRs": [
+    {
+      "number": 34379,
+      "title": "i18n(config): extract hardcoded strings and add zh-CN/zh-TW translations for config page",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T11:45:22Z",
+      "mergedAt": null,
+      "additions": 303,
+      "deletions": 55,
+      "changedFiles": 5
+    },
+    {
+      "number": 34221,
+      "title": "i18n(zh): add missing translation keys for zh-CN and zh-TW",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:11:32Z",
+      "mergedAt": null,
+      "additions": 170,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 34130,
+      "title": "fix(memory): expand temporal decay date pattern matching (#32745)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T07:43:16Z",
+      "mergedAt": null,
+      "additions": 295,
+      "deletions": 29,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 35203,
+      "title": "[RFC] Multi-Agent Collaboration Enhancement: Capability Profiling + Shared Blackboard + Layered Memory + Token Cost Governance",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T01:53:27Z",
+      "closedAt": null
+    },
+    {
+      "number": 34493,
+      "title": "[RFC] Memory Consolidation via Zettelkasten-Linked Graph + PPR Retrieval + Sleep Consolidation",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T13:47:26Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

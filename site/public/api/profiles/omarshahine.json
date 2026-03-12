@@ -1,0 +1,128 @@
+{
+  "username": "omarshahine",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10343873?v=4",
+  "githubUrl": "https://github.com/omarshahine",
+  "score": {
+    "score": 50.06,
+    "prScore": 26.56,
+    "issueScore": 18,
+    "reviewScore": 0,
+    "commentScore": 5.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 389,
+    "prDeletions": 6,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 11,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 8,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 11,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T07:56:43Z",
+  "lastContribution": "2026-03-07T09:30:14Z",
+  "recentPRs": [
+    {
+      "number": 36303,
+      "title": "fix(whatsapp): resolve participant for group reactions (LID + fallback)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T15:00:51Z",
+      "mergedAt": null,
+      "additions": 249,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 36126,
+      "title": "fix(whatsapp): auto-populate participant for group reactions from requesterSenderId",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T12:46:17Z",
+      "mergedAt": null,
+      "additions": 140,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 38717,
+      "title": "Control UI config.set coerces string arrays to numbers, breaking allowFrom",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T09:30:14Z",
+      "closedAt": null
+    },
+    {
+      "number": 36090,
+      "title": "[Bug]: WhatsApp group reactions silently fail when agent omits participant field",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T12:29:19Z",
+      "closedAt": null
+    },
+    {
+      "number": 31448,
+      "title": "[Bug]: Control UI handler blocks all webhook POST requests with 405 (basePath check ordering)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T07:56:43Z",
+      "closedAt": "2026-03-02T07:58:51Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

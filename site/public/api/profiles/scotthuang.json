@@ -1,0 +1,138 @@
+{
+  "username": "scotthuang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1670837?u=fc0945910143065c1006fd19d44df7de2c82b63e&v=4",
+  "githubUrl": "https://github.com/scotthuang",
+  "score": {
+    "score": 48.38,
+    "prScore": 38.88,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 222,
+    "prDeletions": 24,
+    "prChangedFiles": 9,
+    "prMergeRate": 33,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T18:27:22Z",
+  "lastContribution": "2026-03-09T04:59:45Z",
+  "recentPRs": [
+    {
+      "number": 38833,
+      "title": "Fix/strip relevant memories from user bubble",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T12:05:19Z",
+      "mergedAt": null,
+      "additions": 125,
+      "deletions": 17,
+      "changedFiles": 5
+    },
+    {
+      "number": 33386,
+      "title": "fix(logging): use local timezone for timestamps instead of UTC",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T18:54:38Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 32036,
+      "title": "fix(memory-lancedb): pass dimensions to embedding API call",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T18:27:22Z",
+      "mergedAt": "2026-03-02T19:02:12Z",
+      "additions": 93,
+      "deletions": 4,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 38833,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T04:59:45Z"
+    },
+    {
+      "prNumber": 33386,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T19:18:54Z"
+    },
+    {
+      "prNumber": 32036,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T18:43:54Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "username": "lynnzc",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6257996?u=f99919d6e60034a8bcb6caf716962389e2b5257a&v=4",
+  "githubUrl": "https://github.com/lynnzc",
+  "score": {
+    "score": 655.33,
+    "prScore": 621.83,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 27.5
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 68,
+    "prsMerged": 1,
+    "prAdditions": 12978,
+    "prDeletions": 649,
+    "prChangedFiles": 286,
+    "prMergeRate": 1,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 55,
+    "commitAdditions": 24,
+    "commitDeletions": 2,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 59,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 51,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 68,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 55,
+      "commitAdditions": 24,
+      "commitDeletions": 2,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-04T05:33:08Z",
+  "lastContribution": "2026-03-12T05:06:42Z",
+  "recentPRs": [
+    {
+      "number": 43694,
+      "title": "CLI: support OpenAI Codex OAuth profile aliases",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T05:06:42Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 43682,
+      "title": "Backup: stream archive writes to avoid silent partial tmp files",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T04:54:36Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 22,
+      "changedFiles": 2
+    },
+    {
+      "number": 43675,
+      "title": "Compaction: add model fallback support for safeguard summarization",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T04:34:00Z",
+      "mergedAt": null,
+      "additions": 195,
+      "deletions": 12,
+      "changedFiles": 6
+    },
+    {
+      "number": 43672,
+      "title": "Fix JSON-wrapped assistant text for openai-completions custom APIs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T04:28:40Z",
+      "mergedAt": null,
+      "additions": 127,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43639,
+      "title": "Gateway: prevent detached respawn when launchd already owns the process",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T03:37:23Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 43623,
+      "title": "Runner: normalize kimi-coding XML tool calls",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T03:03:25Z",
+      "mergedAt": null,
+      "additions": 324,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 43622,
+      "title": "Gateway: honor trusted-proxy headers before local fallback auth",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T03:02:34Z",
+      "mergedAt": null,
+      "additions": 249,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 43336,
+      "title": "Nodes tool: honor full/off policy for node system.run",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:24:59Z",
+      "mergedAt": null,
+      "additions": 405,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 43330,
+      "title": "macOS node: add system.run.prepare support",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:21:29Z",
+      "mergedAt": null,
+      "additions": 183,
+      "deletions": 5,
+      "changedFiles": 7
+    },
+    {
+      "number": 43312,
+      "title": "Fix tool dispatch for malformed or missing tool call names",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T15:59:36Z",
+      "mergedAt": null,
+      "additions": 199,
+      "deletions": 27,
+      "changedFiles": 2
+    },
+    {
+      "number": 43310,
+      "title": "UI: add Control UI agent switcher for chat sessions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T15:57:38Z",
+      "mergedAt": null,
+      "additions": 218,
+      "deletions": 23,
+      "changedFiles": 3
+    },
+    {
+      "number": 43265,
+      "title": "Fix opencode-go env API key resolution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T14:46:02Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 43252,
+      "title": "fix(telegram): avoid stall restarts during active update processing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T14:15:53Z",
+      "mergedAt": null,
+      "additions": 103,
+      "deletions": 10,
+      "changedFiles": 3
+    },
+    {
+      "number": 43240,
+      "title": "Fix session-link reload dropping Control UI token",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T13:58:58Z",
+      "mergedAt": null,
+      "additions": 176,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 43221,
+      "title": "Hooks: fix bundled hook discovery in pnpm install layouts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T13:37:52Z",
+      "mergedAt": null,
+      "additions": 234,
+      "deletions": 20,
+      "changedFiles": 2
+    },
+    {
+      "number": 43219,
+      "title": "Agents: add first-class workspace ls tool",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T13:37:47Z",
+      "mergedAt": null,
+      "additions": 191,
+      "deletions": 3,
+      "changedFiles": 11
+    },
+    {
+      "number": 42886,
+      "title": "Fix Feishu dynamicAgentCreation routing on named accounts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T06:24:27Z",
+      "mergedAt": null,
+      "additions": 189,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 42881,
+      "title": "Exec: add optional high-risk command confirmation guard",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:15:35Z",
+      "mergedAt": null,
+      "additions": 944,
+      "deletions": 38,
+      "changedFiles": 13
+    },
+    {
+      "number": 42865,
+      "title": "fix(feishu): restore command queue bypass during active runs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T06:03:25Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 42829,
+      "title": "Tools: add Tavily as a web_search provider",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T05:17:44Z",
+      "mergedAt": null,
+      "additions": 330,
+      "deletions": 17,
+      "changedFiles": 14
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43639,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T04:05:35Z"
+    },
+    {
+      "prNumber": 41994,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T10:30:31Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-04": 1
+  },
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-11": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

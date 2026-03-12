@@ -1,0 +1,170 @@
+{
+  "username": "rodrigouroz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/384037?v=4",
+  "githubUrl": "https://github.com/rodrigouroz",
+  "score": {
+    "score": 297.81,
+    "prScore": 264.31,
+    "issueScore": 0,
+    "reviewScore": 30,
+    "commentScore": 3.5
+  },
+  "tier": "active",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 22,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 863,
+    "prDeletions": 129,
+    "prChangedFiles": 29,
+    "prMergeRate": 50,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 10,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 7062,
+    "commitDeletions": 1400,
+    "weeklyCommits": 1,
+    "monthlyCommits": 12,
+    "commitChangedFiles": 147
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 10,
+      "comments": 7,
+      "commitAdditions": 1653,
+      "commitDeletions": 181,
+      "commits": 3
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 10,
+      "comments": 7,
+      "commitAdditions": 6159,
+      "commitDeletions": 1053,
+      "commits": 18
+    }
+  },
+  "firstContribution": "2026-03-10T02:09:31Z",
+  "lastContribution": "2026-03-10T18:39:53Z",
+  "recentPRs": [
+    {
+      "number": 42250,
+      "title": "fix(acp): strip provider auth env for child ACP processes",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T14:52:27Z",
+      "mergedAt": "2026-03-10T21:50:10Z",
+      "additions": 597,
+      "deletions": 115,
+      "changedFiles": 19
+    },
+    {
+      "number": 41615,
+      "title": "fix(acp): strip provider API keys from ACP child process env",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T02:09:31Z",
+      "mergedAt": null,
+      "additions": 266,
+      "deletions": 14,
+      "changedFiles": 10
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42250,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T18:29:45Z"
+    },
+    {
+      "prNumber": 42250,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T18:00:38Z"
+    },
+    {
+      "prNumber": 42250,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T18:00:36Z"
+    },
+    {
+      "prNumber": 42250,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T16:36:04Z"
+    },
+    {
+      "prNumber": 42250,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T16:36:02Z"
+    },
+    {
+      "prNumber": 41615,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T12:49:36Z"
+    },
+    {
+      "prNumber": 41615,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T12:40:48Z"
+    },
+    {
+      "prNumber": 41615,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T12:26:14Z"
+    },
+    {
+      "prNumber": 41615,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T12:10:44Z"
+    },
+    {
+      "prNumber": 41615,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T12:10:42Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-10": 1,
+    "2026-03-07": 1,
+    "2026-03-05": 1,
+    "2026-03-04": 1,
+    "2026-03-03": 1,
+    "2026-02-27": 2,
+    "2026-02-20": 1,
+    "2026-02-16": 5,
+    "2026-02-15": 3,
+    "2026-02-12": 1,
+    "2026-02-11": 1,
+    "2026-02-09": 1,
+    "2026-01-24": 1,
+    "2026-01-23": 1,
+    "2026-01-18": 1
+  },
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 10
+    }
+  }
+}

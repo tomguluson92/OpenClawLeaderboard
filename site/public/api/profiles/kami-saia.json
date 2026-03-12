@@ -1,0 +1,137 @@
+{
+  "username": "kami-saia",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/204396543?u=ee2bd8606bdbff3de2198ce4758a321ace82dd4f&v=4",
+  "githubUrl": "https://github.com/kami-saia",
+  "score": {
+    "score": 43.93,
+    "prScore": 7.93,
+    "issueScore": 34,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 20,
+    "prDeletions": 1,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 5,
+    "issuesClosed": 3,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-27T12:48:20Z",
+  "lastContribution": "2026-03-03T19:04:03Z",
+  "recentPRs": [
+    {
+      "number": 31638,
+      "title": "fix: exponential backoff for heartbeat requests-in-flight retries",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T11:48:23Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 29984,
+      "title": "NO_REPLY responses to inter-session messages bounce back creating ping-pong loops",
+      "state": "CLOSED",
+      "createdAt": "2026-02-28T18:20:26Z",
+      "closedAt": "2026-03-02T11:33:15Z"
+    },
+    {
+      "number": 29762,
+      "title": "[Bug]: Heartbeat skipped due to requests-in-flight advances schedule by full interval instead of retrying soon",
+      "state": "CLOSED",
+      "createdAt": "2026-02-28T13:10:26Z",
+      "closedAt": "2026-03-02T11:33:17Z"
+    },
+    {
+      "number": 28977,
+      "title": "bug: internal providers corrupt session routing (lastTo) when replying",
+      "state": "CLOSED",
+      "createdAt": "2026-02-27T17:07:13Z",
+      "closedAt": "2026-03-02T03:33:13Z"
+    },
+    {
+      "number": 28845,
+      "title": "RFC: Agent-controlled compaction via tool call",
+      "state": "OPEN",
+      "createdAt": "2026-02-27T15:10:05Z",
+      "closedAt": null
+    },
+    {
+      "number": 28693,
+      "title": "bug: signoff event never fires for NO_REPLY \u2014 parseReplyDirectives strips token before emission",
+      "state": "OPEN",
+      "createdAt": "2026-02-27T12:48:20Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-02-28": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-02-27": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "username": "veast",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9658131?u=dbef55a0e7b9c7a678beb27aa60041dc62d607f1&v=4",
+  "githubUrl": "https://github.com/veast",
+  "score": {
+    "score": 47.96,
+    "prScore": 47.96,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 391,
+    "prDeletions": 9,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 22,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 22,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-04T07:27:19Z",
+  "lastContribution": "2026-03-07T03:55:12Z",
+  "recentPRs": [
+    {
+      "number": 38544,
+      "title": "fix(plugins): suppress false-positive duplicate-id warning when user overrides bundled plugin (#38437)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T03:55:12Z",
+      "mergedAt": null,
+      "additions": 142,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 35846,
+      "title": "fix(telegram): model keyboard marks only the selected provider's model (#35476)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T09:30:05Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 35841,
+      "title": "fix(whatsapp): actionable error when target blocked by allowFrom policy (#35580)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T09:27:03Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34110,
+      "title": "fix(cron): manual `cron run` must not displace schedule anchor (#33940)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T07:27:19Z",
+      "mergedAt": null,
+      "additions": 186,
+      "deletions": 1,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 1
+  },
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

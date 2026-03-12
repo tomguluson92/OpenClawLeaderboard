@@ -1,0 +1,118 @@
+{
+  "username": "pandego",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7780875?v=4",
+  "githubUrl": "https://github.com/pandego",
+  "score": {
+    "score": 134.92,
+    "prScore": 125.42,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 3.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 9,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 259,
+    "prDeletions": 35,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 684,
+    "commitDeletions": 32,
+    "weeklyCommits": 1,
+    "monthlyCommits": 11,
+    "commitChangedFiles": 20
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 7,
+      "commitAdditions": 684,
+      "commitDeletions": 32,
+      "commits": 9
+    }
+  },
+  "firstContribution": "2026-03-06T11:42:42Z",
+  "lastContribution": "2026-03-09T08:02:03Z",
+  "recentPRs": [
+    {
+      "number": 38915,
+      "title": "fix(skills): discover workspace skills across full candidate root window",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T14:08:00Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37730,
+      "title": "fix: support pi-ai 0.56.2 OAuth entrypoint and unblock checks",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T11:42:42Z",
+      "mergedAt": null,
+      "additions": 224,
+      "deletions": 34,
+      "changedFiles": 10
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 37730,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T12:12:05Z"
+    },
+    {
+      "prNumber": 37730,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T12:11:54Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 6,
+    "2026-03-01": 1,
+    "2026-02-26": 1,
+    "2026-02-24": 1
+  },
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

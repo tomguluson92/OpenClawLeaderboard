@@ -1,0 +1,117 @@
+{
+  "username": "LiudengZhang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/99156394?v=4",
+  "githubUrl": "https://github.com/LiudengZhang",
+  "score": {
+    "score": 47.08,
+    "prScore": 46.08,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 394,
+    "prDeletions": 20,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T19:40:07Z",
+  "lastContribution": "2026-03-09T03:09:23Z",
+  "recentPRs": [
+    {
+      "number": 40230,
+      "title": "fix(agents): follow symlinks when loading workspace bootstrap files",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T20:13:21Z",
+      "mergedAt": null,
+      "additions": 154,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40217,
+      "title": "fix(agents): clear stale tool call history to prevent loop detection false positives",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T19:51:51Z",
+      "mergedAt": null,
+      "additions": 145,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 40216,
+      "title": "fix(pruner): account for CJK and non-Latin characters in token estimation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T19:51:42Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 40205,
+      "title": "fix(ollama): migrate embedding provider from deprecated /api/embeddings to /api/embed",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T19:40:20Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 13,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "username": "arkyu2077",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42494191?v=4",
+  "githubUrl": "https://github.com/arkyu2077",
+  "score": {
+    "score": 57.26,
+    "prScore": 57.26,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 2,
+    "prs": 4,
+    "prsMerged": 2,
+    "prAdditions": 66,
+    "prDeletions": 8,
+    "prChangedFiles": 7,
+    "prMergeRate": 50,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 8,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 8,
+      "commitDeletions": 0,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-02T10:01:07Z",
+  "lastContribution": "2026-03-03T19:38:48Z",
+  "recentPRs": [
+    {
+      "number": 33423,
+      "title": "fix(cron): ensure nextRunAtMs is always after lastRunAtMs for cron jobs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T19:38:48Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 31580,
+      "title": "fix(feishu): skip typing indicator keepalive re-adds to prevent notification spam",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T10:24:23Z",
+      "mergedAt": "2026-03-03T01:11:47Z",
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 31562,
+      "title": "fix(feishu): respect renderMode config in outbound message sends",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T10:04:10Z",
+      "mergedAt": "2026-03-03T04:41:01Z",
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 31559,
+      "title": "fix(feishu): use msg_type file for video files instead of invalid media type",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-02T10:01:07Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 8,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-03": 2
+  },
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

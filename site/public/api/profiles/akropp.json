@@ -1,0 +1,194 @@
+{
+  "username": "akropp",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30504149?v=4",
+  "githubUrl": "https://github.com/akropp",
+  "score": {
+    "score": 213.04,
+    "prScore": 200.04,
+    "issueScore": 0,
+    "reviewScore": 12,
+    "commentScore": 1
+  },
+  "tier": "active",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 20227,
+    "prDeletions": 3380,
+    "prChangedFiles": 182,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T23:38:45Z",
+  "lastContribution": "2026-03-10T14:21:05Z",
+  "recentPRs": [
+    {
+      "number": 42124,
+      "title": "feat(tasks): add generic task notification framework",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T12:26:48Z",
+      "mergedAt": null,
+      "additions": 1693,
+      "deletions": 0,
+      "changedFiles": 6
+    },
+    {
+      "number": 42093,
+      "title": "feat(tasks): add generic task notification framework",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T11:42:48Z",
+      "mergedAt": null,
+      "additions": 6400,
+      "deletions": 1051,
+      "changedFiles": 59
+    },
+    {
+      "number": 39105,
+      "title": "fix(discord): eliminate false '\u26a0\ufe0f Tried to set X but current model is Y' warning in model picker",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T18:59:42Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38981,
+      "title": "feat(agents): add workspaceConfig.allowedExternalPaths for trusted symlinked workspace files",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T15:59:34Z",
+      "mergedAt": null,
+      "additions": 959,
+      "deletions": 48,
+      "changedFiles": 18
+    },
+    {
+      "number": 38576,
+      "title": "feat(agents): add workspaceConfig.allowedExternalPaths for trusted symlinked files",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T04:45:32Z",
+      "mergedAt": null,
+      "additions": 4738,
+      "deletions": 1082,
+      "changedFiles": 41
+    },
+    {
+      "number": 38029,
+      "title": "feat(swarm): watcher notifications for coder-swarm tasks",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:27:26Z",
+      "mergedAt": null,
+      "additions": 2998,
+      "deletions": 2,
+      "changedFiles": 23
+    },
+    {
+      "number": 35070,
+      "title": "Gateway: section coder-swarm task lists into active and inactive",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T23:38:45Z",
+      "mergedAt": null,
+      "additions": 3434,
+      "deletions": 1197,
+      "changedFiles": 34
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42124,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:21:05Z"
+    },
+    {
+      "prNumber": 42124,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:20:41Z"
+    },
+    {
+      "prNumber": 42124,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:17:05Z"
+    },
+    {
+      "prNumber": 42124,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:16:52Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-07": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

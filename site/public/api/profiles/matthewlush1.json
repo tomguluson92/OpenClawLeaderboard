@@ -1,0 +1,93 @@
+{
+  "username": "matthewlush1",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33492488?v=4",
+  "githubUrl": "https://github.com/matthewlush1",
+  "score": {
+    "score": 21.68,
+    "prScore": 13.68,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 236,
+    "prDeletions": 24,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-06T01:56:34Z",
+  "lastContribution": "2026-03-06T11:11:36Z",
+  "recentPRs": [
+    {
+      "number": 37030,
+      "title": "fix(agents): add TTL grace + restart persistence for pending tool-result flush",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T02:24:45Z",
+      "mergedAt": null,
+      "additions": 236,
+      "deletions": 24,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 36991,
+      "title": "Gateway inserts synthetic tool results prematurely during restart/long-poll cycles",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T01:56:34Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

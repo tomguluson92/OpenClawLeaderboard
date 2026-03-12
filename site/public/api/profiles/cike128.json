@@ -1,0 +1,299 @@
+{
+  "username": "cike128",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77151346?u=a7655dd04b7e44726e3b3140ec22b1335bd8a5c9&v=4",
+  "githubUrl": "https://github.com/cike128",
+  "score": {
+    "score": 204.27,
+    "prScore": 203.77,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 22,
+    "prsMerged": 0,
+    "prAdditions": 339,
+    "prDeletions": 126,
+    "prChangedFiles": 27,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 22,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T02:15:41Z",
+  "lastContribution": "2026-03-09T09:29:43Z",
+  "recentPRs": [
+    {
+      "number": 34232,
+      "title": "test(plugin-sdk): increase root-alias test timeout to 180s",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:24:29Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34218,
+      "title": "perf(routing): enable route cache when identityLinks is configured",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:08:52Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 34216,
+      "title": "refactor(utils): use replaceAll instead of split().join()",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:06:53Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34215,
+      "title": "perf(utils): cache LID reverse mapping lookups",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:06:10Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34211,
+      "title": "refactor(memory): deduplicate table name and limit constants into shared module",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:02:32Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 11,
+      "changedFiles": 4
+    },
+    {
+      "number": 34209,
+      "title": "fix(telegram): cap sent-message-cache to 1000 chats with FIFO eviction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T09:00:47Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34208,
+      "title": "fix(memory): cap sessionWarm set to prevent unbounded growth",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:59:54Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34207,
+      "title": "fix(telegram): reset imageRuntimePromise on import failure to allow retry",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:59:01Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 34198,
+      "title": "perf(memory): wrap indexFile SQLite writes in a transaction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:51:59Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 60,
+      "changedFiles": 1
+    },
+    {
+      "number": 34195,
+      "title": "fix(plugins): reject async register() instead of silently loading incomplete plugin",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:50:54Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 6,
+      "changedFiles": 1
+    },
+    {
+      "number": 34193,
+      "title": "fix(channels): reset finished flag in restoreInitial so subsequent state changes work",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:50:03Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34190,
+      "title": "fix(media): return cleanup timer from attachMediaRoutes for proper teardown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:49:12Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 33985,
+      "title": "perf(telegram): lazy-load sticker cache into memory with debounced writes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T05:26:08Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 23,
+      "changedFiles": 3
+    },
+    {
+      "number": 33984,
+      "title": "fix(memory): add MemoryIndexManager.closeAll to drain cache on shutdown",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T05:24:54Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 33981,
+      "title": "fix(channels): reschedule flush after send failure to avoid losing pending text",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T05:23:19Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 33979,
+      "title": "fix(process): guard draining flag against generation change in pump finally",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T05:22:35Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 33977,
+      "title": "fix(hooks): clean up previous gmail watcher on restart to prevent state leak",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T05:20:29Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 7,
+      "changedFiles": 1
+    },
+    {
+      "number": 33972,
+      "title": "fix(channels): loop waitForInFlight until no in-flight promise remains",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T05:15:44Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 33797,
+      "title": "tests(discord): guard media proxy wiring in process handler",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T02:39:02Z",
+      "mergedAt": null,
+      "additions": 85,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 33777,
+      "title": "Agents: add workspace boundary checks to apply-patch remove and mkdirp",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T02:15:56Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

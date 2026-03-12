@@ -1,0 +1,183 @@
+{
+  "username": "haynzz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1236319?v=4",
+  "githubUrl": "https://github.com/haynzz",
+  "score": {
+    "score": 80.67,
+    "prScore": 40.17,
+    "issueScore": 39,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 212,
+    "prDeletions": 4,
+    "prChangedFiles": 9,
+    "prMergeRate": 33,
+    "issues": 6,
+    "issuesClosed": 3,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 1,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 1,
+      "commitDeletions": 1,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 6,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 1,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-02T10:05:37Z",
+  "lastContribution": "2026-03-08T19:43:38Z",
+  "recentPRs": [
+    {
+      "number": 40209,
+      "title": "fix(heartbeat): normalize system event session keys to lowercase",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T19:43:38Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39738,
+      "title": "fix(pi-embedded-runner): add recovery context to mutating tool warning on recovered turns",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T10:45:24Z",
+      "mergedAt": null,
+      "additions": 170,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 39158,
+      "title": "fix(skills): expand skill-creator description to cover edit/audit/review triggers",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T20:10:01Z",
+      "mergedAt": "2026-03-08T09:13:00Z",
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 38335,
+      "title": "Auth profile failover: no retry/backoff for recovered profiles",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T21:03:34Z",
+      "closedAt": null
+    },
+    {
+      "number": 37907,
+      "title": "Mutating tool warning fires even when agent successfully recovered in the same turn",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T14:29:00Z",
+      "closedAt": null
+    },
+    {
+      "number": 36039,
+      "title": "skill-creator: description too narrow \u2014 fails to trigger on edit/refactor tasks",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T11:46:45Z",
+      "closedAt": "2026-03-08T09:13:01Z"
+    },
+    {
+      "number": 34338,
+      "title": "requestHeartbeatNow with sessionKey silently skips for channel sessions (agent:main:slack:channel:*)",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T11:06:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 31892,
+      "title": "[Slack] Native streaming (chatStream) bypasses markdownToSlackMrkdwn conversion",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T16:29:06Z",
+      "closedAt": "2026-03-02T20:34:43Z"
+    },
+    {
+      "number": 31564,
+      "title": "Expose requestHeartbeatNow in plugin runtime API",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T10:05:37Z",
+      "closedAt": "2026-03-03T01:22:12Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-08": 1
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

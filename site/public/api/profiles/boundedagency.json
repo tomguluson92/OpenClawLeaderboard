@@ -1,0 +1,117 @@
+{
+  "username": "boundedagency",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/222099116?v=4",
+  "githubUrl": "https://github.com/boundedagency",
+  "score": {
+    "score": 27.62,
+    "prScore": 18.12,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 84,
+    "prDeletions": 12,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T06:42:55Z",
+  "lastContribution": "2026-03-10T22:53:57Z",
+  "recentPRs": [
+    {
+      "number": 42542,
+      "title": "Workspace: omit missing BOOTSTRAP.md from context report after onboarding",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T22:30:32Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39559,
+      "title": "fix(discord): poll for initial connected state instead of point-in-time check",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T06:42:55Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 12,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42542,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T22:53:57Z"
+    },
+    {
+      "prNumber": 42542,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T22:45:11Z"
+    },
+    {
+      "prNumber": 42542,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T22:45:01Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

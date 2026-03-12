@@ -1,0 +1,333 @@
+{
+  "username": "CZH-THU",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/129473798?u=abba10a9ee22fce053fad046e98584e5f7145887&v=4",
+  "githubUrl": "https://github.com/CZH-THU",
+  "score": {
+    "score": 237.42,
+    "prScore": 226.92,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 10.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 19,
+    "prsMerged": 0,
+    "prAdditions": 807,
+    "prDeletions": 95,
+    "prChangedFiles": 46,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 21,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 17,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 19,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 21,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T12:11:46Z",
+  "lastContribution": "2026-03-11T04:26:01Z",
+  "recentPRs": [
+    {
+      "number": 42772,
+      "title": "UI: Fix WebChat real-time message refresh by supporting sessionKey alias matching",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T04:06:41Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 42708,
+      "title": "cron: allow job-level model override for main + systemEvent jobs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T02:54:38Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 11,
+      "changedFiles": 6
+    },
+    {
+      "number": 41743,
+      "title": "telegram: auto-configure timeoutSeconds when proxy is set",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T04:33:10Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 40701,
+      "title": "feishu: prioritize session accountId over config defaultAccount in tools",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T06:47:19Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 40671,
+      "title": "gateway: wait for ACP backend ready before identity reconcile",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T06:11:36Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 40633,
+      "title": "Fix/telegram mention gating log 40567",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T05:25:22Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 40612,
+      "title": "fix(config): name offending field in binding strict() validation errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T05:01:27Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 40596,
+      "title": "fix(telegram): log mention gating drops for debugging",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T04:45:22Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 39790,
+      "title": "fix(gateway): strip inbound metadata from TUI session titles and prefer external displayName",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T11:58:02Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 38909,
+      "title": "fix(gateway): accept http:// and https:// loopback URLs in isSecureWebSocketUrl",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T14:00:07Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 36,
+      "changedFiles": 5
+    },
+    {
+      "number": 38898,
+      "title": "fix(web-search): add Content-Type header to Brave Search API requests",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T13:48:27Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 37932,
+      "title": "fix(web-search): fallback to BRAVE_API_KEY env var when config secret input cannot be resolved",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T14:42:27Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 7,
+      "changedFiles": 1
+    },
+    {
+      "number": 37887,
+      "title": "fix(tui): omit channel field for webchat messages to prevent cross-delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T14:09:34Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 34396,
+      "title": "docs: clarify agent workspace paths vs media whitelist (#34161)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T12:10:33Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 33076,
+      "title": "feat(discord): add option to omit per-message metadata blocks (#21371)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T13:50:50Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 4,
+      "changedFiles": 8
+    },
+    {
+      "number": 33061,
+      "title": "fix(auto-reply): trim static thread metadata in inbound context (#33042)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T13:40:36Z",
+      "mergedAt": null,
+      "additions": 87,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 33052,
+      "title": "fix(feishu): reply to triggering message in group threads (#32980)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T13:29:24Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 31683,
+      "title": "fix(android): pass authentication headers to Canvas WebView for Gateway canvas host",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T12:44:06Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 31662,
+      "title": "fix(slack): use channel-level session key when replyToMode=off and message is top-level",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T12:11:46Z",
+      "mergedAt": null,
+      "additions": 92,
+      "deletions": 4,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

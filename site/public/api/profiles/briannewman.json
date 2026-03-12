@@ -1,0 +1,113 @@
+{
+  "username": "briannewman",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16906394?v=4",
+  "githubUrl": "https://github.com/briannewman",
+  "score": {
+    "score": 24.12,
+    "prScore": 9.12,
+    "issueScore": 10,
+    "reviewScore": 3,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 9,
+    "prDeletions": 24,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T06:54:21Z",
+  "lastContribution": "2026-03-11T15:00:49Z",
+  "recentPRs": [
+    {
+      "number": 41861,
+      "title": "fix(export): fix broken template placeholders in session export HTML",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T06:54:21Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 24,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42530,
+      "title": "Mac app kills running gateway on launch despite disable-launchagent sentinel",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T22:01:38Z",
+      "closedAt": null
+    },
+    {
+      "number": 41862,
+      "title": "export-session HTML renders blank \u2014 template placeholders broken by formatter",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T06:54:34Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41861,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T22:36:03Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 1
+    }
+  }
+}

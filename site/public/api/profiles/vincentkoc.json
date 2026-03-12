@@ -1,0 +1,538 @@
+{
+  "username": "vincentkoc",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25068?v=4",
+  "githubUrl": "https://github.com/vincentkoc",
+  "score": {
+    "score": 3410.74,
+    "prScore": 3227.74,
+    "issueScore": 23,
+    "reviewScore": 60,
+    "commentScore": 100
+  },
+  "tier": "elite",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 425,
+    "prs": 103,
+    "prsMerged": 71,
+    "prAdditions": 30698,
+    "prDeletions": 8485,
+    "prChangedFiles": 1193,
+    "prMergeRate": 69,
+    "issues": 4,
+    "issuesClosed": 1,
+    "reviews": 20,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 201,
+    "commitAdditions": 30289,
+    "commitDeletions": 8498,
+    "weeklyCommits": 43,
+    "monthlyCommits": 509,
+    "commitChangedFiles": 1481
+  },
+  "period": {
+    "weekly": {
+      "prs": 85,
+      "issues": 1,
+      "reviews": 14,
+      "comments": 161,
+      "commitAdditions": 15036,
+      "commitDeletions": 5171,
+      "commits": 206
+    },
+    "monthly": {
+      "prs": 103,
+      "issues": 4,
+      "reviews": 20,
+      "comments": 201,
+      "commitAdditions": 30288,
+      "commitDeletions": 8498,
+      "commits": 435
+    }
+  },
+  "firstContribution": "2026-02-28T08:13:05Z",
+  "lastContribution": "2026-03-12T05:00:06Z",
+  "recentPRs": [
+    {
+      "number": 43687,
+      "title": "Security: escape invisible exec approval format chars",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T05:00:06Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 15,
+      "changedFiles": 4
+    },
+    {
+      "number": 43686,
+      "title": "Infra: cap device tokens to approved scopes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T04:57:40Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43685,
+      "title": "Infra: block GIT_EXEC_PATH in host env sanitizer",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T04:57:40Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 43684,
+      "title": "fix(browser): restore proxy attachment media size cap",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T04:56:49Z",
+      "mergedAt": "2026-03-12T05:04:32Z",
+      "additions": 56,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 43683,
+      "title": "Runtime: share singleton state across bundled chunks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T04:54:49Z",
+      "mergedAt": null,
+      "additions": 353,
+      "deletions": 52,
+      "changedFiles": 14
+    },
+    {
+      "number": 43520,
+      "title": "fix(terminal): sanitize skills JSON and fallback on legacy Windows",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T23:35:53Z",
+      "mergedAt": "2026-03-11T23:53:07Z",
+      "additions": 143,
+      "deletions": 7,
+      "changedFiles": 5
+    },
+    {
+      "number": 42849,
+      "title": "fix(terminal): stabilize skills table width across Terminal.app and iTerm",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T05:42:10Z",
+      "mergedAt": "2026-03-11T13:13:10Z",
+      "additions": 298,
+      "deletions": 66,
+      "changedFiles": 32
+    },
+    {
+      "number": 42835,
+      "title": "Agents: recover malformed Anthropic-compatible tool call args",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T05:22:46Z",
+      "mergedAt": null,
+      "additions": 301,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 42528,
+      "title": "fix(kimi-coding): ignore stale Anthropic tool compat overrides",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T21:56:58Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 42256,
+      "title": "fix(sandbox): sanitize Docker env before marking OPENCLAW_CLI",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T14:57:59Z",
+      "mergedAt": "2026-03-11T04:59:36Z",
+      "additions": 41,
+      "deletions": 14,
+      "changedFiles": 3
+    },
+    {
+      "number": 42249,
+      "title": "fix(terminal): align table wrapping for wide graphemes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T14:52:10Z",
+      "mergedAt": null,
+      "additions": 140,
+      "deletions": 12,
+      "changedFiles": 5
+    },
+    {
+      "number": 41415,
+      "title": "docs(logging): define diagnostics as the telemetry surface",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T20:29:46Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 41411,
+      "title": "feat(exec): mark child command env with OPENCLAW_CLI",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T20:26:05Z",
+      "mergedAt": "2026-03-09T23:14:08Z",
+      "additions": 41,
+      "deletions": 5,
+      "changedFiles": 8
+    },
+    {
+      "number": 41403,
+      "title": "docs: define hook surface ownership and middleware guidance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T20:17:33Z",
+      "mergedAt": null,
+      "additions": 90,
+      "deletions": 30,
+      "changedFiles": 2
+    },
+    {
+      "number": 41386,
+      "title": "Doctor: honor repair gating for legacy cron fixes",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T19:34:22Z",
+      "mergedAt": "2026-03-09T19:35:32Z",
+      "additions": 116,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 41375,
+      "title": "fix(hooks): deliver internal hook replies on replyable surfaces",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T19:13:36Z",
+      "mergedAt": null,
+      "additions": 237,
+      "deletions": 35,
+      "changedFiles": 7
+    },
+    {
+      "number": 41341,
+      "title": "fix(telegram): use DM thread hook session for plugin commands",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T18:10:07Z",
+      "mergedAt": null,
+      "additions": 10049,
+      "deletions": 2949,
+      "changedFiles": 324
+    },
+    {
+      "number": 41277,
+      "title": "fix(gateway): run before_reset hooks for sessions.reset",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T16:49:12Z",
+      "mergedAt": null,
+      "additions": 371,
+      "deletions": 61,
+      "changedFiles": 9
+    },
+    {
+      "number": 40351,
+      "title": "Docker: improve build cache reuse",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T23:25:48Z",
+      "mergedAt": "2026-03-09T00:57:47Z",
+      "additions": 237,
+      "deletions": 47,
+      "changedFiles": 13
+    },
+    {
+      "number": 40345,
+      "title": "fix(tui): improve color contrast for light-background terminals",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T23:12:01Z",
+      "mergedAt": "2026-03-08T23:17:28Z",
+      "additions": 381,
+      "deletions": 5,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 36133,
+      "title": "ACP parent relay: tighten runId contract handling and cover idempotency-key happy path",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T12:50:24Z",
+      "closedAt": "2026-03-05T12:57:08Z"
+    },
+    {
+      "number": 33960,
+      "title": "[Feature]: Image generation input parity for URL and path sources",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T05:08:31Z",
+      "closedAt": null
+    },
+    {
+      "number": 33958,
+      "title": "[Feature]: Immutable operator defaults policy (SYSTEM_TOOLS.md-style)",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T05:08:19Z",
+      "closedAt": null
+    },
+    {
+      "number": 33957,
+      "title": "[Feature]: Interactive CLI output streaming + attach/recover (tmux-style)",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T05:08:10Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 42256,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T15:22:08Z"
+    },
+    {
+      "prNumber": 40185,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:36:45Z"
+    },
+    {
+      "prNumber": 38438,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T16:25:12Z"
+    },
+    {
+      "prNumber": 38418,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T01:07:31Z"
+    },
+    {
+      "prNumber": 34068,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T13:09:49Z"
+    },
+    {
+      "prNumber": 34501,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T12:57:59Z"
+    },
+    {
+      "prNumber": 34501,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T12:57:50Z"
+    },
+    {
+      "prNumber": 34068,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T12:54:32Z"
+    },
+    {
+      "prNumber": 34068,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T12:54:30Z"
+    },
+    {
+      "prNumber": 34068,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T12:54:29Z"
+    },
+    {
+      "prNumber": 34068,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T12:54:28Z"
+    },
+    {
+      "prNumber": 34068,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T12:54:26Z"
+    },
+    {
+      "prNumber": 34310,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T12:50:36Z"
+    },
+    {
+      "prNumber": 34310,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T12:50:34Z"
+    },
+    {
+      "prNumber": 34884,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T19:44:51Z"
+    },
+    {
+      "prNumber": 34884,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T19:44:50Z"
+    },
+    {
+      "prNumber": 34055,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T06:46:22Z"
+    },
+    {
+      "prNumber": 34055,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T06:46:21Z"
+    },
+    {
+      "prNumber": 34055,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T06:46:20Z"
+    },
+    {
+      "prNumber": 34055,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T06:46:19Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "centurion",
+      "label": "Centurion",
+      "description": "100+ commits"
+    },
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "pr-legend",
+      "label": "PR Legend",
+      "description": "100+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "merge-master",
+      "label": "Merge Master",
+      "description": "50+ merged PRs"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 12,
+    "2026-03-11": 3,
+    "2026-03-10": 1,
+    "2026-03-09": 6,
+    "2026-03-08": 95,
+    "2026-03-07": 26,
+    "2026-03-06": 55,
+    "2026-03-05": 8,
+    "2026-03-04": 9,
+    "2026-03-03": 22,
+    "2026-03-02": 29,
+    "2026-03-01": 26,
+    "2026-02-28": 16,
+    "2026-02-27": 9,
+    "2026-02-26": 6,
+    "2026-02-25": 14,
+    "2026-02-24": 7,
+    "2026-02-23": 18,
+    "2026-02-22": 14,
+    "2026-02-21": 40,
+    "2026-02-19": 17,
+    "2026-02-14": 1,
+    "2026-02-13": 1,
+    "2026-02-05": 1
+  },
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-09": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 10
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 6
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

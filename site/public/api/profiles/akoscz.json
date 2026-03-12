@@ -1,0 +1,149 @@
+{
+  "username": "akoscz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1360047?v=4",
+  "githubUrl": "https://github.com/akoscz",
+  "score": {
+    "score": 194.93,
+    "prScore": 194.93,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 2,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 12629,
+    "prDeletions": 24,
+    "prChangedFiles": 57,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 1076,
+    "commitDeletions": 21,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 15
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 1076,
+      "commitDeletions": 21,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-12T03:38:13Z",
+  "lastContribution": "2026-03-12T03:39:00Z",
+  "recentPRs": [
+    {
+      "number": 43646,
+      "title": "feat(secrets): add secret rotation reminders and auto-rotation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T03:39:00Z",
+      "mergedAt": null,
+      "additions": 2658,
+      "deletions": 4,
+      "changedFiles": 9
+    },
+    {
+      "number": 43645,
+      "title": "feat(secrets): add HashiCorp Vault KV v2 secret provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T03:38:50Z",
+      "mergedAt": null,
+      "additions": 2211,
+      "deletions": 4,
+      "changedFiles": 8
+    },
+    {
+      "number": 43644,
+      "title": "feat(secrets): add Azure Key Vault secret provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T03:38:39Z",
+      "mergedAt": null,
+      "additions": 1845,
+      "deletions": 4,
+      "changedFiles": 8
+    },
+    {
+      "number": 43643,
+      "title": "feat(secrets): add AWS Secrets Manager provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T03:38:32Z",
+      "mergedAt": null,
+      "additions": 1774,
+      "deletions": 4,
+      "changedFiles": 8
+    },
+    {
+      "number": 43641,
+      "title": "feat(secrets): add keyring and 1Password secret providers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T03:38:23Z",
+      "mergedAt": null,
+      "additions": 1519,
+      "deletions": 4,
+      "changedFiles": 10
+    },
+    {
+      "number": 43640,
+      "title": "feat(secrets): add env secret provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T03:38:13Z",
+      "mergedAt": null,
+      "additions": 2622,
+      "deletions": 4,
+      "changedFiles": 14
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-02-23": 1,
+    "2026-02-14": 1
+  },
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

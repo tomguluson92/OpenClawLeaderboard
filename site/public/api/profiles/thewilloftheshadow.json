@@ -1,0 +1,236 @@
+{
+  "username": "thewilloftheshadow",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35580099?v=4",
+  "githubUrl": "https://github.com/thewilloftheshadow",
+  "score": {
+    "score": 1847.62,
+    "prScore": 1821.62,
+    "issueScore": 0,
+    "reviewScore": 4,
+    "commentScore": 22
+  },
+  "tier": "elite",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 313,
+    "prs": 8,
+    "prsMerged": 8,
+    "prAdditions": 2369,
+    "prDeletions": 89,
+    "prChangedFiles": 55,
+    "prMergeRate": 100,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 1,
+    "reviewsChangesRequested": 0,
+    "comments": 44,
+    "commitAdditions": 81650,
+    "commitDeletions": 45800,
+    "weeklyCommits": 7,
+    "monthlyCommits": 103,
+    "commitChangedFiles": 1964
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 8,
+      "commitAdditions": 342,
+      "commitDeletions": 113,
+      "commits": 13
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 44,
+      "commitAdditions": 22831,
+      "commitDeletions": 4847,
+      "commits": 134
+    }
+  },
+  "firstContribution": "2026-02-28T00:40:28Z",
+  "lastContribution": "2026-03-10T03:41:51Z",
+  "recentPRs": [
+    {
+      "number": 38356,
+      "title": "docs: add changelog entry for Feishu timeout cleanup",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T21:53:01Z",
+      "mergedAt": "2026-03-06T21:53:10Z",
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 33277,
+      "title": "fix(discord): auto presence health signal",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T16:48:51Z",
+      "mergedAt": "2026-03-03T17:21:00Z",
+      "additions": 690,
+      "deletions": 3,
+      "changedFiles": 13
+    },
+    {
+      "number": 33275,
+      "title": "fix(discord): allowlist CDN hostnames for SSRF media",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T16:48:27Z",
+      "mergedAt": "2026-03-03T17:17:27Z",
+      "additions": 129,
+      "deletions": 13,
+      "changedFiles": 4
+    },
+    {
+      "number": 33226,
+      "title": "fix(discord): retry chunk delivery",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T16:05:29Z",
+      "mergedAt": "2026-03-03T16:17:33Z",
+      "additions": 243,
+      "deletions": 13,
+      "changedFiles": 3
+    },
+    {
+      "number": 33224,
+      "title": "Discord: improve mention handling",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T16:05:06Z",
+      "mergedAt": "2026-03-03T16:32:22Z",
+      "additions": 681,
+      "deletions": 17,
+      "changedFiles": 18
+    },
+    {
+      "number": 33142,
+      "title": "fix(discord): harden channel resolution",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T15:02:55Z",
+      "mergedAt": "2026-03-03T15:31:27Z",
+      "additions": 284,
+      "deletions": 40,
+      "changedFiles": 6
+    },
+    {
+      "number": 33136,
+      "title": "fix(discord): accept /acp inline action + ignore bound-thread system messages",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T15:00:30Z",
+      "mergedAt": "2026-03-03T15:30:21Z",
+      "additions": 284,
+      "deletions": 3,
+      "changedFiles": 7
+    },
+    {
+      "number": 33125,
+      "title": "fix(discord): ignore wildcard in audit unresolved count",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T14:53:23Z",
+      "mergedAt": "2026-03-03T15:28:30Z",
+      "additions": 57,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 41692,
+      "state": "APPROVED",
+      "createdAt": "2026-03-10T03:41:51Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "centurion",
+      "label": "Centurion",
+      "description": "100+ commits"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "precision",
+      "label": "Precision",
+      "description": "90%+ PR merge rate"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-11": 1,
+    "2026-03-10": 4,
+    "2026-03-08": 1,
+    "2026-03-06": 7,
+    "2026-03-03": 20,
+    "2026-03-01": 2,
+    "2026-02-28": 2,
+    "2026-02-26": 1,
+    "2026-02-25": 1,
+    "2026-02-21": 10,
+    "2026-02-20": 17,
+    "2026-02-19": 1,
+    "2026-02-17": 5,
+    "2026-02-16": 8,
+    "2026-02-15": 7,
+    "2026-02-14": 6,
+    "2026-02-13": 22,
+    "2026-02-12": 12,
+    "2026-02-11": 3,
+    "2026-02-10": 11,
+    "2026-02-02": 1,
+    "2026-02-01": 4,
+    "2026-01-28": 14,
+    "2026-01-27": 16,
+    "2026-01-26": 50,
+    "2026-01-25": 1,
+    "2026-01-21": 1,
+    "2026-01-20": 1,
+    "2026-01-19": 1,
+    "2026-01-17": 5,
+    "2026-01-16": 1,
+    "2026-01-15": 2,
+    "2026-01-14": 2,
+    "2026-01-13": 12,
+    "2026-01-11": 3
+  },
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

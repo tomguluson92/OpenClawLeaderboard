@@ -1,0 +1,154 @@
+{
+  "username": "r266-tech",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/233881301?v=4",
+  "githubUrl": "https://github.com/r266-tech",
+  "score": {
+    "score": 81.99,
+    "prScore": 80.99,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 451,
+    "prDeletions": 35,
+    "prChangedFiles": 21,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T10:32:40Z",
+  "lastContribution": "2026-03-10T07:27:31Z",
+  "recentPRs": [
+    {
+      "number": 40594,
+      "title": "fix(config): surface unrecognized key names in union validation errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T04:44:10Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39174,
+      "title": "feat(bootstrap): support arbitrary workspace files in bootstrap-extra-files hook",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T20:52:36Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 29,
+      "changedFiles": 3
+    },
+    {
+      "number": 37491,
+      "title": "fix(logging): rotate log file on date change",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T08:55:54Z",
+      "mergedAt": null,
+      "additions": 83,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 33210,
+      "title": "fix(agents): add Mistral turn ordering validation to prevent tool\u2192user sequence error",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T15:54:37Z",
+      "mergedAt": null,
+      "additions": 192,
+      "deletions": 2,
+      "changedFiles": 8
+    },
+    {
+      "number": 33203,
+      "title": "fix(heartbeat): treat horizontal rules as effectively empty content",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T15:53:22Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 32894,
+      "title": "fix(telegram): add setStatus integration for channel health monitoring",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T10:32:40Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

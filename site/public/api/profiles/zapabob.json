@@ -1,0 +1,111 @@
+{
+  "username": "zapabob",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/130830376?u=305e7e1d44445030467027c1de223586e0b9d3a6&v=4",
+  "githubUrl": "https://github.com/zapabob",
+  "score": {
+    "score": 196.55,
+    "prScore": 196.55,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 79187,
+    "prDeletions": 113778,
+    "prChangedFiles": 1780,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T12:03:05Z",
+  "lastContribution": "2026-03-10T12:06:27Z",
+  "recentPRs": [
+    {
+      "number": 42108,
+      "title": "Claude/fix gateway startup ys t uk",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T12:06:27Z",
+      "mergedAt": null,
+      "additions": 51857,
+      "deletions": 47127,
+      "changedFiles": 636
+    },
+    {
+      "number": 31650,
+      "title": "[Core] Optimize CLI-to-Gateway WebSocket connection handling and reduce latency",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T12:03:05Z",
+      "mergedAt": null,
+      "additions": 27330,
+      "deletions": 66651,
+      "changedFiles": 1144
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

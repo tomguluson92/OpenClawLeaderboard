@@ -1,0 +1,175 @@
+{
+  "username": "eveiljuice",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/152583228?u=d1c86803b1d7584a03477b158297d579d479c50f&v=4",
+  "githubUrl": "https://github.com/eveiljuice",
+  "score": {
+    "score": 122.62,
+    "prScore": 105.12,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 4.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 2377,
+    "prDeletions": 45,
+    "prChangedFiles": 27,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 9,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 8,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T15:31:34Z",
+  "lastContribution": "2026-03-09T10:03:05Z",
+  "recentPRs": [
+    {
+      "number": 40823,
+      "title": "fix(telegram): split messages at word boundaries instead of mid-word",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T09:34:54Z",
+      "mergedAt": null,
+      "additions": 112,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39456,
+      "title": "fix(telegram): add cross-turn dedup cache to prevent duplicate messages after context compaction",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T04:27:59Z",
+      "mergedAt": null,
+      "additions": 247,
+      "deletions": 16,
+      "changedFiles": 5
+    },
+    {
+      "number": 39455,
+      "title": "fix(telegram): delete orphaned preview message after fallback send",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T04:27:39Z",
+      "mergedAt": null,
+      "additions": 615,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 38644,
+      "title": "fix(telegram): prevent duplicate messages in DM streaming",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T06:34:41Z",
+      "mergedAt": null,
+      "additions": 273,
+      "deletions": 16,
+      "changedFiles": 6
+    },
+    {
+      "number": 36473,
+      "title": "feat(skills): add openclaw-doctor \u2014 autonomous gateway diagnostics & self-healing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T16:59:24Z",
+      "mergedAt": null,
+      "additions": 1058,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 31852,
+      "title": "feat(telegram): add nativeStreaming via sendMessageDraft (Bot API 9.5)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-02T15:45:19Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 0,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 36455,
+      "title": "[Feature]: Self-healing gateway skill (openclaw-doctor) \u2014 autonomous diagnostics & auto-fix",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T16:43:17Z",
+      "closedAt": null
+    },
+    {
+      "number": 31843,
+      "title": "[Feature]: Telegram native sendMessageDraft streaming support",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T15:31:34Z",
+      "closedAt": "2026-03-02T16:45:41Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

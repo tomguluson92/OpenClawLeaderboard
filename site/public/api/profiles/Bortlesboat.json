@@ -1,0 +1,221 @@
+{
+  "username": "Bortlesboat",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/169967362?u=1e0fe2810a1aee4936cfa23a629593bc32632599&v=4",
+  "githubUrl": "https://github.com/Bortlesboat",
+  "score": {
+    "score": 141.5,
+    "prScore": 141.5,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 13,
+    "prsMerged": 0,
+    "prAdditions": 599,
+    "prDeletions": 48,
+    "prChangedFiles": 26,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T10:07:00Z",
+  "lastContribution": "2026-03-08T11:32:59Z",
+  "recentPRs": [
+    {
+      "number": 39771,
+      "title": "fix(matrix): cap room info cache to prevent unbounded memory growth",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T11:32:59Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39769,
+      "title": "fix(agents): evict expired entries from subagent steer rate-limit map",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T11:29:44Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39767,
+      "title": "fix(voice-call): clear connection timeout timer on WebSocket open/error",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T11:26:32Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 6,
+      "changedFiles": 1
+    },
+    {
+      "number": 39751,
+      "title": "fix(nostr): cap decrypted DM length to prevent memory exhaustion",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T11:07:41Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39750,
+      "title": "fix(nostr): validate account ID format in profile HTTP handler",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T11:05:47Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39748,
+      "title": "fix(nostr): validate relay URLs require WebSocket protocol (wss/ws)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T11:00:24Z",
+      "mergedAt": null,
+      "additions": 91,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 39745,
+      "title": "fix(synology-chat,twitch,zalouser): clear timeout timers in Promise.race patterns",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T10:57:56Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 19,
+      "changedFiles": 3
+    },
+    {
+      "number": 39742,
+      "title": "fix(nostr): clear relay publish timers to prevent leaks and unhandled rejections",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T10:52:42Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 39737,
+      "title": "fix(agents): add LRU promotion to web tool response cache",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T10:45:11Z",
+      "mergedAt": null,
+      "additions": 121,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39717,
+      "title": "fix: prevent internal tool errors from leaking into Telegram chat",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T10:16:43Z",
+      "mergedAt": null,
+      "additions": 131,
+      "deletions": 11,
+      "changedFiles": 5
+    },
+    {
+      "number": 39710,
+      "title": "fix: tighten sandbox base64 heuristic to reduce false positives",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T10:13:47Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39708,
+      "title": "docs: add advanced features section to creating-skills guide",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T10:12:30Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39703,
+      "title": "fix: use LRU eviction for cron schedule cache instead of FIFO",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T10:07:00Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

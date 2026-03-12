@@ -1,0 +1,261 @@
+{
+  "username": "yuweuii",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82372187?v=4",
+  "githubUrl": "https://github.com/yuweuii",
+  "score": {
+    "score": 233.46,
+    "prScore": 214.46,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 6
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 13,
+    "prsMerged": 2,
+    "prAdditions": 2184,
+    "prDeletions": 180,
+    "prChangedFiles": 70,
+    "prMergeRate": 15,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 12,
+    "commitAdditions": 125,
+    "commitDeletions": 26,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 14
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 12,
+      "commitAdditions": 125,
+      "commitDeletions": 26,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 13,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 12,
+      "commitAdditions": 125,
+      "commitDeletions": 26,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-03T14:40:52Z",
+  "lastContribution": "2026-03-10T13:24:40Z",
+  "recentPRs": [
+    {
+      "number": 38218,
+      "title": "feat(gateway): add explicit post-restart continuation prompts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T17:29:01Z",
+      "mergedAt": null,
+      "additions": 270,
+      "deletions": 39,
+      "changedFiles": 13
+    },
+    {
+      "number": 38208,
+      "title": "fix(discord): preserve native command session keys",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T17:20:08Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 38044,
+      "title": "fix(sessions): clear stale contextTokens on model switch",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T15:35:51Z",
+      "mergedAt": "2026-03-08T17:59:16Z",
+      "additions": 99,
+      "deletions": 11,
+      "changedFiles": 8
+    },
+    {
+      "number": 37876,
+      "title": "fix(models): use 1M context for openai-codex gpt-5.4",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T13:56:29Z",
+      "mergedAt": "2026-03-09T01:23:49Z",
+      "additions": 26,
+      "deletions": 15,
+      "changedFiles": 6
+    },
+    {
+      "number": 36966,
+      "title": "feat(models): add openai-codex gpt-5.4 forward-compat fallback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T01:24:56Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 27,
+      "changedFiles": 8
+    },
+    {
+      "number": 35142,
+      "title": "gateway: avoid false stale-socket restarts for idle iMessage",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T01:07:48Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 35137,
+      "title": "exec approvals: honor allow-always for bash script invocations",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T01:04:19Z",
+      "mergedAt": null,
+      "additions": 184,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 34485,
+      "title": "runner: infer names from malformed toolCallId variants",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T13:42:01Z",
+      "mergedAt": null,
+      "additions": 467,
+      "deletions": 27,
+      "changedFiles": 4
+    },
+    {
+      "number": 34482,
+      "title": "daemon/systemd: treat user-bus-unavailable is-enabled as disabled",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T13:39:03Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 17,
+      "changedFiles": 3
+    },
+    {
+      "number": 34417,
+      "title": "reply: add automatic 85/95 context pressure warnings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T12:31:43Z",
+      "mergedAt": null,
+      "additions": 321,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 33905,
+      "title": "version: fix stale Control UI badge after upgrades",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T04:14:38Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 21,
+      "changedFiles": 5
+    },
+    {
+      "number": 33188,
+      "title": "errors: avoid jinja false-positive context-overflow classification",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T15:38:16Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 17,
+      "changedFiles": 4
+    },
+    {
+      "number": 33115,
+      "title": "runner: sanitize verbose assistant API errors before transcript replay",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T14:40:52Z",
+      "mergedAt": null,
+      "additions": 466,
+      "deletions": 1,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42171,
+      "title": "browser snapshot ai tool-result images can poison Codex sessions when replayed from transcript history",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T13:24:40Z",
+      "closedAt": null
+    },
+    {
+      "number": 37875,
+      "title": "openai-codex/gpt-5.4 forward-compat fallback still uses 272k context",
+      "state": "CLOSED",
+      "createdAt": "2026-03-06T13:56:17Z",
+      "closedAt": "2026-03-09T01:23:51Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-09": 1,
+    "2026-03-08": 1
+  },
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

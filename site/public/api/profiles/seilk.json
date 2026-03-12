@@ -1,0 +1,110 @@
+{
+  "username": "seilk",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/88271769?u=2c209be6fdc493be4609998e6b6ec1e3e1f46530&v=4",
+  "githubUrl": "https://github.com/seilk",
+  "score": {
+    "score": 25.12,
+    "prScore": 14.12,
+    "issueScore": 5,
+    "reviewScore": 6,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 91,
+    "prDeletions": 23,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T15:58:19Z",
+  "lastContribution": "2026-03-09T16:58:48Z",
+  "recentPRs": [
+    {
+      "number": 41222,
+      "title": "fix(outbound): preserve indentation in parsed reply payloads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T16:06:23Z",
+      "mergedAt": null,
+      "additions": 91,
+      "deletions": 23,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41215,
+      "title": "[Bug]: Outbound reply parsing flattens indentation in final payload text",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T15:58:19Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41222,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:58:48Z"
+    },
+    {
+      "prNumber": 41222,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T16:58:48Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    }
+  }
+}

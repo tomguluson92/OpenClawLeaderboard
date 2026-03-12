@@ -1,0 +1,129 @@
+{
+  "username": "fellanH",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30758862?u=37b7ca041f6ba93c664138fc6f21c22f5d6b1096&v=4",
+  "githubUrl": "https://github.com/fellanH",
+  "score": {
+    "score": 133.65,
+    "prScore": 133.65,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 1,
+    "prAdditions": 384,
+    "prDeletions": 186,
+    "prChangedFiles": 65,
+    "prMergeRate": 20,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 11,
+    "commitDeletions": 6,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 11,
+      "commitDeletions": 6,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 11,
+      "commitDeletions": 6,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-08T01:00:56Z",
+  "lastContribution": "2026-03-08T01:06:10Z",
+  "recentPRs": [
+    {
+      "number": 39321,
+      "title": "macOS: fix VoiceWakeOverlayController exclusivity violation (clean)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T01:06:10Z",
+      "mergedAt": "2026-03-08T13:47:28Z",
+      "additions": 11,
+      "deletions": 6,
+      "changedFiles": 4
+    },
+    {
+      "number": 39320,
+      "title": "UI: fix agent settings save button for auto-discovered agents",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T01:05:58Z",
+      "mergedAt": null,
+      "additions": 143,
+      "deletions": 129,
+      "changedFiles": 20
+    },
+    {
+      "number": 39319,
+      "title": "Gateway: fix duplicate chat messages in Webchat",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T01:04:21Z",
+      "mergedAt": null,
+      "additions": 91,
+      "deletions": 37,
+      "changedFiles": 19
+    },
+    {
+      "number": 39314,
+      "title": "macOS: fix VoiceWakeOverlayController exclusivity violation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T01:01:01Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 10,
+      "changedFiles": 13
+    },
+    {
+      "number": 39313,
+      "title": "Telegram: add webhookCertPath and skip stale-socket in webhook mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T01:00:56Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 4,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-08": 1
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

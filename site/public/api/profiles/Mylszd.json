@@ -1,0 +1,124 @@
+{
+  "username": "Mylszd",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23611557?v=4",
+  "githubUrl": "https://github.com/Mylszd",
+  "score": {
+    "score": 64.37,
+    "prScore": 62.87,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 1,
+    "prAdditions": 306,
+    "prDeletions": 20,
+    "prChangedFiles": 15,
+    "prMergeRate": 25,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 20,
+    "commitDeletions": 19,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 20,
+      "commitDeletions": 19,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-03T15:32:42Z",
+  "lastContribution": "2026-03-04T02:50:48Z",
+  "recentPRs": [
+    {
+      "number": 33820,
+      "title": "fix(gateway): hot-reload agents.defaults.models changes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T02:50:48Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 1,
+      "changedFiles": 6
+    },
+    {
+      "number": 33805,
+      "title": "fix(failover): recognize zhipuai Weekly/Monthly Limit Exhausted as rate limit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T02:43:23Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 33701,
+      "title": "fix(heartbeat): avoid followup chaining when replies routed via messaging tool",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T01:06:36Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 33182,
+      "title": "docs(loop-detection): fix config keys to match schema",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T15:32:42Z",
+      "mergedAt": "2026-03-03T16:02:30Z",
+      "additions": 20,
+      "deletions": 19,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-03": 1
+  },
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

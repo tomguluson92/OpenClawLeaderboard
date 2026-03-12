@@ -1,0 +1,385 @@
+{
+  "username": "zeroaltitude",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/102749?v=4",
+  "githubUrl": "https://github.com/zeroaltitude",
+  "score": {
+    "score": 372.14,
+    "prScore": 245.14,
+    "issueScore": 5,
+    "reviewScore": 105,
+    "commentScore": 17
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 14,
+    "prsMerged": 0,
+    "prAdditions": 16660,
+    "prDeletions": 1547,
+    "prChangedFiles": 128,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 35,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 34,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 10,
+      "issues": 1,
+      "reviews": 20,
+      "comments": 31,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 14,
+      "issues": 1,
+      "reviews": 35,
+      "comments": 34,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T03:25:39Z",
+  "lastContribution": "2026-03-11T20:19:45Z",
+  "recentPRs": [
+    {
+      "number": 39207,
+      "title": "feat(hooks): add before_response_emit hook for output policies [claude, human developer oversight]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T21:40:01Z",
+      "mergedAt": null,
+      "additions": 1840,
+      "deletions": 5,
+      "changedFiles": 6
+    },
+    {
+      "number": 39206,
+      "title": "feat(hooks): add before_llm_call + after_llm_call plugin hooks [claude, human developer oversight]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T21:39:44Z",
+      "mergedAt": null,
+      "additions": 1233,
+      "deletions": 17,
+      "changedFiles": 11
+    },
+    {
+      "number": 39203,
+      "title": "feat(hooks): add before_response_emit hook for output policies",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:36:14Z",
+      "mergedAt": null,
+      "additions": 2161,
+      "deletions": 10,
+      "changedFiles": 13
+    },
+    {
+      "number": 39200,
+      "title": "feat(hooks): add after_llm_call hook with deterministic Promise-based gate",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:31:41Z",
+      "mergedAt": null,
+      "additions": 1181,
+      "deletions": 10,
+      "changedFiles": 11
+    },
+    {
+      "number": 39195,
+      "title": "feat(hooks): add before_llm_call plugin hook for LLM input interception",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:26:16Z",
+      "mergedAt": null,
+      "additions": 645,
+      "deletions": 10,
+      "changedFiles": 8
+    },
+    {
+      "number": 38162,
+      "title": "feat(hooks): add sessionSaveRedirectPath to session memory handler [claude, human developer oversight]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T16:44:37Z",
+      "mergedAt": null,
+      "additions": 927,
+      "deletions": 78,
+      "changedFiles": 7
+    },
+    {
+      "number": 38161,
+      "title": "feat(hooks): postHookActions mechanism, blockSessionSave/sessionSaveContent, and slug-generation hardening",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T16:44:10Z",
+      "mergedAt": null,
+      "additions": 851,
+      "deletions": 36,
+      "changedFiles": 6
+    },
+    {
+      "number": 37957,
+      "title": "feat(hooks): add after_llm_call hook with gate bridge pattern [claude, human developer oversight]",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:03:15Z",
+      "mergedAt": null,
+      "additions": 2273,
+      "deletions": 626,
+      "changedFiles": 15
+    },
+    {
+      "number": 37956,
+      "title": "feat(hooks): add before_llm_call and before_response_emit modifying hooks [claude, human developer oversight]",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:02:59Z",
+      "mergedAt": null,
+      "additions": 1754,
+      "deletions": 615,
+      "changedFiles": 12
+    },
+    {
+      "number": 35567,
+      "title": "feat(hooks): add session memory policy controls (blockSessionSave, redirectPath) [claude, human developer oversight]",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:19:13Z",
+      "mergedAt": null,
+      "additions": 357,
+      "deletions": 35,
+      "changedFiles": 3
+    },
+    {
+      "number": 33916,
+      "title": "feat(hooks): add before_llm_call, after_llm_call, before_response_emit tool/content mutating hooks [claude, human developer oversight]",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T04:21:00Z",
+      "mergedAt": null,
+      "additions": 2195,
+      "deletions": 49,
+      "changedFiles": 15
+    },
+    {
+      "number": 33915,
+      "title": "feat(hooks): add context_assembled, loop_iteration_start/end observability hooks [claude, human developer oversight]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T04:20:42Z",
+      "mergedAt": null,
+      "additions": 409,
+      "deletions": 13,
+      "changedFiles": 6
+    },
+    {
+      "number": 33914,
+      "title": "feat(hooks): add sender identity and session context to plugin hook agent context [claude, human developer oversight]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T04:20:26Z",
+      "mergedAt": null,
+      "additions": 606,
+      "deletions": 41,
+      "changedFiles": 13
+    },
+    {
+      "number": 33845,
+      "title": "fix(slack): persist thread participation cache to survive gateway restarts [claude, human developer oversight]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T03:25:39Z",
+      "mergedAt": null,
+      "additions": 228,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 36671,
+      "title": "[Feature] Hooks extensions for security plugins (and more)",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T20:27:22Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 39206,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T01:01:15Z"
+    },
+    {
+      "prNumber": 39206,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T23:02:22Z"
+    },
+    {
+      "prNumber": 39207,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T22:50:40Z"
+    },
+    {
+      "prNumber": 39207,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T22:50:34Z"
+    },
+    {
+      "prNumber": 39207,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T22:50:27Z"
+    },
+    {
+      "prNumber": 39207,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T22:50:20Z"
+    },
+    {
+      "prNumber": 39207,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T22:50:13Z"
+    },
+    {
+      "prNumber": 39207,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T22:50:05Z"
+    },
+    {
+      "prNumber": 39206,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T22:43:35Z"
+    },
+    {
+      "prNumber": 39206,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T22:43:29Z"
+    },
+    {
+      "prNumber": 39206,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T22:43:22Z"
+    },
+    {
+      "prNumber": 38162,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T19:56:27Z"
+    },
+    {
+      "prNumber": 38162,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T19:56:26Z"
+    },
+    {
+      "prNumber": 38162,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T19:56:25Z"
+    },
+    {
+      "prNumber": 38162,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T19:56:24Z"
+    },
+    {
+      "prNumber": 38161,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T17:46:21Z"
+    },
+    {
+      "prNumber": 38161,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T17:31:56Z"
+    },
+    {
+      "prNumber": 35567,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T07:22:42Z"
+    },
+    {
+      "prNumber": 35567,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T07:21:28Z"
+    },
+    {
+      "prNumber": 35567,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T07:15:13Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 16
+    },
+    "2026-03-06": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3
+    },
+    "2026-03-04": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

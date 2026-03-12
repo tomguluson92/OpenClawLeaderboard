@@ -1,0 +1,324 @@
+{
+  "username": "jcarter841",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/254981202?v=4",
+  "githubUrl": "https://github.com/jcarter841",
+  "score": {
+    "score": 566.34,
+    "prScore": 566.34,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 57,
+    "prsMerged": 0,
+    "prAdditions": 36470,
+    "prDeletions": 33533,
+    "prChangedFiles": 57,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 43,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 57,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T14:48:01Z",
+  "lastContribution": "2026-03-12T01:55:14Z",
+  "recentPRs": [
+    {
+      "number": 43582,
+      "title": "Feat: collapsible thinking/code blocks chat",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T01:55:14Z",
+      "mergedAt": null,
+      "additions": 647,
+      "deletions": 583,
+      "changedFiles": 1
+    },
+    {
+      "number": 43451,
+      "title": "Feat: into Control Control integrate dashboard Mission UI",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T20:31:36Z",
+      "mergedAt": null,
+      "additions": 646,
+      "deletions": 583,
+      "changedFiles": 1
+    },
+    {
+      "number": 43359,
+      "title": "Agents/tools: preflight exec script var shell files injection",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T16:50:09Z",
+      "mergedAt": null,
+      "additions": 651,
+      "deletions": 583,
+      "changedFiles": 1
+    },
+    {
+      "number": 43307,
+      "title": "Docs: Portkey gateway add AI integration",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T15:49:41Z",
+      "mergedAt": null,
+      "additions": 647,
+      "deletions": 583,
+      "changedFiles": 1
+    },
+    {
+      "number": 43179,
+      "title": "Fix: loopback pairing role/scope auto-approve local upgrades",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T12:43:43Z",
+      "mergedAt": null,
+      "additions": 647,
+      "deletions": 583,
+      "changedFiles": 1
+    },
+    {
+      "number": 42979,
+      "title": "Feat/add m2.5 mini multimodal max model omni support",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T08:33:29Z",
+      "mergedAt": null,
+      "additions": 646,
+      "deletions": 583,
+      "changedFiles": 1
+    },
+    {
+      "number": 42822,
+      "title": "Fix + multi\u2011agent heartbeats, sessions, probes health/status calls",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T05:08:38Z",
+      "mergedAt": null,
+      "additions": 650,
+      "deletions": 583,
+      "changedFiles": 1
+    },
+    {
+      "number": 42625,
+      "title": "Add 4.6 Claude OpenCode Sonnet model Zen catalog",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T01:22:56Z",
+      "mergedAt": null,
+      "additions": 648,
+      "deletions": 583,
+      "changedFiles": 1
+    },
+    {
+      "number": 42492,
+      "title": "Fix: fallback ts dedupe mentions app_mention",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T20:26:53Z",
+      "mergedAt": null,
+      "additions": 649,
+      "deletions": 583,
+      "changedFiles": 1
+    },
+    {
+      "number": 42360,
+      "title": "Fix: errors collect only all provider instead last",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T16:51:35Z",
+      "mergedAt": null,
+      "additions": 652,
+      "deletions": 583,
+      "changedFiles": 1
+    },
+    {
+      "number": 42137,
+      "title": "Fix: allow client clawdbot-ios id",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T12:44:06Z",
+      "mergedAt": null,
+      "additions": 674,
+      "deletions": 606,
+      "changedFiles": 1
+    },
+    {
+      "number": 41962,
+      "title": "Fix: tool call sanitize IDs Azure OpenAI",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T08:33:48Z",
+      "mergedAt": null,
+      "additions": 669,
+      "deletions": 606,
+      "changedFiles": 1
+    },
+    {
+      "number": 41768,
+      "title": "Friendlier Windows onboarding message",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T05:06:57Z",
+      "mergedAt": null,
+      "additions": 668,
+      "deletions": 606,
+      "changedFiles": 1
+    },
+    {
+      "number": 41585,
+      "title": "Fix: exceeds user when size notify media limit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T01:22:29Z",
+      "mergedAt": null,
+      "additions": 674,
+      "deletions": 606,
+      "changedFiles": 1
+    },
+    {
+      "number": 41414,
+      "title": "Fix: config multi-account bitable support tools",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T20:27:03Z",
+      "mergedAt": null,
+      "additions": 669,
+      "deletions": 606,
+      "changedFiles": 1
+    },
+    {
+      "number": 41279,
+      "title": "Fix: systemd service environment-aware use resolver name install/uninstall",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T16:51:46Z",
+      "mergedAt": null,
+      "additions": 666,
+      "deletions": 606,
+      "changedFiles": 1
+    },
+    {
+      "number": 40990,
+      "title": "Feat: /v1/models GET model OpenAI-compatible add endpoint listing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T12:45:06Z",
+      "mergedAt": null,
+      "additions": 666,
+      "deletions": 606,
+      "changedFiles": 1
+    },
+    {
+      "number": 40780,
+      "title": "Fix: service propagate config.env.vars LaunchAgent/systemd environment",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T08:37:10Z",
+      "mergedAt": null,
+      "additions": 675,
+      "deletions": 606,
+      "changedFiles": 1
+    },
+    {
+      "number": 40626,
+      "title": "Feat: default delivery openclaw config-level agent",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T05:17:27Z",
+      "mergedAt": null,
+      "additions": 657,
+      "deletions": 606,
+      "changedFiles": 1
+    },
+    {
+      "number": 40429,
+      "title": "Fix: accept alias parameter `cmd` `command` as",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T01:27:53Z",
+      "mergedAt": null,
+      "additions": 657,
+      "deletions": 606,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

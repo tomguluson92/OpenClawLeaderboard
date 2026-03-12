@@ -1,0 +1,407 @@
+{
+  "username": "scoootscooob",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/167050519?v=4",
+  "githubUrl": "https://github.com/scoootscooob",
+  "score": {
+    "score": 1063.56,
+    "prScore": 989.56,
+    "issueScore": 23,
+    "reviewScore": 20,
+    "commentScore": 31
+  },
+  "tier": "elite",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 27,
+    "prs": 95,
+    "prsMerged": 17,
+    "prAdditions": 7824,
+    "prDeletions": 509,
+    "prChangedFiles": 286,
+    "prMergeRate": 18,
+    "issues": 4,
+    "issuesClosed": 1,
+    "reviews": 6,
+    "reviewsApproved": 2,
+    "reviewsChangesRequested": 0,
+    "comments": 62,
+    "commitAdditions": 1753,
+    "commitDeletions": 185,
+    "weeklyCommits": 3,
+    "monthlyCommits": 39,
+    "commitChangedFiles": 66
+  },
+  "period": {
+    "weekly": {
+      "prs": 32,
+      "issues": 4,
+      "reviews": 6,
+      "comments": 42,
+      "commitAdditions": 33,
+      "commitDeletions": 7,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 95,
+      "issues": 4,
+      "reviews": 6,
+      "comments": 62,
+      "commitAdditions": 1753,
+      "commitDeletions": 185,
+      "commits": 27
+    }
+  },
+  "firstContribution": "2026-03-02T16:31:32Z",
+  "lastContribution": "2026-03-10T18:24:26Z",
+  "recentPRs": [
+    {
+      "number": 42435,
+      "title": "fix(models): apply Gemini model-id normalization to google-vertex provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T18:24:26Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 40657,
+      "title": "fix(daemon): add missing enable call in restartLaunchAgent",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T06:00:23Z",
+      "mergedAt": null,
+      "additions": 262,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 40558,
+      "title": "fix(session): strip thinking blocks from loaded session history",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T04:00:15Z",
+      "mergedAt": null,
+      "additions": 237,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40557,
+      "title": "fix(tools): recognize catalog-known tools in allowlist validation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T03:58:30Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 40482,
+      "title": "fix(telegram): accept negative group chat IDs in groupAllowFrom (#40444)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T02:52:16Z",
+      "mergedAt": null,
+      "additions": 165,
+      "deletions": 6,
+      "changedFiles": 4
+    },
+    {
+      "number": 40321,
+      "title": "fix(gateway): require operator.admin for /allowlist add|remove via gateway",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T22:35:10Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40320,
+      "title": "fix(daemon): guard stdout.write against EPIPE in stopLaunchAgent",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T22:32:41Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40318,
+      "title": "fix(agents): use nullish coalescing for context_length in kilocode model discovery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T22:31:19Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39252,
+      "title": "fix(agents): apply turn-ordering sanitization for strict OpenAI-compatible providers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T23:00:43Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 39243,
+      "title": "fix(gateway): pass CLI --bind to control-ui origin seeder",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T22:39:14Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 39237,
+      "title": "fix(daemon): enable LaunchAgent before bootstrap on restart",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T22:33:12Z",
+      "mergedAt": "2026-03-09T05:36:27Z",
+      "additions": 33,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 39198,
+      "title": "fix(voice-call): add missing speed and instructions to OpenAI TTS plugin schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:30:04Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39197,
+      "title": "fix(synology-chat): respect SYNOLOGY_RATE_LIMIT=0 in env var parsing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:29:00Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 39196,
+      "title": "fix(voice-call): honor vadThreshold: 0 and silenceDurationMs: 0 in STT config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:26:53Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39193,
+      "title": "fix(daemon): reject pid 0 in launchctl print parser",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:25:44Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39153,
+      "title": "fix(daemon): use locale-independent result code for schtasks running detection",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T20:05:58Z",
+      "mergedAt": null,
+      "additions": 54,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 39152,
+      "title": "fix(voice-call): add missing staleCallReaperSeconds and webhookSecurity to plugin schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T20:04:48Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39151,
+      "title": "fix(media): honor zero-value channel media limits",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T20:03:47Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 18,
+      "changedFiles": 8
+    },
+    {
+      "number": 39148,
+      "title": "fix(ws): forward maxTokens: 0 in WebSocket response.create",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:58:33Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39133,
+      "title": "fix(agents): prevent double retry-count increment on WebSocket reconnect failure",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:42:07Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 5,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39192,
+      "title": "bug: OpenAI TTS plugin schema missing speed and instructions (additionalProperties: false)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-07T21:24:47Z",
+      "closedAt": "2026-03-11T17:45:50Z"
+    },
+    {
+      "number": 39191,
+      "title": "bug: synology-chat ignores SYNOLOGY_RATE_LIMIT=0 (parseInt || 30 truthy check)",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T21:24:41Z",
+      "closedAt": null
+    },
+    {
+      "number": 39190,
+      "title": "bug: voice-call STT vadThreshold: 0 and silenceDurationMs: 0 silently ignored",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T21:24:35Z",
+      "closedAt": null
+    },
+    {
+      "number": 39188,
+      "title": "bug: parseLaunchctlPrint accepts PID 0 (inconsistent with systemd parser)",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T21:24:24Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 39153,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T20:16:30Z"
+    },
+    {
+      "prNumber": 39151,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T20:16:23Z"
+    },
+    {
+      "prNumber": 39151,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T20:16:14Z"
+    },
+    {
+      "prNumber": 36684,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T21:08:37Z"
+    },
+    {
+      "prNumber": 36688,
+      "state": "APPROVED",
+      "createdAt": "2026-03-05T21:08:26Z"
+    },
+    {
+      "prNumber": 36691,
+      "state": "APPROVED",
+      "createdAt": "2026-03-05T21:08:21Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-09": 2,
+    "2026-03-03": 4,
+    "2026-03-02": 21
+  },
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 12,
+      "issues": 4,
+      "reviews": 3
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
+    }
+  }
+}

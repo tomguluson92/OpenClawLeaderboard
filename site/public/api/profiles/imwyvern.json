@@ -1,0 +1,339 @@
+{
+  "username": "imwyvern",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1765672?u=d0cea991ec834895b6800055018093e425f6d153&v=4",
+  "githubUrl": "https://github.com/imwyvern",
+  "score": {
+    "score": 287.85,
+    "prScore": 239.35,
+    "issueScore": 25,
+    "reviewScore": 3,
+    "commentScore": 20.5
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 16,
+    "prsMerged": 0,
+    "prAdditions": 4830,
+    "prDeletions": 35,
+    "prChangedFiles": 63,
+    "prMergeRate": 0,
+    "issues": 5,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 41,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 10,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 37,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 16,
+      "issues": 5,
+      "reviews": 1,
+      "comments": 41,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T18:00:57Z",
+  "lastContribution": "2026-03-11T15:32:46Z",
+  "recentPRs": [
+    {
+      "number": 42669,
+      "title": "feat(skills): add skills.priority config for prompt ordering",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T02:02:59Z",
+      "mergedAt": null,
+      "additions": 109,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 42637,
+      "title": "fix(skills): list omitted skill names when prompt is truncated",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T01:36:20Z",
+      "mergedAt": null,
+      "additions": 102,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 42265,
+      "title": "fix(agents): show fuzzy match suggestions when edit oldText not found",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T15:05:11Z",
+      "mergedAt": null,
+      "additions": 882,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 41939,
+      "title": "fix(telegram): isolate DM sessions from agent:main:main",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T08:18:39Z",
+      "mergedAt": null,
+      "additions": 263,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 40700,
+      "title": "fix(subagent): include partial progress when subagent times out",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T06:46:00Z",
+      "mergedAt": null,
+      "additions": 194,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40677,
+      "title": "fix(subagent): include partial progress when subagent times out",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T06:21:25Z",
+      "mergedAt": null,
+      "additions": 180,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40574,
+      "title": "feat(write): add append mode to prevent silent data loss",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T04:17:12Z",
+      "mergedAt": null,
+      "additions": 393,
+      "deletions": 7,
+      "changedFiles": 5
+    },
+    {
+      "number": 40573,
+      "title": "fix(sanitize): strip GLM/DeepSeek special tokens from user-facing text",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T04:16:51Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 38812,
+      "title": "fix(agents): add safety valve for consecutive tool-only turns and API error notification",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T11:26:03Z",
+      "mergedAt": null,
+      "additions": 519,
+      "deletions": 0,
+      "changedFiles": 11
+    },
+    {
+      "number": 38804,
+      "title": "fix(cron): default delivery mode to \"announce\" for isolated agentTurn jobs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T11:21:04Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 33884,
+      "title": "feat(sessions): add external completion notification for sub-agent runs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T03:59:39Z",
+      "mergedAt": null,
+      "additions": 249,
+      "deletions": 5,
+      "changedFiles": 11
+    },
+    {
+      "number": 33836,
+      "title": "feat(coding-agent): add Multi-project Management section to skill",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T03:09:52Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 33817,
+      "title": "docs: add multi-project Codex CLI automation guide",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T02:49:50Z",
+      "mergedAt": null,
+      "additions": 223,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 33814,
+      "title": "fix(telegram): default requireMention to false when groupPolicy is open",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T02:48:20Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 33352,
+      "title": "docs(zh-CN): add Chinese translations for gateway and channel docs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T18:10:01Z",
+      "mergedAt": null,
+      "additions": 1099,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 33347,
+      "title": "docs(zh-CN): add Chinese translations for 5 CLI reference pages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T18:00:57Z",
+      "mergedAt": null,
+      "additions": 309,
+      "deletions": 0,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 38792,
+      "title": "Agent loop silently stalls: no user response after API error + long tool-call chains",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T11:13:24Z",
+      "closedAt": null
+    },
+    {
+      "number": 38791,
+      "title": "Cron: isolated job delivery defaults to 'none' instead of 'announce'",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T11:12:02Z",
+      "closedAt": null
+    },
+    {
+      "number": 33828,
+      "title": "[Feature]: Allow heartbeat results to push notifications to configured channels",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T02:57:18Z",
+      "closedAt": null
+    },
+    {
+      "number": 33827,
+      "title": "[Bug]: Sub-agent timeout returns minimal error \u2014 no partial results or diagnostic info",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T02:57:15Z",
+      "closedAt": null
+    },
+    {
+      "number": 33815,
+      "title": "[Feature]: Sub-agent completion push notification to originating channel",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T02:48:41Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 40574,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T06:20:39Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 4,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

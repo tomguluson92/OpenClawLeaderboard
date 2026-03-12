@@ -1,0 +1,134 @@
+{
+  "username": "Hua688",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5764877?v=4",
+  "githubUrl": "https://github.com/Hua688",
+  "score": {
+    "score": 39.28,
+    "prScore": 22.78,
+    "issueScore": 13,
+    "reviewScore": 3,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 124,
+    "prDeletions": 6,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T18:57:29Z",
+  "lastContribution": "2026-03-08T06:33:42Z",
+  "recentPRs": [
+    {
+      "number": 38793,
+      "title": "fix(agents): preserve supportsUsageInStreaming for Azure OpenAI endpoints",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T11:14:47Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 35291,
+      "title": "fix(auth-profiles): sync runtime snapshot and rotate profiles on /new",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T03:04:54Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 38784,
+      "title": "[Bug]: Azure OpenAI models report 0 context tokens \u2014 supportsUsageInStreaming forcefully disabled",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T11:03:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 33389,
+      "title": "[Bug]: Docker image missing extension dependencies (memory-lancedb, matrix, etc.)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T18:57:29Z",
+      "closedAt": "2026-03-08T06:33:43Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 35291,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T03:24:41Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

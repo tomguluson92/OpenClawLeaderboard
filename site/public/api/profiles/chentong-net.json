@@ -1,0 +1,116 @@
+{
+  "username": "chentong-net",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/204968080?u=5f0a82bb0496d9596eb60467a6d67c53dd09e0c7&v=4",
+  "githubUrl": "https://github.com/chentong-net",
+  "score": {
+    "score": 51.54,
+    "prScore": 51.54,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 402,
+    "prDeletions": 15,
+    "prChangedFiles": 13,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T13:21:07Z",
+  "lastContribution": "2026-03-08T16:25:08Z",
+  "recentPRs": [
+    {
+      "number": 40059,
+      "title": "fix(exec): stop implicit auto-backgrounding for long-running commands",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T16:25:08Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 8,
+      "changedFiles": 4
+    },
+    {
+      "number": 39944,
+      "title": "fix(gateway): fail fast when startup model auth is missing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T14:32:49Z",
+      "mergedAt": null,
+      "additions": 174,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 39883,
+      "title": "Agents: skip workspace cleanup when other agents still reference it",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T13:39:25Z",
+      "mergedAt": null,
+      "additions": 174,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 39867,
+      "title": "Gateway: support chrome-extension://* in gateway.controlUi.allowedOrigins",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T13:21:07Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 3,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

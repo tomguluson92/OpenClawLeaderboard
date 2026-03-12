@@ -1,0 +1,428 @@
+{
+  "username": "frankekn",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4488090?v=4",
+  "githubUrl": "https://github.com/frankekn",
+  "score": {
+    "score": 421.83,
+    "prScore": 361.33,
+    "issueScore": 0,
+    "reviewScore": 42,
+    "commentScore": 18.5
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 13,
+    "prs": 20,
+    "prsMerged": 5,
+    "prAdditions": 8948,
+    "prDeletions": 480,
+    "prChangedFiles": 131,
+    "prMergeRate": 25,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 14,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 37,
+    "commitAdditions": 2578,
+    "commitDeletions": 347,
+    "weeklyCommits": 9,
+    "monthlyCommits": 17,
+    "commitChangedFiles": 72
+  },
+  "period": {
+    "weekly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 30,
+      "commitAdditions": 717,
+      "commitDeletions": 39,
+      "commits": 6
+    },
+    "monthly": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 14,
+      "comments": 37,
+      "commitAdditions": 2214,
+      "commitDeletions": 334,
+      "commits": 12
+    }
+  },
+  "firstContribution": "2026-03-02T06:08:06Z",
+  "lastContribution": "2026-03-12T03:21:33Z",
+  "recentPRs": [
+    {
+      "number": 43285,
+      "title": "fix(acp): rehydrate restarted main ACP sessions",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T15:16:03Z",
+      "mergedAt": "2026-03-12T03:05:09Z",
+      "additions": 108,
+      "deletions": 12,
+      "changedFiles": 4
+    },
+    {
+      "number": 43045,
+      "title": "fix(context-pruning): prune image-containing tool results instead of skipping them",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T09:36:17Z",
+      "mergedAt": "2026-03-11T10:07:37Z",
+      "additions": 197,
+      "deletions": 19,
+      "changedFiles": 6
+    },
+    {
+      "number": 43001,
+      "title": "fix(context-pruning): prune image-containing tool results instead of skipping them",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T09:02:46Z",
+      "mergedAt": null,
+      "additions": 197,
+      "deletions": 19,
+      "changedFiles": 6
+    },
+    {
+      "number": 41761,
+      "title": "fix(agents): forward memory flush write path",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T04:58:15Z",
+      "mergedAt": "2026-03-10T06:18:41Z",
+      "additions": 32,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 40381,
+      "title": "fix(agent): mirror nested ACP output to child session transcript",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T00:17:15Z",
+      "mergedAt": null,
+      "additions": 929,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 40358,
+      "title": "fix(agent): mirror nested ACP output to child session transcript",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T23:38:54Z",
+      "mergedAt": null,
+      "additions": 229,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 38598,
+      "title": "fix(acp): canonicalize aliased session keys on restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T05:24:27Z",
+      "mergedAt": null,
+      "additions": 997,
+      "deletions": 98,
+      "changedFiles": 12
+    },
+    {
+      "number": 38592,
+      "title": "fix(acp): canonicalize aliased session keys on restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T05:13:26Z",
+      "mergedAt": null,
+      "additions": 178,
+      "deletions": 23,
+      "changedFiles": 6
+    },
+    {
+      "number": 38574,
+      "title": "fix: protect bootstrap files during memory flush",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T04:44:20Z",
+      "mergedAt": "2026-03-10T04:44:33Z",
+      "additions": 468,
+      "deletions": 15,
+      "changedFiles": 13
+    },
+    {
+      "number": 37135,
+      "title": "fix(session): keep direct WebChat replies on WebChat",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T03:55:05Z",
+      "mergedAt": "2026-03-06T06:14:13Z",
+      "additions": 52,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 37119,
+      "title": "fix: save session memory on archived sessions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T03:43:00Z",
+      "mergedAt": null,
+      "additions": 284,
+      "deletions": 23,
+      "changedFiles": 7
+    },
+    {
+      "number": 33524,
+      "title": "fix(extensions): unblock audit by requiring openclaw >=2026.3.2",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T21:55:43Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 33022,
+      "title": "chore(ci): make host env swift generation swiftformat-safe",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T13:04:32Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 33019,
+      "title": "fix(msteams): send thread replies via proactive conversation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T13:03:28Z",
+      "mergedAt": null,
+      "additions": 113,
+      "deletions": 44,
+      "changedFiles": 2
+    },
+    {
+      "number": 33016,
+      "title": "fix(chat): keep terminal final event for queued followups",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T12:59:57Z",
+      "mergedAt": null,
+      "additions": 107,
+      "deletions": 7,
+      "changedFiles": 7
+    },
+    {
+      "number": 33012,
+      "title": "fix(macos): sync remote gateway auth fields",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T12:56:31Z",
+      "mergedAt": null,
+      "additions": 267,
+      "deletions": 2,
+      "changedFiles": 8
+    },
+    {
+      "number": 32960,
+      "title": "fix(exec): prevent gateway-restart tool-result loss in exec path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T11:59:09Z",
+      "mergedAt": null,
+      "additions": 2874,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 32803,
+      "title": "fix(memoryFlush): prevent transcript-size forced flush loops with fresh totals",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T08:46:09Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 32732,
+      "title": "fix: harden heartbeat polling and delivery reliability",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T07:53:57Z",
+      "mergedAt": null,
+      "additions": 1178,
+      "deletions": 91,
+      "changedFiles": 14
+    },
+    {
+      "number": 32606,
+      "title": "fix(macos): sync remote gateway auth fields",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T05:33:41Z",
+      "mergedAt": null,
+      "additions": 660,
+      "deletions": 103,
+      "changedFiles": 23
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 32960,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T14:32:26Z"
+    },
+    {
+      "prNumber": 32960,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T14:32:13Z"
+    },
+    {
+      "prNumber": 32960,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T14:18:57Z"
+    },
+    {
+      "prNumber": 33019,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T14:03:00Z"
+    },
+    {
+      "prNumber": 33019,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T13:43:47Z"
+    },
+    {
+      "prNumber": 33016,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T13:07:40Z"
+    },
+    {
+      "prNumber": 32732,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:38:57Z"
+    },
+    {
+      "prNumber": 32732,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:22:23Z"
+    },
+    {
+      "prNumber": 32732,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:10:31Z"
+    },
+    {
+      "prNumber": 32732,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:10:31Z"
+    },
+    {
+      "prNumber": 32732,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T08:05:08Z"
+    },
+    {
+      "prNumber": 32606,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T06:39:04Z"
+    },
+    {
+      "prNumber": 32606,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T05:40:21Z"
+    },
+    {
+      "prNumber": 32606,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T05:40:21Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 1,
+    "2026-03-11": 2,
+    "2026-03-10": 2,
+    "2026-03-06": 1,
+    "2026-03-02": 2,
+    "2026-02-26": 1,
+    "2026-02-23": 1,
+    "2026-02-22": 2,
+    "2026-01-29": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 14
+    }
+  }
+}

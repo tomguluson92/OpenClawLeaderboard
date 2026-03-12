@@ -1,0 +1,121 @@
+{
+  "username": "Hollychou924",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/128659251?u=dcd43921760584e1b167e7ae1146d856351104c7&v=4",
+  "githubUrl": "https://github.com/Hollychou924",
+  "score": {
+    "score": 36.84,
+    "prScore": 26.34,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 162,
+    "prDeletions": 8,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T05:43:31Z",
+  "lastContribution": "2026-03-11T17:17:16Z",
+  "recentPRs": [
+    {
+      "number": 40841,
+      "title": "fix: surface specific sub-issue for config validation union errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T10:02:33Z",
+      "mergedAt": null,
+      "additions": 125,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40645,
+      "title": "fix: tolerate Telegram @BotUsername suffix in inline directives",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T05:43:31Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 8,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43373,
+      "title": "[Bug]: feishu-openclaw-plugin probe.js has no caching \u2014 burns ~43k API calls/month per account on health checks",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T17:17:16Z",
+      "closedAt": null
+    },
+    {
+      "number": 42300,
+      "title": "[Bug]: `openclaw cron runs <jobId>` position arg silently ignored \u2014 requires `--id` flag not documented in help",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T15:44:56Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

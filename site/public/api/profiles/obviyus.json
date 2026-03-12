@@ -1,0 +1,407 @@
+{
+  "username": "obviyus",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22031114?v=4",
+  "githubUrl": "https://github.com/obviyus",
+  "score": {
+    "score": 2312.65,
+    "prScore": 2267.15,
+    "issueScore": 0,
+    "reviewScore": 12,
+    "commentScore": 33.5
+  },
+  "tier": "elite",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 369,
+    "prs": 26,
+    "prsMerged": 25,
+    "prAdditions": 8181,
+    "prDeletions": 3905,
+    "prChangedFiles": 302,
+    "prMergeRate": 96,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 67,
+    "commitAdditions": 36137,
+    "commitDeletions": 12240,
+    "weeklyCommits": 39,
+    "monthlyCommits": 345,
+    "commitChangedFiles": 1291
+  },
+  "period": {
+    "weekly": {
+      "prs": 19,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 50,
+      "commitAdditions": 6629,
+      "commitDeletions": 3751,
+      "commits": 56
+    },
+    "monthly": {
+      "prs": 26,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 67,
+      "commitAdditions": 32020,
+      "commitDeletions": 10775,
+      "commits": 304
+    }
+  },
+  "firstContribution": "2026-03-02T15:13:40Z",
+  "lastContribution": "2026-03-12T04:35:03Z",
+  "recentPRs": [
+    {
+      "number": 42240,
+      "title": "fix(telegram): chunk long html outbound messages",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T14:44:37Z",
+      "mergedAt": "2026-03-10T17:23:05Z",
+      "additions": 519,
+      "deletions": 48,
+      "changedFiles": 5
+    },
+    {
+      "number": 41763,
+      "title": "fix(telegram): clear stale retain before transient final fallback",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T05:00:32Z",
+      "mergedAt": "2026-03-11T16:06:44Z",
+      "additions": 82,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 41692,
+      "title": "ci: drop gha cache from docker release",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T03:34:54Z",
+      "mergedAt": "2026-03-10T03:44:57Z",
+      "additions": 0,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 40883,
+      "title": "Fix Telegram streamed duplicate reply bubbles",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T10:46:45Z",
+      "mergedAt": null,
+      "additions": 329,
+      "deletions": 731,
+      "changedFiles": 7
+    },
+    {
+      "number": 40575,
+      "title": "Fix cron text announce delivery for Telegram targets",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T04:17:44Z",
+      "mergedAt": "2026-03-09T04:56:18Z",
+      "additions": 513,
+      "deletions": 419,
+      "changedFiles": 9
+    },
+    {
+      "number": 40519,
+      "title": "fix: dedupe inbound Telegram DM replies per agent",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T03:28:54Z",
+      "mergedAt": "2026-03-09T04:01:05Z",
+      "additions": 79,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 40013,
+      "title": "fix(telegram): avoid DM duplicate flash",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T15:36:54Z",
+      "mergedAt": "2026-03-08T16:29:43Z",
+      "additions": 23,
+      "deletions": 18,
+      "changedFiles": 5
+    },
+    {
+      "number": 39937,
+      "title": "fix(web-search): restore OpenRouter compatibility for Perplexity",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T14:23:11Z",
+      "mergedAt": "2026-03-08T15:07:55Z",
+      "additions": 631,
+      "deletions": 81,
+      "changedFiles": 9
+    },
+    {
+      "number": 39660,
+      "title": "fix(android): remove Play-restricted permissions",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T09:19:20Z",
+      "mergedAt": "2026-03-08T10:55:49Z",
+      "additions": 90,
+      "deletions": 1019,
+      "changedFiles": 33
+    },
+    {
+      "number": 39414,
+      "title": "fix(chat): preserve Telegram sender labels in dashboard history",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T03:23:15Z",
+      "mergedAt": "2026-03-08T03:47:03Z",
+      "additions": 214,
+      "deletions": 17,
+      "changedFiles": 12
+    },
+    {
+      "number": 39398,
+      "title": "fix(telegram): restore DM draft streaming",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-08T02:48:26Z",
+      "mergedAt": "2026-03-08T02:53:25Z",
+      "additions": 35,
+      "deletions": 10,
+      "changedFiles": 3
+    },
+    {
+      "number": 38895,
+      "title": "fix: flatten remote markdown images",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T13:46:51Z",
+      "mergedAt": "2026-03-07T14:16:41Z",
+      "additions": 184,
+      "deletions": 24,
+      "changedFiles": 7
+    },
+    {
+      "number": 38871,
+      "title": "fix(telegram): route native topic commands to the active session",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T13:11:03Z",
+      "mergedAt": "2026-03-07T13:31:16Z",
+      "additions": 335,
+      "deletions": 172,
+      "changedFiles": 13
+    },
+    {
+      "number": 38825,
+      "title": "fix: restart Windows gateway via Scheduled Task",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T11:53:44Z",
+      "mergedAt": "2026-03-07T12:30:38Z",
+      "additions": 371,
+      "deletions": 54,
+      "changedFiles": 12
+    },
+    {
+      "number": 38819,
+      "title": "fix: check managed systemd unit before is-enabled",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T11:37:55Z",
+      "mergedAt": "2026-03-07T11:41:07Z",
+      "additions": 41,
+      "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 38774,
+      "title": "fix(ci): re-enable detect-secrets on main",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T10:37:59Z",
+      "mergedAt": "2026-03-07T10:39:12Z",
+      "additions": 2169,
+      "deletions": 543,
+      "changedFiles": 2
+    },
+    {
+      "number": 38712,
+      "title": "fix(android): rename app package to ai.openclaw.app",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T09:16:52Z",
+      "mergedAt": "2026-03-07T09:21:03Z",
+      "additions": 359,
+      "deletions": 313,
+      "changedFiles": 119
+    },
+    {
+      "number": 38572,
+      "title": "Fix local MEDIA paths in assistant replies",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T04:40:04Z",
+      "mergedAt": "2026-03-07T05:22:16Z",
+      "additions": 565,
+      "deletions": 38,
+      "changedFiles": 13
+    },
+    {
+      "number": 37558,
+      "title": "fix(auth): remove bogus codex oauth responses probe",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T09:33:16Z",
+      "mergedAt": "2026-03-06T09:37:34Z",
+      "additions": 2,
+      "deletions": 117,
+      "changedFiles": 3
+    },
+    {
+      "number": 34365,
+      "title": "fix(gateway): preserve raw media invoke for HTTP tool clients",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T11:33:32Z",
+      "mergedAt": "2026-03-04T11:47:39Z",
+      "additions": 54,
+      "deletions": 6,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 40883,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T11:19:07Z"
+    },
+    {
+      "prNumber": 40883,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T11:19:07Z"
+    },
+    {
+      "prNumber": 40883,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T11:08:38Z"
+    },
+    {
+      "prNumber": 40883,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T11:08:38Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "centurion",
+      "label": "Centurion",
+      "description": "100+ commits"
+    },
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "precision",
+      "label": "Precision",
+      "description": "90%+ PR merge rate"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 2,
+    "2026-03-11": 3,
+    "2026-03-10": 7,
+    "2026-03-09": 3,
+    "2026-03-08": 16,
+    "2026-03-07": 17,
+    "2026-03-06": 8,
+    "2026-03-04": 8,
+    "2026-03-03": 5,
+    "2026-03-02": 4,
+    "2026-03-01": 10,
+    "2026-02-28": 39,
+    "2026-02-27": 40,
+    "2026-02-26": 45,
+    "2026-02-25": 31,
+    "2026-02-24": 27,
+    "2026-02-23": 11,
+    "2026-02-22": 3,
+    "2026-02-21": 5,
+    "2026-02-20": 1,
+    "2026-02-19": 3,
+    "2026-02-18": 1,
+    "2026-02-17": 7,
+    "2026-02-16": 5,
+    "2026-02-15": 3,
+    "2026-02-09": 5,
+    "2026-02-05": 3,
+    "2026-02-04": 3,
+    "2026-02-02": 7,
+    "2026-02-01": 5,
+    "2026-01-31": 7,
+    "2026-01-30": 6,
+    "2026-01-29": 5,
+    "2026-01-28": 3,
+    "2026-01-27": 7,
+    "2026-01-26": 1,
+    "2026-01-12": 3,
+    "2026-01-11": 7
+  },
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-08": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

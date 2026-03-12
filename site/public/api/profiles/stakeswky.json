@@ -1,0 +1,310 @@
+{
+  "username": "stakeswky",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64798754?v=4",
+  "githubUrl": "https://github.com/stakeswky",
+  "score": {
+    "score": 504.49,
+    "prScore": 502.49,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 8,
+    "prs": 48,
+    "prsMerged": 5,
+    "prAdditions": 1449,
+    "prDeletions": 240,
+    "prChangedFiles": 94,
+    "prMergeRate": 10,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 48,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T09:44:36Z",
+  "lastContribution": "2026-03-05T19:38:17Z",
+  "recentPRs": [
+    {
+      "number": 36631,
+      "title": "fix(gateway): prevent TLS null dereference during concurrent reconnection",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T19:38:17Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36559,
+      "title": "fix(acpx): cleanup child processes after session TTL expires",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T18:19:23Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 36557,
+      "title": "fix(telegram): preserve message_thread_id for forum topics",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T18:17:53Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 36554,
+      "title": "fix: preserve reasoning-function_call pairing in responses payload",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T18:15:02Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 36506,
+      "title": "fix: include archived transcripts in sessions usage statistics",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T17:34:50Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 35562,
+      "title": "fix: resolve screen_record block and system.which failure",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T06:14:32Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35402,
+      "title": "fix: resolve discord bot message receive failure",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:11:23Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35380,
+      "title": "fix(web-ui): render Accounts schema node properly",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T03:54:47Z",
+      "mergedAt": "2026-03-05T05:50:18Z",
+      "additions": 24,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 35243,
+      "title": "fix: resolve web_fetch fetch failed error",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T02:25:43Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35090,
+      "title": "fix: resolve node_sqlite3 native binding load failure under jiti",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T00:16:52Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 35055,
+      "title": "fix: unify gateway credential fallback for agent tools (closes #35039)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T23:24:49Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 18,
+      "changedFiles": 1
+    },
+    {
+      "number": 35000,
+      "title": "fix: fallback to systemctl in system context",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T21:24:21Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 34913,
+      "title": "fix: rebuild control UI during build (closes #34908)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T19:25:37Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34766,
+      "title": "fix: prioritize explicit config api key over stale profiles (closes #34656)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T17:25:13Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34605,
+      "title": "fix: recompute expired cron nextRunAtMs on maintenance",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T15:24:59Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 34515,
+      "title": "fix: detect all web search provider api keys",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T14:12:01Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 34465,
+      "title": "fix: treat systemd is-enabled soft failures as non-fatal (closes #34464)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T13:22:31Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 34406,
+      "title": "fix: enforce Discord requireMention gate in guild preflight (closes #34353)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T12:21:36Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 34388,
+      "title": "fix: preserve bindings during gateway restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T11:58:56Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 34281,
+      "title": "fix: Feishu group @mention bot-by-name detection",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T10:04:13Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 5,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

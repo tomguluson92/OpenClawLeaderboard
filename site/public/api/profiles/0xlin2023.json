@@ -1,0 +1,298 @@
+{
+  "username": "0xlin2023",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/147558607?v=4",
+  "githubUrl": "https://github.com/0xlin2023",
+  "score": {
+    "score": 353.46,
+    "prScore": 353.46,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 33,
+    "prsMerged": 1,
+    "prAdditions": 2634,
+    "prDeletions": 241,
+    "prChangedFiles": 129,
+    "prMergeRate": 3,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 33,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 33,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-06T07:26:56Z",
+  "lastContribution": "2026-03-06T16:28:43Z",
+  "recentPRs": [
+    {
+      "number": 38139,
+      "title": "fix: Gemini outputs fake tool call text instead of executing tool",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:28:43Z",
+      "mergedAt": null,
+      "additions": 230,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 38136,
+      "title": "fix: NVIDIA NIM provider causes gateway to hang/freeze during req",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:24:55Z",
+      "mergedAt": null,
+      "additions": 127,
+      "deletions": 10,
+      "changedFiles": 4
+    },
+    {
+      "number": 38127,
+      "title": "fix: [maintainer created] chinese translation feedback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:19:43Z",
+      "mergedAt": null,
+      "additions": 153,
+      "deletions": 18,
+      "changedFiles": 7
+    },
+    {
+      "number": 38123,
+      "title": "fix: Matrix: bot cannot verify its own account for E2EE (requestO",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:16:29Z",
+      "mergedAt": null,
+      "additions": 246,
+      "deletions": 16,
+      "changedFiles": 8
+    },
+    {
+      "number": 38092,
+      "title": "fix: v2026.2.9 cron announce \u2192 Telegram topic sends summary inste",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:07:03Z",
+      "mergedAt": null,
+      "additions": 71,
+      "deletions": 9,
+      "changedFiles": 5
+    },
+    {
+      "number": 38084,
+      "title": "fix: [Bug]:gateway connect failed",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:03:46Z",
+      "mergedAt": null,
+      "additions": 126,
+      "deletions": 45,
+      "changedFiles": 12
+    },
+    {
+      "number": 38060,
+      "title": "fix: Security Roadmap: Protecting API Keys from Agent Access",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:47:30Z",
+      "mergedAt": null,
+      "additions": 153,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 38056,
+      "title": "fix: Telegram API requests fail with Network request failed after",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T15:43:32Z",
+      "mergedAt": "2026-03-06T16:49:16Z",
+      "additions": 63,
+      "deletions": 1,
+      "changedFiles": 6
+    },
+    {
+      "number": 38035,
+      "title": "fix: Severe 60s hangs on multi-step tool calls with OAuth (google",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:30:55Z",
+      "mergedAt": null,
+      "additions": 106,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 37998,
+      "title": "fix:  Telegram streaming not working with MiniMax model",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:21:28Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 37978,
+      "title": "fix: macOS companion app fails to pass gateway auth token over SS",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:16:49Z",
+      "mergedAt": null,
+      "additions": 184,
+      "deletions": 37,
+      "changedFiles": 7
+    },
+    {
+      "number": 37975,
+      "title": "fix: macOS app v2026.2.26 is arm64-only \u2014 regression vs v2026.2.2",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:12:42Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 3,
+      "changedFiles": 5
+    },
+    {
+      "number": 37962,
+      "title": "fix: OpenClaw suddenly lost filesystem tools (exec/read/write) an",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:05:40Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37950,
+      "title": "fix(agents): prevent file path hallucination in session reset prompt",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:59:14Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37946,
+      "title": "fix(browser): recognize node-proxy stale tab errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:56:49Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37941,
+      "title": "fix(nextcloud-talk): resolve missing abort-signal module",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:52:12Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37929,
+      "title": "fix(agents): default custom provider API to openai-completions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:36:05Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37928,
+      "title": "fix(auto-reply): suppress structured JSON NO_REPLY payloads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:35:10Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 37927,
+      "title": "fix(daemon): truncate overlong launchd labels to 63 bytes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:35:09Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 37926,
+      "title": "fix(cli): resolve SecretRefs in plugins list command",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:35:07Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 2,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

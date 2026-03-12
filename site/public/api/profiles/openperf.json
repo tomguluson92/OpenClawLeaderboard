@@ -1,0 +1,454 @@
+{
+  "username": "openperf",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/80630709?v=4",
+  "githubUrl": "https://github.com/openperf",
+  "score": {
+    "score": 585.59,
+    "prScore": 438.59,
+    "issueScore": 0,
+    "reviewScore": 117,
+    "commentScore": 30
+  },
+  "tier": "veteran",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 3,
+    "prs": 37,
+    "prsMerged": 0,
+    "prAdditions": 42145,
+    "prDeletions": 15460,
+    "prChangedFiles": 1047,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 39,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 60,
+    "commitAdditions": 735,
+    "commitDeletions": 17,
+    "weeklyCommits": 0,
+    "monthlyCommits": 5,
+    "commitChangedFiles": 15
+  },
+  "period": {
+    "weekly": {
+      "prs": 27,
+      "issues": 0,
+      "reviews": 37,
+      "comments": 37,
+      "commitAdditions": 78,
+      "commitDeletions": 1,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 37,
+      "issues": 0,
+      "reviews": 39,
+      "comments": 60,
+      "commitAdditions": 735,
+      "commitDeletions": 17,
+      "commits": 5
+    }
+  },
+  "firstContribution": "2026-02-27T08:50:00Z",
+  "lastContribution": "2026-03-12T04:50:27Z",
+  "recentPRs": [
+    {
+      "number": 43053,
+      "title": "fix(cron): prevent startup catch-up from blocking timer initialization",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T09:49:29Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 40785,
+      "title": "fix(telegram): ensure polling initialization is abortable and retries correctly",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T08:45:12Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 40699,
+      "title": "fix(cron): pass messageTo and messageThreadId to embedded PI agent in announce mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T06:45:47Z",
+      "mergedAt": null,
+      "additions": 152,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40646,
+      "title": "fix(cron): prevent duplicate proactive delivery on transient retry",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T05:44:35Z",
+      "mergedAt": null,
+      "additions": 96,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 40501,
+      "title": "fix(auth): sync openai-codex cli credentials to default profile slot",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T03:07:39Z",
+      "mergedAt": null,
+      "additions": 212,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 40452,
+      "title": "fix(auth): sync openai-codex cli credentials to auth-profiles store",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T02:01:08Z",
+      "mergedAt": null,
+      "additions": 176,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39973,
+      "title": "fix(session): prevent reset notice mirror from corrupting conversation history",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T15:10:24Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 39958,
+      "title": "fix(gateway): warn at startup when default model provider has no auth configured",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T14:47:12Z",
+      "mergedAt": null,
+      "additions": 109,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 39731,
+      "title": "fix(ui): include deviceToken in browser client auth object (#39667)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T10:37:44Z",
+      "mergedAt": null,
+      "additions": 252,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39639,
+      "title": "fix(gateway): preserve device token for fallback auth during SPA navigation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T08:40:15Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 20,
+      "changedFiles": 4
+    },
+    {
+      "number": 39399,
+      "title": "fix(discord): split CJK text at natural boundaries instead of mid-character",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T02:48:39Z",
+      "mergedAt": null,
+      "additions": 283,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 38653,
+      "title": "fix(agents): follow symlinks pointing outside workspace boundary for bootstrap files",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T06:55:34Z",
+      "mergedAt": null,
+      "additions": 113,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38619,
+      "title": "fix(discord): split CJK text at natural boundaries instead of mid-character",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T05:55:24Z",
+      "mergedAt": null,
+      "additions": 36925,
+      "deletions": 15194,
+      "changedFiles": 942
+    },
+    {
+      "number": 38475,
+      "title": "fix: respect session modelOverride in followup/auto-reply fallback resolution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T02:12:37Z",
+      "mergedAt": null,
+      "additions": 157,
+      "deletions": 29,
+      "changedFiles": 3
+    },
+    {
+      "number": 38443,
+      "title": "fix: respect session modelOverride in followup/auto-reply fallback resolution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T01:04:39Z",
+      "mergedAt": null,
+      "additions": 157,
+      "deletions": 29,
+      "changedFiles": 3
+    },
+    {
+      "number": 37436,
+      "title": "fix(infra): treat wrapped \"fetch failed\" as transient network error",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T08:02:45Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37312,
+      "title": "fix(telegram): enforce strict validation for replyToMessageId",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T06:44:18Z",
+      "mergedAt": null,
+      "additions": 205,
+      "deletions": 9,
+      "changedFiles": 5
+    },
+    {
+      "number": 37200,
+      "title": "fix(agents): add TTL grace window + restart persistence for pending tool-result flush",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T04:58:51Z",
+      "mergedAt": null,
+      "additions": 486,
+      "deletions": 66,
+      "changedFiles": 8
+    },
+    {
+      "number": 37012,
+      "title": "fix(slack): prevent duplicate messages in DMs from streaming fallback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T02:06:41Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 36251,
+      "title": "fix(web-search): reject incompatible OpenRouter/proxy configs with clear error",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T14:23:53Z",
+      "mergedAt": null,
+      "additions": 277,
+      "deletions": 12,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43053,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T04:50:27Z"
+    },
+    {
+      "prNumber": 43053,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T03:22:45Z"
+    },
+    {
+      "prNumber": 43053,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:07:44Z"
+    },
+    {
+      "prNumber": 43053,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:06:37Z"
+    },
+    {
+      "prNumber": 43053,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:05:53Z"
+    },
+    {
+      "prNumber": 39958,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T09:52:01Z"
+    },
+    {
+      "prNumber": 40699,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T07:09:01Z"
+    },
+    {
+      "prNumber": 40646,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T06:27:04Z"
+    },
+    {
+      "prNumber": 40646,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T06:09:46Z"
+    },
+    {
+      "prNumber": 40501,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T05:02:04Z"
+    },
+    {
+      "prNumber": 40501,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T04:46:22Z"
+    },
+    {
+      "prNumber": 40452,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T02:24:54Z"
+    },
+    {
+      "prNumber": 39958,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:42:51Z"
+    },
+    {
+      "prNumber": 39958,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T15:17:27Z"
+    },
+    {
+      "prNumber": 39731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T10:53:26Z"
+    },
+    {
+      "prNumber": 39731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T10:52:41Z"
+    },
+    {
+      "prNumber": 39639,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T09:35:33Z"
+    },
+    {
+      "prNumber": 39639,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T09:21:56Z"
+    },
+    {
+      "prNumber": 39639,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T09:21:21Z"
+    },
+    {
+      "prNumber": 39639,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T09:21:01Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 1,
+    "2026-03-03": 1,
+    "2026-03-02": 1,
+    "2026-03-01": 1,
+    "2026-02-27": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-08": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-07": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
+    }
+  }
+}

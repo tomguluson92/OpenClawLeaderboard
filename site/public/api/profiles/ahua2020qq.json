@@ -1,0 +1,260 @@
+{
+  "username": "ahua2020qq",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/137865255?u=ce6ac2ec0e102bd3c1c3c8c25583016b8d7d5ad8&v=4",
+  "githubUrl": "https://github.com/ahua2020qq",
+  "score": {
+    "score": 238.86,
+    "prScore": 238.36,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 16,
+    "prsMerged": 0,
+    "prAdditions": 4193,
+    "prDeletions": 361,
+    "prChangedFiles": 93,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 16,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 16,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T15:46:10Z",
+  "lastContribution": "2026-03-11T04:58:50Z",
+  "recentPRs": [
+    {
+      "number": 42810,
+      "title": "feat(acp): add audit logging system for control plane security",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T04:58:50Z",
+      "mergedAt": null,
+      "additions": 1092,
+      "deletions": 149,
+      "changedFiles": 12
+    },
+    {
+      "number": 42661,
+      "title": "style(cron): fix import order for CommandLane",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T01:56:37Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 42660,
+      "title": "fix(gateway): add missing enabled property to GatewayRemoteConfig",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T01:53:57Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 42658,
+      "title": "fix(cron): add missing CommandLane import",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T01:53:19Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 42428,
+      "title": "feat(acp): add audit logging system for control plane security",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T18:18:50Z",
+      "mergedAt": null,
+      "additions": 1096,
+      "deletions": 149,
+      "changedFiles": 12
+    },
+    {
+      "number": 42406,
+      "title": "fix: add missing editMessage and createForumTopic to Telegram actions schema (#35497)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T17:40:31Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 42405,
+      "title": "fix: add missing chunking.strategy field to memorySearch schema (#28127)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T17:40:19Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 42382,
+      "title": "fix(bluebubbles): handle null text in debounce flush to prevent crashes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T17:12:35Z",
+      "mergedAt": null,
+      "additions": 863,
+      "deletions": 2,
+      "changedFiles": 8
+    },
+    {
+      "number": 42377,
+      "title": "fix(config): add type guard to containsEnvVarReference to prevent crashes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T17:08:02Z",
+      "mergedAt": null,
+      "additions": 861,
+      "deletions": 1,
+      "changedFiles": 7
+    },
+    {
+      "number": 42361,
+      "title": "fix(web-fetch): include URL and error reason in network failure messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T16:52:36Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 12,
+      "changedFiles": 10
+    },
+    {
+      "number": 42331,
+      "title": "fix(tool-results): add text field validation to isTextBlock type guard",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T16:16:28Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 11,
+      "changedFiles": 9
+    },
+    {
+      "number": 42329,
+      "title": "fix(config): add params field to AgentModelSchema for agents.list[]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T16:15:15Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 10,
+      "changedFiles": 8
+    },
+    {
+      "number": 42326,
+      "title": "fix(telegram): allow negative group IDs in groupAllowFrom allowlist",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T16:12:36Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 10,
+      "changedFiles": 7
+    },
+    {
+      "number": 42325,
+      "title": "fix: remove node-domexception override to fix Google Chat integration",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T16:11:07Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 8,
+      "changedFiles": 6
+    },
+    {
+      "number": 42324,
+      "title": "fix: add null-safety checks for model.input to prevent crashes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T16:09:57Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 7,
+      "changedFiles": 5
+    },
+    {
+      "number": 42301,
+      "title": "fix(feishu): improve external key validation to allow legitimate keys containing '..'",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T15:46:10Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

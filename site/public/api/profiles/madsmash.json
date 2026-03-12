@@ -1,0 +1,139 @@
+{
+  "username": "madsmash",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/316536?v=4",
+  "githubUrl": "https://github.com/madsmash",
+  "score": {
+    "score": 55.85,
+    "prScore": 47.85,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 1,
+    "prAdditions": 160,
+    "prDeletions": 4,
+    "prChangedFiles": 11,
+    "prMergeRate": 25,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-06T21:23:38Z",
+  "lastContribution": "2026-03-08T11:42:09Z",
+  "recentPRs": [
+    {
+      "number": 39778,
+      "title": "fix(discord): infer media placeholder from file extension as fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T11:42:09Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 38777,
+      "title": "feat(hooks): expose rate limit headers in llm_output hook",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T10:46:27Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 38660,
+      "title": "fix(nodes): remove redundant rawCommand from system.run.prepare",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T07:20:55Z",
+      "mergedAt": "2026-03-07T11:09:43Z",
+      "additions": 47,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 38340,
+      "title": "fix(dispatcher): add beforeDeliver hook, wire message_sending for Discord",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T21:23:38Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 38340,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T23:49:36Z"
+    },
+    {
+      "prNumber": 38340,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T23:43:59Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

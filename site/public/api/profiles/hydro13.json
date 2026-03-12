@@ -1,0 +1,174 @@
+{
+  "username": "hydro13",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6640526?v=4",
+  "githubUrl": "https://github.com/hydro13",
+  "score": {
+    "score": 284.23,
+    "prScore": 251.73,
+    "issueScore": 0,
+    "reviewScore": 13,
+    "commentScore": 19.5
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 15,
+    "prs": 4,
+    "prsMerged": 3,
+    "prAdditions": 7215,
+    "prDeletions": 1040,
+    "prChangedFiles": 207,
+    "prMergeRate": 75,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 1,
+    "reviewsChangesRequested": 0,
+    "comments": 39,
+    "commitAdditions": 2508,
+    "commitDeletions": 344,
+    "weeklyCommits": 14,
+    "monthlyCommits": 18,
+    "commitChangedFiles": 64
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 38,
+      "commitAdditions": 1718,
+      "commitDeletions": 267,
+      "commits": 11
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 39,
+      "commitAdditions": 2508,
+      "commitDeletions": 344,
+      "commits": 15
+    }
+  },
+  "firstContribution": "2026-03-02T21:53:31Z",
+  "lastContribution": "2026-03-12T01:06:16Z",
+  "recentPRs": [
+    {
+      "number": 43555,
+      "title": "fix(daemon): address clanker review findings for kickstart restart",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T01:06:16Z",
+      "mergedAt": "2026-03-12T01:16:24Z",
+      "additions": 137,
+      "deletions": 27,
+      "changedFiles": 11
+    },
+    {
+      "number": 43514,
+      "title": "fix(daemon): replace bootout with kickstart -k for launchd restarts on macOS",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T23:11:56Z",
+      "mergedAt": null,
+      "additions": 7062,
+      "deletions": 1010,
+      "changedFiles": 191
+    },
+    {
+      "number": 41401,
+      "title": "fix(cron): do not misclassify empty/NO_REPLY as interim acknowledgement",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T20:16:23Z",
+      "mergedAt": "2026-03-09T20:16:28Z",
+      "additions": 11,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 32206,
+      "title": "docs(contributing): require before/after screenshots for UI PRs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T21:53:31Z",
+      "mergedAt": "2026-03-03T20:45:19Z",
+      "additions": 5,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42362,
+      "state": "APPROVED",
+      "createdAt": "2026-03-11T22:22:54Z"
+    },
+    {
+      "prNumber": 42111,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T22:03:03Z"
+    },
+    {
+      "prNumber": 42111,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T14:12:16Z"
+    },
+    {
+      "prNumber": 42096,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T13:11:14Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 6,
+    "2026-03-11": 3,
+    "2026-03-09": 2,
+    "2026-03-03": 1,
+    "2026-03-02": 1,
+    "2026-02-22": 2
+  },
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

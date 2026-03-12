@@ -1,0 +1,119 @@
+{
+  "username": "zeroasterisk",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23422?u=8b151d8c4016b2352599e2d3e4186eeac6781f13&v=4",
+  "githubUrl": "https://github.com/zeroasterisk",
+  "score": {
+    "score": 35.87,
+    "prScore": 19.87,
+    "issueScore": 13,
+    "reviewScore": 3,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 29,
+    "prDeletions": 1,
+    "prChangedFiles": 4,
+    "prMergeRate": 100,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 29,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 29,
+      "commitDeletions": 1,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 29,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-04T03:12:44Z",
+  "lastContribution": "2026-03-09T22:32:36Z",
+  "recentPRs": [
+    {
+      "number": 41468,
+      "title": "Add HTTP 499 to transient error codes for model fallback",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T21:56:27Z",
+      "mergedAt": "2026-03-09T22:55:11Z",
+      "additions": 29,
+      "deletions": 1,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41467,
+      "title": "Add HTTP 499 and 504 to transient error codes for model fallback",
+      "state": "CLOSED",
+      "createdAt": "2026-03-09T21:55:43Z",
+      "closedAt": "2026-03-09T22:55:12Z"
+    },
+    {
+      "number": 33837,
+      "title": "[Feature]: A2UI v0.9 message support",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T03:12:44Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41468,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T22:32:36Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-09": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

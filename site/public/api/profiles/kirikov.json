@@ -1,0 +1,111 @@
+{
+  "username": "kirikov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57440089?u=a0e880d2ec6b78880cdcd212532838a6f43e1a94&v=4",
+  "githubUrl": "https://github.com/kirikov",
+  "score": {
+    "score": 39.68,
+    "prScore": 30.68,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 266,
+    "prDeletions": 215,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-06T11:36:08Z",
+  "lastContribution": "2026-03-06T22:14:46Z",
+  "recentPRs": [
+    {
+      "number": 38337,
+      "title": "fix(telegram): fix gateway hang on video messages and increase media download limit",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T21:21:38Z",
+      "mergedAt": null,
+      "additions": 191,
+      "deletions": 211,
+      "changedFiles": 6
+    },
+    {
+      "number": 37726,
+      "title": "telegram: include inbound media paths in untrusted context",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T11:36:08Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 4,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 38337,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T22:14:46Z"
+    },
+    {
+      "prNumber": 38337,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T22:14:44Z"
+    },
+    {
+      "prNumber": 38337,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T22:14:43Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    }
+  }
+}

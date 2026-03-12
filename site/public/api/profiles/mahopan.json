@@ -1,0 +1,94 @@
+{
+  "username": "mahopan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/258319253?u=7f9a7f7f1f443d1842df714d00f15262b5edc33b&v=4",
+  "githubUrl": "https://github.com/mahopan",
+  "score": {
+    "score": 26.12,
+    "prScore": 18.12,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 19,
+    "prDeletions": 26,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 19,
+    "commitDeletions": 26,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 19,
+      "commitDeletions": 26,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-02T18:21:18Z",
+  "lastContribution": "2026-03-02T18:22:03Z",
+  "recentPRs": [
+    {
+      "number": 32033,
+      "title": "fix(slack): remove message.channels/message.groups handlers that crash Bolt 4.6",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T18:22:03Z",
+      "mergedAt": "2026-03-02T18:32:43Z",
+      "additions": 19,
+      "deletions": 26,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32032,
+      "title": "[Bug]: Slack provider crashes on startup \u2014 Bolt 4.6 rejects message.channels/message.groups event registration",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T18:21:18Z",
+      "closedAt": "2026-03-02T18:32:44Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 1
+  },
+  "recentActivityDays": {
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

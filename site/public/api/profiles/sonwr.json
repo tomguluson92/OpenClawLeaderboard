@@ -1,0 +1,356 @@
+{
+  "username": "sonwr",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4978617?u=05f4ff68657906c599dd101883d9b1e2796da512&v=4",
+  "githubUrl": "https://github.com/sonwr",
+  "score": {
+    "score": 293.73,
+    "prScore": 260.73,
+    "issueScore": 0,
+    "reviewScore": 18,
+    "commentScore": 15
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 22,
+    "prsMerged": 0,
+    "prAdditions": 1043,
+    "prDeletions": 187,
+    "prChangedFiles": 77,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 30,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 18,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 28,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 22,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 30,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T15:23:00Z",
+  "lastContribution": "2026-03-10T23:43:30Z",
+  "recentPRs": [
+    {
+      "number": 42571,
+      "title": "fix(telegram): normalize delivery-only group chat ids",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T23:43:30Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 39462,
+      "title": "fix(status): handle unresolved channel SecretRefs in security audit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T04:35:42Z",
+      "mergedAt": null,
+      "additions": 95,
+      "deletions": 15,
+      "changedFiles": 3
+    },
+    {
+      "number": 39008,
+      "title": "fix(status): handle unresolved channel SecretRefs in security audit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T16:35:38Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 15,
+      "changedFiles": 3
+    },
+    {
+      "number": 39006,
+      "title": "fix(status): handle unresolved channel SecretRefs in security audit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T16:32:18Z",
+      "mergedAt": null,
+      "additions": 87,
+      "deletions": 15,
+      "changedFiles": 3
+    },
+    {
+      "number": 38245,
+      "title": "docs(feishu): clarify where appId/appSecret must be configured",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T18:04:59Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 4,
+      "changedFiles": 6
+    },
+    {
+      "number": 37960,
+      "title": "fix(nextcloud-talk): resolve abort-signal import in published installs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:03:46Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 37895,
+      "title": "fix(model-compat): correct openai-codex/gpt-5.4 forward-compat limits",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T14:12:38Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 37859,
+      "title": "fix(synology-chat): load runtime config for outbound recovery sends",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T13:42:52Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37836,
+      "title": "fix(slack): accept bare emoji aliases for agent identity icon_emoji",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T13:15:07Z",
+      "mergedAt": null,
+      "additions": 111,
+      "deletions": 3,
+      "changedFiles": 5
+    },
+    {
+      "number": 37753,
+      "title": "fix(feishu): treat SecretRef appId as configured in onboarding",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T12:06:40Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 23,
+      "changedFiles": 1
+    },
+    {
+      "number": 37720,
+      "title": "feat(cli): add human-readable run times to cron edit output",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T11:33:35Z",
+      "mergedAt": null,
+      "additions": 71,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 37699,
+      "title": "fix(webchat): preserve draft while background announce messages arrive",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T11:20:32Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 37670,
+      "title": "fix(control-ui): avoid cron jobs/new job panel overlap on medium widths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T10:58:32Z",
+      "mergedAt": null,
+      "additions": 71,
+      "deletions": 7,
+      "changedFiles": 9
+    },
+    {
+      "number": 37657,
+      "title": "fix(tools): preserve required aliases in Claude schema patching",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T10:42:00Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37627,
+      "title": "fix(cron): flush in-memory jobs before restart/shutdown",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T10:20:26Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 7,
+      "changedFiles": 8
+    },
+    {
+      "number": 37467,
+      "title": "fix(control-ui): serve assets from pnpm hardlinked installs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T08:38:16Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 37227,
+      "title": "fix(telegram): skip invalid reply threading ids",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T05:19:49Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 23,
+      "changedFiles": 7
+    },
+    {
+      "number": 37206,
+      "title": "feat(tui): display current model in header",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T05:06:52Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34653,
+      "title": "fix(doctor): avoid orphan false positives for fresh session transcripts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T16:08:33Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 34637,
+      "title": "fix(ci): replace non-resolvable Bun build pin in setup-node-env",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T15:51:23Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 39462,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T05:57:15Z"
+    },
+    {
+      "prNumber": 34602,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T00:41:58Z"
+    },
+    {
+      "prNumber": 37627,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T00:04:15Z"
+    },
+    {
+      "prNumber": 37627,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T00:04:14Z"
+    },
+    {
+      "prNumber": 37627,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T00:04:13Z"
+    },
+    {
+      "prNumber": 37467,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-06T10:24:08Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-06": {
+      "prs": 14,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "username": "hotejb",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19839753?v=4",
+  "githubUrl": "https://github.com/hotejb",
+  "score": {
+    "score": 26.72,
+    "prScore": 21.22,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 1611,
+    "prDeletions": 1437,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T01:20:37Z",
+  "lastContribution": "2026-03-07T06:37:57Z",
+  "recentPRs": [
+    {
+      "number": 37187,
+      "title": "fix(feishu): bundle dependencies for npm pack",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T04:45:21Z",
+      "mergedAt": null,
+      "additions": 1473,
+      "deletions": 1437,
+      "changedFiles": 1
+    },
+    {
+      "number": 37130,
+      "title": "fix: bundle workspace plugin dependencies in npm pack (#33723)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T03:51:44Z",
+      "mergedAt": null,
+      "additions": 138,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 33723,
+      "title": "Bug: Plugin dependencies (e.g. feishu plugin) are lost after npm pack + global installation",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T01:20:37Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

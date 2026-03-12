@@ -1,0 +1,326 @@
+{
+  "username": "MumuTW",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42820974?u=ee178d552728d7b1a465515d8679c1fde10d3eff&v=4",
+  "githubUrl": "https://github.com/MumuTW",
+  "score": {
+    "score": 263.82,
+    "prScore": 252.82,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 22,
+    "prsMerged": 0,
+    "prAdditions": 1468,
+    "prDeletions": 315,
+    "prChangedFiles": 44,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 1,
+    "monthlyCommits": 9,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 22,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 22,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 9
+    }
+  },
+  "firstContribution": "2026-03-06T11:29:30Z",
+  "lastContribution": "2026-03-10T14:02:21Z",
+  "recentPRs": [
+    {
+      "number": 42209,
+      "title": "fix(feishu): simplify embedded tool schemas",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T14:02:21Z",
+      "mergedAt": null,
+      "additions": 203,
+      "deletions": 190,
+      "changedFiles": 5
+    },
+    {
+      "number": 39891,
+      "title": "fix(googlechat): clean up typing message on NO_REPLY",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T13:43:57Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39886,
+      "title": "fix(session): prevent webchat route leak on channel-agnostic session keys",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T13:40:07Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 39871,
+      "title": "fix(googlechat): clear typing indicator on NO_REPLY",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T13:24:38Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39354,
+      "title": "fix(telegram): skip reasoning stream callbacks when reasoning is off",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T01:44:37Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 21,
+      "changedFiles": 1
+    },
+    {
+      "number": 39350,
+      "title": "fix(gateway): suppress NO_REPLY lead fragment in chat final message",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T01:37:58Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39301,
+      "title": "fix(ui): preserve selected agent after config save on agents page",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T00:46:04Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39291,
+      "title": "fix(ui): persist selected agent after config save/reload",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T00:34:12Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 39183,
+      "title": "fix(memory): set PRAGMA busy_timeout on every SQLite connection open",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:17:50Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 39182,
+      "title": "fix(heartbeat): do not advance schedule on requests-in-flight skip",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T21:14:53Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 39123,
+      "title": "fix: increment compaction counter on overflow-triggered compaction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:28:29Z",
+      "mergedAt": null,
+      "additions": 103,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 39111,
+      "title": "fix(telegram): confirm persisted offset before polling and detect stalls",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:17:53Z",
+      "mergedAt": null,
+      "additions": 157,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 39099,
+      "title": "fix: apply contextTokens cap to model for auto-compaction threshold",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T18:48:01Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 38954,
+      "title": "fix: guard clack cancel symbols via typeof check to prevent token corruption",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T15:18:52Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 23,
+      "changedFiles": 3
+    },
+    {
+      "number": 38951,
+      "title": "fix: guard clack cancel symbol in models auth CLI prompts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T15:11:42Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 21,
+      "changedFiles": 1
+    },
+    {
+      "number": 38935,
+      "title": "fix: prevent stack overflow in cache-trace stableStringify on circular refs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T14:45:11Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 38875,
+      "title": "fix(gateway): clear bootstrap cache after active run ends",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T13:15:33Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 38873,
+      "title": "fix: move clearBootstrapSnapshot after active run ends to prevent stale cache",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T13:12:54Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 38253,
+      "title": "fix(subagents): decouple announce injection from channel delivery",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T18:18:20Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 38075,
+      "title": "fix(gateway): filter delivery-mirror entries from chat.history",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T15:56:38Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 39182,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T21:32:55Z"
+    },
+    {
+      "prNumber": 39183,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T21:28:38Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

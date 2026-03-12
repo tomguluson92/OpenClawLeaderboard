@@ -1,0 +1,114 @@
+{
+  "username": "t2wei",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/65210143?v=4",
+  "githubUrl": "https://github.com/t2wei",
+  "score": {
+    "score": 60.73,
+    "prScore": 55.23,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 944,
+    "prDeletions": 439,
+    "prChangedFiles": 19,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T06:42:09Z",
+  "lastContribution": "2026-03-11T16:39:12Z",
+  "recentPRs": [
+    {
+      "number": 43348,
+      "title": "feat(acp): A2A communication \u2014 acp_send tool + callback channel routing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T16:39:12Z",
+      "mergedAt": null,
+      "additions": 667,
+      "deletions": 368,
+      "changedFiles": 10
+    },
+    {
+      "number": 42028,
+      "title": "feat(feishu): topic session isolation, streaming card history panel",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T09:59:14Z",
+      "mergedAt": null,
+      "additions": 277,
+      "deletions": 71,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 35598,
+      "title": "Feishu outbound adapter ignores threadId \u2014 ACP replies land in group root instead of topic",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T06:42:09Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

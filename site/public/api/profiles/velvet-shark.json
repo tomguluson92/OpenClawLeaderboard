@@ -1,0 +1,109 @@
+{
+  "username": "velvet-shark",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/126378?v=4",
+  "githubUrl": "https://github.com/velvet-shark",
+  "score": {
+    "score": 168.14,
+    "prScore": 161.14,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 7
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 5,
+    "prs": 3,
+    "prsMerged": 3,
+    "prAdditions": 718,
+    "prDeletions": 68,
+    "prChangedFiles": 23,
+    "prMergeRate": 100,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 14,
+    "commitAdditions": 731,
+    "commitDeletions": 71,
+    "weeklyCommits": 5,
+    "monthlyCommits": 9,
+    "commitChangedFiles": 25
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 12,
+      "commitAdditions": 731,
+      "commitDeletions": 71,
+      "commits": 5
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 14,
+      "commitAdditions": 731,
+      "commitDeletions": 71,
+      "commits": 5
+    }
+  },
+  "firstContribution": "2026-02-27T23:56:19Z",
+  "lastContribution": "2026-03-11T08:50:35Z",
+  "recentPRs": [
+    {
+      "number": 40892,
+      "title": "fix(ui): preserve control-ui auth across refresh",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T10:56:28Z",
+      "mergedAt": "2026-03-09T11:50:48Z",
+      "additions": 312,
+      "deletions": 26,
+      "changedFiles": 13
+    },
+    {
+      "number": 40420,
+      "title": "docs(changelog): correct Control UI contributor credit",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T01:11:21Z",
+      "mergedAt": "2026-03-09T01:18:30Z",
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 40385,
+      "title": "gateway: fix global Control UI 404s for symlinked wrappers and bundled package roots",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T00:21:10Z",
+      "mergedAt": "2026-03-09T00:50:42Z",
+      "additions": 404,
+      "deletions": 41,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-09": 5
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

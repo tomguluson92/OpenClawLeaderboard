@@ -1,0 +1,116 @@
+{
+  "username": "jellyAI-dev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/263263160?v=4",
+  "githubUrl": "https://github.com/jellyAI-dev",
+  "score": {
+    "score": 33.87,
+    "prScore": 18.37,
+    "issueScore": 0,
+    "reviewScore": 15,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 537,
+    "prDeletions": 16,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T00:57:17Z",
+  "lastContribution": "2026-03-10T06:48:45Z",
+  "recentPRs": [
+    {
+      "number": 40413,
+      "title": "fix(discord): persist hello-stall counter and add escalation across health-monitor restarts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T00:57:17Z",
+      "mergedAt": null,
+      "additions": 537,
+      "deletions": 16,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 40413,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T06:48:45Z"
+    },
+    {
+      "prNumber": 40413,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T05:49:40Z"
+    },
+    {
+      "prNumber": 40413,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:49:10Z"
+    },
+    {
+      "prNumber": 40413,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T04:49:09Z"
+    },
+    {
+      "prNumber": 40413,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T01:39:34Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
+    }
+  }
+}

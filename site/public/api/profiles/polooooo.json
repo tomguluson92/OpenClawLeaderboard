@@ -1,0 +1,137 @@
+{
+  "username": "polooooo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50262693?v=4",
+  "githubUrl": "https://github.com/polooooo",
+  "score": {
+    "score": 107.5,
+    "prScore": 103.5,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 4
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 3,
+    "prs": 4,
+    "prsMerged": 2,
+    "prAdditions": 485,
+    "prDeletions": 52,
+    "prChangedFiles": 13,
+    "prMergeRate": 50,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 8,
+    "commitAdditions": 485,
+    "commitDeletions": 59,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 13
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 8,
+      "commitAdditions": 485,
+      "commitDeletions": 59,
+      "commits": 4
+    }
+  },
+  "firstContribution": "2026-02-28T03:01:16Z",
+  "lastContribution": "2026-03-05T01:35:06Z",
+  "recentPRs": [
+    {
+      "number": 35180,
+      "title": "skill-creator: reject empty name and description in quick_validate",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T01:33:30Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 33720,
+      "title": "fix(feishu): use msg_type media for mp4 video (fixes #33674)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T01:17:46Z",
+      "mergedAt": "2026-03-05T02:39:45Z",
+      "additions": 272,
+      "deletions": 49,
+      "changedFiles": 7
+    },
+    {
+      "number": 32383,
+      "title": "fix(agents): treat host edit tool as success when file contains newText after upstream throw (fixes #32333)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T01:31:49Z",
+      "mergedAt": "2026-03-03T02:06:59Z",
+      "additions": 166,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 31601,
+      "title": "fix(cron): persist lightContext on cron edit (fixes #31425)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T10:59:05Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-05": 1,
+    "2026-03-03": 2,
+    "2026-03-02": 1
+  },
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

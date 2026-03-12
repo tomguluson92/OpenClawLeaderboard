@@ -1,0 +1,119 @@
+{
+  "username": "bread22",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17005481?u=1a7b37004d4831bd4fb981b198e1db75b17d8962&v=4",
+  "githubUrl": "https://github.com/bread22",
+  "score": {
+    "score": 34.26,
+    "prScore": 9.26,
+    "issueScore": 23,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 34,
+    "prDeletions": 8,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-27T15:52:00Z",
+  "lastContribution": "2026-03-06T05:25:17Z",
+  "recentPRs": [
+    {
+      "number": 37221,
+      "title": "fix(telegram): ignore non-numeric replyToMessageId",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T05:15:28Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 8,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 37222,
+      "title": "Telegram send should ignore non-numeric reply_to_message_id inputs",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T05:16:05Z",
+      "closedAt": null
+    },
+    {
+      "number": 37220,
+      "title": "Telegram send: guard non-numeric replyToMessageId to avoid 400 reply-not-found",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T05:15:18Z",
+      "closedAt": null
+    },
+    {
+      "number": 28901,
+      "title": "[Bug] Telegram forum supergroup - messages not reaching gateway after 2026.2.26 update",
+      "state": "CLOSED",
+      "createdAt": "2026-02-27T15:52:28Z",
+      "closedAt": "2026-03-03T00:31:03Z"
+    },
+    {
+      "number": 28899,
+      "title": "[Bug] Telegram forum supergroup messages not reaching gateway at all (DM works)",
+      "state": "OPEN",
+      "createdAt": "2026-02-27T15:52:00Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-02-27": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  }
+}

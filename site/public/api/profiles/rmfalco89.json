@@ -1,0 +1,149 @@
+{
+  "username": "rmfalco89",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5488189?v=4",
+  "githubUrl": "https://github.com/rmfalco89",
+  "score": {
+    "score": 156.72,
+    "prScore": 141.22,
+    "issueScore": 0,
+    "reviewScore": 15,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 1756,
+    "prDeletions": 140,
+    "prChangedFiles": 73,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T22:19:57Z",
+  "lastContribution": "2026-03-09T20:31:10Z",
+  "recentPRs": [
+    {
+      "number": 33557,
+      "title": "feat(telegram): add health check watchdog for long-polling connections",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T22:24:23Z",
+      "mergedAt": null,
+      "additions": 261,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 33556,
+      "title": "fix(sandbox): add 60s timeout to prevent hung Docker from blocking message pipeline",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T22:24:08Z",
+      "mergedAt": null,
+      "additions": 299,
+      "deletions": 24,
+      "changedFiles": 5
+    },
+    {
+      "number": 33555,
+      "title": "fix: add EADDRINUSE retry and TIME_WAIT port-bind checks for gateway startup",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T22:22:51Z",
+      "mergedAt": null,
+      "additions": 205,
+      "deletions": 23,
+      "changedFiles": 5
+    },
+    {
+      "number": 33551,
+      "title": "feat(telegram): add groupPolicy \"members\" for automatic group membership verification",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T22:19:57Z",
+      "mergedAt": null,
+      "additions": 991,
+      "deletions": 93,
+      "changedFiles": 61
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 33557,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T20:31:10Z"
+    },
+    {
+      "prNumber": 33557,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T20:31:04Z"
+    },
+    {
+      "prNumber": 33551,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T20:24:43Z"
+    },
+    {
+      "prNumber": 33551,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T20:24:34Z"
+    },
+    {
+      "prNumber": 33556,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T20:16:25Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
+    }
+  }
+}

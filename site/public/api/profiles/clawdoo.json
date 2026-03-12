@@ -1,0 +1,129 @@
+{
+  "username": "clawdoo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/65667097?u=bcdf381a0dc09d3b48b01385983eb9e4e68d96c2&v=4",
+  "githubUrl": "https://github.com/clawdoo",
+  "score": {
+    "score": 41.49,
+    "prScore": 39.49,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 83,
+    "prDeletions": 27,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 5,
+    "commitDeletions": 4,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 5,
+      "commitDeletions": 4,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-03T23:32:31Z",
+  "lastContribution": "2026-03-06T06:29:13Z",
+  "recentPRs": [
+    {
+      "number": 37293,
+      "title": "feat(discord): support voice message transcription for multimodal models (#7855, #22878)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T06:29:13Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 33886,
+      "title": "feat(discord): support voice message transcription for multimodal models (#7855, #22878)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T04:01:56Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 33846,
+      "title": "fix(googlechat): handle null/undefined headers to prevent runtime error (#33468)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T03:28:17Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 6,
+      "changedFiles": 1
+    },
+    {
+      "number": 33622,
+      "title": "refactor: replace console.* with runtime logger in tailscale.ts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T23:32:31Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 5,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-03": 1
+  },
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

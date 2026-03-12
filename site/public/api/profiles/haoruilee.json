@@ -1,0 +1,106 @@
+{
+  "username": "haoruilee",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60883781?u=75681057d29b7a707a25d642c735778ca41b3254&v=4",
+  "githubUrl": "https://github.com/haoruilee",
+  "score": {
+    "score": 88.99,
+    "prScore": 87.99,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 1051,
+    "prDeletions": 21,
+    "prChangedFiles": 32,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T06:10:25Z",
+  "lastContribution": "2026-03-12T02:04:32Z",
+  "recentPRs": [
+    {
+      "number": 36389,
+      "title": "fix(status): resolve context window by provider-qualified key, prefer max on bare-id collision, solve #35976",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T15:56:36Z",
+      "mergedAt": null,
+      "additions": 335,
+      "deletions": 10,
+      "changedFiles": 4
+    },
+    {
+      "number": 36327,
+      "title": "fix(memory): enable WAL journal mode on SQLite index to prevent corruption on restart #36035 ",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T15:11:50Z",
+      "mergedAt": null,
+      "additions": 79,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35558,
+      "title": "Providers: add built-in AIPing provider support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T06:10:25Z",
+      "mergedAt": null,
+      "additions": 637,
+      "deletions": 11,
+      "changedFiles": 26
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "username": "VibhorGautam",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55019395?u=720a857792f1ac7eb7b6b8ab55e222eec87495e7&v=4",
+  "githubUrl": "https://github.com/VibhorGautam",
+  "score": {
+    "score": 99.08,
+    "prScore": 73.08,
+    "issueScore": 0,
+    "reviewScore": 24,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 1,
+    "prAdditions": 180,
+    "prDeletions": 43,
+    "prChangedFiles": 14,
+    "prMergeRate": 20,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 8,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 25,
+    "commitDeletions": 13,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 7
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 4,
+      "commitAdditions": 25,
+      "commitDeletions": 13,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 4,
+      "commitAdditions": 25,
+      "commitDeletions": 13,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-11T06:32:27Z",
+  "lastContribution": "2026-03-11T08:33:14Z",
+  "recentPRs": [
+    {
+      "number": 42911,
+      "title": "fix: use unknown instead of rate_limit as default cooldown reason",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T06:47:11Z",
+      "mergedAt": "2026-03-11T18:34:14Z",
+      "additions": 25,
+      "deletions": 13,
+      "changedFiles": 7
+    },
+    {
+      "number": 42900,
+      "title": "fix(plugins): skip boundary validation for bundled plugin manifests",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T06:38:09Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 28,
+      "changedFiles": 2
+    },
+    {
+      "number": 42898,
+      "title": "fix(agents): classify compound read-only gateway actions correctly",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T06:36:10Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 42895,
+      "title": "fix(infra): derive home directory from PREFIX on Android/Termux",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T06:34:03Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 42894,
+      "title": "fix(auth): add bailian provider to env API key candidates",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T06:32:27Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42898,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T07:16:17Z"
+    },
+    {
+      "prNumber": 42900,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T07:09:53Z"
+    },
+    {
+      "prNumber": 42898,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T07:08:42Z"
+    },
+    {
+      "prNumber": 42900,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T07:01:34Z"
+    },
+    {
+      "prNumber": 42900,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T07:01:18Z"
+    },
+    {
+      "prNumber": 42895,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T07:00:00Z"
+    },
+    {
+      "prNumber": 42898,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T06:57:56Z"
+    },
+    {
+      "prNumber": 42911,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T06:56:43Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-11": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 8
+    }
+  }
+}

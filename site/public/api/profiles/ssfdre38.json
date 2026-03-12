@@ -1,0 +1,129 @@
+{
+  "username": "ssfdre38",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1365273?u=88bfbed224d5f75dc904b075772a818defa52e8b&v=4",
+  "githubUrl": "https://github.com/ssfdre38",
+  "score": {
+    "score": 169.47,
+    "prScore": 143.47,
+    "issueScore": 24,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 5445,
+    "prDeletions": 160,
+    "prChangedFiles": 83,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 3,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-02-28T01:48:26Z",
+  "lastContribution": "2026-03-08T06:01:17Z",
+  "recentPRs": [
+    {
+      "number": 32345,
+      "title": "Security: Comprehensive security audit fixes (Discord System Owner bypass, webhook SSRF, path traversal, memory error logging)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T00:38:32Z",
+      "mergedAt": null,
+      "additions": 5142,
+      "deletions": 130,
+      "changedFiles": 69
+    },
+    {
+      "number": 32143,
+      "title": "fix: prevent System Owner bypass via Discord nickname spoofing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T20:26:56Z",
+      "mergedAt": null,
+      "additions": 303,
+      "deletions": 30,
+      "changedFiles": 14
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 31912,
+      "title": "feat: per-channel model configuration",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T16:42:35Z",
+      "closedAt": "2026-03-03T01:30:44Z"
+    },
+    {
+      "number": 31233,
+      "title": "[Bug] System Owner Authorization Vulnerability",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T03:30:37Z",
+      "closedAt": "2026-03-08T23:21:48Z"
+    },
+    {
+      "number": 29302,
+      "title": "[Feature Request] Login System for OpenClaw (Basic Auth/LDAP)",
+      "state": "CLOSED",
+      "createdAt": "2026-02-28T01:48:26Z",
+      "closedAt": "2026-02-28T01:50:51Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-02-28": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

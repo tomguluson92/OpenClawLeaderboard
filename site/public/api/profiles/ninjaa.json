@@ -1,0 +1,107 @@
+{
+  "username": "ninjaa",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1315093?v=4",
+  "githubUrl": "https://github.com/ninjaa",
+  "score": {
+    "score": 35.2,
+    "prScore": 31.7,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 660,
+    "prDeletions": 42,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T16:58:44Z",
+  "lastContribution": "2026-03-05T04:26:25Z",
+  "recentPRs": [
+    {
+      "number": 35429,
+      "title": "fix(mattermost): resolve non-id outbound targets by channel name",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T04:26:25Z",
+      "mergedAt": null,
+      "additions": 614,
+      "deletions": 29,
+      "changedFiles": 7
+    },
+    {
+      "number": 34733,
+      "title": "fix(tokens): catch pre-underscore prefix in silent reply detection",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T16:58:44Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 13,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 34733,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-04T17:48:43Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

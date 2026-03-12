@@ -1,0 +1,350 @@
+{
+  "username": "evan966890",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/236738035?v=4",
+  "githubUrl": "https://github.com/evan966890",
+  "score": {
+    "score": 702.29,
+    "prScore": 674.79,
+    "issueScore": 26,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 77,
+    "prsMerged": 0,
+    "prAdditions": 7467,
+    "prDeletions": 1071,
+    "prChangedFiles": 199,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 2,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 54,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 77,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-01T02:10:07Z",
+  "lastContribution": "2026-03-06T13:43:48Z",
+  "recentPRs": [
+    {
+      "number": 37862,
+      "title": "fix: restore temp-checkout permission compatibility",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T13:43:48Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 10,
+      "changedFiles": 5
+    },
+    {
+      "number": 36965,
+      "title": "telegram: add diagnostics when update-offset state is unreadable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T01:24:50Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 36932,
+      "title": "browser: cap per-session tracked tab registry",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T00:52:57Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36923,
+      "title": "Telegram: reduce tokenFile sync I/O by removing pre-check fs call",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T00:40:18Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 25,
+      "changedFiles": 2
+    },
+    {
+      "number": 36906,
+      "title": "Bound Telegram sticker cache growth with automatic eviction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T00:25:03Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36898,
+      "title": "line: cache credential file reads in account resolution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T00:12:11Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 36883,
+      "title": "media: log stream cleanup failures in readResponseWithLimit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T23:57:57Z",
+      "mergedAt": null,
+      "additions": 85,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 36876,
+      "title": "perf(gateway): fast-path safe chat message sanitization",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T23:40:00Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 36862,
+      "title": "perf(plugins): memoize plugin-sdk alias resolution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T23:23:56Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 36849,
+      "title": "Bound Telegram sticker cache growth",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T23:10:59Z",
+      "mergedAt": null,
+      "additions": 71,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36828,
+      "title": "config: keep hot merged schema cache entries during eviction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T22:57:49Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 36813,
+      "title": "perf(channels): cache parsed external plugin catalog files",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T22:40:23Z",
+      "mergedAt": null,
+      "additions": 189,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 36785,
+      "title": "perf(media): surface cleanOldMedia cleanup failures via optional callback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T22:12:19Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 36758,
+      "title": "perf(media): avoid per-chunk buffer remapping in response limiter",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T21:51:57Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 36750,
+      "title": "perf(media): bound HTTP error body snippet reads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T21:38:52Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 36702,
+      "title": "perf: bound channel registry loader cache growth",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T21:10:12Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 36690,
+      "title": "perf(channels): cache loader misses and invalidate by registry version",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T20:58:21Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 36682,
+      "title": "perf(usage): bound cost summary cache size",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T20:41:11Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 36668,
+      "title": "perf(telegram): memoize sticker cache disk loads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T20:22:56Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 36658,
+      "title": "cron: keep hot schedule evaluators in cache longer",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T20:07:33Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 34748,
+      "title": "Optimization audit: performance, reliability, maintainability, security, and UX improvements",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T17:13:12Z",
+      "closedAt": null
+    },
+    {
+      "number": 30642,
+      "title": "SILENT_REPLY_TOKEN should not suppress subagent announce delivery",
+      "state": "CLOSED",
+      "createdAt": "2026-03-01T12:53:54Z",
+      "closedAt": "2026-03-02T07:02:54Z"
+    },
+    {
+      "number": 30581,
+      "title": "Subagent announce deadlock: last announce silently dropped while earlier announces instruct model to wait",
+      "state": "CLOSED",
+      "createdAt": "2026-03-01T11:17:32Z",
+      "closedAt": "2026-03-02T07:02:51Z"
+    },
+    {
+      "number": 30221,
+      "title": "Discord REST API (@buape/carbon) ignores channels.discord.proxy config",
+      "state": "OPEN",
+      "createdAt": "2026-03-01T02:10:07Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 14,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-01": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    }
+  }
+}

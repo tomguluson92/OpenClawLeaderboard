@@ -1,0 +1,118 @@
+{
+  "username": "garnetlyx",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12513503?u=255891cf90cf6adf30ce231656a841af7aab8ea1&v=4",
+  "githubUrl": "https://github.com/garnetlyx",
+  "score": {
+    "score": 68.75,
+    "prScore": 55.75,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 43,
+    "prDeletions": 0,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 478,
+    "commitDeletions": 37,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 16
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 478,
+      "commitDeletions": 37,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-02T13:43:08Z",
+  "lastContribution": "2026-03-03T09:44:42Z",
+  "recentPRs": [
+    {
+      "number": 32857,
+      "title": "fix(telegram): add setStatus integration for health monitoring",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T09:44:42Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 31776,
+      "title": "fix(auth): normalize volcengine-plan/byteplus-plan to base provider",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T14:29:50Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32850,
+      "title": "fix(telegram): missing setStatus integration prevents health monitoring",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T09:41:48Z",
+      "closedAt": null
+    },
+    {
+      "number": 31731,
+      "title": "Subagent fails with volcengine-plan: No API key found for provider 'volcengine-plan'",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T13:43:08Z",
+      "closedAt": "2026-03-02T19:22:20Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 1,
+    "2026-02-15": 1
+  },
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

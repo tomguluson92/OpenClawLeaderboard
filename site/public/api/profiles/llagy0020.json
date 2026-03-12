@@ -1,0 +1,146 @@
+{
+  "username": "llagy0020",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/218951975?u=fed6233cf55b174e17776219caae21779db27458&v=4",
+  "githubUrl": "https://github.com/llagy0020",
+  "score": {
+    "score": 83.19,
+    "prScore": 79.19,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 655,
+    "prDeletions": 26,
+    "prChangedFiles": 19,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T06:01:53Z",
+  "lastContribution": "2026-03-10T15:35:59Z",
+  "recentPRs": [
+    {
+      "number": 42295,
+      "title": "fix(models): guard missing input in custom provider rows",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T15:35:59Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 42294,
+      "title": "fix(telegram): preserve audioAsVoice in outbound media sends",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T15:35:57Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 42293,
+      "title": "fix(ui): stop skills filter from being autofilled on click",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T15:35:55Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 42002,
+      "title": "fix(imessage): strip inline reply tags from outbound text",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T09:29:23Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 42001,
+      "title": "fix(ui): preserve gateway token when editing WebSocket URL",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T09:29:21Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 7,
+      "changedFiles": 4
+    },
+    {
+      "number": 41816,
+      "title": "plugins: preserve config includes on install writes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T06:01:53Z",
+      "mergedAt": null,
+      "additions": 424,
+      "deletions": 17,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 41816,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T08:49:04Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

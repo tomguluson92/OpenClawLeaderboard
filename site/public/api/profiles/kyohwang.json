@@ -1,0 +1,94 @@
+{
+  "username": "kyohwang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1436387?v=4",
+  "githubUrl": "https://github.com/kyohwang",
+  "score": {
+    "score": 23.44,
+    "prScore": 15.44,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 56,
+    "prDeletions": 3,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 30,
+    "commitDeletions": 3,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 30,
+      "commitDeletions": 3,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 30,
+      "commitDeletions": 3,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-11T13:02:17Z",
+  "lastContribution": "2026-03-11T13:03:18Z",
+  "recentPRs": [
+    {
+      "number": 43188,
+      "title": "fix(telegram): avoid polling restart hang after stall detection",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T13:03:18Z",
+      "mergedAt": "2026-03-12T04:06:04Z",
+      "additions": 56,
+      "deletions": 3,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43187,
+      "title": "[Bug]: Telegram polling stall can hang restart cycle and stop consuming inbound updates",
+      "state": "CLOSED",
+      "createdAt": "2026-03-11T13:02:17Z",
+      "closedAt": "2026-03-12T04:06:05Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-12": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

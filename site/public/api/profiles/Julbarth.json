@@ -1,0 +1,124 @@
+{
+  "username": "Julbarth",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/72460857?v=4",
+  "githubUrl": "https://github.com/Julbarth",
+  "score": {
+    "score": 131.92,
+    "prScore": 120.42,
+    "issueScore": 8,
+    "reviewScore": 3,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 470,
+    "prDeletions": 216,
+    "prChangedFiles": 47,
+    "prMergeRate": 50,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 213,
+    "commitDeletions": 87,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 9
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 213,
+      "commitDeletions": 87,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 213,
+      "commitDeletions": 87,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-08T23:45:55Z",
+  "lastContribution": "2026-03-09T05:23:15Z",
+  "recentPRs": [
+    {
+      "number": 40389,
+      "title": "Fix one-shot exit hangs by tearing down cached memory managers",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-09T00:25:06Z",
+      "mergedAt": "2026-03-09T23:34:46Z",
+      "additions": 213,
+      "deletions": 87,
+      "changedFiles": 9
+    },
+    {
+      "number": 40367,
+      "title": "Fix one-shot exit hangs by tearing down cached memory managers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T23:51:01Z",
+      "mergedAt": null,
+      "additions": 257,
+      "deletions": 129,
+      "changedFiles": 38
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40365,
+      "title": "[Bug]: One-shot CLI can hang after completion due to cached memory manager FSWatcher handles",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T23:45:55Z",
+      "closedAt": "2026-03-09T23:34:47Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 40389,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T05:22:05Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-09": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "username": "mitchmcalister",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/209334?v=4",
+  "githubUrl": "https://github.com/mitchmcalister",
+  "score": {
+    "score": 256.97,
+    "prScore": 191.97,
+    "issueScore": 15,
+    "reviewScore": 45,
+    "commentScore": 5
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 5,
+    "prs": 8,
+    "prsMerged": 2,
+    "prAdditions": 1329,
+    "prDeletions": 94,
+    "prChangedFiles": 33,
+    "prMergeRate": 25,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 15,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10,
+    "commitAdditions": 277,
+    "commitDeletions": 10,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 14
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 3,
+      "reviews": 13,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 3,
+      "reviews": 15,
+      "comments": 10,
+      "commitAdditions": 277,
+      "commitDeletions": 10,
+      "commits": 5
+    }
+  },
+  "firstContribution": "2026-03-02T19:48:39Z",
+  "lastContribution": "2026-03-11T23:28:48Z",
+  "recentPRs": [
+    {
+      "number": 43507,
+      "title": "fix(agents): detect partial tool execution before fallback retry",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T22:42:26Z",
+      "mergedAt": null,
+      "additions": 257,
+      "deletions": 2,
+      "changedFiles": 8
+    },
+    {
+      "number": 43485,
+      "title": "fix(agents): strip images on cross-provider fallback retry",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T21:29:43Z",
+      "mergedAt": null,
+      "additions": 324,
+      "deletions": 25,
+      "changedFiles": 4
+    },
+    {
+      "number": 43331,
+      "title": "fix(agents): preserve prompt and images on failure-mode-aware fallback retry",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T16:22:01Z",
+      "mergedAt": null,
+      "additions": 230,
+      "deletions": 25,
+      "changedFiles": 4
+    },
+    {
+      "number": 43303,
+      "title": "refactor(agents): simplify fallback retry helpers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T15:42:01Z",
+      "mergedAt": null,
+      "additions": 185,
+      "deletions": 35,
+      "changedFiles": 5
+    },
+    {
+      "number": 36273,
+      "title": "fix: preserve subagent task text on model fallback retry",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T14:41:08Z",
+      "mergedAt": null,
+      "additions": 119,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 36272,
+      "title": "fix: invalidate auth runtime snapshots on profile store save",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T14:40:50Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 32336,
+      "title": "fix(discord): push connected status when gateway already connected at lifecycle start",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T00:28:49Z",
+      "mergedAt": "2026-03-03T01:10:56Z",
+      "additions": 75,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 32108,
+      "title": "fix: prevent reasoning text leak through handleMessageEnd fallback",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T19:48:39Z",
+      "mergedAt": "2026-03-02T20:32:01Z",
+      "additions": 38,
+      "deletions": 5,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43492,
+      "title": "Cross-provider fallback retry: prompt-detected images bypass resolveRetryImages guard",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T21:49:58Z",
+      "closedAt": null
+    },
+    {
+      "number": 43482,
+      "title": "Fallback retry should detect partial tool execution before replaying prompt",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T21:19:06Z",
+      "closedAt": null
+    },
+    {
+      "number": 43481,
+      "title": "Cross-provider fallback should respect provider trust boundaries for images/attachments",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T21:18:53Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 43507,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T23:12:38Z"
+    },
+    {
+      "prNumber": 43507,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T23:12:34Z"
+    },
+    {
+      "prNumber": 43507,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T23:12:32Z"
+    },
+    {
+      "prNumber": 43507,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T23:12:29Z"
+    },
+    {
+      "prNumber": 43485,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T21:47:53Z"
+    },
+    {
+      "prNumber": 43485,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T21:39:49Z"
+    },
+    {
+      "prNumber": 43485,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T21:39:48Z"
+    },
+    {
+      "prNumber": 43331,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T19:06:53Z"
+    },
+    {
+      "prNumber": 43331,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T16:53:52Z"
+    },
+    {
+      "prNumber": 43331,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T16:31:09Z"
+    },
+    {
+      "prNumber": 43303,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T16:20:53Z"
+    },
+    {
+      "prNumber": 43303,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T16:20:42Z"
+    },
+    {
+      "prNumber": 43303,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T16:20:21Z"
+    },
+    {
+      "prNumber": 32336,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T00:53:05Z"
+    },
+    {
+      "prNumber": 32108,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T20:05:02Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-03": 2,
+    "2026-03-02": 1,
+    "2026-02-24": 2
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 4,
+      "issues": 3,
+      "reviews": 13
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-02": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

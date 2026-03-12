@@ -1,0 +1,136 @@
+{
+  "username": "jskoiz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20649937?u=b2b00f0a4e70c540b2a6e643ebd54bfb76c2c9b7&v=4",
+  "githubUrl": "https://github.com/jskoiz",
+  "score": {
+    "score": 98.91,
+    "prScore": 90.41,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 5.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 1,
+    "prAdditions": 1691,
+    "prDeletions": 23,
+    "prChangedFiles": 23,
+    "prMergeRate": 25,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 11,
+    "commitAdditions": 315,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 11,
+      "commitAdditions": 315,
+      "commitDeletions": 1,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 11,
+      "commitAdditions": 315,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-04T06:45:57Z",
+  "lastContribution": "2026-03-10T23:08:23Z",
+  "recentPRs": [
+    {
+      "number": 41388,
+      "title": "Discord extension: route outbound sends to thread targets",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T19:36:15Z",
+      "mergedAt": null,
+      "additions": 115,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 39172,
+      "title": "fix(ui): preserve Telegram sender attribution in dashboard chat",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T20:51:45Z",
+      "mergedAt": null,
+      "additions": 332,
+      "deletions": 7,
+      "changedFiles": 8
+    },
+    {
+      "number": 38794,
+      "title": "fix(discord): honor commands.allowFrom in guild slash auth",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T11:15:06Z",
+      "mergedAt": "2026-03-07T18:03:53Z",
+      "additions": 315,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 34071,
+      "title": "feat: add token budget routing for daily free-tier model usage",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T06:45:57Z",
+      "mergedAt": null,
+      "additions": 929,
+      "deletions": 6,
+      "changedFiles": 10
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 39172,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T23:32:04Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-07": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

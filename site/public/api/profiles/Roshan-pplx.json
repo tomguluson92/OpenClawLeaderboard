@@ -1,0 +1,116 @@
+{
+  "username": "Roshan-pplx",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/258898315?v=4",
+  "githubUrl": "https://github.com/Roshan-pplx",
+  "score": {
+    "score": 40.08,
+    "prScore": 40.08,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 302,
+    "prDeletions": 12,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T03:01:20Z",
+  "lastContribution": "2026-03-09T06:04:47Z",
+  "recentPRs": [
+    {
+      "number": 40662,
+      "title": "fix: allow negative group IDs in groupAllowFrom validation (#40444)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T06:04:47Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 40523,
+      "title": "fix: cron module logger now respects consoleLevel setting",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T03:31:04Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 40509,
+      "title": "fix: strip orphaned tool_result blocks during Anthropic turn validation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T03:13:22Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 40494,
+      "title": "fix: use atomic write for auth-profiles.json to prevent corruption",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T03:01:20Z",
+      "mergedAt": null,
+      "additions": 123,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

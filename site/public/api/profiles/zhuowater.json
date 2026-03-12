@@ -1,0 +1,257 @@
+{
+  "username": "zhuowater",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/354657?v=4",
+  "githubUrl": "https://github.com/zhuowater",
+  "score": {
+    "score": 303.32,
+    "prScore": 303.32,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 13,
+    "prsMerged": 0,
+    "prAdditions": 904,
+    "prDeletions": 1402562,
+    "prChangedFiles": 7643,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T05:50:43Z",
+  "lastContribution": "2026-03-11T02:12:13Z",
+  "recentPRs": [
+    {
+      "number": 42675,
+      "title": "fix(discord): throw error when fetchUser(@me) fails to prevent security bypass",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T02:12:13Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 41990,
+      "title": "fix(feishu): escape underscores in URLs to prevent incorrect markdown parsing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T09:12:52Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 40456,
+      "title": "fix(telegram): accept negative group/supergroup IDs in groupAllowFrom",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T02:05:07Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 39653,
+      "title": "fix(security): reject hostname ws:// targets in allowPrivateWs mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T09:05:39Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 39370,
+      "title": "fix(openresponses): normalize tool definitions to accept Anthropic and flat formats",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T02:07:06Z",
+      "mergedAt": null,
+      "additions": 168,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 38707,
+      "title": "fix(tts): recognize bare [[tts]] tag in parseTtsDirectives",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T09:06:08Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 37528,
+      "title": "fix(feishu): add early event-level dedup to prevent duplicate message processing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T09:10:06Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 37034,
+      "title": "fix(i18n): add missing zh-CN cron keys (schedule, lastRun, reset)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T02:32:09Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 36999,
+      "title": "fix(docs): remove broken anchor link in FAQ Xfinity/SSL section",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T02:03:29Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 35117,
+      "title": "fix(googlechat): accept Workspace Add-on JWT issuers in project-number auth path",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T00:47:09Z",
+      "mergedAt": null,
+      "additions": 127,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 34066,
+      "title": "fix(i18n): add missing zh-CN cron keys + locale completeness check script",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T06:41:21Z",
+      "mergedAt": null,
+      "additions": 122,
+      "deletions": 1402543,
+      "changedFiles": 7623
+    },
+    {
+      "number": 34051,
+      "title": "feat(webchat): add confirmation dialog for 'New session' button",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T06:25:45Z",
+      "mergedAt": null,
+      "additions": 83,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34011,
+      "title": "feat(feishu): wire up react/reactions message actions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T05:50:43Z",
+      "mergedAt": null,
+      "additions": 241,
+      "deletions": 1,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

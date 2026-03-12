@@ -1,0 +1,115 @@
+{
+  "username": "gionata405",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264413603?v=4",
+  "githubUrl": "https://github.com/gionata405",
+  "score": {
+    "score": 28.94,
+    "prScore": 14.94,
+    "issueScore": 5,
+    "reviewScore": 9,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 198,
+    "prDeletions": 0,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T22:22:28Z",
+  "lastContribution": "2026-03-03T23:16:05Z",
+  "recentPRs": [
+    {
+      "number": 33559,
+      "title": "feat: add sliding window extension to cap conversation history",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-03T22:25:49Z",
+      "mergedAt": null,
+      "additions": 198,
+      "deletions": 0,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 33553,
+      "title": "feat: Add configurable sliding window to cap conversation history",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T22:22:28Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 33559,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T23:16:05Z"
+    },
+    {
+      "prNumber": 33559,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T23:16:00Z"
+    },
+    {
+      "prNumber": 33559,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-03T23:15:55Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "username": "webdevtodayjason",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/115739170?u=6001f899b92d091182ed3ff0b0354a907ce9d92f&v=4",
+  "githubUrl": "https://github.com/webdevtodayjason",
+  "score": {
+    "score": 264.11,
+    "prScore": 235.61,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 20.5
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 17,
+    "prsMerged": 2,
+    "prAdditions": 1263,
+    "prDeletions": 148,
+    "prChangedFiles": 63,
+    "prMergeRate": 12,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 41,
+    "commitAdditions": 173,
+    "commitDeletions": 9,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 12,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 17,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 41,
+      "commitAdditions": 173,
+      "commitDeletions": 9,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-02T04:05:09Z",
+  "lastContribution": "2026-03-09T10:44:05Z",
+  "recentPRs": [
+    {
+      "number": 40233,
+      "title": "routing: keep per-channel DM last-route scoped to session",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T20:16:19Z",
+      "mergedAt": null,
+      "additions": 128,
+      "deletions": 33,
+      "changedFiles": 10
+    },
+    {
+      "number": 36624,
+      "title": "test(ui): make lifecycle node tests runnable in node config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T19:31:22Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 34531,
+      "title": "systemd/web-search: user-bus fallback + brave key canonical path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T14:25:30Z",
+      "mergedAt": null,
+      "additions": 255,
+      "deletions": 25,
+      "changedFiles": 16
+    },
+    {
+      "number": 33415,
+      "title": "agent: refresh stale skills snapshots on resume",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T19:27:04Z",
+      "mergedAt": null,
+      "additions": 198,
+      "deletions": 30,
+      "changedFiles": 5
+    },
+    {
+      "number": 33257,
+      "title": "tools(web): guard non-ByteString web_search api keys",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T16:27:47Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 33231,
+      "title": "onboard: keep non-interactive tools profile unset by default",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T16:10:24Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 33050,
+      "title": "test(heartbeat): cover defaults model inheritance for agents",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T13:27:09Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 33038,
+      "title": "Discord: guard message:received hook session keys",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T13:12:25Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 33035,
+      "title": "Matrix: use plugin-sdk root export for send queue",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T13:11:20Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 33028,
+      "title": "Matrix: resolve mention patterns per routed agent",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T13:09:33Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 15,
+      "changedFiles": 3
+    },
+    {
+      "number": 32378,
+      "title": "test(gateway): make request-helper auth precedence explicit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T01:21:13Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 32371,
+      "title": "Agent: sanitize tool schemas across Google providers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T01:00:42Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 18,
+      "changedFiles": 2
+    },
+    {
+      "number": 32361,
+      "title": "UI: sync locale render on initial connect",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T00:47:12Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 32332,
+      "title": "fix(agents): guard gemini schema properties against null",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T00:21:06Z",
+      "mergedAt": "2026-03-03T01:12:07Z",
+      "additions": 70,
+      "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 32321,
+      "title": "test(gateway): guard JSON BlueBubbles webhook passthrough",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T00:10:55Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 32214,
+      "title": "TTS: resolve core channel ids without plugin registry",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-02T22:07:35Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 32099,
+      "title": "WhatsApp: guard main DM last-route to single owner",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T19:36:49Z",
+      "mergedAt": "2026-03-02T20:33:59Z",
+      "additions": 113,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32097,
+      "title": "[Bug]: WhatsApp main-session lastRoute can be overwritten by non-owner sender",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T19:36:26Z",
+      "closedAt": "2026-03-02T20:34:01Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-03": 1,
+    "2026-03-02": 1
+  },
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

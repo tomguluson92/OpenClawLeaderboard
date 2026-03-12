@@ -1,0 +1,367 @@
+{
+  "username": "joshavant",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/830519?v=4",
+  "githubUrl": "https://github.com/joshavant",
+  "score": {
+    "score": 862.68,
+    "prScore": 788.68,
+    "issueScore": 0,
+    "reviewScore": 30,
+    "commentScore": 44
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 92,
+    "prs": 16,
+    "prsMerged": 14,
+    "prAdditions": 38120,
+    "prDeletions": 8526,
+    "prChangedFiles": 1045,
+    "prMergeRate": 88,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 10,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 88,
+    "commitAdditions": 57473,
+    "commitDeletions": 10425,
+    "weeklyCommits": 9,
+    "monthlyCommits": 96,
+    "commitChangedFiles": 1253
+  },
+  "period": {
+    "weekly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 10,
+      "comments": 65,
+      "commitAdditions": 20151,
+      "commitDeletions": 1777,
+      "commits": 17
+    },
+    "monthly": {
+      "prs": 16,
+      "issues": 0,
+      "reviews": 10,
+      "comments": 88,
+      "commitAdditions": 57473,
+      "commitDeletions": 10425,
+      "commits": 93
+    }
+  },
+  "firstContribution": "2026-03-03T21:00:00Z",
+  "lastContribution": "2026-03-11T02:22:16Z",
+  "recentPRs": [
+    {
+      "number": 42672,
+      "title": "Gateway: fail closed unresolved local auth SecretRefs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-11T02:09:06Z",
+      "mergedAt": "2026-03-11T02:41:56Z",
+      "additions": 197,
+      "deletions": 48,
+      "changedFiles": 20
+    },
+    {
+      "number": 42554,
+      "title": "SecretRef: harden custom/provider secret persistence and reuse",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T22:53:59Z",
+      "mergedAt": "2026-03-10T23:46:47Z",
+      "additions": 650,
+      "deletions": 72,
+      "changedFiles": 40
+    },
+    {
+      "number": 42507,
+      "title": "fix(gateway): harden token fallback/reconnect behavior and docs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T21:26:15Z",
+      "mergedAt": "2026-03-10T22:05:58Z",
+      "additions": 1188,
+      "deletions": 80,
+      "changedFiles": 21
+    },
+    {
+      "number": 42455,
+      "title": "Docs: add changelog entry for SecretRef traversal",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T18:52:34Z",
+      "mergedAt": "2026-03-10T18:52:50Z",
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 42370,
+      "title": "Secrets: reject exec SecretRef traversal ids across schema/runtime/gateway",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T17:01:07Z",
+      "mergedAt": "2026-03-10T18:45:37Z",
+      "additions": 853,
+      "deletions": 32,
+      "changedFiles": 21
+    },
+    {
+      "number": 42352,
+      "title": "fix(secrets): thread runtime cfg through discord/telegram send paths",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T16:36:45Z",
+      "mergedAt": "2026-03-10T18:30:57Z",
+      "additions": 531,
+      "deletions": 46,
+      "changedFiles": 21
+    },
+    {
+      "number": 41599,
+      "title": "fix(secrets): resolve web tool SecretRefs atomically at runtime",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T01:47:26Z",
+      "mergedAt": "2026-03-10T03:57:03Z",
+      "additions": 2059,
+      "deletions": 112,
+      "changedFiles": 28
+    },
+    {
+      "number": 39241,
+      "title": "gateway: harden shared auth resolution across systemd, discord, and node host",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T22:36:25Z",
+      "mergedAt": "2026-03-08T00:28:32Z",
+      "additions": 1489,
+      "deletions": 246,
+      "changedFiles": 28
+    },
+    {
+      "number": 38955,
+      "title": "Secrets: harden SecretRef-safe models.json persistence",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T15:19:14Z",
+      "mergedAt": "2026-03-07T17:28:39Z",
+      "additions": 2707,
+      "deletions": 293,
+      "changedFiles": 66
+    },
+    {
+      "number": 38470,
+      "title": "Models/Secrets: harden SecretRef-managed models.json persistence and audit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T02:10:04Z",
+      "mergedAt": null,
+      "additions": 14676,
+      "deletions": 6551,
+      "changedFiles": 496
+    },
+    {
+      "number": 37023,
+      "title": "CLI: make read-only SecretRef status flows degrade safely",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T02:13:25Z",
+      "mergedAt": "2026-03-06T05:07:13Z",
+      "additions": 3410,
+      "deletions": 203,
+      "changedFiles": 58
+    },
+    {
+      "number": 36835,
+      "title": "Memory: handle SecretRef keys in doctor embeddings",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T23:07:20Z",
+      "mergedAt": "2026-03-06T02:05:59Z",
+      "additions": 212,
+      "deletions": 11,
+      "changedFiles": 16
+    },
+    {
+      "number": 35094,
+      "title": "Gateway: add SecretRef support for gateway.auth.token with auth-mode guardrails",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T00:20:13Z",
+      "mergedAt": "2026-03-05T18:53:57Z",
+      "additions": 5752,
+      "deletions": 467,
+      "changedFiles": 112
+    },
+    {
+      "number": 33987,
+      "title": "fix(outbound): unify resolved cfg threading across send paths",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T05:30:16Z",
+      "mergedAt": "2026-03-04T06:20:45Z",
+      "additions": 1780,
+      "deletions": 117,
+      "changedFiles": 62
+    },
+    {
+      "number": 33983,
+      "title": "Tests: expand outbound cfg-threading regression coverage",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T05:24:48Z",
+      "mergedAt": null,
+      "additions": 1487,
+      "deletions": 31,
+      "changedFiles": 19
+    },
+    {
+      "number": 33733,
+      "title": "follow-up: align ingress, atomic paths, and channel tests with credential semantics",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-04T01:34:49Z",
+      "mergedAt": "2026-03-04T02:29:46Z",
+      "additions": 1128,
+      "deletions": 217,
+      "changedFiles": 36
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42672,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T02:22:16Z"
+    },
+    {
+      "prNumber": 42554,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T23:14:28Z"
+    },
+    {
+      "prNumber": 42554,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T23:14:22Z"
+    },
+    {
+      "prNumber": 42507,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T21:45:36Z"
+    },
+    {
+      "prNumber": 42507,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T21:45:35Z"
+    },
+    {
+      "prNumber": 42507,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T21:45:34Z"
+    },
+    {
+      "prNumber": 42370,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T17:27:49Z"
+    },
+    {
+      "prNumber": 42352,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T16:57:35Z"
+    },
+    {
+      "prNumber": 41599,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T02:13:08Z"
+    },
+    {
+      "prNumber": 41599,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T02:13:08Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 1,
+    "2026-03-11": 1,
+    "2026-03-10": 8,
+    "2026-03-08": 1,
+    "2026-03-07": 1,
+    "2026-03-06": 3,
+    "2026-03-05": 2,
+    "2026-03-04": 2,
+    "2026-03-03": 5,
+    "2026-02-26": 65,
+    "2026-02-19": 2,
+    "2026-02-17": 2
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-10": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-07": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "username": "echoVic",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16428813?v=4",
+  "githubUrl": "https://github.com/echoVic",
+  "score": {
+    "score": 1039.2,
+    "prScore": 1021.2,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 18
+  },
+  "tier": "elite",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 16,
+    "prs": 115,
+    "prsMerged": 1,
+    "prAdditions": 6579,
+    "prDeletions": 605,
+    "prChangedFiles": 320,
+    "prMergeRate": 1,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 36,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 57,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 22,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 115,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 36,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-01T02:58:15Z",
+  "lastContribution": "2026-03-06T15:49:54Z",
+  "recentPRs": [
+    {
+      "number": 38062,
+      "title": "feat(cron): add gate field to agentTurn jobs for pre-LLM shell check",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T15:49:54Z",
+      "mergedAt": null,
+      "additions": 404,
+      "deletions": 11,
+      "changedFiles": 13
+    },
+    {
+      "number": 37629,
+      "title": "fix(discord): prevent uncaught error crash when gateway shuts down with maxAttempts=0",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T10:21:50Z",
+      "mergedAt": null,
+      "additions": 162,
+      "deletions": 11,
+      "changedFiles": 9
+    },
+    {
+      "number": 37583,
+      "title": "fix: treat launchctl ETIMEDOUT as supervised restart to prevent degraded state",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:50:21Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 37552,
+      "title": "docs: add llms.txt and contextual AI menu for agent-friendly docs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:28:12Z",
+      "mergedAt": null,
+      "additions": 90,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 37542,
+      "title": "feat(agents): add maxSteps recursion_limit to prevent infinite agent loops",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:14:00Z",
+      "mergedAt": null,
+      "additions": 159,
+      "deletions": 3,
+      "changedFiles": 8
+    },
+    {
+      "number": 37539,
+      "title": "fix(agents): add forward-compat for Gemini 3.1 series on google/google-antigravity providers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:11:05Z",
+      "mergedAt": null,
+      "additions": 79,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 37520,
+      "title": "Gateway: improve origin-not-allowed error with actionable config guidance",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:09:01Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 37519,
+      "title": "OpenAI WS: clamp maxRetries to >=1 to fix zero-retry reconnect bug",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:08:58Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 37518,
+      "title": "Daemon: gracefully handle systemctl is-enabled unavailability in containers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:08:55Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 15,
+      "changedFiles": 2
+    },
+    {
+      "number": 37517,
+      "title": "Gateway: detect and surface version mismatch after npm update without restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:08:53Z",
+      "mergedAt": null,
+      "additions": 195,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 37516,
+      "title": "fix(agents): strip parallel_tool_calls for non-codex providers to prevent 400 errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:08:49Z",
+      "mergedAt": null,
+      "additions": 89,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 37510,
+      "title": "fix(logging): rotate log file at midnight by invalidating stale child loggers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:06:08Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 37509,
+      "title": "fix(agents_list): return all configured agents when allowAgents is not explicitly set",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:05:32Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 37503,
+      "title": "feat(models): add gemini-3-flash-lite-preview and gemini-3.1-flash-lite-preview to model catalog",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:03:01Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 37502,
+      "title": "agent: warn when session model override is silently dropped by allowlist",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:02:08Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 37501,
+      "title": "routing: change dmScope default from \"main\" to \"per-channel-peer\"",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:01:33Z",
+      "mergedAt": null,
+      "additions": 112,
+      "deletions": 12,
+      "changedFiles": 13
+    },
+    {
+      "number": 37498,
+      "title": "Agents: add Gemini 3.1 Flash-Lite forward-compat for google/google-antigravity fallback routing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T08:58:56Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 7,
+      "changedFiles": 7
+    },
+    {
+      "number": 37496,
+      "title": "agent --local: close Playwright connection on exit to prevent process hang",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T08:58:11Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 37495,
+      "title": "fix(agents): don't restore stale baseUrl from models.json when config sets a new one",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T08:57:50Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 37493,
+      "title": "ACPx: kill child processes when session TTL expires to prevent zombie accumulation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T08:57:03Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "pr-legend",
+      "label": "PR Legend",
+      "description": "100+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "username": "GodsBoy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5792287?u=f103aac89d8296d2996fbae09cde78d3f08d3aac&v=4",
+  "githubUrl": "https://github.com/GodsBoy",
+  "score": {
+    "score": 155.51,
+    "prScore": 97.01,
+    "issueScore": 23,
+    "reviewScore": 30,
+    "commentScore": 5.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 883,
+    "prDeletions": 50,
+    "prChangedFiles": 28,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 1,
+    "reviews": 10,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 11,
+    "commitAdditions": 47,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 3,
+      "reviews": 10,
+      "comments": 8,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 4,
+      "reviews": 10,
+      "comments": 11,
+      "commitAdditions": 47,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-02-28T05:53:53Z",
+  "lastContribution": "2026-03-10T16:07:20Z",
+  "recentPRs": [
+    {
+      "number": 41989,
+      "title": "feat(telegram): persist forum topic icons via config (iconCustomEmojiId)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T09:11:52Z",
+      "mergedAt": null,
+      "additions": 187,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 41365,
+      "title": "fix(cron): merge multi-chunk text payloads for announce delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T18:54:19Z",
+      "mergedAt": null,
+      "additions": 130,
+      "deletions": 13,
+      "changedFiles": 7
+    },
+    {
+      "number": 40777,
+      "title": "fix(agents): strip thinking tags from non-reasoning providers when thinking is off",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T08:33:20Z",
+      "mergedAt": null,
+      "additions": 456,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 39797,
+      "title": "fix(models): default openai-codex/gpt-5.4 to 272k context, make native 1M opt-in",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T12:04:33Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 28,
+      "changedFiles": 6
+    },
+    {
+      "number": 39787,
+      "title": "fix: expose native GPT-5.4 context window on openai-codex provider",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T11:52:18Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 5,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41982,
+      "title": "feat(telegram): persist forum topic icons via config (iconCustomEmojiId)",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T08:59:34Z",
+      "closedAt": null
+    },
+    {
+      "number": 39791,
+      "title": "OpenAI Codex: expose native GPT-5.4 context window or document the effective cap",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T11:58:31Z",
+      "closedAt": null
+    },
+    {
+      "number": 39782,
+      "title": "Feature request: expose full GPT-5.4 / Codex context window in openai-codex provider",
+      "state": "CLOSED",
+      "createdAt": "2026-03-08T11:43:02Z",
+      "closedAt": "2026-03-08T12:09:16Z"
+    },
+    {
+      "number": 29491,
+      "title": "feat(lobster): document workflow file shell quoting limitation + suggest exec helper or JSON format",
+      "state": "OPEN",
+      "createdAt": "2026-02-28T05:53:53Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 41365,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T19:39:52Z"
+    },
+    {
+      "prNumber": 41365,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T19:39:50Z"
+    },
+    {
+      "prNumber": 41365,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T19:39:49Z"
+    },
+    {
+      "prNumber": 40777,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T13:13:29Z"
+    },
+    {
+      "prNumber": 40777,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T12:55:29Z"
+    },
+    {
+      "prNumber": 40777,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T10:17:09Z"
+    },
+    {
+      "prNumber": 40777,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T08:48:11Z"
+    },
+    {
+      "prNumber": 40777,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T08:48:02Z"
+    },
+    {
+      "prNumber": 39797,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:32:10Z"
+    },
+    {
+      "prNumber": 39797,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-08T13:32:02Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-02-26": 1
+  },
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 2
+    },
+    "2026-02-28": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

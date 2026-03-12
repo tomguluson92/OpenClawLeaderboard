@@ -1,0 +1,194 @@
+{
+  "username": "benediktjohannes",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/253604130?u=d0bae0309b837e402b6554d73e969387910f97d8&v=4",
+  "githubUrl": "https://github.com/benediktjohannes",
+  "score": {
+    "score": 85.03,
+    "prScore": 30.03,
+    "issueScore": 24,
+    "reviewScore": 27,
+    "commentScore": 4
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 15,
+    "prDeletions": 3,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 3,
+    "reviews": 9,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 8,
+    "commitAdditions": 23,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 9,
+      "comments": 8,
+      "commitAdditions": 23,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-01T20:19:46Z",
+  "lastContribution": "2026-03-05T01:10:07Z",
+  "recentPRs": [
+    {
+      "number": 34954,
+      "title": "[Security]: Fix potential security risk allowing the attacker to inject malicious instructions in src/security/external-contents.ts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T20:10:30Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34946,
+      "title": "[Security]: Fix potential security risk allowing the attacker to inject malicious instructions in src/security/external-contents.ts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T20:04:11Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34929,
+      "title": "[Security]: Fix security vulnerability through __proto__",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T19:39:47Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 34943,
+      "title": "[Security]: Potential security risk allowing the attacker to inject malicious instructions in src/security/external-contents.ts",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T20:01:20Z",
+      "closedAt": "2026-03-07T17:15:10Z"
+    },
+    {
+      "number": 34926,
+      "title": "[Security]: Use of in operator in hasExplicitProviderAccountConfig can lead to prototype pollution bypass",
+      "state": "CLOSED",
+      "createdAt": "2026-03-04T19:37:01Z",
+      "closedAt": "2026-03-05T01:38:10Z"
+    },
+    {
+      "number": 30948,
+      "title": "[Bug]: Minor security risk in src/security/external-contents.ts",
+      "state": "CLOSED",
+      "createdAt": "2026-03-01T20:19:46Z",
+      "closedAt": "2026-03-02T00:38:03Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 31796,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T15:38:27Z"
+    },
+    {
+      "prNumber": 31796,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T15:37:56Z"
+    },
+    {
+      "prNumber": 31796,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T15:37:34Z"
+    },
+    {
+      "prNumber": 31796,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T15:35:53Z"
+    },
+    {
+      "prNumber": 31822,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T15:30:52Z"
+    },
+    {
+      "prNumber": 31822,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T15:30:05Z"
+    },
+    {
+      "prNumber": 31822,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T15:29:43Z"
+    },
+    {
+      "prNumber": 31822,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T15:29:27Z"
+    },
+    {
+      "prNumber": 31822,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T15:28:34Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-02": 1
+  },
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-01": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 9
+    }
+  }
+}

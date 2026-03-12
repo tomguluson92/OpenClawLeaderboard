@@ -1,0 +1,297 @@
+{
+  "username": "powermaster888",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7107452?u=f6c7e5aea7cc081effafe3eade4d9efe932614a1&v=4",
+  "githubUrl": "https://github.com/powermaster888",
+  "score": {
+    "score": 175.5,
+    "prScore": 175.5,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 17,
+    "prsMerged": 1,
+    "prAdditions": 609,
+    "prDeletions": 108,
+    "prChangedFiles": 25,
+    "prMergeRate": 6,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 20,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 20,
+      "commitDeletions": 1,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 17,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 20,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-03T19:14:35Z",
+  "lastContribution": "2026-03-09T20:52:00Z",
+  "recentPRs": [
+    {
+      "number": 41433,
+      "title": "fix(web-search): align Brave llm-context snippet type with API schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T20:52:00Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 41430,
+      "title": "fix(discord): guard ThreadStarterBody to first turn only",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T20:50:36Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 40193,
+      "title": "docs: remove broken navigation entries for missing install pages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T19:24:42Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 40191,
+      "title": "fix(loop-detection): clear stale toolCallHistory across heartbeat cycles",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T19:23:30Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40189,
+      "title": "ci(secrets): ensure base commit is available before PR diff scan",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T19:22:14Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39121,
+      "title": "fix(gateway): flush pending chat delta before tool start events",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:26:05Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 32,
+      "changedFiles": 1
+    },
+    {
+      "number": 39116,
+      "title": "fix(config): sanitize validation log output to prevent control character injection",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:20:39Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 39114,
+      "title": "fix(voice-call): add staleCallReaperSeconds to plugin configSchema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T19:19:03Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 38282,
+      "title": "fix(models): extend Gemini 3.1 forward-compat to google-vertex provider",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T19:21:27Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 38281,
+      "title": "fix(venice): sync model catalog with live Venice API",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T19:18:58Z",
+      "mergedAt": null,
+      "additions": 153,
+      "deletions": 27,
+      "changedFiles": 1
+    },
+    {
+      "number": 36610,
+      "title": "test(cron): add webhook URL normalization tests",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T19:19:47Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 36606,
+      "title": "fix(security): harden pairing-store path normalization against traversal",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T19:16:26Z",
+      "mergedAt": null,
+      "additions": 114,
+      "deletions": 10,
+      "changedFiles": 2
+    },
+    {
+      "number": 36603,
+      "title": "fix(config): hash merged schema cache key to prevent RangeError with many channels",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-05T19:13:07Z",
+      "mergedAt": "2026-03-05T22:45:07Z",
+      "additions": 20,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34196,
+      "title": "fix: strip orphaned XML tags and template delimiters from subagent output",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:50:57Z",
+      "mergedAt": null,
+      "additions": 71,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 34187,
+      "title": "fix(feishu): deduplicate streaming card text by reusing shared merge helper",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:48:22Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 14,
+      "changedFiles": 1
+    },
+    {
+      "number": 34186,
+      "title": "fix: enforce git dependency check for npm installs in PS1 installer",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T08:46:05Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 33405,
+      "title": "fix: resolve relative media paths against localRoots before access check",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T19:14:35Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-05": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

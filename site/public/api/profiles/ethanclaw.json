@@ -1,0 +1,111 @@
+{
+  "username": "ethanclaw",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/262543029?v=4",
+  "githubUrl": "https://github.com/ethanclaw",
+  "score": {
+    "score": 45.42,
+    "prScore": 42.42,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 377,
+    "prDeletions": 6,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T14:48:12Z",
+  "lastContribution": "2026-03-11T09:44:19Z",
+  "recentPRs": [
+    {
+      "number": 42978,
+      "title": "fix(auth): add bailian to PROVIDER_ENV_API_KEY_CANDIDATES",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T08:32:10Z",
+      "mergedAt": null,
+      "additions": 157,
+      "deletions": 3,
+      "changedFiles": 6
+    },
+    {
+      "number": 42904,
+      "title": "fix(logs): find active log file across date boundaries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T06:42:50Z",
+      "mergedAt": null,
+      "additions": 131,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 42245,
+      "title": "fix(cron): warn when --agent is not specified on cron add",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T14:48:12Z",
+      "mergedAt": null,
+      "additions": 89,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

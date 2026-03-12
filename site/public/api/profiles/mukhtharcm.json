@@ -1,0 +1,159 @@
+{
+  "username": "mukhtharcm",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/56378562?v=4",
+  "githubUrl": "https://github.com/mukhtharcm",
+  "score": {
+    "score": 389.05,
+    "prScore": 362.55,
+    "issueScore": 0,
+    "reviewScore": 15,
+    "commentScore": 11.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 38,
+    "prs": 3,
+    "prsMerged": 3,
+    "prAdditions": 4505,
+    "prDeletions": 362,
+    "prChangedFiles": 49,
+    "prMergeRate": 100,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 23,
+    "commitAdditions": 7430,
+    "commitDeletions": 1102,
+    "weeklyCommits": 4,
+    "monthlyCommits": 15,
+    "commitChangedFiles": 170
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 21,
+      "commitAdditions": 2182,
+      "commitDeletions": 359,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 23,
+      "commitAdditions": 4506,
+      "commitDeletions": 549,
+      "commits": 6
+    }
+  },
+  "firstContribution": "2026-03-03T03:18:21Z",
+  "lastContribution": "2026-03-10T07:49:58Z",
+  "recentPRs": [
+    {
+      "number": 38767,
+      "title": "Mattermost: add interactive model picker",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-07T10:25:55Z",
+      "mergedAt": "2026-03-07T16:15:29Z",
+      "additions": 1867,
+      "deletions": 290,
+      "changedFiles": 23
+    },
+    {
+      "number": 37543,
+      "title": "fix(mattermost): allow reachable interaction callback URLs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-06T09:14:38Z",
+      "mergedAt": "2026-03-06T09:57:47Z",
+      "additions": 315,
+      "deletions": 69,
+      "changedFiles": 6
+    },
+    {
+      "number": 32467,
+      "title": "feat(mattermost): add native slash command support (refresh)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-03T03:18:21Z",
+      "mergedAt": "2026-03-03T07:09:18Z",
+      "additions": 2323,
+      "deletions": 3,
+      "changedFiles": 20
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 38767,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T15:22:53Z"
+    },
+    {
+      "prNumber": 38767,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T11:07:13Z"
+    },
+    {
+      "prNumber": 38767,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T11:07:12Z"
+    },
+    {
+      "prNumber": 38767,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T11:07:10Z"
+    },
+    {
+      "prNumber": 38767,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-07T11:07:09Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-07": 1,
+    "2026-03-06": 1,
+    "2026-03-03": 1,
+    "2026-02-17": 3,
+    "2026-01-18": 4,
+    "2026-01-17": 3,
+    "2026-01-16": 4,
+    "2026-01-13": 2
+  },
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

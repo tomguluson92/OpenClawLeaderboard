@@ -1,0 +1,204 @@
+{
+  "username": "liugangjian",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48613966?u=fedea8062c3da8d9c52a989d0ae45017bb3abb37&v=4",
+  "githubUrl": "https://github.com/liugangjian",
+  "score": {
+    "score": 111.3,
+    "prScore": 111.3,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 11,
+    "prsMerged": 0,
+    "prAdditions": 56,
+    "prDeletions": 12,
+    "prChangedFiles": 27,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T06:56:49Z",
+  "lastContribution": "2026-03-10T07:51:40Z",
+  "recentPRs": [
+    {
+      "number": 41915,
+      "title": "fix(bluebubbles): handle null text in debounce flush (clean)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T07:51:40Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 41895,
+      "title": "fix(discord): add missing autoThread field to DiscordGuildChannelConfig type",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T07:22:21Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 41893,
+      "title": "fix(bluebubbles): handle null text in debounce flush",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T07:21:05Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 35922,
+      "title": "fix(version): add more candidate paths for Homebrew installs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T10:18:26Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 35840,
+      "title": "fix(bluebubbles): handle null text in debounce flush",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T09:26:47Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 35788,
+      "title": "docs: add Contribute card to documentation index",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T08:47:48Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 35769,
+      "title": "feat(telegram): add ignoreReplyToBot option for group chats",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T08:36:06Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 35740,
+      "title": "fix(schema): add openclaw as valid browser driver option",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T08:08:12Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35725,
+      "title": "fix(schema): add missing domain field to wideArea discovery schema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T07:56:24Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 35698,
+      "title": "fix(discord): add missing autoThread field to DiscordGuildChannelConfig type",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T07:40:31Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 35630,
+      "title": "docs: add CONTRIBUTING.md and Chinese documentation links to README",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T06:56:49Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "username": "Linux2010",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35169750?u=2daaf41d001ab91b0fadc06bed05d8576e28a7bf&v=4",
+  "githubUrl": "https://github.com/Linux2010",
+  "score": {
+    "score": 357.47,
+    "prScore": 346.47,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 11
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 26,
+    "prsMerged": 0,
+    "prAdditions": 47989,
+    "prDeletions": 9755,
+    "prChangedFiles": 625,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 22,
+    "commitAdditions": 50,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 18,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 26,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 22,
+      "commitAdditions": 50,
+      "commitDeletions": 0,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-02-28T09:30:44Z",
+  "lastContribution": "2026-03-11T16:36:50Z",
+  "recentPRs": [
+    {
+      "number": 43269,
+      "title": "fix: persist outbound messages to unified session transcript",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T14:49:59Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43198,
+      "title": "fix: persist outbound messages to unified session transcript",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T13:20:57Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 41101,
+      "title": "fix(config): allow passthrough for ModelCompatSchema to fix kimi-coding validation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T14:08:24Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 41065,
+      "title": "fix(kimi-coding): exclude from thinking signature preservation to prevent turn-2 crashes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T13:41:54Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 41061,
+      "title": "fix(kimi-coding): exclude from thinking signature preservation to prevent turn-2 crashes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T13:36:22Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 40999,
+      "title": "fix(gateway): improve Control UI 4008 error message with allowInsecureAuth hint",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T12:52:14Z",
+      "mergedAt": null,
+      "additions": 85,
+      "deletions": 97,
+      "changedFiles": 4
+    },
+    {
+      "number": 40933,
+      "title": "fix(macOS): use kickstart -k as primary restart method for LaunchAgent",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T11:36:16Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 95,
+      "changedFiles": 3
+    },
+    {
+      "number": 40867,
+      "title": "fix(web-search): respect baseUrl config for Perplexity Search API",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T10:28:25Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 40775,
+      "title": "fix(telegram): accept negative group chat IDs in groupAllowFrom",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T08:29:04Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 38593,
+      "title": "fix: allow local Ollama models in config UI",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T05:14:44Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 36252,
+      "title": "fix: device pairing required on loopback for backend clients (#35763)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T14:23:56Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 36225,
+      "title": "fix: device pairing required on loopback for backend clients",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T13:56:24Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 34478,
+      "title": "feat(config): add configurable backup options",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T13:37:14Z",
+      "mergedAt": null,
+      "additions": 219,
+      "deletions": 17,
+      "changedFiles": 4
+    },
+    {
+      "number": 34366,
+      "title": "fix: deliver inter-session replies to bound channel (Telegram)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T11:35:44Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34333,
+      "title": "fix: prevent wrong recipient when channel changes (iMessage \u2192 Web UI)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T11:00:35Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34316,
+      "title": "fix: avoid /v1beta/v1beta URL duplication in Gemini PDF provider",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T10:39:55Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34295,
+      "title": "fix: handle systemctl 'command failed' error on Ubuntu 24+",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T10:16:22Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 34231,
+      "title": "fix(web): add clipboard fallback for insecure contexts (#34092)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T09:21:44Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 34073,
+      "title": "fix(tui): normalize session key to lowercase to match Gateway behavior",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-04T06:46:26Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 33107,
+      "title": "fix(browser): add auto-retry for tab not found in extension relay",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T14:31:53Z",
+      "mergedAt": null,
+      "additions": 182,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-03": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

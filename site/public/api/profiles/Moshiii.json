@@ -1,0 +1,208 @@
+{
+  "username": "Moshiii",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7553188?u=40fbadfe6153a314ceb5d04bffe4e6a9c8cd2bc4&v=4",
+  "githubUrl": "https://github.com/Moshiii",
+  "score": {
+    "score": 254.76,
+    "prScore": 229.76,
+    "issueScore": 23,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "active",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 88110,
+    "prDeletions": 19238,
+    "prChangedFiles": 1700,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T01:51:24Z",
+  "lastContribution": "2026-03-11T02:15:04Z",
+  "recentPRs": [
+    {
+      "number": 42259,
+      "title": "feat(image-tool): add imageCompressionQuality and imageCompressionMaxSide config",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T15:01:10Z",
+      "mergedAt": null,
+      "additions": 178,
+      "deletions": 13,
+      "changedFiles": 13
+    },
+    {
+      "number": 42239,
+      "title": "fix(agents): strip Pi-agent tool transcript lines from assistant text output",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T14:43:34Z",
+      "mergedAt": null,
+      "additions": 43948,
+      "deletions": 9569,
+      "changedFiles": 837
+    },
+    {
+      "number": 42230,
+      "title": "fix(ssrf): strip blocked addresses from pinned pool in dual-stack DNS responses",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T14:31:01Z",
+      "mergedAt": null,
+      "additions": 43951,
+      "deletions": 9649,
+      "changedFiles": 844
+    },
+    {
+      "number": 41660,
+      "title": "fix(doctor): clarify best-effort wording for invalid config diagnostics",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T02:54:00Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 40707,
+      "title": "Docs: add emergency invalid-config recovery steps to debugging guide",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T06:52:50Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 40706,
+      "title": "Gateway: improve invalid-config startup recovery hints",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T06:52:48Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 40705,
+      "title": "fix(doctor): clarify best-effort wording for invalid config diagnostics",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T06:52:46Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 40447,
+      "title": "docs: fix message send flag and claude-max-api-proxy links (#10458, #\u2026",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T01:51:24Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 3,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 41312,
+      "title": "[Feature]: Add cacheRead guardrails for large retained tool results in long sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T17:38:48Z",
+      "closedAt": null
+    },
+    {
+      "number": 40653,
+      "title": "[Feature]: Docs: add emergency invalid-config recovery steps in debugging guide",
+      "state": "CLOSED",
+      "createdAt": "2026-03-09T05:53:15Z",
+      "closedAt": "2026-03-10T02:17:30Z"
+    },
+    {
+      "number": 40652,
+      "title": "[Bug]: Gateway invalid-config startup error should suggest --fix and .bak recovery",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T05:53:14Z",
+      "closedAt": null
+    },
+    {
+      "number": 40651,
+      "title": "[Bug]: Doctor best-effort wording should clarify startup remains blocked",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T05:53:12Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 4,
+      "issues": 4,
+      "reviews": 0
+    }
+  }
+}

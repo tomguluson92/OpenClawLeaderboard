@@ -1,0 +1,94 @@
+{
+  "username": "Taskle",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1445636?v=4",
+  "githubUrl": "https://github.com/Taskle",
+  "score": {
+    "score": 19.74,
+    "prScore": 14.74,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 150,
+    "prDeletions": 12,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 10,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 10,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-06T23:56:32Z",
+  "lastContribution": "2026-03-06T23:56:48Z",
+  "recentPRs": [
+    {
+      "number": 38410,
+      "title": "fix(slack): DM thread attachments stay in thread when sent via message tool",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T23:56:48Z",
+      "mergedAt": null,
+      "additions": 150,
+      "deletions": 12,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 38409,
+      "title": "[Bug]: Slack DM thread attachments posted outside thread when sent via message tool",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T23:56:32Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-24": 1
+  },
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

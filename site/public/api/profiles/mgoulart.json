@@ -1,0 +1,126 @@
+{
+  "username": "mgoulart",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1581297?u=bd37348ce01f389c0f95d11d3421f6b869fecba8&v=4",
+  "githubUrl": "https://github.com/mgoulart",
+  "score": {
+    "score": 51.91,
+    "prScore": 24.41,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 19.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 41,
+    "prDeletions": 2,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 39,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 39,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 39,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T17:14:02Z",
+  "lastContribution": "2026-03-08T02:57:31Z",
+  "recentPRs": [
+    {
+      "number": 39405,
+      "title": "fix: resolve native addon bindings failure in jiti plugin loader",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T02:57:31Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 39286,
+      "title": "fix: resolve native addon bindings failure in jiti plugin loader",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T00:20:59Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 39272,
+      "title": "fix: add nativeModules to jiti config for native addon resolution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T23:59:30Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39271,
+      "title": "Plugin loader: jiti misresolves __dirname for native addon bindings",
+      "state": "CLOSED",
+      "createdAt": "2026-03-07T23:57:31Z",
+      "closedAt": "2026-03-07T23:57:50Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

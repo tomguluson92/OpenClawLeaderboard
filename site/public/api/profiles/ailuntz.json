@@ -1,0 +1,127 @@
+{
+  "username": "ailuntz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/130897222?u=d3cc538bd1e2db879ceb84a1fd305115864a24f6&v=4",
+  "githubUrl": "https://github.com/ailuntz",
+  "score": {
+    "score": 55.3,
+    "prScore": 55.3,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 265,
+    "prDeletions": 15,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-10T05:06:32Z",
+  "lastContribution": "2026-03-10T06:44:10Z",
+  "recentPRs": [
+    {
+      "number": 41856,
+      "title": "Docker: seed minimal gateway config",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T06:44:10Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 41849,
+      "title": "Feishu: honor HTTPS proxy for HTTP client",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T06:36:38Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 41846,
+      "title": "BlueBubbles: avoid missing parseFiniteNumber import",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T06:30:35Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 41775,
+      "title": "Gateway: coerce OpenAI completions assistant text",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T05:19:32Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 41767,
+      "title": "Gateway: bootstrap LaunchAgent on restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T05:06:32Z",
+      "mergedAt": null,
+      "additions": 123,
+      "deletions": 11,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

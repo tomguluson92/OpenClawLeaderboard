@@ -1,0 +1,170 @@
+{
+  "username": "s1korrrr",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24563931?u=ecea2cf4f16a15f79b308c4be967ffe956a6b6be&v=4",
+  "githubUrl": "https://github.com/s1korrrr",
+  "score": {
+    "score": 195.24,
+    "prScore": 189.24,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 11295,
+    "prDeletions": 190,
+    "prChangedFiles": 106,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 1,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 0,
+      "commitAdditions": 1,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-11T08:39:48Z",
+  "lastContribution": "2026-03-11T20:24:33Z",
+  "recentPRs": [
+    {
+      "number": 43448,
+      "title": "fix(ci): sync pnpm lockfile specifier",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T20:24:33Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 43145,
+      "title": "feat(agent): expose run trace timelines",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T11:38:52Z",
+      "mergedAt": null,
+      "additions": 7488,
+      "deletions": 155,
+      "changedFiles": 77
+    },
+    {
+      "number": 43097,
+      "title": "Pi: add tool adapter conformance harness",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T10:36:34Z",
+      "mergedAt": null,
+      "additions": 401,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 43085,
+      "title": "Pi: add tool adapter conformance harness",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T10:26:29Z",
+      "mergedAt": null,
+      "additions": 401,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 43068,
+      "title": "Sandbox: validate research-script imports before exec",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T10:09:11Z",
+      "mergedAt": null,
+      "additions": 774,
+      "deletions": 28,
+      "changedFiles": 5
+    },
+    {
+      "number": 42987,
+      "title": "cron: add procedural playbook memory v0",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T08:41:29Z",
+      "mergedAt": null,
+      "additions": 1384,
+      "deletions": 0,
+      "changedFiles": 8
+    },
+    {
+      "number": 42984,
+      "title": "feat(cron): add procedural playbook memory v0",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T08:39:48Z",
+      "mergedAt": null,
+      "additions": 836,
+      "deletions": 0,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 42987,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T08:47:59Z"
+    },
+    {
+      "prNumber": 42987,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-11T08:47:04Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-02-26": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 2
+    }
+  }
+}

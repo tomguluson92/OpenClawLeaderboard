@@ -1,0 +1,150 @@
+{
+  "username": "q1uf3ng",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/186373426?u=5e3a07fcd447aa5ef0ac4304288f3e447cdfc815&v=4",
+  "githubUrl": "https://github.com/q1uf3ng",
+  "score": {
+    "score": 74.27,
+    "prScore": 73.77,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 264,
+    "prDeletions": 99,
+    "prChangedFiles": 14,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-06T15:01:14Z",
+  "lastContribution": "2026-03-07T08:08:39Z",
+  "recentPRs": [
+    {
+      "number": 38130,
+      "title": "fix(slack): prevent auth-failure retry storm by disabling SDK auto-reconnect",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T16:21:32Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 38125,
+      "title": "fix(health): catch plugin errors during account resolution in health check",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T16:17:32Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 38118,
+      "title": "fix(config): align web search apiKey types with SecretRef support",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T16:12:20Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 14,
+      "changedFiles": 4
+    },
+    {
+      "number": 37972,
+      "title": "fix(agents): always include configured fallbacks in cross-provider model resolution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T15:10:54Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 63,
+      "changedFiles": 2
+    },
+    {
+      "number": 37970,
+      "title": "fix(auto-reply): embed Session Startup section in reset prompt to prevent hallucination",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T15:09:26Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 37965,
+      "title": "fix(logging): rotate log file on date change without requiring restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T15:07:26Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 37953,
+      "title": "fix(agents): replace original param with alias in required[] during Claude compat patching",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T15:01:14Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "username": "davidbordenwi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43112759?u=7defe42a435cad9fde261ed0581a6d61fffac7e2&v=4",
+  "githubUrl": "https://github.com/davidbordenwi",
+  "score": {
+    "score": 35.03,
+    "prScore": 18.03,
+    "issueScore": 15,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 71,
+    "prDeletions": 16,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-01T16:07:49Z",
+  "lastContribution": "2026-03-08T19:38:15Z",
+  "recentPRs": [
+    {
+      "number": 38970,
+      "title": "fix(agents): treat Anthropic 402 as rate_limit instead of billing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T15:42:56Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 38969,
+      "title": "fix(discord): use globalThis singleton for component registry Maps",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-07T15:42:38Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 12,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39535,
+      "title": "acpx plugin permissionMode config rejected by gateway validator",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T06:09:43Z",
+      "closedAt": null
+    },
+    {
+      "number": 38940,
+      "title": "Discord components v2: component registry fix #30789 closed without explanation \u2014 what's the path forward?",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T14:52:07Z",
+      "closedAt": null
+    },
+    {
+      "number": 30772,
+      "title": "Discord components via message tool: buttons expire immediately on click",
+      "state": "OPEN",
+      "createdAt": "2026-03-01T16:07:49Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-01": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

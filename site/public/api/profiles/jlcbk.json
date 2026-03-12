@@ -1,0 +1,215 @@
+{
+  "username": "jlcbk",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4089745?u=5c9dfc53b6050f6a6caa51a943777f133e0f1c59&v=4",
+  "githubUrl": "https://github.com/jlcbk",
+  "score": {
+    "score": 119.2,
+    "prScore": 114.2,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 11,
+    "prsMerged": 0,
+    "prAdditions": 327,
+    "prDeletions": 39,
+    "prChangedFiles": 21,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T06:36:04Z",
+  "lastContribution": "2026-03-10T13:51:06Z",
+  "recentPRs": [
+    {
+      "number": 41646,
+      "title": "fix(anthropic): strip dangling toolCall blocks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T02:34:31Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 41123,
+      "title": "fix(agents): prefer target agent workspace for spawned runs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T14:22:49Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 40942,
+      "title": "fix(config): accept requiresOpenAiAnthropicToolPayload in model compat schema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T11:50:52Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40921,
+      "title": "fix(config): include unknown keys in strict schema errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T11:26:25Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40474,
+      "title": "style(format): oxfmt daemon lifecycle test",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-09T02:40:11Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 11,
+      "changedFiles": 1
+    },
+    {
+      "number": 40425,
+      "title": "fix(tools): parse JSON-string toolCall arguments",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T01:22:45Z",
+      "mergedAt": null,
+      "additions": 111,
+      "deletions": 14,
+      "changedFiles": 3
+    },
+    {
+      "number": 40344,
+      "title": "fix(codex-usage): normalize OAuth token before Authorization header",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T23:09:56Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 39962,
+      "title": "voice-call: document staleCallReaperSeconds schema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T14:57:06Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 39833,
+      "title": "test(memory): assert sqlite busy_timeout is set on open",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T12:33:41Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 39754,
+      "title": "fix(podman): avoid sudo -u failing from private cwd",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T11:09:38Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 38645,
+      "title": "test: validate jlcbk PR submission chain",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T06:36:04Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

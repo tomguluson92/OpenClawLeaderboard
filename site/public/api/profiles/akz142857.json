@@ -1,0 +1,270 @@
+{
+  "username": "akz142857",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/209027?u=de677d5dc96b07ade8708762a3a05ed46690920a&v=4",
+  "githubUrl": "https://github.com/akz142857",
+  "score": {
+    "score": 224.08,
+    "prScore": 221.08,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 0
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 15,
+    "prsMerged": 0,
+    "prAdditions": 2055,
+    "prDeletions": 240,
+    "prChangedFiles": 81,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 15,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 15,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T05:46:02Z",
+  "lastContribution": "2026-03-09T17:08:29Z",
+  "recentPRs": [
+    {
+      "number": 41290,
+      "title": "fix(heartbeat): clamp interval to Node.js 32-bit timer limit to prevent overflow",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T17:08:29Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 39383,
+      "title": "fix(agents): use Responses API flat tool format for WebSocket stream; fix TTS speed fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T02:19:52Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 28,
+      "changedFiles": 6
+    },
+    {
+      "number": 39050,
+      "title": "fix(config): degrade gracefully on missing env vars instead of crashing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T17:37:09Z",
+      "mergedAt": null,
+      "additions": 194,
+      "deletions": 39,
+      "changedFiles": 6
+    },
+    {
+      "number": 38591,
+      "title": "fix(agents): prevent session freeze on compaction timeout",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T05:12:42Z",
+      "mergedAt": null,
+      "additions": 485,
+      "deletions": 85,
+      "changedFiles": 22
+    },
+    {
+      "number": 38585,
+      "title": "fix(agents): prevent session freeze on compaction timeout",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T05:02:19Z",
+      "mergedAt": null,
+      "additions": 368,
+      "deletions": 9,
+      "changedFiles": 12
+    },
+    {
+      "number": 37677,
+      "title": "fix(tools): replace original param name with alias in required array for Claude compat patch",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T11:10:10Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 37513,
+      "title": "fix(gateway): allow hardlinked control-ui files for pnpm global installs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-06T09:06:50Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 37369,
+      "title": "fix(models): let explicit config baseUrl/apiKey override stale models.json cache",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-06T07:15:19Z",
+      "mergedAt": null,
+      "additions": 153,
+      "deletions": 5,
+      "changedFiles": 6
+    },
+    {
+      "number": 35969,
+      "title": "fix(acpx): kill child process tree on session close to prevent zombie accumulation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T11:01:02Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 35962,
+      "title": "fix(gateway): exit gracefully when start() fails during restart loop",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T10:54:38Z",
+      "mergedAt": null,
+      "additions": 143,
+      "deletions": 14,
+      "changedFiles": 6
+    },
+    {
+      "number": 35812,
+      "title": "fix(plugins): suppress duplicate warning for cross-origin plugin overrides",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-05T09:08:40Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 35779,
+      "title": "fix(models): switch kimi-coding provider to openai-completions API ",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T08:42:29Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 35610,
+      "title": "fix(doctor): skip orphan top-level policy checks for multi-account channel configs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T06:48:05Z",
+      "mergedAt": null,
+      "additions": 282,
+      "deletions": 24,
+      "changedFiles": 2
+    },
+    {
+      "number": 35554,
+      "title": "fix: sanitize Codex tool call IDs and honour Feishu reply_to_id",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T06:05:38Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 35531,
+      "title": "fix: model selection checkmark and stale contextTokens after model switch",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-05T05:46:02Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 7,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 35610,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-05T08:49:53Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 1
+    }
+  }
+}

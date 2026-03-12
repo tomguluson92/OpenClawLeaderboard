@@ -1,0 +1,143 @@
+{
+  "username": "liuweifly",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9208751?u=cf17d0d321765714ddcb111ab5cdf085096d3405&v=4",
+  "githubUrl": "https://github.com/liuweifly",
+  "score": {
+    "score": 125.72,
+    "prScore": 120.72,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 570,
+    "prDeletions": 56,
+    "prChangedFiles": 32,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 273,
+    "commitDeletions": 1,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 10
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 273,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-08T06:41:51Z",
+  "lastContribution": "2026-03-09T07:48:14Z",
+  "recentPRs": [
+    {
+      "number": 40747,
+      "title": "feat(feishu): support index parameter for doc insert action",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T07:48:14Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 31,
+      "changedFiles": 2
+    },
+    {
+      "number": 39987,
+      "title": "fix: suppress intermediate tool failure notifications from chat surfaces",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T15:18:41Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 2,
+      "changedFiles": 10
+    },
+    {
+      "number": 39575,
+      "title": "feat(feishu): add feishu_sheet tool for reading spreadsheet data",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T07:05:29Z",
+      "mergedAt": null,
+      "additions": 221,
+      "deletions": 0,
+      "changedFiles": 7
+    },
+    {
+      "number": 39567,
+      "title": "feat(feishu): add feishu_reaction tool for message emoji reactions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T06:54:12Z",
+      "mergedAt": null,
+      "additions": 113,
+      "deletions": 0,
+      "changedFiles": 6
+    },
+    {
+      "number": 39558,
+      "title": "fix(feishu): strip reaction suffix from message_id before API calls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T06:41:51Z",
+      "mergedAt": null,
+      "additions": 117,
+      "deletions": 23,
+      "changedFiles": 7
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39916,
+      "title": "[Bug] Tool call failure messages should not be forwarded to user chat",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T14:07:22Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-28": 1
+  },
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 4,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

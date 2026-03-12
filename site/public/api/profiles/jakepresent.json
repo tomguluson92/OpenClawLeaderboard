@@ -1,0 +1,127 @@
+{
+  "username": "jakepresent",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31285242?v=4",
+  "githubUrl": "https://github.com/jakepresent",
+  "score": {
+    "score": 75,
+    "prScore": 64,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 197,
+    "prDeletions": 50,
+    "prChangedFiles": 26,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T17:21:53Z",
+  "lastContribution": "2026-03-08T23:09:52Z",
+  "recentPRs": [
+    {
+      "number": 40329,
+      "title": "feat: send channel notice when auto-compaction starts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T22:53:43Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 11,
+      "changedFiles": 13
+    },
+    {
+      "number": 39104,
+      "title": "fix(ui): live tool call streaming in Control UI webchat",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T18:54:05Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 20,
+      "changedFiles": 8
+    },
+    {
+      "number": 39036,
+      "title": "fix(ui): enable live tool call streaming in Control UI webchat",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-07T17:21:53Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 19,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 40343,
+      "title": "Auto-compaction can delete an already-delivered message on Telegram",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T23:09:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 39082,
+      "title": "Flush pending chat delta before emitting tool events in server-chat.ts",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T18:20:41Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "username": "kyan12",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7783922?v=4",
+  "githubUrl": "https://github.com/kyan12",
+  "score": {
+    "score": 32.89,
+    "prScore": 11.89,
+    "issueScore": 21,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 15,
+    "prDeletions": 10,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 2,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T20:13:35Z",
+  "lastContribution": "2026-03-03T21:08:07Z",
+  "recentPRs": [
+    {
+      "number": 33494,
+      "title": "fix(discord): disable carbon listener timeout to prevent stuck health-monitor cycle",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-03T21:08:07Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 10,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 33452,
+      "title": "Discord: DiscordMessageListener on MESSAGE_CREATE blocks all channels during long agent runs",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T20:15:28Z",
+      "closedAt": "2026-03-07T21:06:11Z"
+    },
+    {
+      "number": 33449,
+      "title": "Discord MESSAGE_CREATE listener blocks all channels during long agent runs",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T20:14:31Z",
+      "closedAt": null
+    },
+    {
+      "number": 33447,
+      "title": "Discord: DiscordMessageListener blocks all MESSAGE_CREATE events while agent run is in progress",
+      "state": "CLOSED",
+      "createdAt": "2026-03-03T20:13:35Z",
+      "closedAt": "2026-03-07T21:06:09Z"
+    }
+  ],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-03": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0
+    }
+  }
+}

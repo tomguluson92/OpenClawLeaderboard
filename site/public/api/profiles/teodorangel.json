@@ -1,0 +1,170 @@
+{
+  "username": "teodorangel",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/146201008?v=4",
+  "githubUrl": "https://github.com/teodorangel",
+  "score": {
+    "score": 101.96,
+    "prScore": 101.96,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 1422,
+    "prDeletions": 50,
+    "prChangedFiles": 21,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-02T17:21:41Z",
+  "lastContribution": "2026-03-08T05:10:21Z",
+  "recentPRs": [
+    {
+      "number": 39510,
+      "title": "feat(plugins): workspace-shield \u2014 protect critical files from agent writes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T05:10:21Z",
+      "mergedAt": null,
+      "additions": 403,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 39509,
+      "title": "feat(plugins): keyword-context \u2014 on-demand reference doc injection",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T05:08:17Z",
+      "mergedAt": null,
+      "additions": 506,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 39502,
+      "title": "fix(plugins): graceful degradation for broken plugin manifests",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T05:05:58Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 39479,
+      "title": "feat(hooks): add before_tools_resolve hook for dynamic tool filtering",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T04:49:27Z",
+      "mergedAt": null,
+      "additions": 79,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 34046,
+      "title": "feat(hooks): add auto-wake hook \u2014 assistant speaks first after restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T06:14:50Z",
+      "mergedAt": null,
+      "additions": 295,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 31963,
+      "title": "fix(heartbeat): skip during active conversation (5-min window)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-02T17:22:11Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 31962,
+      "title": "fix(auth): flat 30s cooldown replaces exponential backoff",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-02T17:21:56Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 16,
+      "changedFiles": 3
+    },
+    {
+      "number": 31961,
+      "title": "fix(memory): indexer continues on embedding errors instead of stopping",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-02T17:21:41Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 22,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-02": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

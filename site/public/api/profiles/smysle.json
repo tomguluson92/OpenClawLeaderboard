@@ -1,0 +1,268 @@
+{
+  "username": "smysle",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/207193754?u=9553312545ed8adb0c5e55dac64a5a958a040501&v=4",
+  "githubUrl": "https://github.com/smysle",
+  "score": {
+    "score": 221.28,
+    "prScore": 210.28,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 2
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 15,
+    "prsMerged": 1,
+    "prAdditions": 854,
+    "prDeletions": 58,
+    "prChangedFiles": 66,
+    "prMergeRate": 7,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 2,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 15,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 4,
+      "commitAdditions": 2,
+      "commitDeletions": 0,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 15,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 4,
+      "commitAdditions": 2,
+      "commitDeletions": 0,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-10T06:35:59Z",
+  "lastContribution": "2026-03-11T04:21:51Z",
+  "recentPRs": [
+    {
+      "number": 42781,
+      "title": "feat(sessions_spawn): add lightContext param to skip workspace bootstrap files",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T04:21:51Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 2,
+      "changedFiles": 9
+    },
+    {
+      "number": 42779,
+      "title": "feat(sessions_spawn): add lightContext param to skip workspace bootstrap files",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T04:18:06Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 0,
+      "changedFiles": 6
+    },
+    {
+      "number": 42729,
+      "title": "fix(cron): prevent duplicate job execution after gateway restart (#42640)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T03:13:04Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 42728,
+      "title": "fix(feishu): apply dedup check to single-entry flush path (#42681)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T03:12:55Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 42727,
+      "title": "fix(web-search): fix Kimi API URL path duplication (#42676)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T03:12:44Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 42680,
+      "title": "fix(cron): start job timeout after execution begins, not at enqueue time",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T02:15:48Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 6,
+      "changedFiles": 6
+    },
+    {
+      "number": 42674,
+      "title": "fix(telegram): handle buffer/filename in message send action",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T02:10:18Z",
+      "mergedAt": null,
+      "additions": 163,
+      "deletions": 11,
+      "changedFiles": 8
+    },
+    {
+      "number": 42048,
+      "title": "fix(telegram): handle buffer/filename in message send action",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T10:33:03Z",
+      "mergedAt": null,
+      "additions": 155,
+      "deletions": 11,
+      "changedFiles": 8
+    },
+    {
+      "number": 41894,
+      "title": "fix(telegram): handle buffer/filename in message send action",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T07:21:57Z",
+      "mergedAt": null,
+      "additions": 182,
+      "deletions": 9,
+      "changedFiles": 8
+    },
+    {
+      "number": 41886,
+      "title": "fix(cron): start job timeout after execution begins, not at enqueue time",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T07:15:31Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 6,
+      "changedFiles": 6
+    },
+    {
+      "number": 41869,
+      "title": "fix(cron): clear lastError when delivery succeeds",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T07:01:48Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 41863,
+      "title": "fix(pruning): allow pruning old image tool results to prevent context overflow",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T06:56:02Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 41858,
+      "title": "fix: add depth limits to chokidar watchers to prevent FD exhaustion",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T06:50:33Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 41851,
+      "title": "fix: preserve code block indentation in duplicate block collapsing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T06:37:31Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 41848,
+      "title": "chore: add .dev-state to .gitignore",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-10T06:35:59Z",
+      "mergedAt": "2026-03-10T12:35:04Z",
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 41894,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T10:25:53Z"
+    },
+    {
+      "prNumber": 41894,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T10:25:43Z"
+    },
+    {
+      "prNumber": 41894,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-10T10:25:35Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-10": 1
+  },
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 3
+    }
+  }
+}

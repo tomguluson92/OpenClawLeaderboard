@@ -1,0 +1,210 @@
+{
+  "username": "rstar327",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/114364448?u=c07cca8ec656a34d96f84657528e272f1d032f6c&v=4",
+  "githubUrl": "https://github.com/rstar327",
+  "score": {
+    "score": 131.63,
+    "prScore": 131.13,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 11,
+    "prsMerged": 0,
+    "prAdditions": 275,
+    "prDeletions": 61,
+    "prChangedFiles": 31,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-09T22:20:59Z",
+  "lastContribution": "2026-03-11T02:05:24Z",
+  "recentPRs": [
+    {
+      "number": 42670,
+      "title": "fix(deps): bump tar override from 7.5.10 to 7.5.11",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T02:05:24Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 18,
+      "changedFiles": 2
+    },
+    {
+      "number": 42589,
+      "title": "fix(agents): surface Anthropic 529 overloaded errors to users",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-11T00:21:05Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 42586,
+      "title": "fix(gateway): merge runtime state into health endpoint channel snapshots",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T00:18:04Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 42584,
+      "title": "fix(heartbeat): preserve session displayName during heartbeat polls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T00:12:52Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 42580,
+      "title": "feat(tools): add old_text/new_text parameter aliases for edit tool",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T00:07:53Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 42111,
+      "title": "fix(tui): strip security notice wrappers from session preview text",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T12:07:42Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 42109,
+      "title": "fix(gateway): skip health checks for channels removed from config",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T12:06:58Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 42107,
+      "title": "feat(gateway): make health monitor stale threshold and max restarts configurable",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T12:04:50Z",
+      "mergedAt": null,
+      "additions": 70,
+      "deletions": 8,
+      "changedFiles": 8
+    },
+    {
+      "number": 42105,
+      "title": "feat(typing): make typing indicator TTL configurable via typingTtlSeconds",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T12:04:18Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 41480,
+      "title": "fix: allow resolving exec approvals by unique id prefix",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T22:22:40Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 9,
+      "changedFiles": 1
+    },
+    {
+      "number": 41479,
+      "title": "fix: ensure exec notifyOnExit wakes heartbeat as exec-event",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T22:20:59Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 7,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

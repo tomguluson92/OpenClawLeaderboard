@@ -1,0 +1,132 @@
+{
+  "username": "hddevteam",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14231255?u=a17d3b27414de4d4e19e358ab9ccb7a412bee99e&v=4",
+  "githubUrl": "https://github.com/hddevteam",
+  "score": {
+    "score": 114.44,
+    "prScore": 110.94,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 3.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 2648,
+    "prDeletions": 45,
+    "prChangedFiles": 35,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T15:09:44Z",
+  "lastContribution": "2026-03-12T03:40:28Z",
+  "recentPRs": [
+    {
+      "number": 43190,
+      "title": "MS Teams: add channel archive persistence and deleted-channel cleanup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-11T13:03:40Z",
+      "mergedAt": null,
+      "additions": 2278,
+      "deletions": 18,
+      "changedFiles": 27
+    },
+    {
+      "number": 40463,
+      "title": "fix(msteams): fix image attachment download for channel and DM messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T02:19:18Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 39352,
+      "title": "fix(msteams): pass teamId into inbound route resolution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T01:38:57Z",
+      "mergedAt": null,
+      "additions": 107,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 34581,
+      "title": "fix(msteams): handle invalid JSON escape sequences in Bot Framework activities",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-04T15:09:44Z",
+      "mergedAt": null,
+      "additions": 201,
+      "deletions": 15,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}

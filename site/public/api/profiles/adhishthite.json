@@ -1,0 +1,126 @@
+{
+  "username": "adhishthite",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31769894?u=b0eeea201a0705ffe50ba7faa069ec7e27851924&v=4",
+  "githubUrl": "https://github.com/adhishthite",
+  "score": {
+    "score": 57.72,
+    "prScore": 37.22,
+    "issueScore": 16,
+    "reviewScore": 3,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 2,
+    "prAdditions": 194,
+    "prDeletions": 15,
+    "prChangedFiles": 7,
+    "prMergeRate": 100,
+    "issues": 2,
+    "issuesClosed": 2,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 95,
+    "commitDeletions": 6,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 3,
+      "commitAdditions": 95,
+      "commitDeletions": 6,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-02T17:54:29Z",
+  "lastContribution": "2026-03-02T20:12:01Z",
+  "recentPRs": [
+    {
+      "number": 32131,
+      "title": "fix(cron): suppress delivery when multi-payload response contains HEARTBEAT_OK",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T20:12:01Z",
+      "mergedAt": "2026-03-02T22:16:19Z",
+      "additions": 99,
+      "deletions": 9,
+      "changedFiles": 4
+    },
+    {
+      "number": 32014,
+      "title": "fix(doctor): resolve false positive for local memory search when no explicit modelPath",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-02T18:01:56Z",
+      "mergedAt": "2026-03-02T18:35:40Z",
+      "additions": 95,
+      "deletions": 6,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 32130,
+      "title": "HEARTBEAT_OK not suppressed when cron agent returns multiple text payloads",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T20:11:44Z",
+      "closedAt": "2026-03-02T22:16:20Z"
+    },
+    {
+      "number": 31998,
+      "title": "Doctor: false positive warning for local memory search when no explicit modelPath set",
+      "state": "CLOSED",
+      "createdAt": "2026-03-02T17:54:29Z",
+      "closedAt": "2026-03-02T18:35:41Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 32014,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-02T18:08:06Z"
+    }
+  ],
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-02": 1
+  },
+  "recentActivityDays": {
+    "2026-03-02": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 1
+    }
+  }
+}

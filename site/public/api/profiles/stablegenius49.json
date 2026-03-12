@@ -1,0 +1,231 @@
+{
+  "username": "stablegenius49",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/259448942?u=62f2896d0c41c1defedefc4faed3f4cc3a0deffb&v=4",
+  "githubUrl": "https://github.com/stablegenius49",
+  "score": {
+    "score": 157.92,
+    "prScore": 157.92,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 13,
+    "prsMerged": 0,
+    "prAdditions": 1284,
+    "prDeletions": 49,
+    "prChangedFiles": 31,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "weeklyCommits": 0,
+    "monthlyCommits": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T17:18:34Z",
+  "lastContribution": "2026-03-10T17:51:47Z",
+  "recentPRs": [
+    {
+      "number": 42416,
+      "title": "fix(irc): default inbound replies to final-only delivery",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T17:51:47Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 42379,
+      "title": "fix(plugins): stop reinitializing hook runner on cached registry reuse",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-10T17:11:06Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 42327,
+      "title": "fix(cli): accept positional id for cron runs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T16:12:50Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 42063,
+      "title": "fix(gateway): aggregate usage.cost across agents",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T10:55:18Z",
+      "mergedAt": null,
+      "additions": 211,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 41931,
+      "title": "fix(install.ps1): avoid exiting the host PowerShell session",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T08:12:46Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 41880,
+      "title": "fix(feishu): preserve bare URL links with underscores",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T07:09:05Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 41853,
+      "title": "fix(prompt): inspect and preserve existing system config before edits",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-10T06:37:42Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 40721,
+      "title": "fix: force HTTPS libsignal override for npm installs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T07:16:27Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 40703,
+      "title": "Fail fast on startup when default model auth is missing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T06:50:56Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 40485,
+      "title": "fix(telegram): avoid deleted-message replies after native /new",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-09T02:53:46Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 40314,
+      "title": "fix(hooks): deliver internal message hook replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T22:26:02Z",
+      "mergedAt": null,
+      "additions": 140,
+      "deletions": 14,
+      "changedFiles": 5
+    },
+    {
+      "number": 40213,
+      "title": "fix(macos): stop relaunching the app after quit when launch-at-login is enabled",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-08T19:48:11Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 40109,
+      "title": "fix(kimi): recover downgraded text/XML tool invocations",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-08T17:18:34Z",
+      "mergedAt": null,
+      "additions": 518,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {},
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  }
+}
