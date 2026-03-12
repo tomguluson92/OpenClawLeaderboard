@@ -539,7 +539,7 @@ function ActivityChart({ profile }: { profile: ProfileData }) {
   });
 
   const maxVal = Math.max(1, ...buckets.map((b) => b.commits + b.issues + b.prs + b.reviews));
-  const chartH = 160;
+  const chartH = 140;
 
   const yTicks = [];
   const step = Math.max(1, Math.ceil(maxVal / 4));
@@ -550,9 +550,9 @@ function ActivityChart({ profile }: { profile: ProfileData }) {
 
   return (
     <div className="flex gap-1.5 min-w-0 overflow-hidden">
-      <div className="flex shrink-0 flex-col justify-between pr-1 text-right" style={{ height: chartH }}>
+      <div className="flex shrink-0 w-7 sm:w-auto flex-col justify-between pr-1 text-right" style={{ height: chartH }}>
         {yTicks.slice().reverse().map((v) => (
-          <span key={v} className="text-[10px] text-muted-foreground/60 leading-none tabular-nums font-medium">{v}</span>
+          <span key={v} className="text-[8px] sm:text-[10px] text-muted-foreground/60 leading-none tabular-nums font-medium">{v}</span>
         ))}
       </div>
       <div className="flex flex-1 min-w-0 items-end gap-[1px] sm:gap-[2px]" style={{ height: chartH }}>
@@ -564,7 +564,7 @@ function ActivityChart({ profile }: { profile: ProfileData }) {
           const prH = total > 0 ? (b.prs / total) * barH : 0;
           const revH = total > 0 ? (b.reviews / total) * barH : 0;
           return (
-            <div key={b.day} className="group/bar flex flex-1 flex-col items-center">
+            <div key={b.day} className="group/bar flex flex-1 min-w-0 flex-col items-center">
               <div
                 className="flex w-full flex-col-reverse rounded-t-sm overflow-hidden transition-opacity group-hover/bar:opacity-80"
                 style={{ height: barH || 0 }}
@@ -577,7 +577,11 @@ function ActivityChart({ profile }: { profile: ProfileData }) {
               {total === 0 && (
                 <div className="w-full rounded-t-sm bg-border/20" style={{ height: 2 }} />
               )}
-              <span className="mt-1.5 text-[8px] text-muted-foreground/50 leading-none font-medium">{b.label}</span>
+              {i % 2 === 0 ? (
+                <span className="mt-1 text-[7px] sm:text-[8px] text-muted-foreground/50 leading-none font-medium">{b.label}</span>
+              ) : (
+                <span className="mt-1 h-[7px] sm:h-[8px]" />
+              )}
             </div>
           );
         })}
