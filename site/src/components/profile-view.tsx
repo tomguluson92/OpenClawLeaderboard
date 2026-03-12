@@ -120,6 +120,19 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
   const [summaryExpanded, setSummaryExpanded] = useState(false);
 
   useEffect(() => {
+    const cacheKey = `ai-analysis-${profile.username}`;
+    const cached = localStorage.getItem(cacheKey);
+    if (cached) {
+      try {
+        const { summary, ts } = JSON.parse(cached);
+        const ageHours = (Date.now() - ts) / 3600000;
+        if (summary && ageHours < 24) {
+          setAiSummary(summary);
+          return;
+        }
+      } catch {}
+    }
+
     setSummaryLoading(true);
     fetch("/api/ai-summary", {
       method: "POST",
@@ -129,7 +142,10 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
       .then((r) => r.json())
       .then((data) => {
         if (data.error) setSummaryError(data.error);
-        else setAiSummary(data.summary);
+        else {
+          setAiSummary(data.summary);
+          localStorage.setItem(cacheKey, JSON.stringify({ summary: data.summary, ts: Date.now() }));
+        }
       })
       .catch((e) => setSummaryError(e.message))
       .finally(() => setSummaryLoading(false));

@@ -6,7 +6,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "OpenClaw Leaderboard",
   description: "Contributor leaderboard for the OpenClaw project",
-  icons: { icon: "/favicon.ico" },
+  icons: { icon: "/favicon.png" },
 };
 
 export default function RootLayout({
