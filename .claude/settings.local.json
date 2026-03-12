@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(chmod +x /Users/dinq-staff/Documents/OpenClawLeaderboard/scripts/daily-sync.sh)",
+      "Bash(npm install:*)"
+    ]
+  }
+}

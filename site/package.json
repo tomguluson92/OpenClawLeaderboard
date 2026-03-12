@@ -1,0 +1,30 @@
+{
+  "name": "openclaw-leaderboard-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "predev": "node -e \"const fs=require('fs');const p=require('path');const src=p.join(__dirname,'..','output');const dst=p.join(__dirname,'public','api');if(!fs.existsSync(dst))fs.mkdirSync(dst,{recursive:true});if(fs.existsSync(src)){fs.readdirSync(src).filter(f=>f.endsWith('.json')).forEach(f=>fs.copyFileSync(p.join(src,f),p.join(dst,f)))}\"",
+    "dev": "next dev --port 3456",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.3.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "next-themes": "^0.4.6",
+    "lucide-react": "^0.511.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.3.0",
+    "fuzzysort": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.8.3",
+    "@tailwindcss/postcss": "^4.1.8",
+    "tailwindcss": "^4.1.8"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "PIPELINE_START_DATE": "2024-01-01",
+
+  "PIPELINE_PROJECT_CONTEXT": "OpenClaw is a personal AI assistant designed to run on your own devices. It's a multi-channel, extensible AI gateway that integrates with messaging platforms. Privacy-first, runs on your own infrastructure.",
+
+  "PIPELINE_REPOS": [
+    { "owner": "openclaw", "name": "openclaw", "defaultBranch": "main" }
+  ],
+
+  "PIPELINE_BOT_USERS": [
+    "dependabot",
+    "dependabot[bot]",
+    "dependabot-preview",
+    "renovate",
+    "renovate[bot]",
+    "renovate-bot",
+    "github-actions",
+    "github-actions[bot]",
+    "github-bot",
+    "codecov",
+    "codecov-io",
+    "stale[bot]",
+    "semantic-release-bot",
+    "copilot-pull-request-reviewer",
+    "imgbot",
+    "coderabbitai",
+    "codefactor-io",
+    "graphite-app",
+    "google-labs-jules[bot]",
+    "cursor",
+    "claude"
+  ],
+
+  "PIPELINE_SCORING": {
+    "pullRequest": {
+      "base": 7,
+      "merged": 3,
+      "descriptionMultiplier": 0.006,
+      "complexityMultiplier": 0.5,
+      "optimalSizeBonus": 5,
+      "maxPerDay": 20
+    },
+    "issue": {
+      "base": 5,
+      "closedBonus": 3,
+      "perComment": 0.5,
+      "maxPerThread": 3
+    },
+    "review": {
+      "base": 2,
+      "approved": 1,
+      "changesRequested": 1.5,
+      "commented": 0.5,
+      "maxPerDay": 15
+    },
+    "comment": {
+      "base": 0.5,
+      "diminishingReturns": 0.8,
+      "maxPerThread": 5,
+      "maxTotal": 5
+    }
+  },
+
+  "PIPELINE_TAGS": {
+    "area": [
+      {
+        "name": "core",
+        "patterns": ["src/agents/", "src/commands/", "src/gateway/", "src/daemon/"],
+        "weight": 2.5,
+        "description": "Core agent and gateway components"
+      },
+      {
+        "name": "channels",
+        "patterns": ["src/channels/", "extensions/"],
+        "weight": 2.0,
+        "description": "Messaging channel integrations"
+      },
+      {
+        "name": "skills",
+        "patterns": ["skills/"],
+        "weight": 1.8,
+        "description": "Built-in skills and capabilities"
+      },
+      {
+        "name": "native",
+        "patterns": ["apps/ios/", "apps/android/", "apps/macos/"],
+        "weight": 2.0,
+        "description": "Native mobile and desktop apps"
+      },
+      {
+        "name": "docs",
+        "patterns": ["docs/", "README", ".md"],
+        "weight": 1.5,
+        "description": "Documentation and guides"
+      },
+      {
+        "name": "infra",
+        "patterns": [".github/", "docker", "scripts/", ".yml", ".yaml"],
+        "weight": 1.8,
+        "description": "Infrastructure and CI/CD"
+      },
+      {
+        "name": "tests",
+        "patterns": ["test/", "tests/", ".spec.", ".test."],
+        "weight": 2.0,
+        "description": "Test files and test infrastructure"
+      }
+    ]
+  }
+}

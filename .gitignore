@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+dist/
+site/.next/
+
+# Database
+data/*.db
+data/*.db-journal
+
+# Generated data (re-generate with scripts)
+output/
+site/public/api/
+
+# Cloned reference repos
+elizaos.github.io/
+openclaw/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
