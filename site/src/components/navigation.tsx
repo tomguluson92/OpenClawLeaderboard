@@ -13,14 +13,18 @@ export function Navigation() {
           <Image
             src="/logo.png"
             alt="OpenClaw"
-            width={140}
+            width={36}
             height={36}
-            className="h-9 w-auto transition-transform group-hover:scale-105 dark:invert"
+            className="h-9 w-9 rounded-full transition-transform group-hover:scale-110"
             priority
+            unoptimized
           />
-          <span className="text-muted-foreground text-xs font-medium tracking-widest uppercase hidden sm:inline">
-            Leaderboard
-          </span>
+          <div className="flex items-baseline gap-2">
+            <span className="font-display text-xl font-bold tracking-tight">OpenClaw</span>
+            <span className="text-muted-foreground text-xs font-medium tracking-widest uppercase hidden sm:inline">
+              Leaderboard
+            </span>
+          </div>
         </Link>
         <div className="flex items-center gap-2.5">
           <a
