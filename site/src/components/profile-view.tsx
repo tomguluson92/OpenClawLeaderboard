@@ -19,7 +19,6 @@ import {
   Trophy,
   Star,
   Sparkles,
-  Calendar,
   TrendingUp,
   Award,
   Shield,
@@ -28,6 +27,7 @@ import {
   FileCode,
   Clock,
   Loader2,
+  ChevronRight,
 } from "lucide-react";
 import { DinqLink } from "./dinq-link";
 
@@ -59,13 +59,22 @@ interface ProfileData {
   achievements: { id: string; label: string; description: string }[];
 }
 
-const tierStyle: Record<string, string> = {
-  legend: "from-yellow-500/20 to-orange-500/20 border-yellow-500/40",
-  elite: "from-purple-500/20 to-pink-500/20 border-purple-500/40",
-  veteran: "from-blue-500/20 to-cyan-500/20 border-blue-500/40",
-  active: "from-green-500/20 to-emerald-500/20 border-green-500/40",
-  regular: "from-gray-500/10 to-gray-500/10 border-gray-500/30",
-  beginner: "from-gray-500/5 to-gray-500/5 border-gray-500/20",
+const tierGlow: Record<string, string> = {
+  legend: "ring-yellow-500/30 shadow-[0_0_40px_-8px_rgba(234,179,8,0.2)]",
+  elite: "ring-purple-500/30 shadow-[0_0_40px_-8px_rgba(168,85,247,0.15)]",
+  veteran: "ring-blue-500/20",
+  active: "ring-emerald-500/20",
+  regular: "ring-border/40",
+  beginner: "ring-border/20",
+};
+
+const tierGradient: Record<string, string> = {
+  legend: "from-yellow-500/10 via-amber-500/5 to-transparent",
+  elite: "from-purple-500/10 via-pink-500/5 to-transparent",
+  veteran: "from-blue-500/8 via-cyan-500/3 to-transparent",
+  active: "from-emerald-500/8 via-green-500/3 to-transparent",
+  regular: "from-gray-500/5 to-transparent",
+  beginner: "from-gray-500/3 to-transparent",
 };
 
 const ACHIEVEMENT_ICONS: Record<string, typeof Trophy> = {
@@ -92,6 +101,12 @@ function timeAgo(d: string) {
   if (days < 30) return `${Math.floor(days / 7)}w ago`;
   if (days < 365) return `${Math.floor(days / 30)}mo ago`;
   return `${Math.floor(days / 365)}y ago`;
+}
+
+function fmtNum(value: number): string {
+  if (value >= 1_000_000) return `${(value / 1_000_000).toFixed(1)}M`;
+  if (value >= 1_000) return `${(value / 1_000).toFixed(1)}K`;
+  return String(value);
 }
 
 export function ProfileView({ profile }: { profile: ProfileData }) {
@@ -126,66 +141,82 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
 
   return (
     <div className="space-y-6">
-      {/* Back button */}
+      {/* Back */}
       <Link
         href="/"
-        className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+        className="animate-fade-in group inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
       >
-        <ArrowLeft className="h-4 w-4" />
-        Back to Leaderboard
+        <ArrowLeft className="h-4 w-4 transition-transform group-hover:-translate-x-1" />
+        <span>Back to Leaderboard</span>
       </Link>
 
       {/* Hero card */}
-      <div className={cn("rounded-xl border bg-gradient-to-br p-6", tierStyle[profile.tier] || tierStyle.beginner)}>
-        <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
-          <div className="flex items-center gap-4">
-            <Image
-              src={profile.avatarUrl}
-              alt={profile.username}
-              width={80}
-              height={80}
-              className="rounded-full ring-2 ring-border"
-              unoptimized
-            />
+      <div
+        className={cn(
+          "animate-fade-up relative overflow-hidden rounded-2xl border bg-gradient-to-br p-6 sm:p-8 ring-1",
+          tierGradient[profile.tier] || tierGradient.beginner,
+          tierGlow[profile.tier] || tierGlow.beginner,
+          "border-border/40 bg-card/60 glass",
+        )}
+      >
+        <div className="flex flex-col gap-5 sm:flex-row sm:items-start sm:justify-between">
+          <div className="flex items-center gap-5">
+            <div className="relative">
+              <Image
+                src={profile.avatarUrl}
+                alt={profile.username}
+                width={88}
+                height={88}
+                className="rounded-2xl ring-2 ring-border/40"
+                unoptimized
+              />
+              <div className={cn(
+                "absolute -bottom-1 -right-1 rounded-md px-1.5 py-0.5 text-[9px] font-bold uppercase tracking-wider border",
+                profile.tier === "legend" && "bg-yellow-500/20 text-yellow-600 dark:text-yellow-400 border-yellow-500/30",
+                profile.tier === "elite" && "bg-purple-500/20 text-purple-600 dark:text-purple-400 border-purple-500/30",
+                profile.tier === "veteran" && "bg-blue-500/20 text-blue-600 dark:text-blue-400 border-blue-500/30",
+                profile.tier === "active" && "bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border-emerald-500/30",
+                !["legend", "elite", "veteran", "active"].includes(profile.tier) && "bg-muted text-muted-foreground border-border",
+              )}>
+                {profile.tier}
+              </div>
+            </div>
             <div>
-              <div className="flex items-center gap-2">
-                <h1 className="text-2xl font-bold">{profile.username}</h1>
+              <div className="flex items-center gap-2.5">
+                <h1 className="font-display text-3xl font-extrabold tracking-tight">{profile.username}</h1>
                 <DinqLink username={profile.username} />
               </div>
-              <div className="mt-1 flex flex-wrap items-center gap-2">
-                <span className={cn("rounded-full px-2.5 py-0.5 text-xs font-bold uppercase tracking-wide", TIER_COLORS[profile.tier])}>
-                  {profile.tier}
-                </span>
-                <span className="text-sm text-muted-foreground">{profile.characterClass}</span>
+              <div className="mt-1.5 flex flex-wrap items-center gap-2">
+                <span className="text-sm font-medium text-muted-foreground">{profile.characterClass}</span>
               </div>
-              <div className="mt-1 text-xs text-muted-foreground">
-                {profile.firstContribution && (
-                  <span>Contributing since {formatDate(profile.firstContribution)}</span>
-                )}
-              </div>
+              {profile.firstContribution && (
+                <div className="mt-1.5 text-xs text-muted-foreground/70">
+                  Contributing since {formatDate(profile.firstContribution)}
+                </div>
+              )}
             </div>
           </div>
           <div className="text-right">
-            <div className={cn("text-3xl font-bold tabular-nums", TIER_COLORS[profile.tier])}>
+            <div className={cn("font-display text-4xl font-extrabold tabular-nums tracking-tight", TIER_COLORS[profile.tier])}>
               {sc.score.toLocaleString(undefined, { maximumFractionDigits: 0 })}
             </div>
-            <div className="text-xs text-muted-foreground">total points</div>
-            <div className="mt-2 flex flex-wrap gap-2 justify-end">
+            <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">total points</div>
+            <div className="mt-3 flex flex-wrap gap-2 justify-end">
               <a
                 href={profile.githubUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-1 rounded-md bg-foreground/10 px-3 py-1.5 text-xs font-medium hover:bg-foreground/20 transition-colors"
+                className="inline-flex items-center gap-1.5 rounded-lg border border-border/60 bg-card/50 px-3 py-1.5 text-xs font-medium hover:bg-accent transition-all"
               >
-                View on GitHub <ExternalLink className="h-3 w-3" />
+                GitHub <ExternalLink className="h-3 w-3 opacity-50" />
               </a>
               <a
                 href={`https://analysis.dinq.me/github?user=${profile.username}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-1 rounded-md bg-foreground/10 px-3 py-1.5 text-xs font-medium hover:bg-foreground/20 transition-colors"
+                className="inline-flex items-center gap-1.5 rounded-lg border border-border/60 bg-card/50 px-3 py-1.5 text-xs font-medium hover:bg-accent transition-all"
               >
-                View on DINQ <ExternalLink className="h-3 w-3" />
+                DINQ <ExternalLink className="h-3 w-3 opacity-50" />
               </a>
             </div>
           </div>
@@ -193,98 +224,96 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
       </div>
 
       {/* AI Summary */}
-      <Section title="Summary" icon={Sparkles}>
+      <Section title="Summary" icon={Sparkles} delay={1}>
         {summaryLoading ? (
-          <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            <Loader2 className="h-4 w-4 animate-spin" />
-            Generating AI analysis...
+          <div className="flex items-center gap-2.5 text-sm text-muted-foreground">
+            <Loader2 className="h-4 w-4 animate-spin text-primary" />
+            <span>Generating AI analysis...</span>
           </div>
         ) : summaryError ? (
-          <p className="text-sm text-muted-foreground italic">Unable to generate summary.</p>
+          <p className="text-sm text-muted-foreground/70 italic">Unable to generate summary.</p>
         ) : (
-          <p className="text-sm leading-relaxed">{aiSummary}</p>
+          <p className="text-sm leading-relaxed text-foreground/90">{aiSummary}</p>
         )}
       </Section>
 
-      {/* Recent Activity + Pull Requests + Code Contributions — reference layout */}
-      <div className="grid grid-cols-1 gap-4 lg:grid-cols-[1fr_1fr]">
-        {/* Left: Activity Bar Chart */}
-        <Section title={`Recent Activity (Last 31 Days)`} icon={Clock}>
+      {/* Activity + PR/Code grid */}
+      <div className="grid grid-cols-1 gap-5 lg:grid-cols-[1fr_1fr]">
+        <Section title="Recent Activity (Last 31 Days)" icon={Clock} delay={2}>
           <ActivityChart profile={profile} />
-          <div className="mt-3 flex flex-wrap items-center gap-4 text-xs">
-            <Legend color="bg-teal-500" label="Comments" />
-            <Legend color="bg-indigo-800 dark:bg-indigo-400" label="Issues" />
-            <Legend color="bg-amber-500" label="PRs" />
-            <Legend color="bg-red-500" label="Reviews" />
+          <div className="mt-4 flex flex-wrap items-center gap-4 text-[11px] font-medium">
+            <ChartLegend color="bg-teal-500" label="Comments" />
+            <ChartLegend color="bg-indigo-700 dark:bg-indigo-400" label="Issues" />
+            <ChartLegend color="bg-amber-500" label="PRs" />
+            <ChartLegend color="bg-rose-500" label="Reviews" />
           </div>
           {profile.lastContribution && (
-            <p className="mt-2 text-xs text-muted-foreground">
+            <p className="mt-2.5 text-[11px] text-muted-foreground">
               Last active: {formatDate(profile.lastContribution)} ({timeAgo(profile.lastContribution)})
             </p>
           )}
         </Section>
 
-        {/* Right: PR stats + Code stats */}
-        <div className="flex flex-col gap-4">
-          <Section title="Pull Requests" icon={GitPullRequest}>
+        <div className="flex flex-col gap-5">
+          <Section title="Pull Requests" icon={GitPullRequest} delay={3}>
             <div className="grid grid-cols-3 gap-4 text-center">
               <BigStat value={totalPrsAndCommits} label="Total" />
-              <BigStat value={s.prsMerged} label="Merged" />
-              <BigStat value={closedPrs} label="Closed" />
+              <BigStat value={s.prsMerged} label="Merged" accent="text-purple-500" />
+              <BigStat value={closedPrs} label="Closed" accent="text-muted-foreground" />
             </div>
           </Section>
 
-          <Section title="Code Contributions" icon={Code}>
+          <Section title="Code Contributions" icon={Code} delay={4}>
             <div className="grid grid-cols-3 gap-4 text-center">
               <BigStat value={totalChangedFiles} label="Files" />
-              <BigStat value={totalAdditions} label="Additions" prefix="+" accent="text-green-500" />
-              <BigStat value={totalDeletions} label="Deletions" prefix="-" accent="text-red-500" />
+              <BigStat value={totalAdditions} label="Additions" prefix="+" accent="text-emerald-500" />
+              <BigStat value={totalDeletions} label="Deletions" prefix="-" accent="text-rose-500" />
             </div>
           </Section>
         </div>
       </div>
 
       {/* Score Breakdown */}
-      <Section title="Score Breakdown" icon={TrendingUp}>
+      <Section title="Score Breakdown" icon={TrendingUp} delay={5}>
         <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
-          <ScoreBar label="PRs" value={sc.prScore} max={sc.score} color="bg-green-500" />
-          <ScoreBar label="Issues" value={sc.issueScore} max={sc.score} color="bg-orange-500" />
+          <ScoreBar label="PRs" value={sc.prScore} max={sc.score} color="bg-emerald-500" />
+          <ScoreBar label="Issues" value={sc.issueScore} max={sc.score} color="bg-primary" />
           <ScoreBar label="Reviews" value={sc.reviewScore} max={sc.score} color="bg-blue-500" />
           <ScoreBar label="Comments" value={sc.commentScore} max={sc.score} color="bg-purple-500" />
         </div>
-        <div className="mt-3 grid grid-cols-2 gap-3 sm:grid-cols-5">
-          <StatBox label="Commits" value={s.commits.toLocaleString()} accent="text-blue-500" />
-          <StatBox label="PRs" value={s.prs} accent="text-green-500" />
-          <StatBox label="Reviews" value={s.reviews} accent="text-cyan-500" />
-          <StatBox label="Comments" value={s.comments} accent="text-purple-500" />
-          <StatBox label="Merge Rate" value={s.prs > 0 ? `${s.prMergeRate}%` : "—"} accent="text-green-500" />
+        <div className="mt-4 grid grid-cols-2 gap-2.5 sm:grid-cols-5">
+          <MiniStat label="Commits" value={s.commits.toLocaleString()} accent="text-blue-500" />
+          <MiniStat label="PRs" value={String(s.prs)} accent="text-emerald-500" />
+          <MiniStat label="Reviews" value={String(s.reviews)} accent="text-cyan-500" />
+          <MiniStat label="Comments" value={String(s.comments)} accent="text-purple-500" />
+          <MiniStat label="Merge Rate" value={s.prs > 0 ? `${s.prMergeRate}%` : "—"} accent="text-emerald-500" />
         </div>
       </Section>
 
       {/* Recent PRs list */}
       {profile.recentPRs.length > 0 && (
         <Section title="Recent Pull Requests" icon={GitPullRequest} count={s.prs}>
-          <div className="space-y-1">
+          <div className="space-y-0.5">
             {profile.recentPRs.slice(0, 10).map((pr) => (
               <a
                 key={pr.number}
                 href={`https://github.com/openclaw/openclaw/pull/${pr.number}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-2 rounded-md px-2 py-1.5 text-sm hover:bg-accent/50 transition-colors"
+                className="group/pr flex items-center gap-2.5 rounded-lg px-3 py-2 text-sm hover:bg-accent/40 transition-all"
               >
                 {pr.merged ? (
                   <CheckCircle2 className="h-4 w-4 shrink-0 text-purple-500" />
                 ) : pr.state === "CLOSED" ? (
-                  <XCircle className="h-4 w-4 shrink-0 text-red-500" />
+                  <XCircle className="h-4 w-4 shrink-0 text-rose-500" />
                 ) : (
-                  <GitPullRequest className="h-4 w-4 shrink-0 text-green-500" />
+                  <GitPullRequest className="h-4 w-4 shrink-0 text-emerald-500" />
                 )}
-                <span className="truncate flex-1">{pr.title}</span>
-                <span className="shrink-0 text-xs text-muted-foreground">
+                <span className="truncate flex-1 group-hover/pr:text-foreground transition-colors">{pr.title}</span>
+                <span className="shrink-0 rounded-md bg-muted/50 px-1.5 py-0.5 text-[10px] font-medium text-muted-foreground tabular-nums">
                   +{pr.additions}/-{pr.deletions}
                 </span>
-                <span className="shrink-0 text-xs text-muted-foreground">{timeAgo(pr.createdAt)}</span>
+                <span className="shrink-0 text-[11px] text-muted-foreground/70">{timeAgo(pr.createdAt)}</span>
               </a>
             ))}
           </div>
@@ -294,29 +323,29 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
       {/* Issues */}
       {(s.issues > 0 || profile.recentIssues.length > 0) && (
         <Section title="Issues" icon={Bug} count={s.issues}>
-          <div className="mb-3 grid grid-cols-2 gap-3 sm:grid-cols-3">
-            <StatBox label="Filed" value={s.issues} />
-            <StatBox label="Closed" value={s.issuesClosed} accent="text-green-500" />
-            <StatBox label="Open" value={s.issues - s.issuesClosed} accent="text-orange-500" />
+          <div className="mb-4 grid grid-cols-3 gap-2.5">
+            <MiniStat label="Filed" value={String(s.issues)} />
+            <MiniStat label="Closed" value={String(s.issuesClosed)} accent="text-emerald-500" />
+            <MiniStat label="Open" value={String(s.issues - s.issuesClosed)} accent="text-amber-500" />
           </div>
           {profile.recentIssues.length > 0 && (
-            <div className="space-y-1">
-              <h4 className="text-xs font-medium text-muted-foreground uppercase tracking-wide mb-2">Recent</h4>
+            <div className="space-y-0.5">
+              <h4 className="mb-2 text-[10px] font-bold text-muted-foreground uppercase tracking-[0.15em]">Recent</h4>
               {profile.recentIssues.slice(0, 8).map((issue) => (
                 <a
                   key={issue.number}
                   href={`https://github.com/openclaw/openclaw/issues/${issue.number}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center gap-2 rounded-md px-2 py-1.5 text-sm hover:bg-accent/50 transition-colors"
+                  className="flex items-center gap-2.5 rounded-lg px-3 py-2 text-sm hover:bg-accent/40 transition-all"
                 >
                   {issue.state === "CLOSED" ? (
                     <CheckCircle2 className="h-4 w-4 shrink-0 text-purple-500" />
                   ) : (
-                    <Bug className="h-4 w-4 shrink-0 text-green-500" />
+                    <Bug className="h-4 w-4 shrink-0 text-emerald-500" />
                   )}
                   <span className="truncate flex-1">{issue.title}</span>
-                  <span className="shrink-0 text-xs text-muted-foreground">{timeAgo(issue.createdAt)}</span>
+                  <span className="shrink-0 text-[11px] text-muted-foreground/70">{timeAgo(issue.createdAt)}</span>
                 </a>
               ))}
             </div>
@@ -327,30 +356,30 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
       {/* Reviews */}
       {s.reviews > 0 && (
         <Section title="Code Reviews" icon={Eye} count={s.reviews}>
-          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
-            <StatBox label="Total Reviews" value={s.reviews} />
-            <StatBox label="Approved" value={s.reviewsApproved} accent="text-green-500" />
-            <StatBox label="Changes Requested" value={s.reviewsChangesRequested} accent="text-orange-500" />
+          <div className="grid grid-cols-3 gap-2.5">
+            <MiniStat label="Total" value={String(s.reviews)} />
+            <MiniStat label="Approved" value={String(s.reviewsApproved)} accent="text-emerald-500" />
+            <MiniStat label="Changes Req." value={String(s.reviewsChangesRequested)} accent="text-amber-500" />
           </div>
         </Section>
       )}
 
-      {/* Roles & Character */}
+      {/* Role */}
       <Section title="Role" icon={Shield}>
-        <div className="flex flex-wrap gap-3">
-          <div className="rounded-lg border border-border bg-card p-4 flex-1 min-w-[140px]">
-            <div className="text-xs text-muted-foreground mb-1">Character Class</div>
-            <div className="text-lg font-bold">{profile.characterClass}</div>
+        <div className="grid grid-cols-3 gap-2.5">
+          <div className="rounded-xl border border-border/40 bg-background/50 p-4">
+            <div className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.15em] mb-1.5">Class</div>
+            <div className="font-display text-lg font-bold">{profile.characterClass}</div>
           </div>
-          <div className="rounded-lg border border-border bg-card p-4 flex-1 min-w-[140px]">
-            <div className="text-xs text-muted-foreground mb-1">Tier</div>
-            <div className={cn("text-lg font-bold capitalize", TIER_COLORS[profile.tier])}>
+          <div className="rounded-xl border border-border/40 bg-background/50 p-4">
+            <div className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.15em] mb-1.5">Tier</div>
+            <div className={cn("font-display text-lg font-bold capitalize", TIER_COLORS[profile.tier])}>
               {profile.tier}
             </div>
           </div>
-          <div className="rounded-lg border border-border bg-card p-4 flex-1 min-w-[140px]">
-            <div className="text-xs text-muted-foreground mb-1">Total Score</div>
-            <div className="text-lg font-bold tabular-nums">{sc.score.toLocaleString(undefined, { maximumFractionDigits: 0 })}</div>
+          <div className="rounded-xl border border-border/40 bg-background/50 p-4">
+            <div className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.15em] mb-1.5">Score</div>
+            <div className="font-display text-lg font-bold tabular-nums">{sc.score.toLocaleString(undefined, { maximumFractionDigits: 0 })}</div>
           </div>
         </div>
       </Section>
@@ -362,7 +391,7 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
             {profile.skills.map((skill) => (
               <span
                 key={skill}
-                className="rounded-full border border-border bg-card px-3 py-1 text-sm"
+                className="rounded-lg border border-border/40 bg-background/50 px-3 py-1.5 text-sm font-medium transition-all hover:border-primary/30 hover:bg-primary/5"
               >
                 {skill}
               </span>
@@ -374,20 +403,20 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
       {/* Achievements */}
       {profile.achievements.length > 0 && (
         <Section title="Achievements" icon={Trophy}>
-          <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+          <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
             {profile.achievements.map((a) => {
               const Icon = ACHIEVEMENT_ICONS[a.id] || Award;
               return (
                 <div
                   key={a.id}
-                  className="flex items-center gap-3 rounded-lg border border-border bg-card p-3"
+                  className="group/ach flex items-center gap-3.5 rounded-xl border border-border/40 bg-background/50 p-4 transition-all hover:border-primary/20 hover:bg-primary/5"
                 >
-                  <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10">
+                  <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-primary/10 transition-colors group-hover/ach:bg-primary/15">
                     <Icon className="h-5 w-5 text-primary" />
                   </div>
                   <div>
-                    <div className="text-sm font-medium">{a.label}</div>
-                    <div className="text-xs text-muted-foreground">{a.description}</div>
+                    <div className="text-sm font-semibold">{a.label}</div>
+                    <div className="text-xs text-muted-foreground/70">{a.description}</div>
                   </div>
                 </div>
               );
@@ -399,24 +428,34 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
   );
 }
 
+/* ─── Sub-components ─── */
+
 function Section({
   title,
   icon: Icon,
   count,
+  delay,
   children,
 }: {
   title: string;
   icon: typeof Trophy;
   count?: number;
+  delay?: number;
   children: React.ReactNode;
 }) {
   return (
-    <div className="rounded-lg border border-border bg-card p-5">
-      <div className="mb-4 flex items-center gap-2">
+    <div
+      className={cn(
+        "rounded-2xl border border-border/40 bg-card/60 glass p-5 sm:p-6",
+        delay !== undefined && "animate-fade-up",
+      )}
+      style={delay !== undefined ? { animationDelay: `${delay * 60}ms` } : undefined}
+    >
+      <div className="mb-4 flex items-center gap-2.5">
         <Icon className="h-5 w-5 text-primary" />
-        <h2 className="text-lg font-semibold">{title}</h2>
+        <h2 className="font-display text-base font-bold tracking-tight">{title}</h2>
         {count !== undefined && (
-          <span className="rounded-full bg-muted px-2 py-0.5 text-xs font-medium text-muted-foreground">
+          <span className="rounded-full bg-muted/60 px-2 py-0.5 text-[10px] font-bold text-muted-foreground">
             {count}
           </span>
         )}
@@ -426,34 +465,11 @@ function Section({
   );
 }
 
-function StatBox({ label, value, accent }: { label: string; value: string | number; accent?: string }) {
+function MiniStat({ label, value, accent }: { label: string; value: string; accent?: string }) {
   return (
-    <div className="rounded-md border border-border bg-background p-3">
-      <div className="text-xs text-muted-foreground">{label}</div>
-      <div className={cn("text-xl font-bold tabular-nums", accent)}>{value}</div>
-    </div>
-  );
-}
-
-function MiniStat({
-  label,
-  sublabel,
-  value,
-  icon: Icon,
-}: {
-  label: string;
-  sublabel: string;
-  value: number;
-  icon: typeof GitPullRequest;
-}) {
-  return (
-    <div className="rounded-md border border-border bg-background p-3">
-      <div className="flex items-center gap-1 text-[10px] text-muted-foreground">
-        <Icon className="h-3 w-3" />
-        {label}
-      </div>
-      <div className="text-xl font-bold tabular-nums">{value}</div>
-      <div className="text-xs text-muted-foreground">{sublabel}</div>
+    <div className="rounded-xl border border-border/30 bg-background/40 p-3">
+      <div className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.12em]">{label}</div>
+      <div className={cn("font-display text-xl font-bold tabular-nums mt-0.5", accent)}>{value}</div>
     </div>
   );
 }
@@ -462,12 +478,12 @@ function ScoreBar({ label, value, max, color }: { label: string; value: number; 
   const pct = max > 0 ? Math.min((value / max) * 100, 100) : 0;
   return (
     <div>
-      <div className="flex justify-between text-xs mb-1">
-        <span className="text-muted-foreground">{label}</span>
-        <span className="font-medium tabular-nums">{value.toLocaleString(undefined, { maximumFractionDigits: 0 })}</span>
+      <div className="flex justify-between text-xs mb-1.5">
+        <span className="font-medium text-muted-foreground">{label}</span>
+        <span className="font-display font-bold tabular-nums">{value.toLocaleString(undefined, { maximumFractionDigits: 0 })}</span>
       </div>
-      <div className="h-2 rounded-full bg-muted overflow-hidden">
-        <div className={cn("h-full rounded-full transition-all", color)} style={{ width: `${pct}%` }} />
+      <div className="h-2 rounded-full bg-muted/40 overflow-hidden">
+        <div className={cn("h-full rounded-full transition-all duration-700 ease-out", color)} style={{ width: `${pct}%` }} />
       </div>
     </div>
   );
@@ -484,27 +500,21 @@ function BigStat({
   prefix?: string;
   accent?: string;
 }) {
-  const formatted = value >= 1_000_000
-    ? `${(value / 1_000_000).toFixed(1)}M`
-    : value >= 1_000
-      ? `${(value / 1_000).toFixed(1)}K`
-      : String(value);
-
   return (
     <div>
-      <div className={cn("text-3xl font-bold tabular-nums sm:text-4xl", accent)}>
-        {prefix}{formatted}
+      <div className={cn("font-display text-3xl font-extrabold tabular-nums sm:text-4xl tracking-tight", accent)}>
+        {prefix}{fmtNum(value)}
       </div>
-      <div className="text-sm text-muted-foreground">{label}</div>
+      <div className="text-[11px] font-medium text-muted-foreground uppercase tracking-wider mt-0.5">{label}</div>
     </div>
   );
 }
 
-function Legend({ color, label }: { color: string; label: string }) {
+function ChartLegend({ color, label }: { color: string; label: string }) {
   return (
     <div className="flex items-center gap-1.5">
-      <span className={cn("inline-block h-3 w-3 rounded-sm", color)} />
-      <span>{label}</span>
+      <span className={cn("inline-block h-2.5 w-2.5 rounded-[3px]", color)} />
+      <span className="text-muted-foreground">{label}</span>
     </div>
   );
 }
@@ -552,15 +562,12 @@ function ActivityChart({ profile }: { profile: ProfileData }) {
   if (yTicks[yTicks.length - 1] < maxVal) yTicks.push(maxVal);
 
   return (
-    <div className="flex gap-1">
-      {/* Y-axis labels */}
+    <div className="flex gap-1.5">
       <div className="flex flex-col justify-between pr-1 text-right" style={{ height: chartH }}>
         {yTicks.slice().reverse().map((v) => (
-          <span key={v} className="text-[10px] text-muted-foreground leading-none tabular-nums">{v}</span>
+          <span key={v} className="text-[10px] text-muted-foreground/60 leading-none tabular-nums font-medium">{v}</span>
         ))}
       </div>
-
-      {/* Bars */}
       <div className="flex flex-1 items-end gap-[2px]" style={{ height: chartH }}>
         {buckets.map((b, i) => {
           const total = b.comments + b.issues + b.prs + b.reviews;
@@ -569,19 +576,21 @@ function ActivityChart({ profile }: { profile: ProfileData }) {
           const issH = total > 0 ? (b.issues / total) * barH : 0;
           const prH = total > 0 ? (b.prs / total) * barH : 0;
           const revH = total > 0 ? (b.reviews / total) * barH : 0;
-          const showLabel = i % 2 === 0;
-
           return (
-            <div key={b.day} className="flex flex-1 flex-col items-center">
-              <div className="flex w-full flex-col-reverse rounded-t-sm overflow-hidden" style={{ height: barH || 0 }}>
+            <div key={b.day} className="group/bar flex flex-1 flex-col items-center">
+              <div
+                className="flex w-full flex-col-reverse rounded-t-sm overflow-hidden transition-opacity group-hover/bar:opacity-80"
+                style={{ height: barH || 0 }}
+              >
                 {commH > 0 && <div className="w-full bg-teal-500" style={{ height: commH }} />}
-                {issH > 0 && <div className="w-full bg-indigo-800 dark:bg-indigo-400" style={{ height: issH }} />}
+                {issH > 0 && <div className="w-full bg-indigo-700 dark:bg-indigo-400" style={{ height: issH }} />}
                 {prH > 0 && <div className="w-full bg-amber-500" style={{ height: prH }} />}
-                {revH > 0 && <div className="w-full bg-red-500" style={{ height: revH }} />}
+                {revH > 0 && <div className="w-full bg-rose-500" style={{ height: revH }} />}
               </div>
-              {showLabel && (
-                <span className="mt-1 text-[9px] text-muted-foreground leading-none">{b.label}</span>
+              {total === 0 && (
+                <div className="w-full rounded-t-sm bg-border/20" style={{ height: 2 }} />
               )}
+              <span className="mt-1.5 text-[8px] text-muted-foreground/50 leading-none font-medium">{b.label}</span>
             </div>
           );
         })}

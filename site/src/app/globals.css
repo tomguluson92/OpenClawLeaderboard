@@ -3,49 +3,54 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme {
-  --color-background: hsl(0 0% 100%);
-  --color-foreground: hsl(222.2 84% 4.9%);
-  --color-card: hsl(0 0% 100%);
-  --color-card-foreground: hsl(222.2 84% 4.9%);
-  --color-primary: hsl(17 100% 50%);
-  --color-primary-foreground: hsl(0 0% 100%);
-  --color-secondary: hsl(210 40% 96%);
-  --color-secondary-foreground: hsl(222.2 47.4% 11.2%);
-  --color-muted: hsl(210 40% 96%);
-  --color-muted-foreground: hsl(215.4 16.3% 46.9%);
-  --color-accent: hsl(210 40% 96%);
-  --color-accent-foreground: hsl(222.2 47.4% 11.2%);
-  --color-border: hsl(214.3 31.8% 91.4%);
-  --color-input: hsl(214.3 31.8% 91.4%);
-  --color-ring: hsl(17 100% 50%);
-  --color-destructive: hsl(0 84.2% 60.2%);
+  --color-background: #faf8f5;
+  --color-foreground: #1a1520;
+  --color-card: #ffffff;
+  --color-card-foreground: #1a1520;
+  --color-primary: #d4501e;
+  --color-primary-foreground: #fff;
+  --color-secondary: #f0ece6;
+  --color-secondary-foreground: #2a2530;
+  --color-muted: #f0ece6;
+  --color-muted-foreground: #7a7580;
+  --color-accent: #ede8e0;
+  --color-accent-foreground: #2a2530;
+  --color-border: #e0dbd4;
+  --color-input: #e0dbd4;
+  --color-ring: #d4501e;
+  --color-destructive: #c53030;
+  --color-glow: #d4501e;
+  --color-teal: #0fa888;
 
-  --color-gold: hsl(45 100% 51%);
-  --color-silver: hsl(210 10% 70%);
-  --color-bronze: hsl(30 60% 50%);
+  --color-gold: #d4a017;
+  --color-silver: #8a8a8a;
+  --color-bronze: #b87333;
 
+  --font-display: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
-  --radius: 0.5rem;
+  --radius: 0.625rem;
 }
 
 @variant dark {
   @theme {
-    --color-background: hsl(222 47% 6%);
-    --color-foreground: hsl(210 40% 98%);
-    --color-card: hsl(222 47% 9%);
-    --color-card-foreground: hsl(210 40% 98%);
-    --color-primary: hsl(20 90% 48%);
-    --color-primary-foreground: hsl(0 0% 100%);
-    --color-secondary: hsl(217 33% 17%);
-    --color-secondary-foreground: hsl(210 40% 98%);
-    --color-muted: hsl(217 33% 17%);
-    --color-muted-foreground: hsl(215 20% 65%);
-    --color-accent: hsl(217 33% 17%);
-    --color-accent-foreground: hsl(210 40% 98%);
-    --color-border: hsl(217 33% 17%);
-    --color-input: hsl(217 33% 17%);
-    --color-ring: hsl(20 90% 48%);
-    --color-destructive: hsl(0 62.8% 30.6%);
+    --color-background: #080b14;
+    --color-foreground: #e8e4ef;
+    --color-card: rgba(14, 18, 30, 0.7);
+    --color-card-foreground: #e8e4ef;
+    --color-primary: #e85d26;
+    --color-primary-foreground: #fff;
+    --color-secondary: rgba(20, 26, 44, 0.8);
+    --color-secondary-foreground: #c8c4cf;
+    --color-muted: rgba(20, 26, 44, 0.6);
+    --color-muted-foreground: #7a7a8e;
+    --color-accent: rgba(26, 32, 52, 0.6);
+    --color-accent-foreground: #c8c4cf;
+    --color-border: rgba(60, 66, 100, 0.3);
+    --color-input: rgba(60, 66, 100, 0.3);
+    --color-ring: #e85d26;
+    --color-destructive: #e53e3e;
+    --color-glow: #e85d26;
+    --color-teal: #00d4aa;
   }
 }
 
@@ -57,4 +62,134 @@ body {
   background: var(--color-background);
   color: var(--color-foreground);
   font-family: var(--font-sans);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+/* Grain texture overlay */
+.grain::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0.028;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: 180px;
+}
+
+:is(.dark) .grain::before {
+  opacity: 0.05;
+}
+
+/* Glass card effect */
+.glass {
+  backdrop-filter: blur(16px) saturate(1.6);
+  -webkit-backdrop-filter: blur(16px) saturate(1.6);
+}
+
+/* Glow effects */
+.glow-primary {
+  box-shadow: 0 0 20px -4px var(--color-glow), 0 0 60px -12px var(--color-glow);
+}
+
+.glow-teal {
+  box-shadow: 0 0 20px -4px var(--color-teal), 0 0 60px -12px var(--color-teal);
+}
+
+.glow-gold {
+  box-shadow: 0 0 16px -4px #d4a017, 0 0 48px -12px #d4a017;
+}
+
+/* Staggered entrance animation */
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.4s ease both;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 3s ease-in-out infinite;
+}
+
+/* Stagger delays */
+.delay-1 { animation-delay: 50ms; }
+.delay-2 { animation-delay: 100ms; }
+.delay-3 { animation-delay: 150ms; }
+.delay-4 { animation-delay: 200ms; }
+.delay-5 { animation-delay: 250ms; }
+.delay-6 { animation-delay: 300ms; }
+
+/* Atmospheric background gradient - dark mode only */
+:is(.dark) body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -20%, rgba(232, 93, 38, 0.08), transparent),
+    radial-gradient(ellipse 60% 40% at 80% 100%, rgba(0, 212, 170, 0.04), transparent),
+    var(--color-background);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-muted-foreground);
+}
+
+/* Top-3 row glow in dark mode */
+:is(.dark) .row-gold {
+  background: linear-gradient(90deg, rgba(212, 160, 23, 0.06), transparent 60%);
+}
+
+:is(.dark) .row-silver {
+  background: linear-gradient(90deg, rgba(160, 160, 180, 0.04), transparent 60%);
+}
+
+:is(.dark) .row-bronze {
+  background: linear-gradient(90deg, rgba(184, 115, 51, 0.05), transparent 60%);
+}
+
+/* Selection color */
+::selection {
+  background: var(--color-primary);
+  color: #fff;
 }

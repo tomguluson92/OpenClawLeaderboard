@@ -52,27 +52,28 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
   };
 
   return (
-    <div className="space-y-4">
-      {/* Tabs */}
+    <div className="animate-fade-up delay-3 space-y-5">
+      {/* Controls */}
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-        <div className="inline-flex rounded-lg border border-border bg-card p-1">
+        {/* Tabs */}
+        <div className="inline-flex rounded-xl border border-border/60 bg-card/40 glass p-1 gap-0.5">
           {TABS.map((tab) => {
             const count = dataMap[tab.id]?.totalUsers ?? 0;
             return (
               <button
                 key={tab.id}
                 onClick={() => handlePeriodChange(tab.id)}
-                className={`inline-flex items-center gap-1.5 rounded-md px-3 py-1.5 text-sm font-medium transition-colors ${
+                className={`inline-flex items-center gap-1.5 rounded-lg px-4 py-2 text-sm font-medium transition-all ${
                   period === tab.id
-                    ? "bg-primary text-primary-foreground shadow-sm"
-                    : "text-muted-foreground hover:text-foreground hover:bg-accent"
+                    ? "bg-primary text-primary-foreground shadow-md shadow-primary/20"
+                    : "text-muted-foreground hover:text-foreground hover:bg-accent/60"
                 }`}
               >
                 <tab.icon className="h-3.5 w-3.5" />
-                <span>{tab.label}</span>
+                <span className="font-display font-semibold">{tab.label}</span>
                 {count > 0 && (
                   <span
-                    className={`ml-1 rounded-full px-1.5 py-0.5 text-[10px] font-semibold ${
+                    className={`ml-1 rounded-full px-1.5 py-0.5 text-[10px] font-bold ${
                       period === tab.id
                         ? "bg-primary-foreground/20 text-primary-foreground"
                         : "bg-muted text-muted-foreground"
@@ -87,8 +88,8 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
         </div>
 
         {/* Search */}
-        <div className="relative">
-          <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+        <div className="relative group">
+          <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground transition-colors group-focus-within:text-primary" />
           <input
             type="text"
             placeholder="Search contributors..."
@@ -97,14 +98,15 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
               setSearch(e.target.value);
               setPage(1);
             }}
-            className="h-9 w-full rounded-md border border-border bg-card pl-9 pr-3 text-sm placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-ring sm:w-64"
+            className="h-10 w-full rounded-xl border border-border/60 bg-card/40 glass pl-9 pr-3 text-sm placeholder:text-muted-foreground/60 focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary/40 transition-all sm:w-72"
           />
         </div>
       </div>
 
-      {/* Table Header */}
-      <div className="rounded-lg border border-border bg-card overflow-hidden">
-        <div className="grid h-10 grid-cols-[3rem_2fr_5rem_5rem_1fr] items-center border-b border-border bg-muted/50 px-4 text-xs font-medium uppercase tracking-wider text-muted-foreground">
+      {/* Table */}
+      <div className="rounded-xl border border-border/60 bg-card/40 glass overflow-hidden">
+        {/* Table Header */}
+        <div className="grid h-11 grid-cols-[3rem_2fr_5rem_5rem_1fr] items-center border-b border-border/40 bg-muted/30 px-4 text-[10px] font-bold uppercase tracking-[0.15em] text-muted-foreground">
           <span>#</span>
           <span>Contributor</span>
           <span className="text-center">Tier</span>
@@ -114,7 +116,7 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
 
         {/* Rows */}
         {paginated.length > 0 ? (
-          <div>
+          <div className="divide-y divide-border/30">
             {paginated.map((entry, i) => (
               <LeaderboardCard
                 key={entry.username}
@@ -124,7 +126,8 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
             ))}
           </div>
         ) : (
-          <div className="flex items-center justify-center py-16 text-muted-foreground">
+          <div className="flex flex-col items-center justify-center py-20 text-muted-foreground gap-2">
+            <span className="text-3xl">🔍</span>
             {search
               ? `No contributors matching "${search}"`
               : "No data for this period"}
@@ -134,18 +137,18 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
 
       {/* Pagination */}
       {totalPages > 1 && (
-        <div className="flex items-center justify-between">
-          <span className="text-sm text-muted-foreground">
-            Showing {(page - 1) * perPage + 1}–
-            {Math.min(page * perPage, filtered.length)} of {filtered.length}
+        <div className="flex items-center justify-between pt-1">
+          <span className="text-xs text-muted-foreground font-medium">
+            {(page - 1) * perPage + 1}–{Math.min(page * perPage, filtered.length)} of{" "}
+            <span className="text-foreground">{filtered.length}</span>
           </span>
           <div className="flex gap-1">
             <button
               onClick={() => setPage(Math.max(1, page - 1))}
               disabled={page === 1}
-              className="rounded-md border border-border bg-card px-3 py-1.5 text-sm disabled:opacity-40 hover:bg-accent"
+              className="rounded-lg border border-border/60 bg-card/40 glass px-3 py-1.5 text-sm font-medium disabled:opacity-30 hover:bg-accent transition-all"
             >
-              Prev
+              ←
             </button>
             {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
               let pageNum: number;
@@ -162,10 +165,10 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
                 <button
                   key={pageNum}
                   onClick={() => setPage(pageNum)}
-                  className={`rounded-md border px-3 py-1.5 text-sm ${
+                  className={`rounded-lg border px-3 py-1.5 text-sm font-medium transition-all ${
                     page === pageNum
-                      ? "border-primary bg-primary text-primary-foreground"
-                      : "border-border bg-card hover:bg-accent"
+                      ? "border-primary bg-primary text-primary-foreground shadow-md shadow-primary/20"
+                      : "border-border/60 bg-card/40 hover:bg-accent"
                   }`}
                 >
                   {pageNum}
@@ -175,9 +178,9 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
             <button
               onClick={() => setPage(Math.min(totalPages, page + 1))}
               disabled={page === totalPages}
-              className="rounded-md border border-border bg-card px-3 py-1.5 text-sm disabled:opacity-40 hover:bg-accent"
+              className="rounded-lg border border-border/60 bg-card/40 glass px-3 py-1.5 text-sm font-medium disabled:opacity-30 hover:bg-accent transition-all"
             >
-              Next
+              →
             </button>
           </div>
         </div>

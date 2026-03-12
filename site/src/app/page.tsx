@@ -25,22 +25,25 @@ export default function Home() {
   const hasData = lifetime || monthly || weekly;
 
   return (
-    <main className="mx-auto max-w-5xl px-4 py-8">
-      <div className="mb-8 text-center">
-        <h1 className="text-4xl font-bold tracking-tight">
-          <span className="text-primary">OpenClaw</span> Contributors
+    <main className="mx-auto max-w-6xl px-5 py-10">
+      {/* Hero */}
+      <div className="animate-fade-up mb-10 text-center">
+        <div className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/5 px-4 py-1.5 text-xs font-medium text-primary mb-4">
+          <span className="inline-block h-1.5 w-1.5 rounded-full bg-primary animate-pulse-glow" />
+          Open Source Intelligence
+        </div>
+        <h1 className="font-display text-5xl font-extrabold tracking-tight sm:text-6xl">
+          <span className="text-primary">Open</span>Claw
         </h1>
-        <p className="mt-2 text-muted-foreground">
-          Recognizing the people who build OpenClaw
+        <p className="mt-3 text-lg text-muted-foreground max-w-md mx-auto leading-relaxed">
+          Recognizing the builders who shape the future of personal AI
         </p>
         {lifetime?.generatedAt && (
-          <p className="mt-1 text-xs text-muted-foreground/60">
-            Last updated: {new Date(lifetime.generatedAt).toLocaleDateString("en-US", {
+          <p className="mt-3 text-[11px] text-muted-foreground/50 font-medium tracking-wider uppercase">
+            Updated {new Date(lifetime.generatedAt).toLocaleDateString("en-US", {
               year: "numeric",
               month: "long",
               day: "numeric",
-              hour: "2-digit",
-              minute: "2-digit",
             })}
           </p>
         )}
@@ -51,13 +54,13 @@ export default function Home() {
       {hasData ? (
         <Leaderboard lifetime={lifetime} monthly={monthly} weekly={weekly} />
       ) : (
-        <div className="rounded-lg border border-border bg-card p-12 text-center">
-          <p className="text-2xl mb-2">🦞</p>
-          <p className="text-lg font-medium">No leaderboard data yet</p>
-          <p className="mt-1 text-sm text-muted-foreground">
+        <div className="animate-fade-up rounded-xl border border-border bg-card/60 glass p-16 text-center">
+          <p className="text-4xl mb-3">🦞</p>
+          <p className="font-display text-xl font-bold">No leaderboard data yet</p>
+          <p className="mt-2 text-sm text-muted-foreground">
             Run the pipeline first:{" "}
-            <code className="rounded bg-muted px-2 py-0.5 text-xs">
-              bun run cli/run.ts all --days 90 -v
+            <code className="rounded-md bg-muted px-2 py-0.5 text-xs font-mono">
+              bun run scripts/fetch-rest.ts
             </code>
           </p>
         </div>

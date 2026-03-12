@@ -13,6 +13,7 @@ import {
   Bug,
   Eye,
   MessageSquare,
+  ChevronRight,
 } from "lucide-react";
 import { useState } from "react";
 import { DinqLink } from "./dinq-link";
@@ -24,13 +25,17 @@ interface LeaderboardCardProps {
 
 function RankBadge({ rank }: { rank: number }) {
   if (rank === 1)
-    return <Trophy className="h-5 w-5 text-yellow-400" />;
+    return (
+      <div className="relative">
+        <Trophy className="h-5 w-5 text-yellow-400 drop-shadow-[0_0_6px_rgba(250,204,21,0.5)]" />
+      </div>
+    );
   if (rank === 2)
     return <Medal className="h-5 w-5 text-gray-400 dark:text-gray-300" />;
   if (rank === 3)
-    return <Award className="h-5 w-5 text-amber-600" />;
+    return <Award className="h-5 w-5 text-amber-600 dark:text-amber-500" />;
   return (
-    <span className="text-sm font-semibold text-muted-foreground">{rank}</span>
+    <span className="font-display text-sm font-bold text-muted-foreground tabular-nums">{rank}</span>
   );
 }
 
@@ -38,13 +43,13 @@ function TierBadge({ tier }: { tier: string }) {
   return (
     <span
       className={cn(
-        "inline-block rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide",
-        tier === "legend" && "bg-yellow-500/15 text-yellow-500",
-        tier === "elite" && "bg-purple-500/15 text-purple-600 dark:text-purple-400",
-        tier === "veteran" && "bg-blue-500/15 text-blue-600 dark:text-blue-400",
-        tier === "active" && "bg-green-500/15 text-green-600 dark:text-green-400",
-        tier === "regular" && "bg-gray-500/10 text-gray-600 dark:text-gray-400",
-        tier === "beginner" && "bg-gray-500/5 text-gray-500",
+        "inline-block rounded-md px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider",
+        tier === "legend" && "bg-yellow-500/15 text-yellow-600 dark:text-yellow-400 ring-1 ring-yellow-500/20",
+        tier === "elite" && "bg-purple-500/15 text-purple-600 dark:text-purple-400 ring-1 ring-purple-500/20",
+        tier === "veteran" && "bg-blue-500/15 text-blue-600 dark:text-blue-400 ring-1 ring-blue-500/20",
+        tier === "active" && "bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 ring-1 ring-emerald-500/20",
+        tier === "regular" && "bg-gray-500/10 text-gray-500 dark:text-gray-400",
+        tier === "beginner" && "bg-gray-500/5 text-gray-400",
       )}
     >
       {tier}
@@ -54,13 +59,16 @@ function TierBadge({ tier }: { tier: string }) {
 
 export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
   const [expanded, setExpanded] = useState(false);
+  const rowHighlight =
+    rank === 1 ? "row-gold" : rank === 2 ? "row-silver" : rank === 3 ? "row-bronze" : "";
 
   return (
-    <div>
+    <div className={`group/card ${rowHighlight}`}>
       <div
         className={cn(
-          "grid w-full grid-cols-[3rem_2fr_5rem_5rem_1fr] items-center px-4 py-3 text-left transition-colors hover:bg-accent/50 cursor-pointer",
-          rank <= 3 && "bg-primary/[0.02]",
+          "grid w-full grid-cols-[3rem_2fr_5rem_5rem_1fr] items-center px-4 py-3.5 text-left transition-all cursor-pointer",
+          "hover:bg-accent/40",
+          expanded && "bg-accent/30",
         )}
         onClick={() => setExpanded(!expanded)}
       >
@@ -69,12 +77,12 @@ export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
           <RankBadge rank={rank} />
         </div>
 
-        {/* Avatar (clickable → profile) + Username */}
+        {/* Avatar + Username */}
         <div className="flex min-w-0 items-center gap-3">
           <Link
             href={`/profile/${entry.username}`}
             onClick={(e) => e.stopPropagation()}
-            className="shrink-0 rounded-full ring-2 ring-transparent hover:ring-primary transition-all"
+            className="shrink-0 rounded-full ring-2 ring-transparent hover:ring-primary/60 transition-all hover:scale-105"
           >
             <Image
               src={entry.avatarUrl || `https://github.com/${entry.username}.png`}
@@ -97,7 +105,7 @@ export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
               <DinqLink username={entry.username} />
             </div>
             {entry.focusAreas.length > 0 && (
-              <span className="block truncate text-[11px] text-muted-foreground">
+              <span className="block truncate text-[11px] text-muted-foreground/70">
                 {entry.focusAreas
                   .slice(0, 3)
                   .map((a) => a.tag)
@@ -113,38 +121,46 @@ export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
         </div>
 
         {/* Character class */}
-        <div className="text-center text-xs text-muted-foreground">
+        <div className="text-center text-[11px] text-muted-foreground font-medium">
           {entry.characterClass}
         </div>
 
         {/* Score */}
-        <div className="text-right">
-          <span className={cn("text-lg font-bold tabular-nums", TIER_COLORS[entry.tier])}>
-            {(entry.score ?? 0).toLocaleString(undefined, {
-              maximumFractionDigits: 0,
-            })}
-          </span>
-          <span className="ml-1 text-xs text-muted-foreground">pts</span>
+        <div className="flex items-center justify-end gap-2">
+          <div>
+            <span className={cn("font-display text-lg font-bold tabular-nums", TIER_COLORS[entry.tier])}>
+              {(entry.score ?? 0).toLocaleString(undefined, {
+                maximumFractionDigits: 0,
+              })}
+            </span>
+            <span className="ml-1 text-[10px] text-muted-foreground font-medium">pts</span>
+          </div>
+          <ChevronRight
+            className={cn(
+              "h-4 w-4 text-muted-foreground/40 transition-transform",
+              expanded && "rotate-90",
+            )}
+          />
         </div>
       </div>
 
       {/* Expanded details */}
       {expanded && (
-        <div className="border-t border-border bg-muted/30 px-4 py-3">
+        <div className="border-t border-border/30 bg-accent/20 px-5 py-4 animate-fade-in">
           <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
             <ScoreDetail
               icon={GitPullRequest}
               label="PRs"
               score={entry.prScore ?? 0}
               count={entry.prsCount ?? 0}
-              color="text-green-500"
+              color="text-emerald-500"
             />
             <ScoreDetail
               icon={Bug}
               label="Issues"
               score={entry.issueScore ?? 0}
               count={entry.issuesCount ?? 0}
-              color="text-orange-500"
+              color="text-primary"
             />
             <ScoreDetail
               icon={Eye}
@@ -161,18 +177,19 @@ export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
               color="text-purple-500"
             />
           </div>
-          <div className="mt-3 flex items-center gap-3">
+          <div className="mt-4 flex items-center gap-4">
             <Link
               href={`/profile/${entry.username}`}
-              className="text-xs text-primary font-medium hover:underline"
+              className="inline-flex items-center gap-1 text-xs text-primary font-semibold hover:underline transition-colors"
             >
-              View Full Profile →
+              View Full Profile
+              <ChevronRight className="h-3 w-3" />
             </Link>
             <a
               href={entry.links.github}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-xs text-muted-foreground hover:text-foreground"
+              className="text-xs text-muted-foreground hover:text-foreground transition-colors"
             >
               GitHub ↗
             </a>
@@ -180,7 +197,7 @@ export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
               href={`https://analysis.dinq.me/github?user=${entry.username}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-xs text-muted-foreground hover:text-foreground"
+              className="text-xs text-muted-foreground hover:text-foreground transition-colors"
             >
               DINQ ↗
             </a>
@@ -205,10 +222,12 @@ function ScoreDetail({
   color: string;
 }) {
   return (
-    <div className="flex items-center gap-2">
-      <Icon className={cn("h-4 w-4 shrink-0", color)} />
+    <div className="flex items-center gap-2.5">
+      <div className={cn("flex h-8 w-8 items-center justify-center rounded-lg bg-card/80", color)}>
+        <Icon className="h-3.5 w-3.5" />
+      </div>
       <div>
-        <div className="text-sm font-semibold tabular-nums">
+        <div className="font-display text-sm font-bold tabular-nums">
           {score.toLocaleString(undefined, { maximumFractionDigits: 1 })}
         </div>
         <div className="text-[10px] text-muted-foreground">

@@ -7,7 +7,7 @@ export function DinqLink({ username }: { username: string }) {
       target="_blank"
       rel="noopener noreferrer"
       onClick={(e) => e.stopPropagation()}
-      className="inline-flex items-center justify-center shrink-0 rounded-md transition-all hover:scale-110"
+      className="inline-flex items-center justify-center shrink-0 rounded-md transition-all hover:scale-110 active:scale-95"
       title={`View ${username} on DINQ`}
     >
       <svg
@@ -16,9 +16,8 @@ export function DinqLink({ username }: { username: string }) {
         viewBox="0 0 32 32"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
-        className="drop-shadow-sm"
       >
-        <rect width="32" height="32" rx="6" className="fill-foreground/90" />
+        <rect width="32" height="32" rx="7" className="fill-foreground/80" />
         <text
           x="16"
           y="22.5"

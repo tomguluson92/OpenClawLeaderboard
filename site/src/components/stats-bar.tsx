@@ -7,6 +7,11 @@ interface StatsBarProps {
   data: LeaderboardData | null;
 }
 
+function fmt(n: number): string {
+  if (n >= 1000) return `${(n / 1000).toFixed(1).replace(/\.0$/, "")}k`;
+  return String(n);
+}
+
 export function StatsBar({ data }: StatsBarProps) {
   if (!data) return null;
 
@@ -23,14 +28,18 @@ export function StatsBar({ data }: StatsBarProps) {
     {
       icon: Users,
       label: "Contributors",
-      value: data.totalUsers.toLocaleString(),
+      value: fmt(data.totalUsers),
+      accent: "text-primary",
+      glow: false,
     },
     ...(repo?.stars
       ? [
           {
             icon: Star,
             label: "Stars",
-            value: (repo.stars ?? 0).toLocaleString(),
+            value: fmt(repo.stars ?? 0),
+            accent: "text-yellow-500",
+            glow: false,
           },
         ]
       : []),
@@ -39,7 +48,9 @@ export function StatsBar({ data }: StatsBarProps) {
           {
             icon: GitFork,
             label: "Forks",
-            value: (repo.forks ?? 0).toLocaleString(),
+            value: fmt(repo.forks ?? 0),
+            accent: "text-teal dark:text-teal",
+            glow: false,
           },
         ]
       : []),
@@ -47,29 +58,38 @@ export function StatsBar({ data }: StatsBarProps) {
       icon: Trophy,
       label: "Legends",
       value: String(tierCounts.legend || 0),
+      accent: "text-yellow-500",
+      glow: true,
     },
     {
       icon: Code,
       label: "Elite",
       value: String(tierCounts.elite || 0),
+      accent: "text-purple-500",
+      glow: false,
     },
     {
       icon: Eye,
       label: "Veterans",
       value: String(tierCounts.veteran || 0),
+      accent: "text-blue-500",
+      glow: false,
     },
   ];
 
   return (
-    <div className="mb-6 grid grid-cols-3 gap-3 sm:grid-cols-6">
-      {stats.map((stat) => (
+    <div className="animate-fade-up delay-2 mb-8 grid grid-cols-3 gap-3 sm:grid-cols-6">
+      {stats.map((stat, i) => (
         <div
           key={stat.label}
-          className="flex flex-col items-center gap-1 rounded-lg border border-border bg-card p-3"
+          className={`group relative flex flex-col items-center gap-1.5 rounded-xl border border-border/60 bg-card/60 glass p-4 transition-all hover:border-border hover:bg-card/80 ${
+            stat.glow ? "hover:glow-gold" : ""
+          }`}
+          style={{ animationDelay: `${(i + 2) * 50}ms` }}
         >
-          <stat.icon className="h-4 w-4 text-muted-foreground" />
-          <span className="text-lg font-bold">{stat.value}</span>
-          <span className="text-[11px] text-muted-foreground">{stat.label}</span>
+          <stat.icon className={`h-4 w-4 ${stat.accent} transition-transform group-hover:scale-110`} />
+          <span className="font-display text-xl font-bold tracking-tight">{stat.value}</span>
+          <span className="text-[10px] font-medium text-muted-foreground uppercase tracking-wider">{stat.label}</span>
         </div>
       ))}
     </div>
