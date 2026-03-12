@@ -63,7 +63,7 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
               <button
                 key={tab.id}
                 onClick={() => handlePeriodChange(tab.id)}
-                className={`inline-flex items-center gap-1.5 rounded-lg px-4 py-2 text-sm font-medium transition-all ${
+                className={`inline-flex items-center gap-1 sm:gap-1.5 rounded-lg px-2.5 sm:px-4 py-2 text-xs sm:text-sm font-medium transition-all ${
                   period === tab.id
                     ? "bg-primary text-primary-foreground shadow-md shadow-primary/20"
                     : "text-muted-foreground hover:text-foreground hover:bg-accent"
@@ -106,11 +106,11 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
       {/* Table */}
       <div className="rounded-xl border border-border bg-card shadow-sm dark:shadow-none dark:border-border/60 dark:bg-card/40 dark:glass overflow-hidden">
         {/* Table Header */}
-        <div className="grid h-11 grid-cols-[3rem_2fr_5rem_5rem_1fr] items-center border-b border-border dark:border-border/40 bg-muted/50 dark:bg-muted/30 px-4 text-[10px] font-bold uppercase tracking-[0.15em] text-muted-foreground">
+        <div className="grid h-11 grid-cols-[2.5rem_1fr_auto] sm:grid-cols-[3rem_2fr_5rem_5rem_1fr] items-center border-b border-border dark:border-border/40 bg-muted/50 dark:bg-muted/30 px-3 sm:px-4 text-[10px] font-bold uppercase tracking-[0.15em] text-muted-foreground">
           <span>#</span>
           <span>Contributor</span>
-          <span className="text-center">Tier</span>
-          <span className="text-center">Class</span>
+          <span className="hidden sm:block text-center">Tier</span>
+          <span className="hidden sm:block text-center">Class</span>
           <span className="text-right">Score</span>
         </div>
 

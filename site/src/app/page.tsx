@@ -32,7 +32,7 @@ export default function Home() {
           <span className="inline-block h-1.5 w-1.5 rounded-full bg-primary animate-pulse-glow" />
           Open Source Intelligence
         </div>
-        <h1 className="font-display text-5xl font-extrabold tracking-tight sm:text-6xl">
+        <h1 className="font-display text-4xl font-extrabold tracking-tight sm:text-6xl">
           <span className="text-primary">Open</span>Claw
         </h1>
         <p className="mt-3 text-lg text-muted-foreground max-w-md mx-auto leading-relaxed">

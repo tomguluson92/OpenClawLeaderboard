@@ -204,7 +204,7 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
             </div>
             <div>
               <div className="flex items-center gap-2.5">
-                <h1 className="font-display text-3xl font-extrabold tracking-tight">{profile.username}</h1>
+                <h1 className="font-display text-2xl sm:text-3xl font-extrabold tracking-tight">{profile.username}</h1>
                 <a
                   href={profile.githubUrl}
                   target="_blank"
@@ -221,8 +221,8 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
               </div>
             </div>
           </div>
-          <div className="text-right">
-            <div className={cn("font-display text-4xl font-extrabold tabular-nums tracking-tight", TIER_COLORS[profile.tier])}>
+          <div className="text-left sm:text-right">
+            <div className={cn("font-display text-3xl sm:text-4xl font-extrabold tabular-nums tracking-tight", TIER_COLORS[profile.tier])}>
               {sc.score.toLocaleString(undefined, { maximumFractionDigits: 0 })}
             </div>
             <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">total points</div>
@@ -282,7 +282,7 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
 
         <div className="flex flex-col gap-5">
           <Section title="Pull Requests &amp; Commits" icon={GitPullRequest} delay={3}>
-            <div className="grid grid-cols-4 gap-3 text-center">
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-center">
               <BigStat value={s.prs} label="PRs" />
               <BigStat value={s.commits} label="Commits" />
               <BigStat value={s.prsMerged} label="Merged" accent="text-purple-500" />
@@ -330,10 +330,10 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
                   <GitPullRequest className="h-4 w-4 shrink-0 text-emerald-500" />
                 )}
                 <span className="truncate flex-1 group-hover/pr:text-foreground transition-colors">{pr.title}</span>
-                <span className="shrink-0 rounded-md bg-muted/50 px-1.5 py-0.5 text-[10px] font-medium text-muted-foreground tabular-nums">
+                <span className="hidden sm:inline shrink-0 rounded-md bg-muted/50 px-1.5 py-0.5 text-[10px] font-medium text-muted-foreground tabular-nums">
                   +{pr.additions}/-{pr.deletions}
                 </span>
-                <span className="shrink-0 text-[11px] text-muted-foreground/70">{timeAgo(pr.createdAt)}</span>
+                <span className="shrink-0 text-[10px] sm:text-[11px] text-muted-foreground/70">{timeAgo(pr.createdAt)}</span>
               </a>
             ))}
           </div>
@@ -375,7 +375,7 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
 
       {/* Role */}
       <Section title="Role" icon={Shield}>
-        <div className="grid grid-cols-3 gap-2.5">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-2.5">
           <div className="rounded-xl border border-border bg-muted/50 dark:border-border/40 dark:bg-background/40 p-4">
             <div className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.15em] mb-1.5">Class</div>
             <div className="font-display text-lg font-bold">{profile.characterClass}</div>

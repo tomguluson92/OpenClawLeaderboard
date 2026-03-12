@@ -67,7 +67,7 @@ export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
     <div className={`group/card ${rowHighlight}`}>
       <div
         className={cn(
-          "grid w-full grid-cols-[3rem_2fr_5rem_5rem_1fr] items-center px-4 py-3.5 text-left transition-all cursor-pointer",
+          "grid w-full grid-cols-[2.5rem_1fr_auto] sm:grid-cols-[3rem_2fr_5rem_5rem_1fr] items-center px-3 sm:px-4 py-3 sm:py-3.5 text-left transition-all cursor-pointer",
           "hover:bg-accent/40",
           expanded && "bg-accent/30",
         )}
@@ -108,15 +108,19 @@ export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={(e) => e.stopPropagation()}
-                className="inline-flex items-center justify-center shrink-0 rounded-md transition-all hover:scale-110 active:scale-95 text-muted-foreground hover:text-foreground"
+                className="hidden sm:inline-flex items-center justify-center shrink-0 rounded-md transition-all hover:scale-110 active:scale-95 text-muted-foreground hover:text-foreground"
                 title={`${entry.username} on GitHub`}
               >
                 <Github className="h-3.5 w-3.5" />
               </a>
-              <DinqLink username={entry.username} />
+              <span className="hidden sm:inline"><DinqLink username={entry.username} /></span>
+            </div>
+            <div className="flex items-center gap-1.5 sm:hidden mt-0.5">
+              <TierBadge tier={entry.tier} />
+              <span className="text-[10px] text-muted-foreground">{entry.characterClass}</span>
             </div>
             {entry.focusAreas.length > 0 && (
-              <span className="block truncate text-[11px] text-muted-foreground/70">
+              <span className="hidden sm:block truncate text-[11px] text-muted-foreground/70">
                 {entry.focusAreas
                   .slice(0, 3)
                   .map((a) => a.tag)
@@ -126,13 +130,13 @@ export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
           </div>
         </div>
 
-        {/* Tier */}
-        <div className="flex justify-center">
+        {/* Tier (hidden on mobile) */}
+        <div className="hidden sm:flex justify-center">
           <TierBadge tier={entry.tier} />
         </div>
 
-        {/* Character class */}
-        <div className="text-center text-[11px] text-muted-foreground font-medium">
+        {/* Character class (hidden on mobile) */}
+        <div className="hidden sm:block text-center text-[11px] text-muted-foreground font-medium">
           {entry.characterClass}
         </div>
 
