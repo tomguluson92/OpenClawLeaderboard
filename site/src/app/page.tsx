@@ -54,7 +54,7 @@ export default function Home() {
       {hasData ? (
         <Leaderboard lifetime={lifetime} monthly={monthly} weekly={weekly} />
       ) : (
-        <div className="animate-fade-up rounded-xl border border-border bg-card/60 glass p-16 text-center">
+        <div className="animate-fade-up rounded-xl border border-border bg-card shadow-sm dark:shadow-none dark:bg-card/60 dark:glass p-16 text-center">
           <p className="text-4xl mb-3">🦞</p>
           <p className="font-display text-xl font-bold">No leaderboard data yet</p>
           <p className="mt-2 text-sm text-muted-foreground">

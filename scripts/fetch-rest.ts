@@ -697,6 +697,23 @@ async function main() {
       recentPRs: stats.prList.sort((a, b) => b.createdAt.localeCompare(a.createdAt)).slice(0, 20),
       recentIssues: stats.issueList.sort((a, b) => b.createdAt.localeCompare(a.createdAt)).slice(0, 20),
       recentReviews: stats.reviewList.sort((a, b) => b.createdAt.localeCompare(a.createdAt)).slice(0, 20),
+      recentActivityDays: (() => {
+        const sixtyDaysAgo = new Date(now.getTime() - 60 * 86400000).toISOString().slice(0, 10);
+        const days: Record<string, { prs: number; issues: number; reviews: number }> = {};
+        for (const pr of stats.prList) {
+          const d = pr.createdAt.slice(0, 10);
+          if (d >= sixtyDaysAgo) { if (!days[d]) days[d] = { prs: 0, issues: 0, reviews: 0 }; days[d].prs++; }
+        }
+        for (const issue of stats.issueList) {
+          const d = issue.createdAt.slice(0, 10);
+          if (d >= sixtyDaysAgo) { if (!days[d]) days[d] = { prs: 0, issues: 0, reviews: 0 }; days[d].issues++; }
+        }
+        for (const review of stats.reviewList) {
+          const d = review.createdAt.slice(0, 10);
+          if (d >= sixtyDaysAgo) { if (!days[d]) days[d] = { prs: 0, issues: 0, reviews: 0 }; days[d].reviews++; }
+        }
+        return days;
+      })(),
       skills,
       achievements,
     };

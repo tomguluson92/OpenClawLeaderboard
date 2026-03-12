@@ -8,6 +8,7 @@ import { TIER_COLORS } from "@/lib/types";
 import {
   ArrowLeft,
   ExternalLink,
+  Github,
   GitPullRequest,
   Bug,
   Eye,
@@ -55,17 +56,19 @@ interface ProfileData {
   recentPRs: { number: number; title: string; state: string; merged: boolean; createdAt: string; mergedAt: string | null; additions: number; deletions: number; changedFiles: number }[];
   recentIssues: { number: number; title: string; state: string; createdAt: string; closedAt: string | null }[];
   recentReviews: { prNumber: number; state: string; createdAt: string }[];
+  recentCommitDays?: Record<string, number>;
+  recentActivityDays?: Record<string, { prs: number; issues: number; reviews: number }>;
   skills: string[];
   achievements: { id: string; label: string; description: string }[];
 }
 
 const tierGlow: Record<string, string> = {
-  legend: "ring-yellow-500/30 shadow-[0_0_40px_-8px_rgba(234,179,8,0.2)]",
-  elite: "ring-purple-500/30 shadow-[0_0_40px_-8px_rgba(168,85,247,0.15)]",
-  veteran: "ring-blue-500/20",
-  active: "ring-emerald-500/20",
-  regular: "ring-border/40",
-  beginner: "ring-border/20",
+  legend: "ring-yellow-500/20 dark:ring-yellow-500/30 shadow-lg dark:shadow-[0_0_40px_-8px_rgba(234,179,8,0.2)]",
+  elite: "ring-purple-500/20 dark:ring-purple-500/30 shadow-lg dark:shadow-[0_0_40px_-8px_rgba(168,85,247,0.15)]",
+  veteran: "ring-blue-500/15 dark:ring-blue-500/20 shadow-md dark:shadow-none",
+  active: "ring-emerald-500/15 dark:ring-emerald-500/20 shadow-md dark:shadow-none",
+  regular: "ring-border/30 dark:ring-border/40 shadow-sm dark:shadow-none",
+  beginner: "ring-border/20 shadow-sm dark:shadow-none",
 };
 
 const tierGradient: Record<string, string> = {
@@ -156,7 +159,7 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
           "animate-fade-up relative overflow-hidden rounded-2xl border bg-gradient-to-br p-6 sm:p-8 ring-1",
           tierGradient[profile.tier] || tierGradient.beginner,
           tierGlow[profile.tier] || tierGlow.beginner,
-          "border-border/40 bg-card/60 glass",
+          "border-border bg-card dark:border-border/40 dark:bg-card/60 dark:glass",
         )}
       >
         <div className="flex flex-col gap-5 sm:flex-row sm:items-start sm:justify-between">
@@ -172,10 +175,10 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
               />
               <div className={cn(
                 "absolute -bottom-1 -right-1 rounded-md px-1.5 py-0.5 text-[9px] font-bold uppercase tracking-wider border",
-                profile.tier === "legend" && "bg-yellow-500/20 text-yellow-600 dark:text-yellow-400 border-yellow-500/30",
-                profile.tier === "elite" && "bg-purple-500/20 text-purple-600 dark:text-purple-400 border-purple-500/30",
-                profile.tier === "veteran" && "bg-blue-500/20 text-blue-600 dark:text-blue-400 border-blue-500/30",
-                profile.tier === "active" && "bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border-emerald-500/30",
+                profile.tier === "legend" && "bg-yellow-500 text-yellow-950 border-yellow-400 dark:bg-yellow-500 dark:text-yellow-950 dark:border-yellow-400",
+                profile.tier === "elite" && "bg-purple-500 text-white border-purple-400 dark:bg-purple-500 dark:text-white dark:border-purple-400",
+                profile.tier === "veteran" && "bg-blue-500 text-white border-blue-400 dark:bg-blue-500 dark:text-white dark:border-blue-400",
+                profile.tier === "active" && "bg-emerald-500 text-white border-emerald-400 dark:bg-emerald-500 dark:text-white dark:border-emerald-400",
                 !["legend", "elite", "veteran", "active"].includes(profile.tier) && "bg-muted text-muted-foreground border-border",
               )}>
                 {profile.tier}
@@ -184,6 +187,15 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
             <div>
               <div className="flex items-center gap-2.5">
                 <h1 className="font-display text-3xl font-extrabold tracking-tight">{profile.username}</h1>
+                <a
+                  href={profile.githubUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center shrink-0 rounded-md transition-all hover:scale-110 active:scale-95 text-muted-foreground hover:text-foreground"
+                  title={`${profile.username} on GitHub`}
+                >
+                  <Github className="h-[18px] w-[18px]" />
+                </a>
                 <DinqLink username={profile.username} />
               </div>
               <div className="mt-1.5 flex flex-wrap items-center gap-2">
@@ -201,24 +213,6 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
               {sc.score.toLocaleString(undefined, { maximumFractionDigits: 0 })}
             </div>
             <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">total points</div>
-            <div className="mt-3 flex flex-wrap gap-2 justify-end">
-              <a
-                href={profile.githubUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 rounded-lg border border-border/60 bg-card/50 px-3 py-1.5 text-xs font-medium hover:bg-accent transition-all"
-              >
-                GitHub <ExternalLink className="h-3 w-3 opacity-50" />
-              </a>
-              <a
-                href={`https://analysis.dinq.me/github?user=${profile.username}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 rounded-lg border border-border/60 bg-card/50 px-3 py-1.5 text-xs font-medium hover:bg-accent transition-all"
-              >
-                DINQ <ExternalLink className="h-3 w-3 opacity-50" />
-              </a>
-            </div>
           </div>
         </div>
       </div>
@@ -242,7 +236,7 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
         <Section title="Recent Activity (Last 31 Days)" icon={Clock} delay={2}>
           <ActivityChart profile={profile} />
           <div className="mt-4 flex flex-wrap items-center gap-4 text-[11px] font-medium">
-            <ChartLegend color="bg-teal-500" label="Comments" />
+            <ChartLegend color="bg-teal-500" label="Commits" />
             <ChartLegend color="bg-indigo-700 dark:bg-indigo-400" label="Issues" />
             <ChartLegend color="bg-amber-500" label="PRs" />
             <ChartLegend color="bg-rose-500" label="Reviews" />
@@ -255,9 +249,10 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
         </Section>
 
         <div className="flex flex-col gap-5">
-          <Section title="Pull Requests" icon={GitPullRequest} delay={3}>
-            <div className="grid grid-cols-3 gap-4 text-center">
-              <BigStat value={totalPrsAndCommits} label="Total" />
+          <Section title="Pull Requests &amp; Commits" icon={GitPullRequest} delay={3}>
+            <div className="grid grid-cols-4 gap-3 text-center">
+              <BigStat value={s.prs} label="PRs" />
+              <BigStat value={s.commits} label="Commits" />
               <BigStat value={s.prsMerged} label="Merged" accent="text-purple-500" />
               <BigStat value={closedPrs} label="Closed" accent="text-muted-foreground" />
             </div>
@@ -276,17 +271,10 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
       {/* Score Breakdown */}
       <Section title="Score Breakdown" icon={TrendingUp} delay={5}>
         <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
-          <ScoreBar label="PRs" value={sc.prScore} max={sc.score} color="bg-emerald-500" />
-          <ScoreBar label="Issues" value={sc.issueScore} max={sc.score} color="bg-primary" />
-          <ScoreBar label="Reviews" value={sc.reviewScore} max={sc.score} color="bg-blue-500" />
-          <ScoreBar label="Comments" value={sc.commentScore} max={sc.score} color="bg-purple-500" />
-        </div>
-        <div className="mt-4 grid grid-cols-2 gap-2.5 sm:grid-cols-5">
-          <MiniStat label="Commits" value={s.commits.toLocaleString()} accent="text-blue-500" />
-          <MiniStat label="PRs" value={String(s.prs)} accent="text-emerald-500" />
-          <MiniStat label="Reviews" value={String(s.reviews)} accent="text-cyan-500" />
-          <MiniStat label="Comments" value={String(s.comments)} accent="text-purple-500" />
-          <MiniStat label="Merge Rate" value={s.prs > 0 ? `${s.prMergeRate}%` : "—"} accent="text-emerald-500" />
+          <ScoreBar label="Code (pts)" value={sc.prScore} max={sc.score} color="bg-emerald-500" />
+          <ScoreBar label="Issues (pts)" value={sc.issueScore} max={sc.score} color="bg-primary" />
+          <ScoreBar label="Reviews (pts)" value={sc.reviewScore} max={sc.score} color="bg-blue-500" />
+          <ScoreBar label="Comments (pts)" value={sc.commentScore} max={sc.score} color="bg-purple-500" />
         </div>
       </Section>
 
@@ -353,52 +341,25 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
         </Section>
       )}
 
-      {/* Reviews */}
-      {s.reviews > 0 && (
-        <Section title="Code Reviews" icon={Eye} count={s.reviews}>
-          <div className="grid grid-cols-3 gap-2.5">
-            <MiniStat label="Total" value={String(s.reviews)} />
-            <MiniStat label="Approved" value={String(s.reviewsApproved)} accent="text-emerald-500" />
-            <MiniStat label="Changes Req." value={String(s.reviewsChangesRequested)} accent="text-amber-500" />
-          </div>
-        </Section>
-      )}
-
       {/* Role */}
       <Section title="Role" icon={Shield}>
         <div className="grid grid-cols-3 gap-2.5">
-          <div className="rounded-xl border border-border/40 bg-background/50 p-4">
+          <div className="rounded-xl border border-border bg-muted/50 dark:border-border/40 dark:bg-background/40 p-4">
             <div className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.15em] mb-1.5">Class</div>
             <div className="font-display text-lg font-bold">{profile.characterClass}</div>
           </div>
-          <div className="rounded-xl border border-border/40 bg-background/50 p-4">
+          <div className="rounded-xl border border-border bg-muted/50 dark:border-border/40 dark:bg-background/40 p-4">
             <div className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.15em] mb-1.5">Tier</div>
             <div className={cn("font-display text-lg font-bold capitalize", TIER_COLORS[profile.tier])}>
               {profile.tier}
             </div>
           </div>
-          <div className="rounded-xl border border-border/40 bg-background/50 p-4">
+          <div className="rounded-xl border border-border bg-muted/50 dark:border-border/40 dark:bg-background/40 p-4">
             <div className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.15em] mb-1.5">Score</div>
             <div className="font-display text-lg font-bold tabular-nums">{sc.score.toLocaleString(undefined, { maximumFractionDigits: 0 })}</div>
           </div>
         </div>
       </Section>
-
-      {/* Skills */}
-      {profile.skills.length > 0 && (
-        <Section title="Skills" icon={Zap}>
-          <div className="flex flex-wrap gap-2">
-            {profile.skills.map((skill) => (
-              <span
-                key={skill}
-                className="rounded-lg border border-border/40 bg-background/50 px-3 py-1.5 text-sm font-medium transition-all hover:border-primary/30 hover:bg-primary/5"
-              >
-                {skill}
-              </span>
-            ))}
-          </div>
-        </Section>
-      )}
 
       {/* Achievements */}
       {profile.achievements.length > 0 && (
@@ -409,7 +370,7 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
               return (
                 <div
                   key={a.id}
-                  className="group/ach flex items-center gap-3.5 rounded-xl border border-border/40 bg-background/50 p-4 transition-all hover:border-primary/20 hover:bg-primary/5"
+                  className="group/ach flex items-center gap-3.5 rounded-xl border border-border bg-muted/50 dark:border-border/40 dark:bg-background/40 p-4 transition-all hover:border-primary/20 hover:bg-primary/5"
                 >
                   <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-primary/10 transition-colors group-hover/ach:bg-primary/15">
                     <Icon className="h-5 w-5 text-primary" />
@@ -446,7 +407,7 @@ function Section({
   return (
     <div
       className={cn(
-        "rounded-2xl border border-border/40 bg-card/60 glass p-5 sm:p-6",
+        "rounded-2xl border border-border bg-card shadow-sm p-5 sm:p-6 dark:border-border/40 dark:bg-card/60 dark:glass dark:shadow-none",
         delay !== undefined && "animate-fade-up",
       )}
       style={delay !== undefined ? { animationDelay: `${delay * 60}ms` } : undefined}
@@ -455,7 +416,7 @@ function Section({
         <Icon className="h-5 w-5 text-primary" />
         <h2 className="font-display text-base font-bold tracking-tight">{title}</h2>
         {count !== undefined && (
-          <span className="rounded-full bg-muted/60 px-2 py-0.5 text-[10px] font-bold text-muted-foreground">
+          <span className="rounded-full bg-muted px-2 py-0.5 text-[10px] font-bold text-muted-foreground">
             {count}
           </span>
         )}
@@ -467,7 +428,7 @@ function Section({
 
 function MiniStat({ label, value, accent }: { label: string; value: string; accent?: string }) {
   return (
-    <div className="rounded-xl border border-border/30 bg-background/40 p-3">
+    <div className="rounded-xl border border-border bg-muted/50 dark:border-border/30 dark:bg-background/40 p-3">
       <div className="text-[10px] font-bold text-muted-foreground uppercase tracking-[0.12em]">{label}</div>
       <div className={cn("font-display text-xl font-bold tabular-nums mt-0.5", accent)}>{value}</div>
     </div>
@@ -482,7 +443,7 @@ function ScoreBar({ label, value, max, color }: { label: string; value: number; 
         <span className="font-medium text-muted-foreground">{label}</span>
         <span className="font-display font-bold tabular-nums">{value.toLocaleString(undefined, { maximumFractionDigits: 0 })}</span>
       </div>
-      <div className="h-2 rounded-full bg-muted/40 overflow-hidden">
+      <div className="h-2 rounded-full bg-muted dark:bg-muted/40 overflow-hidden">
         <div className={cn("h-full rounded-full transition-all duration-700 ease-out", color)} style={{ width: `${pct}%` }} />
       </div>
     </div>
@@ -502,10 +463,10 @@ function BigStat({
 }) {
   return (
     <div>
-      <div className={cn("font-display text-3xl font-extrabold tabular-nums sm:text-4xl tracking-tight", accent)}>
+      <div className={cn("font-display text-2xl font-extrabold tabular-nums sm:text-3xl tracking-tight", accent)}>
         {prefix}{fmtNum(value)}
       </div>
-      <div className="text-[11px] font-medium text-muted-foreground uppercase tracking-wider mt-0.5">{label}</div>
+      <div className="text-[10px] font-medium text-muted-foreground uppercase tracking-wider mt-0.5">{label}</div>
     </div>
   );
 }
@@ -520,17 +481,8 @@ function ChartLegend({ color, label }: { color: string; label: string }) {
 }
 
 function ActivityChart({ profile }: { profile: ProfileData }) {
-  const allItems: { date: string; type: "pr" | "issue" | "review" | "comment" }[] = [];
-
-  for (const pr of profile.recentPRs || []) {
-    allItems.push({ date: pr.createdAt.slice(0, 10), type: "pr" });
-  }
-  for (const issue of profile.recentIssues || []) {
-    allItems.push({ date: issue.createdAt.slice(0, 10), type: "issue" });
-  }
-  for (const review of profile.recentReviews || []) {
-    allItems.push({ date: review.createdAt.slice(0, 10), type: "review" });
-  }
+  const commitDays = profile.recentCommitDays || {};
+  const activityDays = profile.recentActivityDays || {};
 
   const now = new Date();
   const days: string[] = [];
@@ -540,18 +492,18 @@ function ActivityChart({ profile }: { profile: ProfileData }) {
   }
 
   const buckets = days.map((day) => {
-    const dayItems = allItems.filter((item) => item.date === day);
+    const act = activityDays[day] || { prs: 0, issues: 0, reviews: 0 };
     return {
       day,
       label: new Date(day + "T00:00:00").getDate().toString().padStart(2, "0"),
-      comments: profile.stats.comments > 0 ? dayItems.filter((i) => i.type === "comment").length : 0,
-      issues: dayItems.filter((i) => i.type === "issue").length,
-      prs: dayItems.filter((i) => i.type === "pr").length,
-      reviews: dayItems.filter((i) => i.type === "review").length,
+      commits: commitDays[day] || 0,
+      prs: act.prs,
+      issues: act.issues,
+      reviews: act.reviews,
     };
   });
 
-  const maxVal = Math.max(1, ...buckets.map((b) => b.comments + b.issues + b.prs + b.reviews));
+  const maxVal = Math.max(1, ...buckets.map((b) => b.commits + b.issues + b.prs + b.reviews));
   const chartH = 160;
 
   const yTicks = [];
@@ -570,9 +522,9 @@ function ActivityChart({ profile }: { profile: ProfileData }) {
       </div>
       <div className="flex flex-1 items-end gap-[2px]" style={{ height: chartH }}>
         {buckets.map((b, i) => {
-          const total = b.comments + b.issues + b.prs + b.reviews;
+          const total = b.commits + b.issues + b.prs + b.reviews;
           const barH = total > 0 ? (total / maxVal) * chartH : 0;
-          const commH = total > 0 ? (b.comments / total) * barH : 0;
+          const cmtH = total > 0 ? (b.commits / total) * barH : 0;
           const issH = total > 0 ? (b.issues / total) * barH : 0;
           const prH = total > 0 ? (b.prs / total) * barH : 0;
           const revH = total > 0 ? (b.reviews / total) * barH : 0;
@@ -582,7 +534,7 @@ function ActivityChart({ profile }: { profile: ProfileData }) {
                 className="flex w-full flex-col-reverse rounded-t-sm overflow-hidden transition-opacity group-hover/bar:opacity-80"
                 style={{ height: barH || 0 }}
               >
-                {commH > 0 && <div className="w-full bg-teal-500" style={{ height: commH }} />}
+                {cmtH > 0 && <div className="w-full bg-teal-500" style={{ height: cmtH }} />}
                 {issH > 0 && <div className="w-full bg-indigo-700 dark:bg-indigo-400" style={{ height: issH }} />}
                 {prH > 0 && <div className="w-full bg-amber-500" style={{ height: prH }} />}
                 {revH > 0 && <div className="w-full bg-rose-500" style={{ height: revH }} />}

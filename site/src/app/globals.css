@@ -3,7 +3,7 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme {
-  --color-background: #faf8f5;
+  --color-background: #f8f6f2;
   --color-foreground: #1a1520;
   --color-card: #ffffff;
   --color-card-foreground: #1a1520;
@@ -11,12 +11,12 @@
   --color-primary-foreground: #fff;
   --color-secondary: #f0ece6;
   --color-secondary-foreground: #2a2530;
-  --color-muted: #f0ece6;
-  --color-muted-foreground: #7a7580;
+  --color-muted: #eee9e2;
+  --color-muted-foreground: #6b6570;
   --color-accent: #ede8e0;
   --color-accent-foreground: #2a2530;
-  --color-border: #e0dbd4;
-  --color-input: #e0dbd4;
+  --color-border: #d8d2ca;
+  --color-input: #d8d2ca;
   --color-ring: #d4501e;
   --color-destructive: #c53030;
   --color-glow: #d4501e;
@@ -31,27 +31,25 @@
   --radius: 0.625rem;
 }
 
-@variant dark {
-  @theme {
-    --color-background: #080b14;
-    --color-foreground: #e8e4ef;
-    --color-card: rgba(14, 18, 30, 0.7);
-    --color-card-foreground: #e8e4ef;
-    --color-primary: #e85d26;
-    --color-primary-foreground: #fff;
-    --color-secondary: rgba(20, 26, 44, 0.8);
-    --color-secondary-foreground: #c8c4cf;
-    --color-muted: rgba(20, 26, 44, 0.6);
-    --color-muted-foreground: #7a7a8e;
-    --color-accent: rgba(26, 32, 52, 0.6);
-    --color-accent-foreground: #c8c4cf;
-    --color-border: rgba(60, 66, 100, 0.3);
-    --color-input: rgba(60, 66, 100, 0.3);
-    --color-ring: #e85d26;
-    --color-destructive: #e53e3e;
-    --color-glow: #e85d26;
-    --color-teal: #00d4aa;
-  }
+.dark {
+  --color-background: #080b14;
+  --color-foreground: #e8e4ef;
+  --color-card: rgba(14, 18, 30, 0.7);
+  --color-card-foreground: #e8e4ef;
+  --color-primary: #e85d26;
+  --color-primary-foreground: #fff;
+  --color-secondary: rgba(20, 26, 44, 0.8);
+  --color-secondary-foreground: #c8c4cf;
+  --color-muted: rgba(20, 26, 44, 0.6);
+  --color-muted-foreground: #7a7a8e;
+  --color-accent: rgba(26, 32, 52, 0.6);
+  --color-accent-foreground: #c8c4cf;
+  --color-border: rgba(60, 66, 100, 0.3);
+  --color-input: rgba(60, 66, 100, 0.3);
+  --color-ring: #e85d26;
+  --color-destructive: #e53e3e;
+  --color-glow: #e85d26;
+  --color-teal: #00d4aa;
 }
 
 * {
@@ -75,7 +73,7 @@ body {
   inset: 0;
   z-index: 9999;
   pointer-events: none;
-  opacity: 0.028;
+  opacity: 0.022;
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   background-size: 180px;
 }
@@ -84,22 +82,22 @@ body {
   opacity: 0.05;
 }
 
-/* Glass card effect */
-.glass {
+/* Glass card effect — dark mode only */
+:is(.dark) .glass {
   backdrop-filter: blur(16px) saturate(1.6);
   -webkit-backdrop-filter: blur(16px) saturate(1.6);
 }
 
-/* Glow effects */
-.glow-primary {
+/* Glow effects — dark mode only */
+:is(.dark) .glow-primary {
   box-shadow: 0 0 20px -4px var(--color-glow), 0 0 60px -12px var(--color-glow);
 }
 
-.glow-teal {
+:is(.dark) .glow-teal {
   box-shadow: 0 0 20px -4px var(--color-teal), 0 0 60px -12px var(--color-teal);
 }
 
-.glow-gold {
+:is(.dark) .glow-gold {
   box-shadow: 0 0 16px -4px #d4a017, 0 0 48px -12px #d4a017;
 }
 
@@ -175,17 +173,29 @@ body {
   background: var(--color-muted-foreground);
 }
 
-/* Top-3 row glow in dark mode */
-:is(.dark) .row-gold {
+/* Top-3 row highlights */
+.row-gold {
   background: linear-gradient(90deg, rgba(212, 160, 23, 0.06), transparent 60%);
 }
 
+.row-silver {
+  background: linear-gradient(90deg, rgba(160, 160, 180, 0.05), transparent 60%);
+}
+
+.row-bronze {
+  background: linear-gradient(90deg, rgba(184, 115, 51, 0.05), transparent 60%);
+}
+
+:is(.dark) .row-gold {
+  background: linear-gradient(90deg, rgba(212, 160, 23, 0.08), transparent 60%);
+}
+
 :is(.dark) .row-silver {
-  background: linear-gradient(90deg, rgba(160, 160, 180, 0.04), transparent 60%);
+  background: linear-gradient(90deg, rgba(160, 160, 180, 0.06), transparent 60%);
 }
 
 :is(.dark) .row-bronze {
-  background: linear-gradient(90deg, rgba(184, 115, 51, 0.05), transparent 60%);
+  background: linear-gradient(90deg, rgba(184, 115, 51, 0.06), transparent 60%);
 }
 
 /* Selection color */

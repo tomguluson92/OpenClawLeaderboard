@@ -35,12 +35,12 @@ export interface LeaderboardData {
 export type Period = "lifetime" | "monthly" | "weekly";
 
 export const TIER_COLORS: Record<string, string> = {
-  legend: "text-yellow-400",
-  elite: "text-purple-400",
-  veteran: "text-blue-400",
-  active: "text-green-400",
-  regular: "text-gray-400",
-  beginner: "text-gray-500",
+  legend: "text-yellow-600 dark:text-yellow-300",
+  elite: "text-purple-600 dark:text-purple-300",
+  veteran: "text-blue-600 dark:text-blue-300",
+  active: "text-green-600 dark:text-green-300",
+  regular: "text-gray-500 dark:text-gray-400",
+  beginner: "text-gray-400 dark:text-gray-500",
 };
 
 export const TIER_BG: Record<string, string> = {

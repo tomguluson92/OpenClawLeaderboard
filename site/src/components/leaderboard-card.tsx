@@ -14,6 +14,7 @@ import {
   Eye,
   MessageSquare,
   ChevronRight,
+  Github,
 } from "lucide-react";
 import { useState } from "react";
 import { DinqLink } from "./dinq-link";
@@ -44,12 +45,12 @@ function TierBadge({ tier }: { tier: string }) {
     <span
       className={cn(
         "inline-block rounded-md px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider",
-        tier === "legend" && "bg-yellow-500/15 text-yellow-600 dark:text-yellow-400 ring-1 ring-yellow-500/20",
-        tier === "elite" && "bg-purple-500/15 text-purple-600 dark:text-purple-400 ring-1 ring-purple-500/20",
-        tier === "veteran" && "bg-blue-500/15 text-blue-600 dark:text-blue-400 ring-1 ring-blue-500/20",
-        tier === "active" && "bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 ring-1 ring-emerald-500/20",
-        tier === "regular" && "bg-gray-500/10 text-gray-500 dark:text-gray-400",
-        tier === "beginner" && "bg-gray-500/5 text-gray-400",
+        tier === "legend" && "bg-yellow-100 text-yellow-800 dark:bg-yellow-500/20 dark:text-yellow-300 ring-1 ring-yellow-300 dark:ring-yellow-400/30",
+        tier === "elite" && "bg-purple-100 text-purple-800 dark:bg-purple-500/20 dark:text-purple-300 ring-1 ring-purple-300 dark:ring-purple-400/30",
+        tier === "veteran" && "bg-blue-100 text-blue-800 dark:bg-blue-500/20 dark:text-blue-300 ring-1 ring-blue-300 dark:ring-blue-400/30",
+        tier === "active" && "bg-emerald-100 text-emerald-800 dark:bg-emerald-500/20 dark:text-emerald-300 ring-1 ring-emerald-300 dark:ring-emerald-400/30",
+        tier === "regular" && "bg-gray-100 text-gray-600 dark:bg-gray-500/10 dark:text-gray-400",
+        tier === "beginner" && "bg-gray-50 text-gray-500 dark:bg-gray-500/5 dark:text-gray-400",
       )}
     >
       {tier}
@@ -102,6 +103,16 @@ export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
               >
                 {entry.username}
               </Link>
+              <a
+                href={entry.links.github}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={(e) => e.stopPropagation()}
+                className="inline-flex items-center justify-center shrink-0 rounded-md transition-all hover:scale-110 active:scale-95 text-muted-foreground hover:text-foreground"
+                title={`${entry.username} on GitHub`}
+              >
+                <Github className="h-3.5 w-3.5" />
+              </a>
               <DinqLink username={entry.username} />
             </div>
             {entry.focusAreas.length > 0 && (
@@ -146,7 +157,7 @@ export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
 
       {/* Expanded details */}
       {expanded && (
-        <div className="border-t border-border/30 bg-accent/20 px-5 py-4 animate-fade-in">
+        <div className="border-t border-border/50 dark:border-border/30 bg-muted/40 dark:bg-accent/20 px-5 py-4 animate-fade-in">
           <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
             <ScoreDetail
               icon={GitPullRequest}
@@ -189,18 +200,12 @@ export function LeaderboardCard({ entry, rank }: LeaderboardCardProps) {
               href={entry.links.github}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-xs text-muted-foreground hover:text-foreground transition-colors"
+              className="inline-flex items-center justify-center text-muted-foreground hover:text-foreground transition-all hover:scale-110"
+              title="GitHub"
             >
-              GitHub ↗
+              <Github className="h-4 w-4" />
             </a>
-            <a
-              href={`https://analysis.dinq.me/github?user=${entry.username}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-xs text-muted-foreground hover:text-foreground transition-colors"
-            >
-              DINQ ↗
-            </a>
+            <DinqLink username={entry.username} />
           </div>
         </div>
       )}
@@ -223,7 +228,7 @@ function ScoreDetail({
 }) {
   return (
     <div className="flex items-center gap-2.5">
-      <div className={cn("flex h-8 w-8 items-center justify-center rounded-lg bg-card/80", color)}>
+      <div className={cn("flex h-8 w-8 items-center justify-center rounded-lg bg-background dark:bg-card/80", color)}>
         <Icon className="h-3.5 w-3.5" />
       </div>
       <div>

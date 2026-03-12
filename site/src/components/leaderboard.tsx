@@ -56,7 +56,7 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
       {/* Controls */}
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         {/* Tabs */}
-        <div className="inline-flex rounded-xl border border-border/60 bg-card/40 glass p-1 gap-0.5">
+        <div className="inline-flex rounded-xl border border-border bg-card p-1 gap-0.5 shadow-sm dark:shadow-none dark:border-border/60 dark:bg-card/40 dark:glass">
           {TABS.map((tab) => {
             const count = dataMap[tab.id]?.totalUsers ?? 0;
             return (
@@ -66,11 +66,11 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
                 className={`inline-flex items-center gap-1.5 rounded-lg px-4 py-2 text-sm font-medium transition-all ${
                   period === tab.id
                     ? "bg-primary text-primary-foreground shadow-md shadow-primary/20"
-                    : "text-muted-foreground hover:text-foreground hover:bg-accent/60"
+                    : "text-muted-foreground hover:text-foreground hover:bg-accent"
                 }`}
               >
                 <tab.icon className="h-3.5 w-3.5" />
-                <span className="font-display font-semibold">{tab.label}</span>
+                <span className="font-semibold">{tab.label}</span>
                 {count > 0 && (
                   <span
                     className={`ml-1 rounded-full px-1.5 py-0.5 text-[10px] font-bold ${
@@ -98,15 +98,15 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
               setSearch(e.target.value);
               setPage(1);
             }}
-            className="h-10 w-full rounded-xl border border-border/60 bg-card/40 glass pl-9 pr-3 text-sm placeholder:text-muted-foreground/60 focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary/40 transition-all sm:w-72"
+            className="h-10 w-full rounded-xl border border-border bg-card pl-9 pr-3 text-sm shadow-sm dark:shadow-none dark:border-border/60 dark:bg-card/40 dark:glass placeholder:text-muted-foreground/60 focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary/40 transition-all sm:w-72"
           />
         </div>
       </div>
 
       {/* Table */}
-      <div className="rounded-xl border border-border/60 bg-card/40 glass overflow-hidden">
+      <div className="rounded-xl border border-border bg-card shadow-sm dark:shadow-none dark:border-border/60 dark:bg-card/40 dark:glass overflow-hidden">
         {/* Table Header */}
-        <div className="grid h-11 grid-cols-[3rem_2fr_5rem_5rem_1fr] items-center border-b border-border/40 bg-muted/30 px-4 text-[10px] font-bold uppercase tracking-[0.15em] text-muted-foreground">
+        <div className="grid h-11 grid-cols-[3rem_2fr_5rem_5rem_1fr] items-center border-b border-border dark:border-border/40 bg-muted/50 dark:bg-muted/30 px-4 text-[10px] font-bold uppercase tracking-[0.15em] text-muted-foreground">
           <span>#</span>
           <span>Contributor</span>
           <span className="text-center">Tier</span>
@@ -116,7 +116,7 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
 
         {/* Rows */}
         {paginated.length > 0 ? (
-          <div className="divide-y divide-border/30">
+          <div className="divide-y divide-border/50 dark:divide-border/30">
             {paginated.map((entry, i) => (
               <LeaderboardCard
                 key={entry.username}
@@ -146,7 +146,7 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
             <button
               onClick={() => setPage(Math.max(1, page - 1))}
               disabled={page === 1}
-              className="rounded-lg border border-border/60 bg-card/40 glass px-3 py-1.5 text-sm font-medium disabled:opacity-30 hover:bg-accent transition-all"
+              className="rounded-lg border border-border bg-card px-3 py-1.5 text-sm font-medium shadow-sm dark:shadow-none dark:border-border/60 dark:bg-card/40 dark:glass disabled:opacity-30 hover:bg-accent transition-all"
             >
               ←
             </button>
@@ -168,7 +168,7 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
                   className={`rounded-lg border px-3 py-1.5 text-sm font-medium transition-all ${
                     page === pageNum
                       ? "border-primary bg-primary text-primary-foreground shadow-md shadow-primary/20"
-                      : "border-border/60 bg-card/40 hover:bg-accent"
+                      : "border-border bg-card shadow-sm dark:shadow-none dark:border-border/60 dark:bg-card/40 hover:bg-accent"
                   }`}
                 >
                   {pageNum}
@@ -178,7 +178,7 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
             <button
               onClick={() => setPage(Math.min(totalPages, page + 1))}
               disabled={page === totalPages}
-              className="rounded-lg border border-border/60 bg-card/40 glass px-3 py-1.5 text-sm font-medium disabled:opacity-30 hover:bg-accent transition-all"
+              className="rounded-lg border border-border bg-card px-3 py-1.5 text-sm font-medium shadow-sm dark:shadow-none dark:border-border/60 dark:bg-card/40 dark:glass disabled:opacity-30 hover:bg-accent transition-all"
             >
               →
             </button>

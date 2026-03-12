@@ -90,6 +90,7 @@ interface CommitStats {
   monthlyAdditions: number;
   monthlyDeletions: number;
   monthlyCommits: number;
+  dailyCounts: Record<string, number>;
 }
 
 async function main() {
@@ -104,7 +105,7 @@ async function main() {
   let cursor: string | null = null;
   let page = 0;
   let totalCommits = 0;
-  const MAX_PAGES = 150;
+  const MAX_PAGES = 300;
 
   while (page < MAX_PAGES) {
     page++;
@@ -143,6 +144,7 @@ async function main() {
           totalAdditions: 0, totalDeletions: 0, totalChangedFiles: 0, totalCommits: 0,
           weeklyAdditions: 0, weeklyDeletions: 0, weeklyCommits: 0,
           monthlyAdditions: 0, monthlyDeletions: 0, monthlyCommits: 0,
+          dailyCounts: {},
         });
       }
       const s = userCommits.get(login)!;
@@ -151,6 +153,9 @@ async function main() {
       s.totalDeletions += c.deletions || 0;
       s.totalChangedFiles += c.changedFilesIfAvailable || 0;
       s.totalCommits++;
+
+      const day = c.committedDate.slice(0, 10);
+      s.dailyCounts[day] = (s.dailyCounts[day] || 0) + 1;
 
       if (c.committedDate >= weekAgo) {
         s.weeklyAdditions += c.additions || 0;
@@ -199,6 +204,13 @@ async function main() {
       profile.period.monthly.commitDeletions = cd.monthlyDeletions;
       profile.period.monthly.commits = cd.monthlyCommits;
 
+      const recent: Record<string, number> = {};
+      const sixtyDaysAgo = new Date(now.getTime() - 60 * 86400000).toISOString().slice(0, 10);
+      for (const [day, count] of Object.entries(cd.dailyCounts)) {
+        if (day >= sixtyDaysAgo) recent[day] = count;
+      }
+      profile.recentCommitDays = recent;
+
       updated++;
     } else {
       profile.stats.commitAdditions = profile.stats.commitAdditions || 0;
@@ -210,6 +222,7 @@ async function main() {
       profile.period.monthly.commitAdditions = profile.period.monthly.commitAdditions || 0;
       profile.period.monthly.commitDeletions = profile.period.monthly.commitDeletions || 0;
       profile.period.monthly.commits = profile.period.monthly.commits || 0;
+      if (!profile.recentCommitDays) profile.recentCommitDays = {};
     }
 
     writeFileSync(path, JSON.stringify(profile, null, 2));
