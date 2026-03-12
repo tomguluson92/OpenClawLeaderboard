@@ -31,6 +31,7 @@ import {
   ChevronRight,
 } from "lucide-react";
 import { DinqLink } from "./dinq-link";
+import ReactMarkdown from "react-markdown";
 
 interface ProfileData {
   username: string;
@@ -116,6 +117,7 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
   const [aiSummary, setAiSummary] = useState<string | null>(null);
   const [summaryLoading, setSummaryLoading] = useState(false);
   const [summaryError, setSummaryError] = useState<string | null>(null);
+  const [summaryExpanded, setSummaryExpanded] = useState(false);
 
   useEffect(() => {
     setSummaryLoading(true);
@@ -201,11 +203,6 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
               <div className="mt-1.5 flex flex-wrap items-center gap-2">
                 <span className="text-sm font-medium text-muted-foreground">{profile.characterClass}</span>
               </div>
-              {profile.firstContribution && (
-                <div className="mt-1.5 text-xs text-muted-foreground/70">
-                  Contributing since {formatDate(profile.firstContribution)}
-                </div>
-              )}
             </div>
           </div>
           <div className="text-right">
@@ -218,16 +215,35 @@ export function ProfileView({ profile }: { profile: ProfileData }) {
       </div>
 
       {/* AI Summary */}
-      <Section title="Summary" icon={Sparkles} delay={1}>
+      <Section title="AI Analysis" icon={Sparkles} delay={1} action={
+        !summaryLoading && !summaryError && aiSummary ? (
+          <button
+            onClick={() => setSummaryExpanded(!summaryExpanded)}
+            className="rounded-lg border border-border bg-muted px-3 py-1.5 text-xs font-semibold text-foreground shadow-sm transition-all hover:bg-accent hover:scale-105 active:scale-95 dark:bg-card dark:shadow-none"
+          >
+            {summaryExpanded ? "Show less" : "Show more"}
+          </button>
+        ) : null
+      }>
         {summaryLoading ? (
           <div className="flex items-center gap-2.5 text-sm text-muted-foreground">
             <Loader2 className="h-4 w-4 animate-spin text-primary" />
-            <span>Generating AI analysis...</span>
+            <span>Generating detailed analysis...</span>
           </div>
         ) : summaryError ? (
-          <p className="text-sm text-muted-foreground/70 italic">Unable to generate summary.</p>
+          <p className="text-sm text-muted-foreground/70 italic">Unable to generate analysis.</p>
         ) : (
-          <p className="text-sm leading-relaxed text-foreground/90">{aiSummary}</p>
+          <div className="relative">
+            <div className={cn(
+              "prose prose-sm dark:prose-invert max-w-none prose-headings:font-display prose-h2:text-base prose-h2:font-bold prose-h2:mt-5 prose-h2:mb-2 prose-h2:border-b prose-h2:border-border/50 prose-h2:pb-1.5 prose-h3:text-sm prose-h3:font-semibold prose-h3:mt-3 prose-h3:mb-1 prose-p:text-[13px] prose-p:leading-relaxed prose-p:text-foreground/85 prose-li:text-[13px] prose-li:leading-relaxed prose-strong:text-foreground prose-code:text-primary prose-code:bg-primary/10 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-xs prose-code:font-normal prose-code:before:content-none prose-code:after:content-none prose-ul:my-1.5 prose-li:my-0.5 overflow-hidden transition-[max-height] duration-300",
+              summaryExpanded ? "max-h-[5000px]" : "max-h-[280px]",
+            )}>
+              <ReactMarkdown>{aiSummary || ""}</ReactMarkdown>
+            </div>
+            {!summaryExpanded && (
+              <div className="pointer-events-none absolute bottom-0 left-0 right-0 h-16 bg-gradient-to-t from-card to-transparent dark:from-[rgba(14,18,30,0.7)]" />
+            )}
+          </div>
         )}
       </Section>
 
@@ -396,12 +412,14 @@ function Section({
   icon: Icon,
   count,
   delay,
+  action,
   children,
 }: {
   title: string;
   icon: typeof Trophy;
   count?: number;
   delay?: number;
+  action?: React.ReactNode;
   children: React.ReactNode;
 }) {
   return (
@@ -420,6 +438,7 @@ function Section({
             {count}
           </span>
         )}
+        {action && <div className="ml-auto">{action}</div>}
       </div>
       {children}
     </div>
@@ -463,10 +482,10 @@ function BigStat({
 }) {
   return (
     <div>
-      <div className={cn("font-display text-2xl font-extrabold tabular-nums sm:text-3xl tracking-tight", accent)}>
+      <div className={cn("font-sans text-xl font-bold tabular-nums sm:text-2xl tracking-tight", accent)}>
         {prefix}{fmtNum(value)}
       </div>
-      <div className="text-[10px] font-medium text-muted-foreground uppercase tracking-wider mt-0.5">{label}</div>
+      <div className="text-[10px] font-medium text-muted-foreground uppercase tracking-wide mt-0.5">{label}</div>
     </div>
   );
 }
