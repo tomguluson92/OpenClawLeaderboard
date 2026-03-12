@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { ThemeToggle } from "./theme-toggle";
 import { Github, ExternalLink } from "lucide-react";
 
@@ -9,13 +10,17 @@ export function Navigation() {
     <header className="sticky top-0 z-50 border-b border-border bg-background/95 dark:bg-background/70 dark:glass">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5">
         <Link href="/" className="group flex items-center gap-3">
-          <span className="text-3xl transition-transform group-hover:scale-110 group-hover:-rotate-6">🦞</span>
-          <div className="flex items-baseline gap-2">
-            <span className="font-display text-xl font-bold tracking-tight">OpenClaw</span>
-            <span className="text-muted-foreground text-xs font-medium tracking-widest uppercase hidden sm:inline">
-              Leaderboard
-            </span>
-          </div>
+          <Image
+            src="/logo.png"
+            alt="OpenClaw"
+            width={140}
+            height={36}
+            className="h-9 w-auto transition-transform group-hover:scale-105 dark:invert"
+            priority
+          />
+          <span className="text-muted-foreground text-xs font-medium tracking-widest uppercase hidden sm:inline">
+            Leaderboard
+          </span>
         </Link>
         <div className="flex items-center gap-2.5">
           <a
