@@ -121,7 +121,7 @@ export function Leaderboard({ lifetime, monthly, weekly }: LeaderboardProps) {
               <LeaderboardCard
                 key={entry.username}
                 entry={entry}
-                rank={search ? i + 1 : (page - 1) * perPage + i + 1}
+                rank={search ? i + 1 : entry.rank}
               />
             ))}
           </div>
