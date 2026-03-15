@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?u=531c607e0da8ba47a4c9a9c6ff818f6642f27258&v=4",
   "githubUrl": "https://github.com/cathrynlavery",
   "score": {
-    "score": 90.36,
-    "prScore": 58.36,
-    "issueScore": 13,
-    "reviewScore": 18,
-    "commentScore": 1
+    "score": 165.62,
+    "prScore": 140.12,
+    "issueScore": 0,
+    "reviewScore": 24,
+    "commentScore": 1.5
   },
   "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 799,
-    "prDeletions": 32,
-    "prChangedFiles": 15,
+    "prAdditions": 1535,
+    "prDeletions": 49,
+    "prChangedFiles": 53,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
-    "reviews": 6,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 3,
     "commitAdditions": 175,
     "commitDeletions": 3,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
-      "reviews": 6,
-      "comments": 0,
+      "reviews": 2,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
-      "issues": 2,
-      "reviews": 6,
-      "comments": 2,
-      "commitAdditions": 175,
-      "commitDeletions": 3,
-      "commits": 2
+      "prs": 4,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 3,
+      "commitAdditions": 98,
+      "commitDeletions": 1,
+      "commits": 1
     }
   },
-  "firstContribution": "2026-03-02T17:05:46Z",
-  "lastContribution": "2026-03-06T02:32:56Z",
+  "firstContribution": "2026-03-05T22:41:59Z",
+  "lastContribution": "2026-03-14T15:00:49Z",
   "recentPRs": [
+    {
+      "number": 46258,
+      "title": "Add Telegram ack reaction timing control",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T14:56:13Z",
+      "mergedAt": null,
+      "additions": 290,
+      "deletions": 17,
+      "changedFiles": 15
+    },
+    {
+      "number": 45449,
+      "title": "discord: add optional run-start timing for ack reactions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T20:48:23Z",
+      "mergedAt": null,
+      "additions": 133,
+      "deletions": 10,
+      "changedFiles": 9
+    },
+    {
+      "number": 45421,
+      "title": "slack: add optional run-start timing for ack reactions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T19:51:34Z",
+      "mergedAt": null,
+      "additions": 352,
+      "deletions": 3,
+      "changedFiles": 17
+    },
     {
       "number": 36815,
       "title": "Skills: add optional index-first loading for skill discovery",
@@ -64,47 +95,20 @@
       "additions": 760,
       "deletions": 19,
       "changedFiles": 12
-    },
-    {
-      "number": 32158,
-      "title": "fix(exec): escape regex metacharacters in allowlist path matching",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T20:41:22Z",
-      "mergedAt": null,
-      "additions": 21,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 32089,
-      "title": "fix(slack): guard message.channels/groups registration against Bolt 4.6.0",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T19:25:55Z",
-      "mergedAt": null,
-      "additions": 18,
-      "deletions": 12,
-      "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 32088,
-      "title": "fix(slack): All Slack channels crash on startup with Bolt 4.6.0 \u2014 message.channels is not a valid event type",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T19:25:42Z",
-      "closedAt": null
-    },
-    {
-      "number": 31945,
-      "title": "BlueBubbles webhook POST returns 405 Method Not Allowed (regression in 2026.3.1)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T17:05:46Z",
-      "closedAt": "2026-03-03T00:11:25Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 45449,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T21:13:24Z"
+    },
+    {
+      "prNumber": 45421,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T20:13:51Z"
+    },
     {
       "prNumber": 36815,
       "state": "COMMENTED",
@@ -136,38 +140,36 @@
       "createdAt": "2026-03-05T22:54:03Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-02-27": 1,
-    "2026-02-12": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-05": {
       "prs": 1,
       "issues": 0,
       "reviews": 4
-    },
-    "2026-03-02": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 0
     },
     "2026-03-06": {
       "prs": 0,
       "issues": 0,
       "reviews": 2
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-27": 1,
+    "2026-02-12": 1
   }
 }

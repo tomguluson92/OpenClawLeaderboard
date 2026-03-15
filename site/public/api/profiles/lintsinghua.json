@@ -1,0 +1,172 @@
+{
+  "username": "lintsinghua",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/129816813?u=08f8f7715d1b1a82f2d662adb541a23415bb1710&v=4",
+  "githubUrl": "https://github.com/lintsinghua",
+  "score": {
+    "score": 67.79,
+    "prScore": 37.79,
+    "issueScore": 0,
+    "reviewScore": 30,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 213,
+    "prDeletions": 16,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 10,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 10,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 10,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T07:16:11Z",
+  "lastContribution": "2026-03-14T08:32:09Z",
+  "recentPRs": [
+    {
+      "number": 45832,
+      "title": "fix(web): reject symlinks on WhatsApp credential files",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T07:18:31Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 45831,
+      "title": "fix(media): use readLocalFileSafely in attachment cache",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T07:17:33Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 45829,
+      "title": "fix(tlon): enforce media download size limit",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T07:16:47Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 7,
+      "changedFiles": 1
+    },
+    {
+      "number": 45828,
+      "title": "fix(auto-reply): cap inbound debounce buffer keys",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T07:16:11Z",
+      "mergedAt": null,
+      "additions": 102,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 45828,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T08:32:09Z"
+    },
+    {
+      "prNumber": 45828,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T07:42:57Z"
+    },
+    {
+      "prNumber": 45832,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T07:38:37Z"
+    },
+    {
+      "prNumber": 45832,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T07:38:35Z"
+    },
+    {
+      "prNumber": 45829,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T07:37:11Z"
+    },
+    {
+      "prNumber": 45829,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T07:37:09Z"
+    },
+    {
+      "prNumber": 45831,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T07:35:59Z"
+    },
+    {
+      "prNumber": 45828,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T07:33:11Z"
+    },
+    {
+      "prNumber": 45828,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T07:33:09Z"
+    },
+    {
+      "prNumber": 45828,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T07:33:08Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 10
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {}
+}

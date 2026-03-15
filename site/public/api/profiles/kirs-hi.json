@@ -1,0 +1,250 @@
+{
+  "username": "kirs-hi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61608580?v=4",
+  "githubUrl": "https://github.com/kirs-hi",
+  "score": {
+    "score": 179.4,
+    "prScore": 93.4,
+    "issueScore": 0,
+    "reviewScore": 81,
+    "commentScore": 5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 1232,
+    "prDeletions": 27,
+    "prChangedFiles": 24,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 27,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 27,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 27,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T18:42:05Z",
+  "lastContribution": "2026-03-14T08:35:26Z",
+  "recentPRs": [
+    {
+      "number": 45602,
+      "title": "fix(ui): /status slash command requires two Enter presses (#45569)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T01:35:10Z",
+      "mergedAt": null,
+      "additions": 258,
+      "deletions": 10,
+      "changedFiles": 8
+    },
+    {
+      "number": 45417,
+      "title": "fix(tui): live-tail inbound user messages in --session mode (#45388)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T19:43:23Z",
+      "mergedAt": null,
+      "additions": 155,
+      "deletions": 1,
+      "changedFiles": 6
+    },
+    {
+      "number": 45405,
+      "title": "fix(gateway): honour dangerouslyDisableDeviceAuth for remote WS connections (#45398)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T19:21:05Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 45397,
+      "title": "fix(config): prevent ANTHROPIC_MODEL_ALIASES TDZ ReferenceError on config load (#45368)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T19:13:52Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 45393,
+      "title": "fix(errors): friendly message and last-message repair for tool_use/tool_result mismatch (#45385)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T19:03:21Z",
+      "mergedAt": null,
+      "additions": 378,
+      "deletions": 15,
+      "changedFiles": 6
+    },
+    {
+      "number": 45383,
+      "title": "fix(security): wrap inbound media file content to prevent prompt injection (#11207)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T18:42:05Z",
+      "mergedAt": null,
+      "additions": 394,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 45383,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T08:35:26Z"
+    },
+    {
+      "prNumber": 45602,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T08:35:15Z"
+    },
+    {
+      "prNumber": 45417,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T08:09:32Z"
+    },
+    {
+      "prNumber": 45417,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T04:03:45Z"
+    },
+    {
+      "prNumber": 45602,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:21:22Z"
+    },
+    {
+      "prNumber": 45393,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:18:54Z"
+    },
+    {
+      "prNumber": 45602,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:56Z"
+    },
+    {
+      "prNumber": 45602,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:55Z"
+    },
+    {
+      "prNumber": 45602,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:53Z"
+    },
+    {
+      "prNumber": 45417,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:52Z"
+    },
+    {
+      "prNumber": 45417,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:51Z"
+    },
+    {
+      "prNumber": 45417,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:49Z"
+    },
+    {
+      "prNumber": 45405,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:29Z"
+    },
+    {
+      "prNumber": 45405,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:28Z"
+    },
+    {
+      "prNumber": 45397,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:27Z"
+    },
+    {
+      "prNumber": 45397,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:25Z"
+    },
+    {
+      "prNumber": 45393,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:08Z"
+    },
+    {
+      "prNumber": 45393,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:06Z"
+    },
+    {
+      "prNumber": 45393,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:05Z"
+    },
+    {
+      "prNumber": 45383,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:01:04Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 20
+    },
+    "2026-03-13": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 7
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {}
+}

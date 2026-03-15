@@ -3,10 +3,10 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1169376?v=4",
   "githubUrl": "https://github.com/trothe",
   "score": {
-    "score": 55.58,
-    "prScore": 49.58,
+    "score": 59.07,
+    "prScore": 50.07,
     "issueScore": 0,
-    "reviewScore": 6,
+    "reviewScore": 9,
     "commentScore": 0
   },
   "tier": "regular",
@@ -15,27 +15,25 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 562,
-    "prDeletions": 71,
+    "prAdditions": 609,
+    "prDeletions": 72,
     "prChangedFiles": 22,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 2,
+      "reviews": 3,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -44,7 +42,7 @@
     "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 2,
+      "reviews": 3,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -52,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-10T21:33:58Z",
-  "lastContribution": "2026-03-12T02:37:28Z",
+  "lastContribution": "2026-03-12T20:13:52Z",
   "recentPRs": [
     {
       "number": 42512,
@@ -61,13 +59,18 @@
       "merged": false,
       "createdAt": "2026-03-10T21:33:58Z",
       "mergedAt": null,
-      "additions": 562,
-      "deletions": 71,
+      "additions": 609,
+      "deletions": 72,
       "changedFiles": 22
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 42512,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:13:52Z"
+    },
     {
       "prNumber": 42512,
       "state": "COMMENTED",
@@ -79,12 +82,6 @@
       "createdAt": "2026-03-10T22:03:44Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
@@ -94,7 +91,13 @@
     "2026-03-12": {
       "prs": 0,
       "issues": 0,
-      "reviews": 1
+      "reviews": 2
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

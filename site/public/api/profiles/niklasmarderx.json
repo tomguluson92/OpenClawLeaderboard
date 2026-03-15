@@ -1,0 +1,110 @@
+{
+  "username": "niklasmarderx",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/151025855?v=4",
+  "githubUrl": "https://github.com/niklasmarderx",
+  "score": {
+    "score": 25.23,
+    "prScore": 18.23,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 31,
+    "prDeletions": 2,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T17:00:25Z",
+  "lastContribution": "2026-03-15T00:48:28Z",
+  "recentPRs": [
+    {
+      "number": 46619,
+      "title": "fix(completion): guard compdef with compinit autoload for zsh",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T22:25:13Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 46610,
+      "title": "fix(agent): skip block replies for commentary-phase messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T22:04:33Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 2,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 46610,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T00:48:28Z"
+    },
+    {
+      "prNumber": 46608,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T22:07:53Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

@@ -1,59 +1,90 @@
 {
   "username": "qiuyuemartin-max",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/263818784?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/263818784?u=6fc8748a2b635d957e13a2d828bfafc55674f2ce&v=4",
   "githubUrl": "https://github.com/qiuyuemartin-max",
   "score": {
-    "score": 435.53,
-    "prScore": 376.53,
-    "issueScore": 15,
+    "score": 414.71,
+    "prScore": 365.71,
+    "issueScore": 0,
     "reviewScore": 4,
-    "commentScore": 40
+    "commentScore": 45
   },
   "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 38,
+    "prs": 36,
     "prsMerged": 1,
-    "prAdditions": 1144,
-    "prDeletions": 133,
-    "prChangedFiles": 60,
+    "prAdditions": 1459,
+    "prDeletions": 125,
+    "prChangedFiles": 57,
     "prMergeRate": 3,
-    "issues": 3,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 1,
     "reviewsChangesRequested": 0,
-    "comments": 80,
+    "comments": 90,
     "commitAdditions": 18,
     "commitDeletions": 2,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 32,
+      "prs": 10,
       "issues": 0,
-      "reviews": 1,
-      "comments": 67,
-      "commitAdditions": 18,
-      "commitDeletions": 2,
-      "commits": 1
+      "reviews": 0,
+      "comments": 40,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 38,
-      "issues": 3,
+      "prs": 36,
+      "issues": 0,
       "reviews": 1,
-      "comments": 80,
+      "comments": 90,
       "commitAdditions": 18,
       "commitDeletions": 2,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-02T14:35:34Z",
-  "lastContribution": "2026-03-11T10:13:16Z",
+  "firstContribution": "2026-03-03T10:57:21Z",
+  "lastContribution": "2026-03-14T12:26:22Z",
   "recentPRs": [
+    {
+      "number": 45228,
+      "title": "docs(subagents): fix bootstrap file injection list (5 files, not 2)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T15:14:01Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44535,
+      "title": "fix(discord): add text-based mention fallback for thread messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T02:03:23Z",
+      "mergedAt": null,
+      "additions": 263,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44287,
+      "title": "fix(telegram): guard against invalid Windows path in command hash cache",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T18:01:47Z",
+      "mergedAt": null,
+      "additions": 157,
+      "deletions": 3,
+      "changedFiles": 2
+    },
     {
       "number": 40060,
       "title": "fix(feishu): fix TypeScript type error in audio tests (improves #37951)",
@@ -68,7 +99,7 @@
     {
       "number": 40027,
       "title": "fix(session-store): display token usage for promptTokens-only providers",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T15:48:20Z",
       "mergedAt": null,
@@ -79,7 +110,7 @@
     {
       "number": 40025,
       "title": "fix(control-ui): send deviceToken in auth for signature verification",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T15:47:34Z",
       "mergedAt": null,
@@ -145,7 +176,7 @@
     {
       "number": 38529,
       "title": "fix(memory): honor HTTP_PROXY/HTTPS_PROXY for remote embedding APIs",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-07T03:24:50Z",
       "mergedAt": null,
@@ -211,7 +242,7 @@
     {
       "number": 37703,
       "title": "fix: preserve text after unclosed <think> tags",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T11:24:19Z",
       "mergedAt": null,
@@ -240,64 +271,9 @@
       "additions": 58,
       "deletions": 15,
       "changedFiles": 1
-    },
-    {
-      "number": 37570,
-      "title": "fix(windows): handle spaces in Node.js path for plugin install",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T09:41:06Z",
-      "mergedAt": null,
-      "additions": 14,
-      "deletions": 3,
-      "changedFiles": 1
-    },
-    {
-      "number": 37191,
-      "title": "fix(exec): allow bash scripts to respect \"Always allow\" allowlist",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T04:48:16Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 37134,
-      "title": "fix(telegram): support negative IDs in groupAllowFrom (#36753)",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-06T03:54:28Z",
-      "mergedAt": "2026-03-08T00:27:25Z",
-      "additions": 18,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 31787,
-      "title": "[Feature] Automatic session compaction and context length management",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T14:40:12Z",
-      "closedAt": null
-    },
-    {
-      "number": 31785,
-      "title": "[Bug] Feishu plugin fails to load due to /tmp/jiti permissions on Linux",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T14:39:46Z",
-      "closedAt": null
-    },
-    {
-      "number": 31781,
-      "title": "Enhanced Context Management for Long-Running Conversations",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T14:35:34Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 35091,
@@ -305,10 +281,41 @@
       "createdAt": "2026-03-06T09:18:39Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-05": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
@@ -321,36 +328,9 @@
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
   ],
   "recentCommitDays": {
     "2026-03-08": 1
-  },
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 11,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 3,
-      "reviews": 0
-    }
   }
 }

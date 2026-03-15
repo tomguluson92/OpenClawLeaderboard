@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/43112759?u=7defe42a435cad9fde261ed0581a6d61fffac7e2&v=4",
   "githubUrl": "https://github.com/davidbordenwi",
   "score": {
-    "score": 35.03,
+    "score": 29.03,
     "prScore": 18.03,
-    "issueScore": 15,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 1
   },
   "tier": "beginner",
   "characterClass": "Hunter",
@@ -19,20 +19,27 @@
     "prDeletions": 16,
     "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 2,
       "issues": 2,
       "reviews": 0,
@@ -40,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 2,
-      "issues": 3,
-      "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-01T16:07:49Z",
+  "firstContribution": "2026-03-07T14:52:07Z",
   "lastContribution": "2026-03-08T19:38:15Z",
   "recentPRs": [
     {
@@ -68,7 +66,7 @@
     {
       "number": 38969,
       "title": "fix(discord): use globalThis singleton for component registry Maps",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-07T15:42:38Z",
       "mergedAt": null,
@@ -87,27 +85,13 @@
     },
     {
       "number": 38940,
-      "title": "Discord components v2: component registry fix #30789 closed without explanation \u2014 what's the path forward?",
+      "title": "Discord components v2: component registry fix #30789 closed without explanation — what's the path forward?",
       "state": "OPEN",
       "createdAt": "2026-03-07T14:52:07Z",
-      "closedAt": null
-    },
-    {
-      "number": 30772,
-      "title": "Discord components via message tool: buttons expire immediately on click",
-      "state": "OPEN",
-      "createdAt": "2026-03-01T16:07:49Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 2,
@@ -118,11 +102,13 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-01": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

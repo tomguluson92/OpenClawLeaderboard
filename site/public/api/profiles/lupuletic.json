@@ -1,10 +1,10 @@
 {
   "username": "lupuletic",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/105351510?u=4a23b47e644f6bd0c099e06d47bad45d68914039&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/105351510?v=4",
   "githubUrl": "https://github.com/lupuletic",
   "score": {
-    "score": 204.46,
-    "prScore": 179.46,
+    "score": 222.54,
+    "prScore": 197.54,
     "issueScore": 0,
     "reviewScore": 24,
     "commentScore": 1
@@ -12,24 +12,22 @@
   "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
-    "commits": 0,
+    "commits": 2,
     "prs": 10,
-    "prsMerged": 0,
-    "prAdditions": 1591,
-    "prDeletions": 121,
-    "prChangedFiles": 49,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 1725,
+    "prDeletions": 132,
+    "prChangedFiles": 53,
+    "prMergeRate": 10,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "commitAdditions": 194,
+    "commitDeletions": 19,
+    "commitChangedFiles": 6
   },
   "period": {
     "weekly": {
@@ -37,18 +35,18 @@
       "issues": 0,
       "reviews": 8,
       "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 194,
+      "commitDeletions": 19,
+      "commits": 2
     },
     "monthly": {
       "prs": 10,
       "issues": 0,
       "reviews": 8,
       "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 194,
+      "commitDeletions": 19,
+      "commits": 2
     }
   },
   "firstContribution": "2026-03-08T10:00:02Z",
@@ -134,13 +132,13 @@
     {
       "number": 39820,
       "title": "fix(agents): normalize 429/RESOURCE_EXHAUSTED into failover errors",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-08T12:23:10Z",
-      "mergedAt": null,
-      "additions": 190,
-      "deletions": 15,
-      "changedFiles": 4
+      "mergedAt": "2026-03-14T06:25:05Z",
+      "additions": 324,
+      "deletions": 26,
+      "changedFiles": 8
     },
     {
       "number": 39729,
@@ -208,19 +206,6 @@
       "createdAt": "2026-03-09T22:51:19Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
@@ -237,5 +222,21 @@
       "issues": 0,
       "reviews": 1
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-14": 2
   }
 }

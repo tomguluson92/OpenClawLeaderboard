@@ -3,69 +3,126 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/866535?v=4",
   "githubUrl": "https://github.com/sibbl",
   "score": {
-    "score": 117.6,
-    "prScore": 117.1,
+    "score": 199.97,
+    "prScore": 184.47,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 15,
     "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Maintainer",
   "stats": {
-    "commits": 5,
-    "prs": 0,
-    "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
-    "prMergeRate": 0,
+    "commits": 6,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 6067,
+    "prDeletions": 269,
+    "prChangedFiles": 66,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 1,
-    "commitAdditions": 1939,
-    "commitDeletions": 683,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 39
+    "commitAdditions": 2276,
+    "commitDeletions": 938,
+    "commitChangedFiles": 53
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 5,
       "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 337,
+      "commitDeletions": 255,
+      "commits": 1
     },
     "monthly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 5,
       "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 337,
+      "commitDeletions": 255,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-09T15:01:37Z",
-  "lastContribution": "2026-03-09T15:01:37Z",
-  "recentPRs": [],
+  "lastContribution": "2026-03-14T19:03:15Z",
+  "recentPRs": [
+    {
+      "number": 46279,
+      "title": "feat(android): add Wear OS app MVP",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T15:22:14Z",
+      "mergedAt": null,
+      "additions": 5730,
+      "deletions": 14,
+      "changedFiles": 52
+    },
+    {
+      "number": 46249,
+      "title": "feat(android): add dark theme",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T14:47:17Z",
+      "mergedAt": "2026-03-15T03:05:05Z",
+      "additions": 337,
+      "deletions": 255,
+      "changedFiles": 14
+    }
+  ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 46279,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T19:03:15Z"
+    },
+    {
+      "prNumber": 46279,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T19:03:07Z"
+    },
+    {
+      "prNumber": 46279,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T17:04:13Z"
+    },
+    {
+      "prNumber": 46279,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:24:13Z"
+    },
+    {
+      "prNumber": 46279,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:23:57Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5
+    }
+  },
   "skills": [
+    "Pull Requests",
+    "Code Review",
     "Discussion",
-    "Direct Commits"
+    "Direct Commits",
+    "Large-Scale Changes"
   ],
   "achievements": [],
   "recentCommitDays": {
+    "2026-03-15": 1,
     "2026-01-23": 1,
     "2026-01-20": 1,
     "2026-01-18": 1,
     "2026-01-17": 2
-  },
-  "recentActivityDays": {}
+  }
 }

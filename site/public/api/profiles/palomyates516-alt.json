@@ -3,61 +3,202 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/231502129?v=4",
   "githubUrl": "https://github.com/palomyates516-alt",
   "score": {
-    "score": 231.19,
-    "prScore": 224.69,
+    "score": 308.7,
+    "prScore": 303.2,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 6.5
+    "commentScore": 5.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 12,
+    "prs": 23,
     "prsMerged": 0,
-    "prAdditions": 147,
-    "prDeletions": 11693,
-    "prChangedFiles": 61,
+    "prAdditions": 757,
+    "prDeletions": 12339,
+    "prChangedFiles": 86,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
+    "comments": 11,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 10,
+      "prs": 16,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 8,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 23,
       "issues": 0,
       "reviews": 0,
       "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 12,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T02:00:24Z",
-  "lastContribution": "2026-03-10T11:01:54Z",
+  "firstContribution": "2026-03-06T08:13:44Z",
+  "lastContribution": "2026-03-14T01:00:14Z",
   "recentPRs": [
+    {
+      "number": 45579,
+      "title": "fix(utils): preserve indentation after stripping inline directive tags",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T01:00:14Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 19,
+      "changedFiles": 2
+    },
+    {
+      "number": 45578,
+      "title": "fix(errors): detect tool_use_id mismatch and suggest /new",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T01:00:06Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 45577,
+      "title": "fix(cron): persist payload.fallbacks in cron.update API",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T01:00:01Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 44832,
+      "title": "fix(pi-embedded-helpers): handle tool_use_id mismatch errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T07:38:33Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 44816,
+      "title": "fix(daemon): try direct systemctl --user before --machine fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T07:29:48Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 20,
+      "changedFiles": 3
+    },
+    {
+      "number": 44644,
+      "title": "fix(onboard): sync api keys to sibling agents during onboarding",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T04:08:58Z",
+      "mergedAt": null,
+      "additions": 216,
+      "deletions": 100,
+      "changedFiles": 6
+    },
+    {
+      "number": 44628,
+      "title": "fix(infra): detect systemd service scope before restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T03:49:10Z",
+      "mergedAt": null,
+      "additions": 131,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 44612,
+      "title": "fix(docker): allow whitespace in OPENCLAW_CONFIG_DIR path",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T03:35:17Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 491,
+      "changedFiles": 4
+    },
+    {
+      "number": 44518,
+      "title": "fix(daemon): trigger SIGUSR1 in-process restart when scheduling launchd handoff",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T01:37:27Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44514,
+      "title": "fix(daemon): trigger SIGUSR1 in-process restart when scheduling launchd handoff",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T01:26:36Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44494,
+      "title": "fix(daemon): trigger SIGUSR1 in-process restart when scheduling launchd handoff",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T01:04:43Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44035,
+      "title": "fix(cron): avoid false positive legacy format detection in normalizePayloadKind",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T12:28:58Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 43995,
+      "title": "fix(daemon): wait for process exit during LaunchAgent reinstall",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T11:39:41Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 42069,
       "title": "fix(cron): expose missedJobStaggerMs and maxMissedJobsPerRestart in config",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T11:01:54Z",
       "mergedAt": null,
@@ -68,7 +209,7 @@
     {
       "number": 41611,
       "title": "fix(telegram): log delivery errors in reply dispatcher",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T02:06:59Z",
       "mergedAt": null,
@@ -130,79 +271,26 @@
       "additions": 67,
       "deletions": 2342,
       "changedFiles": 10
-    },
-    {
-      "number": 37468,
-      "title": "fix(control-ui): allow hardlinks for pnpm-installed static assets",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T08:38:52Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 2331,
-      "changedFiles": 9
-    },
-    {
-      "number": 37464,
-      "title": "fix(control-ui): allow hardlinks for pnpm-installed static assets",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T08:33:02Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 37450,
-      "title": "fix(discord): handle registerClient API errors gracefully to prevent gateway crashes",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T08:13:44Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 7,
-      "changedFiles": 2
-    },
-    {
-      "number": 34118,
-      "title": "fix(sandbox): resolve canonical path within validated mount boundary",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T07:35:44Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 33759,
-      "title": "fix(daemon): use correct service name for node install",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T02:00:24Z",
-      "mergedAt": null,
-      "additions": 3,
-      "deletions": 3,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 2,
       "issues": 0,
@@ -222,11 +310,19 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

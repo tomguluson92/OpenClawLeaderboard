@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/38006179?v=4",
   "githubUrl": "https://github.com/wmgx",
   "score": {
-    "score": 35.61,
+    "score": 40.61,
     "prScore": 35.61,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 19,
     "prChangedFiles": 16,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,14 +27,12 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -52,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-07T19:21:53Z",
-  "lastContribution": "2026-03-07T19:21:53Z",
+  "lastContribution": "2026-03-14T12:03:52Z",
   "recentPRs": [
     {
       "number": 39117,
@@ -66,18 +64,32 @@
       "changedFiles": 16
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests"
+  "recentIssues": [
+    {
+      "number": 46080,
+      "title": "Bug: Anthropic tool_result succeeds but final assistant content is empty, causing 'No reply from agent'",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T12:03:52Z",
+      "closedAt": null
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

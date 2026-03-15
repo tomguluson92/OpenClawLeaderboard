@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4436535?v=4",
   "githubUrl": "https://github.com/sircrumpet",
   "score": {
-    "score": 194.02,
-    "prScore": 180.52,
+    "score": 180.66,
+    "prScore": 170.16,
     "issueScore": 0,
-    "reviewScore": 9,
+    "reviewScore": 6,
     "commentScore": 4.5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 4,
-    "prs": 4,
-    "prsMerged": 2,
-    "prAdditions": 1993,
-    "prDeletions": 427,
-    "prChangedFiles": 51,
-    "prMergeRate": 50,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 1902,
+    "prDeletions": 408,
+    "prChangedFiles": 42,
+    "prMergeRate": 33,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 3,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 9,
     "commitAdditions": 1808,
     "commitDeletions": 375,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 34
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
       "reviews": 2,
-      "comments": 9,
+      "comments": 8,
       "commitAdditions": 1602,
       "commitDeletions": 351,
       "commits": 1
     },
     "monthly": {
-      "prs": 4,
+      "prs": 3,
       "issues": 0,
-      "reviews": 3,
+      "reviews": 2,
       "comments": 9,
       "commitAdditions": 1693,
       "commitDeletions": 370,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-03T06:11:25Z",
+  "firstContribution": "2026-03-05T07:08:53Z",
   "lastContribution": "2026-03-11T06:47:24Z",
   "recentPRs": [
     {
@@ -86,17 +84,6 @@
       "additions": 169,
       "deletions": 39,
       "changedFiles": 17
-    },
-    {
-      "number": 32630,
-      "title": "Diffs: Migrate tool usage guidance from before_prompt_build to a plugin skill",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-03T06:11:25Z",
-      "mergedAt": "2026-03-03T06:51:00Z",
-      "additions": 91,
-      "deletions": 19,
-      "changedFiles": 9
     }
   ],
   "recentIssues": [],
@@ -110,24 +97,8 @@
       "prNumber": 40740,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T02:34:44Z"
-    },
-    {
-      "prNumber": 32630,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T06:24:08Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-10": 1,
-    "2026-03-03": 1
-  },
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 2,
@@ -139,15 +110,21 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
-    },
     "2026-03-10": {
       "prs": 0,
       "issues": 0,
       "reviews": 2
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-10": 1,
+    "2026-03-03": 1
   }
 }

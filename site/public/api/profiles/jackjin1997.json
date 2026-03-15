@@ -3,104 +3,226 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/28055621?u=a9386309359afb54d8d0938852903fb657177d8e&v=4",
   "githubUrl": "https://github.com/jackjin1997",
   "score": {
-    "score": 38.92,
-    "prScore": 37.42,
-    "issueScore": 0,
+    "score": 159.81,
+    "prScore": 149.31,
+    "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 5.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 122,
-    "prDeletions": 22,
-    "prChangedFiles": 11,
+    "prAdditions": 364,
+    "prDeletions": 58,
+    "prChangedFiles": 36,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 11,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
+      "prs": 12,
+      "issues": 1,
       "reviews": 0,
-      "comments": 2,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
-      "issues": 0,
+      "prs": 12,
+      "issues": 1,
       "reviews": 0,
-      "comments": 3,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T02:39:37Z",
-  "lastContribution": "2026-03-08T09:24:49Z",
+  "firstContribution": "2026-03-13T12:41:56Z",
+  "lastContribution": "2026-03-15T03:46:29Z",
   "recentPRs": [
     {
-      "number": 32727,
-      "title": "feat(models): support Claude 4.6 family (Opus, Sonnet, Haiku)",
+      "number": 46827,
+      "title": "fix(plugins): route send-deps imports through plugin-sdk for Docker compat",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-03T07:45:28Z",
+      "createdAt": "2026-03-15T03:46:29Z",
       "mergedAt": null,
-      "additions": 36,
+      "additions": 12,
+      "deletions": 16,
+      "changedFiles": 11
+    },
+    {
+      "number": 46248,
+      "title": "fix(line): preserve underscores inside words in stripMarkdown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T14:47:06Z",
+      "mergedAt": null,
+      "additions": 13,
       "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 46044,
+      "title": "fix(cron): suppress NO_REPLY on thread-based and structured delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T11:31:06Z",
+      "mergedAt": null,
+      "additions": 54,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 45915,
+      "title": "fix(agents): forward threadId in sessions_send announce delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T09:03:51Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 45836,
+      "title": "fix(channels): add circuit breaker to typing keepalive loop",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T07:23:39Z",
+      "mergedAt": null,
+      "additions": 112,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 45809,
+      "title": "fix(failover): recognize proxy 402 with purchase/subscription wording (fixes #45774)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T06:52:06Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45723,
+      "title": "feat(web-search): add Brave Search baseUrl config override",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T04:11:27Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 10,
+      "changedFiles": 3
+    },
+    {
+      "number": 45719,
+      "title": "fix(agents): expand ~ in tool file paths to OS home directory",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T04:09:22Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 45700,
+      "title": "fix(subagents): correct duration display showing 5-6x inflated runtime",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T03:39:10Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 21,
       "changedFiles": 4
     },
     {
-      "number": 32726,
-      "title": "fix(outbound): suppress internal SILENT_REPLY_TOKEN (NO_REPLY) artifacts (fixes #32403)",
+      "number": 45215,
+      "title": "fix(sandbox): propagate browser.ssrfPolicy to sandbox browser bridge (fixes #45153)",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-03T07:44:47Z",
+      "createdAt": "2026-03-13T15:02:36Z",
       "mergedAt": null,
-      "additions": 55,
-      "deletions": 3,
-      "changedFiles": 5
+      "additions": 10,
+      "deletions": 1,
+      "changedFiles": 3
     },
     {
-      "number": 32440,
-      "title": "fix(agents): inject current time into system prompt (fixes #32363)",
+      "number": 45188,
+      "title": "fix(cron): refresh stale Current time timestamp on repeated heartbeat runs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T14:39:19Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45083,
+      "title": "fix(model): avoid ANTHROPIC_MODEL_ALIASES TDZ on Rollup bundle init",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-03T02:39:37Z",
+      "createdAt": "2026-03-13T12:41:56Z",
       "mergedAt": null,
-      "additions": 31,
-      "deletions": 18,
-      "changedFiles": 2
+      "additions": 12,
+      "deletions": 7,
+      "changedFiles": 1
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
+  "recentIssues": [
+    {
+      "number": 45729,
+      "title": "[Feature]: Add baseUrl override for Brave Search API",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T04:18:32Z",
+      "closedAt": null
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-03": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 8,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-13": {
       "prs": 3,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

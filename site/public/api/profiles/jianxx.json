@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2649955?u=b793227eb3711f4b02b2010f02bae6436de82ba7&v=4",
   "githubUrl": "https://github.com/jianxx",
   "score": {
-    "score": 23.44,
+    "score": 26.44,
     "prScore": 18.44,
-    "issueScore": 5,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -20,15 +20,13 @@
     "prChangedFiles": 6,
     "prMergeRate": 0,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -70,23 +68,23 @@
     {
       "number": 41160,
       "title": "[Bug]: config validate rejects documented agents.list[].params field",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-09T14:55:23Z",
-      "closedAt": null
+      "closedAt": "2026-03-13T11:29:38Z"
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

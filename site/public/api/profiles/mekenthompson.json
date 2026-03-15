@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8923913?u=fa4e108d038b281ff584e7cf80b635cefb2530f2&v=4",
   "githubUrl": "https://github.com/mekenthompson",
   "score": {
-    "score": 59.72,
-    "prScore": 52.22,
+    "score": 41.71,
+    "prScore": 34.71,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 2.5
+    "commentScore": 2
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 368,
-    "prDeletions": 87,
-    "prChangedFiles": 17,
+    "prAdditions": 265,
+    "prDeletions": 49,
+    "prChangedFiles": 12,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -42,22 +40,22 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 5,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T03:25:01Z",
-  "lastContribution": "2026-03-12T00:05:51Z",
+  "firstContribution": "2026-03-04T03:25:11Z",
+  "lastContribution": "2026-03-14T21:32:41Z",
   "recentPRs": [
     {
       "number": 43465,
       "title": "fix(ssrf): thread connectOptions through fetch pipeline for Telegram IPv4 fallback",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T20:53:42Z",
       "mergedAt": null,
@@ -75,17 +73,6 @@
       "additions": 98,
       "deletions": 34,
       "changedFiles": 5
-    },
-    {
-      "number": 33844,
-      "title": "fix(telegram): coalesce DM streaming into single message in partial mode",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T03:25:01Z",
-      "mergedAt": null,
-      "additions": 103,
-      "deletions": 38,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [
@@ -98,13 +85,6 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
@@ -115,11 +95,13 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

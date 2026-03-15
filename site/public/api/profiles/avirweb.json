@@ -3,33 +3,31 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/257412074?v=4",
   "githubUrl": "https://github.com/avirweb",
   "score": {
-    "score": 13.53,
-    "prScore": 11.53,
+    "score": 59.34,
+    "prScore": 57.34,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 2
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 142,
-    "prDeletions": 10,
-    "prChangedFiles": 3,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 313,
+    "prDeletions": 45,
+    "prChangedFiles": 12,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "commitAdditions": 313,
+    "commitDeletions": 45,
+    "commitChangedFiles": 12
   },
   "period": {
     "weekly": {
@@ -37,18 +35,18 @@
       "issues": 0,
       "reviews": 0,
       "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 313,
+      "commitDeletions": 45,
+      "commits": 1
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 313,
+      "commitDeletions": 45,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-08T17:16:23Z",
@@ -57,28 +55,30 @@
     {
       "number": 40105,
       "title": "fix(telegram): allow fallback models in /model validation",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-08T17:16:23Z",
-      "mergedAt": null,
-      "additions": 142,
-      "deletions": 10,
-      "changedFiles": 3
+      "mergedAt": "2026-03-12T12:55:51Z",
+      "additions": 313,
+      "deletions": 45,
+      "changedFiles": 12
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-12": 1
   }
 }

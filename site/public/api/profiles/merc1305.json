@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2715765?v=4",
   "githubUrl": "https://github.com/merc1305",
   "score": {
-    "score": 12.66,
-    "prScore": 7.66,
-    "issueScore": 5,
+    "score": 62.51,
+    "prScore": 51.51,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 1
   },
-  "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "tier": "regular",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 8,
-    "prDeletions": 0,
-    "prChangedFiles": 1,
+    "prAdditions": 387,
+    "prDeletions": 8,
+    "prChangedFiles": 17,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 3,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 3,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-10T14:27:57Z",
-  "lastContribution": "2026-03-10T14:29:25Z",
+  "lastContribution": "2026-03-14T09:51:58Z",
   "recentPRs": [
+    {
+      "number": 45953,
+      "title": "fix(slack): harden bolt import interop",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T09:51:58Z",
+      "mergedAt": null,
+      "additions": 176,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 45454,
+      "title": "Fix responsePrefix template interpolation for early abort replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T21:01:00Z",
+      "mergedAt": null,
+      "additions": 203,
+      "deletions": 0,
+      "changedFiles": 14
+    },
     {
       "number": 42227,
       "title": "slack: fix draft stream race causing double responses on voice messages",
@@ -68,6 +88,13 @@
   ],
   "recentIssues": [
     {
+      "number": 45950,
+      "title": "Slack startup can still crash with `App is not a constructor` after #1208",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T09:50:20Z",
+      "closedAt": null
+    },
+    {
       "number": 42226,
       "title": "Slack: double response on voice messages due to draft stream race condition",
       "state": "OPEN",
@@ -76,17 +103,28 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

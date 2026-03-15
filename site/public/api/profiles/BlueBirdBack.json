@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/126304167?u=505a93d23a3ba4b887ad36972fedecfc46a0ecec&v=4",
   "githubUrl": "https://github.com/BlueBirdBack",
   "score": {
-    "score": 406.7,
-    "prScore": 373.2,
-    "issueScore": 24,
+    "score": 321.14,
+    "prScore": 312.14,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 9.5
+    "commentScore": 9
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 35,
-    "prsMerged": 1,
-    "prAdditions": 4048,
-    "prDeletions": 167,
-    "prChangedFiles": 105,
-    "prMergeRate": 3,
-    "issues": 3,
-    "issuesClosed": 3,
+    "prs": 27,
+    "prsMerged": 0,
+    "prAdditions": 3552,
+    "prDeletions": 121,
+    "prChangedFiles": 83,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 19,
+    "comments": 18,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 14,
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 27,
       "issues": 0,
       "reviews": 0,
       "comments": 18,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 35,
-      "issues": 3,
-      "reviews": 0,
-      "comments": 19,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-02-28T15:07:58Z",
-  "lastContribution": "2026-03-07T15:35:00Z",
+  "firstContribution": "2026-03-04T14:38:49Z",
+  "lastContribution": "2026-03-14T20:45:43Z",
   "recentPRs": [
+    {
+      "number": 46221,
+      "title": "fix: drain system events from main key for per-channel-peer DM sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T14:16:28Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 2,
+      "changedFiles": 2
+    },
     {
       "number": 38225,
       "title": "fix(line): resolve tokenFile/secretFile relative paths using configFile dir (#10428)",
@@ -262,57 +271,16 @@
       "additions": 148,
       "deletions": 6,
       "changedFiles": 4
-    },
-    {
-      "number": 35043,
-      "title": "fix(sandbox): replace GNU readlink -f with POSIX cd -P/pwd -P (#27305)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T23:16:35Z",
-      "mergedAt": null,
-      "additions": 24,
-      "deletions": 3,
-      "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 29831,
-      "title": "[Bug]: nodes tool screen_record accepts unbounded durationMs \u2014 can block gateway for hours",
-      "state": "CLOSED",
-      "createdAt": "2026-02-28T15:08:21Z",
-      "closedAt": "2026-03-02T02:00:06Z"
-    },
-    {
-      "number": 29830,
-      "title": "[Bug]: Mattermost private channels (type \"P\") silently misclassified as public channels",
-      "state": "CLOSED",
-      "createdAt": "2026-02-28T15:08:18Z",
-      "closedAt": "2026-03-02T03:14:39Z"
-    },
-    {
-      "number": 29829,
-      "title": "[Bug]: EXEC_SECRET_REF_ID_PATTERN allows path traversal sequences in exec secret IDs",
-      "state": "CLOSED",
-      "createdAt": "2026-02-28T15:07:58Z",
-      "closedAt": "2026-03-10T18:45:39Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-06": {
       "prs": 10,
       "issues": 0,
@@ -324,14 +292,21 @@
       "reviews": 0
     },
     "2026-03-04": {
-      "prs": 1,
+      "prs": 7,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-02-28": {
-      "prs": 0,
-      "issues": 3,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

@@ -3,39 +3,37 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1870497?u=404049ef69f453fa87cac103ba9cef20ee63b383&v=4",
   "githubUrl": "https://github.com/gao-feng",
   "score": {
-    "score": 8.38,
-    "prScore": 7.88,
+    "score": 14.04,
+    "prScore": 10.54,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 3,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 3,
-    "prDeletions": 15,
-    "prChangedFiles": 1,
+    "prAdditions": 47,
+    "prDeletions": 3,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 1,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -44,41 +42,53 @@
     "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 1,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T11:25:30Z",
-  "lastContribution": "2026-03-10T02:25:31Z",
+  "firstContribution": "2026-03-12T11:49:43Z",
+  "lastContribution": "2026-03-14T09:53:47Z",
   "recentPRs": [
     {
-      "number": 32941,
-      "title": "export-session: Fix empty contents in exported html",
+      "number": 44862,
+      "title": "fix(agents): use correct bootstrap files for subagents",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-03T11:25:30Z",
+      "createdAt": "2026-03-13T08:22:54Z",
       "mergedAt": null,
-      "additions": 3,
-      "deletions": 15,
-      "changedFiles": 1
+      "additions": 47,
+      "deletions": 3,
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
+  "recentReviews": [
+    {
+      "prNumber": 44862,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T09:53:47Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
-    "2026-03-03": {
+    "2026-03-13": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

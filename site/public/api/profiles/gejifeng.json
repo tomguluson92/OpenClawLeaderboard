@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17561857?v=4",
   "githubUrl": "https://github.com/gejifeng",
   "score": {
-    "score": 182.66,
-    "prScore": 167.66,
+    "score": 182.15,
+    "prScore": 167.15,
     "issueScore": 0,
     "reviewScore": 15,
     "commentScore": 0
@@ -15,9 +15,9 @@
     "commits": 8,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 2376,
-    "prDeletions": 107,
-    "prChangedFiles": 38,
+    "prAdditions": 2319,
+    "prDeletions": 60,
+    "prChangedFiles": 35,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 606,
     "commitDeletions": 25,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 30
   },
   "period": {
@@ -56,14 +54,14 @@
   "recentPRs": [
     {
       "number": 41737,
-      "title": "add new features to vLLM support",
+      "title": "vLLM: add endpoint lifecycle management, multi-endpoint selection, and stale default cleanup",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-10T04:28:09Z",
       "mergedAt": null,
-      "additions": 2376,
-      "deletions": 107,
-      "changedFiles": 38
+      "additions": 2319,
+      "deletions": 60,
+      "changedFiles": 35
     }
   ],
   "recentIssues": [],
@@ -94,6 +92,13 @@
       "createdAt": "2026-03-10T07:31:57Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -102,12 +107,5 @@
   "achievements": [],
   "recentCommitDays": {
     "2026-02-13": 8
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 5
-    }
   }
 }

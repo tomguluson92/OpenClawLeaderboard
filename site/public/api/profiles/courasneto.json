@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/13770050?u=cce597d55c2cd657c8151149dc738a1557515623&v=4",
   "githubUrl": "https://github.com/courasneto",
   "score": {
-    "score": 38.35,
-    "prScore": 20.35,
+    "score": 48.08,
+    "prScore": 29.58,
     "issueScore": 0,
     "reviewScore": 18,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1661,
-    "prDeletions": 0,
-    "prChangedFiles": 6,
+    "prAdditions": 1663,
+    "prDeletions": 7,
+    "prChangedFiles": 7,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 6,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 6,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T14:28:15Z",
-  "lastContribution": "2026-03-09T17:49:24Z",
+  "lastContribution": "2026-03-12T10:07:13Z",
   "recentPRs": [
+    {
+      "number": 43928,
+      "title": "fix(zalouser): update chunker test to use runtime chunkMarkdownText",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T10:07:13Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 7,
+      "changedFiles": 1
+    },
     {
       "number": 41127,
       "title": "feat(skills): add local-db and rag-store community skills",
@@ -99,17 +108,23 @@
       "createdAt": "2026-03-09T17:48:40Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
       "reviews": 6
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

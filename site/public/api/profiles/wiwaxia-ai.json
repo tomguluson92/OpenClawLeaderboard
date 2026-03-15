@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258413720?v=4",
   "githubUrl": "https://github.com/wiwaxia-ai",
   "score": {
-    "score": 161.17,
+    "score": 166.17,
     "prScore": 160.17,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 3,
@@ -19,7 +19,7 @@
     "prDeletions": 4,
     "prChangedFiles": 62,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,14 +27,12 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 3,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 2,
       "commitAdditions": 0,
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 3,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 2,
       "commitAdditions": 0,
@@ -52,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-09T12:20:22Z",
-  "lastContribution": "2026-03-09T14:48:24Z",
+  "lastContribution": "2026-03-15T00:59:12Z",
   "recentPRs": [
     {
       "number": 41149,
@@ -88,10 +86,31 @@
       "changedFiles": 22
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 46685,
+      "title": "Memory index fetch failed: createPinnedLookup incompatible with undici v7",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T00:59:12Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
+    "Issue Reporting",
     "Discussion",
     "Large-Scale Changes"
   ],
@@ -102,12 +121,5 @@
       "description": "10K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

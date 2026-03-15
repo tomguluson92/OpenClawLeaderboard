@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/19399560?v=4",
   "githubUrl": "https://github.com/hxcn",
   "score": {
-    "score": 14.06,
+    "score": 14.56,
     "prScore": 9.06,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -24,11 +24,9 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,19 +43,19 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-11T04:55:29Z",
-  "lastContribution": "2026-03-11T05:05:06Z",
+  "lastContribution": "2026-03-13T03:47:32Z",
   "recentPRs": [
     {
       "number": 42818,
       "title": "fix(memory): stop rewriting Han/CJK QMD search queries",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T05:05:06Z",
       "mergedAt": null,
@@ -76,17 +74,18 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

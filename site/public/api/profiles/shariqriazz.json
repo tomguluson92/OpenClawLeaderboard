@@ -1,0 +1,135 @@
+{
+  "username": "shariqriazz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/196900129?u=7e4010fb45e54ff171f56375ed949ee9572cb385&v=4",
+  "githubUrl": "https://github.com/shariqriazz",
+  "score": {
+    "score": 58.07,
+    "prScore": 33.57,
+    "issueScore": 0,
+    "reviewScore": 24,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 364,
+    "prDeletions": 11,
+    "prChangedFiles": 11,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 8,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T07:42:47Z",
+  "lastContribution": "2026-03-12T08:42:00Z",
+  "recentPRs": [
+    {
+      "number": 43832,
+      "title": "fix(cron): drain in-flight ops on hot reload to prevent state overwrite",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T08:02:54Z",
+      "mergedAt": null,
+      "additions": 232,
+      "deletions": 1,
+      "changedFiles": 8
+    },
+    {
+      "number": 43816,
+      "title": "fix(cron): use per-job timeout for stuck lock threshold",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T07:42:47Z",
+      "mergedAt": null,
+      "additions": 132,
+      "deletions": 10,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 43832,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:21:43Z"
+    },
+    {
+      "prNumber": 43832,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:21:30Z"
+    },
+    {
+      "prNumber": 43832,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:21:15Z"
+    },
+    {
+      "prNumber": 43832,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:21:01Z"
+    },
+    {
+      "prNumber": 43832,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:20:49Z"
+    },
+    {
+      "prNumber": 43816,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:06:51Z"
+    },
+    {
+      "prNumber": 43816,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:06:38Z"
+    },
+    {
+      "prNumber": 43816,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:06:24Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 8
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

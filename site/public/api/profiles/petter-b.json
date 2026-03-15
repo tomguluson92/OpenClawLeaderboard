@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/62076402?v=4",
   "githubUrl": "https://github.com/petter-b",
   "score": {
-    "score": 68.74,
-    "prScore": 68.74,
+    "score": 54.43,
+    "prScore": 54.43,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 6,
-    "prs": 1,
+    "prs": 0,
     "prsMerged": 0,
-    "prAdditions": 119,
-    "prDeletions": 49,
-    "prChangedFiles": 3,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 302,
     "commitDeletions": 33,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 14
   },
   "period": {
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,36 +49,17 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T06:12:13Z",
-  "lastContribution": "2026-03-03T06:12:13Z",
-  "recentPRs": [
-    {
-      "number": 32631,
-      "title": "fix: guard status --deep health probe against unreachable gateway (#17106)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T06:12:13Z",
-      "mergedAt": null,
-      "additions": 119,
-      "deletions": 49,
-      "changedFiles": 3
-    }
-  ],
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-01-24": 1
-  },
-  "recentActivityDays": {
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

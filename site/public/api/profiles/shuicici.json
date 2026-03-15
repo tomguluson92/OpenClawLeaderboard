@@ -3,57 +3,132 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/157349610?v=4",
   "githubUrl": "https://github.com/shuicici",
   "score": {
-    "score": 10.95,
-    "prScore": 9.45,
+    "score": 122.57,
+    "prScore": 103.57,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 19
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 51,
-    "prDeletions": 7,
-    "prChangedFiles": 2,
-    "prMergeRate": 0,
+    "prs": 8,
+    "prsMerged": 1,
+    "prAdditions": 447,
+    "prDeletions": 29,
+    "prChangedFiles": 23,
+    "prMergeRate": 13,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "comments": 38,
+    "commitAdditions": 5,
+    "commitDeletions": 6,
+    "commitChangedFiles": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 8,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 38,
+      "commitAdditions": 5,
+      "commitDeletions": 6,
+      "commits": 1
     },
     "monthly": {
-      "prs": 1,
+      "prs": 8,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 38,
+      "commitAdditions": 5,
+      "commitDeletions": 6,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-11T08:24:59Z",
-  "lastContribution": "2026-03-11T13:06:40Z",
+  "lastContribution": "2026-03-15T04:06:46Z",
   "recentPRs": [
+    {
+      "number": 46668,
+      "title": "fix: sanitize reasoning content to prevent JSON parse errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T00:08:28Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 46482,
+      "title": "fix: support alternative usage field names for dashscope/Bailian (issue #46142)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T18:10:56Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 45629,
+      "title": "fix: send auth token in insecure context (LAN HTTP)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T02:07:39Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 45547,
+      "title": "fix: skip auto-enable when third-party plugin handles same channel (issue #44722)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T00:06:46Z",
+      "mergedAt": null,
+      "additions": 109,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 44973,
+      "title": "fix(cron): deduplicate main-session systemEvent in heartbeat prompt (issue #44922)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:13:05Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 44537,
+      "title": "fix: map CLI --target param to args.to in message-action-runner",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T02:09:28Z",
+      "mergedAt": null,
+      "additions": 109,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 44012,
+      "title": "fix(cron): stop false legacy payload-kind warnings in doctor",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T12:06:55Z",
+      "mergedAt": "2026-03-13T03:08:52Z",
+      "additions": 66,
+      "deletions": 4,
+      "changedFiles": 3
+    },
     {
       "number": 43192,
       "title": "fix(ui): show full tool command in sidebar details",
@@ -68,17 +143,45 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-13": 1
   }
 }

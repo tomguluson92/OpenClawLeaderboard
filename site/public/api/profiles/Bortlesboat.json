@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/169967362?u=1e0fe2810a1aee4936cfa23a629593bc32632599&v=4",
   "githubUrl": "https://github.com/Bortlesboat",
   "score": {
-    "score": 141.5,
-    "prScore": 141.5,
-    "issueScore": 0,
+    "score": 156.34,
+    "prScore": 144.34,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 2
   },
   "tier": "regular",
   "characterClass": "Builder",
@@ -15,44 +15,42 @@
     "commits": 0,
     "prs": 13,
     "prsMerged": 0,
-    "prAdditions": 599,
-    "prDeletions": 48,
-    "prChangedFiles": 26,
+    "prAdditions": 662,
+    "prDeletions": 61,
+    "prChangedFiles": 27,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 13,
-      "issues": 0,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 13,
-      "issues": 0,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-08T10:07:00Z",
-  "lastContribution": "2026-03-08T11:32:59Z",
+  "lastContribution": "2026-03-15T03:56:49Z",
   "recentPRs": [
     {
       "number": 39771,
@@ -94,9 +92,9 @@
       "merged": false,
       "createdAt": "2026-03-08T11:07:41Z",
       "mergedAt": null,
-      "additions": 32,
-      "deletions": 0,
-      "changedFiles": 1
+      "additions": 92,
+      "deletions": 13,
+      "changedFiles": 2
     },
     {
       "number": 39750,
@@ -116,7 +114,7 @@
       "merged": false,
       "createdAt": "2026-03-08T11:00:24Z",
       "mergedAt": null,
-      "additions": 91,
+      "additions": 94,
       "deletions": 4,
       "changedFiles": 3
     },
@@ -198,10 +196,39 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 46838,
+      "title": "Show & Tell: bitcoin-mcp + Satoshi API — 47 Bitcoin tools in any OpenClaw agent, zero config",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T03:56:49Z",
+      "closedAt": null
+    },
+    {
+      "number": 46826,
+      "title": "Show & Tell: ComfyUI Bridge — generate images from iMessage/Discord via ComfyUI on your own hardware",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T03:45:44Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
   ],
   "achievements": [
     {
@@ -210,12 +237,5 @@
       "description": "10+ pull requests"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 13,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

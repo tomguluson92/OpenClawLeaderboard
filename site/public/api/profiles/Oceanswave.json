@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/760674?v=4",
   "githubUrl": "https://github.com/Oceanswave",
   "score": {
-    "score": 30.39,
+    "score": 21.39,
     "prScore": 16.39,
-    "issueScore": 13,
+    "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 2,
     "prs": 0,
@@ -19,22 +19,20 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
+    "issues": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 67,
     "commitDeletions": 3,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 5
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -43,49 +41,41 @@
     },
     "monthly": {
       "prs": 0,
-      "issues": 2,
+      "issues": 1,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 67,
       "commitDeletions": 3,
       "commits": 2
     }
   },
-  "firstContribution": "2026-02-28T06:18:35Z",
-  "lastContribution": "2026-02-28T23:32:20Z",
+  "firstContribution": "2026-03-15T04:49:01Z",
+  "lastContribution": "2026-03-15T04:49:01Z",
   "recentPRs": [],
   "recentIssues": [
     {
-      "number": 29504,
-      "title": "BlueBubbles: message_id not included in DM inbound context, preventing reactions",
-      "state": "CLOSED",
-      "createdAt": "2026-02-28T06:19:53Z",
-      "closedAt": "2026-02-28T13:30:05Z"
-    },
-    {
-      "number": 29503,
-      "title": "Agents can't react to DM messages \u2014 message_id stripped from inbound context",
+      "number": 46885,
+      "title": "[Bug] openclaw logs: WS handshake timeout due to event loop starvation during module loading",
       "state": "OPEN",
-      "createdAt": "2026-02-28T06:18:35Z",
+      "createdAt": "2026-03-15T04:49:01Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Issue Reporting",
-    "Discussion",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-02-21": 1,
     "2026-02-20": 1
-  },
-  "recentActivityDays": {
-    "2026-02-28": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
-    }
   }
 }

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4305058?u=9fb9e37ad65b9ac351474dcfab96698896c61e18&v=4",
   "githubUrl": "https://github.com/tymrtn",
   "score": {
-    "score": 8.5,
+    "score": 13.5,
     "prScore": 8.5,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 10,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,14 +27,12 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -52,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-10T17:46:19Z",
-  "lastContribution": "2026-03-10T17:46:19Z",
+  "lastContribution": "2026-03-12T21:33:33Z",
   "recentPRs": [
     {
       "number": 42409,
@@ -66,18 +64,32 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests"
+  "recentIssues": [
+    {
+      "number": 44395,
+      "title": "feat: heading-aware chunking + entity extraction for memory search",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T21:33:33Z",
+      "closedAt": null
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/252790079?v=4",
   "githubUrl": "https://github.com/azade-c",
   "score": {
-    "score": 178.5,
-    "prScore": 178.5,
+    "score": 191.12,
+    "prScore": 191.12,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 16,
-    "prs": 0,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
+    "prAdditions": 89,
+    "prDeletions": 10,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 828,
     "commitDeletions": 106,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 48
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,19 +49,37 @@
       "commits": 2
     }
   },
-  "firstContribution": null,
-  "lastContribution": null,
-  "recentPRs": [],
+  "firstContribution": "2026-03-14T19:42:27Z",
+  "lastContribution": "2026-03-14T19:42:27Z",
+  "recentPRs": [
+    {
+      "number": 46535,
+      "title": "fix(tts): propagate audioAsVoice from tool results to delivery payload",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T19:42:27Z",
+      "mergedAt": null,
+      "additions": 89,
+      "deletions": 10,
+      "changedFiles": 4
+    }
+  ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
+    "Pull Requests",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-02-14": 2,
-    "2026-01-15": 1,
-    "2026-01-12": 1
-  },
-  "recentActivityDays": {}
+    "2026-01-15": 1
+  }
 }

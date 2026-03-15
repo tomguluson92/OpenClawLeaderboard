@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/52549148?u=ec891edc5cbfd298548ddcf371be6a7e9a26ced3&v=4",
   "githubUrl": "https://github.com/rabsef-bicrym",
   "score": {
-    "score": 141.42,
-    "prScore": 139.92,
+    "score": 145.33,
+    "prScore": 143.83,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1.5
@@ -14,22 +14,20 @@
   "stats": {
     "commits": 0,
     "prs": 2,
-    "prsMerged": 0,
+    "prsMerged": 1,
     "prAdditions": 4264,
     "prDeletions": 157,
     "prChangedFiles": 121,
-    "prMergeRate": 0,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 3,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "commitAdditions": 218,
+    "commitDeletions": 61,
+    "commitChangedFiles": 28
   },
   "period": {
     "weekly": {
@@ -37,18 +35,18 @@
       "issues": 0,
       "reviews": 0,
       "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 218,
+      "commitDeletions": 61,
+      "commits": 1
     },
     "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 218,
+      "commitDeletions": 61,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-05T04:37:28Z",
@@ -57,10 +55,10 @@
     {
       "number": 40357,
       "title": "fix: carry observed overflow token counts into compaction",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-08T23:37:26Z",
-      "mergedAt": null,
+      "mergedAt": "2026-03-12T13:58:42Z",
       "additions": 218,
       "deletions": 61,
       "changedFiles": 28
@@ -79,12 +77,6 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 1,
@@ -96,5 +88,13 @@
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-12": 1
   }
 }

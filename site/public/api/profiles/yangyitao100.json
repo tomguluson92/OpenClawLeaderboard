@@ -1,0 +1,214 @@
+{
+  "username": "yangyitao100",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/115475729?v=4",
+  "githubUrl": "https://github.com/yangyitao100",
+  "score": {
+    "score": 149.46,
+    "prScore": 146.46,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 12,
+    "prsMerged": 0,
+    "prAdditions": 785,
+    "prDeletions": 40,
+    "prChangedFiles": 31,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T07:33:16Z",
+  "lastContribution": "2026-03-15T03:08:21Z",
+  "recentPRs": [
+    {
+      "number": 46781,
+      "title": "fix(models): reflect context1m config in models list contextWindow display",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T03:08:21Z",
+      "mergedAt": null,
+      "additions": 107,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 46770,
+      "title": "fix(sessions): reject empty provider/model IDs in model override selection",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:54:59Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 46762,
+      "title": "fix(telegram): increase dedup TTL to prevent duplicate messages on polling restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:51:19Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 46760,
+      "title": "fix(azure): ensure api-version is sent as query param not header",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:45:17Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 46757,
+      "title": "fix(plugins): warn when extensions are auto-discovered from workspace",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:41:26Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 46756,
+      "title": "fix(ssrf): pass pinned DNS lookup to ProxyAgent via requestTls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:40:14Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 46754,
+      "title": "fix(docs): align AGENTS.md template memory paths with session-memory hook",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:38:29Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 46750,
+      "title": "fix(cloudflare): pass cache control settings through AI Gateway",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:36:12Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 46747,
+      "title": "fix(ollama): send think param for thinking models",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:31:34Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 46745,
+      "title": "fix(ollama): parse stringified tool_calls arguments for native API",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:27:12Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44974,
+      "title": "feat(skills): add global env overrides shared across all skills",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T10:14:30Z",
+      "mergedAt": null,
+      "additions": 360,
+      "deletions": 15,
+      "changedFiles": 6
+    },
+    {
+      "number": 44822,
+      "title": "fix(cron): pass heartbeat target=last for main-session next-heartbeat jobs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T07:33:16Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 8,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
+}

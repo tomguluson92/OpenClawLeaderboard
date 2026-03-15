@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/60309291?u=577d143668aa5341da3e4b6d8519aa4e4a1d3066&v=4",
   "githubUrl": "https://github.com/bertonhan",
   "score": {
-    "score": 112.29,
-    "prScore": 112.29,
+    "score": 89.72,
+    "prScore": 89.72,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,12 +13,12 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
-    "prsMerged": 1,
-    "prAdditions": 1635,
-    "prDeletions": 39,
-    "prChangedFiles": 34,
-    "prMergeRate": 33,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 1020,
+    "prDeletions": 20,
+    "prChangedFiles": 30,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 615,
     "commitDeletions": 19,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 4
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-02T09:44:58Z",
+  "firstContribution": "2026-03-04T15:11:45Z",
   "lastContribution": "2026-03-06T01:28:19Z",
   "recentPRs": [
     {
@@ -75,28 +73,10 @@
       "additions": 453,
       "deletions": 10,
       "changedFiles": 16
-    },
-    {
-      "number": 31548,
-      "title": "Feishu: wire inbound message debounce",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T09:44:58Z",
-      "mergedAt": "2026-03-02T23:10:47Z",
-      "additions": 615,
-      "deletions": 19,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-02": 1
-  },
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
@@ -107,11 +87,13 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 1
   }
 }

@@ -1,0 +1,102 @@
+{
+  "username": "survivor998",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/226792843?v=4",
+  "githubUrl": "https://github.com/survivor998",
+  "score": {
+    "score": 25.53,
+    "prScore": 15.53,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 105,
+    "prDeletions": 8,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T03:48:25Z",
+  "lastContribution": "2026-03-13T11:30:53Z",
+  "recentPRs": [
+    {
+      "number": 45039,
+      "title": "fix: keep heartbeat turns from polluting main session metadata",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T11:30:53Z",
+      "mergedAt": null,
+      "additions": 105,
+      "deletions": 8,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 33021,
+      "title": "Telegram 群组消息重复接收问题 (2026.3.2)",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T13:04:10Z",
+      "closedAt": null
+    },
+    {
+      "number": 32495,
+      "title": "[Feature Request] Support switching between agents in Control UI",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T03:48:25Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

@@ -1,22 +1,22 @@
 {
   "username": "MrGeDiao",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/15335422?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15335422?u=c847ffbae804288182d9fefecc84a5f182a50674&v=4",
   "githubUrl": "https://github.com/MrGeDiao",
   "score": {
-    "score": 14.17,
-    "prScore": 8.17,
+    "score": 15.17,
+    "prScore": 9.67,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 5,
-    "prDeletions": 1,
+    "prAdditions": 84,
+    "prDeletions": 0,
     "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 1,
@@ -24,19 +24,17 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
+      "prs": 1,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,54 +43,49 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-27T17:00:02Z",
-  "lastContribution": "2026-03-03T07:09:49Z",
+  "firstContribution": "2026-03-12T15:22:08Z",
+  "lastContribution": "2026-03-12T15:38:01Z",
   "recentPRs": [
     {
-      "number": 32681,
-      "title": "Codex/fix pierre diffs 2026 3 2",
-      "state": "CLOSED",
+      "number": 44167,
+      "title": "fix(memory): retry transient embedding fetch failures",
+      "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-03T07:09:49Z",
+      "createdAt": "2026-03-12T15:22:19Z",
       "mergedAt": null,
-      "additions": 5,
-      "deletions": 1,
+      "additions": 84,
+      "deletions": 0,
       "changedFiles": 2
     }
   ],
   "recentIssues": [
     {
-      "number": 28973,
-      "title": "Usage undercounts after /new or sessions.reset (archived transcripts excluded)",
+      "number": 44166,
+      "title": "memory reindex aborts on transient embedding transport errors instead of retrying or splitting the batch",
       "state": "OPEN",
-      "createdAt": "2026-02-27T17:00:02Z",
+      "createdAt": "2026-03-12T15:22:08Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-02-27": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

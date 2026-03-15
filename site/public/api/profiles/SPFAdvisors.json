@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/133194757?v=4",
   "githubUrl": "https://github.com/SPFAdvisors",
   "score": {
-    "score": 88.47,
-    "prScore": 67.97,
+    "score": 101.35,
+    "prScore": 79.85,
     "issueScore": 20,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 1.5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 1098,
-    "prDeletions": 11,
-    "prChangedFiles": 19,
+    "prAdditions": 1328,
+    "prDeletions": 13,
+    "prChangedFiles": 24,
     "prMergeRate": 0,
     "issues": 4,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 3,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 4,
       "issues": 4,
       "reviews": 0,
-      "comments": 1,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,14 +43,14 @@
       "prs": 4,
       "issues": 4,
       "reviews": 0,
-      "comments": 1,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-12T02:37:00Z",
-  "lastContribution": "2026-03-12T03:59:19Z",
+  "lastContribution": "2026-03-14T03:36:21Z",
   "recentPRs": [
     {
       "number": 43656,
@@ -61,7 +59,7 @@
       "merged": false,
       "createdAt": "2026-03-12T03:59:19Z",
       "mergedAt": null,
-      "additions": 447,
+      "additions": 494,
       "deletions": 0,
       "changedFiles": 8
     },
@@ -72,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-12T03:44:21Z",
       "mergedAt": null,
-      "additions": 309,
+      "additions": 325,
       "deletions": 4,
-      "changedFiles": 6
+      "changedFiles": 8
     },
     {
       "number": 43631,
@@ -83,7 +81,7 @@
       "merged": false,
       "createdAt": "2026-03-12T03:21:35Z",
       "mergedAt": null,
-      "additions": 144,
+      "additions": 152,
       "deletions": 5,
       "changedFiles": 2
     },
@@ -94,9 +92,9 @@
       "merged": false,
       "createdAt": "2026-03-12T03:00:14Z",
       "mergedAt": null,
-      "additions": 198,
-      "deletions": 2,
-      "changedFiles": 3
+      "additions": 357,
+      "deletions": 4,
+      "changedFiles": 6
     }
   ],
   "recentIssues": [
@@ -109,7 +107,7 @@
     },
     {
       "number": 43604,
-      "title": "[Bug]: Cron jobs report 'ok' status when agent model is unreachable \u2014 silent backup failures",
+      "title": "[Bug]: Cron jobs report 'ok' status when agent model is unreachable — silent backup failures",
       "state": "OPEN",
       "createdAt": "2026-03-12T02:37:30Z",
       "closedAt": null
@@ -123,25 +121,25 @@
     },
     {
       "number": 43602,
-      "title": "[Bug]: LaunchAgent silently unloads after macOS sleep/idle \u2014 gateway start/restart fail until re-install",
+      "title": "[Bug]: LaunchAgent silently unloads after macOS sleep/idle — gateway start/restart fail until re-install",
       "state": "OPEN",
       "createdAt": "2026-03-12T02:37:00Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 4,
       "issues": 4,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

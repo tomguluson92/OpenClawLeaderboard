@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6587734?u=235617e39a5bee890ee278790f51b946b715a0f2&v=4",
   "githubUrl": "https://github.com/AntiMoron",
   "score": {
-    "score": 44.05,
-    "prScore": 25.55,
-    "issueScore": 10,
+    "score": 58.04,
+    "prScore": 26.04,
+    "issueScore": 20,
     "reviewScore": 6,
-    "commentScore": 2.5
+    "commentScore": 6
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 476,
-    "prDeletions": 8,
+    "prAdditions": 554,
+    "prDeletions": 16,
     "prChangedFiles": 10,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 4,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 12,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,37 +34,51 @@
       "prs": 1,
       "issues": 2,
       "reviews": 2,
-      "comments": 5,
+      "comments": 12,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 4,
       "reviews": 2,
-      "comments": 5,
+      "comments": 12,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-07T18:38:31Z",
-  "lastContribution": "2026-03-10T12:08:14Z",
+  "lastContribution": "2026-03-14T16:01:43Z",
   "recentPRs": [
     {
       "number": 39578,
-      "title": "agents: retry compaction after timeout by truncating oversized tool r\u2026",
+      "title": "agents: retry compaction after timeout by truncating oversized tool r…",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-08T07:10:31Z",
       "mergedAt": null,
-      "additions": 476,
-      "deletions": 8,
+      "additions": 554,
+      "deletions": 16,
       "changedFiles": 10
     }
   ],
   "recentIssues": [
+    {
+      "number": 46309,
+      "title": "[Bug]: model fallback doesn't work at all. also this can break long tasks from running.",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T16:01:43Z",
+      "closedAt": null
+    },
+    {
+      "number": 43747,
+      "title": "[Bug]: Memory management is in chaos",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T06:21:16Z",
+      "closedAt": null
+    },
     {
       "number": 39107,
       "title": "[Feature]: add interface on CLI and nodejs/python. so that openclaw can leverage itself to give some AI completions.",
@@ -94,6 +106,33 @@
       "createdAt": "2026-03-09T14:44:01Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -107,22 +146,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
-    }
-  }
+  "recentCommitDays": {}
 }

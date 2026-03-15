@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10957907?v=4",
   "githubUrl": "https://github.com/caesargattuso",
   "score": {
-    "score": 73.37,
-    "prScore": 73.37,
+    "score": 82.75,
+    "prScore": 82.75,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 2677,
-    "prDeletions": 23,
-    "prChangedFiles": 28,
+    "prAdditions": 2680,
+    "prDeletions": 24,
+    "prChangedFiles": 29,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-09T03:06:57Z",
-  "lastContribution": "2026-03-09T03:06:57Z",
+  "lastContribution": "2026-03-12T06:24:17Z",
   "recentPRs": [
+    {
+      "number": 43751,
+      "title": "fix(gateway): skip seq-gap broadcast for stale post-lifecycle events",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T06:24:17Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 40500,
       "title": "Dev",
@@ -68,16 +77,21 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

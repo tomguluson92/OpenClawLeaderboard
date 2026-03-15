@@ -1,0 +1,156 @@
+{
+  "username": "lanyasheng",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22570800?u=8c32b4bc5f137c5a28382066999cc61af7a1c7ca&v=4",
+  "githubUrl": "https://github.com/lanyasheng",
+  "score": {
+    "score": 64.21,
+    "prScore": 36.71,
+    "issueScore": 0,
+    "reviewScore": 24,
+    "commentScore": 3.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 665,
+    "prDeletions": 29,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 8,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T16:41:45Z",
+  "lastContribution": "2026-03-14T16:31:17Z",
+  "recentPRs": [
+    {
+      "number": 46308,
+      "title": "fix(agents): register ACP runs in subagent registry for lifecycle tracking",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T16:00:55Z",
+      "mergedAt": null,
+      "additions": 104,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 44970,
+      "title": "fix(agents): always throw FailoverError from embedded run on recoverable failures",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:09:45Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 25,
+      "changedFiles": 2
+    },
+    {
+      "number": 44317,
+      "title": "community: add spawn-interceptor plugin for ACP task lifecycle tracking",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T18:42:18Z",
+      "mergedAt": null,
+      "additions": 488,
+      "deletions": 0,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 44970,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:31:17Z"
+    },
+    {
+      "prNumber": 44970,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:31:09Z"
+    },
+    {
+      "prNumber": 44317,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:13:06Z"
+    },
+    {
+      "prNumber": 44317,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:13:05Z"
+    },
+    {
+      "prNumber": 44317,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:13:04Z"
+    },
+    {
+      "prNumber": 44317,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:13:02Z"
+    },
+    {
+      "prNumber": 44317,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:13:00Z"
+    },
+    {
+      "prNumber": 44317,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:12:59Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

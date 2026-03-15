@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/262214320?u=0ae6c9bb70888b1b6aabfc45c647627672c685b8&v=4",
   "githubUrl": "https://github.com/spectra-the-bot",
   "score": {
-    "score": 28.43,
-    "prScore": 14.43,
-    "issueScore": 13,
+    "score": 42.61,
+    "prScore": 14.61,
+    "issueScore": 26,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 2
   },
   "tier": "beginner",
   "characterClass": "Hunter",
@@ -15,44 +15,42 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 447,
-    "prDeletions": 42,
+    "prAdditions": 524,
+    "prDeletions": 43,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
+    "issues": 4,
+    "issuesClosed": 2,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 4,
       "reviews": 0,
-      "comments": 2,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 4,
       "reviews": 0,
-      "comments": 2,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-08T20:21:30Z",
-  "lastContribution": "2026-03-12T00:52:52Z",
+  "lastContribution": "2026-03-14T13:35:07Z",
   "recentPRs": [
     {
       "number": 43552,
@@ -61,12 +59,26 @@
       "merged": false,
       "createdAt": "2026-03-12T00:52:52Z",
       "mergedAt": null,
-      "additions": 447,
-      "deletions": 42,
+      "additions": 524,
+      "deletions": 43,
       "changedFiles": 4
     }
   ],
   "recentIssues": [
+    {
+      "number": 45484,
+      "title": "native-scheduler (launchd): auto-resolve user PATH at upsert time",
+      "state": "CLOSED",
+      "createdAt": "2026-03-13T22:02:38Z",
+      "closedAt": "2026-03-13T22:06:02Z"
+    },
+    {
+      "number": 44428,
+      "title": "[Bug]: Isolated cron with delivery.bestEffort:true blocks for full timeout when fire-and-forget subagents are active",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T23:01:09Z",
+      "closedAt": null
+    },
     {
       "number": 42274,
       "title": "diagnostics-otel: openai provider not instrumented (no metrics emitted)",
@@ -76,24 +88,22 @@
     },
     {
       "number": 40237,
-      "title": "[Bug]: Gateway WS self-contention still unresolved \u2014 cron tool timeouts from active sessions (#5703/#6508 circular-duped)",
+      "title": "[Bug]: Gateway WS self-contention still unresolved — cron tool timeouts from active sessions (#5703/#6508 circular-duped)",
       "state": "OPEN",
       "createdAt": "2026-03-08T20:21:30Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     },
     "2026-03-10": {
@@ -106,5 +116,12 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

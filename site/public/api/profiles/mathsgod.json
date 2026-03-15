@@ -27,8 +27,6 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -56,7 +54,7 @@
   "recentPRs": [
     {
       "number": 43610,
-      "title": "\u2728 feat(sandbox): \u589e\u52a0 Docker \u7db2\u8def\u548c\u74b0\u5883\u8b8a\u6578\u914d\u7f6e",
+      "title": "✨ feat(sandbox): 增加 Docker 網路和環境變數配置",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-12T02:45:01Z",
@@ -68,17 +66,17 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

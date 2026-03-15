@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7495165?v=4",
   "githubUrl": "https://github.com/lishuaigit",
   "score": {
-    "score": 175.17,
-    "prScore": 167.67,
+    "score": 127.2,
+    "prScore": 121.7,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 7.5
+    "commentScore": 5.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 13,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 1788,
-    "prDeletions": 50,
-    "prChangedFiles": 34,
+    "prAdditions": 1266,
+    "prDeletions": 47,
+    "prChangedFiles": 24,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 15,
+    "comments": 11,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 10,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 14,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 13,
+      "prs": 10,
       "issues": 0,
       "reviews": 0,
-      "comments": 15,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T05:35:01Z",
+  "firstContribution": "2026-03-05T05:35:14Z",
   "lastContribution": "2026-03-10T03:20:30Z",
   "recentPRs": [
     {
@@ -163,55 +161,10 @@
       "additions": 386,
       "deletions": 4,
       "changedFiles": 3
-    },
-    {
-      "number": 34019,
-      "title": "fix: detect Ollama \"prompt too long\" as context overflow error",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T06:00:55Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 33999,
-      "title": "fix(feishu): download media from quoted/replied messages",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T05:39:35Z",
-      "mergedAt": null,
-      "additions": 94,
-      "deletions": 3,
-      "changedFiles": 4
-    },
-    {
-      "number": 33991,
-      "title": "feat(feishu): expose reaction actions for agent message tool",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T05:35:01Z",
-      "mergedAt": null,
-      "additions": 421,
-      "deletions": 0,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
@@ -232,11 +185,18 @@
       "prs": 4,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

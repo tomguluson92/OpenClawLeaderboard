@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/266203672?v=4",
   "githubUrl": "https://github.com/gambletan",
   "score": {
-    "score": 513.61,
-    "prScore": 440.61,
+    "score": 528.61,
+    "prScore": 455.61,
     "issueScore": 0,
     "reviewScore": 66,
     "commentScore": 7
@@ -12,7 +12,7 @@
   "tier": "veteran",
   "characterClass": "Maintainer",
   "stats": {
-    "commits": 0,
+    "commits": 3,
     "prs": 32,
     "prsMerged": 3,
     "prAdditions": 792900,
@@ -27,19 +27,17 @@
     "comments": 14,
     "commitAdditions": 106,
     "commitDeletions": 7,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 13
   },
   "period": {
     "weekly": {
-      "prs": 32,
+      "prs": 10,
       "issues": 0,
-      "reviews": 22,
-      "comments": 14,
-      "commitAdditions": 106,
+      "reviews": 12,
+      "comments": 11,
+      "commitAdditions": 105,
       "commitDeletions": 7,
-      "commits": 3
+      "commits": 2
     },
     "monthly": {
       "prs": 32,
@@ -134,7 +132,7 @@
     {
       "number": 39590,
       "title": "fix(config): add missing params field to AgentEntrySchema",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T07:26:45Z",
       "mergedAt": null,
@@ -378,10 +376,28 @@
       "createdAt": "2026-03-07T14:50:30Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 16,
+      "issues": 0,
+      "reviews": 12
+    },
+    "2026-03-07": {
+      "prs": 15,
+      "issues": 0,
+      "reviews": 10
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
     "Discussion",
+    "Direct Commits",
     "Large-Scale Changes"
   ],
   "achievements": [
@@ -408,22 +424,5 @@
   ],
   "recentCommitDays": {
     "2026-03-08": 3
-  },
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 16,
-      "issues": 0,
-      "reviews": 12
-    },
-    "2026-03-07": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 8
-    }
   }
 }

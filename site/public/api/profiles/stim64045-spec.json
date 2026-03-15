@@ -3,57 +3,132 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259352523?v=4",
   "githubUrl": "https://github.com/stim64045-spec",
   "score": {
-    "score": 41.27,
-    "prScore": 41.27,
+    "score": 155.57,
+    "prScore": 155.57,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
-    "prsMerged": 0,
-    "prAdditions": 235,
-    "prDeletions": 16,
-    "prChangedFiles": 8,
-    "prMergeRate": 0,
+    "prs": 11,
+    "prsMerged": 1,
+    "prAdditions": 998,
+    "prDeletions": 36,
+    "prChangedFiles": 33,
+    "prMergeRate": 9,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
-    "commitAdditions": 0,
+    "commitAdditions": 59,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 11,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
+      "commitAdditions": 59,
       "commitDeletions": 0,
-      "commits": 0
+      "commits": 1
     },
     "monthly": {
-      "prs": 4,
+      "prs": 11,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
+      "commitAdditions": 59,
       "commitDeletions": 0,
-      "commits": 0
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-11T00:12:30Z",
-  "lastContribution": "2026-03-11T02:48:53Z",
+  "lastContribution": "2026-03-12T12:18:35Z",
   "recentPRs": [
+    {
+      "number": 44022,
+      "title": "fix: stop false-positive built-in extension skill root warnings",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T12:18:35Z",
+      "mergedAt": null,
+      "additions": 125,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43992,
+      "title": "fix(agents): preserve agent.wait results for subagent announces",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T11:35:57Z",
+      "mergedAt": null,
+      "additions": 220,
+      "deletions": 0,
+      "changedFiles": 7
+    },
+    {
+      "number": 43984,
+      "title": "fix(gateway): keep main sessions visible in active session lists",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T11:24:33Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43982,
+      "title": "fix(gateway): strip inline image payloads from chat history",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T11:23:30Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 43979,
+      "title": "fix(ui): restore control-ui query token compatibility",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T11:20:33Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 43978,
+      "title": "fix(whatsapp): widen reconnect-window retries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T11:20:22Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 9,
+      "changedFiles": 4
+    },
+    {
+      "number": 43975,
+      "title": "fix(windows): bootstrap UTF-8 before running gateway task script",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T11:17:18Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 1,
+      "changedFiles": 3
+    },
     {
       "number": 42705,
       "title": "fix(googlechat): honor replyToMode off for thread replies",
@@ -90,27 +165,40 @@
     {
       "number": 42583,
       "title": "fix: restore web fetch firecrawl config in runtime zod schema",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T00:12:30Z",
-      "mergedAt": null,
-      "additions": 58,
+      "mergedAt": "2026-03-13T11:56:26Z",
+      "additions": 59,
       "deletions": 0,
-      "changedFiles": 2
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 4,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-13": 1
   }
 }

@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2534327?u=57dfeec433507a81bcc1e79ac6f09465fcf20eda&v=4",
   "githubUrl": "https://github.com/seojoonkim",
   "score": {
-    "score": 47.05,
-    "prScore": 44.55,
+    "score": 60.56,
+    "prScore": 58.56,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2.5
+    "commentScore": 2
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 856,
-    "prDeletions": 30,
-    "prChangedFiles": 15,
+    "prAdditions": 898,
+    "prDeletions": 69,
+    "prChangedFiles": 25,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T06:58:21Z",
+  "firstContribution": "2026-03-04T19:59:25Z",
   "lastContribution": "2026-03-10T12:48:00Z",
   "recentPRs": [
     {
@@ -61,35 +59,24 @@
       "merged": false,
       "createdAt": "2026-03-04T19:59:25Z",
       "mergedAt": null,
-      "additions": 447,
-      "deletions": 26,
-      "changedFiles": 11
-    },
-    {
-      "number": 34086,
-      "title": "feat(telegram): batch rapid document uploads into a single agent turn",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T06:58:21Z",
-      "mergedAt": null,
-      "additions": 409,
-      "deletions": 4,
-      "changedFiles": 4
+      "additions": 898,
+      "deletions": 69,
+      "changedFiles": 25
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

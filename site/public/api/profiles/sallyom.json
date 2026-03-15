@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/11166065?v=4",
   "githubUrl": "https://github.com/sallyom",
   "score": {
-    "score": 239.73,
-    "prScore": 162.73,
+    "score": 304.65,
+    "prScore": 215.15,
     "issueScore": 0,
-    "reviewScore": 71,
-    "commentScore": 6
+    "reviewScore": 83,
+    "commentScore": 6.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
-    "commits": 3,
-    "prs": 5,
-    "prsMerged": 2,
-    "prAdditions": 1262,
-    "prDeletions": 66,
-    "prChangedFiles": 32,
-    "prMergeRate": 40,
+    "commits": 6,
+    "prs": 7,
+    "prsMerged": 4,
+    "prAdditions": 1876,
+    "prDeletions": 129,
+    "prChangedFiles": 49,
+    "prMergeRate": 57,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 23,
+    "reviews": 27,
     "reviewsApproved": 2,
     "reviewsChangesRequested": 0,
-    "comments": 12,
-    "commitAdditions": 279,
-    "commitDeletions": 47,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 16
+    "comments": 13,
+    "commitAdditions": 1815,
+    "commitDeletions": 110,
+    "commitChangedFiles": 50
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 21,
-      "comments": 12,
-      "commitAdditions": 237,
-      "commitDeletions": 47,
-      "commits": 2
-    },
-    "monthly": {
-      "prs": 5,
+      "prs": 4,
       "issues": 0,
       "reviews": 23,
-      "comments": 12,
-      "commitAdditions": 279,
-      "commitDeletions": 47,
+      "comments": 9,
+      "commitAdditions": 1536,
+      "commitDeletions": 63,
       "commits": 3
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 27,
+      "comments": 13,
+      "commitAdditions": 1815,
+      "commitDeletions": 110,
+      "commits": 6
     }
   },
-  "firstContribution": "2026-03-02T22:18:09Z",
-  "lastContribution": "2026-03-12T05:11:20Z",
+  "firstContribution": "2026-03-04T13:47:23Z",
+  "lastContribution": "2026-03-14T16:21:29Z",
   "recentPRs": [
+    {
+      "number": 46290,
+      "title": "fix(gateway/cli): relax local backend self-pairing and harden launchd restarts",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T15:32:36Z",
+      "mergedAt": "2026-03-14T18:27:53Z",
+      "additions": 347,
+      "deletions": 5,
+      "changedFiles": 10
+    },
+    {
+      "number": 45512,
+      "title": "fix(gateway/ui): restore control-ui auth bypass and classify connect failures",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T22:49:38Z",
+      "mergedAt": "2026-03-14T01:13:36Z",
+      "additions": 337,
+      "deletions": 58,
+      "changedFiles": 14
+    },
+    {
+      "number": 44653,
+      "title": "fix status",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T04:22:10Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
     {
       "number": 43356,
       "title": "[DRAFT] feat: add anthropic-vertex provider for Claude via GCP Vertex AI",
@@ -90,28 +121,47 @@
     {
       "number": 34492,
       "title": "docs: add Kubernetes install guide, setup script, and manifests",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T13:47:23Z",
-      "mergedAt": null,
-      "additions": 853,
-      "deletions": 0,
-      "changedFiles": 10
-    },
-    {
-      "number": 32223,
-      "title": "container builds: opt-in extension deps via OPENCLAW_EXTENSIONS build arg",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-02T22:18:09Z",
-      "mergedAt": "2026-03-06T17:18:42Z",
-      "additions": 71,
-      "deletions": 2,
-      "changedFiles": 8
+      "createdAt": "2026-03-04T13:47:23Z",
+      "mergedAt": "2026-03-12T11:28:21Z",
+      "additions": 852,
+      "deletions": 0,
+      "changedFiles": 10
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 46290,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:21:29Z"
+    },
+    {
+      "prNumber": 46290,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:04:13Z"
+    },
+    {
+      "prNumber": 46290,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T16:03:11Z"
+    },
+    {
+      "prNumber": 46290,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T15:50:48Z"
+    },
+    {
+      "prNumber": 45512,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T00:01:30Z"
+    },
+    {
+      "prNumber": 45512,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:57:36Z"
+    },
     {
       "prNumber": 34492,
       "state": "COMMENTED",
@@ -181,57 +231,19 @@
       "prNumber": 39435,
       "state": "COMMENTED",
       "createdAt": "2026-03-08T21:19:33Z"
-    },
-    {
-      "prNumber": 39435,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T21:19:21Z"
-    },
-    {
-      "prNumber": 39435,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T21:19:05Z"
-    },
-    {
-      "prNumber": 39435,
-      "state": "APPROVED",
-      "createdAt": "2026-03-08T21:18:15Z"
-    },
-    {
-      "prNumber": 38479,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T18:14:20Z"
-    },
-    {
-      "prNumber": 38479,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T18:10:20Z"
-    },
-    {
-      "prNumber": 38479,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T09:00:39Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-07": 1,
-    "2026-03-06": 1,
-    "2026-02-23": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -240,14 +252,9 @@
     "2026-03-07": {
       "prs": 2,
       "issues": 0,
-      "reviews": 3
+      "reviews": 4
     },
     "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -262,5 +269,25 @@
       "issues": 0,
       "reviews": 12
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-14": 2,
+    "2026-03-12": 1,
+    "2026-03-07": 1,
+    "2026-03-06": 1,
+    "2026-02-23": 1
   }
 }

@@ -27,8 +27,6 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -57,7 +55,7 @@
     {
       "number": 40959,
       "title": "Fix cross-agent sessions_spawn workspace inheritance",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T12:17:38Z",
       "mergedAt": null,
@@ -100,7 +98,7 @@
     },
     {
       "number": 40643,
-      "title": "fix: strip consecutive assistant error entries to prevent session poi\u2026",
+      "title": "fix: strip consecutive assistant error entries to prevent session poi…",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-09T05:42:43Z",
@@ -123,12 +121,6 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 5,
@@ -140,5 +132,11 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

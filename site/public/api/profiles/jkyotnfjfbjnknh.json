@@ -1,0 +1,103 @@
+{
+  "username": "jkyotnfjfbjnknh",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/167171060?u=ab9cddcdf25992a1b490bb3c00653e945b654b0a&v=4",
+  "githubUrl": "https://github.com/jkyotnfjfbjnknh",
+  "score": {
+    "score": 31.41,
+    "prScore": 17.91,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 427,
+    "prDeletions": 2,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T15:45:06Z",
+  "lastContribution": "2026-03-14T07:50:11Z",
+  "recentPRs": [
+    {
+      "number": 44872,
+      "title": "feat: add /default_model command to set default model persistently",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T08:33:55Z",
+      "mergedAt": null,
+      "additions": 427,
+      "deletions": 2,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 44186,
+      "title": "bug: normalizePayloadKind reports false-positive mutation on correctly-cased payload kinds",
+      "state": "CLOSED",
+      "createdAt": "2026-03-12T15:45:15Z",
+      "closedAt": "2026-03-13T03:12:55Z"
+    },
+    {
+      "number": 44185,
+      "title": "bug: doctor --repair ineffective in non-interactive mode (confirmDefault checks nonInteractive before shouldRepair)",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T15:45:06Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

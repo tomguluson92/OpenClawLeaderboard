@@ -1,0 +1,102 @@
+{
+  "username": "Devdha",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46529663?u=e695615d5622d09a6cf1263f1cbe442caf4260cf&v=4",
+  "githubUrl": "https://github.com/Devdha",
+  "score": {
+    "score": 22.85,
+    "prScore": 15.85,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 17,
+    "prDeletions": 4,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T16:14:52Z",
+  "lastContribution": "2026-03-12T17:04:16Z",
+  "recentPRs": [
+    {
+      "number": 44230,
+      "title": "fix(cron): harden isolated announce NO_REPLY matching",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:30:06Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 44224,
+      "title": "fix(cron): suppress isolated cron interim narration from announce delivery",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T16:23:05Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 44213,
+      "title": "[Bug]: cron isolated announce can leak NO_REPLY/status narration to Telegram",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T16:14:52Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

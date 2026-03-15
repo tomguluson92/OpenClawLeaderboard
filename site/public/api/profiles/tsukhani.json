@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/156283?v=4",
   "githubUrl": "https://github.com/tsukhani",
   "score": {
-    "score": 178.06,
+    "score": 188.56,
     "prScore": 178.06,
-    "issueScore": 0,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "regular",
   "characterClass": "Builder",
@@ -19,40 +19,38 @@
     "prDeletions": 1032,
     "prChangedFiles": 291,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 0,
+      "prs": 0,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 0,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-05T13:36:40Z",
-  "lastContribution": "2026-03-05T13:36:43Z",
+  "lastContribution": "2026-03-15T04:39:24Z",
   "recentPRs": [
     {
       "number": 36204,
@@ -77,10 +75,44 @@
       "changedFiles": 146
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 46878,
+      "title": "doctor: improve memory search health check when memory plugin slot is active",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T04:39:24Z",
+      "closedAt": null
+    },
+    {
+      "number": 46421,
+      "title": "OP-143: Entity-first retrieval — include Entity node properties as first-class search results",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T17:17:27Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
     "Large-Scale Changes"
   ],
   "achievements": [
@@ -95,12 +127,5 @@
       "description": "50K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

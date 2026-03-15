@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4325889?u=3ae9d1e32cfd45208466267b344c9fd36b7367fe&v=4",
   "githubUrl": "https://github.com/markfietje",
   "score": {
-    "score": 143.31,
-    "prScore": 125.81,
+    "score": 29.13,
+    "prScore": 29.13,
     "issueScore": 0,
-    "reviewScore": 12,
-    "commentScore": 5.5
+    "reviewScore": 0,
+    "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Contributor",
+  "tier": "beginner",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 7,
-    "prsMerged": 1,
-    "prAdditions": 849,
-    "prDeletions": 146,
-    "prChangedFiles": 26,
-    "prMergeRate": 14,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 316,
+    "prDeletions": 17,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 4,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
+    "comments": 0,
     "commitAdditions": 122,
     "commitDeletions": 11,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 9
   },
   "period": {
@@ -42,21 +40,21 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 1,
       "issues": 0,
-      "reviews": 4,
-      "comments": 11,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 122,
       "commitDeletions": 11,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-01T11:13:20Z",
+  "firstContribution": "2026-03-05T00:38:46Z",
   "lastContribution": "2026-03-05T00:38:46Z",
   "recentPRs": [
     {
       "number": 35109,
-      "title": "fix(gateway): surgical proxy-aware origin validation \ud83e\udd16",
+      "title": "fix(gateway): surgical proxy-aware origin validation 🤖",
       "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T00:38:46Z",
@@ -64,126 +62,22 @@
       "additions": 316,
       "deletions": 17,
       "changedFiles": 3
-    },
-    {
-      "number": 33285,
-      "title": "fix(control-ui): allow bundled Control UI hardlinks for pnpm installs",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T16:57:08Z",
-      "mergedAt": null,
-      "additions": 339,
-      "deletions": 21,
-      "changedFiles": 7
-    },
-    {
-      "number": 32165,
-      "title": "test(cron): stabilize model precedence test and fix potential flakes",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T20:54:43Z",
-      "mergedAt": null,
-      "additions": 48,
-      "deletions": 35,
-      "changedFiles": 1
-    },
-    {
-      "number": 32159,
-      "title": "test(security): fix flake in skill scanner cache invalidation test",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T20:43:33Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 32122,
-      "title": "fix(synology-chat): resolve duplicate makeReq test conflict",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T19:59:43Z",
-      "mergedAt": null,
-      "additions": 8,
-      "deletions": 54,
-      "changedFiles": 2
-    },
-    {
-      "number": 32119,
-      "title": "fix(plugins): allow hardlinks for bundled plugins (fixes #28175, #28404)",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T19:58:23Z",
-      "mergedAt": "2026-03-02T22:10:31Z",
-      "additions": 126,
-      "deletions": 12,
-      "changedFiles": 10
-    },
-    {
-      "number": 32100,
-      "title": "fix(plugins): allow hardlinks for bundled plugins (fixes #28175, #28404)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T19:38:06Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 6,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 33285,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T08:51:51Z"
-    },
-    {
-      "prNumber": 33285,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T08:45:50Z"
-    },
-    {
-      "prNumber": 33285,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T08:42:32Z"
-    },
-    {
-      "prNumber": 33285,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T20:56:40Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-02": 1
-  },
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-02": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 3
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 1
   }
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4277503?u=b1ea2e4a438148401cabc3ff1e22d2ffb07f0358&v=4",
   "githubUrl": "https://github.com/androidshu",
   "score": {
-    "score": 20.92,
-    "prScore": 20.92,
+    "score": 9.56,
+    "prScore": 9.56,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 97,
+    "prAdditions": 67,
     "prDeletions": 3,
-    "prChangedFiles": 5,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T10:47:12Z",
+  "firstContribution": "2026-03-11T02:43:33Z",
   "lastContribution": "2026-03-11T02:43:33Z",
   "recentPRs": [
     {
@@ -64,36 +62,20 @@
       "additions": 67,
       "deletions": 3,
       "changedFiles": 2
-    },
-    {
-      "number": 32914,
-      "title": "fix(gateway): expose legacy dispatcher alias for external channel plugins",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T10:47:12Z",
-      "mergedAt": null,
-      "additions": 30,
-      "deletions": 0,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

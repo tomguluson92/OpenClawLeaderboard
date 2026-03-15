@@ -1,0 +1,100 @@
+{
+  "username": "luzhidong",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15848762?v=4",
+  "githubUrl": "https://github.com/luzhidong",
+  "score": {
+    "score": 38.33,
+    "prScore": 20.33,
+    "issueScore": 16,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 144,
+    "prDeletions": 11,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
+    "issues": 2,
+    "issuesClosed": 2,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 144,
+    "commitDeletions": 11,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 144,
+      "commitDeletions": 11,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 144,
+      "commitDeletions": 11,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-13T13:21:41Z",
+  "lastContribution": "2026-03-14T01:30:00Z",
+  "recentPRs": [
+    {
+      "number": 45130,
+      "title": "fix(ui): session dropdown shows label instead of key",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T13:34:33Z",
+      "mergedAt": "2026-03-14T11:36:46Z",
+      "additions": 144,
+      "deletions": 11,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45226,
+      "title": "[Bug] Web UI 新消息提示按钮巨大 (INVALID)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-13T15:12:36Z",
+      "closedAt": "2026-03-13T15:14:18Z"
+    },
+    {
+      "number": 45120,
+      "title": "[Bug] Session dropdown shows key instead of label (2026.3.12 regression)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-13T13:21:41Z",
+      "closedAt": "2026-03-14T11:36:47Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-14": 1
+  }
+}

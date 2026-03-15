@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/31175216?v=4",
   "githubUrl": "https://github.com/wsyjh8",
   "score": {
-    "score": 70.26,
-    "prScore": 46.76,
+    "score": 87.34,
+    "prScore": 62.34,
     "issueScore": 5,
     "reviewScore": 15,
-    "commentScore": 3.5
+    "commentScore": 5
   },
   "tier": "regular",
-  "characterClass": "Reviewer",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 714,
-    "prDeletions": 24,
-    "prChangedFiles": 13,
+    "prAdditions": 1116,
+    "prDeletions": 162,
+    "prChangedFiles": 16,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 10,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 1,
       "reviews": 5,
-      "comments": 7,
+      "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 1,
       "reviews": 5,
-      "comments": 7,
+      "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T00:40:32Z",
-  "lastContribution": "2026-03-10T00:24:42Z",
+  "lastContribution": "2026-03-14T20:30:03Z",
   "recentPRs": [
+    {
+      "number": 46275,
+      "title": "fix(ui): stabilize agent primary model selection on switch",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T15:16:11Z",
+      "mergedAt": null,
+      "additions": 402,
+      "deletions": 138,
+      "changedFiles": 3
+    },
     {
       "number": 41546,
       "title": "fix(ui): preserve gateway token when editing websocket url",
@@ -124,6 +133,18 @@
       "createdAt": "2026-03-09T04:46:47Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 5
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -137,12 +158,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 3,
-      "issues": 1,
-      "reviews": 5
-    }
-  }
+  "recentCommitDays": {}
 }

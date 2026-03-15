@@ -3,69 +3,126 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/36720180?v=4",
   "githubUrl": "https://github.com/tonydehnke",
   "score": {
-    "score": 64.99,
-    "prScore": 56.49,
-    "issueScore": 8,
-    "reviewScore": 0,
-    "commentScore": 0.5
+    "score": 145.45,
+    "prScore": 126.45,
+    "issueScore": 0,
+    "reviewScore": 18,
+    "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 2,
-    "prs": 0,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
+    "prAdditions": 1020,
+    "prDeletions": 60,
+    "prChangedFiles": 22,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 1,
-    "reviews": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 2,
     "commitAdditions": 2196,
     "commitDeletions": 122,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 20
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 2063,
-      "commitDeletions": 90,
-      "commits": 1
+      "reviews": 6,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 1,
+      "prs": 2,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 2,
       "commitAdditions": 2196,
       "commitDeletions": 122,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-02T07:54:03Z",
-  "lastContribution": "2026-03-02T08:10:49Z",
-  "recentPRs": [],
-  "recentIssues": [
+  "firstContribution": "2026-03-13T10:20:56Z",
+  "lastContribution": "2026-03-14T04:03:41Z",
+  "recentPRs": [
     {
-      "number": 31441,
-      "title": "tsgo: Slack monitor event tests fail after test dedupe (dmPolicy type mismatch)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T07:54:03Z",
-      "closedAt": "2026-03-02T08:10:57Z"
+      "number": 44982,
+      "title": "feat(web-search): add provider fallback chain",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:21:48Z",
+      "mergedAt": null,
+      "additions": 716,
+      "deletions": 44,
+      "changedFiles": 11
+    },
+    {
+      "number": 44981,
+      "title": "feat(web-search): add Tavily as search provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:21:27Z",
+      "mergedAt": null,
+      "additions": 304,
+      "deletions": 16,
+      "changedFiles": 11
     }
   ],
-  "recentReviews": [],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 44982,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T04:03:41Z"
+    },
+    {
+      "prNumber": 44982,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T04:03:37Z"
+    },
+    {
+      "prNumber": 44982,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T04:03:34Z"
+    },
+    {
+      "prNumber": 44982,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T04:03:30Z"
+    },
+    {
+      "prNumber": 44982,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T04:03:26Z"
+    },
+    {
+      "prNumber": 44981,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T04:03:15Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 6
+    }
+  },
   "skills": [
-    "Issue Reporting",
+    "Pull Requests",
+    "Code Review",
     "Discussion",
     "Direct Commits"
   ],
@@ -73,12 +130,5 @@
   "recentCommitDays": {
     "2026-03-05": 1,
     "2026-02-28": 1
-  },
-  "recentActivityDays": {
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

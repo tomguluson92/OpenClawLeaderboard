@@ -1,0 +1,139 @@
+{
+  "username": "thepagent",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/262003297?u=06df64e21a77cb4a4f67f8134930476ac44c940e&v=4",
+  "githubUrl": "https://github.com/thepagent",
+  "score": {
+    "score": 102.92,
+    "prScore": 78.92,
+    "issueScore": 13,
+    "reviewScore": 9,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 163,
+    "prDeletions": 8,
+    "prChangedFiles": 20,
+    "prMergeRate": 50,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 129,
+    "commitDeletions": 8,
+    "commitChangedFiles": 16
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 3,
+      "comments": 4,
+      "commitAdditions": 129,
+      "commitDeletions": 8,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 3,
+      "comments": 4,
+      "commitAdditions": 129,
+      "commitDeletions": 8,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-13T13:08:43Z",
+  "lastContribution": "2026-03-14T13:09:18Z",
+  "recentPRs": [
+    {
+      "number": 46119,
+      "title": "fix: forward forceDocument through sendPayload path (follow-up to #45111)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T12:51:00Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 45111,
+      "title": "feat: add --force-document to message.send for Telegram (bypass sendPhoto + image optimizer)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T13:13:22Z",
+      "mergedAt": "2026-03-14T11:43:49Z",
+      "additions": 129,
+      "deletions": 8,
+      "changedFiles": 16
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 46076,
+      "title": "[Bug]: v2026.3.13 Docker image missing — docker-release workflow failed on tag push",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T11:59:34Z",
+      "closedAt": null
+    },
+    {
+      "number": 45106,
+      "title": "feat: add --force-document option to message.send for Telegram to bypass image compression",
+      "state": "CLOSED",
+      "createdAt": "2026-03-13T13:08:43Z",
+      "closedAt": "2026-03-14T11:43:50Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 46119,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T13:09:18Z"
+    },
+    {
+      "prNumber": 46119,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T12:56:22Z"
+    },
+    {
+      "prNumber": 45111,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T19:13:51Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-14": 1
+  }
+}

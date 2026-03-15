@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -87,6 +85,18 @@
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
@@ -99,17 +109,5 @@
       "description": "10K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

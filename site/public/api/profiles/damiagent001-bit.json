@@ -27,8 +27,6 @@
     "comments": 7,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -126,20 +124,6 @@
       "createdAt": "2026-03-10T09:28:39Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
@@ -156,5 +140,19 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

@@ -1,59 +1,79 @@
 {
   "username": "chengjialu8888",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/261118124?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/261118124?u=f608af2c640d9e753b26865f27cf057a916a2251&v=4",
   "githubUrl": "https://github.com/chengjialu8888",
   "score": {
-    "score": 310.14,
-    "prScore": 235.14,
+    "score": 350.57,
+    "prScore": 272.07,
     "issueScore": 55,
     "reviewScore": 9,
-    "commentScore": 11
+    "commentScore": 14.5
   },
   "tier": "active",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 24,
+    "prs": 26,
     "prsMerged": 0,
-    "prAdditions": 2950,
-    "prDeletions": 8,
-    "prChangedFiles": 28,
+    "prAdditions": 3324,
+    "prDeletions": 18,
+    "prChangedFiles": 37,
     "prMergeRate": 0,
     "issues": 11,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 22,
+    "comments": 29,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 24,
+      "prs": 26,
       "issues": 11,
       "reviews": 3,
-      "comments": 22,
+      "comments": 29,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 24,
+      "prs": 26,
       "issues": 11,
       "reviews": 3,
-      "comments": 22,
+      "comments": 29,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-11T09:02:13Z",
-  "lastContribution": "2026-03-12T01:05:03Z",
+  "lastContribution": "2026-03-14T09:02:03Z",
   "recentPRs": [
+    {
+      "number": 45879,
+      "title": "feat(metabolism): add homeostatic token budget management system",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T08:17:27Z",
+      "mergedAt": null,
+      "additions": 360,
+      "deletions": 6,
+      "changedFiles": 7
+    },
+    {
+      "number": 44018,
+      "title": "fix(failover): classify ZenMux 402 as rate_limit",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T12:13:49Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 3,
+      "changedFiles": 1
+    },
     {
       "number": 43304,
       "title": "feat(agents): include current date and day-of-week in system prompt",
@@ -61,8 +81,8 @@
       "merged": false,
       "createdAt": "2026-03-11T15:44:13Z",
       "mergedAt": null,
-      "additions": 18,
-      "deletions": 2,
+      "additions": 21,
+      "deletions": 3,
       "changedFiles": 2
     },
     {
@@ -72,9 +92,9 @@
       "merged": false,
       "createdAt": "2026-03-11T13:57:13Z",
       "mergedAt": null,
-      "additions": 6,
+      "additions": 8,
       "deletions": 6,
-      "changedFiles": 4
+      "changedFiles": 5
     },
     {
       "number": 43212,
@@ -251,28 +271,6 @@
       "additions": 51,
       "deletions": 0,
       "changedFiles": 1
-    },
-    {
-      "number": 43080,
-      "title": "docs(zh-CN): add Chinese translation for ci.md",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T10:23:32Z",
-      "mergedAt": null,
-      "additions": 56,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 43079,
-      "title": "docs(zh-CN): add Chinese translation for cli/completion.md",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T10:23:02Z",
-      "mergedAt": null,
-      "additions": 35,
-      "deletions": 0,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [
@@ -371,6 +369,23 @@
       "createdAt": "2026-03-11T14:53:14Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-11": {
+      "prs": 24,
+      "issues": 11,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -399,17 +414,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 20,
-      "issues": 11,
-      "reviews": 1
-    },
-    "2026-03-12": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
-    }
-  }
+  "recentCommitDays": {}
 }

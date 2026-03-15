@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6015960?v=4",
   "githubUrl": "https://github.com/ingyukoh",
   "score": {
-    "score": 217.55,
-    "prScore": 168.05,
-    "issueScore": 45,
+    "score": 224,
+    "prScore": 172.5,
+    "issueScore": 48,
     "reviewScore": 0,
-    "commentScore": 4.5
+    "commentScore": 3.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 4,
-    "prs": 9,
-    "prsMerged": 4,
-    "prAdditions": 156,
-    "prDeletions": 25,
+    "commits": 5,
+    "prs": 7,
+    "prsMerged": 5,
+    "prAdditions": 150,
+    "prDeletions": 17,
     "prChangedFiles": 27,
-    "prMergeRate": 44,
+    "prMergeRate": 71,
     "issues": 6,
-    "issuesClosed": 5,
+    "issuesClosed": 6,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
-    "commitAdditions": 91,
+    "comments": 7,
+    "commitAdditions": 110,
     "commitDeletions": 15,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 16
+    "commitChangedFiles": 22
   },
   "period": {
     "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 110,
+      "commitDeletions": 15,
+      "commits": 5
+    },
+    "monthly": {
       "prs": 7,
       "issues": 6,
       "reviews": 0,
       "comments": 7,
-      "commitAdditions": 91,
+      "commitAdditions": 110,
       "commitDeletions": 15,
-      "commits": 4
-    },
-    "monthly": {
-      "prs": 9,
-      "issues": 6,
-      "reviews": 0,
-      "comments": 9,
-      "commitAdditions": 91,
-      "commitDeletions": 15,
-      "commits": 4
+      "commits": 5
     }
   },
-  "firstContribution": "2026-03-02T21:44:57Z",
+  "firstContribution": "2026-03-05T05:17:19Z",
   "lastContribution": "2026-03-11T07:46:40Z",
   "recentPRs": [
     {
@@ -79,13 +77,13 @@
     {
       "number": 35615,
       "title": "fix(discovery): add missing domain to wideArea Zod config schema",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-05T06:50:03Z",
-      "mergedAt": null,
-      "additions": 14,
+      "mergedAt": "2026-03-13T12:52:54Z",
+      "additions": 19,
       "deletions": 0,
-      "changedFiles": 2
+      "changedFiles": 6
     },
     {
       "number": 35608,
@@ -130,28 +128,6 @@
       "additions": 18,
       "deletions": 0,
       "changedFiles": 3
-    },
-    {
-      "number": 32243,
-      "title": "fix(slack): preserve session continuity for top-level channel messages",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T22:31:14Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 32197,
-      "title": "fix(mac): default to universal binary for release builds",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T21:44:57Z",
-      "mergedAt": null,
-      "additions": 6,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -165,9 +141,9 @@
     {
       "number": 35614,
       "title": "[Bug] discovery.wideArea.domain config rejected by strict Zod schema",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-05T06:50:02Z",
-      "closedAt": null
+      "closedAt": "2026-03-13T12:52:55Z"
     },
     {
       "number": 35607,
@@ -199,22 +175,6 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-11": 4
-  },
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
@@ -225,11 +185,28 @@
       "prs": 6,
       "issues": 6,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-13": 1,
+    "2026-03-11": 4
   }
 }

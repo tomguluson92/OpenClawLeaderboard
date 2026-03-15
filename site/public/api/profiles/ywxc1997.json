@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/55086154?u=20948533e05d0b4fd602b094ac0b56b20a9497cf&v=4",
   "githubUrl": "https://github.com/ywxc1997",
   "score": {
-    "score": 20.98,
-    "prScore": 14.98,
+    "score": 30.17,
+    "prScore": 24.17,
     "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 3
@@ -13,11 +13,11 @@
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 21,
-    "prDeletions": 4,
-    "prChangedFiles": 1,
+    "prAdditions": 25,
+    "prDeletions": 8,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 1,
       "comments": 6,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 1,
       "comments": 6,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-10T07:01:26Z",
-  "lastContribution": "2026-03-12T04:49:57Z",
+  "lastContribution": "2026-03-12T05:14:59Z",
   "recentPRs": [
+    {
+      "number": 43698,
+      "title": "fix(matrix): prioritize top-level allowFrom over dm.allowFrom (fixes #43688)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T05:14:59Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 4,
+      "changedFiles": 2
+    },
     {
       "number": 42052,
       "title": "fix(backup): treat non-existent output paths as directories",
@@ -85,18 +94,23 @@
       "createdAt": "2026-03-10T07:04:12Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
     "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 1
-    }
-  }
+  "recentCommitDays": {}
 }

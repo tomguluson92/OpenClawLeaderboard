@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258733900?v=4",
   "githubUrl": "https://github.com/tony980130",
   "score": {
-    "score": 46.64,
-    "prScore": 46.64,
+    "score": 8.6,
+    "prScore": 8.6,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 243,
-    "prDeletions": 12,
-    "prChangedFiles": 7,
+    "prAdditions": 208,
+    "prDeletions": 0,
+    "prChangedFiles": 1,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T07:48:26Z",
+  "firstContribution": "2026-03-05T06:29:30Z",
   "lastContribution": "2026-03-05T06:29:30Z",
   "recentPRs": [
     {
@@ -64,69 +62,20 @@
       "additions": 208,
       "deletions": 0,
       "changedFiles": 1
-    },
-    {
-      "number": 34141,
-      "title": "fix(telegram): add suppressPrivacyModeWarning option to silence false-positive doctor warning",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T07:50:51Z",
-      "mergedAt": null,
-      "additions": 8,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 34138,
-      "title": "fix(doctor): check per-group allowFrom before warning about empty groupAllowFrom",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T07:49:55Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 34136,
-      "title": "fix(install): check for git before installing",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T07:49:17Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 8,
-      "changedFiles": 2
-    },
-    {
-      "number": 34135,
-      "title": "fix(gateway): prevent gateway SIGTERM on macOS screen lock",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T07:48:26Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/33502405?u=a7bc9c7c7fb6212969aef00dc67adcdcbf3c974a&v=4",
   "githubUrl": "https://github.com/Narcooo",
   "score": {
-    "score": 549.7,
-    "prScore": 532.7,
+    "score": 523.41,
+    "prScore": 510.91,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 14
+    "reviewScore": 0,
+    "commentScore": 12.5
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 58,
+    "prs": 55,
     "prsMerged": 0,
-    "prAdditions": 4029,
-    "prDeletions": 630,
-    "prChangedFiles": 165,
+    "prAdditions": 3853,
+    "prDeletions": 567,
+    "prChangedFiles": 159,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 28,
+    "comments": 25,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 48,
+      "prs": 16,
       "issues": 0,
       "reviews": 0,
-      "comments": 28,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 58,
+      "prs": 55,
       "issues": 0,
-      "reviews": 1,
-      "comments": 28,
+      "reviews": 0,
+      "comments": 25,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T02:42:06Z",
+  "firstContribution": "2026-03-04T10:55:12Z",
   "lastContribution": "2026-03-09T13:13:56Z",
   "recentPRs": [
     {
@@ -276,16 +274,41 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 33982,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T06:33:29Z"
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 21,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
     }
-  ],
+  },
   "skills": [
     "Pull Requests",
-    "Code Review",
     "Discussion"
   ],
   "achievements": [
@@ -305,22 +328,5 @@
       "description": "20+ comments"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 11,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 9,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
-    }
-  }
+  "recentCommitDays": {}
 }

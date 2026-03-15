@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17005481?u=1a7b37004d4831bd4fb981b198e1db75b17d8962&v=4",
   "githubUrl": "https://github.com/bread22",
   "score": {
-    "score": 34.26,
+    "score": 20.76,
     "prScore": 9.26,
-    "issueScore": 23,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 1.5
   },
   "tier": "beginner",
   "characterClass": "Hunter",
@@ -19,20 +19,27 @@
     "prDeletions": 8,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 4,
-    "issuesClosed": 1,
+    "issues": 2,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 3,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 2,
       "reviews": 0,
@@ -40,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 1,
-      "issues": 4,
-      "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-02-27T15:52:00Z",
+  "firstContribution": "2026-03-06T05:15:18Z",
   "lastContribution": "2026-03-06T05:25:17Z",
   "recentPRs": [
     {
@@ -80,40 +78,21 @@
       "state": "OPEN",
       "createdAt": "2026-03-06T05:15:18Z",
       "closedAt": null
-    },
-    {
-      "number": 28901,
-      "title": "[Bug] Telegram forum supergroup - messages not reaching gateway after 2026.2.26 update",
-      "state": "CLOSED",
-      "createdAt": "2026-02-27T15:52:28Z",
-      "closedAt": "2026-03-03T00:31:03Z"
-    },
-    {
-      "number": 28899,
-      "title": "[Bug] Telegram forum supergroup messages not reaching gateway at all (DM works)",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T15:52:00Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 0
-    },
-    "2026-02-27": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

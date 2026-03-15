@@ -3,37 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/156181593?u=399a9c4eb91cf9c2ef15c19e62ee37ce9f27dc2b&v=4",
   "githubUrl": "https://github.com/YangManBOBO",
   "score": {
-    "score": 8.58,
-    "prScore": 8.08,
+    "score": 41.1,
+    "prScore": 41.1,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 32,
-    "prDeletions": 4,
-    "prChangedFiles": 1,
+    "prAdditions": 218,
+    "prDeletions": 16,
+    "prChangedFiles": 8,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,43 +40,80 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T14:03:53Z",
-  "lastContribution": "2026-03-03T01:36:04Z",
+  "firstContribution": "2026-03-12T14:08:48Z",
+  "lastContribution": "2026-03-13T13:42:08Z",
   "recentPRs": [
     {
-      "number": 31753,
-      "title": "docs: fix link audit to ignore fenced code blocks correctly",
+      "number": 45140,
+      "title": "fix(cli): retry logs --follow on transient gateway connect (#45080)",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-02T14:03:53Z",
+      "createdAt": "2026-03-13T13:42:08Z",
       "mergedAt": null,
-      "additions": 32,
-      "deletions": 4,
+      "additions": 122,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 44890,
+      "title": "fix: avoid ANTHROPIC_MODEL_ALIASES TDZ on CLI startup (#44854)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T08:55:22Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 44512,
+      "title": "Fix workspace symlink escapes in agents.files.get",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T01:25:20Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 0,
       "changedFiles": 1
+    },
+    {
+      "number": 44104,
+      "title": "Fix: sanitize signal-cli temp archive names",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T14:08:48Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 6,
+      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
-    "2026-03-02": {
+    "2026-03-13": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

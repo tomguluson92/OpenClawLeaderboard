@@ -1,0 +1,120 @@
+{
+  "username": "senz2197",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/128292174?v=4",
+  "githubUrl": "https://github.com/senz2197",
+  "score": {
+    "score": 56.72,
+    "prScore": 53.22,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 3.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 608,
+    "prDeletions": 35,
+    "prChangedFiles": 13,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 7,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T21:15:00Z",
+  "lastContribution": "2026-03-14T23:20:05Z",
+  "recentPRs": [
+    {
+      "number": 46642,
+      "title": "fix(auth): persist final auth profile after successful fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T23:20:05Z",
+      "mergedAt": null,
+      "additions": 119,
+      "deletions": 5,
+      "changedFiles": 5
+    },
+    {
+      "number": 45757,
+      "title": "fix(auth): refresh auto profile override from lastGood",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T05:10:43Z",
+      "mergedAt": null,
+      "additions": 197,
+      "deletions": 12,
+      "changedFiles": 4
+    },
+    {
+      "number": 45699,
+      "title": "auth-profiles: normalize provider key when persisting lastGood",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T03:36:29Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 45462,
+      "title": "auth-profiles: prefer last successful profile during initial selection",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T21:15:00Z",
+      "mergedAt": null,
+      "additions": 216,
+      "deletions": 14,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

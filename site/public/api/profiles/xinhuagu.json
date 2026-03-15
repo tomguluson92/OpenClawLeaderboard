@@ -3,67 +3,109 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/562450?v=4",
   "githubUrl": "https://github.com/xinhuagu",
   "score": {
-    "score": 551.7,
-    "prScore": 518.2,
+    "score": 626.11,
+    "prScore": 591.61,
     "issueScore": 0,
     "reviewScore": 18,
-    "commentScore": 15.5
+    "commentScore": 16.5
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
     "commits": 12,
-    "prs": 46,
+    "prs": 50,
     "prsMerged": 4,
-    "prAdditions": 3070,
-    "prDeletions": 280,
-    "prChangedFiles": 126,
-    "prMergeRate": 9,
+    "prAdditions": 53533,
+    "prDeletions": 27266,
+    "prChangedFiles": 1015,
+    "prMergeRate": 8,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 31,
+    "comments": 33,
     "commitAdditions": 511,
     "commitDeletions": 81,
-    "weeklyCommits": 1,
-    "monthlyCommits": 12,
     "commitChangedFiles": 38
   },
   "period": {
     "weekly": {
-      "prs": 43,
+      "prs": 10,
       "issues": 0,
-      "reviews": 6,
-      "comments": 31,
-      "commitAdditions": 164,
-      "commitDeletions": 7,
-      "commits": 4
+      "reviews": 0,
+      "comments": 21,
+      "commitAdditions": 63,
+      "commitDeletions": 0,
+      "commits": 1
     },
     "monthly": {
-      "prs": 46,
+      "prs": 50,
       "issues": 0,
       "reviews": 6,
-      "comments": 31,
-      "commitAdditions": 511,
-      "commitDeletions": 81,
-      "commits": 12
+      "comments": 33,
+      "commitAdditions": 493,
+      "commitDeletions": 65,
+      "commits": 11
     }
   },
   "firstContribution": "2026-03-04T08:57:41Z",
-  "lastContribution": "2026-03-11T19:07:45Z",
+  "lastContribution": "2026-03-14T16:48:42Z",
   "recentPRs": [
+    {
+      "number": 46383,
+      "title": "fix(feishu): widen topic/thread ID regex to accept alphanumeric IDs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T16:48:42Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 46009,
+      "title": "fix(agents): resolve runtime secrets in message tool proactive send path",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T10:49:25Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45071,
+      "title": "fix(agents): heartbeat/cron prompts carry stale \"Current time\" that never refreshes between runs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T12:26:11Z",
+      "mergedAt": null,
+      "additions": 96,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 44086,
+      "title": "fix(agents): assistant message content null instead of empty string breaks OpenAI-compatible providers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T13:53:53Z",
+      "mergedAt": null,
+      "additions": 197,
+      "deletions": 0,
+      "changedFiles": 3
+    },
     {
       "number": 43118,
       "title": "fix(agents): custom providers with local base URLs rejected with \"No API key found\" after onboarding",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T11:01:07Z",
       "mergedAt": null,
-      "additions": 217,
-      "deletions": 11,
-      "changedFiles": 3
+      "additions": 50240,
+      "deletions": 26992,
+      "changedFiles": 883
     },
     {
       "number": 41745,
@@ -90,7 +132,7 @@
     {
       "number": 39770,
       "title": "fix(gateway): graceful retry on EBUSY/EACCES/EPERM file lock errors",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T11:32:24Z",
       "mergedAt": null,
@@ -178,7 +220,7 @@
     {
       "number": 38456,
       "title": "fix(agents): allow all configured agents by default when allowAgents is not set",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-07T01:28:26Z",
       "mergedAt": null,
@@ -229,50 +271,6 @@
       "additions": 12,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 38398,
-      "title": "fix(feishu): disable block streaming to prevent silent reply drops",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T23:27:12Z",
-      "mergedAt": null,
-      "additions": 12,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 38373,
-      "title": "fix(feishu): disable block streaming to prevent silent reply drops",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T22:28:39Z",
-      "mergedAt": null,
-      "additions": 13,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 38343,
-      "title": "fix(hooks): pass session key to outbound delivery for message:sent hook dispatch",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T21:32:16Z",
-      "mergedAt": null,
-      "additions": 46,
-      "deletions": 1,
-      "changedFiles": 4
-    },
-    {
-      "number": 38323,
-      "title": "fix(feishu): disable block streaming to prevent silent reply drops",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T20:27:42Z",
-      "mergedAt": null,
-      "additions": 12,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -308,36 +306,22 @@
       "createdAt": "2026-03-05T21:10:53Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-09": 1,
-    "2026-03-07": 2,
-    "2026-03-06": 1,
-    "2026-03-02": 1,
-    "2026-02-27": 1,
-    "2026-02-20": 1,
-    "2026-02-16": 3,
-    "2026-02-15": 1,
-    "2026-02-12": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -364,14 +348,64 @@
       "reviews": 0
     },
     "2026-03-06": {
-      "prs": 4,
+      "prs": 20,
       "issues": 0,
       "reviews": 0
     },
     "2026-03-05": {
-      "prs": 0,
+      "prs": 7,
       "issues": 0,
       "reviews": 6
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-09": 1,
+    "2026-03-07": 2,
+    "2026-03-06": 1,
+    "2026-03-02": 1,
+    "2026-02-27": 1,
+    "2026-02-20": 1,
+    "2026-02-16": 3,
+    "2026-02-15": 1,
+    "2026-02-12": 1
   }
 }

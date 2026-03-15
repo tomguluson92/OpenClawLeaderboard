@@ -27,14 +27,12 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 2,
       "commitAdditions": 0,
@@ -69,20 +67,13 @@
   "recentIssues": [
     {
       "number": 38629,
-      "title": "[Bug]: msteams implicit mention fails \u2014 replyToId unreliable, conversation.id threadRootId not used as fallback",
+      "title": "[Bug]: msteams implicit mention fails — replyToId unreliable, conversation.id threadRootId not used as fallback",
       "state": "OPEN",
       "createdAt": "2026-03-07T06:18:12Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
@@ -94,5 +85,12 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

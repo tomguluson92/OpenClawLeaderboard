@@ -1,0 +1,136 @@
+{
+  "username": "MastrXplorer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/169781583?u=f48568b0085af7f0e9ecd077957b27e80b48cd95&v=4",
+  "githubUrl": "https://github.com/MastrXplorer",
+  "score": {
+    "score": 54.93,
+    "prScore": 54.93,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 111,
+    "prDeletions": 8,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T23:11:10Z",
+  "lastContribution": "2026-03-13T23:13:47Z",
+  "recentPRs": [
+    {
+      "number": 45527,
+      "title": "fix(skills): resolve symlinks via realpathSync before scanning skill directories",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T23:13:47Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 45526,
+      "title": "fix(skills): validate frontmatter archive field against argument injection",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T23:13:45Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 45525,
+      "title": "fix(skills): extend skill-scanner to detect dynamic require() and import() calls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T23:13:44Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 45524,
+      "title": "fix(gateway): flag agents.defaults.sandbox.mode=off as dangerous at startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T23:13:42Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 45523,
+      "title": "fix(gateway): add auth.mode=none and trustedProxy.allowUsers=[] to dangerous-flags",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T23:13:41Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45521,
+      "title": "fix(gateway): reject weak/default tokens at startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T23:11:10Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 4,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

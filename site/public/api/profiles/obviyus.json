@@ -3,57 +3,132 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/22031114?v=4",
   "githubUrl": "https://github.com/obviyus",
   "score": {
-    "score": 2312.65,
-    "prScore": 2267.15,
+    "score": 2515.78,
+    "prScore": 2440.28,
     "issueScore": 0,
-    "reviewScore": 12,
-    "commentScore": 33.5
+    "reviewScore": 22,
+    "commentScore": 53.5
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
-    "commits": 369,
-    "prs": 26,
-    "prsMerged": 25,
-    "prAdditions": 8181,
-    "prDeletions": 3905,
-    "prChangedFiles": 302,
-    "prMergeRate": 96,
+    "commits": 398,
+    "prs": 29,
+    "prsMerged": 27,
+    "prAdditions": 8813,
+    "prDeletions": 4498,
+    "prChangedFiles": 322,
+    "prMergeRate": 93,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 4,
-    "reviewsApproved": 0,
+    "reviews": 7,
+    "reviewsApproved": 1,
     "reviewsChangesRequested": 0,
-    "comments": 67,
-    "commitAdditions": 36137,
-    "commitDeletions": 12240,
-    "weeklyCommits": 39,
-    "monthlyCommits": 345,
-    "commitChangedFiles": 1291
+    "comments": 107,
+    "commitAdditions": 38669,
+    "commitDeletions": 13234,
+    "commitChangedFiles": 1362
   },
   "period": {
     "weekly": {
-      "prs": 19,
+      "prs": 16,
       "issues": 0,
-      "reviews": 4,
-      "comments": 50,
-      "commitAdditions": 6629,
-      "commitDeletions": 3751,
-      "commits": 56
+      "reviews": 7,
+      "comments": 79,
+      "commitAdditions": 4681,
+      "commitDeletions": 3387,
+      "commits": 55
     },
     "monthly": {
-      "prs": 26,
+      "prs": 29,
       "issues": 0,
-      "reviews": 4,
-      "comments": 67,
-      "commitAdditions": 32020,
-      "commitDeletions": 10775,
-      "commits": 304
+      "reviews": 7,
+      "comments": 107,
+      "commitAdditions": 34552,
+      "commitDeletions": 11769,
+      "commits": 332
     }
   },
-  "firstContribution": "2026-03-02T15:13:40Z",
-  "lastContribution": "2026-03-12T04:35:03Z",
+  "firstContribution": "2026-03-04T03:53:33Z",
+  "lastContribution": "2026-03-15T03:05:38Z",
   "recentPRs": [
+    {
+      "number": 45969,
+      "title": "fix(zai): align explicit coding endpoint setup with detected model defaults",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T10:13:14Z",
+      "mergedAt": "2026-03-14T10:50:37Z",
+      "additions": 211,
+      "deletions": 59,
+      "changedFiles": 9
+    },
+    {
+      "number": 45768,
+      "title": "Android: keep local canvas home visible after restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T05:32:33Z",
+      "mergedAt": null,
+      "additions": 261,
+      "deletions": 44,
+      "changedFiles": 4
+    },
+    {
+      "number": 45021,
+      "title": "fix(android): use Google Code Scanner for onboarding QR",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T11:02:25Z",
+      "mergedAt": "2026-03-13T11:43:55Z",
+      "additions": 38,
+      "deletions": 28,
+      "changedFiles": 3
+    },
+    {
+      "number": 44894,
+      "title": "feat(android): redesign chat settings UI",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T08:58:17Z",
+      "mergedAt": "2026-03-13T09:01:39Z",
+      "additions": 508,
+      "deletions": 597,
+      "changedFiles": 7
+    },
+    {
+      "number": 44639,
+      "title": "fix(telegram): thread media transport policy into SSRF",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T04:01:48Z",
+      "mergedAt": "2026-03-13T04:41:44Z",
+      "additions": 469,
+      "deletions": 85,
+      "changedFiles": 13
+    },
+    {
+      "number": 43918,
+      "title": "fix: stop main-session UI replies inheriting channel routes",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T09:57:26Z",
+      "mergedAt": "2026-03-12T10:09:34Z",
+      "additions": 58,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 43799,
+      "title": "fix: scope telegram polling restart to telegram errors",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T07:27:20Z",
+      "mergedAt": "2026-03-12T07:44:17Z",
+      "additions": 251,
+      "deletions": 21,
+      "changedFiles": 7
+    },
     {
       "number": 42240,
       "title": "fix(telegram): chunk long html outbound messages",
@@ -196,88 +271,26 @@
       "additions": 335,
       "deletions": 172,
       "changedFiles": 13
-    },
-    {
-      "number": 38825,
-      "title": "fix: restart Windows gateway via Scheduled Task",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T11:53:44Z",
-      "mergedAt": "2026-03-07T12:30:38Z",
-      "additions": 371,
-      "deletions": 54,
-      "changedFiles": 12
-    },
-    {
-      "number": 38819,
-      "title": "fix: check managed systemd unit before is-enabled",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T11:37:55Z",
-      "mergedAt": "2026-03-07T11:41:07Z",
-      "additions": 41,
-      "deletions": 8,
-      "changedFiles": 3
-    },
-    {
-      "number": 38774,
-      "title": "fix(ci): re-enable detect-secrets on main",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T10:37:59Z",
-      "mergedAt": "2026-03-07T10:39:12Z",
-      "additions": 2169,
-      "deletions": 543,
-      "changedFiles": 2
-    },
-    {
-      "number": 38712,
-      "title": "fix(android): rename app package to ai.openclaw.app",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T09:16:52Z",
-      "mergedAt": "2026-03-07T09:21:03Z",
-      "additions": 359,
-      "deletions": 313,
-      "changedFiles": 119
-    },
-    {
-      "number": 38572,
-      "title": "Fix local MEDIA paths in assistant replies",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T04:40:04Z",
-      "mergedAt": "2026-03-07T05:22:16Z",
-      "additions": 565,
-      "deletions": 38,
-      "changedFiles": 13
-    },
-    {
-      "number": 37558,
-      "title": "fix(auth): remove bogus codex oauth responses probe",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-06T09:33:16Z",
-      "mergedAt": "2026-03-06T09:37:34Z",
-      "additions": 2,
-      "deletions": 117,
-      "changedFiles": 3
-    },
-    {
-      "number": 34365,
-      "title": "fix(gateway): preserve raw media invoke for HTTP tool clients",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T11:33:32Z",
-      "mergedAt": "2026-03-04T11:47:39Z",
-      "additions": 54,
-      "deletions": 6,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 45021,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T11:39:21Z"
+    },
+    {
+      "prNumber": 44639,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T04:30:50Z"
+    },
+    {
+      "prNumber": 44016,
+      "state": "APPROVED",
+      "createdAt": "2026-03-12T14:31:46Z"
+    },
+    {
       "prNumber": 40883,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T11:19:07Z"
@@ -298,6 +311,53 @@
       "createdAt": "2026-03-09T11:08:38Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-08": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -333,7 +393,10 @@
     }
   ],
   "recentCommitDays": {
-    "2026-03-12": 2,
+    "2026-03-15": 1,
+    "2026-03-14": 9,
+    "2026-03-13": 14,
+    "2026-03-12": 6,
     "2026-03-11": 3,
     "2026-03-10": 7,
     "2026-03-09": 3,
@@ -368,40 +431,6 @@
     "2026-01-29": 5,
     "2026-01-28": 3,
     "2026-01-27": 7,
-    "2026-01-26": 1,
-    "2026-01-12": 3,
-    "2026-01-11": 7
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 4
-    },
-    "2026-03-08": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
+    "2026-01-26": 1
   }
 }

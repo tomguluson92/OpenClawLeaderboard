@@ -1,0 +1,262 @@
+{
+  "username": "jmcte",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59268465?u=e6f99996788df1d724c8bdc0de388643f358d2c1&v=4",
+  "githubUrl": "https://github.com/jmcte",
+  "score": {
+    "score": 252,
+    "prScore": 227.5,
+    "issueScore": 0,
+    "reviewScore": 24,
+    "commentScore": 0.5
+  },
+  "tier": "active",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 12,
+    "prsMerged": 0,
+    "prAdditions": 11657,
+    "prDeletions": 2621,
+    "prChangedFiles": 412,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 8,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T22:38:47Z",
+  "lastContribution": "2026-03-13T20:30:03Z",
+  "recentPRs": [
+    {
+      "number": 45434,
+      "title": "test(infra): fix baseline typing and path assertions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T20:14:20Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 45433,
+      "title": "fix(memory): resolve global node-llama installs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T20:08:30Z",
+      "mergedAt": null,
+      "additions": 233,
+      "deletions": 20,
+      "changedFiles": 4
+    },
+    {
+      "number": 45431,
+      "title": "fix(telegram): keep reaction updates enabled during polling startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T19:59:36Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 45425,
+      "title": "fix(config): keep default memory slot from blocking updates",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T19:55:57Z",
+      "mergedAt": null,
+      "additions": 103,
+      "deletions": 7,
+      "changedFiles": 4
+    },
+    {
+      "number": 44697,
+      "title": "test(reply): cover queued followup media transcripts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T05:43:22Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44696,
+      "title": "fix(ollama): discover vision input from /api/show",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T05:42:47Z",
+      "mergedAt": null,
+      "additions": 104,
+      "deletions": 39,
+      "changedFiles": 6
+    },
+    {
+      "number": 44694,
+      "title": "fix(windows): stop lingering gateway listener after stop",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T05:41:59Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44430,
+      "title": "fix(agents): classify Bedrock inference-profile errors for fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T23:03:46Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 44429,
+      "title": "fix(agents): drop Anthropic thinking blocks on replay",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T23:03:46Z",
+      "mergedAt": null,
+      "additions": 10414,
+      "deletions": 2329,
+      "changedFiles": 343
+    },
+    {
+      "number": 44420,
+      "title": "fix(gateway): stop restart loops for unconfigured channels",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T22:40:00Z",
+      "mergedAt": null,
+      "additions": 563,
+      "deletions": 202,
+      "changedFiles": 29
+    },
+    {
+      "number": 44419,
+      "title": "fix(gateway): guard interface discovery failures on WSL",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T22:39:23Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 7,
+      "changedFiles": 9
+    },
+    {
+      "number": 44418,
+      "title": "fix(daemon): include Nix profile in macOS service PATH",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T22:38:47Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 4,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 44418,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T20:30:03Z"
+    },
+    {
+      "prNumber": 44419,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T20:29:22Z"
+    },
+    {
+      "prNumber": 45433,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T20:28:19Z"
+    },
+    {
+      "prNumber": 45433,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T20:26:59Z"
+    },
+    {
+      "prNumber": 44420,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T20:26:59Z"
+    },
+    {
+      "prNumber": 45425,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T20:26:39Z"
+    },
+    {
+      "prNumber": 44420,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T19:51:42Z"
+    },
+    {
+      "prNumber": 44697,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T19:40:57Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-12": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {}
+}

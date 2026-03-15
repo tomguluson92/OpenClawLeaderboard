@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/92253590?v=4",
   "githubUrl": "https://github.com/ImLukeF",
   "score": {
-    "score": 251.61,
-    "prScore": 245.11,
+    "score": 290.11,
+    "prScore": 280.11,
     "issueScore": 0,
-    "reviewScore": 6,
-    "commentScore": 0.5
+    "reviewScore": 9,
+    "commentScore": 1
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 4,
-    "prs": 8,
-    "prsMerged": 4,
-    "prAdditions": 26720,
-    "prDeletions": 6707,
+    "commits": 9,
+    "prs": 9,
+    "prsMerged": 5,
+    "prAdditions": 26612,
+    "prDeletions": 6720,
     "prChangedFiles": 662,
-    "prMergeRate": 50,
+    "prMergeRate": 56,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 1793,
-    "commitDeletions": 162,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 62
+    "comments": 2,
+    "commitAdditions": 1872,
+    "commitDeletions": 180,
+    "commitChangedFiles": 71
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 9,
       "issues": 0,
-      "reviews": 2,
-      "comments": 1,
-      "commitAdditions": 1793,
-      "commitDeletions": 162,
-      "commits": 4
+      "reviews": 3,
+      "comments": 2,
+      "commitAdditions": 1872,
+      "commitDeletions": 180,
+      "commits": 9
     },
     "monthly": {
-      "prs": 8,
+      "prs": 9,
       "issues": 0,
-      "reviews": 2,
-      "comments": 1,
-      "commitAdditions": 1793,
-      "commitDeletions": 162,
-      "commits": 4
+      "reviews": 3,
+      "comments": 2,
+      "commitAdditions": 1872,
+      "commitDeletions": 180,
+      "commits": 9
     }
   },
-  "firstContribution": "2026-03-03T10:57:46Z",
-  "lastContribution": "2026-03-12T00:08:12Z",
+  "firstContribution": "2026-03-08T05:33:52Z",
+  "lastContribution": "2026-03-14T02:26:34Z",
   "recentPRs": [
+    {
+      "number": 45640,
+      "title": "fix(macos): align minimum Node.js version with runtime guard (22.16.0)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T02:19:35Z",
+      "mergedAt": "2026-03-14T02:43:21Z",
+      "additions": 32,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 45604,
+      "title": "fix(voicewake): avoid crash on foreign transcript ranges",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T01:40:01Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 12,
+      "changedFiles": 3
+    },
     {
       "number": 43539,
       "title": "fix(whatsapp): trim leading whitespace in direct outbound sends",
@@ -130,21 +150,15 @@
       "additions": 1200,
       "deletions": 64,
       "changedFiles": 21
-    },
-    {
-      "number": 32922,
-      "title": "fix(agents): resolve #32889 #32891 #32892",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T10:57:46Z",
-      "mergedAt": null,
-      "additions": 183,
-      "deletions": 4,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 45640,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T02:26:34Z"
+    },
     {
       "prNumber": 40564,
       "state": "COMMENTED",
@@ -156,25 +170,12 @@
       "createdAt": "2026-03-09T04:07:17Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-12": 1,
-    "2026-03-11": 3
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -195,15 +196,34 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
     "2026-03-09": {
       "prs": 0,
       "issues": 0,
       "reviews": 2
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-14": 4,
+    "2026-03-12": 2,
+    "2026-03-11": 3
   }
 }

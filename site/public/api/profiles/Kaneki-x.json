@@ -3,57 +3,121 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6857108?u=7c61097b3191c1b2a688f40d92e5fa0e00539aa5&v=4",
   "githubUrl": "https://github.com/Kaneki-x",
   "score": {
-    "score": 55.65,
-    "prScore": 51.65,
+    "score": 122.78,
+    "prScore": 111.28,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 4
+    "reviewScore": 3,
+    "commentScore": 8.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 6,
-    "prsMerged": 0,
-    "prAdditions": 129,
-    "prDeletions": 83,
-    "prChangedFiles": 6,
-    "prMergeRate": 0,
+    "prs": 12,
+    "prsMerged": 1,
+    "prAdditions": 300,
+    "prDeletions": 165,
+    "prChangedFiles": 12,
+    "prMergeRate": 8,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "comments": 17,
+    "commitAdditions": 22,
+    "commitDeletions": 18,
+    "commitChangedFiles": 1
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 12,
       "issues": 0,
-      "reviews": 0,
-      "comments": 8,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 17,
+      "commitAdditions": 22,
+      "commitDeletions": 18,
+      "commits": 1
     },
     "monthly": {
-      "prs": 6,
+      "prs": 12,
       "issues": 0,
-      "reviews": 0,
-      "comments": 8,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 17,
+      "commitAdditions": 22,
+      "commitDeletions": 18,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-10T07:18:26Z",
-  "lastContribution": "2026-03-10T08:55:53Z",
+  "lastContribution": "2026-03-14T07:09:20Z",
   "recentPRs": [
+    {
+      "number": 45821,
+      "title": "Android: make current-location callback cancellation-safe",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T07:08:33Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 9,
+      "changedFiles": 1
+    },
+    {
+      "number": 45817,
+      "title": "Android: harden permission dialogs across activity teardown",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T07:06:14Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 21,
+      "changedFiles": 1
+    },
+    {
+      "number": 45815,
+      "title": "Android: guard ElevenLabs AudioTrack cleanup races",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T07:03:22Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 14,
+      "changedFiles": 1
+    },
+    {
+      "number": 43784,
+      "title": "Android: fix incomplete JS string escaping in A2UI action status",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T07:12:03Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 43781,
+      "title": "Android: fix sensor callback race condition in MotionHandler",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T07:10:57Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 18,
+      "changedFiles": 1
+    },
+    {
+      "number": 43780,
+      "title": "Android: fix HttpURLConnection leak in TalkModeVoiceResolver",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T07:09:20Z",
+      "mergedAt": "2026-03-13T09:29:21Z",
+      "additions": 22,
+      "deletions": 18,
+      "changedFiles": 1
+    },
     {
       "number": 41904,
       "title": "Android: fix backward seek crash in StreamingMediaDataSource",
@@ -122,18 +186,43 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
+  "recentReviews": [
+    {
+      "prNumber": 43781,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T07:53:08Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-10": {
       "prs": 6,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-13": 1
   }
 }

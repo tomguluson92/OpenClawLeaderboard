@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -56,7 +54,7 @@
   "recentPRs": [
     {
       "number": 42924,
-      "title": "chore(ui): \u66f4\u6362 Dashboard \u56fe\u6807\u4e3a openFinClaw \u9f99\u867e\u5409\u7965\u7269",
+      "title": "chore(ui): 更换 Dashboard 图标为 openFinClaw 龙虾吉祥物",
       "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T07:09:14Z",
@@ -68,6 +66,13 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Large-Scale Changes"
@@ -84,12 +89,5 @@
       "description": "50K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

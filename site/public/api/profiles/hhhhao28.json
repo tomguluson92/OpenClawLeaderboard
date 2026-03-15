@@ -3,48 +3,46 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/112874572?u=454aad41bd16247a0c22739a6b0f174cb81a9343&v=4",
   "githubUrl": "https://github.com/hhhhao28",
   "score": {
-    "score": 191.13,
-    "prScore": 137.63,
+    "score": 291.72,
+    "prScore": 211.22,
     "issueScore": 0,
-    "reviewScore": 51,
+    "reviewScore": 78,
     "commentScore": 2.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 2490,
-    "prDeletions": 399,
-    "prChangedFiles": 40,
+    "prAdditions": 4300,
+    "prDeletions": 523,
+    "prChangedFiles": 69,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 17,
+    "reviews": 26,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 12,
       "issues": 0,
-      "reviews": 17,
+      "reviews": 26,
       "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 12,
       "issues": 0,
-      "reviews": 17,
+      "reviews": 26,
       "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -52,8 +50,74 @@
     }
   },
   "firstContribution": "2026-03-11T11:39:27Z",
-  "lastContribution": "2026-03-12T04:23:47Z",
+  "lastContribution": "2026-03-13T10:17:52Z",
   "recentPRs": [
+    {
+      "number": 44954,
+      "title": "fix(telegram): preserve media download transport fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T09:56:56Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 34,
+      "changedFiles": 7
+    },
+    {
+      "number": 44888,
+      "title": "fix(agents): compact Kimi tool schemas for openai-completions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T08:53:11Z",
+      "mergedAt": null,
+      "additions": 402,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 44779,
+      "title": "fix(context-engine): preserve legacy plugin sessionKey interop",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T06:56:38Z",
+      "mergedAt": null,
+      "additions": 395,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 44676,
+      "title": "fix(agents): fail closed on malformed kimi tool-call JSON",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T05:10:35Z",
+      "mergedAt": null,
+      "additions": 189,
+      "deletions": 29,
+      "changedFiles": 2
+    },
+    {
+      "number": 44525,
+      "title": "Avoid false payload kind normalization warnings for canonical cron jobs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T01:50:29Z",
+      "mergedAt": null,
+      "additions": 234,
+      "deletions": 8,
+      "changedFiles": 7
+    },
+    {
+      "number": 43763,
+      "title": "test(onboard): add Kimi Coding config regression coverage",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T06:41:16Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 43573,
       "title": "fix(acp): persist initial sessions_spawn task for ACP sessions",
@@ -61,20 +125,20 @@
       "merged": false,
       "createdAt": "2026-03-12T01:42:14Z",
       "mergedAt": null,
-      "additions": 946,
-      "deletions": 107,
-      "changedFiles": 13
+      "additions": 1234,
+      "deletions": 111,
+      "changedFiles": 14
     },
     {
       "number": 43280,
       "title": "Clarify Telegram attachment delivery guidance in agent prompts",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T15:12:03Z",
       "mergedAt": null,
-      "additions": 523,
-      "deletions": 144,
-      "changedFiles": 13
+      "additions": 696,
+      "deletions": 189,
+      "changedFiles": 18
     },
     {
       "number": 43277,
@@ -123,6 +187,51 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 44954,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T10:17:52Z"
+    },
+    {
+      "prNumber": 44888,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T09:23:14Z"
+    },
+    {
+      "prNumber": 44888,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T09:12:38Z"
+    },
+    {
+      "prNumber": 44888,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T09:12:32Z"
+    },
+    {
+      "prNumber": 44779,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T08:00:49Z"
+    },
+    {
+      "prNumber": 44779,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T07:19:57Z"
+    },
+    {
+      "prNumber": 44779,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T07:19:43Z"
+    },
+    {
+      "prNumber": 44525,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T03:06:28Z"
+    },
+    {
+      "prNumber": 43763,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T06:52:40Z"
+    },
     {
       "prNumber": 43573,
       "state": "COMMENTED",
@@ -177,38 +286,25 @@
       "prNumber": 43280,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T01:16:44Z"
-    },
-    {
-      "prNumber": 43280,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T15:38:37Z"
-    },
-    {
-      "prNumber": 43280,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T15:38:32Z"
-    },
-    {
-      "prNumber": 43277,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T15:35:44Z"
-    },
-    {
-      "prNumber": 43277,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T15:27:19Z"
-    },
-    {
-      "prNumber": 43277,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T15:26:56Z"
-    },
-    {
-      "prNumber": 43277,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T15:21:32Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 12
+    },
+    "2026-03-11": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 6
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -216,22 +312,15 @@
   ],
   "achievements": [
     {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-12": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 11
-    },
-    "2026-03-11": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 6
-    }
-  }
+  "recentCommitDays": {}
 }

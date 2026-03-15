@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/44131846?u=d0936f57843854f3ce47f2c2c826e25a6c2d4960&v=4",
   "githubUrl": "https://github.com/who96",
   "score": {
-    "score": 167.57,
-    "prScore": 135.57,
-    "issueScore": 0,
+    "score": 192.04,
+    "prScore": 151.54,
+    "issueScore": 5,
     "reviewScore": 27,
-    "commentScore": 5
+    "commentScore": 8.5
   },
   "tier": "regular",
-  "characterClass": "Reviewer",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 1197,
-    "prDeletions": 104,
-    "prChangedFiles": 55,
+    "prAdditions": 1316,
+    "prDeletions": 167,
+    "prChangedFiles": 67,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 9,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
+    "comments": 17,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 9,
-      "comments": 10,
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 7,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
-      "issues": 0,
+      "prs": 6,
+      "issues": 1,
       "reviews": 9,
-      "comments": 10,
+      "comments": 17,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-06T11:06:02Z",
-  "lastContribution": "2026-03-07T19:43:41Z",
+  "lastContribution": "2026-03-14T19:40:13Z",
   "recentPRs": [
+    {
+      "number": 46528,
+      "title": "fix(test): remove unused expectSupportsUsageInStreamingForcedOff helper",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T19:23:57Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 44403,
+      "title": "fix(deps): bump extension openclaw peer deps to resolve GHSA-5wcw-8jjv-m286",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T22:01:17Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 14,
+      "changedFiles": 5
+    },
     {
       "number": 38232,
       "title": "fix(auto-reply): add unified outbound text sanitizer for NO_REPLY and streaming leaks",
@@ -61,14 +81,14 @@
       "merged": false,
       "createdAt": "2026-03-06T17:42:27Z",
       "mergedAt": null,
-      "additions": 200,
-      "deletions": 9,
-      "changedFiles": 3
+      "additions": 281,
+      "deletions": 27,
+      "changedFiles": 7
     },
     {
       "number": 38173,
       "title": "refactor(agents): unify canonical codex model facts",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T16:55:21Z",
       "mergedAt": null,
@@ -83,9 +103,9 @@
       "merged": false,
       "createdAt": "2026-03-06T14:50:30Z",
       "mergedAt": null,
-      "additions": 320,
-      "deletions": 25,
-      "changedFiles": 21
+      "additions": 334,
+      "deletions": 48,
+      "changedFiles": 22
     },
     {
       "number": 37674,
@@ -99,7 +119,15 @@
       "changedFiles": 26
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 44536,
+      "title": "bug(ci): loader.test.ts sanitizes control characters fails intermittently in CI",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T02:03:36Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
     {
       "prNumber": 38232,
@@ -147,18 +175,40 @@
       "createdAt": "2026-03-06T19:13:13Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-06": {
       "prs": 4,
       "issues": 0,
       "reviews": 9
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

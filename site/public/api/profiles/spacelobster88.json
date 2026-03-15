@@ -1,0 +1,165 @@
+{
+  "username": "spacelobster88",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/259795141?v=4",
+  "githubUrl": "https://github.com/spacelobster88",
+  "score": {
+    "score": 264.28,
+    "prScore": 264.28,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 13593,
+    "prDeletions": 1058850,
+    "prChangedFiles": 5934,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T00:04:50Z",
+  "lastContribution": "2026-03-15T03:02:54Z",
+  "recentPRs": [
+    {
+      "number": 46777,
+      "title": "fix(cron): apply agents.defaults.model.fallbacks to cron sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:02:54Z",
+      "mergedAt": null,
+      "additions": 676,
+      "deletions": 372,
+      "changedFiles": 2
+    },
+    {
+      "number": 46771,
+      "title": "fix(daemon): prefer index.js over entry.js to fix stale systemd entrypoint",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:56:20Z",
+      "mergedAt": null,
+      "additions": 1448,
+      "deletions": 346,
+      "changedFiles": 5
+    },
+    {
+      "number": 46766,
+      "title": "fix(ui): Chat UI shows correct token count instead of inflated cumulative value",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:53:08Z",
+      "mergedAt": null,
+      "additions": 2158,
+      "deletions": 100,
+      "changedFiles": 4
+    },
+    {
+      "number": 46765,
+      "title": "fix: map reasoning_effort minimal to low for NIM/vLLM",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:52:54Z",
+      "mergedAt": null,
+      "additions": 2608,
+      "deletions": 167,
+      "changedFiles": 2
+    },
+    {
+      "number": 46759,
+      "title": "fix(modelstudio): enable streaming usage for bailian provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:44:59Z",
+      "mergedAt": null,
+      "additions": 3385,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 46758,
+      "title": "fix: strip control characters from reasoning_content in history",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T02:43:55Z",
+      "mergedAt": null,
+      "additions": 2252,
+      "deletions": 1054574,
+      "changedFiles": 5905
+    },
+    {
+      "number": 46746,
+      "title": "fix(cron): enforce agent tool deny list at execution time",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:31:23Z",
+      "mergedAt": null,
+      "additions": 163,
+      "deletions": 3242,
+      "changedFiles": 12
+    },
+    {
+      "number": 46666,
+      "title": "fix: check interactiveReplies instead of inlineButtons in Slack system prompt",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T00:04:50Z",
+      "mergedAt": null,
+      "additions": 903,
+      "deletions": 49,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {}
+}

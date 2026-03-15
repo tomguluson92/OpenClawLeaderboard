@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/775850?v=4",
   "githubUrl": "https://github.com/felipematos",
   "score": {
-    "score": 37.58,
+    "score": 40.58,
     "prScore": 14.58,
-    "issueScore": 23,
+    "issueScore": 26,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -20,21 +20,19 @@
     "prChangedFiles": 7,
     "prMergeRate": 0,
     "issues": 4,
-    "issuesClosed": 1,
+    "issuesClosed": 2,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 4,
+      "issues": 3,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -84,9 +82,9 @@
     {
       "number": 41471,
       "title": "Make Discord healthMonitor configurable via channels.discord config",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-09T22:02:32Z",
-      "closedAt": null
+      "closedAt": "2026-03-15T02:21:58Z"
     },
     {
       "number": 38822,
@@ -97,12 +95,6 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
@@ -119,5 +111,11 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

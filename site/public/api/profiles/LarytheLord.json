@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/169234180?u=cf810a2a14b0e2bdc3aeea9e5320d0197fb6cc23&v=4",
   "githubUrl": "https://github.com/LarytheLord",
   "score": {
-    "score": 77.72,
-    "prScore": 76.22,
+    "score": 102.87,
+    "prScore": 101.37,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1.5
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 441,
-    "prDeletions": 69,
-    "prChangedFiles": 37,
+    "prAdditions": 772,
+    "prDeletions": 101,
+    "prChangedFiles": 43,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 3,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 3,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 3,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-08T13:16:07Z",
-  "lastContribution": "2026-03-08T14:38:53Z",
+  "lastContribution": "2026-03-14T16:55:39Z",
   "recentPRs": [
+    {
+      "number": 46397,
+      "title": "fix(gateway): skip config.patch restart for hot-reloadable changes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T16:55:39Z",
+      "mergedAt": null,
+      "additions": 331,
+      "deletions": 32,
+      "changedFiles": 6
+    },
     {
       "number": 39856,
       "title": "gateway: fix global Control UI 404s for symlinked wrappers and pnpm hardlinks",
@@ -68,17 +77,22 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

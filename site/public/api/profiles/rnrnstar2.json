@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/39724729?u=6f5f107125c044bbc094702281cb8bdfe9515116&v=4",
   "githubUrl": "https://github.com/rnrnstar2",
   "score": {
-    "score": 159.46,
-    "prScore": 54.46,
+    "score": 202.76,
+    "prScore": 88.76,
     "issueScore": 5,
-    "reviewScore": 0,
+    "reviewScore": 9,
     "commentScore": 100
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 224,
-    "prDeletions": 23,
-    "prChangedFiles": 16,
+    "prAdditions": 520,
+    "prDeletions": 81,
+    "prChangedFiles": 28,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 239,
+    "comments": 245,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 239,
+      "prs": 5,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 194,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 5,
       "issues": 1,
-      "reviews": 0,
-      "comments": 239,
+      "reviews": 3,
+      "comments": 245,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-07T16:12:53Z",
-  "lastContribution": "2026-03-10T14:35:49Z",
+  "lastContribution": "2026-03-12T16:10:32Z",
   "recentPRs": [
+    {
+      "number": 44057,
+      "title": "fix(plugins): Windows-compatible test for resolvePluginSourceRoots",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T13:04:14Z",
+      "mergedAt": null,
+      "additions": 296,
+      "deletions": 58,
+      "changedFiles": 12
+    },
     {
       "number": 42235,
       "title": "fix(discord): fail fast when bot identity cannot be resolved",
@@ -102,27 +111,35 @@
   "recentIssues": [
     {
       "number": 38988,
-      "title": "infra: Sentry\u76e3\u8996\u74b0\u5883\u306e\u30bb\u30c3\u30c8\u30a2\u30c3\u30d7",
+      "title": "infra: Sentry監視環境のセットアップ",
       "state": "OPEN",
       "createdAt": "2026-03-07T16:12:53Z",
       "closedAt": null
     }
   ],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
+  "recentReviews": [
     {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
+      "prNumber": 44192,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:51:58Z"
+    },
+    {
+      "prNumber": 44164,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:25:26Z"
+    },
+    {
+      "prNumber": 44124,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T14:33:11Z"
     }
   ],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
@@ -138,5 +155,24 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

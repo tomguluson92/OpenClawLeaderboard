@@ -3,61 +3,70 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10785178?v=4",
   "githubUrl": "https://github.com/graysurf",
   "score": {
-    "score": 232.95,
-    "prScore": 213.95,
+    "score": 224.35,
+    "prScore": 202.35,
     "issueScore": 0,
-    "reviewScore": 18,
+    "reviewScore": 21,
     "commentScore": 1
   },
   "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
     "commits": 4,
-    "prs": 13,
+    "prs": 11,
     "prsMerged": 0,
-    "prAdditions": 871,
-    "prDeletions": 80,
+    "prAdditions": 1086,
+    "prDeletions": 96,
     "prChangedFiles": 38,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 2,
     "commitAdditions": 290,
     "commitDeletions": 31,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 10
   },
   "period": {
     "weekly": {
-      "prs": 9,
+      "prs": 4,
       "issues": 0,
-      "reviews": 2,
+      "reviews": 1,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 13,
+      "prs": 11,
       "issues": 0,
-      "reviews": 6,
+      "reviews": 7,
       "comments": 2,
       "commitAdditions": 290,
       "commitDeletions": 31,
       "commits": 4
     }
   },
-  "firstContribution": "2026-03-02T13:53:16Z",
-  "lastContribution": "2026-03-10T23:44:28Z",
+  "firstContribution": "2026-03-04T21:25:48Z",
+  "lastContribution": "2026-03-14T02:12:13Z",
   "recentPRs": [
+    {
+      "number": 45624,
+      "title": "Skip config.patch restart for hot-reload browser changes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T02:04:24Z",
+      "mergedAt": null,
+      "additions": 307,
+      "deletions": 31,
+      "changedFiles": 6
+    },
     {
       "number": 42572,
       "title": "Keep the chat page updated for external channel messages",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T23:44:28Z",
       "mergedAt": null,
@@ -68,7 +77,7 @@
     {
       "number": 41488,
       "title": "Prefer 127.0.0.1 for Control UI localhost gateway defaults",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T22:35:18Z",
       "mergedAt": null,
@@ -79,7 +88,7 @@
     {
       "number": 40251,
       "title": "Telegram: support providers with dots in model list callbacks",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T20:46:02Z",
       "mergedAt": null,
@@ -90,7 +99,7 @@
     {
       "number": 39216,
       "title": "Prevent process transcripts from keeping PTY ANSI redraw sequences",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-07T21:50:04Z",
       "mergedAt": null,
@@ -101,7 +110,7 @@
     {
       "number": 38399,
       "title": "Skip malformed content entries in OpenAI WS responses",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T23:29:19Z",
       "mergedAt": null,
@@ -163,43 +172,15 @@
       "additions": 134,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 33719,
-      "title": "fix(telegram): use sender id for DM reply target when chat id differs",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T01:16:29Z",
-      "mergedAt": null,
-      "additions": 29,
-      "deletions": 7,
-      "changedFiles": 2
-    },
-    {
-      "number": 33700,
-      "title": "fix(memory): honor fallback:none in embedding fallback gate",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T01:05:31Z",
-      "mergedAt": null,
-      "additions": 33,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 31739,
-      "title": "Fix Signal DM main-session route contamination under isolated dmScope",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T13:53:16Z",
-      "mergedAt": null,
-      "additions": 30,
-      "deletions": 8,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 45624,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T02:12:13Z"
+    },
     {
       "prNumber": 36402,
       "state": "COMMENTED",
@@ -231,25 +212,12 @@
       "createdAt": "2026-03-04T21:34:55Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-02": 1,
-    "2026-03-01": 2,
-    "2026-02-27": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
@@ -281,14 +249,27 @@
       "reviews": 2
     },
     "2026-03-04": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 4
-    },
-    "2026-03-02": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0
+      "reviews": 4
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-02": 1,
+    "2026-03-01": 2,
+    "2026-02-27": 1
   }
 }

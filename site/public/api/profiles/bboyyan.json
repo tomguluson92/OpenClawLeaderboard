@@ -1,0 +1,93 @@
+{
+  "username": "bboyyan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/202459156?v=4",
+  "githubUrl": "https://github.com/bboyyan",
+  "score": {
+    "score": 15.1,
+    "prScore": 9.6,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 4,
+    "prDeletions": 1,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 11,
+    "commitDeletions": 1,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 11,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-14T02:15:03Z",
+  "lastContribution": "2026-03-14T05:59:37Z",
+  "recentPRs": [
+    {
+      "number": 45639,
+      "title": "fix(telegram): use message_id not callback.id as messageIdOverride",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T02:19:26Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45638,
+      "title": "fix(telegram): callback_query passes wrong messageIdOverride (callback.id instead of message_id)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T02:15:03Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 1
+  }
+}

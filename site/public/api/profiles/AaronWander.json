@@ -3,37 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/210468848?u=d0a58e032856db3dc8dec37e3482283f5aad2623&v=4",
   "githubUrl": "https://github.com/AaronWander",
   "score": {
-    "score": 177.43,
-    "prScore": 176.93,
+    "score": 99.54,
+    "prScore": 99.54,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 13,
-    "prsMerged": 2,
-    "prAdditions": 590,
-    "prDeletions": 37,
-    "prChangedFiles": 39,
-    "prMergeRate": 15,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 366,
+    "prDeletions": 20,
+    "prChangedFiles": 22,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 36,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 13,
+      "prs": 8,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 36,
       "commitDeletions": 0,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-03T01:53:15Z",
+  "firstContribution": "2026-03-05T01:01:25Z",
   "lastContribution": "2026-03-09T02:56:58Z",
   "recentPRs": [
     {
@@ -141,79 +139,10 @@
       "additions": 16,
       "deletions": 1,
       "changedFiles": 1
-    },
-    {
-      "number": 34048,
-      "title": "fix(media): cap inbound extracted file blocks (#14231)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T06:20:16Z",
-      "mergedAt": null,
-      "additions": 48,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 32660,
-      "title": "fix(plugins): export provider dispatcher subpath (#25057)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T06:54:14Z",
-      "mergedAt": null,
-      "additions": 16,
-      "deletions": 0,
-      "changedFiles": 5
-    },
-    {
-      "number": 32461,
-      "title": "fix(browser): wait for extension tabs after relay drop (#32331)",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-03T03:11:17Z",
-      "mergedAt": "2026-03-08T19:11:58Z",
-      "additions": 86,
-      "deletions": 10,
-      "changedFiles": 4
-    },
-    {
-      "number": 32429,
-      "title": "fix(ui): clear stuck chat run on gateway disconnect (#32400)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T02:21:09Z",
-      "mergedAt": null,
-      "additions": 66,
-      "deletions": 4,
-      "changedFiles": 3
-    },
-    {
-      "number": 32401,
-      "title": "fix(exec): suggest increasing timeout on timeouts (#15741)",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-03T01:53:15Z",
-      "mergedAt": "2026-03-03T02:35:10Z",
-      "additions": 8,
-      "deletions": 2,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-02": 1
-  },
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 3,
@@ -229,16 +158,13 @@
       "prs": 4,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 1
   }
 }

@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/212984?u=cd5ac3952f33d265ffb1bc3c25f6ba0e0bcfe682&v=4",
   "githubUrl": "https://github.com/happydog-intj",
   "score": {
-    "score": 13.01,
-    "prScore": 12.01,
-    "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 1
+    "score": 181.84,
+    "prScore": 128.34,
+    "issueScore": 13,
+    "reviewScore": 36,
+    "commentScore": 4.5
   },
-  "tier": "beginner",
-  "characterClass": "Contributor",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 63,
-    "prDeletions": 1,
-    "prChangedFiles": 4,
+    "prAdditions": 2022,
+    "prDeletions": 366,
+    "prChangedFiles": 43,
     "prMergeRate": 0,
-    "issues": 0,
-    "issuesClosed": 0,
-    "reviews": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 12,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 9,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 2,
+      "prs": 4,
+      "issues": 2,
+      "reviews": 12,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 2,
+      "prs": 4,
+      "issues": 2,
+      "reviews": 12,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-11T13:22:37Z",
-  "lastContribution": "2026-03-12T02:25:14Z",
+  "lastContribution": "2026-03-14T14:36:11Z",
   "recentPRs": [
+    {
+      "number": 43961,
+      "title": "fix(gateway): SIGKILL stale process when graceful shutdown times out on restart/stop",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T10:53:43Z",
+      "mergedAt": null,
+      "additions": 183,
+      "deletions": 15,
+      "changedFiles": 6
+    },
+    {
+      "number": 43873,
+      "title": "feat(cli): add `openclaw env` command to manage gateway environment variables",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T08:59:11Z",
+      "mergedAt": null,
+      "additions": 439,
+      "deletions": 15,
+      "changedFiles": 8
+    },
+    {
+      "number": 43793,
+      "title": "feat(tui): show reconnect hint and auto-probe gateway when disconnected",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T07:16:44Z",
+      "mergedAt": null,
+      "additions": 776,
+      "deletions": 171,
+      "changedFiles": 17
+    },
     {
       "number": 43204,
       "title": "fix(agent): send user feedback when typing TTL expires during long-running agent runs",
@@ -61,24 +92,123 @@
       "merged": false,
       "createdAt": "2026-03-11T13:22:37Z",
       "mergedAt": null,
-      "additions": 63,
-      "deletions": 1,
-      "changedFiles": 4
+      "additions": 624,
+      "deletions": 165,
+      "changedFiles": 12
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
+  "recentIssues": [
+    {
+      "number": 43960,
+      "title": "bug(gateway): restart leaves stale gateway process when launchctl unload is async",
+      "state": "CLOSED",
+      "createdAt": "2026-03-12T10:50:08Z",
+      "closedAt": "2026-03-13T02:38:49Z"
+    },
+    {
+      "number": 43778,
+      "title": "feat(tui): improve UX when gateway is disconnected or restarting",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T07:06:49Z",
+      "closedAt": null
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
+  "recentReviews": [
+    {
+      "prNumber": 43793,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T07:41:42Z"
+    },
+    {
+      "prNumber": 43793,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T07:41:36Z"
+    },
+    {
+      "prNumber": 43793,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T07:41:28Z"
+    },
+    {
+      "prNumber": 43961,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T12:32:25Z"
+    },
+    {
+      "prNumber": 43961,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T12:32:19Z"
+    },
+    {
+      "prNumber": 43961,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T12:32:12Z"
+    },
+    {
+      "prNumber": 43961,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T11:01:05Z"
+    },
+    {
+      "prNumber": 43961,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T11:01:03Z"
+    },
+    {
+      "prNumber": 43961,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T11:00:52Z"
+    },
+    {
+      "prNumber": 43961,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T11:00:51Z"
+    },
+    {
+      "prNumber": 43793,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T07:26:10Z"
+    },
+    {
+      "prNumber": 43793,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T07:26:00Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 9
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

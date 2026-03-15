@@ -3,57 +3,121 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8635094?v=4",
   "githubUrl": "https://github.com/odysseus0",
   "score": {
-    "score": 91.39,
-    "prScore": 91.39,
+    "score": 305.23,
+    "prScore": 303.23,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 2
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 6,
-    "prs": 3,
-    "prsMerged": 3,
-    "prAdditions": 60,
-    "prDeletions": 2,
-    "prChangedFiles": 5,
-    "prMergeRate": 100,
+    "commits": 10,
+    "prs": 9,
+    "prsMerged": 7,
+    "prAdditions": 69825,
+    "prDeletions": 7500,
+    "prChangedFiles": 1104,
+    "prMergeRate": 78,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 566,
-    "commitDeletions": 63,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 11
+    "comments": 4,
+    "commitAdditions": 1128,
+    "commitDeletions": 908,
+    "commitChangedFiles": 75
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 9,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 60,
-      "commitDeletions": 2,
-      "commits": 3
+      "comments": 4,
+      "commitAdditions": 622,
+      "commitDeletions": 847,
+      "commits": 7
     },
     "monthly": {
-      "prs": 3,
+      "prs": 9,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 60,
-      "commitDeletions": 2,
-      "commits": 3
+      "comments": 4,
+      "commitAdditions": 622,
+      "commitDeletions": 847,
+      "commits": 7
     }
   },
   "firstContribution": "2026-03-10T13:25:21Z",
-  "lastContribution": "2026-03-10T14:14:32Z",
+  "lastContribution": "2026-03-14T23:28:17Z",
   "recentPRs": [
+    {
+      "number": 46634,
+      "title": "Heartbeat: add isolatedSession option for fresh session per heartbeat run",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T23:06:13Z",
+      "mergedAt": "2026-03-14T23:28:01Z",
+      "additions": 148,
+      "deletions": 13,
+      "changedFiles": 9
+    },
+    {
+      "number": 46628,
+      "title": "browser: drop headless/remote MCP attach modes, simplify existing-session to autoConnect-only",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T22:54:09Z",
+      "mergedAt": "2026-03-14T22:54:22Z",
+      "additions": 86,
+      "deletions": 545,
+      "changedFiles": 21
+    },
+    {
+      "number": 46596,
+      "title": "browser: drop chrome-relay auto-creation, simplify to user profile only",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T21:45:10Z",
+      "mergedAt": "2026-03-14T22:40:02Z",
+      "additions": 72,
+      "deletions": 130,
+      "changedFiles": 13
+    },
+    {
+      "number": 45777,
+      "title": "browser: drop chrome-relay auto-creation, simplify to user profile only",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T05:54:30Z",
+      "mergedAt": null,
+      "additions": 69121,
+      "deletions": 6545,
+      "changedFiles": 1026
+    },
+    {
+      "number": 45764,
+      "title": "browser: default user-browser profile to existing-session (Chrome MCP)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T05:27:46Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 108,
+      "changedFiles": 9
+    },
+    {
+      "number": 45682,
+      "title": "fix(browser): harden existing-session driver validation and session lifecycle",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T03:09:43Z",
+      "mergedAt": "2026-03-14T03:21:47Z",
+      "additions": 256,
+      "deletions": 157,
+      "changedFiles": 21
+    },
     {
       "number": 42216,
       "title": "docs: add #42173 to CHANGELOG",
@@ -90,21 +154,45 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Direct Commits"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-10": 3,
-    "2026-01-23": 2,
-    "2026-01-19": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 3,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-14": 4,
+    "2026-03-10": 3,
+    "2026-01-23": 2,
+    "2026-01-19": 1
   }
 }

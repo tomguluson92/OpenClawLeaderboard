@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6640526?v=4",
   "githubUrl": "https://github.com/hydro13",
   "score": {
-    "score": 284.23,
-    "prScore": 251.73,
+    "score": 296.88,
+    "prScore": 264.88,
     "issueScore": 0,
     "reviewScore": 13,
-    "commentScore": 19.5
+    "commentScore": 19
   },
   "tier": "active",
   "characterClass": "Contributor",
   "stats": {
-    "commits": 15,
+    "commits": 18,
     "prs": 4,
-    "prsMerged": 3,
-    "prAdditions": 7215,
-    "prDeletions": 1040,
-    "prChangedFiles": 207,
-    "prMergeRate": 75,
+    "prsMerged": 2,
+    "prAdditions": 7688,
+    "prDeletions": 1071,
+    "prChangedFiles": 212,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 1,
     "reviewsChangesRequested": 0,
-    "comments": 39,
-    "commitAdditions": 2508,
-    "commitDeletions": 344,
-    "weeklyCommits": 14,
-    "monthlyCommits": 18,
-    "commitChangedFiles": 64
+    "comments": 38,
+    "commitAdditions": 2847,
+    "commitDeletions": 389,
+    "commitChangedFiles": 76
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
       "reviews": 4,
-      "comments": 38,
-      "commitAdditions": 1718,
-      "commitDeletions": 267,
-      "commits": 11
+      "comments": 32,
+      "commitAdditions": 2057,
+      "commitDeletions": 312,
+      "commits": 14
     },
     "monthly": {
       "prs": 4,
       "issues": 0,
       "reviews": 4,
-      "comments": 39,
-      "commitAdditions": 2508,
-      "commitDeletions": 344,
-      "commits": 15
+      "comments": 38,
+      "commitAdditions": 2847,
+      "commitDeletions": 389,
+      "commits": 18
     }
   },
-  "firstContribution": "2026-03-02T21:53:31Z",
-  "lastContribution": "2026-03-12T01:06:16Z",
+  "firstContribution": "2026-03-05T14:35:08Z",
+  "lastContribution": "2026-03-14T01:02:25Z",
   "recentPRs": [
+    {
+      "number": 44476,
+      "title": "fix(gateway): exit 0 on EADDRINUSE when healthy OpenClaw gateway is already running",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T00:22:56Z",
+      "mergedAt": null,
+      "additions": 478,
+      "deletions": 31,
+      "changedFiles": 7
+    },
     {
       "number": 43555,
       "title": "fix(daemon): address clanker review findings for kickstart restart",
@@ -86,17 +95,6 @@
       "additions": 11,
       "deletions": 3,
       "changedFiles": 3
-    },
-    {
-      "number": 32206,
-      "title": "docs(contributing): require before/after screenshots for UI PRs",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T21:53:31Z",
-      "mergedAt": "2026-03-03T20:45:19Z",
-      "additions": 5,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -122,29 +120,12 @@
       "createdAt": "2026-03-10T13:11:14Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-12": 6,
-    "2026-03-11": 3,
-    "2026-03-09": 2,
-    "2026-03-03": 1,
-    "2026-03-02": 1,
-    "2026-02-22": 2
-  },
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -160,15 +141,33 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
     "2026-03-10": {
       "prs": 0,
       "issues": 0,
       "reviews": 2
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-13": 3,
+    "2026-03-12": 6,
+    "2026-03-11": 3,
+    "2026-03-09": 2,
+    "2026-03-03": 1,
+    "2026-03-02": 1,
+    "2026-02-22": 2
   }
 }

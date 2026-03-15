@@ -1,0 +1,90 @@
+{
+  "username": "thiswind",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23764?u=51458d9ba056a3798425115a8fc70effd2e08bba&v=4",
+  "githubUrl": "https://github.com/thiswind",
+  "score": {
+    "score": 12.42,
+    "prScore": 7.42,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 2,
+    "prDeletions": 1,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T10:24:27Z",
+  "lastContribution": "2026-03-14T10:26:37Z",
+  "recentPRs": [
+    {
+      "number": 45985,
+      "title": "fix(memory-lancedb): add encoding_format float for Ollama compatibility",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T10:26:37Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45982,
+      "title": "memory-lancedb: Ollama embedding returns wrong dimensions due to base64 encoding",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T10:24:27Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

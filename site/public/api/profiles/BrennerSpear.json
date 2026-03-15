@@ -3,56 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12127609?u=9e79138c7126e45a84f4d2324d954c82f1147aef&v=4",
   "githubUrl": "https://github.com/BrennerSpear",
   "score": {
-    "score": 251.39,
-    "prScore": 239.39,
-    "issueScore": 5,
+    "score": 183.34,
+    "prScore": 165.84,
+    "issueScore": 13,
     "reviewScore": 0,
-    "commentScore": 7
+    "commentScore": 4.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 325206,
-    "prDeletions": 183,
-    "prChangedFiles": 156,
+    "prAdditions": 5967,
+    "prDeletions": 139,
+    "prChangedFiles": 109,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 0,
+    "issues": 2,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 14,
+    "comments": 9,
     "commitAdditions": 32,
     "commitDeletions": 3,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 1,
+      "issues": 2,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 32,
-      "commitDeletions": 3,
-      "commits": 1
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 7,
-      "issues": 1,
+      "prs": 5,
+      "issues": 2,
       "reviews": 0,
-      "comments": 14,
+      "comments": 9,
       "commitAdditions": 32,
       "commitDeletions": 3,
       "commits": 1
     }
   },
-  "firstContribution": "2026-02-27T13:57:33Z",
-  "lastContribution": "2026-03-10T02:40:49Z",
+  "firstContribution": "2026-03-04T13:27:04Z",
+  "lastContribution": "2026-03-15T01:25:32Z",
   "recentPRs": [
     {
       "number": 35231,
@@ -108,31 +106,16 @@
       "additions": 1039,
       "deletions": 23,
       "changedFiles": 20
-    },
-    {
-      "number": 33765,
-      "title": "feat: add --session-key support to system wake/event",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T02:06:46Z",
-      "mergedAt": null,
-      "additions": 318654,
-      "deletions": 21,
-      "changedFiles": 31
-    },
-    {
-      "number": 33482,
-      "title": "feat: add --session-key to `system event` for session-targeted wake",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T20:46:46Z",
-      "mergedAt": null,
-      "additions": 585,
-      "deletions": 23,
-      "changedFiles": 16
     }
   ],
   "recentIssues": [
+    {
+      "number": 46704,
+      "title": "Add config option to prevent doctor from archiving orphan session transcripts",
+      "state": "CLOSED",
+      "createdAt": "2026-03-15T01:25:32Z",
+      "closedAt": "2026-03-15T01:28:18Z"
+    },
     {
       "number": 41651,
       "title": "Skill path containment check produces false-positive warnings for symlinks to bundled skills",
@@ -142,27 +125,6 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    },
-    {
-      "id": "mega-coder",
-      "label": "Mega Coder",
-      "description": "50K+ lines added"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-06": 1
-  },
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 2,
@@ -170,13 +132,13 @@
       "reviews": 0
     },
     "2026-03-04": {
-      "prs": 4,
+      "prs": 3,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     },
     "2026-03-10": {
@@ -184,5 +146,15 @@
       "issues": 1,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-06": 1
   }
 }

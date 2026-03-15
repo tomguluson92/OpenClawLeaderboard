@@ -1,0 +1,111 @@
+{
+  "username": "JosepLee",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29624009?u=0c6dbd079eb4113c2b6cb1f6119da64b05b0f5b7&v=4",
+  "githubUrl": "https://github.com/JosepLee",
+  "score": {
+    "score": 183.49,
+    "prScore": 182.99,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 39395,
+    "prDeletions": 9586,
+    "prChangedFiles": 695,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T15:55:06Z",
+  "lastContribution": "2026-03-12T17:09:24Z",
+  "recentPRs": [
+    {
+      "number": 44256,
+      "title": "fix(feishu): do not treat @all as a bot mention",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T17:09:24Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 44229,
+      "title": "fix(tools): omit tool_choice from request when tools list is empty",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T16:26:20Z",
+      "mergedAt": null,
+      "additions": 39372,
+      "deletions": 9583,
+      "changedFiles": 691
+    },
+    {
+      "number": 44193,
+      "title": "fix(i18n): call notify() in loadLocale to apply saved locale on page load",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T15:55:06Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {}
+}

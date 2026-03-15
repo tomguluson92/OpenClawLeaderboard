@@ -3,57 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1186273?u=8c79b8f6b210f9a4a5100834873d5d03310b1978&v=4",
   "githubUrl": "https://github.com/yfge",
   "score": {
-    "score": 100.68,
-    "prScore": 98.18,
+    "score": 166.03,
+    "prScore": 160.53,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2.5
+    "commentScore": 5.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 9,
     "prsMerged": 1,
-    "prAdditions": 526,
-    "prDeletions": 4,
-    "prChangedFiles": 18,
-    "prMergeRate": 20,
+    "prAdditions": 947,
+    "prDeletions": 70,
+    "prChangedFiles": 32,
+    "prMergeRate": 11,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 11,
     "commitAdditions": 248,
     "commitDeletions": 23,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 12
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 63,
-      "commitDeletions": 1,
-      "commits": 1
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 9,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
+      "comments": 11,
       "commitAdditions": 248,
       "commitDeletions": 23,
       "commits": 2
     }
   },
   "firstContribution": "2026-03-06T15:24:27Z",
-  "lastContribution": "2026-03-11T08:45:05Z",
+  "lastContribution": "2026-03-14T09:13:02Z",
   "recentPRs": [
+    {
+      "number": 45922,
+      "title": "fix(status): show gateway reachable when probe is scope-limited",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T09:13:02Z",
+      "mergedAt": null,
+      "additions": 150,
+      "deletions": 48,
+      "changedFiles": 6
+    },
+    {
+      "number": 45916,
+      "title": "fix(status): treat scope-limited gateway probe as reachable",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T09:04:54Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44630,
+      "title": "fix(docker): allow whitespace in OPENCLAW_CONFIG_DIR",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T03:50:20Z",
+      "mergedAt": null,
+      "additions": 155,
+      "deletions": 9,
+      "changedFiles": 4
+    },
+    {
+      "number": 43757,
+      "title": "fix(cron): keep announce delivery targets for cron requester sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T06:32:19Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 7,
+      "changedFiles": 2
+    },
     {
       "number": 42988,
       "title": "test(gateway): guard spawnedBy support for agent-scoped subagent/acp sessions",
@@ -112,16 +154,22 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-07": 1,
-    "2026-02-28": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -147,5 +195,14 @@
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-07": 1,
+    "2026-02-28": 1
   }
 }

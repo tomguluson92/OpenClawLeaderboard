@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/31182860?u=1e3c17d8978550ee33142b3b8f83f2281e6e4c96&v=4",
   "githubUrl": "https://github.com/LyleLiu666",
   "score": {
-    "score": 49.4,
-    "prScore": 26.4,
+    "score": 86.99,
+    "prScore": 63.99,
     "issueScore": 21,
     "reviewScore": 0,
     "commentScore": 2
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Hunter",
   "stats": {
     "commits": 0,
-    "prs": 2,
-    "prsMerged": 0,
-    "prAdditions": 361,
-    "prDeletions": 4,
-    "prChangedFiles": 7,
-    "prMergeRate": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 594,
+    "prDeletions": 145,
+    "prChangedFiles": 13,
+    "prMergeRate": 33,
     "issues": 3,
     "issuesClosed": 2,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "commitAdditions": 233,
+    "commitDeletions": 141,
+    "commitChangedFiles": 6
   },
   "period": {
     "weekly": {
       "prs": 2,
-      "issues": 2,
+      "issues": 1,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2,
+      "commitAdditions": 233,
+      "commitDeletions": 141,
+      "commits": 1
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 3,
       "reviews": 0,
       "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 233,
+      "commitDeletions": 141,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-04T04:49:25Z",
-  "lastContribution": "2026-03-11T08:24:21Z",
+  "lastContribution": "2026-03-12T12:18:29Z",
   "recentPRs": [
+    {
+      "number": 44021,
+      "title": "fix(mattermost): pass mediaLocalRoots through reply delivery",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T12:18:29Z",
+      "mergedAt": "2026-03-12T14:43:52Z",
+      "additions": 233,
+      "deletions": 141,
+      "changedFiles": 6
+    },
     {
       "number": 41967,
       "title": "Agents: characterize failover and auth-profile pipeline boundaries",
@@ -101,14 +110,12 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 1,
@@ -124,5 +131,14 @@
       "issues": 1,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-12": 1
   }
 }

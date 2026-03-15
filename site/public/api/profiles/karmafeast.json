@@ -3,49 +3,47 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/886771?u=68eb1be1793a7cc953d3a49c9376234de49dcaea&v=4",
   "githubUrl": "https://github.com/karmafeast",
   "score": {
-    "score": 234.97,
-    "prScore": 178.97,
+    "score": 164.29,
+    "prScore": 145.79,
     "issueScore": 18,
-    "reviewScore": 33,
-    "commentScore": 5
+    "reviewScore": 0,
+    "commentScore": 0.5
   },
-  "tier": "active",
-  "characterClass": "Reviewer",
+  "tier": "regular",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 14327,
-    "prDeletions": 403,
-    "prChangedFiles": 106,
+    "prAdditions": 9469,
+    "prDeletions": 959,
+    "prChangedFiles": 57,
     "prMergeRate": 0,
     "issues": 3,
     "issuesClosed": 1,
-    "reviews": 11,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 1,
       "issues": 3,
-      "reviews": 11,
-      "comments": 10,
+      "reviews": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -61,53 +59,9 @@
       "merged": false,
       "createdAt": "2026-03-07T10:53:06Z",
       "mergedAt": null,
-      "additions": 7350,
-      "deletions": 222,
-      "changedFiles": 55
-    },
-    {
-      "number": 33933,
-      "title": "feat: agent self-elected continuation + gateway-native delegation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T04:35:06Z",
-      "mergedAt": null,
-      "additions": 1907,
-      "deletions": 47,
-      "changedFiles": 14
-    },
-    {
-      "number": 33783,
-      "title": "feat: agent self-elected continuation + gateway-native delegation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T02:24:07Z",
-      "mergedAt": null,
-      "additions": 1839,
-      "deletions": 47,
-      "changedFiles": 14
-    },
-    {
-      "number": 33499,
-      "title": "feat: agent self-elected continuation + gateway-native delegation with scoped attachments",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T21:14:19Z",
-      "mergedAt": null,
-      "additions": 1786,
-      "deletions": 43,
-      "changedFiles": 13
-    },
-    {
-      "number": 32843,
-      "title": "feat: agent self-elected continuation + gateway-native delegation with scoped attachments",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T09:33:22Z",
-      "mergedAt": null,
-      "additions": 1445,
-      "deletions": 44,
-      "changedFiles": 10
+      "additions": 9469,
+      "deletions": 959,
+      "changedFiles": 57
     }
   ],
   "recentIssues": [
@@ -133,108 +87,30 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [
-    {
-      "prNumber": 33933,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T05:03:23Z"
-    },
-    {
-      "prNumber": 33933,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T04:54:25Z"
-    },
-    {
-      "prNumber": 33933,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T04:54:24Z"
-    },
-    {
-      "prNumber": 33933,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T04:54:23Z"
-    },
-    {
-      "prNumber": 33499,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T21:56:11Z"
-    },
-    {
-      "prNumber": 33499,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T21:56:00Z"
-    },
-    {
-      "prNumber": 33499,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T21:55:29Z"
-    },
-    {
-      "prNumber": 33499,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T21:55:22Z"
-    },
-    {
-      "prNumber": 33499,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T21:55:14Z"
-    },
-    {
-      "prNumber": 33499,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T21:55:06Z"
-    },
-    {
-      "prNumber": 33499,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T21:54:58Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    },
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 4
-    },
-    "2026-03-03": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 7
-    },
     "2026-03-05": {
       "prs": 0,
       "issues": 1,
       "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -1,0 +1,109 @@
+{
+  "username": "fakade2",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46537030?u=8d544ec8de89b9ac554851d8c94bb8074f913f77&v=4",
+  "githubUrl": "https://github.com/fakade2",
+  "score": {
+    "score": 36.94,
+    "prScore": 24.94,
+    "issueScore": 5,
+    "reviewScore": 6,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 25,
+    "prDeletions": 16,
+    "prChangedFiles": 16,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T17:39:43Z",
+  "lastContribution": "2026-03-14T19:46:12Z",
+  "recentPRs": [
+    {
+      "number": 46451,
+      "title": "fix(plugin-sdk): add outbound-send-deps subpath for Docker builds",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T17:43:43Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 16,
+      "changedFiles": 16
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 46443,
+      "title": "Discord (and other extensions) broken in Docker after send-deps extraction in #46301",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T17:39:43Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 46451,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T18:13:24Z"
+    },
+    {
+      "prNumber": 46451,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T17:51:33Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

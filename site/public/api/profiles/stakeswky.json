@@ -3,37 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/64798754?v=4",
   "githubUrl": "https://github.com/stakeswky",
   "score": {
-    "score": 504.49,
-    "prScore": 502.49,
+    "score": 237.45,
+    "prScore": 237.45,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 0
   },
-  "tier": "veteran",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 8,
-    "prs": 48,
-    "prsMerged": 5,
-    "prAdditions": 1449,
-    "prDeletions": 240,
-    "prChangedFiles": 94,
-    "prMergeRate": 10,
+    "prs": 20,
+    "prsMerged": 1,
+    "prAdditions": 358,
+    "prDeletions": 65,
+    "prChangedFiles": 30,
+    "prMergeRate": 5,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 48,
+      "prs": 20,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T09:44:36Z",
+  "firstContribution": "2026-03-04T10:04:13Z",
   "lastContribution": "2026-03-05T19:38:17Z",
   "recentPRs": [
     {
@@ -277,24 +275,6 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "merger",
-      "label": "Merger",
-      "description": "5+ merged PRs"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 10,
@@ -306,5 +286,17 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

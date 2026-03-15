@@ -3,57 +3,143 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/781889?v=4",
   "githubUrl": "https://github.com/Takhoffman",
   "score": {
-    "score": 1336.76,
-    "prScore": 1182.26,
-    "issueScore": 32,
-    "reviewScore": 30,
-    "commentScore": 92.5
+    "score": 1263.34,
+    "prScore": 1157.34,
+    "issueScore": 24,
+    "reviewScore": 21,
+    "commentScore": 61
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
-    "commits": 123,
-    "prs": 40,
-    "prsMerged": 33,
-    "prAdditions": 8074,
-    "prDeletions": 706,
-    "prChangedFiles": 225,
-    "prMergeRate": 83,
-    "issues": 4,
-    "issuesClosed": 4,
-    "reviews": 10,
+    "commits": 132,
+    "prs": 33,
+    "prsMerged": 26,
+    "prAdditions": 7589,
+    "prDeletions": 619,
+    "prChangedFiles": 179,
+    "prMergeRate": 79,
+    "issues": 3,
+    "issuesClosed": 3,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 185,
-    "commitAdditions": 173230,
-    "commitDeletions": 100348,
-    "weeklyCommits": 17,
-    "monthlyCommits": 256,
-    "commitChangedFiles": 7544
+    "comments": 122,
+    "commitAdditions": 174967,
+    "commitDeletions": 100638,
+    "commitChangedFiles": 7592
   },
   "period": {
     "weekly": {
-      "prs": 21,
+      "prs": 18,
       "issues": 3,
-      "reviews": 3,
-      "comments": 106,
-      "commitAdditions": 1578,
-      "commitDeletions": 209,
-      "commits": 17
+      "reviews": 5,
+      "comments": 37,
+      "commitAdditions": 2497,
+      "commitDeletions": 410,
+      "commits": 18
     },
     "monthly": {
-      "prs": 40,
-      "issues": 4,
-      "reviews": 10,
-      "comments": 185,
-      "commitAdditions": 19277,
-      "commitDeletions": 16592,
-      "commits": 91
+      "prs": 33,
+      "issues": 3,
+      "reviews": 7,
+      "comments": 122,
+      "commitAdditions": 20415,
+      "commitDeletions": 2807,
+      "commits": 81
     }
   },
-  "firstContribution": "2026-03-02T13:35:04Z",
-  "lastContribution": "2026-03-12T03:59:15Z",
+  "firstContribution": "2026-03-05T02:36:18Z",
+  "lastContribution": "2026-03-15T03:34:33Z",
   "recentPRs": [
+    {
+      "number": 46819,
+      "title": "feat(feishu): add ACP and subagent session binding",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:34:33Z",
+      "mergedAt": null,
+      "additions": 2775,
+      "deletions": 33,
+      "changedFiles": 21
+    },
+    {
+      "number": 46749,
+      "title": "fix(gateway): harden health monitor account gating",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-15T02:34:14Z",
+      "mergedAt": "2026-03-15T02:58:28Z",
+      "additions": 106,
+      "deletions": 34,
+      "changedFiles": 2
+    },
+    {
+      "number": 46722,
+      "title": "fix(plugins): prefer explicit installs over bundled duplicates",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-15T01:43:58Z",
+      "mergedAt": "2026-03-15T02:08:32Z",
+      "additions": 269,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 46692,
+      "title": "Add Feishu reactions and card action support",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-15T01:08:52Z",
+      "mergedAt": "2026-03-15T01:25:02Z",
+      "additions": 599,
+      "deletions": 129,
+      "changedFiles": 9
+    },
+    {
+      "number": 46663,
+      "title": "fix(zalouser): stop inheriting dm allowlist for groups",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T23:55:49Z",
+      "mergedAt": "2026-03-15T00:10:11Z",
+      "additions": 44,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 46651,
+      "title": "fix(feishu): keep sender-scoped thread bootstrap across id types",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T23:32:54Z",
+      "mergedAt": "2026-03-14T23:47:05Z",
+      "additions": 92,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 45689,
+      "title": "fix(gateway): bound unanswered client requests",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T03:18:46Z",
+      "mergedAt": "2026-03-14T05:12:43Z",
+      "additions": 220,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 45518,
+      "title": "test: preserve wrapper behavior for targeted runs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T23:06:27Z",
+      "mergedAt": "2026-03-13T23:36:38Z",
+      "additions": 295,
+      "deletions": 50,
+      "changedFiles": 2
+    },
     {
       "number": 43436,
       "title": "fix: restore web tools to coding profile",
@@ -185,94 +271,6 @@
       "additions": 157,
       "deletions": 26,
       "changedFiles": 11
-    },
-    {
-      "number": 38492,
-      "title": "fix(googlechat): inherit shared defaults for multi-account webhook auth",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T02:34:41Z",
-      "mergedAt": "2026-03-07T03:11:55Z",
-      "additions": 147,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 38429,
-      "title": "fix(discord): normalize tagged reasoning in user-visible replies",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T00:43:35Z",
-      "mergedAt": null,
-      "additions": 77,
-      "deletions": 5,
-      "changedFiles": 4
-    },
-    {
-      "number": 38425,
-      "title": "fix(gateway): handle malformed tool payload validation safely",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T00:32:03Z",
-      "mergedAt": null,
-      "additions": 52,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 37033,
-      "title": "fix(slack): record app_mention retry key before dedupe check",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-06T02:31:59Z",
-      "mergedAt": "2026-03-06T03:47:52Z",
-      "additions": 129,
-      "deletions": 6,
-      "changedFiles": 3
-    },
-    {
-      "number": 36868,
-      "title": "onboard: add tools profile picker step and --tools-profile",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T23:31:50Z",
-      "mergedAt": null,
-      "additions": 513,
-      "deletions": 22,
-      "changedFiles": 19
-    },
-    {
-      "number": 36500,
-      "title": "fix(feishu): avoid media regressions from global HTTP timeout",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T17:30:16Z",
-      "mergedAt": "2026-03-05T18:13:40Z",
-      "additions": 214,
-      "deletions": 15,
-      "changedFiles": 5
-    },
-    {
-      "number": 36480,
-      "title": "Mattermost: switch plugin-sdk imports to scoped subpaths",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T17:05:41Z",
-      "mergedAt": "2026-03-05T17:28:16Z",
-      "additions": 6,
-      "deletions": 3,
-      "changedFiles": 4
-    },
-    {
-      "number": 36197,
-      "title": "test(cron): add cross-channel announce fallback regression coverage",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T13:31:35Z",
-      "mergedAt": "2026-03-05T13:37:37Z",
-      "additions": 53,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -296,16 +294,29 @@
       "state": "CLOSED",
       "createdAt": "2026-03-08T15:17:51Z",
       "closedAt": "2026-03-08T15:36:42Z"
-    },
-    {
-      "number": 31740,
-      "title": "Windows spawn follow-up: unify non-core call sites behind canonical strategy",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T13:54:46Z",
-      "closedAt": "2026-03-02T14:05:41Z"
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 45518,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:33:54Z"
+    },
+    {
+      "prNumber": 45518,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:33:53Z"
+    },
+    {
+      "prNumber": 45518,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:33:53Z"
+    },
+    {
+      "prNumber": 45518,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:33:52Z"
+    },
     {
       "prNumber": 39990,
       "state": "COMMENTED",
@@ -320,43 +331,60 @@
       "prNumber": 35230,
       "state": "COMMENTED",
       "createdAt": "2026-03-05T05:48:07Z"
-    },
-    {
-      "prNumber": 33786,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T03:24:24Z"
-    },
-    {
-      "prNumber": 32546,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T05:21:18Z"
-    },
-    {
-      "prNumber": 32546,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T05:21:17Z"
-    },
-    {
-      "prNumber": 32546,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T05:21:16Z"
-    },
-    {
-      "prNumber": 32546,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T05:21:14Z"
-    },
-    {
-      "prNumber": 32546,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T04:54:48Z"
-    },
-    {
-      "prNumber": 32546,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T04:54:47Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 6,
+      "issues": 3,
+      "reviews": 1
+    },
+    "2026-03-07": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -382,11 +410,6 @@
       "description": "5+ merged PRs"
     },
     {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    },
-    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
@@ -398,6 +421,9 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-15": 4,
+    "2026-03-14": 4,
+    "2026-03-13": 1,
     "2026-03-11": 2,
     "2026-03-10": 1,
     "2026-03-09": 1,
@@ -430,57 +456,5 @@
     "2026-02-01": 3,
     "2026-01-31": 3,
     "2026-01-24": 1
-  },
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 6,
-      "issues": 3,
-      "reviews": 1
-    },
-    "2026-03-07": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 6
-    }
   }
 }

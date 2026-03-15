@@ -3,23 +3,23 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/50748585?v=4",
   "githubUrl": "https://github.com/sd1114820",
   "score": {
-    "score": 35.06,
-    "prScore": 21.56,
-    "issueScore": 13,
+    "score": 51.66,
+    "prScore": 33.16,
+    "issueScore": 18,
     "reviewScore": 0,
     "commentScore": 0.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 126,
-    "prDeletions": 27,
-    "prChangedFiles": 5,
+    "prAdditions": 287,
+    "prDeletions": 39,
+    "prChangedFiles": 7,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 3,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,14 +27,12 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 2,
+      "prs": 3,
+      "issues": 3,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -42,8 +40,8 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 2,
+      "prs": 3,
+      "issues": 3,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-08T09:42:31Z",
-  "lastContribution": "2026-03-08T19:07:23Z",
+  "lastContribution": "2026-03-13T09:53:15Z",
   "recentPRs": [
+    {
+      "number": 44945,
+      "title": "fix(agents): avoid stale websocket continuation parent",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T09:46:20Z",
+      "mergedAt": null,
+      "additions": 161,
+      "deletions": 12,
+      "changedFiles": 2
+    },
     {
       "number": 40052,
       "title": "fix(ui): save default agent model changes to defaults config",
@@ -79,6 +88,13 @@
   ],
   "recentIssues": [
     {
+      "number": 44948,
+      "title": "Bug: OpenAI websocket tool-result continuation can resume a stale response branch",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T09:53:15Z",
+      "closedAt": null
+    },
+    {
       "number": 40068,
       "title": "models list --all bypasses model catalog synthetic fallbacks (e.g. GPT-5.4)",
       "state": "CLOSED",
@@ -94,18 +110,23 @@
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

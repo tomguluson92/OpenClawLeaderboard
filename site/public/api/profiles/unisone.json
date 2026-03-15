@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/32521398?v=4",
   "githubUrl": "https://github.com/unisone",
   "score": {
-    "score": 17.75,
-    "prScore": 17.75,
+    "score": 32.52,
+    "prScore": 32.52,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -12,7 +12,7 @@
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
-    "commits": 2,
+    "commits": 3,
     "prs": 0,
     "prsMerged": 0,
     "prAdditions": 0,
@@ -25,11 +25,9 @@
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
-    "commitAdditions": 37,
+    "commitAdditions": 127,
     "commitDeletions": 2,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 7
+    "commitChangedFiles": 12
   },
   "period": {
     "weekly": {
@@ -37,18 +35,18 @@
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
+      "commitAdditions": 90,
       "commitDeletions": 0,
-      "commits": 0
+      "commits": 1
     },
     "monthly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 7,
+      "commitAdditions": 97,
       "commitDeletions": 2,
-      "commits": 1
+      "commits": 2
     }
   },
   "firstContribution": null,
@@ -56,13 +54,14 @@
   "recentPRs": [],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
+    "2026-03-13": 1,
     "2026-02-22": 1,
     "2026-02-06": 1
-  },
-  "recentActivityDays": {}
+  }
 }

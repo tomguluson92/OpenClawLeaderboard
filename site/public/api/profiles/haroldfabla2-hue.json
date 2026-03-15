@@ -3,23 +3,23 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/229189334?v=4",
   "githubUrl": "https://github.com/haroldfabla2-hue",
   "score": {
-    "score": 23.15,
-    "prScore": 17.65,
-    "issueScore": 5,
+    "score": 27.43,
+    "prScore": 26.93,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 18,
-    "prDeletions": 2,
-    "prChangedFiles": 4,
+    "prAdditions": 22,
+    "prDeletions": 4,
+    "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,8 +27,6 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,14 +34,14 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 1,
+      "prs": 3,
+      "issues": 0,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -51,9 +49,20 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-01T06:49:57Z",
-  "lastContribution": "2026-03-06T17:36:37Z",
+  "firstContribution": "2026-03-05T02:38:44Z",
+  "lastContribution": "2026-03-15T03:08:57Z",
   "recentPRs": [
+    {
+      "number": 46782,
+      "title": "fix(logs): default to local timezone display",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:08:57Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 2
+    },
     {
       "number": 38228,
       "title": "fix: extract text from array content in tool cards",
@@ -77,24 +86,14 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 30393,
-      "title": "Bug: Cron delivery mode 'none' + channel 'last' causes Message failed",
-      "state": "OPEN",
-      "createdAt": "2026-03-01T06:49:57Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-06": {
       "prs": 1,
       "issues": 0,
@@ -104,11 +103,12 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-01": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

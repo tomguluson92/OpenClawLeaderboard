@@ -3,37 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/47320423?u=114ff200c45bc7eb83904c6aae17f09ec34f2bb0&v=4",
   "githubUrl": "https://github.com/rylena",
   "score": {
-    "score": 94.9,
-    "prScore": 94.4,
+    "score": 68.26,
+    "prScore": 68.26,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 2000,
-    "prDeletions": 14,
-    "prChangedFiles": 25,
+    "prAdditions": 1787,
+    "prDeletions": 7,
+    "prChangedFiles": 20,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 15,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 15,
       "commitDeletions": 0,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-02T15:20:31Z",
+  "firstContribution": "2026-03-04T14:22:43Z",
   "lastContribution": "2026-03-05T15:19:43Z",
   "recentPRs": [
     {
@@ -86,40 +84,10 @@
       "additions": 1679,
       "deletions": 0,
       "changedFiles": 16
-    },
-    {
-      "number": 33168,
-      "title": "fix(queue): dedupe queued message IDs across drain restarts",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T15:22:02Z",
-      "mergedAt": null,
-      "additions": 92,
-      "deletions": 3,
-      "changedFiles": 3
-    },
-    {
-      "number": 31835,
-      "title": "fix(bluebubbles): coalesce text + URL balloon webhook events",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-02T15:20:31Z",
-      "mergedAt": null,
-      "additions": 121,
-      "deletions": 4,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-02": 1
-  },
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
@@ -130,16 +98,13 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 1
   }
 }

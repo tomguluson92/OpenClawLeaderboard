@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/129738407?v=4",
   "githubUrl": "https://github.com/YCHuang2112sub",
   "score": {
-    "score": 226.12,
-    "prScore": 226.12,
+    "score": 249.68,
+    "prScore": 247.18,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 2.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 3974,
-    "prDeletions": 1381239,
-    "prChangedFiles": 7558,
+    "prAdditions": 7964,
+    "prDeletions": 1383003,
+    "prChangedFiles": 7644,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-05T07:01:33Z",
-  "lastContribution": "2026-03-05T21:04:05Z",
+  "lastContribution": "2026-03-14T07:16:35Z",
   "recentPRs": [
+    {
+      "number": 45235,
+      "title": "Extension: harden tab swap identity migration",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T15:24:49Z",
+      "mergedAt": null,
+      "additions": 2331,
+      "deletions": 679,
+      "changedFiles": 29
+    },
+    {
+      "number": 45055,
+      "title": "relay: industrial-gold hardening of browser extension logic",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T11:50:45Z",
+      "mergedAt": null,
+      "additions": 1920,
+      "deletions": 673,
+      "changedFiles": 28
+    },
+    {
+      "number": 44615,
+      "title": "feat: browser lock, Gemini 2.5 Flash, and Windows CLI fixes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T03:39:44Z",
+      "mergedAt": null,
+      "additions": 1030,
+      "deletions": 350,
+      "changedFiles": 27
+    },
     {
       "number": 36693,
       "title": "feat: restore extension modes and indexed snapshot tooling",
@@ -72,24 +103,30 @@
       "merged": false,
       "createdAt": "2026-03-05T07:01:33Z",
       "mergedAt": null,
-      "additions": 2266,
-      "deletions": 271,
-      "changedFiles": 25
+      "additions": 975,
+      "deletions": 333,
+      "changedFiles": 27
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Large-Scale Changes"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-05": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

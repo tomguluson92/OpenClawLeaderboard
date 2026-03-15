@@ -3,39 +3,37 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/29540617?u=52da720721b526f777916ac2277974690a6a54f9&v=4",
   "githubUrl": "https://github.com/bug-origin",
   "score": {
-    "score": 14.11,
-    "prScore": 13.61,
+    "score": 28.06,
+    "prScore": 15.56,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 12,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 67,
+    "prAdditions": 101,
     "prDeletions": 14,
-    "prChangedFiles": 5,
+    "prChangedFiles": 6,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 4,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -44,7 +42,7 @@
     "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 4,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -52,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-11T10:01:34Z",
-  "lastContribution": "2026-03-11T13:03:53Z",
+  "lastContribution": "2026-03-14T13:40:18Z",
   "recentPRs": [
     {
       "number": 43061,
@@ -61,24 +59,51 @@
       "merged": false,
       "createdAt": "2026-03-11T10:01:34Z",
       "mergedAt": null,
-      "additions": 67,
+      "additions": 101,
       "deletions": 14,
-      "changedFiles": 5
+      "changedFiles": 6
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
+  "recentReviews": [
+    {
+      "prNumber": 43061,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T13:40:18Z"
+    },
+    {
+      "prNumber": 43061,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T13:40:16Z"
+    },
+    {
+      "prNumber": 43061,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T13:40:14Z"
+    },
+    {
+      "prNumber": 43061,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T13:40:12Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 4
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

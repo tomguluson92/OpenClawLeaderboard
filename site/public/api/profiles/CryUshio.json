@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 8,
     "commitDeletions": 1,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 3
   },
   "period": {
@@ -69,13 +67,20 @@
   "recentIssues": [
     {
       "number": 42236,
-      "title": "[Bug]: 402 \"You've used up your points!\" from Poe API not recognized as billing \u2014 model fallback does not trigger",
+      "title": "[Bug]: 402 \"You've used up your points!\" from Poe API not recognized as billing — model fallback does not trigger",
       "state": "CLOSED",
       "createdAt": "2026-03-10T14:36:29Z",
       "closedAt": "2026-03-10T17:17:38Z"
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting"
@@ -83,12 +88,5 @@
   "achievements": [],
   "recentCommitDays": {
     "2026-03-10": 1
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

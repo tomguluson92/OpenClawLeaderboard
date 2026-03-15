@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1422024?u=61b92e6513494779978d37e93f5243c176fabeba&v=4",
   "githubUrl": "https://github.com/iamcobolt",
   "score": {
-    "score": 174.66,
-    "prScore": 153.66,
+    "score": 63.42,
+    "prScore": 62.92,
     "issueScore": 0,
-    "reviewScore": 15,
-    "commentScore": 6
+    "reviewScore": 0,
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 2051,
-    "prDeletions": 674,
-    "prChangedFiles": 62,
+    "prAdditions": 873,
+    "prDeletions": 325,
+    "prChangedFiles": 23,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 12,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 2,
       "issues": 0,
-      "reviews": 5,
-      "comments": 12,
+      "reviews": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T14:27:21Z",
+  "firstContribution": "2026-03-04T01:25:11Z",
   "lastContribution": "2026-03-04T14:57:45Z",
   "recentPRs": [
     {
@@ -75,91 +73,21 @@
       "additions": 306,
       "deletions": 152,
       "changedFiles": 10
-    },
-    {
-      "number": 33396,
-      "title": "feat(compaction): add fallbackModel to retry compaction on quota/rate-limit errors",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T19:04:29Z",
-      "mergedAt": null,
-      "additions": 624,
-      "deletions": 173,
-      "changedFiles": 15
-    },
-    {
-      "number": 33296,
-      "title": "feat(compaction): disable thinking by default; add compaction.thinking override",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T17:06:23Z",
-      "mergedAt": null,
-      "additions": 257,
-      "deletions": 153,
-      "changedFiles": 9
-    },
-    {
-      "number": 31772,
-      "title": "feat(compaction): Allow Model Override During Compaction To Prevent Timeout",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T14:27:21Z",
-      "mergedAt": null,
-      "additions": 297,
-      "deletions": 23,
-      "changedFiles": 15
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 33396,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T22:36:47Z"
-    },
-    {
-      "prNumber": 33396,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T22:36:47Z"
-    },
-    {
-      "prNumber": 33396,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T22:36:44Z"
-    },
-    {
-      "prNumber": 33396,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T22:36:44Z"
-    },
-    {
-      "prNumber": 31772,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T15:20:37Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-04": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 4
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

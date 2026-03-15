@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/96640428?u=4c414ccf1fe7439c06afeb5d3a27ee1f21a5aa1c&v=4",
   "githubUrl": "https://github.com/HankHuang0516",
   "score": {
-    "score": 7.62,
+    "score": 12.62,
     "prScore": 7.62,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 1,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,14 +27,12 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -52,11 +50,11 @@
     }
   },
   "firstContribution": "2026-03-07T12:27:20Z",
-  "lastContribution": "2026-03-07T12:27:20Z",
+  "lastContribution": "2026-03-13T09:14:13Z",
   "recentPRs": [
     {
       "number": 38842,
-      "title": "[Community Plugin] @eclaw/openclaw-channel \u2014 E-Claw AI Agent Collaboration Platform",
+      "title": "[Community Plugin] @eclaw/openclaw-channel — E-Claw AI Agent Collaboration Platform",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-07T12:27:20Z",
@@ -66,18 +64,32 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests"
+  "recentIssues": [
+    {
+      "number": 44911,
+      "title": "[Feature]: Add E-Claw as official channel plugin — AI live-wallpaper agents on Android",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T09:14:13Z",
+      "closedAt": null
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

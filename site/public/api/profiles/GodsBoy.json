@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5792287?u=f103aac89d8296d2996fbae09cde78d3f08d3aac&v=4",
   "githubUrl": "https://github.com/GodsBoy",
   "score": {
-    "score": 155.51,
-    "prScore": 97.01,
-    "issueScore": 23,
+    "score": 164.28,
+    "prScore": 111.28,
+    "issueScore": 18,
     "reviewScore": 30,
-    "commentScore": 5.5
+    "commentScore": 5
   },
   "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 883,
-    "prDeletions": 50,
-    "prChangedFiles": 28,
+    "prAdditions": 994,
+    "prDeletions": 51,
+    "prChangedFiles": 31,
     "prMergeRate": 0,
-    "issues": 4,
+    "issues": 3,
     "issuesClosed": 1,
     "reviews": 10,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
+    "comments": 10,
     "commitAdditions": 47,
     "commitDeletions": 1,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 6,
       "issues": 3,
       "reviews": 10,
-      "comments": 8,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
-      "issues": 4,
+      "prs": 6,
+      "issues": 3,
       "reviews": 10,
-      "comments": 11,
+      "comments": 10,
       "commitAdditions": 47,
       "commitDeletions": 1,
       "commits": 1
     }
   },
-  "firstContribution": "2026-02-28T05:53:53Z",
-  "lastContribution": "2026-03-10T16:07:20Z",
+  "firstContribution": "2026-03-04T11:04:52Z",
+  "lastContribution": "2026-03-14T15:18:19Z",
   "recentPRs": [
+    {
+      "number": 46259,
+      "title": "fix(browser): skip shared_worker/service_worker CDP targets gracefully",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T14:57:53Z",
+      "mergedAt": null,
+      "additions": 111,
+      "deletions": 1,
+      "changedFiles": 3
+    },
     {
       "number": 41989,
       "title": "feat(telegram): persist forum topic icons via config (iconCustomEmojiId)",
@@ -131,13 +140,6 @@
       "state": "CLOSED",
       "createdAt": "2026-03-08T11:43:02Z",
       "closedAt": "2026-03-08T12:09:16Z"
-    },
-    {
-      "number": 29491,
-      "title": "feat(lobster): document workflow file shell quoting limitation + suggest exec helper or JSON format",
-      "state": "OPEN",
-      "createdAt": "2026-02-28T05:53:53Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [
@@ -192,6 +194,28 @@
       "createdAt": "2026-03-08T13:32:02Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 2
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -212,27 +236,5 @@
   ],
   "recentCommitDays": {
     "2026-02-26": 1
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 8
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 2
-    },
-    "2026-02-28": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

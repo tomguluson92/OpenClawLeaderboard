@@ -27,16 +27,14 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 1,
-      "comments": 1,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -98,7 +96,7 @@
     },
     {
       "number": 35443,
-      "title": "llm-task plugin tool parameters missing `type` field \u2014 breaks llama.cpp backends",
+      "title": "llm-task plugin tool parameters missing `type` field — breaks llama.cpp backends",
       "state": "OPEN",
       "createdAt": "2026-03-05T04:37:09Z",
       "closedAt": null
@@ -111,6 +109,13 @@
       "createdAt": "2026-03-05T18:31:24Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -124,12 +129,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-05": {
-      "prs": 3,
-      "issues": 2,
-      "reviews": 1
-    }
-  }
+  "recentCommitDays": {}
 }

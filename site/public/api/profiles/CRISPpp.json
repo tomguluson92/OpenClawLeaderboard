@@ -27,15 +27,13 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 1,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -56,7 +54,7 @@
   "recentPRs": [
     {
       "number": 37717,
-      "title": "feat: add Azure api-version support for OpenAI\u2011compatible chat completions",
+      "title": "feat: add Azure api-version support for OpenAI‑compatible chat completions",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-06T11:32:39Z",
@@ -74,17 +72,17 @@
       "createdAt": "2026-03-06T11:56:45Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
       "issues": 0,
       "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

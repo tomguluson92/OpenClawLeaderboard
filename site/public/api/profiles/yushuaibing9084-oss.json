@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/262818327?u=ddb42e65ae954ed6b836028a4cb78fa63f82da2d&v=4",
   "githubUrl": "https://github.com/yushuaibing9084-oss",
   "score": {
-    "score": 255.94,
-    "prScore": 225.94,
-    "issueScore": 26,
+    "score": 239.44,
+    "prScore": 218.94,
+    "issueScore": 18,
     "reviewScore": 0,
-    "commentScore": 4
+    "commentScore": 2.5
   },
   "tier": "active",
-  "characterClass": "Contributor",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 416,
-    "prDeletions": 1367917,
-    "prChangedFiles": 7544,
+    "prAdditions": 409,
+    "prDeletions": 1367914,
+    "prChangedFiles": 7543,
     "prMergeRate": 0,
-    "issues": 4,
-    "issuesClosed": 2,
+    "issues": 3,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
+    "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 4,
+      "prs": 1,
+      "issues": 3,
       "reviews": 0,
-      "comments": 8,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-28T09:24:51Z",
+  "firstContribution": "2026-03-03T04:26:50Z",
   "lastContribution": "2026-03-10T05:00:23Z",
   "recentPRs": [
     {
@@ -64,23 +62,12 @@
       "additions": 409,
       "deletions": 1367914,
       "changedFiles": 7543
-    },
-    {
-      "number": 33109,
-      "title": "improve(browser): enhance error message for missing Chrome extension tab",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T14:32:32Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 3,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [
     {
       "number": 40854,
-      "title": "Feishu channel stops receiving messages after upgrade to v2026.3.7 \u2014 persistent duplicate plugin id + long connection not established",
+      "title": "Feishu channel stops receiving messages after upgrade to v2026.3.7 — persistent duplicate plugin id + long connection not established",
       "state": "OPEN",
       "createdAt": "2026-03-09T10:17:49Z",
       "closedAt": null
@@ -98,24 +85,9 @@
       "state": "OPEN",
       "createdAt": "2026-03-03T04:26:50Z",
       "closedAt": null
-    },
-    {
-      "number": 29632,
-      "title": "[Bug]: Duplicate feishu plugin causes pairing failure after v2026.2.26 upgrade",
-      "state": "CLOSED",
-      "createdAt": "2026-02-28T09:24:51Z",
-      "closedAt": "2026-03-01T23:55:33Z"
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion",
-    "Large-Scale Changes"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
@@ -123,14 +95,17 @@
       "reviews": 0
     },
     "2026-03-03": {
-      "prs": 1,
+      "prs": 0,
       "issues": 2,
       "reviews": 0
-    },
-    "2026-02-28": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

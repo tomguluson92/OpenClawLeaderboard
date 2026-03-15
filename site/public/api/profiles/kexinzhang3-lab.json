@@ -1,0 +1,114 @@
+{
+  "username": "kexinzhang3-lab",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/243058290?u=6067b94fde12c2e11c835887fa7b2d3ac284a337&v=4",
+  "githubUrl": "https://github.com/kexinzhang3-lab",
+  "score": {
+    "score": 69.48,
+    "prScore": 58.48,
+    "issueScore": 5,
+    "reviewScore": 6,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 13795,
+    "prDeletions": 19,
+    "prChangedFiles": 18,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T16:42:20Z",
+  "lastContribution": "2026-03-14T17:59:24Z",
+  "recentPRs": [
+    {
+      "number": 46382,
+      "title": "fix: tolerate malformed streamed tool-call JSON via pnpm patch on pi-ai",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T16:47:05Z",
+      "mergedAt": null,
+      "additions": 13795,
+      "deletions": 19,
+      "changedFiles": 18
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 46370,
+      "title": "Bug: Tool-call args JSON parse crashes on unescaped newlines/quotes",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T16:42:20Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 46382,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T17:59:24Z"
+    },
+    {
+      "prNumber": 46382,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T17:58:51Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

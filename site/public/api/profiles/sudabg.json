@@ -1,0 +1,136 @@
+{
+  "username": "sudabg",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/143158885?v=4",
+  "githubUrl": "https://github.com/sudabg",
+  "score": {
+    "score": 49.4,
+    "prScore": 49.4,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 43,
+    "prDeletions": 17,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T07:46:16Z",
+  "lastContribution": "2026-03-14T15:34:22Z",
+  "recentPRs": [
+    {
+      "number": 46292,
+      "title": "fix(bluebubbles): preserve intra-word underscores in stripMarkdown",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T15:34:22Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 46181,
+      "title": "fix: report not-requested when delivery.mode=none (#44533)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T13:45:03Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 46172,
+      "title": "fix: include current time in system prompt to fix wrong greeting",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T13:36:31Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 46156,
+      "title": "fix: show provider/model format in /model command suggestions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T13:25:08Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 46149,
+      "title": "fix: strip raw tool_call/tool_result XML tags from channel messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T13:19:50Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 45859,
+      "title": "fix: prevent status output corruption from toLineStatus() #587",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T07:46:16Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 10,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

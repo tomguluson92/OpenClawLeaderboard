@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5617868?v=4",
   "githubUrl": "https://github.com/huntharo",
   "score": {
-    "score": 258.51,
-    "prScore": 248.01,
+    "score": 277.49,
+    "prScore": 266.49,
     "issueScore": 0,
     "reviewScore": 6,
-    "commentScore": 4.5
+    "commentScore": 5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 13,
-    "prs": 4,
+    "prs": 6,
     "prsMerged": 3,
-    "prAdditions": 6715,
-    "prDeletions": 1037,
-    "prChangedFiles": 119,
-    "prMergeRate": 75,
+    "prAdditions": 12473,
+    "prDeletions": 1149,
+    "prChangedFiles": 179,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
+    "comments": 10,
     "commitAdditions": 8019,
     "commitDeletions": 1113,
-    "weeklyCommits": 2,
-    "monthlyCommits": 13,
     "commitChangedFiles": 146
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 3,
       "issues": 0,
-      "reviews": 2,
-      "comments": 9,
-      "commitAdditions": 6506,
-      "commitDeletions": 978,
-      "commits": 3
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 4111,
+      "commitDeletions": 527,
+      "commits": 2
     },
     "monthly": {
-      "prs": 4,
+      "prs": 6,
       "issues": 0,
       "reviews": 2,
-      "comments": 9,
+      "comments": 10,
       "commitAdditions": 8019,
       "commitDeletions": 1113,
       "commits": 13
     }
   },
   "firstContribution": "2026-03-05T13:46:00Z",
-  "lastContribution": "2026-03-11T21:32:56Z",
+  "lastContribution": "2026-03-15T02:03:51Z",
   "recentPRs": [
+    {
+      "number": 46597,
+      "title": "Discord: reconcile native commands without restart churn",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T21:47:11Z",
+      "mergedAt": null,
+      "additions": 1396,
+      "deletions": 18,
+      "changedFiles": 10
+    },
+    {
+      "number": 45318,
+      "title": "Plugins: broaden plugin surface for Codex App Server",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T17:05:14Z",
+      "mergedAt": null,
+      "additions": 4362,
+      "deletions": 94,
+      "changedFiles": 50
+    },
     {
       "number": 42664,
       "title": "Gateway/Dashboard: surface config validation issues",
@@ -112,24 +132,17 @@
       "createdAt": "2026-03-05T20:55:22Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-11": 1,
-    "2026-03-10": 1,
-    "2026-03-06": 1,
-    "2026-03-05": 1,
-    "2026-02-26": 6,
-    "2026-02-21": 2,
-    "2026-02-20": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -145,5 +158,28 @@
       "issues": 0,
       "reviews": 2
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-11": 1,
+    "2026-03-10": 1,
+    "2026-03-06": 1,
+    "2026-03-05": 1,
+    "2026-02-26": 6,
+    "2026-02-21": 2,
+    "2026-02-20": 1
   }
 }

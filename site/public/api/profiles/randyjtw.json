@@ -3,57 +3,110 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/50990996?u=ecf3ab7a006ff11d0181f01f8760357c847af66d&v=4",
   "githubUrl": "https://github.com/randyjtw",
   "score": {
-    "score": 300.53,
-    "prScore": 209.53,
-    "issueScore": 5,
-    "reviewScore": 75,
-    "commentScore": 11
+    "score": 386.42,
+    "prScore": 250.92,
+    "issueScore": 0,
+    "reviewScore": 120,
+    "commentScore": 15.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 13,
+    "prs": 17,
     "prsMerged": 0,
-    "prAdditions": 2561,
-    "prDeletions": 140,
-    "prChangedFiles": 52,
+    "prAdditions": 6287,
+    "prDeletions": 313,
+    "prChangedFiles": 94,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 25,
+    "reviews": 40,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 22,
+    "comments": 31,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 10,
+      "prs": 13,
       "issues": 0,
-      "reviews": 24,
-      "comments": 19,
+      "reviews": 25,
+      "comments": 18,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 13,
-      "issues": 1,
-      "reviews": 25,
-      "comments": 22,
+      "prs": 17,
+      "issues": 0,
+      "reviews": 40,
+      "comments": 31,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-01T00:18:07Z",
-  "lastContribution": "2026-03-11T14:45:50Z",
+  "firstContribution": "2026-03-04T12:53:58Z",
+  "lastContribution": "2026-03-14T13:15:42Z",
   "recentPRs": [
+    {
+      "number": 45267,
+      "title": "feat(web_search): verify MiniMax coding_plan OAuth before use",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T16:09:27Z",
+      "mergedAt": null,
+      "additions": 1666,
+      "deletions": 96,
+      "changedFiles": 20
+    },
+    {
+      "number": 44416,
+      "title": "fix(webui): support drag-drop image attach and prevent own-run final history wipe",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T22:31:54Z",
+      "mergedAt": null,
+      "additions": 139,
+      "deletions": 50,
+      "changedFiles": 5
+    },
+    {
+      "number": 44404,
+      "title": "feat(media): add MiniMax coding_plan native image fallback (non-MCP)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T22:03:54Z",
+      "mergedAt": null,
+      "additions": 163,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 44399,
+      "title": "feat(media): add MiniMax coding_plan native image fallback (non-MCP)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T21:44:30Z",
+      "mergedAt": null,
+      "additions": 210,
+      "deletions": 8,
+      "changedFiles": 7
+    },
+    {
+      "number": 43825,
+      "title": "feat(memory): add optional runtime recall-before-response enforcement",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T07:52:04Z",
+      "mergedAt": null,
+      "additions": 629,
+      "deletions": 1,
+      "changedFiles": 10
+    },
     {
       "number": 42964,
       "title": "feat(web_search): add minimax provider with OAuth fallback",
@@ -61,8 +114,8 @@
       "merged": false,
       "createdAt": "2026-03-11T08:02:05Z",
       "mergedAt": null,
-      "additions": 1408,
-      "deletions": 91,
+      "additions": 2290,
+      "deletions": 105,
       "changedFiles": 19
     },
     {
@@ -72,9 +125,9 @@
       "merged": false,
       "createdAt": "2026-03-10T16:00:53Z",
       "mergedAt": null,
-      "additions": 8,
+      "additions": 98,
       "deletions": 4,
-      "changedFiles": 3
+      "changedFiles": 5
     },
     {
       "number": 41374,
@@ -185,29 +238,85 @@
       "additions": 49,
       "deletions": 0,
       "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 44416,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T05:55:02Z"
     },
     {
-      "number": 33100,
-      "title": "gateway/health-monitor: skip stale idle checks for LINE webhook runtime",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T14:21:59Z",
-      "mergedAt": null,
-      "additions": 53,
-      "deletions": 0,
-      "changedFiles": 4
-    }
-  ],
-  "recentIssues": [
+      "prNumber": 44416,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T05:54:33Z"
+    },
     {
-      "number": 30155,
-      "title": "[Bug]: Cron page: Edit Job panel is sticky but not scrollable on desktop",
-      "state": "OPEN",
-      "createdAt": "2026-03-01T00:18:07Z",
-      "closedAt": null
-    }
-  ],
-  "recentReviews": [
+      "prNumber": 44404,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T05:54:32Z"
+    },
+    {
+      "prNumber": 44416,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T22:58:27Z"
+    },
+    {
+      "prNumber": 44416,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T22:58:17Z"
+    },
+    {
+      "prNumber": 44404,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T22:12:54Z"
+    },
+    {
+      "prNumber": 44404,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T22:12:46Z"
+    },
+    {
+      "prNumber": 44399,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T21:53:15Z"
+    },
+    {
+      "prNumber": 44399,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T21:53:14Z"
+    },
+    {
+      "prNumber": 44399,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T21:53:03Z"
+    },
+    {
+      "prNumber": 43825,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T13:44:09Z"
+    },
+    {
+      "prNumber": 43825,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T12:16:50Z"
+    },
+    {
+      "prNumber": 43825,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:39:12Z"
+    },
+    {
+      "prNumber": 43825,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:38:57Z"
+    },
+    {
+      "prNumber": 43825,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:38:42Z"
+    },
     {
       "prNumber": 42964,
       "state": "COMMENTED",
@@ -232,113 +341,19 @@
       "prNumber": 42964,
       "state": "COMMENTED",
       "createdAt": "2026-03-11T08:26:24Z"
-    },
-    {
-      "prNumber": 42964,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T08:26:24Z"
-    },
-    {
-      "prNumber": 41093,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T19:20:57Z"
-    },
-    {
-      "prNumber": 40134,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T18:19:52Z"
-    },
-    {
-      "prNumber": 40117,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T17:37:41Z"
-    },
-    {
-      "prNumber": 40117,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T17:37:41Z"
-    },
-    {
-      "prNumber": 34447,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T11:55:27Z"
-    },
-    {
-      "prNumber": 34447,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T11:55:25Z"
-    },
-    {
-      "prNumber": 34447,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T11:55:24Z"
-    },
-    {
-      "prNumber": 34447,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T11:55:22Z"
-    },
-    {
-      "prNumber": 35766,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T11:55:17Z"
-    },
-    {
-      "prNumber": 35766,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T11:55:16Z"
-    },
-    {
-      "prNumber": 35766,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T11:55:14Z"
-    },
-    {
-      "prNumber": 35766,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T11:55:13Z"
-    },
-    {
-      "prNumber": 35766,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T11:55:11Z"
-    },
-    {
-      "prNumber": 35765,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T11:55:10Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-12": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 12
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -362,22 +377,36 @@
     "2026-03-05": {
       "prs": 2,
       "issues": 0,
-      "reviews": 10
+      "reviews": 14
     },
     "2026-03-04": {
       "prs": 2,
       "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-01": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
+      "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {}
 }

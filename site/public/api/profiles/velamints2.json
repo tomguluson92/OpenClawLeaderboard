@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/93711796?u=a15afb6f0391daa8bb5fb8b6a32795fe15c42b3d&v=4",
   "githubUrl": "https://github.com/velamints2",
   "score": {
-    "score": 105.81,
-    "prScore": 73.81,
-    "issueScore": 26,
-    "reviewScore": 3,
-    "commentScore": 3
+    "score": 41.98,
+    "prScore": 30.48,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 1.5
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 5,
-    "prsMerged": 1,
-    "prAdditions": 471,
-    "prDeletions": 31,
-    "prChangedFiles": 17,
-    "prMergeRate": 20,
-    "issues": 4,
-    "issuesClosed": 2,
-    "reviews": 1,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 409,
+    "prDeletions": 6,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
+    "comments": 3,
     "commitAdditions": 31,
     "commitDeletions": 1,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
@@ -36,23 +34,23 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
-      "issues": 4,
-      "reviews": 1,
-      "comments": 6,
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 3,
       "commitAdditions": 31,
       "commitDeletions": 1,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-02T16:38:45Z",
-  "lastContribution": "2026-03-10T08:18:45Z",
+  "firstContribution": "2026-03-03T10:40:26Z",
+  "lastContribution": "2026-03-12T15:16:36Z",
   "recentPRs": [
     {
       "number": 41940,
@@ -75,39 +73,6 @@
       "additions": 78,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 32897,
-      "title": "fix: exit(0) when port owned by another OpenClaw instance",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T10:35:55Z",
-      "mergedAt": null,
-      "additions": 10,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 32083,
-      "title": "fix(restart): deduplicate reason line in restart sentinel message",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T19:22:47Z",
-      "mergedAt": "2026-03-03T00:30:34Z",
-      "additions": 32,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 31972,
-      "title": "fix(browser): default to openclaw profile and simplify default selection logic",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T17:31:32Z",
-      "mergedAt": null,
-      "additions": 20,
-      "deletions": 24,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [
@@ -120,49 +85,13 @@
     },
     {
       "number": 32903,
-      "title": "bug: dispatch completes with replies=0 \u2014 user sees no response (silent drop)",
+      "title": "bug: dispatch completes with replies=0 — user sees no response (silent drop)",
       "state": "OPEN",
       "createdAt": "2026-03-03T10:40:26Z",
       "closedAt": null
-    },
-    {
-      "number": 32084,
-      "title": "[Bug]: Flaky test in bun runner: isolated-agent model override precedence expects 'openai' but gets 'anthropic'",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T19:23:33Z",
-      "closedAt": "2026-03-07T22:12:47Z"
-    },
-    {
-      "number": 31907,
-      "title": "[Bug]: Default browser profile should prefer \"openclaw\" (standalone CDP) over \"chrome\" (extension relay) on desktop GUI environments",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T16:38:45Z",
-      "closedAt": "2026-03-02T18:34:39Z"
     }
   ],
-  "recentReviews": [
-    {
-      "prNumber": 31972,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T18:01:54Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-03": 1
-  },
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 2,
@@ -170,14 +99,18 @@
       "reviews": 0
     },
     "2026-03-03": {
-      "prs": 1,
+      "prs": 0,
       "issues": 2,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 1
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-03": 1
   }
 }

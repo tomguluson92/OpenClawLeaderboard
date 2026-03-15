@@ -3,57 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2156642?v=4",
   "githubUrl": "https://github.com/Lanfei",
   "score": {
-    "score": 177.49,
-    "prScore": 141.49,
+    "score": 230.52,
+    "prScore": 198.02,
     "issueScore": 0,
-    "reviewScore": 36,
-    "commentScore": 0
+    "reviewScore": 30,
+    "commentScore": 2.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
-    "commits": 3,
-    "prs": 6,
+    "commits": 7,
+    "prs": 7,
     "prsMerged": 1,
-    "prAdditions": 1159,
-    "prDeletions": 9,
-    "prChangedFiles": 26,
-    "prMergeRate": 17,
+    "prAdditions": 1099,
+    "prDeletions": 49,
+    "prChangedFiles": 36,
+    "prMergeRate": 14,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 12,
+    "reviews": 10,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 333,
-    "commitDeletions": 41,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 11
+    "comments": 5,
+    "commitAdditions": 410,
+    "commitDeletions": 79,
+    "commitChangedFiles": 24
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 7,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
       "prs": 6,
       "issues": 0,
-      "reviews": 12,
-      "comments": 0,
-      "commitAdditions": 333,
-      "commitDeletions": 41,
-      "commits": 3
+      "reviews": 4,
+      "comments": 5,
+      "commitAdditions": 77,
+      "commitDeletions": 38,
+      "commits": 4
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 10,
+      "comments": 5,
+      "commitAdditions": 410,
+      "commitDeletions": 79,
+      "commits": 7
     }
   },
-  "firstContribution": "2026-03-02T16:35:13Z",
-  "lastContribution": "2026-03-11T06:36:39Z",
+  "firstContribution": "2026-03-05T17:06:52Z",
+  "lastContribution": "2026-03-14T02:31:57Z",
   "recentPRs": [
+    {
+      "number": 44800,
+      "title": "fix(media-tools): apply models.provider baseUrl override in image-tool and pdf-tool",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T07:18:32Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 17,
+      "changedFiles": 4
+    },
+    {
+      "number": 44773,
+      "title": "fix(session): preserve `lastAccountId ` and `lastThreadId` on session reset",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T06:52:08Z",
+      "mergedAt": "2026-03-13T07:09:45Z",
+      "additions": 20,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 44748,
+      "title": "fix(media-tools): apply models.provider baseUrl override in image-tool and pdf-tool",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T06:28:49Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 16,
+      "changedFiles": 3
+    },
+    {
+      "number": 43785,
+      "title": "feat(web-search): add baseUrl config support for proxy-compatible endpoints",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T07:12:35Z",
+      "mergedAt": null,
+      "additions": 86,
+      "deletions": 7,
+      "changedFiles": 8
+    },
     {
       "number": 42880,
       "title": "skill(nano-banana-pro): add --base-url / GEMINI_BASE_URL proxy support",
@@ -68,7 +110,7 @@
     {
       "number": 42846,
       "title": "feat(web-search): add baseUrl config support for proxy-compatible endpoints",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T05:38:45Z",
       "mergedAt": null,
@@ -83,46 +125,28 @@
       "merged": false,
       "createdAt": "2026-03-05T17:06:52Z",
       "mergedAt": null,
-      "additions": 819,
-      "deletions": 1,
-      "changedFiles": 9
-    },
-    {
-      "number": 34119,
-      "title": "Docker: add OPENCLAW_TZ timezone support",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T07:36:05Z",
-      "mergedAt": null,
-      "additions": 14,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 32728,
-      "title": "fix(feishu): skip debounce for group @Bot command messages",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T07:47:12Z",
-      "mergedAt": null,
-      "additions": 52,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 31902,
-      "title": "fix(queue): restart drain when message enqueued after idle window",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T16:35:13Z",
-      "mergedAt": "2026-03-02T19:38:08Z",
-      "additions": 169,
-      "deletions": 0,
-      "changedFiles": 5
+      "additions": 847,
+      "deletions": 2,
+      "changedFiles": 10
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 44800,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T07:31:29Z"
+    },
+    {
+      "prNumber": 43785,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T07:21:02Z"
+    },
+    {
+      "prNumber": 42846,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T07:05:44Z"
+    },
     {
       "prNumber": 42880,
       "state": "COMMENTED",
@@ -157,51 +181,19 @@
       "prNumber": 36481,
       "state": "COMMENTED",
       "createdAt": "2026-03-05T18:05:37Z"
-    },
-    {
-      "prNumber": 34119,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T08:52:16Z"
-    },
-    {
-      "prNumber": 34119,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T08:05:15Z"
-    },
-    {
-      "prNumber": 34119,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T07:50:31Z"
-    },
-    {
-      "prNumber": 34119,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T07:45:57Z"
-    },
-    {
-      "prNumber": 32728,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T16:22:20Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Direct Commits"
-  ],
-  "achievements": [
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-03": 1,
-    "2026-03-02": 1,
-    "2026-02-28": 1
-  },
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-11": {
       "prs": 2,
       "issues": 0,
@@ -212,25 +204,29 @@
       "issues": 0,
       "reviews": 4
     },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 4
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
     "2026-03-06": {
       "prs": 0,
       "issues": 0,
       "reviews": 2
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-13": 4,
+    "2026-03-03": 1,
+    "2026-03-02": 1,
+    "2026-02-28": 1
   }
 }

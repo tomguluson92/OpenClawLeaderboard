@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/38746?v=4",
   "githubUrl": "https://github.com/kimptoc",
   "score": {
-    "score": 84.18,
+    "score": 83.18,
     "prScore": 65.68,
     "issueScore": 5,
     "reviewScore": 12,
-    "commentScore": 1.5
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Reviewer",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
     "prs": 4,
@@ -24,11 +24,9 @@
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 4,
       "issues": 1,
       "reviews": 4,
-      "comments": 3,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,13 +43,13 @@
       "prs": 4,
       "issues": 1,
       "reviews": 4,
-      "comments": 3,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-08T09:23:18Z",
+  "firstContribution": "2026-03-08T21:24:22Z",
   "lastContribution": "2026-03-11T09:45:26Z",
   "recentPRs": [
     {
@@ -130,20 +128,6 @@
       "createdAt": "2026-03-10T09:39:36Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 2,
@@ -160,5 +144,19 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

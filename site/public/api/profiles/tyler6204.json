@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/64381258?v=4",
   "githubUrl": "https://github.com/tyler6204",
   "score": {
-    "score": 756.92,
-    "prScore": 727.92,
+    "score": 768.55,
+    "prScore": 744.05,
     "issueScore": 16,
     "reviewScore": 0,
-    "commentScore": 13
+    "commentScore": 8.5
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
     "commits": 107,
-    "prs": 3,
+    "prs": 5,
     "prsMerged": 3,
-    "prAdditions": 4632,
-    "prDeletions": 964,
-    "prChangedFiles": 53,
-    "prMergeRate": 100,
+    "prAdditions": 11747,
+    "prDeletions": 1815,
+    "prChangedFiles": 146,
+    "prMergeRate": 60,
     "issues": 2,
     "issuesClosed": 2,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 26,
+    "comments": 17,
     "commitAdditions": 39285,
     "commitDeletions": 7240,
-    "weeklyCommits": 1,
-    "monthlyCommits": 23,
     "commitChangedFiles": 952
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 20,
-      "commitAdditions": 4632,
-      "commitDeletions": 964,
-      "commits": 3
-    },
-    "monthly": {
       "prs": 3,
       "issues": 2,
       "reviews": 0,
-      "comments": 26,
+      "comments": 0,
+      "commitAdditions": 534,
+      "commitDeletions": 88,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 17,
       "commitAdditions": 17460,
       "commitDeletions": 3489,
       "commits": 20
     }
   },
-  "firstContribution": "2026-03-02T05:37:58Z",
-  "lastContribution": "2026-03-08T19:40:02Z",
+  "firstContribution": "2026-03-05T00:05:30Z",
+  "lastContribution": "2026-03-13T19:48:19Z",
   "recentPRs": [
+    {
+      "number": 45420,
+      "title": "fix: recover subagents after restart, preserve gateway webhook routes, and skip subagent memory flush",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T19:48:19Z",
+      "mergedAt": null,
+      "additions": 880,
+      "deletions": 244,
+      "changedFiles": 12
+    },
+    {
+      "number": 43811,
+      "title": "feat: dashboard API improvements, session status, kill endpoint, ws subscriptions, subagent tree, compaction cleanup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T07:38:48Z",
+      "mergedAt": null,
+      "additions": 6235,
+      "deletions": 607,
+      "changedFiles": 81
+    },
     {
       "number": 40204,
       "title": "fix(cron): consolidate announce delivery, fire-and-forget trigger, and minimal prompt mode",
@@ -105,6 +125,33 @@
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
@@ -119,9 +166,9 @@
       "description": "100+ commits"
     },
     {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
     }
   ],
   "recentCommitDays": {
@@ -153,22 +200,5 @@
     "2026-01-18": 4,
     "2026-01-17": 2,
     "2026-01-16": 3
-  },
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

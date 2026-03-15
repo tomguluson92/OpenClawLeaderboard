@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1272861?v=4",
   "githubUrl": "https://github.com/Effet",
   "score": {
-    "score": 161.31,
+    "score": 160.81,
     "prScore": 160.81,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Builder",
@@ -24,11 +24,9 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,13 +43,13 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-08T09:16:59Z",
+  "firstContribution": "2026-03-10T02:23:53Z",
   "lastContribution": "2026-03-10T02:23:53Z",
   "recentPRs": [
     {
@@ -68,9 +66,15 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
-    "Discussion",
     "Large-Scale Changes"
   ],
   "achievements": [
@@ -80,12 +84,5 @@
       "description": "10K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

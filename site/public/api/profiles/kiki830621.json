@@ -1,0 +1,208 @@
+{
+  "username": "kiki830621",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17489494?v=4",
+  "githubUrl": "https://github.com/kiki830621",
+  "score": {
+    "score": 122.85,
+    "prScore": 86.85,
+    "issueScore": 33,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 721,
+    "prDeletions": 43,
+    "prChangedFiles": 19,
+    "prMergeRate": 0,
+    "issues": 6,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 6,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 6,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T23:30:12Z",
+  "lastContribution": "2026-03-14T10:07:11Z",
+  "recentPRs": [
+    {
+      "number": 45966,
+      "title": "fix(exec): route to gateway approval flow when sandbox unavailable via default fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T10:07:11Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 11,
+      "changedFiles": 1
+    },
+    {
+      "number": 45910,
+      "title": "fix(cron): suppress NO_REPLY for thread-based and structured content delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T08:59:59Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 45903,
+      "title": "docs(cron): document NO_REPLY conditional delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T08:49:30Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 45610,
+      "title": "fix: enable updateLastRoute for group chats to persist sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T01:44:39Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 21,
+      "changedFiles": 1
+    },
+    {
+      "number": 45129,
+      "title": "feat(cron): add pre-hook support for shell-based job gating",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T13:34:12Z",
+      "mergedAt": null,
+      "additions": 410,
+      "deletions": 0,
+      "changedFiles": 7
+    },
+    {
+      "number": 44475,
+      "title": "config: allow passthrough fields in agents.defaults.models entries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T00:22:53Z",
+      "mergedAt": null,
+      "additions": 207,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 44444,
+      "title": "CLI: include xhigh in cron add/edit --thinking help text",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T23:31:16Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 9,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45963,
+      "title": "security: exec bypasses approval flow when tools.exec.host is unset (default fallback)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T10:03:32Z",
+      "closedAt": null
+    },
+    {
+      "number": 45909,
+      "title": "bug: NO_REPLY suppression bypassed for thread-based and structured-content delivery",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T08:58:29Z",
+      "closedAt": null
+    },
+    {
+      "number": 45810,
+      "title": "docs(cron): document NO_REPLY for conditional announce delivery",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T06:54:03Z",
+      "closedAt": null
+    },
+    {
+      "number": 45573,
+      "title": "Group chat sessions not persisted — only 1 session from 166+ messages",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T00:56:41Z",
+      "closedAt": null
+    },
+    {
+      "number": 44468,
+      "title": "Allow contextWindow/maxTokens overrides in agents.defaults.models",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T00:11:02Z",
+      "closedAt": null
+    },
+    {
+      "number": 44443,
+      "title": "CLI --thinking help text missing 'xhigh' option",
+      "state": "CLOSED",
+      "createdAt": "2026-03-12T23:30:12Z",
+      "closedAt": "2026-03-13T08:37:13Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 4,
+      "issues": 4,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {}
+}

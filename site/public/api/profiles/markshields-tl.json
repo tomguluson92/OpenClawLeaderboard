@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/239231357?v=4",
   "githubUrl": "https://github.com/markshields-tl",
   "score": {
-    "score": 69.92,
-    "prScore": 55.92,
-    "issueScore": 5,
-    "reviewScore": 6,
-    "commentScore": 3
+    "score": 195.32,
+    "prScore": 155.82,
+    "issueScore": 10,
+    "reviewScore": 24,
+    "commentScore": 5.5
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 1575,
-    "prDeletions": 79,
-    "prChangedFiles": 22,
+    "prAdditions": 5291,
+    "prDeletions": 2717,
+    "prChangedFiles": 52,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
+    "comments": 11,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
-      "reviews": 2,
-      "comments": 6,
+      "reviews": 6,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 2,
-      "comments": 6,
+      "prs": 3,
+      "issues": 2,
+      "reviews": 8,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-06T15:35:54Z",
-  "lastContribution": "2026-03-06T22:32:43Z",
+  "lastContribution": "2026-03-13T23:09:50Z",
   "recentPRs": [
+    {
+      "number": 45132,
+      "title": "feat(slack): add mux receiver for multi-gateway deployments",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T13:36:13Z",
+      "mergedAt": null,
+      "additions": 1931,
+      "deletions": 2568,
+      "changedFiles": 16
+    },
+    {
+      "number": 45131,
+      "title": "feat(slack): add mux receiver for multi-gateway deployments",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T13:34:39Z",
+      "mergedAt": null,
+      "additions": 1785,
+      "deletions": 70,
+      "changedFiles": 14
+    },
     {
       "number": 38278,
       "title": "feat(slack): add mux receiver for openclaw-mux WebSocket mode",
@@ -68,6 +88,13 @@
   ],
   "recentIssues": [
     {
+      "number": 45137,
+      "title": "feat(slack): Support multi-gateway deployments via mux receiver",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T13:37:29Z",
+      "closedAt": null
+    },
+    {
       "number": 38045,
       "title": "feat(slack): Add `mode: \"mux\"` for WebSocket-based event delivery via external multiplexer",
       "state": "OPEN",
@@ -76,6 +103,36 @@
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 45132,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:37:42Z"
+    },
+    {
+      "prNumber": 45132,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:37:41Z"
+    },
+    {
+      "prNumber": 45132,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T14:37:50Z"
+    },
+    {
+      "prNumber": 45132,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T14:37:42Z"
+    },
+    {
+      "prNumber": 45132,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T13:52:46Z"
+    },
+    {
+      "prNumber": 45132,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T13:52:34Z"
+    },
     {
       "prNumber": 38278,
       "state": "COMMENTED",
@@ -87,11 +144,24 @@
       "createdAt": "2026-03-06T21:40:30Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 6
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
     "Issue Reporting",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [
     {
@@ -100,12 +170,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 2
-    }
-  }
+  "recentCommitDays": {}
 }

@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/35586967?u=402b5a1c7e6bb39f0bbe9cf07ae08ea110f9a235&v=4",
   "githubUrl": "https://github.com/zhoulf1006",
   "score": {
-    "score": 13.75,
-    "prScore": 13.25,
+    "score": 25.99,
+    "prScore": 21.49,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0.5
+    "reviewScore": 3,
+    "commentScore": 1.5
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 1,
-    "prAdditions": 7,
+    "prAdditions": 12,
     "prDeletions": 0,
-    "prChangedFiles": 2,
-    "prMergeRate": 100,
+    "prChangedFiles": 3,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 3,
     "commitAdditions": 7,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
-      "reviews": 0,
-      "comments": 1,
+      "reviews": 1,
+      "comments": 3,
       "commitAdditions": 7,
       "commitDeletions": 0,
       "commits": 1
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
-      "reviews": 0,
-      "comments": 1,
+      "reviews": 1,
+      "comments": 3,
       "commitAdditions": 7,
       "commitDeletions": 0,
       "commits": 1
     }
   },
   "firstContribution": "2026-03-10T16:54:37Z",
-  "lastContribution": "2026-03-11T13:00:09Z",
+  "lastContribution": "2026-03-14T18:23:47Z",
   "recentPRs": [
+    {
+      "number": 44201,
+      "title": "docs: add Memory Core Plus to community plugins",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:00:45Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 42362,
       "title": "fix(hooks): add missing trigger and channelId to agent_end, llm_input, and llm_output hook contexts",
@@ -67,20 +76,37 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 44201,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T01:22:33Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-03-11": 1
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

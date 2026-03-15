@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/165750824?u=b53d550d48b3d1204c3e8b2eed21ad9bc803731e&v=4",
   "githubUrl": "https://github.com/AlexAnys",
   "score": {
-    "score": 26.94,
-    "prScore": 25.44,
+    "score": 54.66,
+    "prScore": 53.16,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 224,
-    "prDeletions": 7,
-    "prChangedFiles": 7,
+    "prAdditions": 271,
+    "prDeletions": 10,
+    "prChangedFiles": 19,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,8 +27,6 @@
     "comments": 3,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,13 +34,13 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 3,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-06T10:11:04Z",
-  "lastContribution": "2026-03-09T12:48:47Z",
+  "lastContribution": "2026-03-15T04:38:20Z",
   "recentPRs": [
+    {
+      "number": 46877,
+      "title": "feat(agents): add department field to agent identity schema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:38:20Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 3,
+      "changedFiles": 12
+    },
     {
       "number": 40522,
       "title": "fix(gateway): redirect / to control UI basePath",
@@ -79,13 +88,12 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
@@ -96,5 +104,11 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

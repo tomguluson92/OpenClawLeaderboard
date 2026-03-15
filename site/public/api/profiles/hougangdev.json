@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/105773686?v=4",
   "githubUrl": "https://github.com/hougangdev",
   "score": {
-    "score": 235.49,
-    "prScore": 186.49,
+    "score": 274.77,
+    "prScore": 206.77,
     "issueScore": 0,
-    "reviewScore": 48,
-    "commentScore": 1
+    "reviewScore": 66,
+    "commentScore": 2
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
-    "commits": 4,
-    "prs": 5,
-    "prsMerged": 2,
-    "prAdditions": 2861,
-    "prDeletions": 135,
-    "prChangedFiles": 43,
-    "prMergeRate": 40,
+    "commits": 3,
+    "prs": 8,
+    "prsMerged": 3,
+    "prAdditions": 3213,
+    "prDeletions": 144,
+    "prChangedFiles": 67,
+    "prMergeRate": 38,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 16,
+    "reviews": 22,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 1178,
-    "commitDeletions": 123,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 22
+    "comments": 4,
+    "commitAdditions": 1198,
+    "commitDeletions": 126,
+    "commitChangedFiles": 26
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 8,
       "issues": 0,
-      "reviews": 16,
-      "comments": 2,
-      "commitAdditions": 791,
-      "commitDeletions": 73,
-      "commits": 2
+      "reviews": 22,
+      "comments": 4,
+      "commitAdditions": 811,
+      "commitDeletions": 76,
+      "commits": 3
     },
     "monthly": {
-      "prs": 5,
+      "prs": 8,
       "issues": 0,
-      "reviews": 16,
-      "comments": 2,
-      "commitAdditions": 791,
-      "commitDeletions": 73,
-      "commits": 2
+      "reviews": 22,
+      "comments": 4,
+      "commitAdditions": 811,
+      "commitDeletions": 76,
+      "commits": 3
     }
   },
   "firstContribution": "2026-03-09T09:30:42Z",
-  "lastContribution": "2026-03-10T15:58:51Z",
+  "lastContribution": "2026-03-14T11:47:10Z",
   "recentPRs": [
+    {
+      "number": 46055,
+      "title": "feat(telegram): show waiting reaction via per-message onQueued callback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T11:47:10Z",
+      "mergedAt": null,
+      "additions": 174,
+      "deletions": 4,
+      "changedFiles": 10
+    },
+    {
+      "number": 44855,
+      "title": "feat(telegram): show waiting reaction when queue has active tasks",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T08:10:38Z",
+      "mergedAt": null,
+      "additions": 158,
+      "deletions": 2,
+      "changedFiles": 10
+    },
+    {
+      "number": 43884,
+      "title": "fix(failover): classify z.ai network_error stop reason as retryable timeout",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T09:16:52Z",
+      "mergedAt": "2026-03-12T21:00:44Z",
+      "additions": 20,
+      "deletions": 3,
+      "changedFiles": 4
+    },
     {
       "number": 41932,
       "title": "fix(telegram): prevent duplicate messages with slow LLM providers",
@@ -112,6 +143,36 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 44855,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T14:10:07Z"
+    },
+    {
+      "prNumber": 44855,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T14:10:05Z"
+    },
+    {
+      "prNumber": 44855,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T14:10:03Z"
+    },
+    {
+      "prNumber": 44855,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T14:09:59Z"
+    },
+    {
+      "prNumber": 44855,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T14:02:10Z"
+    },
+    {
+      "prNumber": 44855,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T14:02:09Z"
+    },
     {
       "prNumber": 41932,
       "state": "COMMENTED",
@@ -181,18 +242,35 @@
       "prNumber": 40820,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T09:45:26Z"
-    },
-    {
-      "prNumber": 40820,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T09:45:23Z"
-    },
-    {
-      "prNumber": 40820,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T09:45:21Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 10
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 6
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -207,20 +285,9 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-12": 1,
     "2026-03-11": 1,
     "2026-03-10": 1,
     "2026-01-27": 2
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 10
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 6
-    }
   }
 }

@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1360047?v=4",
   "githubUrl": "https://github.com/akoscz",
   "score": {
-    "score": 194.93,
-    "prScore": 194.93,
+    "score": 196.04,
+    "prScore": 193.04,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 3
   },
   "tier": "regular",
   "characterClass": "Builder",
@@ -15,20 +15,18 @@
     "commits": 2,
     "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 12629,
-    "prDeletions": 24,
-    "prChangedFiles": 57,
+    "prAdditions": 10993,
+    "prDeletions": 31,
+    "prChangedFiles": 50,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 6,
     "commitAdditions": 1076,
     "commitDeletions": 21,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 15
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,86 +43,94 @@
       "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 6,
       "commitAdditions": 1076,
       "commitDeletions": 21,
       "commits": 2
     }
   },
   "firstContribution": "2026-03-12T03:38:13Z",
-  "lastContribution": "2026-03-12T03:39:00Z",
+  "lastContribution": "2026-03-13T20:37:59Z",
   "recentPRs": [
     {
       "number": 43646,
       "title": "feat(secrets): add secret rotation reminders and auto-rotation",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T03:39:00Z",
       "mergedAt": null,
-      "additions": 2658,
+      "additions": 2159,
       "deletions": 4,
-      "changedFiles": 9
+      "changedFiles": 8
     },
     {
       "number": 43645,
       "title": "feat(secrets): add HashiCorp Vault KV v2 secret provider",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T03:38:50Z",
       "mergedAt": null,
-      "additions": 2211,
+      "additions": 2212,
       "deletions": 4,
       "changedFiles": 8
     },
     {
       "number": 43644,
       "title": "feat(secrets): add Azure Key Vault secret provider",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T03:38:39Z",
       "mergedAt": null,
-      "additions": 1845,
+      "additions": 1846,
       "deletions": 4,
       "changedFiles": 8
     },
     {
       "number": 43643,
       "title": "feat(secrets): add AWS Secrets Manager provider",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T03:38:32Z",
       "mergedAt": null,
-      "additions": 1774,
-      "deletions": 4,
-      "changedFiles": 8
+      "additions": 635,
+      "deletions": 0,
+      "changedFiles": 2
     },
     {
       "number": 43641,
       "title": "feat(secrets): add keyring and 1Password secret providers",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T03:38:23Z",
       "mergedAt": null,
-      "additions": 1519,
+      "additions": 1520,
       "deletions": 4,
       "changedFiles": 10
     },
     {
       "number": 43640,
       "title": "feat(secrets): add env secret provider",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T03:38:13Z",
       "mergedAt": null,
-      "additions": 2622,
-      "deletions": 4,
+      "additions": 2621,
+      "deletions": 15,
       "changedFiles": 14
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
+    "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
   ],
@@ -138,12 +144,5 @@
   "recentCommitDays": {
     "2026-02-23": 1,
     "2026-02-14": 1
-  },
-  "recentActivityDays": {
-    "2026-03-12": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

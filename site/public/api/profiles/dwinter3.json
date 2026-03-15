@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1416878?u=62466025032f57565b5d5be1250a5d742305dfa5&v=4",
   "githubUrl": "https://github.com/dwinter3",
   "score": {
-    "score": 18.21,
+    "score": 13.21,
     "prScore": 8.21,
-    "issueScore": 10,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 1,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-01T10:48:20Z",
+  "firstContribution": "2026-03-08T13:41:28Z",
   "lastContribution": "2026-03-10T09:58:49Z",
   "recentPRs": [
     {
@@ -69,26 +67,13 @@
   "recentIssues": [
     {
       "number": 42026,
-      "title": "RFC: Distributed Agent Runtime \u2014 separate control plane from agent compute",
+      "title": "RFC: Distributed Agent Runtime — separate control plane from agent compute",
       "state": "OPEN",
       "createdAt": "2026-03-10T09:58:49Z",
-      "closedAt": null
-    },
-    {
-      "number": 30560,
-      "title": "Feature: outbound recipient allowlist for Telegram accounts (allowTo)",
-      "state": "OPEN",
-      "createdAt": "2026-03-01T10:48:20Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 1,
@@ -99,11 +84,12 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-01": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

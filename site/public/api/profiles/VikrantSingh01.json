@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/53896717?u=62e80b1e7fe9fad0bc8eefadbc715538e2d4cc3d&v=4",
   "githubUrl": "https://github.com/VikrantSingh01",
   "score": {
-    "score": 237.13,
-    "prScore": 125.13,
+    "score": 206.05,
+    "prScore": 112.55,
     "issueScore": 0,
-    "reviewScore": 111,
-    "commentScore": 1
+    "reviewScore": 93,
+    "commentScore": 0.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 2809,
+    "prAdditions": 2539,
     "prDeletions": 15,
-    "prChangedFiles": 29,
+    "prChangedFiles": 27,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 37,
+    "reviews": 31,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 7,
       "issues": 0,
-      "reviews": 32,
-      "comments": 2,
+      "reviews": 31,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 7,
       "issues": 0,
-      "reviews": 37,
-      "comments": 2,
+      "reviews": 31,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T20:49:35Z",
+  "firstContribution": "2026-03-10T00:37:54Z",
   "lastContribution": "2026-03-10T16:42:12Z",
   "recentPRs": [
     {
@@ -130,17 +128,6 @@
       "additions": 1047,
       "deletions": 1,
       "changedFiles": 13
-    },
-    {
-      "number": 33486,
-      "title": "Extensions: add adaptive-cards extension for native GenUI",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T20:49:35Z",
-      "mergedAt": null,
-      "additions": 270,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -246,6 +233,13 @@
       "createdAt": "2026-03-10T16:27:30Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 31
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -258,17 +252,5 @@
       "description": "10+ reviews"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 20
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

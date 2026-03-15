@@ -3,40 +3,38 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/177550738?v=4",
   "githubUrl": "https://github.com/flychicken067",
   "score": {
-    "score": 8.61,
-    "prScore": 8.11,
+    "score": 13.26,
+    "prScore": 9.26,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0.5
+    "reviewScore": 3,
+    "commentScore": 1
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 40,
-    "prDeletions": 0,
-    "prChangedFiles": 1,
+    "prAdditions": 41,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 0,
-      "comments": 1,
+      "reviews": 1,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -44,41 +42,53 @@
     "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0,
-      "comments": 1,
+      "reviews": 1,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-06T11:27:17Z",
-  "lastContribution": "2026-03-09T03:54:05Z",
+  "lastContribution": "2026-03-12T06:02:22Z",
   "recentPRs": [
     {
       "number": 37707,
-      "title": "fix(feishu): warn users when dmPolicy default changed from open to pa\u2026",
+      "title": "fix(feishu): warn users when dmPolicy default changed from open to pa…",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-06T11:27:17Z",
       "mergedAt": null,
-      "additions": 40,
-      "deletions": 0,
-      "changedFiles": 1
+      "additions": 41,
+      "deletions": 1,
+      "changedFiles": 2
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
+  "recentReviews": [
+    {
+      "prNumber": 37707,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T06:01:24Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

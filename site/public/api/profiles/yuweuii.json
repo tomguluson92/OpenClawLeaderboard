@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/82372187?v=4",
   "githubUrl": "https://github.com/yuweuii",
   "score": {
-    "score": 233.46,
-    "prScore": 214.46,
+    "score": 235.78,
+    "prScore": 217.78,
     "issueScore": 13,
     "reviewScore": 0,
-    "commentScore": 6
+    "commentScore": 5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 0,
-    "prs": 13,
-    "prsMerged": 2,
-    "prAdditions": 2184,
-    "prDeletions": 180,
-    "prChangedFiles": 70,
-    "prMergeRate": 15,
+    "commits": 3,
+    "prs": 11,
+    "prsMerged": 3,
+    "prAdditions": 1612,
+    "prDeletions": 146,
+    "prChangedFiles": 55,
+    "prMergeRate": 27,
     "issues": 2,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 12,
-    "commitAdditions": 125,
-    "commitDeletions": 26,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 14
+    "comments": 10,
+    "commitAdditions": 593,
+    "commitDeletions": 53,
+    "commitChangedFiles": 18
   },
   "period": {
     "weekly": {
-      "prs": 5,
-      "issues": 2,
+      "prs": 1,
+      "issues": 1,
       "reviews": 0,
-      "comments": 12,
-      "commitAdditions": 125,
-      "commitDeletions": 26,
-      "commits": 2
+      "comments": 2,
+      "commitAdditions": 593,
+      "commitDeletions": 53,
+      "commits": 3
     },
     "monthly": {
-      "prs": 13,
+      "prs": 11,
       "issues": 2,
       "reviews": 0,
-      "comments": 12,
-      "commitAdditions": 125,
-      "commitDeletions": 26,
-      "commits": 2
+      "comments": 10,
+      "commitAdditions": 593,
+      "commitDeletions": 53,
+      "commits": 3
     }
   },
-  "firstContribution": "2026-03-03T14:40:52Z",
-  "lastContribution": "2026-03-10T13:24:40Z",
+  "firstContribution": "2026-03-04T12:31:43Z",
+  "lastContribution": "2026-03-14T04:49:30Z",
   "recentPRs": [
+    {
+      "number": 45745,
+      "title": "fix: avoid ANTHROPIC_MODEL_ALIASES init-time ReferenceError",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T04:46:36Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 7,
+      "changedFiles": 1
+    },
     {
       "number": 38218,
       "title": "feat(gateway): add explicit post-restart continuation prompts",
@@ -72,9 +81,9 @@
       "merged": false,
       "createdAt": "2026-03-06T17:20:08Z",
       "mergedAt": null,
-      "additions": 75,
-      "deletions": 1,
-      "changedFiles": 2
+      "additions": 74,
+      "deletions": 0,
+      "changedFiles": 1
     },
     {
       "number": 38044,
@@ -134,11 +143,11 @@
     {
       "number": 34485,
       "title": "runner: infer names from malformed toolCallId variants",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-04T13:42:01Z",
-      "mergedAt": null,
-      "additions": 467,
+      "mergedAt": "2026-03-12T16:58:23Z",
+      "additions": 468,
       "deletions": 27,
       "changedFiles": 4
     },
@@ -160,40 +169,7 @@
       "merged": false,
       "createdAt": "2026-03-04T12:31:43Z",
       "mergedAt": null,
-      "additions": 321,
-      "deletions": 2,
-      "changedFiles": 6
-    },
-    {
-      "number": 33905,
-      "title": "version: fix stale Control UI badge after upgrades",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T04:14:38Z",
-      "mergedAt": null,
-      "additions": 26,
-      "deletions": 21,
-      "changedFiles": 5
-    },
-    {
-      "number": 33188,
-      "title": "errors: avoid jinja false-positive context-overflow classification",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T15:38:16Z",
-      "mergedAt": null,
-      "additions": 88,
-      "deletions": 17,
-      "changedFiles": 4
-    },
-    {
-      "number": 33115,
-      "title": "runner: sanitize verbose assistant API errors before transcript replay",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T14:40:52Z",
-      "mergedAt": null,
-      "additions": 466,
+      "additions": 320,
       "deletions": 1,
       "changedFiles": 5
     }
@@ -215,23 +191,12 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-09": 1,
-    "2026-03-08": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-06": {
       "prs": 5,
       "issues": 1,
@@ -243,12 +208,7 @@
       "reviews": 0
     },
     "2026-03-04": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 0
     },
@@ -257,5 +217,23 @@
       "issues": 1,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 1,
+    "2026-03-09": 1,
+    "2026-03-08": 1
   }
 }

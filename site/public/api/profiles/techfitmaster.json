@@ -3,48 +3,46 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/26759948?u=3148d55e949750f74012d85f674a44f3922ae895&v=4",
   "githubUrl": "https://github.com/techfitmaster",
   "score": {
-    "score": 24.47,
-    "prScore": 23.97,
+    "score": 76.08,
+    "prScore": 69.58,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 6,
     "commentScore": 0.5
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "regular",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 232,
-    "prDeletions": 22,
-    "prChangedFiles": 6,
+    "prAdditions": 807,
+    "prDeletions": 73,
+    "prChangedFiles": 17,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
-      "reviews": 0,
-      "comments": 1,
+      "reviews": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 5,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 2,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -52,8 +50,41 @@
     }
   },
   "firstContribution": "2026-03-08T03:59:34Z",
-  "lastContribution": "2026-03-08T04:39:53Z",
+  "lastContribution": "2026-03-15T02:13:40Z",
   "recentPRs": [
+    {
+      "number": 46738,
+      "title": "fix: pass Anthropic cache control TTL through Cloudflare AI Gateway",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:13:40Z",
+      "mergedAt": null,
+      "additions": 314,
+      "deletions": 18,
+      "changedFiles": 4
+    },
+    {
+      "number": 45704,
+      "title": "fix(ui): restore scrollbar visibility and fix Firefox support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T03:43:13Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 45664,
+      "title": "fix: register BlueBubbles webhook route before server-info fetch",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T02:43:29Z",
+      "mergedAt": null,
+      "additions": 244,
+      "deletions": 26,
+      "changedFiles": 5
+    },
     {
       "number": 39464,
       "title": "fix(slack): handle url_verification challenge before signature verification",
@@ -78,18 +109,40 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
+  "recentReviews": [
+    {
+      "prNumber": 45704,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T04:33:08Z"
+    },
+    {
+      "prNumber": 39436,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T02:39:35Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-08": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

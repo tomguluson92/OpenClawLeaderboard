@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/169803573?u=836989fbe490a18b819afe7d4c2a95a51c15c712&v=4",
   "githubUrl": "https://github.com/Asclepeion",
   "score": {
-    "score": 86.15,
-    "prScore": 69.65,
-    "issueScore": 10,
-    "reviewScore": 6,
-    "commentScore": 0.5
+    "score": 21.68,
+    "prScore": 16.68,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Contributor",
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1576,
-    "prDeletions": 12,
-    "prChangedFiles": 22,
+    "prAdditions": 635,
+    "prDeletions": 0,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
-      "issues": 2,
-      "reviews": 2,
-      "comments": 1,
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T23:02:07Z",
+  "firstContribution": "2026-03-03T04:09:12Z",
   "lastContribution": "2026-03-04T09:58:51Z",
   "recentPRs": [
     {
@@ -64,28 +62,6 @@
       "additions": 635,
       "deletions": 0,
       "changedFiles": 5
-    },
-    {
-      "number": 32654,
-      "title": "feat(doctor): warn when workspace bootstrap files exceed size limits",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T06:39:54Z",
-      "mergedAt": null,
-      "additions": 455,
-      "deletions": 4,
-      "changedFiles": 8
-    },
-    {
-      "number": 32548,
-      "title": "fix: detect stale session locks after reboot via boot_id",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T04:45:34Z",
-      "mergedAt": null,
-      "additions": 486,
-      "deletions": 8,
-      "changedFiles": 9
     }
   ],
   "recentIssues": [
@@ -95,41 +71,9 @@
       "state": "OPEN",
       "createdAt": "2026-03-03T04:09:12Z",
       "closedAt": null
-    },
-    {
-      "number": 32277,
-      "title": "[Bug] Memory indexer doesn't detect embedding dimension mismatch between stored vectors and active provider",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T23:02:07Z",
-      "closedAt": null
     }
   ],
-  "recentReviews": [
-    {
-      "prNumber": 32548,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T04:57:14Z"
-    },
-    {
-      "prNumber": 32548,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T04:57:13Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-04": {
       "prs": 1,
@@ -137,14 +81,15 @@
       "reviews": 0
     },
     "2026-03-03": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 2
-    },
-    "2026-03-02": {
       "prs": 0,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

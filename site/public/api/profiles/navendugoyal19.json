@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/132033603?v=4",
   "githubUrl": "https://github.com/navendugoyal19",
   "score": {
-    "score": 55.2,
+    "score": 53.2,
     "prScore": 21.7,
-    "issueScore": 30,
+    "issueScore": 28,
     "reviewScore": 0,
     "commentScore": 3.5
   },
@@ -19,16 +19,14 @@
     "prDeletions": 11,
     "prChangedFiles": 8,
     "prMergeRate": 0,
-    "issues": 6,
-    "issuesClosed": 0,
+    "issues": 5,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 7,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,14 +34,14 @@
       "prs": 0,
       "issues": 3,
       "reviews": 0,
-      "comments": 4,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 6,
+      "issues": 5,
       "reviews": 0,
       "comments": 7,
       "commitAdditions": 0,
@@ -51,8 +49,8 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-28T09:48:44Z",
-  "lastContribution": "2026-03-11T09:30:17Z",
+  "firstContribution": "2026-03-03T23:58:17Z",
+  "lastContribution": "2026-03-13T07:52:37Z",
   "recentPRs": [
     {
       "number": 35116,
@@ -67,6 +65,13 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 44844,
+      "title": "Control UI/webchat: `New messages` pill can render as huge malformed overlay",
+      "state": "CLOSED",
+      "createdAt": "2026-03-13T07:52:37Z",
+      "closedAt": "2026-03-13T19:03:03Z"
+    },
     {
       "number": 43037,
       "title": "Control UI loses gateway token when switching between agent sessions",
@@ -94,40 +99,18 @@
       "state": "OPEN",
       "createdAt": "2026-03-03T23:58:17Z",
       "closedAt": null
-    },
-    {
-      "number": 31144,
-      "title": "Webchat: Long message disappears when new message arrives, reappears on refresh",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T01:38:48Z",
-      "closedAt": null
-    },
-    {
-      "number": 29655,
-      "title": "Bug: Long response disappears from webchat but remains visible in TUI",
-      "state": "OPEN",
-      "createdAt": "2026-02-28T09:48:44Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
       "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     },
     "2026-03-11": {
@@ -149,16 +132,19 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-02-28": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {}
 }

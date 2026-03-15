@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/65108260?u=58741d2ad9500275f3799e09255c809b9acec4b6&v=4",
   "githubUrl": "https://github.com/constansino",
   "score": {
-    "score": 70.9,
-    "prScore": 48.9,
-    "issueScore": 10,
+    "score": 110.57,
+    "prScore": 77.57,
+    "issueScore": 20,
     "reviewScore": 9,
-    "commentScore": 3
+    "commentScore": 4
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 524,
-    "prDeletions": 202,
-    "prChangedFiles": 9,
+    "prAdditions": 691,
+    "prDeletions": 244,
+    "prChangedFiles": 19,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 4,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
+    "comments": 8,
     "commitAdditions": 38,
     "commitDeletions": 3,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 5
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 2,
+      "prs": 4,
+      "issues": 4,
       "reviews": 3,
-      "comments": 6,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
-      "issues": 2,
+      "prs": 4,
+      "issues": 4,
       "reviews": 3,
-      "comments": 6,
-      "commitAdditions": 38,
-      "commitDeletions": 3,
-      "commits": 1
+      "comments": 8,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     }
   },
   "firstContribution": "2026-03-09T16:27:08Z",
-  "lastContribution": "2026-03-10T23:25:08Z",
+  "lastContribution": "2026-03-13T04:59:27Z",
   "recentPRs": [
+    {
+      "number": 44621,
+      "title": "fix(reply): apply inline /model as one-shot override in mixed messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T03:44:08Z",
+      "mergedAt": null,
+      "additions": 167,
+      "deletions": 42,
+      "changedFiles": 10
+    },
     {
       "number": 42569,
       "title": "docs: list chat-only-trigger community plugin",
@@ -68,7 +77,7 @@
     {
       "number": 41817,
       "title": "fix(daemon): harden macOS LaunchAgent restart",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T06:02:31Z",
       "mergedAt": null,
@@ -89,6 +98,20 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 44672,
+      "title": "[Bug]: macOS app can stay stuck on generic 'pairing required' after node->operator upgrade approval",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T04:59:27Z",
+      "closedAt": null
+    },
+    {
+      "number": 44618,
+      "title": "[Bug]: inline /model <provider/model> <message> is stripped but not applied as a one-shot model override",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T03:42:38Z",
+      "closedAt": null
+    },
     {
       "number": 41815,
       "title": "macOS LaunchAgent restart should use kickstart first and detach when invoked from the managed gateway process tree",
@@ -121,6 +144,23 @@
       "createdAt": "2026-03-10T06:31:23Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 3
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -136,17 +176,5 @@
   ],
   "recentCommitDays": {
     "2026-02-11": 1
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 3
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

@@ -27,14 +27,12 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -56,7 +54,7 @@
   "recentPRs": [
     {
       "number": 35792,
-      "title": "docs: fix \"a OpenClaw\" \u2192 \"an OpenClaw\" article grammar",
+      "title": "docs: fix \"a OpenClaw\" → \"an OpenClaw\" article grammar",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-05T08:51:44Z",
@@ -69,19 +67,13 @@
   "recentIssues": [
     {
       "number": 36970,
-      "title": "[Bug]: Broken anchor link in FAQ \u2014 Xfinity SSL troubleshooting reference",
+      "title": "[Bug]: Broken anchor link in FAQ — Xfinity SSL troubleshooting reference",
       "state": "OPEN",
       "createdAt": "2026-03-06T01:28:53Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
@@ -93,5 +85,11 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

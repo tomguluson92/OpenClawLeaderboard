@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 16,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -277,6 +275,18 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 42,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 22,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Large-Scale Changes"
@@ -293,12 +303,5 @@
       "description": "50+ pull requests"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-05": {
-      "prs": 20,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

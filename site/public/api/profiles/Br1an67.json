@@ -1,0 +1,312 @@
+{
+  "username": "Br1an67",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29810238?u=db594ee482e3ed718ed70d4a6c3e6b4107ef8dc3&v=4",
+  "githubUrl": "https://github.com/Br1an67",
+  "score": {
+    "score": 1511.27,
+    "prScore": 1511.27,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "elite",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 196,
+    "prsMerged": 0,
+    "prAdditions": 9666,
+    "prDeletions": 1105,
+    "prChangedFiles": 413,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 196,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 196,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T09:13:48Z",
+  "lastContribution": "2026-03-15T04:50:39Z",
+  "recentPRs": [
+    {
+      "number": 46887,
+      "title": "fix: strip unsupported schema keywords for Volcengine/Kimi models (closes #38817)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:50:39Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 46880,
+      "title": "fix: add google-antigravity provider to forward-compat model resolution (closes #27311)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:42:55Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 46876,
+      "title": "fix: add cooldown to compaction safeguard no-real-messages cancel loop (closes #41620)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:37:16Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 46875,
+      "title": "fix: preserve alias in required[] when patching tool schemas for Claude compatibility (closes #37645)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:36:38Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 46874,
+      "title": "fix: default supportsUsageInStreaming to true for local endpoints (closes #45358)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:35:15Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 46873,
+      "title": "fix: treat HTTP 500 as failover-eligible for model fallback (closes #35119)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:33:04Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 46870,
+      "title": "fix: rename heartbeat skip reason target-none to delivery-disabled (closes #44534)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:31:55Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 46868,
+      "title": "fix: remove premature SIGTERM in launchd gateway restart (closes #44507)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:29:40Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 71,
+      "changedFiles": 2
+    },
+    {
+      "number": 46867,
+      "title": "fix: trigger session-memory hook on session archive/delete (closes #37027)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:29:28Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 9,
+      "changedFiles": 4
+    },
+    {
+      "number": 46866,
+      "title": "fix: check \"toolCall\" instead of \"toolUse\" in stripDanglingAnthropicToolUses (closes #41571)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:29:04Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 46857,
+      "title": "fix: update Ollama embedding provider to use /api/embed endpoint (closes #39983)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:22:53Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 46853,
+      "title": "fix: update haiku model aliases to claude-haiku-4-5 to avoid deprecated 404 (closes #26018)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:17:23Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 46843,
+      "title": "fix: update macOS node service to use current CLI command shape (closes #43171)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:02:18Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 46519,
+      "title": "fix(googlechat): validate thread resource name before API call (closes #39554)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T18:56:51Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 46513,
+      "title": "fix: only advance memoryFlushCompactionCount when compaction ran (closes #12590)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T18:51:43Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 46512,
+      "title": "fix(memory): include sessions in full reindex triggered by session-start (closes #44028)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T18:48:48Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 46510,
+      "title": "fix(memory): broaden temporal decay date extraction to match real filenames (closes #32745)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T18:47:03Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 46509,
+      "title": "fix(memory): skip Han bigram rewrite for QMD BM25 queries (closes #42801)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T18:45:09Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 25,
+      "changedFiles": 1
+    },
+    {
+      "number": 46508,
+      "title": "fix(memory): replace glob patterns with directory paths for chokidar v5 (closes #33585)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T18:42:44Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 17,
+      "changedFiles": 1
+    },
+    {
+      "number": 46503,
+      "title": "fix: emit reset hooks on daily/scheduled session reset (closes #43524)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T18:35:44Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 183,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "pr-legend",
+      "label": "PR Legend",
+      "description": "100+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
+}

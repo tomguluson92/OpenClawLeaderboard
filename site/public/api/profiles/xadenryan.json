@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/165437834?v=4",
   "githubUrl": "https://github.com/xadenryan",
   "score": {
-    "score": 69.83,
-    "prScore": 69.83,
+    "score": 85.34,
+    "prScore": 85.34,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -25,11 +25,9 @@
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
-    "commitAdditions": 1128,
-    "commitDeletions": 103,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 21
+    "commitAdditions": 1213,
+    "commitDeletions": 104,
+    "commitChangedFiles": 28
   },
   "period": {
     "weekly": {
@@ -37,18 +35,18 @@
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 85,
+      "commitDeletions": 1,
+      "commits": 1
     },
     "monthly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 85,
+      "commitDeletions": 1,
+      "commits": 1
     }
   },
   "firstContribution": null,
@@ -56,10 +54,12 @@
   "recentPRs": [],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
     "Direct Commits"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {}
+  "recentCommitDays": {
+    "2026-03-12": 1
+  }
 }

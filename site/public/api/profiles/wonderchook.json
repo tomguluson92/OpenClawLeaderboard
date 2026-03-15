@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/67992?u=7b9230d97b020ce676f432e5ed0b452b4d4e2bda&v=4",
   "githubUrl": "https://github.com/wonderchook",
   "score": {
-    "score": 35.53,
+    "score": 35.03,
     "prScore": 24.03,
     "issueScore": 5,
     "reviewScore": 6,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Reviewer",
@@ -24,19 +24,17 @@
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 108,
     "commitDeletions": 4,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 2,
-      "comments": 1,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,7 +43,7 @@
       "prs": 1,
       "issues": 1,
       "reviews": 2,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 108,
       "commitDeletions": 4,
       "commits": 1
@@ -87,22 +85,6 @@
       "createdAt": "2026-03-06T05:03:13Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-02": 1
-  },
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
@@ -114,5 +96,20 @@
       "issues": 0,
       "reviews": 2
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-02": 1
   }
 }

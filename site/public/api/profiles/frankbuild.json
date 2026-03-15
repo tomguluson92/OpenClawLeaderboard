@@ -3,20 +3,20 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/266174429?u=c4a101bbf56188c4b225eb47a946c2ad9d7c1344&v=4",
   "githubUrl": "https://github.com/frankbuild",
   "score": {
-    "score": 59.78,
-    "prScore": 40.28,
+    "score": 61.85,
+    "prScore": 40.35,
     "issueScore": 10,
     "reviewScore": 9,
-    "commentScore": 0.5
+    "commentScore": 2.5
   },
   "tier": "regular",
-  "characterClass": "Reviewer",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 557,
-    "prDeletions": 61,
+    "prAdditions": 564,
+    "prDeletions": 67,
     "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 2,
@@ -24,11 +24,9 @@
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 3,
       "issues": 2,
       "reviews": 3,
-      "comments": 1,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,14 +43,14 @@
       "prs": 3,
       "issues": 2,
       "reviews": 3,
-      "comments": 1,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-10T19:21:39Z",
-  "lastContribution": "2026-03-11T14:02:39Z",
+  "lastContribution": "2026-03-14T10:24:28Z",
   "recentPRs": [
     {
       "number": 43236,
@@ -83,8 +81,8 @@
       "merged": false,
       "createdAt": "2026-03-10T20:07:26Z",
       "mergedAt": null,
-      "additions": 322,
-      "deletions": 59,
+      "additions": 329,
+      "deletions": 65,
       "changedFiles": 3
     }
   ],
@@ -98,7 +96,7 @@
     },
     {
       "number": 42464,
-      "title": "[Bug]: Isolated cron agentTurn jobs hang until timeout \u2014 providers reachable, interactive sessions unaffected",
+      "title": "[Bug]: Isolated cron agentTurn jobs hang until timeout — providers reachable, interactive sessions unaffected",
       "state": "OPEN",
       "createdAt": "2026-03-10T19:21:39Z",
       "closedAt": null
@@ -121,6 +119,18 @@
       "createdAt": "2026-03-10T21:25:33Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 2
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -134,17 +144,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 1
-    },
-    "2026-03-10": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 2
-    }
-  }
+  "recentCommitDays": {}
 }

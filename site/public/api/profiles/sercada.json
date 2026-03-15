@@ -1,0 +1,137 @@
+{
+  "username": "sercada",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24389792?u=1f2d1a49d2dec1a2691e34cb5a9242b9978a12ef&v=4",
+  "githubUrl": "https://github.com/sercada",
+  "score": {
+    "score": 53.77,
+    "prScore": 36.77,
+    "issueScore": 15,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 709,
+    "prDeletions": 4,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-08T15:22:36Z",
+  "lastContribution": "2026-03-14T14:34:28Z",
+  "recentPRs": [
+    {
+      "number": 46238,
+      "title": "fix(cron): prevent announce dedupe from counting disabled message-tool sends",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T14:34:28Z",
+      "mergedAt": null,
+      "additions": 188,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 46236,
+      "title": "fix(cron): skip announce delivery when agent output is raw error text",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T14:33:58Z",
+      "mergedAt": null,
+      "additions": 338,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 46235,
+      "title": "fix(doctor): warn about synthetic catalog models missing from allowlist",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T14:33:30Z",
+      "mergedAt": null,
+      "additions": 183,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 42244,
+      "title": "[Bug]: Announce delivery silently suppresses message tool sends AND skips announce — zero delivery",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T14:47:16Z",
+      "closedAt": null
+    },
+    {
+      "number": 42243,
+      "title": "[Bug]: Announce delivery posts raw error JSON to channels when cron run fails",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T14:46:54Z",
+      "closedAt": null
+    },
+    {
+      "number": 39992,
+      "title": "[Feature]: openclaw doctor should warn about available-but-not-allowlisted synthetic models",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T15:22:36Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

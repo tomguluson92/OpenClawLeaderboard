@@ -3,48 +3,46 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/25416941?u=37f6268a5ff66712fc32d053e9a6d24c953e5d70&v=4",
   "githubUrl": "https://github.com/FuzzyFade",
   "score": {
-    "score": 30.25,
-    "prScore": 11.75,
+    "score": 41.92,
+    "prScore": 20.42,
     "issueScore": 15,
-    "reviewScore": 3,
+    "reviewScore": 6,
     "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Hunter",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 167,
-    "prDeletions": 29,
-    "prChangedFiles": 3,
+    "prAdditions": 179,
+    "prDeletions": 30,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 3,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 0,
       "reviews": 1,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 3,
-      "reviews": 1,
+      "reviews": 2,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -52,11 +50,22 @@
     }
   },
   "firstContribution": "2026-03-06T06:56:00Z",
-  "lastContribution": "2026-03-06T11:44:32Z",
+  "lastContribution": "2026-03-12T12:38:30Z",
   "recentPRs": [
     {
+      "number": 44027,
+      "title": "fix: respect /verbose mode when suppressing tool summaries in group chats",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T12:23:00Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
       "number": 37418,
-      "title": "feat: enable prompt caching for custom providers using anthropic-mess\u2026",
+      "title": "feat: enable prompt caching for custom providers using anthropic-mess…",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-06T07:37:51Z",
@@ -91,11 +100,28 @@
   ],
   "recentReviews": [
     {
+      "prNumber": 44027,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T12:38:30Z"
+    },
+    {
       "prNumber": 37418,
       "state": "COMMENTED",
       "createdAt": "2026-03-06T08:00:53Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -109,12 +135,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 3,
-      "reviews": 1
-    }
-  }
+  "recentCommitDays": {}
 }

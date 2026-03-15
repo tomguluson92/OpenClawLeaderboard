@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/158075162?v=4",
   "githubUrl": "https://github.com/solosage1",
   "score": {
-    "score": 98.53,
+    "score": 87.53,
     "prScore": 72.53,
-    "issueScore": 10,
+    "issueScore": 0,
     "reviewScore": 12,
-    "commentScore": 4
+    "commentScore": 3
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 3,
@@ -19,16 +19,14 @@
     "prDeletions": 510,
     "prChangedFiles": 25,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
+    "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -43,15 +41,15 @@
     },
     "monthly": {
       "prs": 3,
-      "issues": 2,
+      "issues": 0,
       "reviews": 4,
-      "comments": 8,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-27T20:47:53Z",
+  "firstContribution": "2026-03-09T17:47:01Z",
   "lastContribution": "2026-03-09T19:50:07Z",
   "recentPRs": [
     {
@@ -88,22 +86,7 @@
       "changedFiles": 7
     }
   ],
-  "recentIssues": [
-    {
-      "number": 32281,
-      "title": "[Feature]: Sub-agent completion chaining (onComplete)",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T23:04:52Z",
-      "closedAt": null
-    },
-    {
-      "number": 29129,
-      "title": "`sessions_spawn` thinking parameter persists to static agent config, breaks gateway restart",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T20:47:53Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 41332,
@@ -126,35 +109,18 @@
       "createdAt": "2026-03-09T18:06:16Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 3,
       "issues": 0,
       "reviews": 4
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-02-27": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/87079793?v=4",
   "githubUrl": "https://github.com/alexyyyander",
   "score": {
-    "score": 285.98,
-    "prScore": 285.98,
+    "score": 263.28,
+    "prScore": 263.28,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,12 +13,12 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 24,
+    "prs": 21,
     "prsMerged": 1,
-    "prAdditions": 1711,
-    "prDeletions": 233,
-    "prChangedFiles": 119,
-    "prMergeRate": 4,
+    "prAdditions": 1492,
+    "prDeletions": 224,
+    "prChangedFiles": 111,
+    "prMergeRate": 5,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 173,
     "commitDeletions": 15,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 13,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 24,
+      "prs": 21,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-02T14:04:18Z",
+  "firstContribution": "2026-03-04T10:38:15Z",
   "lastContribution": "2026-03-07T18:03:55Z",
   "recentPRs": [
     {
@@ -277,19 +275,6 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-05": 1
-  },
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 2,
@@ -307,9 +292,22 @@
       "reviews": 0
     },
     "2026-03-04": {
-      "prs": 4,
+      "prs": 5,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-05": 1
   }
 }

@@ -3,56 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/264341499?v=4",
   "githubUrl": "https://github.com/quanshequ12-star",
   "score": {
-    "score": 136.96,
-    "prScore": 127.46,
+    "score": 77.77,
+    "prScore": 66.77,
     "issueScore": 0,
     "reviewScore": 9,
-    "commentScore": 0.5
+    "commentScore": 2
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 14,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 214,
-    "prDeletions": 19,
-    "prChangedFiles": 18,
+    "prAdditions": 208,
+    "prDeletions": 9,
+    "prChangedFiles": 11,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 3,
-      "comments": 0,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 14,
+      "prs": 7,
       "issues": 0,
       "reviews": 3,
-      "comments": 1,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T04:24:39Z",
-  "lastContribution": "2026-03-10T17:29:08Z",
+  "firstContribution": "2026-03-04T18:35:35Z",
+  "lastContribution": "2026-03-14T06:44:50Z",
   "recentPRs": [
     {
       "number": 36534,
@@ -105,7 +103,7 @@
       "merged": false,
       "createdAt": "2026-03-04T19:04:41Z",
       "mergedAt": null,
-      "additions": 22,
+      "additions": 33,
       "deletions": 0,
       "changedFiles": 2
     },
@@ -130,83 +128,6 @@
       "additions": 8,
       "deletions": 2,
       "changedFiles": 1
-    },
-    {
-      "number": 34084,
-      "title": "ui(i18n): preselect persisted locale before lazy translation load",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T06:55:02Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 34083,
-      "title": "ui(navigation): use title case for tab group labels",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T06:54:36Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 4,
-      "changedFiles": 1
-    },
-    {
-      "number": 34081,
-      "title": "ui: guard opener nulling for proxy-like window objects",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T06:54:10Z",
-      "mergedAt": null,
-      "additions": 6,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 34080,
-      "title": "ui(cron): render run history newest-first by timestamp",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T06:53:43Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 34079,
-      "title": "ui(cron): avoid duplicate history load call from History action",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T06:53:21Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 33935,
-      "title": "docs: standardize GitHub label casing in maintainers list",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T04:37:39Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 2,
-      "changedFiles": 1
-    },
-    {
-      "number": 33918,
-      "title": "docs: rename duplicate maintainers heading for clarity",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T04:24:39Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -227,19 +148,6 @@
       "createdAt": "2026-03-10T17:29:05Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
@@ -247,7 +155,7 @@
       "reviews": 0
     },
     "2026-03-04": {
-      "prs": 13,
+      "prs": 6,
       "issues": 0,
       "reviews": 0
     },
@@ -256,5 +164,12 @@
       "issues": 0,
       "reviews": 3
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

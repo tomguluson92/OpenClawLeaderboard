@@ -1,66 +1,119 @@
 {
   "username": "xingsy97",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/87063252?u=88d0559f9ca0bf5ec2537608527dc9299ca6163a&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/87063252?v=4",
   "githubUrl": "https://github.com/xingsy97",
   "score": {
-    "score": 103.82,
-    "prScore": 83.82,
+    "score": 203.98,
+    "prScore": 173.48,
     "issueScore": 0,
-    "reviewScore": 18,
-    "commentScore": 2
+    "reviewScore": 24,
+    "commentScore": 6.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
-    "commits": 0,
-    "prs": 7,
-    "prsMerged": 0,
-    "prAdditions": 399,
-    "prDeletions": 50,
-    "prChangedFiles": 19,
-    "prMergeRate": 0,
+    "commits": 3,
+    "prs": 12,
+    "prsMerged": 3,
+    "prAdditions": 427,
+    "prDeletions": 59,
+    "prChangedFiles": 25,
+    "prMergeRate": 25,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "comments": 13,
+    "commitAdditions": 16,
+    "commitDeletions": 8,
+    "commitChangedFiles": 10
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 12,
       "issues": 0,
-      "reviews": 6,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 8,
+      "comments": 13,
+      "commitAdditions": 16,
+      "commitDeletions": 8,
+      "commits": 3
     },
     "monthly": {
-      "prs": 7,
+      "prs": 12,
       "issues": 0,
-      "reviews": 6,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 8,
+      "comments": 13,
+      "commitAdditions": 16,
+      "commitDeletions": 8,
+      "commits": 3
     }
   },
   "firstContribution": "2026-03-11T17:57:25Z",
-  "lastContribution": "2026-03-12T00:04:56Z",
+  "lastContribution": "2026-03-14T15:41:13Z",
   "recentPRs": [
+    {
+      "number": 44999,
+      "title": "security(gateway-status): suppress false SecretRef warnings when gateway is healthy",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T10:34:13Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    },
+    {
+      "number": 44994,
+      "title": "fix(config): move Anthropic aliases to own module to prevent TDZ on startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:32:00Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 44956,
+      "title": "security(docker): prevent gateway token leak in Docker build context",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T09:58:51Z",
+      "mergedAt": "2026-03-13T18:42:11Z",
+      "additions": 6,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44952,
+      "title": "fix(skills): downgrade escaped skill path log from warn to debug",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T09:55:09Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 44951,
+      "title": "docs(zh-CN): convert bare ClawHub URL to markdown link",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T09:54:43Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 43438,
       "title": "test(config): cover requiresOpenAiAnthropicToolPayload in compat schema fixture",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T19:58:33Z",
-      "mergedAt": null,
+      "mergedAt": "2026-03-13T09:32:28Z",
       "additions": 1,
       "deletions": 0,
       "changedFiles": 1
@@ -112,13 +165,13 @@
     {
       "number": 43403,
       "title": "fix(agents): rephrase session reset prompt to avoid Azure content filter",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T18:22:53Z",
-      "mergedAt": null,
-      "additions": 8,
+      "mergedAt": "2026-03-13T09:37:04Z",
+      "additions": 9,
       "deletions": 8,
-      "changedFiles": 7
+      "changedFiles": 8
     },
     {
       "number": 43393,
@@ -134,6 +187,16 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 44994,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T10:36:03Z"
+    },
+    {
+      "prNumber": 44951,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T10:03:55Z"
+    },
     {
       "prNumber": 43411,
       "state": "COMMENTED",
@@ -165,18 +228,32 @@
       "createdAt": "2026-03-11T18:27:54Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-11": {
       "prs": 7,
       "issues": 0,
       "reviews": 6
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-13": 3
   }
 }

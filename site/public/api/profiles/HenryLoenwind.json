@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1485873?v=4",
   "githubUrl": "https://github.com/HenryLoenwind",
   "score": {
-    "score": 108.12,
+    "score": 227.62,
     "prScore": 97.12,
-    "issueScore": 10,
-    "reviewScore": 0,
-    "commentScore": 1
+    "issueScore": 115,
+    "reviewScore": 3,
+    "commentScore": 12.5
   },
-  "tier": "regular",
-  "characterClass": "Pathfinder",
+  "tier": "active",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 6,
     "prs": 0,
@@ -19,80 +19,232 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 0,
-    "reviews": 0,
+    "issues": 20,
+    "issuesClosed": 5,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 25,
     "commitAdditions": 1657,
     "commitDeletions": 1293,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 28
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 2,
+      "issues": 20,
+      "reviews": 1,
+      "comments": 24,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 0,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 2,
+      "issues": 20,
+      "reviews": 1,
+      "comments": 25,
       "commitAdditions": 1657,
       "commitDeletions": 1293,
       "commits": 6
     }
   },
-  "firstContribution": "2026-02-27T05:25:57Z",
-  "lastContribution": "2026-03-08T21:21:47Z",
+  "firstContribution": "2026-03-07T07:25:44Z",
+  "lastContribution": "2026-03-14T12:41:11Z",
   "recentPRs": [],
   "recentIssues": [
+    {
+      "number": 45848,
+      "title": "[Bug]: Health status missing (UI v2)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-14T07:33:19Z",
+      "closedAt": "2026-03-14T11:49:12Z"
+    },
+    {
+      "number": 45755,
+      "title": "[Bug]: Agent emoji as AWOL (ui v0.2)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T05:06:13Z",
+      "closedAt": null
+    },
+    {
+      "number": 45752,
+      "title": "[Bug]: The helpful message in the chat line is gone (UI v0.2)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T05:03:37Z",
+      "closedAt": null
+    },
+    {
+      "number": 45711,
+      "title": "[Bug]: Sess v. now vr. obsc. (UI v2)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T03:55:18Z",
+      "closedAt": null
+    },
+    {
+      "number": 45709,
+      "title": "[Bug]: Usage header is doubled (v2 UI)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T03:48:04Z",
+      "closedAt": null
+    },
+    {
+      "number": 45703,
+      "title": "[Bug]: Agent section is horrible (v2 UI)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T03:42:15Z",
+      "closedAt": null
+    },
+    {
+      "number": 45697,
+      "title": "[Bug]: Session selector easily gets out of sync (v2 UI)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T03:34:02Z",
+      "closedAt": null
+    },
+    {
+      "number": 45695,
+      "title": "[Bug]: v3 UI has no scrollbar anymore",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T03:28:12Z",
+      "closedAt": null
+    },
+    {
+      "number": 45688,
+      "title": "[Bug]: Config section is horriby convoluted now (v2 UI)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T03:16:59Z",
+      "closedAt": null
+    },
+    {
+      "number": 45685,
+      "title": "[Bug]: Stray O in the v2 UI",
+      "state": "CLOSED",
+      "createdAt": "2026-03-14T03:12:25Z",
+      "closedAt": "2026-03-14T11:49:30Z"
+    },
+    {
+      "number": 45656,
+      "title": "[Bug]: Chat line has bad usability (v2 UI)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T02:35:16Z",
+      "closedAt": null
+    },
+    {
+      "number": 45654,
+      "title": "[Bug]: Sidebar has horrible contrast and text is tiny (v2 UI)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T02:29:54Z",
+      "closedAt": null
+    },
+    {
+      "number": 45649,
+      "title": "[Bug]: Tool bubble is unreadable in v2 UI",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T02:24:39Z",
+      "closedAt": null
+    },
+    {
+      "number": 45642,
+      "title": "[Bug]: Tool output gets mangled in the v2 UI",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T02:19:43Z",
+      "closedAt": null
+    },
+    {
+      "number": 45591,
+      "title": "[Bug]: web ui no longer allows multi-line input",
+      "state": "CLOSED",
+      "createdAt": "2026-03-14T01:20:48Z",
+      "closedAt": "2026-03-14T11:49:45Z"
+    },
+    {
+      "number": 45575,
+      "title": "[Bug]: \"new messages\" marker is filling the whole screen again",
+      "state": "CLOSED",
+      "createdAt": "2026-03-14T00:58:14Z",
+      "closedAt": "2026-03-14T11:50:11Z"
+    },
+    {
+      "number": 45572,
+      "title": "[Bug]: Context usage warning is wrong",
+      "state": "CLOSED",
+      "createdAt": "2026-03-14T00:54:55Z",
+      "closedAt": "2026-03-14T11:50:43Z"
+    },
+    {
+      "number": 45569,
+      "title": "[Bug]: /status in the web ui needs <enter> pressed twice",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T00:49:02Z",
+      "closedAt": null
+    },
+    {
+      "number": 45488,
+      "title": "[Bug]: #18049 introduces session bloat",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T22:11:32Z",
+      "closedAt": null
+    },
     {
       "number": 40255,
       "title": "[Bug]: Regression: User-configured heartbeat prompt no longer respected",
       "state": "OPEN",
       "createdAt": "2026-03-08T20:50:21Z",
       "closedAt": null
-    },
-    {
-      "number": 28339,
-      "title": "[Bug]: Control UI can't set valid config",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T05:25:57Z",
-      "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 45824,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T12:06:18Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 18,
+      "reviews": 1
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
+    "Code Review",
     "Issue Reporting",
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "issue-tracker",
+      "label": "Issue Tracker",
+      "description": "20+ issues filed"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
   "recentCommitDays": {
     "2026-03-03": 2,
     "2026-02-23": 2,
     "2026-02-21": 1,
     "2026-02-13": 1
-  },
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-02-27": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

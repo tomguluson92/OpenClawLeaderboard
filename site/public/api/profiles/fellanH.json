@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 11,
     "commitDeletions": 6,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 4
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -79,7 +77,7 @@
     {
       "number": 39319,
       "title": "Gateway: fix duplicate chat messages in Webchat",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T01:04:21Z",
       "mergedAt": null,
@@ -90,7 +88,7 @@
     {
       "number": 39314,
       "title": "macOS: fix VoiceWakeOverlayController exclusivity violation",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T01:01:01Z",
       "mergedAt": null,
@@ -112,18 +110,18 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-08": 1
-  },
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 5,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-08": 1
   }
 }

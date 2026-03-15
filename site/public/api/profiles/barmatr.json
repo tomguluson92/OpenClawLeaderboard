@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -57,7 +55,7 @@
     {
       "number": 40913,
       "title": "fix: use target agent workspace for subagent bootstrap file injection",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T11:23:49Z",
       "mergedAt": null,
@@ -74,17 +72,17 @@
       "createdAt": "2026-03-09T11:51:14Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
       "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

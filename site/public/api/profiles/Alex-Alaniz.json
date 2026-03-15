@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/88956822?u=4178a2724b95d206d120ab87e2421d7b67636a8e&v=4",
   "githubUrl": "https://github.com/Alex-Alaniz",
   "score": {
-    "score": 29,
-    "prScore": 14,
+    "score": 95.11,
+    "prScore": 77.61,
     "issueScore": 0,
     "reviewScore": 15,
-    "commentScore": 0
+    "commentScore": 2.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 183,
-    "prDeletions": 12,
-    "prChangedFiles": 2,
+    "prAdditions": 562,
+    "prDeletions": 37,
+    "prChangedFiles": 23,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 5,
     "commitAdditions": 112,
     "commitDeletions": 34,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 4,
       "issues": 0,
       "reviews": 5,
-      "comments": 0,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 4,
       "issues": 0,
       "reviews": 5,
-      "comments": 0,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-10T08:08:16Z",
-  "lastContribution": "2026-03-11T21:06:37Z",
+  "lastContribution": "2026-03-13T07:01:38Z",
   "recentPRs": [
+    {
+      "number": 44784,
+      "title": "config: fix bundled Anthropic provider startup TDZ",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T07:01:38Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 23,
+      "changedFiles": 3
+    },
+    {
+      "number": 44678,
+      "title": "ollama: honor explicit params.num_ctx overrides",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T05:18:03Z",
+      "mergedAt": null,
+      "additions": 118,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 43808,
+      "title": "cron: honor delivery.threadId for Telegram announce delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T07:33:43Z",
+      "mergedAt": null,
+      "additions": 234,
+      "deletions": 1,
+      "changedFiles": 14
+    },
     {
       "number": 43469,
       "title": "security: scan markdown skill definitions for injection threats",
@@ -94,15 +125,17 @@
       "createdAt": "2026-03-10T08:08:16Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-01-26": 1
-  },
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -113,5 +146,14 @@
       "issues": 0,
       "reviews": 5
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-01-26": 1
   }
 }

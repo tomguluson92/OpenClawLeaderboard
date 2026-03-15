@@ -1,0 +1,125 @@
+{
+  "username": "zelixag",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9192601?u=588d378d5ec294c6da158f1cf65ed8f7c2f01933&v=4",
+  "githubUrl": "https://github.com/zelixag",
+  "score": {
+    "score": 37.93,
+    "prScore": 19.93,
+    "issueScore": 18,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 24,
+    "prDeletions": 2,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-04T08:48:55Z",
+  "lastContribution": "2026-03-14T11:41:14Z",
+  "recentPRs": [
+    {
+      "number": 46053,
+      "title": "fix: avoid TDZ error in CLI by moving ANTHROPIC_MODEL_ALIASES inline",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T11:41:14Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 43699,
+      "title": "fix(matrix): read top-level allowFrom before dm.allowFrom",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T05:15:07Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45846,
+      "title": "[Bug]: Web UI chat images display too large",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T07:31:13Z",
+      "closedAt": null
+    },
+    {
+      "number": 43668,
+      "title": "test: ???? GitHub API",
+      "state": "CLOSED",
+      "createdAt": "2026-03-12T04:24:11Z",
+      "closedAt": "2026-03-12T04:24:20Z"
+    },
+    {
+      "number": 34189,
+      "title": "[Bug]:  Control UI / Dashboard returns \"Not Found\" on Windows (2026.3.x)",
+      "state": "OPEN",
+      "createdAt": "2026-03-04T08:48:55Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

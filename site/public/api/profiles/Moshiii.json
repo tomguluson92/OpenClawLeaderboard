@@ -27,8 +27,6 @@
     "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -133,7 +131,7 @@
     },
     {
       "number": 40447,
-      "title": "docs: fix message send flag and claude-max-api-proxy links (#10458, #\u2026",
+      "title": "docs: fix message send flag and claude-max-api-proxy links (#10458, #…",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-09T01:51:24Z",
@@ -174,6 +172,18 @@
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 4,
+      "issues": 4,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
@@ -192,17 +202,5 @@
       "description": "50K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 4,
-      "issues": 4,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

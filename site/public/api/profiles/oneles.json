@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/62010096?v=4",
   "githubUrl": "https://github.com/oneles",
   "score": {
-    "score": 23.72,
+    "score": 13.72,
     "prScore": 7.72,
-    "issueScore": 15,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 1
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 0,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,12 +27,19 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 0,
@@ -40,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 1,
-      "issues": 3,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-02-28T10:59:25Z",
+  "firstContribution": "2026-03-06T16:49:09Z",
   "lastContribution": "2026-03-06T17:25:37Z",
   "recentPRs": [
     {
@@ -73,45 +71,21 @@
       "state": "OPEN",
       "createdAt": "2026-03-06T16:49:09Z",
       "closedAt": null
-    },
-    {
-      "number": 30646,
-      "title": "bug: Feishu sendText auto-detection only supports image files, leaks local paths for documents",
-      "state": "OPEN",
-      "createdAt": "2026-03-01T13:01:34Z",
-      "closedAt": null
-    },
-    {
-      "number": 29699,
-      "title": "Bug: Network fetch failure when Telegram channel is enabled in systemd environment",
-      "state": "OPEN",
-      "createdAt": "2026-02-28T10:59:25Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-01": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-02-28": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

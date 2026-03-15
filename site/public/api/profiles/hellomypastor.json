@@ -3,48 +3,46 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8546109?u=0db05ff42f2f12028af209307a0e2a321a11543b&v=4",
   "githubUrl": "https://github.com/hellomypastor",
   "score": {
-    "score": 97.24,
-    "prScore": 97.24,
+    "score": 180.4,
+    "prScore": 150.4,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 30,
     "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 2165,
-    "prDeletions": 70,
-    "prChangedFiles": 39,
+    "prAdditions": 5434,
+    "prDeletions": 145,
+    "prChangedFiles": 77,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 10,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 10,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 10,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -52,32 +50,128 @@
     }
   },
   "firstContribution": "2026-03-11T05:58:22Z",
-  "lastContribution": "2026-03-11T05:58:22Z",
+  "lastContribution": "2026-03-14T09:07:49Z",
   "recentPRs": [
+    {
+      "number": 45919,
+      "title": "feat(sandbox): add OpenSandbox backend support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T09:07:49Z",
+      "mergedAt": null,
+      "additions": 1022,
+      "deletions": 0,
+      "changedFiles": 13
+    },
+    {
+      "number": 44566,
+      "title": "feat(sandbox): support opensandbox runtime",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T02:50:11Z",
+      "mergedAt": null,
+      "additions": 1295,
+      "deletions": 59,
+      "changedFiles": 24
+    },
     {
       "number": 42860,
       "title": "Feat/opensandbox backend",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T05:58:22Z",
       "mergedAt": null,
-      "additions": 2165,
-      "deletions": 70,
-      "changedFiles": 39
+      "additions": 3117,
+      "deletions": 86,
+      "changedFiles": 40
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests"
+  "recentReviews": [
+    {
+      "prNumber": 44566,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T03:24:34Z"
+    },
+    {
+      "prNumber": 44566,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T03:22:58Z"
+    },
+    {
+      "prNumber": 44566,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T03:20:16Z"
+    },
+    {
+      "prNumber": 44566,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T03:18:52Z"
+    },
+    {
+      "prNumber": 44566,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T03:17:48Z"
+    },
+    {
+      "prNumber": 44566,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T03:16:12Z"
+    },
+    {
+      "prNumber": 44566,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T03:12:55Z"
+    },
+    {
+      "prNumber": 42860,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T11:19:38Z"
+    },
+    {
+      "prNumber": 42860,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T10:02:50Z"
+    },
+    {
+      "prNumber": 42860,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T09:08:10Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 7
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {}
 }

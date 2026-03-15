@@ -1,0 +1,103 @@
+{
+  "username": "Mrxyx",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14539338?u=77f353f880886f5c23dcd0c63b3eba6a1e0f000f&v=4",
+  "githubUrl": "https://github.com/Mrxyx",
+  "score": {
+    "score": 27.41,
+    "prScore": 27.41,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 65,
+    "prDeletions": 6,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T01:33:29Z",
+  "lastContribution": "2026-03-13T02:59:15Z",
+  "recentPRs": [
+    {
+      "number": 44576,
+      "title": "fix: prevent false positive payload kind normalization for already-correct values",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T02:59:15Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44531,
+      "title": "fix: gateway restart sends SIGUSR1 via systemctl reload instead of SIGTERM (#44490)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T01:56:27Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 44516,
+      "title": "fix: normalizePayloadKind returns false when kind is already correct",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T01:33:29Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

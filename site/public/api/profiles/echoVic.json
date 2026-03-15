@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/16428813?v=4",
   "githubUrl": "https://github.com/echoVic",
   "score": {
-    "score": 1039.2,
-    "prScore": 1021.2,
+    "score": 991.12,
+    "prScore": 978.12,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 18
+    "commentScore": 13
   },
-  "tier": "elite",
+  "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
     "commits": 16,
-    "prs": 115,
+    "prs": 109,
     "prsMerged": 1,
-    "prAdditions": 6579,
-    "prDeletions": 605,
-    "prChangedFiles": 320,
+    "prAdditions": 6149,
+    "prDeletions": 539,
+    "prChangedFiles": 306,
     "prMergeRate": 1,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 36,
+    "comments": 26,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 57,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 22,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 115,
+      "prs": 109,
       "issues": 0,
       "reviews": 0,
-      "comments": 36,
+      "comments": 26,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-01T02:58:15Z",
+  "firstContribution": "2026-03-04T15:37:29Z",
   "lastContribution": "2026-03-06T15:49:54Z",
   "recentPRs": [
     {
@@ -277,6 +275,23 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 38,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 29,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 42,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion",
@@ -305,12 +320,5 @@
       "description": "20+ comments"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 20,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

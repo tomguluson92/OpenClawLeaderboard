@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/49865968?u=4f9379f164db02dc163e088b3b4e853beae9c5c8&v=4",
   "githubUrl": "https://github.com/zhangjunmengyang",
   "score": {
-    "score": 65.69,
-    "prScore": 58.19,
+    "score": 24.29,
+    "prScore": 18.29,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 2.5
+    "commentScore": 1
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 811,
-    "prDeletions": 8,
-    "prChangedFiles": 15,
+    "prAdditions": 111,
+    "prDeletions": 6,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 5,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T04:10:08Z",
+  "firstContribution": "2026-03-04T04:31:30Z",
   "lastContribution": "2026-03-04T18:42:24Z",
   "recentPRs": [
     {
@@ -75,28 +73,6 @@
       "additions": 43,
       "deletions": 5,
       "changedFiles": 1
-    },
-    {
-      "number": 33901,
-      "title": "feat(skills): support context: fork (subagent execution)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T04:10:38Z",
-      "mergedAt": null,
-      "additions": 333,
-      "deletions": 1,
-      "changedFiles": 6
-    },
-    {
-      "number": 33899,
-      "title": "feat(skills): placeholders + context: fork execution",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T04:10:08Z",
-      "mergedAt": null,
-      "additions": 367,
-      "deletions": 1,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [
@@ -109,18 +85,18 @@
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-04": {
-      "prs": 4,
-      "issues": 1,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

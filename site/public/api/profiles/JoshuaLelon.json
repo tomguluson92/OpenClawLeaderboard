@@ -3,57 +3,154 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/23615754?u=02c96074bce0622f3dad382057f012205ae27525&v=4",
   "githubUrl": "https://github.com/JoshuaLelon",
   "score": {
-    "score": 225.69,
-    "prScore": 177.69,
+    "score": 327.93,
+    "prScore": 234.43,
     "issueScore": 0,
-    "reviewScore": 48,
-    "commentScore": 0
+    "reviewScore": 81,
+    "commentScore": 12.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 15,
     "prsMerged": 1,
-    "prAdditions": 3331,
-    "prDeletions": 121,
-    "prChangedFiles": 43,
-    "prMergeRate": 14,
+    "prAdditions": 3504,
+    "prDeletions": 166,
+    "prChangedFiles": 53,
+    "prMergeRate": 7,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 16,
+    "reviews": 27,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 25,
     "commitAdditions": 619,
     "commitDeletions": 285,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 8
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 10,
       "issues": 0,
-      "reviews": 16,
-      "comments": 0,
+      "reviews": 27,
+      "comments": 25,
       "commitAdditions": 3,
       "commitDeletions": 1,
       "commits": 1
     },
     "monthly": {
-      "prs": 7,
+      "prs": 15,
       "issues": 0,
-      "reviews": 16,
-      "comments": 0,
+      "reviews": 27,
+      "comments": 25,
       "commitAdditions": 619,
       "commitDeletions": 285,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-02T16:06:03Z",
-  "lastContribution": "2026-03-08T15:23:46Z",
+  "firstContribution": "2026-03-05T03:56:17Z",
+  "lastContribution": "2026-03-12T20:55:16Z",
   "recentPRs": [
+    {
+      "number": 44222,
+      "title": "fix(imessage): detect FDA permission errors and improve send reporting",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:20:57Z",
+      "mergedAt": null,
+      "additions": 54,
+      "deletions": 29,
+      "changedFiles": 3
+    },
+    {
+      "number": 44221,
+      "title": "fix(agents): fall back to apt-get for brew skill installs on Linux",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:20:54Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44220,
+      "title": "fix(agents): skip bootstrap file injection on continuation messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:20:51Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 14,
+      "changedFiles": 1
+    },
+    {
+      "number": 44219,
+      "title": "fix(agents): reset error counts when 429 cooldown expires",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T16:20:48Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44218,
+      "title": "fix(macos): bail early on gateway failure and surface real error",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:20:45Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 44217,
+      "title": "fix(wizard): warn user when auth is skipped during onboarding",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:20:43Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44192,
+      "title": "fix(gateway): filter model picker to configured providers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T15:51:01Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 44190,
+      "title": "fix(web): clear stale Baileys creds before forced WhatsApp relink",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T15:50:52Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44189,
+      "title": "fix(cli): guard zsh compdef call for non-interactive shells",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T15:50:40Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 39969,
       "title": "fix(swiftformat): exclude generated security policy from formatters",
@@ -68,7 +165,7 @@
     {
       "number": 36302,
       "title": "feat(hooks): workspace events subscription hook",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T14:59:34Z",
       "mergedAt": null,
@@ -79,7 +176,7 @@
     {
       "number": 35506,
       "title": "feat(hooks): support gws as alternative to gog for Gmail Pub/Sub",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T05:25:40Z",
       "mergedAt": null,
@@ -90,7 +187,7 @@
     {
       "number": 35421,
       "title": "docs: add Google Workspace quick-start guide",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T04:19:36Z",
       "mergedAt": null,
@@ -112,28 +209,72 @@
     {
       "number": 35382,
       "title": "feat(skills): bundled gws skill + fix xurl install kind",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T03:56:17Z",
       "mergedAt": null,
       "additions": 303,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 31868,
-      "title": "fix: resolve two pre-existing TS errors blocking CI check job",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T16:06:03Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 3,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 44222,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:30:49Z"
+    },
+    {
+      "prNumber": 44221,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:30:45Z"
+    },
+    {
+      "prNumber": 44221,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:30:41Z"
+    },
+    {
+      "prNumber": 44220,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:30:35Z"
+    },
+    {
+      "prNumber": 44220,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:30:21Z"
+    },
+    {
+      "prNumber": 44220,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:30:10Z"
+    },
+    {
+      "prNumber": 44219,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:30:07Z"
+    },
+    {
+      "prNumber": 44217,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:30:05Z"
+    },
+    {
+      "prNumber": 44192,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:30:01Z"
+    },
+    {
+      "prNumber": 44192,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:29:57Z"
+    },
+    {
+      "prNumber": 44190,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T20:29:54Z"
+    },
     {
       "prNumber": 35409,
       "state": "COMMENTED",
@@ -178,59 +319,14 @@
       "prNumber": 36302,
       "state": "COMMENTED",
       "createdAt": "2026-03-08T15:10:48Z"
-    },
-    {
-      "prNumber": 36302,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:10:40Z"
-    },
-    {
-      "prNumber": 36302,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:10:33Z"
-    },
-    {
-      "prNumber": 36302,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:10:26Z"
-    },
-    {
-      "prNumber": 36302,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:10:18Z"
-    },
-    {
-      "prNumber": 36302,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:10:09Z"
-    },
-    {
-      "prNumber": 36302,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:09:33Z"
-    },
-    {
-      "prNumber": 35421,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T14:52:36Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-09": 1,
-    "2026-02-16": 1
-  },
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 11
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
@@ -240,11 +336,32 @@
       "prs": 5,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-09": 1,
+    "2026-02-16": 1
   }
 }

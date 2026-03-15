@@ -1,57 +1,55 @@
 {
   "username": "dunamismax",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/65822992?u=12c9dd16ec4d400df5be982474ffdc6bb53cf179&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/65822992?v=4",
   "githubUrl": "https://github.com/dunamismax",
   "score": {
-    "score": 326.71,
-    "prScore": 313.71,
+    "score": 308.04,
+    "prScore": 297.04,
     "issueScore": 0,
     "reviewScore": 6,
-    "commentScore": 7
+    "commentScore": 5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 0,
-    "prs": 26,
-    "prsMerged": 2,
-    "prAdditions": 3535,
-    "prDeletions": 723,
-    "prChangedFiles": 97,
-    "prMergeRate": 8,
+    "commits": 3,
+    "prs": 22,
+    "prsMerged": 1,
+    "prAdditions": 3352,
+    "prDeletions": 715,
+    "prChangedFiles": 90,
+    "prMergeRate": 5,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 14,
+    "comments": 10,
     "commitAdditions": 92,
     "commitDeletions": 11,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 11
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 45,
-      "commitDeletions": 3,
-      "commits": 1
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 26,
+      "prs": 22,
       "issues": 0,
       "reviews": 2,
-      "comments": 14,
+      "comments": 10,
       "commitAdditions": 92,
       "commitDeletions": 11,
       "commits": 3
     }
   },
-  "firstContribution": "2026-03-02T22:11:01Z",
+  "firstContribution": "2026-03-04T13:03:41Z",
   "lastContribution": "2026-03-08T02:48:16Z",
   "recentPRs": [
     {
@@ -288,22 +286,6 @@
       "createdAt": "2026-03-04T17:12:16Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-06": 1,
-    "2026-03-02": 2
-  },
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 3,
@@ -321,9 +303,26 @@
       "reviews": 0
     },
     "2026-03-04": {
-      "prs": 12,
+      "prs": 14,
       "issues": 0,
       "reviews": 2
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-06": 1,
+    "2026-03-02": 2
   }
 }

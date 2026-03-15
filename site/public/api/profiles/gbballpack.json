@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/39963341?v=4",
   "githubUrl": "https://github.com/gbballpack",
   "score": {
-    "score": 16.91,
-    "prScore": 12.41,
+    "score": 57.56,
+    "prScore": 52.06,
     "issueScore": 0,
     "reviewScore": 3,
-    "commentScore": 1.5
+    "commentScore": 2.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 389,
-    "prDeletions": 19,
-    "prChangedFiles": 3,
+    "prAdditions": 1545,
+    "prDeletions": 82,
+    "prChangedFiles": 14,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 1,
-      "comments": 3,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 1,
-      "comments": 3,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T16:19:14Z",
-  "lastContribution": "2026-03-10T02:47:43Z",
+  "lastContribution": "2026-03-13T02:22:44Z",
   "recentPRs": [
+    {
+      "number": 44547,
+      "title": "gateway: harden delivery recovery startup preflight and skip-mode behavior",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T02:22:29Z",
+      "mergedAt": null,
+      "additions": 586,
+      "deletions": 41,
+      "changedFiles": 6
+    },
+    {
+      "number": 44324,
+      "title": "gateway: harden delivery recovery startup preflight and skip-mode behavior",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T18:56:04Z",
+      "mergedAt": null,
+      "additions": 570,
+      "deletions": 22,
+      "changedFiles": 5
+    },
     {
       "number": 41238,
       "title": "gateway: avoid startup race in delivery recovery",
@@ -74,14 +94,17 @@
       "createdAt": "2026-03-10T02:47:43Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
@@ -92,5 +115,12 @@
       "issues": 0,
       "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

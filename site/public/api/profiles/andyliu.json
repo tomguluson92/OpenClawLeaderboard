@@ -3,57 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2377291?u=80ee8b6585c1b90368535482293203fbe3e9d20a&v=4",
   "githubUrl": "https://github.com/andyliu",
   "score": {
-    "score": 63.23,
-    "prScore": 47.73,
+    "score": 143.27,
+    "prScore": 123.77,
     "issueScore": 0,
     "reviewScore": 12,
-    "commentScore": 3.5
+    "commentScore": 7.5
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 7,
     "prsMerged": 1,
-    "prAdditions": 207,
-    "prDeletions": 25,
-    "prChangedFiles": 10,
-    "prMergeRate": 33,
+    "prAdditions": 634,
+    "prDeletions": 83,
+    "prChangedFiles": 32,
+    "prMergeRate": 14,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 15,
     "commitAdditions": 47,
     "commitDeletions": 4,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 4
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 7,
       "issues": 0,
       "reviews": 4,
-      "comments": 7,
+      "comments": 15,
       "commitAdditions": 47,
       "commitDeletions": 4,
       "commits": 1
     },
     "monthly": {
-      "prs": 3,
+      "prs": 7,
       "issues": 0,
       "reviews": 4,
-      "comments": 7,
+      "comments": 15,
       "commitAdditions": 47,
       "commitDeletions": 4,
       "commits": 1
     }
   },
   "firstContribution": "2026-03-10T10:31:04Z",
-  "lastContribution": "2026-03-11T05:04:17Z",
+  "lastContribution": "2026-03-15T04:20:39Z",
   "recentPRs": [
+    {
+      "number": 46855,
+      "title": "fix(tts): select a Chinese Edge voice for Han text",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:20:39Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 10,
+      "changedFiles": 2
+    },
+    {
+      "number": 44626,
+      "title": "fix(docker): allow whitespace in OPENCLAW_CONFIG_DIR/WORKSPACE",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T03:48:28Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 44059,
+      "title": "test: stabilize redirect media store permissions assertion",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T13:04:48Z",
+      "mergedAt": null,
+      "additions": 147,
+      "deletions": 19,
+      "changedFiles": 10
+    },
+    {
+      "number": 44053,
+      "title": "fix(memory): prefer MEMORY.md; avoid duplicate injection on case-insensitive FS",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T13:00:10Z",
+      "mergedAt": null,
+      "additions": 137,
+      "deletions": 16,
+      "changedFiles": 8
+    },
     {
       "number": 42153,
       "title": "fix(tts): propagate audio_as_voice from tool results",
@@ -111,16 +153,22 @@
       "createdAt": "2026-03-10T11:23:06Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-11": 1
-  },
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 3,
       "issues": 0,
@@ -131,5 +179,14 @@
       "issues": 0,
       "reviews": 1
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-11": 1
   }
 }

@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/60438604?u=4e691776ae66b644a61df81858d1a2d70d1c1d98&v=4",
   "githubUrl": "https://github.com/holgergruenhagen",
   "score": {
-    "score": 15.08,
-    "prScore": 9.58,
+    "score": 25.62,
+    "prScore": 19.62,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 1
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 72,
-    "prDeletions": 1,
-    "prChangedFiles": 2,
+    "prAdditions": 102,
+    "prDeletions": 5,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-11T23:34:14Z",
-  "lastContribution": "2026-03-12T02:28:15Z",
+  "lastContribution": "2026-03-12T10:55:57Z",
   "recentPRs": [
+    {
+      "number": 43947,
+      "title": "fix(memory): include archived session transcripts in QMD export",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T10:36:58Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 4,
+      "changedFiles": 2
+    },
     {
       "number": 43523,
       "title": "fix: keep QMD session search paths roundtrip-safe",
@@ -76,18 +85,23 @@
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

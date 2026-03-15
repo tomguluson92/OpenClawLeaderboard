@@ -1,59 +1,68 @@
 {
   "username": "jackal092927",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/3854860?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3854860?u=3e3075ea09238e707e4a16b83c204981259555a9&v=4",
   "githubUrl": "https://github.com/jackal092927",
   "score": {
-    "score": 176.82,
-    "prScore": 175.82,
-    "issueScore": 0,
+    "score": 211.93,
+    "prScore": 197.93,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 4
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 11,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 1400,
-    "prDeletions": 109,
-    "prChangedFiles": 45,
+    "prAdditions": 1835,
+    "prDeletions": 153,
+    "prChangedFiles": 52,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 8,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 11,
-      "issues": 0,
+      "prs": 12,
+      "issues": 2,
       "reviews": 0,
-      "comments": 2,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 11,
-      "issues": 0,
+      "prs": 12,
+      "issues": 2,
       "reviews": 0,
-      "comments": 2,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T18:21:09Z",
-  "lastContribution": "2026-03-10T01:31:38Z",
+  "lastContribution": "2026-03-13T22:38:15Z",
   "recentPRs": [
+    {
+      "number": 45493,
+      "title": "fix: reconcile session compaction count after late compaction success",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T22:18:43Z",
+      "mergedAt": null,
+      "additions": 386,
+      "deletions": 1,
+      "changedFiles": 3
+    },
     {
       "number": 41450,
       "title": "fix(codex): normalize openai-codex transport in all remaining runtime paths",
@@ -61,8 +70,8 @@
       "merged": false,
       "createdAt": "2026-03-09T21:27:16Z",
       "mergedAt": null,
-      "additions": 536,
-      "deletions": 66,
+      "additions": 378,
+      "deletions": 108,
       "changedFiles": 10
     },
     {
@@ -134,7 +143,7 @@
     {
       "number": 41376,
       "title": "fix(models): report correct 1M context window for gpt-5.4 in catalog",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T19:13:52Z",
       "mergedAt": null,
@@ -149,9 +158,9 @@
       "merged": false,
       "createdAt": "2026-03-09T18:23:26Z",
       "mergedAt": null,
-      "additions": 95,
-      "deletions": 3,
-      "changedFiles": 4
+      "additions": 111,
+      "deletions": 4,
+      "changedFiles": 6
     },
     {
       "number": 41350,
@@ -160,9 +169,9 @@
       "merged": false,
       "createdAt": "2026-03-09T18:22:48Z",
       "mergedAt": null,
-      "additions": 74,
-      "deletions": 4,
-      "changedFiles": 4
+      "additions": 266,
+      "deletions": 6,
+      "changedFiles": 7
     },
     {
       "number": 41349,
@@ -171,15 +180,43 @@
       "merged": false,
       "createdAt": "2026-03-09T18:21:09Z",
       "mergedAt": null,
-      "additions": 120,
-      "deletions": 4,
-      "changedFiles": 4
+      "additions": 119,
+      "deletions": 2,
+      "changedFiles": 3
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 45505,
+      "title": "Generalize post-timeout compaction completion reconciliation across session state",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T22:38:15Z",
+      "closedAt": null
+    },
+    {
+      "number": 45492,
+      "title": "Compaction late success leaves /status compactionCount stale after timeout",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T22:18:29Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
+    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
@@ -189,12 +226,5 @@
       "description": "10+ pull requests"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 11,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

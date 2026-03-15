@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/455140?v=4",
   "githubUrl": "https://github.com/mvanhorn",
   "score": {
-    "score": 333.56,
-    "prScore": 266.06,
+    "score": 351.26,
+    "prScore": 282.76,
     "issueScore": 5,
     "reviewScore": 42,
-    "commentScore": 20.5
+    "commentScore": 21.5
   },
   "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 2,
-    "prs": 19,
+    "prs": 21,
     "prsMerged": 2,
-    "prAdditions": 2072,
-    "prDeletions": 142,
-    "prChangedFiles": 61,
-    "prMergeRate": 11,
+    "prAdditions": 2551,
+    "prDeletions": 145,
+    "prChangedFiles": 69,
+    "prMergeRate": 10,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 14,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 41,
+    "comments": 43,
     "commitAdditions": 228,
     "commitDeletions": 8,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 15
   },
   "period": {
     "weekly": {
-      "prs": 19,
-      "issues": 1,
-      "reviews": 14,
-      "comments": 41,
+      "prs": 11,
+      "issues": 0,
+      "reviews": 11,
+      "comments": 26,
       "commitAdditions": 228,
       "commitDeletions": 8,
       "commits": 3
     },
     "monthly": {
-      "prs": 19,
+      "prs": 21,
       "issues": 1,
       "reviews": 14,
-      "comments": 41,
+      "comments": 43,
       "commitAdditions": 228,
       "commitDeletions": 8,
       "commits": 3
     }
   },
   "firstContribution": "2026-03-08T00:13:03Z",
-  "lastContribution": "2026-03-11T19:43:48Z",
+  "lastContribution": "2026-03-14T20:25:44Z",
   "recentPRs": [
+    {
+      "number": 46555,
+      "title": "fix(gateway): handle opaque origins for custom URL schemes in allowedOrigins",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T20:25:44Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 46536,
+      "title": "feat(onboard): run preflight checks after setup completes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T19:44:17Z",
+      "mergedAt": null,
+      "additions": 445,
+      "deletions": 1,
+      "changedFiles": 5
+    },
     {
       "number": 43399,
       "title": "fix(cli-runner): validate session ID format in pickSessionId",
@@ -167,7 +187,7 @@
     {
       "number": 39367,
       "title": "fix(agents): filter internal tool-failure reasoning from subagent output",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T02:04:32Z",
       "mergedAt": null,
@@ -250,17 +270,6 @@
       "mergedAt": null,
       "additions": 2,
       "deletions": 2,
-      "changedFiles": 1
-    },
-    {
-      "number": 39276,
-      "title": "fix(synology-chat): use nullish coalescing for SYNOLOGY_RATE_LIMIT=0",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T00:13:03Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 1,
       "changedFiles": 1
     }
   ],
@@ -345,6 +354,33 @@
       "createdAt": "2026-03-08T00:54:19Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-09": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 11,
+      "issues": 1,
+      "reviews": 3
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -377,27 +413,5 @@
   "recentCommitDays": {
     "2026-03-10": 1,
     "2026-03-08": 2
-  },
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 6
-    },
-    "2026-03-10": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 5
-    },
-    "2026-03-09": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 11,
-      "issues": 1,
-      "reviews": 3
-    }
   }
 }

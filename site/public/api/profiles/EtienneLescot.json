@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/215859519?v=4",
   "githubUrl": "https://github.com/EtienneLescot",
   "score": {
-    "score": 34.83,
-    "prScore": 31.83,
+    "score": 44.12,
+    "prScore": 41.12,
     "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 171,
+    "prAdditions": 234,
     "prDeletions": 2,
-    "prChangedFiles": 7,
+    "prChangedFiles": 8,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
       "reviews": 1,
       "comments": 0,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-04T10:25:55Z",
-  "lastContribution": "2026-03-04T13:23:51Z",
+  "lastContribution": "2026-03-13T15:00:19Z",
   "recentPRs": [
+    {
+      "number": 45214,
+      "title": "docs: add n8n-as-code community plugin listing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T15:00:19Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 34467,
       "title": "fix(plugins): skip integrity drift check when updating to a new version",
@@ -61,7 +70,7 @@
       "merged": false,
       "createdAt": "2026-03-04T13:23:51Z",
       "mergedAt": null,
-      "additions": 142,
+      "additions": 200,
       "deletions": 2,
       "changedFiles": 4
     },
@@ -96,17 +105,22 @@
       "createdAt": "2026-03-04T10:36:50Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-04": {
       "prs": 3,
       "issues": 0,
       "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

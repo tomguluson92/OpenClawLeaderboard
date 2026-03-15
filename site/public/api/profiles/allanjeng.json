@@ -27,14 +27,12 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -51,8 +49,8 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-27T11:30:37Z",
-  "lastContribution": "2026-03-05T02:07:09Z",
+  "firstContribution": "2026-03-04T06:29:16Z",
+  "lastContribution": "2026-03-12T08:32:27Z",
   "recentPRs": [
     {
       "number": 35224,
@@ -68,42 +66,42 @@
   ],
   "recentIssues": [
     {
+      "number": 43854,
+      "title": "compaction.model config not passed through safeguard compaction path",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T08:32:27Z",
+      "closedAt": null
+    },
+    {
       "number": 34054,
       "title": "ACP gateway should always call runtime.close() for completed oneshot sessions",
       "state": "OPEN",
       "createdAt": "2026-03-04T06:29:16Z",
       "closedAt": null
-    },
-    {
-      "number": 28636,
-      "title": "message:sent / message:received hook events never emitted (v2026.2.25)",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T11:30:37Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-04": {
+    "2026-03-12": {
       "prs": 0,
       "issues": 1,
       "reviews": 0
     },
-    "2026-02-27": {
+    "2026-03-04": {
       "prs": 0,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -3,61 +3,81 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4665758?u=ffad0fdaebbe9d0d4ffa0018b2d2553deb877a13&v=4",
   "githubUrl": "https://github.com/asyncjason",
   "score": {
-    "score": 85.98,
-    "prScore": 45.48,
-    "issueScore": 23,
+    "score": 104.11,
+    "prScore": 56.61,
+    "issueScore": 31,
     "reviewScore": 9,
-    "commentScore": 8.5
+    "commentScore": 7.5
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
-    "prsMerged": 1,
-    "prAdditions": 643,
-    "prDeletions": 27,
-    "prChangedFiles": 11,
-    "prMergeRate": 33,
-    "issues": 4,
-    "issuesClosed": 1,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 553,
+    "prDeletions": 23,
+    "prChangedFiles": 15,
+    "prMergeRate": 0,
+    "issues": 5,
+    "issuesClosed": 2,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 17,
+    "comments": 15,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 2,
+      "prs": 4,
+      "issues": 3,
       "reviews": 3,
-      "comments": 11,
+      "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
-      "issues": 4,
+      "prs": 4,
+      "issues": 5,
       "reviews": 3,
-      "comments": 17,
+      "comments": 15,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T18:46:07Z",
-  "lastContribution": "2026-03-09T23:23:22Z",
+  "firstContribution": "2026-03-04T05:08:42Z",
+  "lastContribution": "2026-03-15T04:54:35Z",
   "recentPRs": [
+    {
+      "number": 46889,
+      "title": "feat: make compaction timeout configurable via agents.defaults.compaction.timeoutSeconds",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:54:35Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 5,
+      "changedFiles": 6
+    },
+    {
+      "number": 44865,
+      "title": "fix(ui): send token/password auth in Control UI insecure contexts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T08:27:30Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 3,
+      "changedFiles": 2
+    },
     {
       "number": 41506,
       "title": "fix(web): resolve account-level ackReaction and allowFrom in group gating",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T23:03:18Z",
       "mergedAt": null,
@@ -75,20 +95,16 @@
       "additions": 63,
       "deletions": 14,
       "changedFiles": 2
-    },
-    {
-      "number": 32080,
-      "title": "fix(tools): strip xAI-unsupported JSON Schema keywords from tool definitions",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T19:19:33Z",
-      "mergedAt": "2026-03-02T20:37:07Z",
-      "additions": 221,
-      "deletions": 12,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [
+    {
+      "number": 44864,
+      "title": "[Bug]: Control UI fails to authenticate over plain HTTP (insecure context)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-13T08:26:58Z",
+      "closedAt": "2026-03-13T16:11:52Z"
+    },
     {
       "number": 41505,
       "title": "[Bug]: WhatsApp multi-account ackReaction and allowFrom ignore account-level overrides",
@@ -105,14 +121,14 @@
     },
     {
       "number": 33974,
-      "title": "[Bug]: WhatsApp group config changes (requireMention, group policy) silently ignored until channel restart \u2014 on-message handler holds stale config reference",
+      "title": "[Bug]: WhatsApp group config changes (requireMention, group policy) silently ignored until channel restart — on-message handler holds stale config reference",
       "state": "OPEN",
       "createdAt": "2026-03-04T05:18:31Z",
       "closedAt": null
     },
     {
       "number": 33961,
-      "title": "[Bug]: WhatsApp QR pairing fails 100% on Baileys v7 \u2014 getStatusCode() never unwraps lastDisconnect wrapper, 515 restart path is dead code",
+      "title": "[Bug]: WhatsApp QR pairing fails 100% on Baileys v7 — getStatusCode() never unwraps lastDisconnect wrapper, 515 restart path is dead code",
       "state": "OPEN",
       "createdAt": "2026-03-04T05:08:42Z",
       "closedAt": null
@@ -135,6 +151,28 @@
       "createdAt": "2026-03-09T03:24:33Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 3
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -143,27 +181,15 @@
   ],
   "achievements": [
     {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 3
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

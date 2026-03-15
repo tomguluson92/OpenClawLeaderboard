@@ -3,57 +3,143 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7755017?v=4",
   "githubUrl": "https://github.com/hclsys",
   "score": {
-    "score": 331.84,
-    "prScore": 315.84,
+    "score": 336.06,
+    "prScore": 323.56,
     "issueScore": 0,
     "reviewScore": 9,
-    "commentScore": 7
+    "commentScore": 3.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 4,
-    "prs": 26,
-    "prsMerged": 3,
-    "prAdditions": 657,
-    "prDeletions": 268,
-    "prChangedFiles": 50,
-    "prMergeRate": 12,
+    "prs": 28,
+    "prsMerged": 0,
+    "prAdditions": 769,
+    "prDeletions": 372,
+    "prChangedFiles": 52,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 14,
+    "comments": 7,
     "commitAdditions": 134,
     "commitDeletions": 25,
-    "weeklyCommits": 0,
-    "monthlyCommits": 5,
     "commitChangedFiles": 11
   },
   "period": {
     "weekly": {
-      "prs": 19,
+      "prs": 23,
       "issues": 0,
-      "reviews": 3,
+      "reviews": 0,
       "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 26,
+      "prs": 28,
       "issues": 0,
       "reviews": 3,
-      "comments": 14,
+      "comments": 7,
       "commitAdditions": 110,
       "commitDeletions": 23,
       "commits": 4
     }
   },
-  "firstContribution": "2026-03-03T00:39:34Z",
-  "lastContribution": "2026-03-12T02:55:12Z",
+  "firstContribution": "2026-03-03T23:04:00Z",
+  "lastContribution": "2026-03-14T23:20:16Z",
   "recentPRs": [
+    {
+      "number": 46644,
+      "title": "fix(pdf): add fetch timeout to Anthropic and Gemini PDF analysis calls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T23:20:16Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 21,
+      "changedFiles": 1
+    },
+    {
+      "number": 46643,
+      "title": "fix(skills): log warning when skills are truncated due to prompt limits",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T23:20:12Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 45534,
+      "title": "fix(voice-call): add fetch timeout to Twilio API and OpenAI TTS calls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T23:40:08Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 22,
+      "changedFiles": 2
+    },
+    {
+      "number": 45177,
+      "title": "fix(agents): avoid TDZ crash on ANTHROPIC_MODEL_ALIASES during config load",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T14:19:54Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 44469,
+      "title": "fix(feishu): guard response.code checks against undefined in docx operations",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T00:11:38Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 27,
+      "changedFiles": 3
+    },
+    {
+      "number": 44466,
+      "title": "fix(talk-voice): add fetch timeout to ElevenLabs voices API call",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T00:06:41Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 44465,
+      "title": "fix(discord): add fetch timeout to voice message upload and webhook send",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T00:06:40Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 26,
+      "changedFiles": 2
+    },
+    {
+      "number": 44464,
+      "title": "fix(feishu): guard response.code checks against undefined in docx operations",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T00:06:38Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 27,
+      "changedFiles": 3
+    },
     {
       "number": 43538,
       "title": "fix(feishu): guard response.code in docx table operations",
@@ -68,7 +154,7 @@
     {
       "number": 43537,
       "title": "fix(pdf): add fetch timeout to Anthropic and Gemini PDF analysis",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T00:07:35Z",
       "mergedAt": null,
@@ -79,7 +165,7 @@
     {
       "number": 43536,
       "title": "fix(minimax-vlm): add fetch timeout to VLM image analysis request",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T00:07:29Z",
       "mergedAt": null,
@@ -123,7 +209,7 @@
     {
       "number": 42561,
       "title": "fix(voice-call): add fetch timeout to OpenAI TTS request",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T23:10:17Z",
       "mergedAt": null,
@@ -156,7 +242,7 @@
     {
       "number": 42558,
       "title": "fix(msteams): add fetch timeout to Microsoft Graph API call",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T23:07:39Z",
       "mergedAt": null,
@@ -185,94 +271,6 @@
       "additions": 18,
       "deletions": 3,
       "changedFiles": 2
-    },
-    {
-      "number": 41527,
-      "title": "fix(feishu): guard response.code checks against undefined in messaging files",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T23:30:37Z",
-      "mergedAt": null,
-      "additions": 37,
-      "deletions": 9,
-      "changedFiles": 5
-    },
-    {
-      "number": 41524,
-      "title": "fix(memory): update rebrand leftover in batch-voyage metadata",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T23:28:01Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 41523,
-      "title": "fix(memory): add voyage-4-large to VOYAGE_MAX_INPUT_TOKENS",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T23:27:27Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 37044,
-      "title": "fix(feishu): guard against undefined response.code in docx tools",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T02:45:24Z",
-      "mergedAt": null,
-      "additions": 38,
-      "deletions": 32,
-      "changedFiles": 4
-    },
-    {
-      "number": 37043,
-      "title": "fix(feishu): guard against undefined response.code in bitable, chat, and perm tools",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T02:44:03Z",
-      "mergedAt": null,
-      "additions": 8,
-      "deletions": 8,
-      "changedFiles": 3
-    },
-    {
-      "number": 37041,
-      "title": "fix(feishu): guard against undefined response.code in drive and wiki tools",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T02:41:10Z",
-      "mergedAt": null,
-      "additions": 13,
-      "deletions": 13,
-      "changedFiles": 2
-    },
-    {
-      "number": 37018,
-      "title": "fix(feishu): guard against undefined response.code in SDK v1.30+ success responses",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T02:07:45Z",
-      "mergedAt": null,
-      "additions": 37,
-      "deletions": 9,
-      "changedFiles": 5
-    },
-    {
-      "number": 34444,
-      "title": "fix(media): reject empty and null-literal response bodies in fetchRemoteMedia",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T12:57:10Z",
-      "mergedAt": null,
-      "additions": 30,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -293,26 +291,17 @@
       "createdAt": "2026-03-06T03:11:11Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-03": 3,
-    "2026-02-24": 1,
-    "2026-02-02": 1,
-    "2026-02-01": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 3,
       "issues": 0,
@@ -343,5 +332,24 @@
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-03": 3,
+    "2026-02-24": 1,
+    "2026-02-02": 1,
+    "2026-02-01": 1
   }
 }

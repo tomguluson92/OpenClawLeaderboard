@@ -1,0 +1,166 @@
+{
+  "username": "neofusheng",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264767329?v=4",
+  "githubUrl": "https://github.com/neofusheng",
+  "score": {
+    "score": 56.62,
+    "prScore": 7.62,
+    "issueScore": 43,
+    "reviewScore": 0,
+    "commentScore": 6
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 7,
+    "prDeletions": 0,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 8,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 12,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 11,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 8,
+      "reviews": 0,
+      "comments": 12,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T02:25:57Z",
+  "lastContribution": "2026-03-14T03:31:22Z",
+  "recentPRs": [
+    {
+      "number": 45156,
+      "title": "feat: add sanwan.ai to showcase — AI-operated website running 34+ days",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T14:01:09Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 44212,
+      "title": "[Feature]: Shared workspace files / inheritance for multi-agent setups (USER.md, AGENTS.md, HEARTBEAT.md)",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T16:11:40Z",
+      "closedAt": null
+    },
+    {
+      "number": 39053,
+      "title": "Feature Request: Workspace file inheritance for sub-agents (fallback to parent agent)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-07T17:37:26Z",
+      "closedAt": "2026-03-07T18:11:28Z"
+    },
+    {
+      "number": 37314,
+      "title": "Bug: Thinking blocks not dropped when switching from Claude to non-Anthropic providers (Gemini, GPT, etc.)",
+      "state": "OPEN",
+      "createdAt": "2026-03-06T06:45:53Z",
+      "closedAt": null
+    },
+    {
+      "number": 35253,
+      "title": "Bug: Feishu cross-app open_id causes silent message delivery failure (no user-facing error)",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T02:32:30Z",
+      "closedAt": null
+    },
+    {
+      "number": 35252,
+      "title": "Bug: YAML skill name as bare number causes TypeError in skill discovery (name.startsWith is not a function)",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T02:32:28Z",
+      "closedAt": null
+    },
+    {
+      "number": 35251,
+      "title": "Bug: Queued messages expose raw metadata (sender_id, message_id) to LLM when session history is empty",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T02:32:27Z",
+      "closedAt": null
+    },
+    {
+      "number": 35250,
+      "title": "Bug: Delivery queue messages retry infinitely with no expiry or dead-letter mechanism",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T02:32:25Z",
+      "closedAt": null
+    },
+    {
+      "number": 35244,
+      "title": "Bug: Session compaction leaks tool call arguments into conversation text",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T02:25:57Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 5,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {}
+}

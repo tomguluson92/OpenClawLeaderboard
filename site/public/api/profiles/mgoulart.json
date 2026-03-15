@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1581297?u=bd37348ce01f389c0f95d11d3421f6b869fecba8&v=4",
   "githubUrl": "https://github.com/mgoulart",
   "score": {
-    "score": 51.91,
+    "score": 48.91,
     "prScore": 24.41,
     "issueScore": 8,
     "reviewScore": 0,
-    "commentScore": 19.5
+    "commentScore": 16.5
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
@@ -24,19 +24,17 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 39,
+    "comments": 33,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 39,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,7 +43,7 @@
       "prs": 3,
       "issues": 1,
       "reviews": 0,
-      "comments": 39,
+      "comments": 33,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -98,6 +96,18 @@
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
@@ -110,17 +120,5 @@
       "description": "20+ comments"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

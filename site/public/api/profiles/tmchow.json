@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/517103?v=4",
   "githubUrl": "https://github.com/tmchow",
   "score": {
-    "score": 29.73,
+    "score": 24.73,
     "prScore": 24.73,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 3,
     "prs": 0,
@@ -19,7 +19,7 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 209,
     "commitDeletions": 13,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 6
   },
   "period": {
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 0,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -51,32 +49,17 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T09:07:42Z",
-  "lastContribution": "2026-03-02T09:07:42Z",
+  "firstContribution": null,
+  "lastContribution": null,
   "recentPRs": [],
-  "recentIssues": [
-    {
-      "number": 31510,
-      "title": "`openclaw agents list` should expose tool deny / sandbox status",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T09:07:42Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Issue Reporting",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-02-09": 3
-  },
-  "recentActivityDays": {
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

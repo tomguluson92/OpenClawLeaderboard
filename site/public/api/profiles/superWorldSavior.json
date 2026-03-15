@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/20945750?u=c4d1925f733e7eed8a9bfc90d5ac3518c7e73445&v=4",
   "githubUrl": "https://github.com/superWorldSavior",
   "score": {
-    "score": 151.46,
-    "prScore": 131.46,
+    "score": 35.83,
+    "prScore": 30.83,
     "issueScore": 5,
-    "reviewScore": 15,
+    "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Reviewer",
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1479,
-    "prDeletions": 98,
-    "prChangedFiles": 52,
+    "prAdditions": 399,
+    "prDeletions": 50,
+    "prChangedFiles": 13,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 4,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 1,
-      "reviews": 5,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T03:37:38Z",
+  "firstContribution": "2026-03-07T02:08:18Z",
   "lastContribution": "2026-03-07T18:51:41Z",
   "recentPRs": [
     {
@@ -64,28 +62,6 @@
       "additions": 399,
       "deletions": 50,
       "changedFiles": 13
-    },
-    {
-      "number": 33924,
-      "title": "WhatsApp: separate outbound allowSendTo from inbound allowFrom",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T04:31:05Z",
-      "mergedAt": null,
-      "additions": 324,
-      "deletions": 28,
-      "changedFiles": 22
-    },
-    {
-      "number": 33858,
-      "title": "WhatsApp: separate outbound allowSendTo from inbound allowFrom",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T03:37:38Z",
-      "mergedAt": null,
-      "additions": 756,
-      "deletions": 20,
-      "changedFiles": 17
     }
   ],
   "recentIssues": [
@@ -97,61 +73,18 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [
-    {
-      "prNumber": 33924,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T02:11:28Z"
-    },
-    {
-      "prNumber": 33924,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T02:11:27Z"
-    },
-    {
-      "prNumber": 33924,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T07:34:23Z"
-    },
-    {
-      "prNumber": 33924,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T07:34:14Z"
-    },
-    {
-      "prNumber": 33858,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T04:09:30Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
       "issues": 1,
-      "reviews": 2
-    },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-05": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
+      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

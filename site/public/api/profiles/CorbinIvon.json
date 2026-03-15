@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/20233488?u=e8bdad7dd6ce8fadc72001782aaa660388356947&v=4",
   "githubUrl": "https://github.com/CorbinIvon",
   "score": {
-    "score": 15.98,
-    "prScore": 8.98,
-    "issueScore": 5,
-    "reviewScore": 0,
-    "commentScore": 2
+    "score": 38.08,
+    "prScore": 21.08,
+    "issueScore": 8,
+    "reviewScore": 6,
+    "commentScore": 3
   },
   "tier": "beginner",
   "characterClass": "Contributor",
@@ -15,28 +15,26 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 4,
-    "prDeletions": 4,
-    "prChangedFiles": 3,
+    "prAdditions": 18,
+    "prDeletions": 18,
+    "prChangedFiles": 13,
     "prMergeRate": 0,
     "issues": 1,
-    "issuesClosed": 0,
-    "reviews": 0,
+    "issuesClosed": 1,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 1,
-      "reviews": 0,
-      "comments": 4,
+      "reviews": 2,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -44,50 +42,73 @@
     "monthly": {
       "prs": 1,
       "issues": 1,
-      "reviews": 0,
-      "comments": 4,
+      "reviews": 2,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-10T19:20:48Z",
-  "lastContribution": "2026-03-11T03:54:39Z",
+  "lastContribution": "2026-03-13T05:36:17Z",
   "recentPRs": [
     {
       "number": 42465,
       "title": "docs(gateway): update UI navigation path for token and password settings",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T19:24:45Z",
       "mergedAt": null,
-      "additions": 4,
-      "deletions": 4,
-      "changedFiles": 3
+      "additions": 18,
+      "deletions": 18,
+      "changedFiles": 13
     }
   ],
   "recentIssues": [
     {
       "number": 42463,
       "title": "[Bug]: Control UI settings is obscure.",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-10T19:20:48Z",
-      "closedAt": null
+      "closedAt": "2026-03-13T05:36:17Z"
     }
   ],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+  "recentReviews": [
+    {
+      "prNumber": 42465,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T05:11:58Z"
+    },
+    {
+      "prNumber": 42465,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T03:58:45Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

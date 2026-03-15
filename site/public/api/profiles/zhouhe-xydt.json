@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/265407618?v=4",
   "githubUrl": "https://github.com/zhouhe-xydt",
   "score": {
-    "score": 193.88,
-    "prScore": 185.38,
+    "score": 163.38,
+    "prScore": 154.88,
     "issueScore": 5,
     "reviewScore": 3,
     "commentScore": 0.5
@@ -13,12 +13,12 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 12,
-    "prsMerged": 1,
-    "prAdditions": 1698,
-    "prDeletions": 296,
-    "prChangedFiles": 38,
-    "prMergeRate": 8,
+    "prs": 9,
+    "prsMerged": 0,
+    "prAdditions": 1210,
+    "prDeletions": 202,
+    "prChangedFiles": 37,
+    "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 1,
@@ -27,22 +27,20 @@
     "comments": 1,
     "commitAdditions": 56,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 5
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 6,
       "issues": 1,
       "reviews": 0,
       "comments": 1,
-      "commitAdditions": 56,
+      "commitAdditions": 0,
       "commitDeletions": 0,
-      "commits": 1
+      "commits": 0
     },
     "monthly": {
-      "prs": 12,
+      "prs": 9,
       "issues": 1,
       "reviews": 1,
       "comments": 1,
@@ -51,9 +49,31 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T02:16:49Z",
-  "lastContribution": "2026-03-11T11:55:19Z",
+  "firstContribution": "2026-03-04T08:52:07Z",
+  "lastContribution": "2026-03-13T03:32:37Z",
   "recentPRs": [
+    {
+      "number": 44609,
+      "title": "tools: add ssrfPolicy for web_fetch (TUN/proxy fake-IP support)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T03:32:37Z",
+      "mergedAt": null,
+      "additions": 95,
+      "deletions": 2,
+      "changedFiles": 9
+    },
+    {
+      "number": 44606,
+      "title": "tools: add ssrfPolicy for web_fetch (TUN/proxy fake-IP support)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T03:29:18Z",
+      "mergedAt": null,
+      "additions": 95,
+      "deletions": 2,
+      "changedFiles": 9
+    },
     {
       "number": 43155,
       "title": "UI/Chat: show full command in sidebar when clicking tool cards",
@@ -68,7 +88,7 @@
     {
       "number": 42706,
       "title": "cron: Run manual \"Run Now\" directly instead of via enqueue",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T02:49:35Z",
       "mergedAt": null,
@@ -79,7 +99,7 @@
     {
       "number": 41921,
       "title": "fix: subagent uses target agent workspace when configured (fixes #41695)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T08:03:38Z",
       "mergedAt": null,
@@ -89,7 +109,7 @@
     },
     {
       "number": 40762,
-      "title": "fix(ui): normalize primitive+object unions in config form analyzer \u2014 matches the commit message, clear and conventional.",
+      "title": "fix(ui): normalize primitive+object unions in config form analyzer — matches the commit message, clear and conventional.",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-09T08:09:49Z",
@@ -123,68 +143,13 @@
     {
       "number": 34199,
       "title": "Feishu: buffer and send blocks on onIdle when streaming-card unavailable (#34093)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-04T08:52:07Z",
       "mergedAt": null,
       "additions": 98,
       "deletions": 8,
       "changedFiles": 2
-    },
-    {
-      "number": 33839,
-      "title": "Heartbeat: add notify targets from HEARTBEAT.md for alert delivery (#33828)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T03:16:14Z",
-      "mergedAt": null,
-      "additions": 382,
-      "deletions": 5,
-      "changedFiles": 4
-    },
-    {
-      "number": 33825,
-      "title": "heartbeat: add jitter to stagger first trigger across agents",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T02:55:42Z",
-      "mergedAt": null,
-      "additions": 98,
-      "deletions": 3,
-      "changedFiles": 5
-    },
-    {
-      "number": 33813,
-      "title": "Fix failover for zhipuai 1310 Weekly/Monthly Limit Exhausted",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T02:47:03Z",
-      "mergedAt": "2026-03-06T09:04:09Z",
-      "additions": 56,
-      "deletions": 0,
-      "changedFiles": 5
-    },
-    {
-      "number": 33790,
-      "title": "fix: auto-create memory directory in workspace",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T02:32:05Z",
-      "mergedAt": null,
-      "additions": 34,
-      "deletions": 27,
-      "changedFiles": 1
-    },
-    {
-      "number": 33778,
-      "title": "fix(line): prefer caller cfg in send helpers, forward from extension outbound",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T02:16:49Z",
-      "mergedAt": null,
-      "additions": 108,
-      "deletions": 63,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [
@@ -203,28 +168,12 @@
       "createdAt": "2026-03-04T10:21:24Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-06": 1
-  },
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 2,
       "issues": 1,
@@ -241,9 +190,25 @@
       "reviews": 0
     },
     "2026-03-04": {
-      "prs": 8,
+      "prs": 3,
       "issues": 0,
       "reviews": 1
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-06": 1
   }
 }

@@ -27,14 +27,12 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -56,7 +54,7 @@
   "recentPRs": [
     {
       "number": 37745,
-      "title": "fix(discord): prevent channel reconnect timeout from triggering gatew\u2026",
+      "title": "fix(discord): prevent channel reconnect timeout from triggering gatew…",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-06T11:56:28Z",
@@ -76,17 +74,17 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

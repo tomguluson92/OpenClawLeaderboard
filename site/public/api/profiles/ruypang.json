@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/46941315?u=eaba8049ae988ab2a5ba99ae5387d0750e327bd2&v=4",
   "githubUrl": "https://github.com/ruypang",
   "score": {
-    "score": 110.14,
-    "prScore": 106.64,
+    "score": 86.27,
+    "prScore": 83.77,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3.5
+    "commentScore": 2.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 570,
-    "prDeletions": 117,
-    "prChangedFiles": 32,
+    "prAdditions": 434,
+    "prDeletions": 99,
+    "prChangedFiles": 25,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 5,
     "commitAdditions": 228,
     "commitDeletions": 3,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
+      "comments": 5,
       "commitAdditions": 228,
       "commitDeletions": 3,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T06:00:12Z",
+  "firstContribution": "2026-03-04T23:24:08Z",
   "lastContribution": "2026-03-11T16:18:37Z",
   "recentPRs": [
     {
@@ -97,29 +95,10 @@
       "additions": 59,
       "deletions": 44,
       "changedFiles": 2
-    },
-    {
-      "number": 34018,
-      "title": "chore: bump openclaw peer dep minimum to 2026.3.2",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T06:00:12Z",
-      "mergedAt": null,
-      "additions": 136,
-      "deletions": 18,
-      "changedFiles": 7
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-02-22": 1
-  },
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
@@ -137,9 +116,17 @@
       "reviews": 0
     },
     "2026-03-04": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-22": 1
   }
 }

@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -57,7 +55,7 @@
   "recentIssues": [
     {
       "number": 35246,
-      "title": "[Feature]: openclaw sessions switch-model \u2014 bulk-update model across sessions",
+      "title": "[Feature]: openclaw sessions switch-model — bulk-update model across sessions",
       "state": "OPEN",
       "createdAt": "2026-03-05T02:29:26Z",
       "closedAt": null
@@ -70,17 +68,17 @@
       "createdAt": "2026-03-05T02:59:05Z"
     }
   ],
-  "skills": [
-    "Code Review",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 0,
       "issues": 1,
       "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

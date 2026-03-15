@@ -1,10 +1,10 @@
 {
   "username": "arkyu2077",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/42494191?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42494191?u=4c930f4f99ce250da2c2b4298495660be72a446e&v=4",
   "githubUrl": "https://github.com/arkyu2077",
   "score": {
-    "score": 57.26,
-    "prScore": 57.26,
+    "score": 108.68,
+    "prScore": 108.68,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -12,13 +12,13 @@
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
-    "commits": 2,
-    "prs": 4,
-    "prsMerged": 2,
-    "prAdditions": 66,
-    "prDeletions": 8,
-    "prChangedFiles": 7,
-    "prMergeRate": 50,
+    "commits": 0,
+    "prs": 10,
+    "prsMerged": 0,
+    "prAdditions": 320,
+    "prDeletions": 22,
+    "prChangedFiles": 19,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 8,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 10,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 10,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,74 +49,150 @@
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-02T10:01:07Z",
-  "lastContribution": "2026-03-03T19:38:48Z",
+  "firstContribution": "2026-03-12T19:16:51Z",
+  "lastContribution": "2026-03-14T02:21:33Z",
   "recentPRs": [
     {
-      "number": 33423,
-      "title": "fix(cron): ensure nextRunAtMs is always after lastRunAtMs for cron jobs",
+      "number": 45646,
+      "title": "fix(telegram): use callback message_id as callback message override",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-03T19:38:48Z",
+      "createdAt": "2026-03-14T02:21:33Z",
       "mergedAt": null,
-      "additions": 49,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 44809,
+      "title": "fix(doctor): avoid false cron payload-kind normalization warnings",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T07:24:59Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 44731,
+      "title": "fix(update): hide Windows restart helper console windows",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T06:18:04Z",
+      "mergedAt": null,
+      "additions": 3,
       "deletions": 0,
       "changedFiles": 2
     },
     {
-      "number": 31580,
-      "title": "fix(feishu): skip typing indicator keepalive re-adds to prevent notification spam",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T10:24:23Z",
-      "mergedAt": "2026-03-03T01:11:47Z",
-      "additions": 7,
-      "deletions": 0,
+      "number": 44701,
+      "title": "fix(docker-setup): allow OPENCLAW_CONFIG_DIR paths with spaces",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T05:49:48Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 3,
       "changedFiles": 2
     },
     {
-      "number": 31562,
-      "title": "fix(feishu): respect renderMode config in outbound message sends",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T10:04:10Z",
-      "mergedAt": "2026-03-03T04:41:01Z",
+      "number": 44652,
+      "title": "fix(googlechat): honor replyToMode before forcing thread replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T04:18:52Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44620,
+      "title": "fix(line): resolve account credentials before reporting configured status",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T03:43:39Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 44351,
+      "title": "fix(cron): preserve telegram direct-thread context in inferred delivery targets",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T19:49:38Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 44345,
+      "title": "fix(shared): narrow global singleton lookup after hasOwnProperty guard",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T19:31:50Z",
+      "mergedAt": null,
       "additions": 1,
-      "deletions": 0,
+      "deletions": 2,
       "changedFiles": 1
     },
     {
-      "number": 31559,
-      "title": "fix(feishu): use msg_type file for video files instead of invalid media type",
+      "number": 44341,
+      "title": "fix(telegram): use proxy-aware fetch fallback for media downloads",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-02T10:01:07Z",
+      "createdAt": "2026-03-12T19:26:05Z",
       "mergedAt": null,
-      "additions": 9,
-      "deletions": 8,
+      "additions": 33,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 44336,
+      "title": "fix(telegram): suppress exact NO_REPLY payloads in outbound adapter",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T19:16:51Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 0,
       "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Direct Commits"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-03": 2
-  },
   "recentActivityDays": {
-    "2026-03-03": {
+    "2026-03-14": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-02": {
-      "prs": 3,
+    "2026-03-13": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 4,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-03": 2
   }
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/11081409?u=35c58c2c4b7c862b4b96ac6c98da0ff19beae695&v=4",
   "githubUrl": "https://github.com/Jackson3195",
   "score": {
-    "score": 152.05,
-    "prScore": 152.05,
+    "score": 165.7,
+    "prScore": 165.7,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 4483,
-    "prDeletions": 5445,
-    "prChangedFiles": 82,
+    "prAdditions": 7268,
+    "prDeletions": 8199,
+    "prChangedFiles": 126,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-08T21:37:18Z",
-  "lastContribution": "2026-03-09T00:03:31Z",
+  "lastContribution": "2026-03-12T19:27:35Z",
   "recentPRs": [
+    {
+      "number": 44342,
+      "title": "feat(passive-monitor): add DB-backed deduplication for detections",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T19:27:35Z",
+      "mergedAt": null,
+      "additions": 2785,
+      "deletions": 2754,
+      "changedFiles": 44
+    },
     {
       "number": 40376,
       "title": "Merge upstream v2026.3.7 stable release",
@@ -79,13 +88,12 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Large-Scale Changes"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
@@ -96,5 +104,11 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

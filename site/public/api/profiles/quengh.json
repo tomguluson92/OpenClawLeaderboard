@@ -3,65 +3,74 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3940773?v=4",
   "githubUrl": "https://github.com/quengh",
   "score": {
-    "score": 25.83,
-    "prScore": 24.33,
+    "score": 46.52,
+    "prScore": 43.52,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 3
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 280,
-    "prDeletions": 30,
-    "prChangedFiles": 6,
+    "prAdditions": 487,
+    "prDeletions": 33,
+    "prChangedFiles": 12,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-04T16:25:24Z",
-  "lastContribution": "2026-03-08T16:30:14Z",
+  "lastContribution": "2026-03-14T02:33:40Z",
   "recentPRs": [
+    {
+      "number": 44937,
+      "title": "feat(backup): add --no-include-browser option to exclude browser profile data",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T09:37:17Z",
+      "mergedAt": null,
+      "additions": 205,
+      "deletions": 3,
+      "changedFiles": 6
+    },
     {
       "number": 40062,
       "title": "feat(feishu): add groupReplyMode to prevent topic auto-collapse on multi-turn responses",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T16:30:06Z",
       "mergedAt": null,
-      "additions": 140,
+      "additions": 142,
       "deletions": 15,
       "changedFiles": 3
     },
@@ -79,13 +88,12 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
@@ -96,5 +104,11 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

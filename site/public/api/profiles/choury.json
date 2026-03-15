@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4332542?v=4",
   "githubUrl": "https://github.com/choury",
   "score": {
-    "score": 25.02,
+    "score": 24.52,
     "prScore": 10.02,
     "issueScore": 5,
     "reviewScore": 9,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Reviewer",
@@ -24,11 +24,9 @@
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -45,13 +43,13 @@
       "prs": 1,
       "issues": 1,
       "reviews": 3,
-      "comments": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-28T12:07:38Z",
+  "firstContribution": "2026-03-05T03:14:41Z",
   "lastContribution": "2026-03-05T04:09:01Z",
   "recentPRs": [
     {
@@ -92,6 +90,13 @@
       "createdAt": "2026-03-05T03:56:39Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -105,12 +110,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 3
-    }
-  }
+  "recentCommitDays": {}
 }

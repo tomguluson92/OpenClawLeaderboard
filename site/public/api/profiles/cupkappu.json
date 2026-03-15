@@ -1,0 +1,91 @@
+{
+  "username": "cupkappu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53819460?u=f5c1d23bc67e3836a125ab0d866596631998b8fb&v=4",
+  "githubUrl": "https://github.com/cupkappu",
+  "score": {
+    "score": 22.3,
+    "prScore": 16.3,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 167,
+    "prDeletions": 7,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T06:41:51Z",
+  "lastContribution": "2026-03-14T17:58:29Z",
+  "recentPRs": [
+    {
+      "number": 45830,
+      "title": "fix(cron): snapshot origin delivery context for isolated jobs with channel \"last\"",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T07:17:10Z",
+      "mergedAt": null,
+      "additions": 167,
+      "deletions": 7,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45806,
+      "title": "[Bug]: Cron job with delivery.channel \"last\" resolves to @heartbeat instead of actual Telegram chat",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T06:41:51Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

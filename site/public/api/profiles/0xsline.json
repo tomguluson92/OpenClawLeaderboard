@@ -3,57 +3,132 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/151105947?u=12be32400cffcc18f3b8800aa983878a16aea351&v=4",
   "githubUrl": "https://github.com/0xsline",
   "score": {
-    "score": 244.78,
-    "prScore": 140.28,
+    "score": 317.08,
+    "prScore": 205.08,
     "issueScore": 0,
-    "reviewScore": 96,
-    "commentScore": 8.5
+    "reviewScore": 99,
+    "commentScore": 13
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 10,
+    "prs": 14,
     "prsMerged": 3,
-    "prAdditions": 890,
-    "prDeletions": 127,
-    "prChangedFiles": 23,
-    "prMergeRate": 30,
+    "prAdditions": 1277,
+    "prDeletions": 281,
+    "prChangedFiles": 38,
+    "prMergeRate": 21,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 32,
+    "reviews": 33,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 17,
+    "comments": 26,
     "commitAdditions": 118,
     "commitDeletions": 9,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 6
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 8,
       "issues": 0,
-      "reviews": 31,
-      "comments": 15,
+      "reviews": 17,
+      "comments": 20,
       "commitAdditions": 23,
       "commitDeletions": 4,
       "commits": 1
     },
     "monthly": {
-      "prs": 10,
+      "prs": 14,
       "issues": 0,
-      "reviews": 32,
-      "comments": 17,
+      "reviews": 33,
+      "comments": 26,
       "commitAdditions": 118,
       "commitDeletions": 9,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-03T19:46:09Z",
-  "lastContribution": "2026-03-11T19:47:00Z",
+  "firstContribution": "2026-03-04T09:03:49Z",
+  "lastContribution": "2026-03-14T18:17:17Z",
   "recentPRs": [
+    {
+      "number": 46455,
+      "title": "fix(message): strip auto-populated poll and components params on send",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T17:47:12Z",
+      "mergedAt": null,
+      "additions": 222,
+      "deletions": 81,
+      "changedFiles": 5
+    },
+    {
+      "number": 46452,
+      "title": "fix(message): strip auto-populated poll and components params on send",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T17:43:53Z",
+      "mergedAt": null,
+      "additions": 184,
+      "deletions": 73,
+      "changedFiles": 5
+    },
+    {
+      "number": 44501,
+      "title": "fix: keep OpenAI transport auto when baseUrl is unset",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T01:14:09Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44412,
+      "title": "fix(cron): harden telegram direct-thread delivery inference",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T22:17:33Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 44407,
+      "title": "test(telegram): keep resolveTelegramFetch mock default after reset",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T22:12:38Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43770,
+      "title": "fix(config): use passthrough for plugin entry schema to accept provider-specific keys",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T06:55:57Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43723,
+      "title": "fix(plugins): suppress provenance warning for plugins in plugins.allow",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T05:50:44Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 40815,
       "title": "fix(browser): avoid restart guidance for attachOnly timeout",
@@ -79,7 +154,7 @@
     {
       "number": 35873,
       "title": "fix(bluebubbles): guard against null text in debounce flush",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T09:48:49Z",
       "mergedAt": null,
@@ -101,7 +176,7 @@
     {
       "number": 34390,
       "title": "fix(whatsapp): use fresh config per-message instead of stale handler-creation snapshot",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-04T12:01:46Z",
       "mergedAt": null,
@@ -130,43 +205,15 @@
       "additions": 24,
       "deletions": 2,
       "changedFiles": 2
-    },
-    {
-      "number": 34176,
-      "title": "fix(agents): skip tool-call id sanitization for custom-ollama-com",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T08:38:49Z",
-      "mergedAt": null,
-      "additions": 20,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 33446,
-      "title": "fix(plugins): add keyed-async-queue jiti alias for extension loading",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T20:12:52Z",
-      "mergedAt": null,
-      "additions": 0,
-      "deletions": 0,
-      "changedFiles": 0
-    },
-    {
-      "number": 33426,
-      "title": "fix(gateway): force local mode during gateway install",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T19:46:09Z",
-      "mergedAt": null,
-      "additions": 166,
-      "deletions": 4,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 43965,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T11:18:42Z"
+    },
     {
       "prNumber": 43345,
       "state": "COMMENTED",
@@ -261,13 +308,55 @@
       "prNumber": 38736,
       "state": "COMMENTED",
       "createdAt": "2026-03-07T22:45:17Z"
-    },
-    {
-      "prNumber": 39100,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T19:15:31Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 13
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 9
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -283,47 +372,15 @@
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
     }
   ],
   "recentCommitDays": {
     "2026-03-10": 1,
     "2026-03-05": 1
-  },
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 7
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 9
-    }
   }
 }

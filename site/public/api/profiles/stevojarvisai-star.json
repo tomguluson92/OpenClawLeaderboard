@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -56,7 +54,7 @@
   "recentPRs": [
     {
       "number": 39870,
-      "title": "docs(security): add Security Model Explained \u2014 addresses TypeScript/IronClaw narrative",
+      "title": "docs(security): add Security Model Explained — addresses TypeScript/IronClaw narrative",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-08T13:24:10Z",
@@ -69,7 +67,7 @@
   "recentIssues": [
     {
       "number": 39885,
-      "title": "feat: native session memory/persistence \u2014 kill the QMD workaround dependency",
+      "title": "feat: native session memory/persistence — kill the QMD workaround dependency",
       "state": "OPEN",
       "createdAt": "2026-03-08T13:39:58Z",
       "closedAt": null
@@ -83,17 +81,17 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 1,
       "issues": 2,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

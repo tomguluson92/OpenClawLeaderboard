@@ -3,37 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/210470990?v=4",
   "githubUrl": "https://github.com/Kay-051",
   "score": {
-    "score": 170.08,
-    "prScore": 168.08,
+    "score": 115.74,
+    "prScore": 115.74,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 12,
-    "prsMerged": 1,
-    "prAdditions": 1163,
-    "prDeletions": 60,
-    "prChangedFiles": 24,
-    "prMergeRate": 8,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 534,
+    "prDeletions": 24,
+    "prChangedFiles": 16,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 0,
     "commitAdditions": 311,
     "commitDeletions": 9,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 6
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 12,
+      "prs": 8,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
+      "comments": 0,
       "commitAdditions": 311,
       "commitDeletions": 9,
       "commits": 3
     }
   },
-  "firstContribution": "2026-03-02T02:47:44Z",
+  "firstContribution": "2026-03-06T02:46:17Z",
   "lastContribution": "2026-03-06T05:53:17Z",
   "recentPRs": [
     {
@@ -141,85 +139,24 @@
       "additions": 10,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 33973,
-      "title": "fix(heartbeat): trim whitespace from activeHours time strings",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T05:16:15Z",
-      "mergedAt": null,
-      "additions": 20,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 33954,
-      "title": "fix(discord): preserve HTTP status in probe result when JSON parsing fails",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T05:04:49Z",
-      "mergedAt": null,
-      "additions": 90,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 31838,
-      "title": "fix(slack): use users.info for ID-based allowlist lookups to avoid rate-limit loop",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-02T15:25:16Z",
-      "mergedAt": null,
-      "additions": 339,
-      "deletions": 26,
-      "changedFiles": 2
-    },
-    {
-      "number": 31837,
-      "title": "fix(telegram): preserve original filename for inbound document/audio/video",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T15:24:42Z",
-      "mergedAt": "2026-03-02T20:36:39Z",
-      "additions": 180,
-      "deletions": 6,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-02": 2,
-    "2026-02-23": 1
-  },
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 8,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 2,
+    "2026-02-23": 1
   }
 }

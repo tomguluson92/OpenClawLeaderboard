@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/51314472?u=2720828fc515e93e6372b76c7a93ceb53e791dad&v=4",
   "githubUrl": "https://github.com/p697",
   "score": {
-    "score": 30.54,
-    "prScore": 30.54,
+    "score": 8.49,
+    "prScore": 8.49,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 85,
-    "prDeletions": 8,
-    "prChangedFiles": 7,
+    "prAdditions": 8,
+    "prDeletions": 3,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T13:06:43Z",
+  "firstContribution": "2026-03-07T01:38:26Z",
   "lastContribution": "2026-03-07T01:38:26Z",
   "recentPRs": [
     {
@@ -64,52 +62,20 @@
       "additions": 8,
       "deletions": 3,
       "changedFiles": 2
-    },
-    {
-      "number": 32614,
-      "title": "fix: add cooldown to prevent pre-compaction memory flush loop",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T05:51:59Z",
-      "mergedAt": null,
-      "additions": 35,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 31698,
-      "title": "feat(agents): support emoji field in agents.update",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-02T13:06:43Z",
-      "mergedAt": null,
-      "additions": 42,
-      "deletions": 2,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

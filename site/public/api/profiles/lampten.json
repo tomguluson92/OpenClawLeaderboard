@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/50524710?u=11b4b649b451bd0f849724a00930546a4749dfbd&v=4",
   "githubUrl": "https://github.com/lampten",
   "score": {
-    "score": 151.41,
-    "prScore": 124.91,
+    "score": 161.52,
+    "prScore": 128.02,
     "issueScore": 0,
-    "reviewScore": 24,
-    "commentScore": 2.5
+    "reviewScore": 30,
+    "commentScore": 3.5
   },
   "tier": "regular",
   "characterClass": "Reviewer",
@@ -15,28 +15,26 @@
     "commits": 0,
     "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 2814,
-    "prDeletions": 999,
-    "prChangedFiles": 42,
+    "prAdditions": 2977,
+    "prDeletions": 1029,
+    "prChangedFiles": 43,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 8,
+    "reviews": 10,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 7,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
-      "reviews": 8,
-      "comments": 5,
+      "reviews": 5,
+      "comments": 7,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -44,15 +42,15 @@
     "monthly": {
       "prs": 3,
       "issues": 0,
-      "reviews": 8,
-      "comments": 5,
+      "reviews": 10,
+      "comments": 7,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-08T00:13:34Z",
-  "lastContribution": "2026-03-10T11:35:11Z",
+  "lastContribution": "2026-03-14T12:02:34Z",
   "recentPRs": [
     {
       "number": 41592,
@@ -72,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-08T22:12:08Z",
       "mergedAt": null,
-      "additions": 1117,
-      "deletions": 435,
-      "changedFiles": 9
+      "additions": 1280,
+      "deletions": 465,
+      "changedFiles": 10
     },
     {
       "number": 39277,
@@ -90,6 +88,16 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 40305,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T12:02:34Z"
+    },
+    {
+      "prNumber": 40305,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:47:59Z"
+    },
     {
       "prNumber": 40305,
       "state": "COMMENTED",
@@ -131,13 +139,6 @@
       "createdAt": "2026-03-08T00:33:23Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
@@ -148,6 +149,29 @@
       "prs": 2,
       "issues": 0,
       "reviews": 8
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {}
 }

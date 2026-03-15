@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/116858071?v=4",
   "githubUrl": "https://github.com/asfarasimconcerned",
   "score": {
-    "score": 12.46,
+    "score": 17.46,
     "prScore": 12.46,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 1,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,14 +27,12 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -52,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-08T08:40:06Z",
-  "lastContribution": "2026-03-08T08:40:06Z",
+  "lastContribution": "2026-03-14T16:57:29Z",
   "recentPRs": [
     {
       "number": 39637,
@@ -66,18 +64,32 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests"
+  "recentIssues": [
+    {
+      "number": 46399,
+      "title": "[Bug]: voice_call still throws EADDRINUSE on configured webhook port with mock provider and single gateway",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T16:57:29Z",
+      "closedAt": null
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

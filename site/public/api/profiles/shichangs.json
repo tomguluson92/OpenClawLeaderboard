@@ -3,61 +3,136 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/46870204?v=4",
   "githubUrl": "https://github.com/shichangs",
   "score": {
-    "score": 254.62,
-    "prScore": 210.12,
+    "score": 356.41,
+    "prScore": 267.91,
     "issueScore": 0,
-    "reviewScore": 36,
-    "commentScore": 8.5
+    "reviewScore": 72,
+    "commentScore": 16.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 15,
     "prsMerged": 1,
-    "prAdditions": 20667,
-    "prDeletions": 797,
-    "prChangedFiles": 205,
-    "prMergeRate": 13,
+    "prAdditions": 38085,
+    "prDeletions": 2300,
+    "prChangedFiles": 418,
+    "prMergeRate": 7,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 12,
+    "reviews": 24,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 17,
+    "comments": 33,
     "commitAdditions": 2256,
     "commitDeletions": 12,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 22
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 15,
       "issues": 0,
-      "reviews": 12,
-      "comments": 17,
+      "reviews": 24,
+      "comments": 33,
       "commitAdditions": 2256,
       "commitDeletions": 12,
       "commits": 1
     },
     "monthly": {
-      "prs": 8,
+      "prs": 15,
       "issues": 0,
-      "reviews": 12,
-      "comments": 17,
+      "reviews": 24,
+      "comments": 33,
       "commitAdditions": 2256,
       "commitDeletions": 12,
       "commits": 1
     }
   },
   "firstContribution": "2026-03-08T18:40:32Z",
-  "lastContribution": "2026-03-11T19:40:46Z",
+  "lastContribution": "2026-03-14T23:06:48Z",
   "recentPRs": [
+    {
+      "number": 46502,
+      "title": "Rescue: add watchdog core service and cron engine",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T18:30:56Z",
+      "mergedAt": null,
+      "additions": 2212,
+      "deletions": 121,
+      "changedFiles": 36
+    },
+    {
+      "number": 46499,
+      "title": "Rescue: add watchdog core service and cron engine",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T18:27:17Z",
+      "mergedAt": null,
+      "additions": 1729,
+      "deletions": 75,
+      "changedFiles": 23
+    },
+    {
+      "number": 46493,
+      "title": "Daemon: harden launchd plist writes and abortable service restarts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T18:21:55Z",
+      "mergedAt": null,
+      "additions": 296,
+      "deletions": 40,
+      "changedFiles": 7
+    },
+    {
+      "number": 45373,
+      "title": "feat(browser): add Chrome DevTools MCP preset for agent sessions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T18:28:20Z",
+      "mergedAt": null,
+      "additions": 1043,
+      "deletions": 10,
+      "changedFiles": 9
+    },
+    {
+      "number": 45362,
+      "title": "Docs: explain Chrome DevTools MCP via acpx",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T18:15:53Z",
+      "mergedAt": null,
+      "additions": 154,
+      "deletions": 1055,
+      "changedFiles": 42
+    },
+    {
+      "number": 44113,
+      "title": "Onboarding: add opt-in rescue watchdog for self-healing gateway recovery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T14:24:15Z",
+      "mergedAt": null,
+      "additions": 4340,
+      "deletions": 112,
+      "changedFiles": 51
+    },
+    {
+      "number": 44111,
+      "title": "Backup: add encrypted snapshot backup flow",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T14:22:54Z",
+      "mergedAt": null,
+      "additions": 7561,
+      "deletions": 94,
+      "changedFiles": 45
+    },
     {
       "number": 41345,
       "title": "Backup: add folder-backed encrypted snapshot flow with setup/run/restore",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T18:13:28Z",
       "mergedAt": null,
@@ -68,7 +143,7 @@
     {
       "number": 41303,
       "title": "Backup: add scheduled recurring backups via Gateway cron",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T17:31:17Z",
       "mergedAt": null,
@@ -79,7 +154,7 @@
     {
       "number": 41274,
       "title": "Backup: add validated restore workflow with version selection and rollback",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T16:46:58Z",
       "mergedAt": null,
@@ -90,12 +165,12 @@
     {
       "number": 40658,
       "title": "Onboarding: add opt-in rescue watchdog for self-healing gateway recovery",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T06:01:49Z",
       "mergedAt": null,
-      "additions": 4307,
-      "deletions": 116,
+      "additions": 4390,
+      "deletions": 112,
       "changedFiles": 51
     },
     {
@@ -146,6 +221,66 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 46502,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T19:31:58Z"
+    },
+    {
+      "prNumber": 46502,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T19:08:11Z"
+    },
+    {
+      "prNumber": 46502,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T18:42:41Z"
+    },
+    {
+      "prNumber": 45362,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T06:12:36Z"
+    },
+    {
+      "prNumber": 45362,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T06:12:35Z"
+    },
+    {
+      "prNumber": 45362,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:08:35Z"
+    },
+    {
+      "prNumber": 44111,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T16:14:50Z"
+    },
+    {
+      "prNumber": 44111,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:08:21Z"
+    },
+    {
+      "prNumber": 44111,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:08:17Z"
+    },
+    {
+      "prNumber": 44111,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:08:12Z"
+    },
+    {
+      "prNumber": 44111,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:08:08Z"
+    },
+    {
+      "prNumber": 44111,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:07:45Z"
+    },
+    {
       "prNumber": 41303,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T14:43:53Z"
@@ -184,50 +319,24 @@
       "prNumber": 41274,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T17:37:04Z"
-    },
-    {
-      "prNumber": 41274,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T17:36:52Z"
-    },
-    {
-      "prNumber": 40163,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T19:19:02Z"
-    },
-    {
-      "prNumber": 40163,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T18:53:21Z"
-    },
-    {
-      "prNumber": 40163,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T18:53:21Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    },
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-08": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 6
+    },
     "2026-03-09": {
       "prs": 6,
       "issues": 0,
@@ -243,5 +352,36 @@
       "issues": 0,
       "reviews": 4
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-08": 1
   }
 }

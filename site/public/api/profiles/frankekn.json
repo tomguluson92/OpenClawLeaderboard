@@ -3,57 +3,176 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4488090?v=4",
   "githubUrl": "https://github.com/frankekn",
   "score": {
-    "score": 421.83,
-    "prScore": 361.33,
+    "score": 482.84,
+    "prScore": 446.84,
     "issueScore": 0,
-    "reviewScore": 42,
-    "commentScore": 18.5
+    "reviewScore": 15,
+    "commentScore": 21
   },
   "tier": "active",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
-    "commits": 13,
-    "prs": 20,
-    "prsMerged": 5,
-    "prAdditions": 8948,
-    "prDeletions": 480,
-    "prChangedFiles": 131,
-    "prMergeRate": 25,
+    "commits": 23,
+    "prs": 22,
+    "prsMerged": 13,
+    "prAdditions": 5567,
+    "prDeletions": 426,
+    "prChangedFiles": 145,
+    "prMergeRate": 59,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 14,
+    "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 37,
-    "commitAdditions": 2578,
-    "commitDeletions": 347,
-    "weeklyCommits": 9,
-    "monthlyCommits": 17,
-    "commitChangedFiles": 72
+    "comments": 42,
+    "commitAdditions": 3907,
+    "commitDeletions": 568,
+    "commitChangedFiles": 121
   },
   "period": {
     "weekly": {
-      "prs": 11,
+      "prs": 17,
       "issues": 0,
-      "reviews": 0,
-      "comments": 30,
-      "commitAdditions": 717,
-      "commitDeletions": 39,
-      "commits": 6
+      "reviews": 5,
+      "comments": 41,
+      "commitAdditions": 1994,
+      "commitDeletions": 257,
+      "commits": 15
     },
     "monthly": {
-      "prs": 20,
+      "prs": 22,
       "issues": 0,
-      "reviews": 14,
-      "comments": 37,
-      "commitAdditions": 2214,
-      "commitDeletions": 334,
-      "commits": 12
+      "reviews": 5,
+      "comments": 42,
+      "commitAdditions": 3543,
+      "commitDeletions": 555,
+      "commits": 22
     }
   },
-  "firstContribution": "2026-03-02T06:08:06Z",
-  "lastContribution": "2026-03-12T03:21:33Z",
+  "firstContribution": "2026-03-06T03:43:00Z",
+  "lastContribution": "2026-03-14T03:08:35Z",
   "recentPRs": [
+    {
+      "number": 45631,
+      "title": "fix(agents): preserve blank local custom-provider API keys after onboarding",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T02:08:29Z",
+      "mergedAt": "2026-03-14T03:08:19Z",
+      "additions": 442,
+      "deletions": 17,
+      "changedFiles": 6
+    },
+    {
+      "number": 45361,
+      "title": "test: annotate CI fixture cases",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T18:15:21Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 45346,
+      "title": "test: annotate chat abort helper exports",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T17:49:25Z",
+      "mergedAt": "2026-03-13T18:03:14Z",
+      "additions": 22,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 45330,
+      "title": "fix(ollama): hide native reasoning-only output",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T17:24:31Z",
+      "mergedAt": "2026-03-13T17:38:07Z",
+      "additions": 13,
+      "deletions": 21,
+      "changedFiles": 3
+    },
+    {
+      "number": 45327,
+      "title": "fix: retry Telegram inbound media downloads over IPv4 fallback",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T17:20:07Z",
+      "mergedAt": "2026-03-14T00:21:31Z",
+      "additions": 249,
+      "deletions": 26,
+      "changedFiles": 6
+    },
+    {
+      "number": 44874,
+      "title": "docs: fix changelog credit for xhigh help",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T08:39:23Z",
+      "mergedAt": "2026-03-13T08:40:53Z",
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 44843,
+      "title": "fix(agents): drop Anthropic thinking blocks on replay",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T07:51:10Z",
+      "mergedAt": "2026-03-13T08:57:57Z",
+      "additions": 67,
+      "deletions": 16,
+      "changedFiles": 6
+    },
+    {
+      "number": 44819,
+      "title": "CLI: align xhigh thinking help text",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T07:30:41Z",
+      "mergedAt": "2026-03-13T08:37:11Z",
+      "additions": 10,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 44666,
+      "title": "fix: address delivery dedupe review follow-ups",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T04:43:04Z",
+      "mergedAt": "2026-03-13T08:18:01Z",
+      "additions": 413,
+      "deletions": 37,
+      "changedFiles": 17
+    },
+    {
+      "number": 44109,
+      "title": "fix(delivery): dedupe mirrored and announced assistant output",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T14:17:04Z",
+      "mergedAt": null,
+      "additions": 324,
+      "deletions": 35,
+      "changedFiles": 16
+    },
+    {
+      "number": 44063,
+      "title": "fix(delivery): dedupe mirrored and announced assistant output",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T13:13:32Z",
+      "mergedAt": null,
+      "additions": 324,
+      "deletions": 35,
+      "changedFiles": 16
+    },
     {
       "number": 43285,
       "title": "fix(acp): rehydrate restarted main ACP sessions",
@@ -152,243 +271,52 @@
       "additions": 468,
       "deletions": 15,
       "changedFiles": 13
-    },
-    {
-      "number": 37135,
-      "title": "fix(session): keep direct WebChat replies on WebChat",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-06T03:55:05Z",
-      "mergedAt": "2026-03-06T06:14:13Z",
-      "additions": 52,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 37119,
-      "title": "fix: save session memory on archived sessions",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T03:43:00Z",
-      "mergedAt": null,
-      "additions": 284,
-      "deletions": 23,
-      "changedFiles": 7
-    },
-    {
-      "number": 33524,
-      "title": "fix(extensions): unblock audit by requiring openclaw >=2026.3.2",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T21:55:43Z",
-      "mergedAt": null,
-      "additions": 10,
-      "deletions": 9,
-      "changedFiles": 3
-    },
-    {
-      "number": 33022,
-      "title": "chore(ci): make host env swift generation swiftformat-safe",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T13:04:32Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 33019,
-      "title": "fix(msteams): send thread replies via proactive conversation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T13:03:28Z",
-      "mergedAt": null,
-      "additions": 113,
-      "deletions": 44,
-      "changedFiles": 2
-    },
-    {
-      "number": 33016,
-      "title": "fix(chat): keep terminal final event for queued followups",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T12:59:57Z",
-      "mergedAt": null,
-      "additions": 107,
-      "deletions": 7,
-      "changedFiles": 7
-    },
-    {
-      "number": 33012,
-      "title": "fix(macos): sync remote gateway auth fields",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T12:56:31Z",
-      "mergedAt": null,
-      "additions": 267,
-      "deletions": 2,
-      "changedFiles": 8
-    },
-    {
-      "number": 32960,
-      "title": "fix(exec): prevent gateway-restart tool-result loss in exec path",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T11:59:09Z",
-      "mergedAt": null,
-      "additions": 2874,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 32803,
-      "title": "fix(memoryFlush): prevent transcript-size forced flush loops with fresh totals",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T08:46:09Z",
-      "mergedAt": null,
-      "additions": 64,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 32732,
-      "title": "fix: harden heartbeat polling and delivery reliability",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T07:53:57Z",
-      "mergedAt": null,
-      "additions": 1178,
-      "deletions": 91,
-      "changedFiles": 14
-    },
-    {
-      "number": 32606,
-      "title": "fix(macos): sync remote gateway auth fields",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T05:33:41Z",
-      "mergedAt": null,
-      "additions": 660,
-      "deletions": 103,
-      "changedFiles": 23
     }
   ],
   "recentIssues": [],
   "recentReviews": [
     {
-      "prNumber": 32960,
+      "prNumber": 45631,
       "state": "COMMENTED",
-      "createdAt": "2026-03-03T14:32:26Z"
+      "createdAt": "2026-03-14T02:21:51Z"
     },
     {
-      "prNumber": 32960,
+      "prNumber": 45631,
       "state": "COMMENTED",
-      "createdAt": "2026-03-03T14:32:13Z"
+      "createdAt": "2026-03-14T02:21:50Z"
     },
     {
-      "prNumber": 32960,
+      "prNumber": 45631,
       "state": "COMMENTED",
-      "createdAt": "2026-03-03T14:18:57Z"
+      "createdAt": "2026-03-14T02:21:49Z"
     },
     {
-      "prNumber": 33019,
+      "prNumber": 45327,
       "state": "COMMENTED",
-      "createdAt": "2026-03-03T14:03:00Z"
+      "createdAt": "2026-03-13T17:35:27Z"
     },
     {
-      "prNumber": 33019,
+      "prNumber": 44843,
       "state": "COMMENTED",
-      "createdAt": "2026-03-03T13:43:47Z"
-    },
-    {
-      "prNumber": 33016,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T13:07:40Z"
-    },
-    {
-      "prNumber": 32732,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:38:57Z"
-    },
-    {
-      "prNumber": 32732,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:22:23Z"
-    },
-    {
-      "prNumber": 32732,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:10:31Z"
-    },
-    {
-      "prNumber": 32732,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:10:31Z"
-    },
-    {
-      "prNumber": 32732,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:05:08Z"
-    },
-    {
-      "prNumber": 32606,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T06:39:04Z"
-    },
-    {
-      "prNumber": 32606,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T05:40:21Z"
-    },
-    {
-      "prNumber": 32606,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T05:40:21Z"
+      "createdAt": "2026-03-13T08:05:37Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "merger",
-      "label": "Merger",
-      "description": "5+ merged PRs"
-    },
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-12": 1,
-    "2026-03-11": 2,
-    "2026-03-10": 2,
-    "2026-03-06": 1,
-    "2026-03-02": 2,
-    "2026-02-26": 1,
-    "2026-02-23": 1,
-    "2026-02-22": 2,
-    "2026-01-29": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-13": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 3,
       "issues": 0,
@@ -418,11 +346,43 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 9,
-      "issues": 0,
-      "reviews": 14
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-14": 2,
+    "2026-03-13": 8,
+    "2026-03-12": 1,
+    "2026-03-11": 2,
+    "2026-03-10": 2,
+    "2026-03-06": 1,
+    "2026-03-02": 2,
+    "2026-02-26": 1,
+    "2026-02-23": 1,
+    "2026-02-22": 2,
+    "2026-01-29": 1
   }
 }

@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1021764?u=7d50b20203169c2856878f4b56f5e096d9c76d31&v=4",
   "githubUrl": "https://github.com/yzxlr",
   "score": {
-    "score": 488,
-    "prScore": 488,
+    "score": 744.97,
+    "prScore": 744.97,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "active",
+  "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 51,
+    "prs": 87,
     "prsMerged": 0,
-    "prAdditions": 5786,
-    "prDeletions": 419,
-    "prChangedFiles": 194,
+    "prAdditions": 7979,
+    "prDeletions": 667,
+    "prChangedFiles": 303,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 51,
+      "prs": 87,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 51,
+      "prs": 87,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -52,231 +50,258 @@
     }
   },
   "firstContribution": "2026-03-10T19:48:43Z",
-  "lastContribution": "2026-03-11T20:19:52Z",
+  "lastContribution": "2026-03-14T15:26:51Z",
   "recentPRs": [
     {
-      "number": 43446,
-      "title": "browser: extend /start timeout budget",
+      "number": 46285,
+      "title": "Memory: normalize session path basenames",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T20:19:52Z",
+      "createdAt": "2026-03-14T15:26:51Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 46150,
+      "title": "CLI: shorten node daemon status paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T13:20:37Z",
       "mergedAt": null,
       "additions": 59,
       "deletions": 2,
       "changedFiles": 2
     },
     {
-      "number": 43445,
-      "title": "agents: discover Bedrock inference profiles",
+      "number": 46110,
+      "title": "CLI: shorten secrets plan output paths",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T20:16:59Z",
+      "createdAt": "2026-03-14T12:36:35Z",
       "mergedAt": null,
-      "additions": 237,
-      "deletions": 48,
+      "additions": 39,
+      "deletions": 1,
       "changedFiles": 2
     },
     {
-      "number": 43426,
-      "title": "Doctor: fix legacy gateway cleanup hints",
+      "number": 45509,
+      "title": "CLI: shorten update result root paths",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T19:27:30Z",
+      "createdAt": "2026-03-13T22:43:47Z",
       "mergedAt": null,
-      "additions": 122,
+      "additions": 54,
+      "deletions": 5,
+      "changedFiles": 4
+    },
+    {
+      "number": 45477,
+      "title": "CLI: shorten update dry-run root paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T21:47:02Z",
+      "mergedAt": null,
+      "additions": 17,
       "deletions": 2,
       "changedFiles": 2
     },
     {
-      "number": 43423,
-      "title": "Voice-call: time out hanging ngrok commands",
+      "number": 45406,
+      "title": "CLI: shorten browser reset-profile paths",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T19:23:35Z",
+      "createdAt": "2026-03-13T19:21:39Z",
       "mergedAt": null,
-      "additions": 148,
+      "additions": 21,
       "deletions": 1,
       "changedFiles": 2
     },
     {
-      "number": 43421,
-      "title": "Plugins: apply manifest config patches on install",
+      "number": 45402,
+      "title": "CLI: normalize secrets audit paths",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T19:19:53Z",
-      "mergedAt": null,
-      "additions": 105,
-      "deletions": 1,
-      "changedFiles": 5
-    },
-    {
-      "number": 43401,
-      "title": "Agents: add session_status compact action",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T18:12:19Z",
-      "mergedAt": null,
-      "additions": 153,
-      "deletions": 4,
-      "changedFiles": 4
-    },
-    {
-      "number": 43397,
-      "title": "Web: enable WhatsApp link previews",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T18:07:05Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 43394,
-      "title": "Agents: teach natural-language model switching",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T18:05:06Z",
-      "mergedAt": null,
-      "additions": 29,
-      "deletions": 3,
-      "changedFiles": 4
-    },
-    {
-      "number": 43384,
-      "title": "Agents: expose context usage in runtime line",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T17:32:16Z",
-      "mergedAt": null,
-      "additions": 84,
-      "deletions": 0,
-      "changedFiles": 9
-    },
-    {
-      "number": 43382,
-      "title": "Gateway: avoid false webchat event gaps on dropped broadcasts",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T17:27:18Z",
+      "createdAt": "2026-03-13T19:19:28Z",
       "mergedAt": null,
       "additions": 48,
-      "deletions": 4,
-      "changedFiles": 3
+      "deletions": 1,
+      "changedFiles": 2
     },
     {
-      "number": 43380,
-      "title": "Reply: add /models test-fallback",
+      "number": 45400,
+      "title": "Plugins: normalize scan warning paths",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T17:23:49Z",
+      "createdAt": "2026-03-13T19:18:04Z",
       "mergedAt": null,
-      "additions": 391,
+      "additions": 53,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45274,
+      "title": "Agents: normalize session repair warning paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T16:19:27Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 45259,
+      "title": "Agents: normalize exec preflight script names",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T15:57:22Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45253,
+      "title": "Security: normalize code safety detail paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T15:49:34Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45241,
+      "title": "Agents: normalize skill scan warning paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T15:31:59Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45229,
+      "title": "Web: normalize sandbox media file names",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T15:16:09Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45190,
+      "title": "Agents: normalize sandbox media fallback paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T14:40:42Z",
+      "mergedAt": null,
+      "additions": 47,
       "deletions": 2,
       "changedFiles": 2
     },
     {
-      "number": 43364,
-      "title": "UI: render safe markdown images inline",
+      "number": 45151,
+      "title": "Media: normalize stored original filenames",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T17:00:16Z",
+      "createdAt": "2026-03-13T13:52:49Z",
       "mergedAt": null,
-      "additions": 76,
-      "deletions": 10,
-      "changedFiles": 4
-    },
-    {
-      "number": 43362,
-      "title": "Reply: preserve reminder coverage across compaction",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T16:54:18Z",
-      "mergedAt": null,
-      "additions": 77,
-      "deletions": 6,
-      "changedFiles": 5
-    },
-    {
-      "number": 43352,
-      "title": "CLI: validate backend session ids",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T16:45:20Z",
-      "mergedAt": null,
-      "additions": 78,
-      "deletions": 2,
-      "changedFiles": 6
-    },
-    {
-      "number": 43350,
-      "title": "Session: add system event suppression switch",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T16:40:01Z",
-      "mergedAt": null,
-      "additions": 46,
-      "deletions": 1,
-      "changedFiles": 6
-    },
-    {
-      "number": 43342,
-      "title": "Reply: add /models test-fallback",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T16:33:25Z",
-      "mergedAt": null,
-      "additions": 391,
+      "additions": 30,
       "deletions": 2,
       "changedFiles": 2
     },
     {
-      "number": 43264,
-      "title": "fix(ui): render subagent announces as tool output",
+      "number": 45147,
+      "title": "Plugin SDK: normalize temp download filenames",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T14:44:51Z",
+      "createdAt": "2026-03-13T13:50:34Z",
       "mergedAt": null,
-      "additions": 98,
-      "deletions": 4,
-      "changedFiles": 5
-    },
-    {
-      "number": 43227,
-      "title": "Chat UI: show full exec commands in sidebar",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T13:48:05Z",
-      "mergedAt": null,
-      "additions": 102,
-      "deletions": 12,
-      "changedFiles": 4
-    },
-    {
-      "number": 43222,
-      "title": "Exec approvals: add denylist support",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T13:38:42Z",
-      "mergedAt": null,
-      "additions": 650,
-      "deletions": 80,
-      "changedFiles": 14
-    },
-    {
-      "number": 43105,
-      "title": "Telegram: store human-readable topic labels",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T10:42:58Z",
-      "mergedAt": null,
-      "additions": 74,
+      "additions": 25,
       "deletions": 1,
-      "changedFiles": 5
+      "changedFiles": 2
+    },
+    {
+      "number": 45142,
+      "title": "Agents: normalize skill download filenames",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T13:46:25Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 45126,
+      "title": "Outbound: normalize attachment file names",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T13:30:37Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 44966,
+      "title": "Sessions: normalize mirrored media names",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T10:07:25Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 44929,
+      "title": "Media: normalize fetched filenames",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T09:31:16Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 5,
+      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 17,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 16,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 50,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Large-Scale Changes"
@@ -293,12 +318,5 @@
       "description": "50+ pull requests"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 20,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

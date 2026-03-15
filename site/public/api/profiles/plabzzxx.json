@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/172346891?v=4",
   "githubUrl": "https://github.com/plabzzxx",
   "score": {
-    "score": 50.15,
-    "prScore": 45.65,
+    "score": 176.97,
+    "prScore": 171.47,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 4.5
+    "commentScore": 5.5
   },
   "tier": "regular",
   "characterClass": "Contributor",
@@ -15,20 +15,18 @@
     "commits": 0,
     "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 621,
-    "prDeletions": 318,
-    "prChangedFiles": 12,
+    "prAdditions": 18272,
+    "prDeletions": 4461,
+    "prChangedFiles": 448,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
+    "comments": 11,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 9,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,25 +43,25 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 9,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-08T08:42:18Z",
-  "lastContribution": "2026-03-12T01:25:13Z",
+  "lastContribution": "2026-03-14T03:54:36Z",
   "recentPRs": [
     {
       "number": 42682,
       "title": "models/auth: support multi OpenAI Codex OAuth profiles without overwrite",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T02:20:25Z",
       "mergedAt": null,
-      "additions": 311,
-      "deletions": 8,
-      "changedFiles": 7
+      "additions": 18113,
+      "deletions": 4387,
+      "changedFiles": 442
     },
     {
       "number": 41590,
@@ -72,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-10T01:31:20Z",
       "mergedAt": null,
-      "additions": 278,
-      "deletions": 310,
-      "changedFiles": 4
+      "additions": 127,
+      "deletions": 74,
+      "changedFiles": 5
     },
     {
       "number": 39641,
@@ -90,12 +88,6 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
@@ -112,5 +104,18 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {}
 }

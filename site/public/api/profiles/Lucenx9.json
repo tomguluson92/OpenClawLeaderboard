@@ -3,61 +3,81 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/185146821?v=4",
   "githubUrl": "https://github.com/Lucenx9",
   "score": {
-    "score": 153.1,
-    "prScore": 129.1,
+    "score": 91.9,
+    "prScore": 78.4,
     "issueScore": 5,
-    "reviewScore": 15,
-    "commentScore": 4
+    "reviewScore": 6,
+    "commentScore": 2.5
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 6,
-    "prsMerged": 2,
-    "prAdditions": 788,
-    "prDeletions": 67,
-    "prChangedFiles": 25,
-    "prMergeRate": 33,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 356,
+    "prDeletions": 19,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
+    "comments": 5,
     "commitAdditions": 95,
     "commitDeletions": 27,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 7
   },
   "period": {
     "weekly": {
       "prs": 2,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 4,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 4,
       "issues": 1,
-      "reviews": 5,
-      "comments": 8,
+      "reviews": 2,
+      "comments": 5,
       "commitAdditions": 95,
       "commitDeletions": 27,
       "commits": 4
     }
   },
-  "firstContribution": "2026-02-27T13:36:30Z",
-  "lastContribution": "2026-03-07T16:51:01Z",
+  "firstContribution": "2026-03-07T12:56:46Z",
+  "lastContribution": "2026-03-14T02:21:26Z",
   "recentPRs": [
+    {
+      "number": 45437,
+      "title": "Gateway: restore loopback handshake timeout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T20:18:29Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 45375,
+      "title": "fix(routing): normalize Signal peer bindings for route matching",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T18:29:54Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 5,
+      "changedFiles": 2
+    },
     {
       "number": 39018,
       "title": "fix(whatsapp): fall back to inbound context for reaction messageId",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-07T16:51:01Z",
       "mergedAt": null,
@@ -75,88 +95,46 @@
       "additions": 173,
       "deletions": 9,
       "changedFiles": 4
-    },
-    {
-      "number": 32447,
-      "title": "fix(whatsapp): process recent append upserts after reconnect",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T02:56:48Z",
-      "mergedAt": null,
-      "additions": 89,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 32350,
-      "title": "Gateway: periodically recover pending outbound deliveries",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T00:42:17Z",
-      "mergedAt": null,
-      "additions": 363,
-      "deletions": 29,
-      "changedFiles": 9
-    },
-    {
-      "number": 32280,
-      "title": "fix(media): normalize MIME kind detection for WhatsApp audio transcription",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T23:03:09Z",
-      "mergedAt": "2026-03-02T23:31:19Z",
-      "additions": 41,
-      "deletions": 1,
-      "changedFiles": 4
-    },
-    {
-      "number": 31969,
-      "title": "fix(whatsapp): restore direct inbound metadata for relay agents",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T17:26:43Z",
-      "mergedAt": "2026-03-02T18:40:05Z",
-      "additions": 54,
-      "deletions": 20,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [
     {
-      "number": 28745,
-      "title": "[Bug]: write fails sandbox boundary check on existing path while edit succeeds",
+      "number": 45645,
+      "title": "[Bug]: doctor/update can leave CLI and gateway on different installs on Linux",
       "state": "OPEN",
-      "createdAt": "2026-02-27T13:36:30Z",
+      "createdAt": "2026-03-14T02:21:26Z",
       "closedAt": null
     }
   ],
   "recentReviews": [
     {
-      "prNumber": 32350,
+      "prNumber": 45375,
       "state": "COMMENTED",
-      "createdAt": "2026-03-03T02:34:34Z"
+      "createdAt": "2026-03-13T18:39:38Z"
     },
     {
-      "prNumber": 32350,
+      "prNumber": 45375,
       "state": "COMMENTED",
-      "createdAt": "2026-03-03T02:25:34Z"
-    },
-    {
-      "prNumber": 32350,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T00:51:18Z"
-    },
-    {
-      "prNumber": 32350,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T00:51:16Z"
-    },
-    {
-      "prNumber": 32280,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T23:10:26Z"
+      "createdAt": "2026-03-13T18:39:38Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -173,27 +151,5 @@
   ],
   "recentCommitDays": {
     "2026-03-02": 4
-  },
-  "recentActivityDays": {
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 4
-    },
-    "2026-03-02": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-02-27": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

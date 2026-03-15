@@ -3,36 +3,43 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/115749095?u=3d7c9f9da52ccb74d9f849a81112e3642ebb398e&v=4",
   "githubUrl": "https://github.com/Techris93",
   "score": {
-    "score": 56.31,
-    "prScore": 51.31,
+    "score": 11.65,
+    "prScore": 10.65,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 1
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1168,
+    "prAdditions": 441,
     "prDeletions": 0,
-    "prChangedFiles": 11,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
@@ -40,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T21:15:23Z",
+  "firstContribution": "2026-03-05T15:02:29Z",
   "lastContribution": "2026-03-05T17:59:47Z",
   "recentPRs": [
     {
@@ -64,64 +62,21 @@
       "additions": 441,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 33297,
-      "title": "Add gateway resilience modules (T-IMPACT-002)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T17:06:51Z",
-      "mergedAt": null,
-      "additions": 358,
-      "deletions": 0,
-      "changedFiles": 3
-    },
-    {
-      "number": 32373,
-      "title": "Add token hardening modules for gateway (T-ACCESS-003)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T01:05:06Z",
-      "mergedAt": null,
-      "additions": 181,
-      "deletions": 0,
-      "changedFiles": 3
-    },
-    {
-      "number": 32177,
-      "title": "hardening(gateway): token redaction, git guard, and rotation (T-ACCESS-003)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T21:15:23Z",
-      "mergedAt": null,
-      "additions": 188,
-      "deletions": 0,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

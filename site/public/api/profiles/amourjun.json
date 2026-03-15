@@ -1,16 +1,16 @@
 {
   "username": "amourjun",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/18351237?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18351237?u=5c922093b7e8feeb725aa8e7a36f20451a4530bf&v=4",
   "githubUrl": "https://github.com/amourjun",
   "score": {
-    "score": 41.13,
+    "score": 41.63,
     "prScore": 38.13,
     "issueScore": 0,
     "reviewScore": 3,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Maintainer",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -24,11 +24,9 @@
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 1,
       "issues": 0,
       "reviews": 1,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,14 +43,14 @@
       "prs": 1,
       "issues": 0,
       "reviews": 1,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-12T02:59:30Z",
-  "lastContribution": "2026-03-12T03:09:47Z",
+  "lastContribution": "2026-03-12T06:36:37Z",
   "recentPRs": [
     {
       "number": 43618,
@@ -74,17 +72,18 @@
       "createdAt": "2026-03-12T03:09:47Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
       "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

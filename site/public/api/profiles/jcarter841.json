@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/254981202?v=4",
   "githubUrl": "https://github.com/jcarter841",
   "score": {
-    "score": 566.34,
-    "prScore": 566.34,
+    "score": 733.04,
+    "prScore": 733.04,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 57,
+    "prs": 80,
     "prsMerged": 0,
-    "prAdditions": 36470,
-    "prDeletions": 33533,
-    "prChangedFiles": 57,
+    "prAdditions": 54187,
+    "prDeletions": 48129,
+    "prChangedFiles": 80,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 43,
+      "prs": 58,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 57,
+      "prs": 80,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,232 +49,294 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T14:48:01Z",
-  "lastContribution": "2026-03-12T01:55:14Z",
+  "firstContribution": "2026-03-04T13:02:18Z",
+  "lastContribution": "2026-03-15T04:25:43Z",
   "recentPRs": [
     {
-      "number": 43582,
-      "title": "Feat: collapsible thinking/code blocks chat",
+      "number": 46861,
+      "title": "Feat: add embedded MCP server support",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-12T01:55:14Z",
+      "createdAt": "2026-03-15T04:25:43Z",
       "mergedAt": null,
-      "additions": 647,
-      "deletions": 583,
+      "additions": 746,
+      "deletions": 641,
       "changedFiles": 1
     },
     {
-      "number": 43451,
-      "title": "Feat: into Control Control integrate dashboard Mission UI",
+      "number": 46705,
+      "title": "Feat: Venice support embeddings",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T20:31:36Z",
+      "createdAt": "2026-03-15T01:25:55Z",
       "mergedAt": null,
-      "additions": 646,
-      "deletions": 583,
+      "additions": 745,
+      "deletions": 641,
       "changedFiles": 1
     },
     {
-      "number": 43359,
-      "title": "Agents/tools: preflight exec script var shell files injection",
+      "number": 46613,
+      "title": "Chore: validation oauth shim codex report",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T16:50:09Z",
+      "createdAt": "2026-03-14T22:17:16Z",
       "mergedAt": null,
-      "additions": 651,
-      "deletions": 583,
+      "additions": 745,
+      "deletions": 641,
       "changedFiles": 1
     },
     {
-      "number": 43307,
-      "title": "Docs: Portkey gateway add AI integration",
+      "number": 46550,
+      "title": "Feat: replay integration NATS audit, & JetStream multi-agent sharing",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T15:49:41Z",
+      "createdAt": "2026-03-14T20:18:16Z",
       "mergedAt": null,
-      "additions": 647,
-      "deletions": 583,
+      "additions": 743,
+      "deletions": 641,
       "changedFiles": 1
     },
     {
-      "number": 43179,
-      "title": "Fix: loopback pairing role/scope auto-approve local upgrades",
+      "number": 46497,
+      "title": "Fix: internal loopback gateway",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T12:43:43Z",
+      "createdAt": "2026-03-14T18:25:55Z",
       "mergedAt": null,
-      "additions": 647,
-      "deletions": 583,
+      "additions": 754,
+      "deletions": 641,
       "changedFiles": 1
     },
     {
-      "number": 42979,
-      "title": "Feat/add m2.5 mini multimodal max model omni support",
+      "number": 46323,
+      "title": "Chore: pi-ai  bump 0.40.0 revert PR Pi patch",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T08:33:29Z",
+      "createdAt": "2026-03-14T16:21:00Z",
       "mergedAt": null,
-      "additions": 646,
-      "deletions": 583,
+      "additions": 752,
+      "deletions": 638,
       "changedFiles": 1
     },
     {
-      "number": 42822,
-      "title": "Fix + multi\u2011agent heartbeats, sessions, probes health/status calls",
+      "number": 46227,
+      "title": "Fix protocol : workspace replace latest",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T05:08:38Z",
+      "createdAt": "2026-03-14T14:20:42Z",
       "mergedAt": null,
-      "additions": 650,
-      "deletions": 583,
+      "additions": 749,
+      "deletions": 638,
       "changedFiles": 1
     },
     {
-      "number": 42625,
-      "title": "Add 4.6 Claude OpenCode Sonnet model Zen catalog",
+      "number": 46105,
+      "title": "Feat: chunker semantic add markdown",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-11T01:22:56Z",
+      "createdAt": "2026-03-14T12:31:02Z",
       "mergedAt": null,
-      "additions": 648,
-      "deletions": 583,
+      "additions": 755,
+      "deletions": 638,
       "changedFiles": 1
     },
     {
-      "number": 42492,
-      "title": "Fix: fallback ts dedupe mentions app_mention",
+      "number": 45973,
+      "title": "Feat: add cloudflare as AI gateway provider",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-10T20:26:53Z",
+      "createdAt": "2026-03-14T10:19:14Z",
       "mergedAt": null,
-      "additions": 649,
-      "deletions": 583,
+      "additions": 739,
+      "deletions": 638,
       "changedFiles": 1
     },
     {
-      "number": 42360,
-      "title": "Fix: errors collect only all provider instead last",
+      "number": 45885,
+      "title": "Fix: use logo local from 403 prevent errors CDN",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-10T16:51:35Z",
+      "createdAt": "2026-03-14T08:25:08Z",
       "mergedAt": null,
-      "additions": 652,
-      "deletions": 583,
+      "additions": 754,
+      "deletions": 638,
       "changedFiles": 1
     },
     {
-      "number": 42137,
-      "title": "Fix: allow client clawdbot-ios id",
+      "number": 45804,
+      "title": "Fix: prevent transient gateway crashes network errors",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-10T12:44:06Z",
+      "createdAt": "2026-03-14T06:36:04Z",
       "mergedAt": null,
-      "additions": 674,
-      "deletions": 606,
+      "additions": 739,
+      "deletions": 638,
       "changedFiles": 1
     },
     {
-      "number": 41962,
-      "title": "Fix: tool call sanitize IDs Azure OpenAI",
+      "number": 45716,
+      "title": "Feat: apiKeyFile model add support providers",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-10T08:33:48Z",
+      "createdAt": "2026-03-14T04:03:13Z",
       "mergedAt": null,
-      "additions": 669,
-      "deletions": 606,
+      "additions": 740,
+      "deletions": 638,
       "changedFiles": 1
     },
     {
-      "number": 41768,
-      "title": "Friendlier Windows onboarding message",
+      "number": 45587,
+      "title": "Feat: per-channel maxConcurrentPerConversation override",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-10T05:06:57Z",
+      "createdAt": "2026-03-14T01:13:44Z",
       "mergedAt": null,
-      "additions": 668,
-      "deletions": 606,
+      "additions": 741,
+      "deletions": 638,
       "changedFiles": 1
     },
     {
-      "number": 41585,
-      "title": "Fix: exceeds user when size notify media limit",
+      "number": 45495,
+      "title": "Fix: log stderr redirect completion during script output generation",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-10T01:22:29Z",
+      "createdAt": "2026-03-13T22:20:45Z",
       "mergedAt": null,
-      "additions": 674,
-      "deletions": 606,
+      "additions": 743,
+      "deletions": 638,
       "changedFiles": 1
     },
     {
-      "number": 41414,
-      "title": "Fix: config multi-account bitable support tools",
+      "number": 45439,
+      "title": "Add coverage test acp/translator.ts module",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-09T20:27:03Z",
+      "createdAt": "2026-03-13T20:24:33Z",
       "mergedAt": null,
-      "additions": 669,
-      "deletions": 606,
+      "additions": 743,
+      "deletions": 638,
       "changedFiles": 1
     },
     {
-      "number": 41279,
-      "title": "Fix: systemd service environment-aware use resolver name install/uninstall",
+      "number": 45376,
+      "title": "Fix: condition remove isFirstTurnInSession dead inner session-updates",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-09T16:51:46Z",
+      "createdAt": "2026-03-13T18:29:59Z",
       "mergedAt": null,
-      "additions": 666,
-      "deletions": 606,
+      "additions": 729,
+      "deletions": 624,
       "changedFiles": 1
     },
     {
-      "number": 40990,
-      "title": "Feat: /v1/models GET model OpenAI-compatible add endpoint listing",
+      "number": 45286,
+      "title": "Fix from content-type failure Google Chat media upload inferring filename",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-09T12:45:06Z",
+      "createdAt": "2026-03-13T16:29:55Z",
       "mergedAt": null,
-      "additions": 666,
-      "deletions": 606,
+      "additions": 723,
+      "deletions": 610,
       "changedFiles": 1
     },
     {
-      "number": 40780,
-      "title": "Fix: service propagate config.env.vars LaunchAgent/systemd environment",
+      "number": 45185,
+      "title": "Fix: dashboard Enable config scrolling page",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-09T08:37:10Z",
+      "createdAt": "2026-03-13T14:37:16Z",
       "mergedAt": null,
-      "additions": 675,
-      "deletions": 606,
+      "additions": 723,
+      "deletions": 610,
       "changedFiles": 1
     },
     {
-      "number": 40626,
-      "title": "Feat: default delivery openclaw config-level agent",
+      "number": 45078,
+      "title": "Feat: Google add support comprehensive Gemini code review fixes",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-09T05:17:27Z",
+      "createdAt": "2026-03-13T12:37:16Z",
       "mergedAt": null,
-      "additions": 657,
-      "deletions": 606,
+      "additions": 718,
+      "deletions": 610,
       "changedFiles": 1
     },
     {
-      "number": 40429,
-      "title": "Fix: accept alias parameter `cmd` `command` as",
+      "number": 44990,
+      "title": "Claude/openclaw q token efficiency ni2s",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-09T01:27:53Z",
+      "createdAt": "2026-03-13T10:27:24Z",
       "mergedAt": null,
-      "additions": 657,
-      "deletions": 606,
+      "additions": 725,
+      "deletions": 610,
       "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Large-Scale Changes"
@@ -296,29 +356,12 @@
       "id": "prolific",
       "label": "Prolific Coder",
       "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-12": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

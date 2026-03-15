@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/201593046?v=4",
   "githubUrl": "https://github.com/Sid-Qin",
   "score": {
-    "score": 3963.01,
-    "prScore": 3852.01,
-    "issueScore": 5,
+    "score": 2969.66,
+    "prScore": 2863.66,
+    "issueScore": 0,
     "reviewScore": 6,
     "commentScore": 100
   },
@@ -13,45 +13,43 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 80,
-    "prs": 459,
-    "prsMerged": 24,
-    "prAdditions": 62414,
-    "prDeletions": 6057,
-    "prChangedFiles": 2250,
-    "prMergeRate": 5,
-    "issues": 1,
+    "prs": 325,
+    "prsMerged": 14,
+    "prAdditions": 16001,
+    "prDeletions": 1629,
+    "prChangedFiles": 891,
+    "prMergeRate": 4,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 366,
+    "comments": 219,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 232,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 117,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 459,
-      "issues": 1,
+      "prs": 325,
+      "issues": 0,
       "reviews": 2,
-      "comments": 366,
+      "comments": 219,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-27T15:03:20Z",
+  "firstContribution": "2026-03-03T15:04:51Z",
   "lastContribution": "2026-03-06T17:39:26Z",
   "recentPRs": [
     {
@@ -275,15 +273,7 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 31476,
-      "title": "[Bug]: 3.1 regression \u2014 message tool \"Unknown channel\" + health-monitor false-positive stuck detection",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T08:34:02Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 35301,
@@ -296,10 +286,26 @@
       "createdAt": "2026-03-05T03:19:44Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 105,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 172,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-04": {
+      "prs": 48,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
@@ -334,34 +340,7 @@
       "id": "prolific",
       "label": "Prolific Coder",
       "description": "10K+ lines added"
-    },
-    {
-      "id": "mega-coder",
-      "label": "Mega Coder",
-      "description": "50K+ lines added"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 20,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
-    }
-  }
+  "recentCommitDays": {}
 }

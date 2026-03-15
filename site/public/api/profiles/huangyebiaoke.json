@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -67,7 +65,7 @@
     },
     {
       "number": 41022,
-      "title": "feat: raise CLI watchdog no-output timeout caps (3 min \u2192 30 min)",
+      "title": "feat: raise CLI watchdog no-output timeout caps (3 min → 30 min)",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-09T13:09:36Z",
@@ -90,16 +88,16 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 3,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -1,0 +1,151 @@
+{
+  "username": "mySebbe",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14988278?v=4",
+  "githubUrl": "https://github.com/mySebbe",
+  "score": {
+    "score": 72.22,
+    "prScore": 41.22,
+    "issueScore": 28,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 390,
+    "prDeletions": 33,
+    "prChangedFiles": 15,
+    "prMergeRate": 0,
+    "issues": 5,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-05T02:07:24Z",
+  "lastContribution": "2026-03-12T19:51:14Z",
+  "recentPRs": [
+    {
+      "number": 44151,
+      "title": "Improve ACP spawn and timeout diagnostics",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T15:05:06Z",
+      "mergedAt": null,
+      "additions": 225,
+      "deletions": 31,
+      "changedFiles": 11
+    },
+    {
+      "number": 44124,
+      "title": "Improve ACP spawn and timeout diagnostics",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T14:30:33Z",
+      "mergedAt": null,
+      "additions": 165,
+      "deletions": 2,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43288,
+      "title": "CLI backend: pickSessionId accepts non-UUID strings like 'rate-limited' causing resume failure",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T15:21:35Z",
+      "closedAt": null
+    },
+    {
+      "number": 42541,
+      "title": "Gemini OAuth token auto-refresh silently fails — bare catch {} in dispatch swallows refresh errors",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T22:27:24Z",
+      "closedAt": null
+    },
+    {
+      "number": 42039,
+      "title": "Expose maxMissedJobsPerRestart and missedJobStaggerMs in cron config",
+      "state": "OPEN",
+      "createdAt": "2026-03-10T10:22:45Z",
+      "closedAt": null
+    },
+    {
+      "number": 36786,
+      "title": "doctor: false positive gateway token mismatch when systemd uses EnvironmentFile",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T22:12:25Z",
+      "closedAt": "2026-03-07T22:22:19Z"
+    },
+    {
+      "number": 35274,
+      "title": "Bug: google-gemini-cli provider model catalog outdated (missing gemini-2.5-flash-lite; deprecated 2.0 models still listed)",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T02:49:31Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {}
+}

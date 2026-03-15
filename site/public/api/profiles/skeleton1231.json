@@ -1,0 +1,110 @@
+{
+  "username": "skeleton1231",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2403591?u=4f4c30ed5e9e2a5aee98e9ae10c4c77ed70d3086&v=4",
+  "githubUrl": "https://github.com/skeleton1231",
+  "score": {
+    "score": 28.82,
+    "prScore": 22.32,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 97,
+    "prDeletions": 4,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T06:46:34Z",
+  "lastContribution": "2026-03-14T02:57:06Z",
+  "recentPRs": [
+    {
+      "number": 44814,
+      "title": "fix: make webui attachment maxBytes configurable (fixes #44757)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T07:28:11Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 44768,
+      "title": "fix: add preferOver for feishu over openclaw-lark",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T06:46:34Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 44814,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T02:57:06Z"
+    },
+    {
+      "prNumber": 44814,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T02:57:03Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/182830946?u=fbc711137880cd843fea4b3b9f00013d07d40fd6&v=4",
   "githubUrl": "https://github.com/a692570",
   "score": {
-    "score": 119.35,
+    "score": 104.85,
     "prScore": 104.35,
-    "issueScore": 13,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,20 +19,27 @@
     "prDeletions": 443,
     "prChangedFiles": 35,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 0,
@@ -40,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T00:16:21Z",
+  "firstContribution": "2026-03-06T20:12:04Z",
   "lastContribution": "2026-03-06T20:18:28Z",
   "recentPRs": [
     {
@@ -77,46 +75,20 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 32326,
-      "title": "Telegram: 'Failed to download media' when attaching files in group topics",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T00:13:38Z",
-      "closedAt": null
-    },
-    {
-      "number": 31094,
-      "title": "openclaw cron run exits with code 1 even when job succeeds",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T00:16:21Z",
-      "closedAt": "2026-03-02T02:00:13Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion",
-    "Large-Scale Changes"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

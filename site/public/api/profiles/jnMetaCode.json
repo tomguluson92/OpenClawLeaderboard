@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12096460?v=4",
   "githubUrl": "https://github.com/jnMetaCode",
   "score": {
-    "score": 526.43,
-    "prScore": 465.43,
-    "issueScore": 0,
-    "reviewScore": 48,
-    "commentScore": 13
+    "score": 317.97,
+    "prScore": 254.47,
+    "issueScore": 5,
+    "reviewScore": 57,
+    "commentScore": 1.5
   },
-  "tier": "veteran",
-  "characterClass": "Builder",
+  "tier": "active",
+  "characterClass": "Maintainer",
   "stats": {
-    "commits": 4,
-    "prs": 44,
+    "commits": 6,
+    "prs": 16,
     "prsMerged": 4,
-    "prAdditions": 3529,
-    "prDeletions": 662,
-    "prChangedFiles": 125,
-    "prMergeRate": 9,
-    "issues": 0,
+    "prAdditions": 569,
+    "prDeletions": 62,
+    "prChangedFiles": 47,
+    "prMergeRate": 25,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 16,
+    "reviews": 19,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 26,
-    "commitAdditions": 68,
-    "commitDeletions": 22,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 9
+    "comments": 3,
+    "commitAdditions": 156,
+    "commitDeletions": 23,
+    "commitChangedFiles": 19
   },
   "period": {
     "weekly": {
-      "prs": 10,
-      "issues": 0,
-      "reviews": 16,
-      "comments": 19,
-      "commitAdditions": 48,
-      "commitDeletions": 5,
-      "commits": 2
+      "prs": 11,
+      "issues": 1,
+      "reviews": 13,
+      "comments": 1,
+      "commitAdditions": 112,
+      "commitDeletions": 4,
+      "commits": 3
     },
     "monthly": {
-      "prs": 44,
-      "issues": 0,
-      "reviews": 16,
-      "comments": 26,
-      "commitAdditions": 68,
-      "commitDeletions": 22,
-      "commits": 4
+      "prs": 16,
+      "issues": 1,
+      "reviews": 19,
+      "comments": 3,
+      "commitAdditions": 156,
+      "commitDeletions": 23,
+      "commits": 6
     }
   },
-  "firstContribution": "2026-03-02T17:36:35Z",
-  "lastContribution": "2026-03-11T23:15:16Z",
+  "firstContribution": "2026-03-04T00:06:17Z",
+  "lastContribution": "2026-03-12T15:58:07Z",
   "recentPRs": [
+    {
+      "number": 43823,
+      "title": "fix(failover): classify HTTP 422 as format and OpenRouter credits as billing",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T07:49:30Z",
+      "mergedAt": "2026-03-12T21:50:29Z",
+      "additions": 59,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 43817,
+      "title": "fix(config): restore discovery.wideArea.domain and add missing help entries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T07:44:03Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 3
+    },
     {
       "number": 43513,
       "title": "fix(failover): add socket disconnected and TLS error patterns to timeout classifier",
@@ -72,20 +92,20 @@
       "merged": false,
       "createdAt": "2026-03-11T23:04:45Z",
       "mergedAt": null,
-      "additions": 50,
-      "deletions": 21,
-      "changedFiles": 1
+      "additions": 78,
+      "deletions": 22,
+      "changedFiles": 4
     },
     {
       "number": 42830,
       "title": "fix(failover): add missing network errno patterns to text-based timeout classifier",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T05:18:17Z",
-      "mergedAt": null,
-      "additions": 28,
+      "mergedAt": "2026-03-12T09:34:44Z",
+      "additions": 29,
       "deletions": 0,
-      "changedFiles": 4
+      "changedFiles": 5
     },
     {
       "number": 42436,
@@ -207,76 +227,33 @@
       "additions": 73,
       "deletions": 2,
       "changedFiles": 2
-    },
-    {
-      "number": 34078,
-      "title": "ci: fix security labeler glob to match actual docs path",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T06:52:55Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 34075,
-      "title": "ci: add missing labeler entries for synology-chat, diffs, and thread-ownership",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T06:49:28Z",
-      "mergedAt": null,
-      "additions": 14,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 33793,
-      "title": "security: apply default security headers to extension relay server",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T02:34:26Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 33753,
-      "title": "security: apply default security headers to canvas host server",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T01:55:36Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 33731,
-      "title": "security: add Permissions-Policy to diffs viewer responses",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T01:32:58Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 33729,
-      "title": "docs: replace em-dashes with hyphens in headings",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T01:28:44Z",
-      "mergedAt": null,
-      "additions": 13,
-      "deletions": 13,
-      "changedFiles": 8
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 44195,
+      "title": "Feature Request: Chinese PII Detection — 身份证/手机号/银行卡 redaction support",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T15:58:07Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 43512,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:27:05Z"
+    },
+    {
+      "prNumber": 43512,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T14:32:36Z"
+    },
+    {
+      "prNumber": 43512,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T13:29:41Z"
+    },
     {
       "prNumber": 43512,
       "state": "COMMENTED",
@@ -358,35 +335,12 @@
       "createdAt": "2026-03-05T20:16:55Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-10": 1,
-    "2026-03-05": 1,
-    "2026-03-02": 2
-  },
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 3
+    },
     "2026-03-11": {
       "prs": 3,
       "issues": 0,
@@ -408,7 +362,7 @@
       "reviews": 5
     },
     "2026-03-04": {
-      "prs": 10,
+      "prs": 4,
       "issues": 0,
       "reviews": 0
     },
@@ -417,5 +371,35 @@
       "issues": 0,
       "reviews": 1
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 2,
+    "2026-03-10": 1,
+    "2026-03-05": 1,
+    "2026-03-02": 2
   }
 }

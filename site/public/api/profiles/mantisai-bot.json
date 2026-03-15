@@ -3,38 +3,36 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259690819?u=b3e01e7f4ac1ee1dda2ac2431bf2305c5e8c5181&v=4",
   "githubUrl": "https://github.com/mantisai-bot",
   "score": {
-    "score": 39.5,
-    "prScore": 9.5,
-    "issueScore": 23,
+    "score": 58.78,
+    "prScore": 22.78,
+    "issueScore": 28,
     "reviewScore": 6,
-    "commentScore": 1
+    "commentScore": 2
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Hunter",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 58,
-    "prDeletions": 6,
-    "prChangedFiles": 2,
+    "prAdditions": 116,
+    "prDeletions": 14,
+    "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 4,
+    "issues": 5,
     "issuesClosed": 1,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 4,
+      "prs": 2,
+      "issues": 2,
       "reviews": 2,
       "comments": 2,
       "commitAdditions": 0,
@@ -42,18 +40,29 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 4,
+      "prs": 2,
+      "issues": 5,
       "reviews": 2,
-      "comments": 2,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-06T08:22:45Z",
-  "lastContribution": "2026-03-11T15:59:38Z",
+  "lastContribution": "2026-03-13T06:18:15Z",
   "recentPRs": [
+    {
+      "number": 44489,
+      "title": "feat(sessions): add adaptive reset mode with AND logic (atHour + idleMinutes)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T00:46:52Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 8,
+      "changedFiles": 4
+    },
     {
       "number": 39596,
       "title": "feat: add agent:turn:end internal hook event",
@@ -67,6 +76,13 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 43738,
+      "title": "[Feature]: Adaptive session reset mode — daily reset gated by idle time (AND logic)",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T06:07:28Z",
+      "closedAt": null
+    },
     {
       "number": 43313,
       "title": "fix(media): classify audio-only MP4/M4A containers as audio, not video",
@@ -108,25 +124,21 @@
       "createdAt": "2026-03-08T13:33:24Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
       "reviews": 2
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     },
     "2026-03-11": {
       "prs": 0,
@@ -138,5 +150,24 @@
       "issues": 3,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

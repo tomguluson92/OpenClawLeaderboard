@@ -3,10 +3,10 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10103766?u=c58ebaf6aba79b02ce3b392c3a0240af9d59df4b&v=4",
   "githubUrl": "https://github.com/SergioChan",
   "score": {
-    "score": 414.03,
-    "prScore": 398.53,
+    "score": 420.21,
+    "prScore": 398.71,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 6,
     "commentScore": 15.5
   },
   "tier": "active",
@@ -15,28 +15,26 @@
     "commits": 0,
     "prs": 40,
     "prsMerged": 0,
-    "prAdditions": 2264,
-    "prDeletions": 438,
-    "prChangedFiles": 104,
+    "prAdditions": 2281,
+    "prDeletions": 453,
+    "prChangedFiles": 105,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 31,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 40,
+      "prs": 28,
       "issues": 0,
-      "reviews": 0,
-      "comments": 31,
+      "reviews": 2,
+      "comments": 18,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -44,7 +42,7 @@
     "monthly": {
       "prs": 40,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 2,
       "comments": 31,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -52,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-07T12:37:02Z",
-  "lastContribution": "2026-03-11T20:52:50Z",
+  "lastContribution": "2026-03-13T23:04:14Z",
   "recentPRs": [
     {
       "number": 43463,
@@ -266,7 +264,7 @@
     {
       "number": 42743,
       "title": "Fix false unknown-entry warnings for optional coding tools",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T03:23:17Z",
       "mergedAt": null,
@@ -276,9 +274,43 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 39163,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:04:14Z"
+    },
+    {
+      "prNumber": 39163,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:03:30Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 26,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion"
   ],
   "achievements": [
@@ -293,12 +325,5 @@
       "description": "20+ comments"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 20,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

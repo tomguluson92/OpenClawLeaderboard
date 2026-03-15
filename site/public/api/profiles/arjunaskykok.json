@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/32124593?u=7fdcaafc99cd7c68bafa5f20cb24654f69300b28&v=4",
   "githubUrl": "https://github.com/arjunaskykok",
   "score": {
-    "score": 156.82,
-    "prScore": 107.82,
-    "issueScore": 28,
-    "reviewScore": 15,
-    "commentScore": 6
+    "score": 83.18,
+    "prScore": 49.18,
+    "issueScore": 18,
+    "reviewScore": 12,
+    "commentScore": 4
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 1073,
-    "prDeletions": 25,
-    "prChangedFiles": 28,
+    "prAdditions": 354,
+    "prDeletions": 4,
+    "prChangedFiles": 12,
     "prMergeRate": 0,
-    "issues": 5,
+    "issues": 3,
     "issuesClosed": 1,
-    "reviews": 5,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 12,
+    "comments": 8,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 2,
-      "reviews": 5,
-      "comments": 6,
+      "prs": 3,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 7,
-      "issues": 5,
-      "reviews": 5,
-      "comments": 12,
+      "prs": 4,
+      "issues": 3,
+      "reviews": 4,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-27T07:17:56Z",
+  "firstContribution": "2026-03-04T04:43:50Z",
   "lastContribution": "2026-03-11T08:19:25Z",
   "recentPRs": [
     {
@@ -97,39 +95,6 @@
       "additions": 107,
       "deletions": 0,
       "changedFiles": 3
-    },
-    {
-      "number": 32809,
-      "title": "CLI: reuse stored provider keys in model setup",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T08:56:57Z",
-      "mergedAt": null,
-      "additions": 676,
-      "deletions": 7,
-      "changedFiles": 13
-    },
-    {
-      "number": 32777,
-      "title": "Discord: allow /acp inline action",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T08:30:13Z",
-      "mergedAt": null,
-      "additions": 26,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 32602,
-      "title": "Tests: skip ios-team-id on Windows",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T05:25:55Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 13,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [
@@ -153,28 +118,9 @@
       "state": "OPEN",
       "createdAt": "2026-03-04T04:43:50Z",
       "closedAt": null
-    },
-    {
-      "number": 31544,
-      "title": "[Bug]: Warning Message When Selecting a Model with API KEY Not Configured is Not Helpful",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T09:41:58Z",
-      "closedAt": null
-    },
-    {
-      "number": 28433,
-      "title": "[Bug]: Trying to update OpenClaw via Chat Makes OpenClaw Not Responsive",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T07:17:56Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [
-    {
-      "prNumber": 32602,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T14:27:19Z"
-    },
     {
       "prNumber": 40810,
       "state": "COMMENTED",
@@ -196,25 +142,6 @@
       "createdAt": "2026-03-06T04:47:04Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 2,
@@ -224,32 +151,31 @@
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
-      "reviews": 3
+      "reviews": 2
     },
     "2026-03-06": {
       "prs": 1,
       "issues": 1,
       "reviews": 2
     },
-    "2026-03-03": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
     "2026-03-04": {
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-02-27": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

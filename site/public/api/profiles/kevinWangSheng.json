@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/118158941?v=4",
   "githubUrl": "https://github.com/kevinWangSheng",
   "score": {
-    "score": 810.44,
-    "prScore": 807.94,
+    "score": 488.8,
+    "prScore": 488.3,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2.5
+    "commentScore": 0.5
   },
-  "tier": "veteran",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 4,
-    "prs": 89,
-    "prsMerged": 1,
-    "prAdditions": 38091,
-    "prDeletions": 10740,
-    "prChangedFiles": 858,
-    "prMergeRate": 1,
+    "prs": 49,
+    "prsMerged": 0,
+    "prAdditions": 3530,
+    "prDeletions": 481,
+    "prChangedFiles": 209,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "comments": 1,
+    "commitAdditions": 221,
+    "commitDeletions": 10,
+    "commitChangedFiles": 11
   },
   "period": {
     "weekly": {
-      "prs": 28,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 89,
+      "prs": 49,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1,
+      "commitAdditions": 221,
+      "commitDeletions": 10,
+      "commits": 4
     }
   },
-  "firstContribution": "2026-02-28T09:35:57Z",
-  "lastContribution": "2026-03-06T05:41:22Z",
+  "firstContribution": "2026-03-04T11:36:25Z",
+  "lastContribution": "2026-03-15T02:38:05Z",
   "recentPRs": [
+    {
+      "number": 46753,
+      "title": "Cap global cache maps to prevent memory leaks in long-running processes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:38:05Z",
+      "mergedAt": null,
+      "additions": 455,
+      "deletions": 130,
+      "changedFiles": 17
+    },
+    {
+      "number": 46752,
+      "title": "Harden tool schemas with maxItems and maximum bounds",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:37:55Z",
+      "mergedAt": null,
+      "additions": 411,
+      "deletions": 130,
+      "changedFiles": 13
+    },
     {
       "number": 37246,
       "title": "fix(gateway): secure ws:// hostname validation when allowPrivateWs enabled",
@@ -251,66 +271,47 @@
       "additions": 67,
       "deletions": 3,
       "changedFiles": 3
-    },
-    {
-      "number": 36028,
-      "title": "fix(context): use provider-qualified cache key for context window lookup (#35976)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T11:40:52Z",
-      "mergedAt": null,
-      "additions": 54,
-      "deletions": 9,
-      "changedFiles": 5
-    },
-    {
-      "number": 36026,
-      "title": "fix(daemon): handle systemctl is-enabled failure on Ubuntu 24.04",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T11:40:10Z",
-      "mergedAt": null,
-      "additions": 34,
-      "deletions": 4,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "pr-master",
-      "label": "PR Master",
-      "description": "50+ pull requests"
-    },
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-06": {
       "prs": 8,
       "issues": 0,
       "reviews": 0
     },
     "2026-03-05": {
+      "prs": 27,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
       "prs": 12,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-03": 1,
+    "2026-03-02": 2,
+    "2026-02-28": 1
   }
 }

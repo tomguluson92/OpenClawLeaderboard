@@ -1,0 +1,171 @@
+{
+  "username": "talison",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6170?v=4",
+  "githubUrl": "https://github.com/talison",
+  "score": {
+    "score": 49.38,
+    "prScore": 7.88,
+    "issueScore": 38,
+    "reviewScore": 3,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 15,
+    "prDeletions": 3,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 7,
+    "issuesClosed": 1,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 5,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 7,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T16:59:58Z",
+  "lastContribution": "2026-03-14T21:25:03Z",
+  "recentPRs": [
+    {
+      "number": 44601,
+      "title": "fix(telegram): polling stall recovery fails when grammY retries mask the stall",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T03:25:26Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 3,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 44595,
+      "title": "[Bug]: Telegram polling stall recovery fails — watchdog tracks call initiation, not success",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T03:19:18Z",
+      "closedAt": null
+    },
+    {
+      "number": 40567,
+      "title": "Telegram: mention gating drops should produce a log entry",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T04:12:13Z",
+      "closedAt": null
+    },
+    {
+      "number": 40566,
+      "title": "ACP startup: identity reconcile runs before acpx backend ready",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T04:11:57Z",
+      "closedAt": null
+    },
+    {
+      "number": 40565,
+      "title": "Config validation: binding Zod .strict() errors should name the offending field",
+      "state": "OPEN",
+      "createdAt": "2026-03-09T04:11:46Z",
+      "closedAt": null
+    },
+    {
+      "number": 40332,
+      "title": "[Feature]: Per-binding and per-agent permissionMode for ACP sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T22:57:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 39025,
+      "title": "Feature: resolve gateway.auth.password via secrets provider before auth layer init",
+      "state": "CLOSED",
+      "createdAt": "2026-03-07T17:00:11Z",
+      "closedAt": "2026-03-09T19:37:50Z"
+    },
+    {
+      "number": 39024,
+      "title": "Misleading error when gateway.auth.password is set to an exec provider ref object",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T16:59:58Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 44601,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T21:25:03Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

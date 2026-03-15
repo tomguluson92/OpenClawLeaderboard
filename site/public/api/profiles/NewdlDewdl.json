@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/230946873?u=a90f00a101b89e5a4a63f93f381811207d4c831f&v=4",
   "githubUrl": "https://github.com/NewdlDewdl",
   "score": {
-    "score": 171.27,
-    "prScore": 166.27,
+    "score": 193.44,
+    "prScore": 187.94,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 5.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 12,
+    "prs": 13,
     "prsMerged": 0,
-    "prAdditions": 1475,
-    "prDeletions": 125,
-    "prChangedFiles": 34,
+    "prAdditions": 1640,
+    "prDeletions": 139,
+    "prChangedFiles": 40,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
+    "comments": 11,
     "commitAdditions": 42,
     "commitDeletions": 13,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 12,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 10,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 12,
+      "prs": 13,
       "issues": 0,
       "reviews": 0,
-      "comments": 10,
+      "comments": 11,
       "commitAdditions": 42,
       "commitDeletions": 13,
       "commits": 1
     }
   },
   "firstContribution": "2026-03-06T02:43:34Z",
-  "lastContribution": "2026-03-11T17:29:56Z",
+  "lastContribution": "2026-03-12T09:35:24Z",
   "recentPRs": [
+    {
+      "number": 43826,
+      "title": "fix: keep session model overrides from silently falling back",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T07:53:05Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 3,
+      "changedFiles": 5
+    },
     {
       "number": 42761,
       "title": "fix(web_search): normalize Chinese locale-style search_lang variants",
@@ -72,9 +81,9 @@
       "merged": false,
       "createdAt": "2026-03-09T21:46:35Z",
       "mergedAt": null,
-      "additions": 436,
-      "deletions": 13,
-      "changedFiles": 9
+      "additions": 568,
+      "deletions": 19,
+      "changedFiles": 10
     },
     {
       "number": 40448,
@@ -149,8 +158,8 @@
       "merged": false,
       "createdAt": "2026-03-07T09:19:25Z",
       "mergedAt": null,
-      "additions": 76,
-      "deletions": 3,
+      "additions": 69,
+      "deletions": 8,
       "changedFiles": 2
     },
     {
@@ -189,21 +198,12 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-02-28": 1
-  },
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -229,5 +229,19 @@
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-02-28": 1
   }
 }

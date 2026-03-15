@@ -27,16 +27,14 @@
     "comments": 52,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 7,
-      "issues": 13,
+      "prs": 6,
+      "issues": 12,
       "reviews": 0,
-      "comments": 52,
+      "comments": 42,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -170,28 +168,28 @@
     },
     {
       "number": 40236,
-      "title": "[Feature]: Cron job \u751f\u547d\u5468\u671f hooks - \u652f\u6301 job \u7ea7 timeout \u548c\u81ea\u52a8\u6e05\u7406\u7b56\u7565",
+      "title": "[Feature]: Cron job 生命周期 hooks - 支持 job 级 timeout 和自动清理策略",
       "state": "OPEN",
       "createdAt": "2026-03-08T20:19:04Z",
       "closedAt": null
     },
     {
       "number": 40183,
-      "title": "[Feature] Backend: \u7edf\u4e00\u5a92\u4f53\u8def\u5f84\u9a8c\u8bc1\u903b\u8f91\uff0c\u4fee\u590d symlink \u5de5\u4f5c\u533a\u95ee\u9898",
+      "title": "[Feature] Backend: 统一媒体路径验证逻辑，修复 symlink 工作区问题",
       "state": "OPEN",
       "createdAt": "2026-03-08T19:15:05Z",
       "closedAt": null
     },
     {
       "number": 40127,
-      "title": "[Feature] Control UI Login Page \u6539\u8fdb",
+      "title": "[Feature] Control UI Login Page 改进",
       "state": "OPEN",
       "createdAt": "2026-03-08T17:40:56Z",
       "closedAt": null
     },
     {
       "number": 40049,
-      "title": "[Backend Feature]: \u5b9e\u73b0 Append \u5de5\u5177\u89e3\u51b3 Write \u5de5\u5177\u6570\u636e\u4e22\u5931\u95ee\u9898",
+      "title": "[Backend Feature]: 实现 Append 工具解决 Write 工具数据丢失问题",
       "state": "OPEN",
       "createdAt": "2026-03-08T16:16:17Z",
       "closedAt": null
@@ -205,7 +203,7 @@
     },
     {
       "number": 39844,
-      "title": "[Bug] v2026.3.7 \u540e\u7aef\u56de\u5f52\uff1a\u591a\u4e2a provider \u7684 tool calls \u548c session \u5904\u7406\u51fa\u73b0\u95ee\u9898",
+      "title": "[Bug] v2026.3.7 后端回归：多个 provider 的 tool calls 和 session 处理出现问题",
       "state": "OPEN",
       "createdAt": "2026-03-08T12:45:35Z",
       "closedAt": null
@@ -219,13 +217,25 @@
     },
     {
       "number": 39373,
-      "title": "[Feature]: Web UI \u7ec4\u4ef6\u5e93\u73b0\u4ee3\u5316\u5347\u7ea7",
+      "title": "[Feature]: Web UI 组件库现代化升级",
       "state": "OPEN",
       "createdAt": "2026-03-08T02:10:47Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 7,
+      "issues": 12,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
@@ -243,17 +253,5 @@
       "description": "20+ comments"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 7,
-      "issues": 12,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

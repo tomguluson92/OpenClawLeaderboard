@@ -3,61 +3,246 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6257996?u=f99919d6e60034a8bcb6caf716962389e2b5257a&v=4",
   "githubUrl": "https://github.com/lynnzc",
   "score": {
-    "score": 655.33,
-    "prScore": 621.83,
+    "score": 743.5,
+    "prScore": 704,
     "issueScore": 0,
     "reviewScore": 6,
-    "commentScore": 27.5
+    "commentScore": 33.5
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 68,
-    "prsMerged": 1,
-    "prAdditions": 12978,
-    "prDeletions": 649,
-    "prChangedFiles": 286,
-    "prMergeRate": 1,
+    "prs": 80,
+    "prsMerged": 0,
+    "prAdditions": 13930,
+    "prDeletions": 805,
+    "prChangedFiles": 324,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 55,
+    "comments": 67,
     "commitAdditions": 24,
     "commitDeletions": 2,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 59,
+      "prs": 58,
       "issues": 0,
       "reviews": 2,
-      "comments": 51,
+      "comments": 50,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 68,
+      "prs": 80,
       "issues": 0,
       "reviews": 2,
-      "comments": 55,
+      "comments": 67,
       "commitAdditions": 24,
       "commitDeletions": 2,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T05:33:08Z",
-  "lastContribution": "2026-03-12T05:06:42Z",
+  "firstContribution": "2026-03-04T08:58:45Z",
+  "lastContribution": "2026-03-13T10:38:42Z",
   "recentPRs": [
+    {
+      "number": 44987,
+      "title": "fix(config): accept legacy diagnostics.otel.captureContent key",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:24:48Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 44765,
+      "title": "Config: prevent Anthropic alias TDZ during gateway startup",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T06:43:36Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 43999,
+      "title": "fix(gateway): avoid self-counting backend requester in exec approvals",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T11:49:33Z",
+      "mergedAt": null,
+      "additions": 89,
+      "deletions": 5,
+      "changedFiles": 4
+    },
+    {
+      "number": 43980,
+      "title": "Fix OpenRouter auth header regression for marker API keys",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T11:22:04Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43955,
+      "title": "Agents: prevent empty Gemini function response names",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T10:44:01Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 8,
+      "changedFiles": 4
+    },
+    {
+      "number": 43924,
+      "title": "CLI: block gateway restart on invalid config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T10:05:16Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43914,
+      "title": "CLI: honor OPENCLAW_GATEWAY_BIND in gateway run",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T09:50:36Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43883,
+      "title": "Cron: prevent isolated jobs from waiting on stale descendants",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T09:14:52Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 43860,
+      "title": "fix(feishu): preserve non-ASCII filenames for file uploads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T08:36:23Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 93,
+      "changedFiles": 2
+    },
+    {
+      "number": 43836,
+      "title": "Fix malformed assistant replay content in session sanitization",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T08:06:32Z",
+      "mergedAt": null,
+      "additions": 174,
+      "deletions": 14,
+      "changedFiles": 3
+    },
+    {
+      "number": 43820,
+      "title": "Gateway: allow explicit none auth on non-loopback binds",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T07:46:21Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 21,
+      "changedFiles": 5
+    },
+    {
+      "number": 43787,
+      "title": "fix(telegram): prefer active preview for matching tool-call finals",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T07:14:10Z",
+      "mergedAt": null,
+      "additions": 92,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 43749,
+      "title": "Onboarding: add DingTalk first-install channel option",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T06:21:36Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 43746,
+      "title": "UI: keep main session visible in chat session dropdown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T06:21:12Z",
+      "mergedAt": null,
+      "additions": 109,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43733,
+      "title": "Fix assistant tool-call replay content null regression",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T06:00:00Z",
+      "mergedAt": null,
+      "additions": 128,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 43715,
+      "title": "Feishu: prevent cross-reply merge in streaming final cards",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T05:43:44Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 43708,
+      "title": "Fix Feishu route matching for legacy lark bindings",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T05:28:29Z",
+      "mergedAt": null,
+      "additions": 79,
+      "deletions": 2,
+      "changedFiles": 2
+    },
     {
       "number": 43694,
       "title": "CLI: support OpenAI Codex OAuth profile aliases",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T05:06:42Z",
       "mergedAt": null,
@@ -68,7 +253,7 @@
     {
       "number": 43682,
       "title": "Backup: stream archive writes to avoid silent partial tmp files",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T04:54:36Z",
       "mergedAt": null,
@@ -86,193 +271,6 @@
       "additions": 195,
       "deletions": 12,
       "changedFiles": 6
-    },
-    {
-      "number": 43672,
-      "title": "Fix JSON-wrapped assistant text for openai-completions custom APIs",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-12T04:28:40Z",
-      "mergedAt": null,
-      "additions": 127,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 43639,
-      "title": "Gateway: prevent detached respawn when launchd already owns the process",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-12T03:37:23Z",
-      "mergedAt": null,
-      "additions": 108,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 43623,
-      "title": "Runner: normalize kimi-coding XML tool calls",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-12T03:03:25Z",
-      "mergedAt": null,
-      "additions": 324,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 43622,
-      "title": "Gateway: honor trusted-proxy headers before local fallback auth",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-12T03:02:34Z",
-      "mergedAt": null,
-      "additions": 249,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 43336,
-      "title": "Nodes tool: honor full/off policy for node system.run",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T16:24:59Z",
-      "mergedAt": null,
-      "additions": 405,
-      "deletions": 13,
-      "changedFiles": 2
-    },
-    {
-      "number": 43330,
-      "title": "macOS node: add system.run.prepare support",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T16:21:29Z",
-      "mergedAt": null,
-      "additions": 183,
-      "deletions": 5,
-      "changedFiles": 7
-    },
-    {
-      "number": 43312,
-      "title": "Fix tool dispatch for malformed or missing tool call names",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T15:59:36Z",
-      "mergedAt": null,
-      "additions": 199,
-      "deletions": 27,
-      "changedFiles": 2
-    },
-    {
-      "number": 43310,
-      "title": "UI: add Control UI agent switcher for chat sessions",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T15:57:38Z",
-      "mergedAt": null,
-      "additions": 218,
-      "deletions": 23,
-      "changedFiles": 3
-    },
-    {
-      "number": 43265,
-      "title": "Fix opencode-go env API key resolution",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T14:46:02Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 43252,
-      "title": "fix(telegram): avoid stall restarts during active update processing",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T14:15:53Z",
-      "mergedAt": null,
-      "additions": 103,
-      "deletions": 10,
-      "changedFiles": 3
-    },
-    {
-      "number": 43240,
-      "title": "Fix session-link reload dropping Control UI token",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-11T13:58:58Z",
-      "mergedAt": null,
-      "additions": 176,
-      "deletions": 2,
-      "changedFiles": 4
-    },
-    {
-      "number": 43221,
-      "title": "Hooks: fix bundled hook discovery in pnpm install layouts",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-11T13:37:52Z",
-      "mergedAt": null,
-      "additions": 234,
-      "deletions": 20,
-      "changedFiles": 2
-    },
-    {
-      "number": 43219,
-      "title": "Agents: add first-class workspace ls tool",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T13:37:47Z",
-      "mergedAt": null,
-      "additions": 191,
-      "deletions": 3,
-      "changedFiles": 11
-    },
-    {
-      "number": 42886,
-      "title": "Fix Feishu dynamicAgentCreation routing on named accounts",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-11T06:24:27Z",
-      "mergedAt": null,
-      "additions": 189,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 42881,
-      "title": "Exec: add optional high-risk command confirmation guard",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T06:15:35Z",
-      "mergedAt": null,
-      "additions": 944,
-      "deletions": 38,
-      "changedFiles": 13
-    },
-    {
-      "number": 42865,
-      "title": "fix(feishu): restore command queue bypass during active runs",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T06:03:25Z",
-      "mergedAt": null,
-      "additions": 51,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 42829,
-      "title": "Tools: add Tavily as a web_search provider",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T05:17:44Z",
-      "mergedAt": null,
-      "additions": 330,
-      "deletions": 17,
-      "changedFiles": 14
     }
   ],
   "recentIssues": [],
@@ -288,6 +286,58 @@
       "createdAt": "2026-03-10T10:30:31Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 22,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-11": {
+      "prs": 23,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-09": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -318,22 +368,5 @@
   ],
   "recentCommitDays": {
     "2026-03-04": 1
-  },
-  "recentActivityDays": {
-    "2026-03-12": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-11": {
-      "prs": 13,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
-    }
   }
 }

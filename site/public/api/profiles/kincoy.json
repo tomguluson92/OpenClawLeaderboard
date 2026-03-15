@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/43495122?u=69a706822272a02d435d0c04174a9b77c8aa8294&v=4",
   "githubUrl": "https://github.com/kincoy",
   "score": {
-    "score": 90.11,
-    "prScore": 79.11,
+    "score": 122.97,
+    "prScore": 111.97,
     "issueScore": 0,
     "reviewScore": 6,
     "commentScore": 5
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 11,
     "prsMerged": 0,
-    "prAdditions": 234,
-    "prDeletions": 10,
-    "prChangedFiles": 14,
+    "prAdditions": 306,
+    "prDeletions": 33,
+    "prChangedFiles": 20,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 10,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 11,
       "issues": 0,
       "reviews": 2,
       "comments": 10,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 11,
       "issues": 0,
       "reviews": 2,
       "comments": 10,
@@ -52,8 +50,41 @@
     }
   },
   "firstContribution": "2026-03-09T14:40:31Z",
-  "lastContribution": "2026-03-12T04:15:22Z",
+  "lastContribution": "2026-03-12T14:43:28Z",
   "recentPRs": [
+    {
+      "number": 44140,
+      "title": "fix(skills): do not enforce realpath containment for managed skills",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T14:43:28Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43966,
+      "title": "fix(macos): add logging to diagnose menu bar token resolution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T11:01:09Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 43831,
+      "title": "fix(sandbox): prune should also clean up workspace directories",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T08:00:35Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 19,
+      "changedFiles": 3
+    },
     {
       "number": 43660,
       "title": "fix(launchd): stop should keep service registered for subsequent start",
@@ -61,9 +92,9 @@
       "merged": false,
       "createdAt": "2026-03-12T04:06:38Z",
       "mergedAt": null,
-      "additions": 27,
-      "deletions": 3,
-      "changedFiles": 1
+      "additions": 32,
+      "deletions": 6,
+      "changedFiles": 2
     },
     {
       "number": 43345,
@@ -156,16 +187,9 @@
       "createdAt": "2026-03-10T03:01:54Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-12": {
-      "prs": 1,
+      "prs": 4,
       "issues": 0,
       "reviews": 0
     },
@@ -184,5 +208,18 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

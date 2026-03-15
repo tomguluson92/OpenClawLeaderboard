@@ -1,0 +1,172 @@
+{
+  "username": "ToneLoke",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10687151?u=121a31564b161fdb2ca1f0f27d1be0a26674913b&v=4",
+  "githubUrl": "https://github.com/ToneLoke",
+  "score": {
+    "score": 68.81,
+    "prScore": 40.81,
+    "issueScore": 28,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 197,
+    "prDeletions": 10,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 5,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-03T17:37:20Z",
+  "lastContribution": "2026-03-14T05:27:20Z",
+  "recentPRs": [
+    {
+      "number": 45763,
+      "title": "feat(agents): structured FallbackSummaryError with human-friendly rate limit messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T05:27:20Z",
+      "mergedAt": null,
+      "additions": 104,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 45762,
+      "title": "feat(agents): auto-retry with exponential backoff on 429 rate limits",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T05:27:06Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 45761,
+      "title": "fix(agents): recognize OpenAI/Codex server_error as retryable for model fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T05:26:53Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45760,
+      "title": "fix(agents): add MEMORY.md to minimal bootstrap allowlist",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T05:26:43Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 39307,
+      "title": "feat: surface mid-thread context reset/compaction to users",
+      "state": "OPEN",
+      "createdAt": "2026-03-08T00:53:58Z",
+      "closedAt": null
+    },
+    {
+      "number": 36404,
+      "title": "Discord health-monitor restart storm: 'disconnected' classified as 'stuck', no reconnect config parity with WhatsApp",
+      "state": "CLOSED",
+      "createdAt": "2026-03-05T16:08:59Z",
+      "closedAt": "2026-03-08T02:02:20Z"
+    },
+    {
+      "number": 35764,
+      "title": "Feature: Cross-channel mention forwarding — notify designated channel when agent is @mentioned",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T08:32:22Z",
+      "closedAt": null
+    },
+    {
+      "number": 35160,
+      "title": "fix: OpenAI/Codex server_error not recognized as retryable — model fallback skipped",
+      "state": "OPEN",
+      "createdAt": "2026-03-05T01:23:10Z",
+      "closedAt": null
+    },
+    {
+      "number": 33320,
+      "title": "Binary file attachments (.msg, .zip, etc.) injected as raw text into prompt context",
+      "state": "OPEN",
+      "createdAt": "2026-03-03T17:37:20Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {}
+}

@@ -1,0 +1,120 @@
+{
+  "username": "SayrWolfridge",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/267323413?v=4",
+  "githubUrl": "https://github.com/SayrWolfridge",
+  "score": {
+    "score": 34.63,
+    "prScore": 22.13,
+    "issueScore": 0,
+    "reviewScore": 12,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 193,
+    "prDeletions": 32,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T14:38:38Z",
+  "lastContribution": "2026-03-13T22:58:23Z",
+  "recentPRs": [
+    {
+      "number": 45515,
+      "title": "fix(memory-flush): restore HH-MM timestamped auto-flush path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T22:57:28Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 25,
+      "changedFiles": 4
+    },
+    {
+      "number": 44133,
+      "title": "fix(compaction): stabilize toolResult trim/prune flow in safeguard",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T14:38:38Z",
+      "mergedAt": null,
+      "additions": 161,
+      "deletions": 7,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 44133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T13:18:47Z"
+    },
+    {
+      "prNumber": 44133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T13:18:45Z"
+    },
+    {
+      "prNumber": 44133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T13:18:37Z"
+    },
+    {
+      "prNumber": 44133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T13:18:35Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

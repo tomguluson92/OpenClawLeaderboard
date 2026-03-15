@@ -1,0 +1,130 @@
+{
+  "username": "hxy91819",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8814856?u=5b8ad2c515bbc16d4c757cc09441c0a7686a0ce5&v=4",
+  "githubUrl": "https://github.com/hxy91819",
+  "score": {
+    "score": 61.24,
+    "prScore": 42.74,
+    "issueScore": 0,
+    "reviewScore": 18,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 847,
+    "prDeletions": 90,
+    "prChangedFiles": 14,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T11:04:29Z",
+  "lastContribution": "2026-03-15T03:09:34Z",
+  "recentPRs": [
+    {
+      "number": 46763,
+      "title": "fix(onboarding): use scoped plugin snapshots to prevent OOM on low-memory hosts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T02:51:26Z",
+      "mergedAt": null,
+      "additions": 841,
+      "deletions": 86,
+      "changedFiles": 12
+    },
+    {
+      "number": 45022,
+      "title": "AI-assisted: Onboarding: avoid plugin-registry reload for built-in QuickStart channels",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T11:04:29Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 4,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 46763,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T03:09:34Z"
+    },
+    {
+      "prNumber": 46763,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T03:03:49Z"
+    },
+    {
+      "prNumber": 46763,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T03:03:12Z"
+    },
+    {
+      "prNumber": 45022,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T11:20:35Z"
+    },
+    {
+      "prNumber": 45022,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T11:12:29Z"
+    },
+    {
+      "prNumber": 45022,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T11:12:11Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/22080883?v=4",
   "githubUrl": "https://github.com/baccula",
   "score": {
-    "score": 24.05,
+    "score": 16.05,
     "prScore": 11.05,
-    "issueScore": 13,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,22 +19,20 @@
     "prDeletions": 11,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
+    "issues": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 29,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-01T02:31:34Z",
+  "firstContribution": "2026-03-08T03:28:51Z",
   "lastContribution": "2026-03-08T03:33:07Z",
   "recentPRs": [
     {
@@ -73,16 +71,16 @@
       "state": "OPEN",
       "createdAt": "2026-03-08T03:28:51Z",
       "closedAt": null
-    },
-    {
-      "number": 30234,
-      "title": "Telegram native command auth in groups checks DM allowlist instead of groupAllowFrom",
-      "state": "CLOSED",
-      "createdAt": "2026-03-01T02:31:34Z",
-      "closedAt": "2026-03-08T00:47:58Z"
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting"
@@ -90,17 +88,5 @@
   "achievements": [],
   "recentCommitDays": {
     "2026-02-01": 1
-  },
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-01": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

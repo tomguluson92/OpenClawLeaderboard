@@ -1,0 +1,161 @@
+{
+  "username": "IgnacioPro",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43138083?u=1ecb7c11a7970718ea5540a628b59a9f873d14b7&v=4",
+  "githubUrl": "https://github.com/IgnacioPro",
+  "score": {
+    "score": 98.75,
+    "prScore": 74.75,
+    "issueScore": 23,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 390,
+    "prDeletions": 22,
+    "prChangedFiles": 22,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T21:41:09Z",
+  "lastContribution": "2026-03-14T23:03:36Z",
+  "recentPRs": [
+    {
+      "number": 46620,
+      "title": "fix(ui): use totalTokens instead of inputTokens for context notice banner",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T22:27:29Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 46611,
+      "title": "fix: load bundled outbound send deps via plugin sdk",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T22:15:34Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 10,
+      "changedFiles": 12
+    },
+    {
+      "number": 46607,
+      "title": "Support inline Google audio @file refs in headless payloads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T21:57:40Z",
+      "mergedAt": null,
+      "additions": 184,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 46593,
+      "title": "fix: skip Gemini CLI audio autodetect in headless flows",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T21:37:35Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 46559,
+      "title": "Fix internal/planning chat leaks when verbose is off",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T20:32:53Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 8,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 46601,
+      "title": "Support real multimodal audio attachment for Gemini CLI in headless @file flows",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T21:50:44Z",
+      "closedAt": null
+    },
+    {
+      "number": 46588,
+      "title": "Telegram audio transcription via Gemini CLI headless is unreliable: @audio paths may trigger invalid run_shell_command fallback",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T21:31:50Z",
+      "closedAt": null
+    },
+    {
+      "number": 46554,
+      "title": "Internal assistant planning text leaks to user chat even with /verbose off",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T20:22:32Z",
+      "closedAt": null
+    },
+    {
+      "number": 39208,
+      "title": "Telegram: duplicate/partial follow-up message after assistant reply",
+      "state": "CLOSED",
+      "createdAt": "2026-03-07T21:41:09Z",
+      "closedAt": "2026-03-08T01:00:26Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 5,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

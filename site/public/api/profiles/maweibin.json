@@ -3,61 +3,125 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/18023423?v=4",
   "githubUrl": "https://github.com/maweibin",
   "score": {
-    "score": 381.76,
-    "prScore": 355.76,
-    "issueScore": 13,
-    "reviewScore": 6,
-    "commentScore": 7
+    "score": 343.68,
+    "prScore": 334.68,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 4
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 33,
+    "prs": 30,
     "prsMerged": 1,
-    "prAdditions": 2567,
-    "prDeletions": 314,
-    "prChangedFiles": 112,
+    "prAdditions": 2583,
+    "prDeletions": 282,
+    "prChangedFiles": 107,
     "prMergeRate": 3,
-    "issues": 2,
-    "issuesClosed": 1,
-    "reviews": 2,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 14,
+    "comments": 8,
     "commitAdditions": 453,
     "commitDeletions": 16,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 25
   },
   "period": {
     "weekly": {
-      "prs": 18,
+      "prs": 13,
       "issues": 0,
       "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 265,
-      "commitDeletions": 11,
-      "commits": 1
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 33,
-      "issues": 2,
-      "reviews": 2,
-      "comments": 14,
+      "prs": 30,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 8,
       "commitAdditions": 453,
       "commitDeletions": 16,
       "commits": 2
     }
   },
-  "firstContribution": "2026-02-28T03:16:49Z",
-  "lastContribution": "2026-03-12T03:37:18Z",
+  "firstContribution": "2026-03-03T02:35:51Z",
+  "lastContribution": "2026-03-13T09:57:48Z",
   "recentPRs": [
+    {
+      "number": 44955,
+      "title": "fix: respect provider-level contextWindow over model metadata",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T09:57:48Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44950,
+      "title": "fix: respect provider-level contextWindow over model metadata",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T09:54:19Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44944,
+      "title": "fix: respect provider-level contextWindow over model metadata",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T09:45:29Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 44903,
+      "title": "fix: respect provider-level contextWindow over model metadata",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T09:06:09Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 44879,
+      "title": "fix: avoid TDZ on Anthropic model aliases in context pruning defaults",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T08:46:25Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 44015,
+      "title": "gateway: enforce 512 KB max length for chat.send message",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T12:10:32Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 2,
+      "changedFiles": 4
+    },
     {
       "number": 43638,
       "title": "fix(gateway): keep plugin fallback context in sync after config hot-reload",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T03:37:18Z",
       "mergedAt": null,
@@ -207,72 +271,6 @@
       "additions": 55,
       "deletions": 4,
       "changedFiles": 3
-    },
-    {
-      "number": 36049,
-      "title": "feat(security): grouped fix result summary (Config / Permissions / Needs manual review)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T11:54:35Z",
-      "mergedAt": null,
-      "additions": 146,
-      "deletions": 34,
-      "changedFiles": 4
-    },
-    {
-      "number": 35801,
-      "title": "fix: remove deprecated BARE_SESSION_RESET_PROMPT export",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T08:58:51Z",
-      "mergedAt": null,
-      "additions": 0,
-      "deletions": 5,
-      "changedFiles": 2
-    },
-    {
-      "number": 35661,
-      "title": "gateway: validate config before call when config is loaded from disk",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T07:21:23Z",
-      "mergedAt": null,
-      "additions": 72,
-      "deletions": 1,
-      "changedFiles": 4
-    },
-    {
-      "number": 35592,
-      "title": "refactor(cron-cli): use central parseDurationMs, drop duplicate implementation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T06:37:48Z",
-      "mergedAt": null,
-      "additions": 56,
-      "deletions": 30,
-      "changedFiles": 5
-    },
-    {
-      "number": 35264,
-      "title": "CLI: support OPENCLAW_VERBOSE env for verbose without --verbose flag",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T02:40:49Z",
-      "mergedAt": null,
-      "additions": 70,
-      "deletions": 6,
-      "changedFiles": 4
-    },
-    {
-      "number": 35235,
-      "title": "CLI: support OPENCLAW_VERBOSE env for verbose without --verbose flag",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T02:18:40Z",
-      "mergedAt": null,
-      "additions": 49,
-      "deletions": 5,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [
@@ -282,52 +280,17 @@
       "state": "OPEN",
       "createdAt": "2026-03-03T02:35:51Z",
       "closedAt": null
-    },
-    {
-      "number": 29378,
-      "title": "Add a formatted log file when JSON logs are hard to read and Control UI is unusable",
-      "state": "CLOSED",
-      "createdAt": "2026-02-28T03:16:49Z",
-      "closedAt": "2026-03-03T02:24:02Z"
     }
   ],
-  "recentReviews": [
-    {
-      "prNumber": 32442,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T06:49:51Z"
-    },
-    {
-      "prNumber": 32442,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T03:16:59Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-05": 1,
-    "2026-02-22": 1
-  },
+  "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-12": {
+    "2026-03-13": {
       "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 6,
       "issues": 0,
       "reviews": 0
     },
@@ -352,19 +315,35 @@
       "reviews": 0
     },
     "2026-03-05": {
-      "prs": 6,
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     },
     "2026-03-03": {
       "prs": 0,
       "issues": 1,
-      "reviews": 2
-    },
-    "2026-02-28": {
-      "prs": 0,
-      "issues": 1,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-05": 1,
+    "2026-02-22": 1
   }
 }

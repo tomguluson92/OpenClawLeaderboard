@@ -1,0 +1,122 @@
+{
+  "username": "jeremykoerber",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2133982?u=bc8df49e15fa7146863594806f0619fadb69c7fb&v=4",
+  "githubUrl": "https://github.com/jeremykoerber",
+  "score": {
+    "score": 29.98,
+    "prScore": 7.48,
+    "issueScore": 20,
+    "reviewScore": 0,
+    "commentScore": 2.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 2,
+    "prDeletions": 2,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-07T02:08:29Z",
+  "lastContribution": "2026-03-15T00:59:25Z",
+  "recentPRs": [
+    {
+      "number": 46686,
+      "title": "fix(slack): pass Block Kit blocks in streaming final-edit + unique button action_ids",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T00:59:25Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 46683,
+      "title": "Slack interactive reply button clicks not routed to agent sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T00:56:49Z",
+      "closedAt": null
+    },
+    {
+      "number": 46647,
+      "title": "Slack system prompt incorrectly checks inlineButtons instead of interactiveReplies",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T23:25:45Z",
+      "closedAt": null
+    },
+    {
+      "number": 38469,
+      "title": "macOS app: plugin system prompt injections leak into visible chat display",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T02:08:41Z",
+      "closedAt": null
+    },
+    {
+      "number": 38468,
+      "title": "macOS app: clipboard image paste not supported in chat input",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T02:08:29Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

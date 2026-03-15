@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/238404526?v=4",
   "githubUrl": "https://github.com/uninhibite-scholar",
   "score": {
-    "score": 526.53,
-    "prScore": 513.53,
+    "score": 526.52,
+    "prScore": 513.52,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 13
@@ -15,7 +15,7 @@
     "commits": 0,
     "prs": 56,
     "prsMerged": 0,
-    "prAdditions": 2527,
+    "prAdditions": 2525,
     "prDeletions": 773,
     "prChangedFiles": 199,
     "prMergeRate": 0,
@@ -27,8 +27,6 @@
     "comments": 26,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -61,7 +59,7 @@
       "merged": false,
       "createdAt": "2026-03-12T02:35:43Z",
       "mergedAt": null,
-      "additions": 9,
+      "additions": 7,
       "deletions": 3,
       "changedFiles": 1
     },
@@ -277,6 +275,23 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 33,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 18,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion"
@@ -298,17 +313,5 @@
       "description": "20+ comments"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-12": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 15,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

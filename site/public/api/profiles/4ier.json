@@ -1,0 +1,105 @@
+{
+  "username": "4ier",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5648066?u=e99c32e60aa532343789048c4aca0dfb6de68050&v=4",
+  "githubUrl": "https://github.com/4ier",
+  "score": {
+    "score": 34.06,
+    "prScore": 22.56,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 258,
+    "prDeletions": 4,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 53,
+    "commitDeletions": 2,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 53,
+      "commitDeletions": 2,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-07T16:37:55Z",
+  "lastContribution": "2026-03-13T12:27:43Z",
+  "recentPRs": [
+    {
+      "number": 45072,
+      "title": "fix(agents): strip thinking blocks with invalid signatures before API replay",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T12:27:43Z",
+      "mergedAt": null,
+      "additions": 258,
+      "deletions": 4,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45010,
+      "title": "Invalid signature in thinking block: empty thinkingSignature from Bedrock causes unrecoverable session errors",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T10:46:01Z",
+      "closedAt": null
+    },
+    {
+      "number": 39010,
+      "title": "Critical: Telegram message replay storm after upgrade to 2026.3.2",
+      "state": "OPEN",
+      "createdAt": "2026-03-07T16:37:55Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-28": 1
+  }
+}

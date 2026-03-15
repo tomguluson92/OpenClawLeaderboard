@@ -1,0 +1,142 @@
+{
+  "username": "jnuyao",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2928523?u=3ceceed3638a3a4f2663336fce784aeb10657bca&v=4",
+  "githubUrl": "https://github.com/jnuyao",
+  "score": {
+    "score": 67.02,
+    "prScore": 62.02,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 402,
+    "prDeletions": 28,
+    "prChangedFiles": 11,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T09:02:33Z",
+  "lastContribution": "2026-03-14T10:01:05Z",
+  "recentPRs": [
+    {
+      "number": 45960,
+      "title": "fix(feishu): capture unhandled websocket rejections to enable self-healing restarts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T10:01:05Z",
+      "mergedAt": null,
+      "additions": 135,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 45904,
+      "title": "fix(feishu): Handle WebSocket unhandledrections to prevent zombie EventListener connections",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T08:51:19Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45011,
+      "title": "[WebUI] Fix missing styles and empty line layouts in Gateway Logs panel",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:48:16Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 44953,
+      "title": "[WebUI] Use responsive CSS Tooltips for Chat Controls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T09:56:09Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 11,
+      "changedFiles": 3
+    },
+    {
+      "number": 44938,
+      "title": "[WebUI] Fix missing auto-refresh for Usage tab",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T09:37:44Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44897,
+      "title": "[WebUI] Fix infinite logo loading screen on chat.history RPC timeouts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T09:02:33Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 8,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/166608075?u=f64bab3157fafcc9cde6ccb077998fd1ad176f2d&v=4",
   "githubUrl": "https://github.com/Jah-yee",
   "score": {
-    "score": 252.02,
-    "prScore": 240.02,
+    "score": 117.26,
+    "prScore": 111.76,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 12
+    "commentScore": 5.5
   },
-  "tier": "active",
-  "characterClass": "Contributor",
+  "tier": "regular",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 15,
+    "prs": 9,
     "prsMerged": 0,
-    "prAdditions": 6803,
-    "prDeletions": 1311,
-    "prChangedFiles": 112,
+    "prAdditions": 4207,
+    "prDeletions": 985,
+    "prChangedFiles": 19,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 24,
+    "comments": 11,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 15,
+      "prs": 9,
       "issues": 0,
       "reviews": 0,
-      "comments": 24,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T22:30:14Z",
+  "firstContribution": "2026-03-03T03:34:57Z",
   "lastContribution": "2026-03-10T11:38:58Z",
   "recentPRs": [
     {
@@ -152,94 +150,10 @@
       "additions": 3401,
       "deletions": 976,
       "changedFiles": 6
-    },
-    {
-      "number": 33481,
-      "title": "Feishu/Lark: user-friendly formatting for agent and exec errors",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T20:46:42Z",
-      "mergedAt": null,
-      "additions": 151,
-      "deletions": 238,
-      "changedFiles": 15
-    },
-    {
-      "number": 33051,
-      "title": "Use provider-native hints to avoid Brave prompts for MiniMax",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T13:27:20Z",
-      "mergedAt": null,
-      "additions": 139,
-      "deletions": 4,
-      "changedFiles": 7
-    },
-    {
-      "number": 32823,
-      "title": "fix: remove duplicate cleaned variable in stripInlineStatus",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T09:10:17Z",
-      "mergedAt": null,
-      "additions": 590,
-      "deletions": 22,
-      "changedFiles": 20
-    },
-    {
-      "number": 32644,
-      "title": "fix: resolve infinite recursion + remove log file + discord wildcard",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T06:28:44Z",
-      "mergedAt": null,
-      "additions": 575,
-      "deletions": 28,
-      "changedFiles": 21
-    },
-    {
-      "number": 32507,
-      "title": "test PR",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T04:05:03Z",
-      "mergedAt": null,
-      "additions": 580,
-      "deletions": 27,
-      "changedFiles": 23
-    },
-    {
-      "number": 32242,
-      "title": "fix: preserve newlines in stripInlineStatus",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T22:30:14Z",
-      "mergedAt": null,
-      "additions": 561,
-      "deletions": 7,
-      "changedFiles": 7
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
@@ -260,16 +174,13 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

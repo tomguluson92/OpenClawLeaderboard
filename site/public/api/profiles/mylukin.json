@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1021019?v=4",
   "githubUrl": "https://github.com/mylukin",
   "score": {
-    "score": 309.82,
+    "score": 309.32,
     "prScore": 302.32,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 7.5
+    "commentScore": 7
   },
   "tier": "active",
   "characterClass": "Builder",
@@ -24,19 +24,17 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 15,
+    "comments": 14,
     "commitAdditions": 8,
     "commitDeletions": 1,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 20,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 14,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,13 +43,13 @@
       "prs": 20,
       "issues": 0,
       "reviews": 0,
-      "comments": 15,
+      "comments": 14,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-27T07:35:06Z",
+  "firstContribution": "2026-03-05T07:30:00Z",
   "lastContribution": "2026-03-09T19:43:41Z",
   "recentPRs": [
     {
@@ -277,6 +275,18 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion",
@@ -296,17 +306,5 @@
   ],
   "recentCommitDays": {
     "2026-01-29": 1
-  },
-  "recentActivityDays": {
-    "2026-03-07": {
-      "prs": 11,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 9,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

@@ -3,39 +3,37 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/95896816?v=4",
   "githubUrl": "https://github.com/yaseenkadlemakki",
   "score": {
-    "score": 41.03,
-    "prScore": 23.03,
+    "score": 50.05,
+    "prScore": 23.05,
     "issueScore": 18,
-    "reviewScore": 0,
+    "reviewScore": 9,
     "commentScore": 0
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "regular",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 223,
+    "prAdditions": 227,
     "prDeletions": 188,
     "prChangedFiles": 5,
     "prMergeRate": 0,
     "issues": 3,
     "issuesClosed": 1,
-    "reviews": 0,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 3,
-      "reviews": 0,
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -44,7 +42,7 @@
     "monthly": {
       "prs": 2,
       "issues": 3,
-      "reviews": 0,
+      "reviews": 3,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -52,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-07T19:56:04Z",
-  "lastContribution": "2026-03-08T21:23:22Z",
+  "lastContribution": "2026-03-12T19:40:04Z",
   "recentPRs": [
     {
       "number": 40273,
@@ -61,7 +59,7 @@
       "merged": false,
       "createdAt": "2026-03-08T21:23:22Z",
       "mergedAt": null,
-      "additions": 143,
+      "additions": 147,
       "deletions": 0,
       "changedFiles": 2
     },
@@ -100,13 +98,23 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+  "recentReviews": [
+    {
+      "prNumber": 40273,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T19:40:04Z"
+    },
+    {
+      "prNumber": 40273,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T19:37:50Z"
+    },
+    {
+      "prNumber": 40273,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T19:37:29Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 1,
@@ -117,6 +125,24 @@
       "prs": 1,
       "issues": 2,
       "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

@@ -1,0 +1,127 @@
+{
+  "username": "PenguinMiaou",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/209870260?v=4",
+  "githubUrl": "https://github.com/PenguinMiaou",
+  "score": {
+    "score": 87.76,
+    "prScore": 72.26,
+    "issueScore": 15,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 1126,
+    "prDeletions": 109,
+    "prChangedFiles": 24,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T05:01:56Z",
+  "lastContribution": "2026-03-12T09:02:45Z",
+  "recentPRs": [
+    {
+      "number": 43874,
+      "title": "feat(feishu): fix board tool SDK paths and add create_whiteboard action",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T09:02:45Z",
+      "mergedAt": null,
+      "additions": 548,
+      "deletions": 1,
+      "changedFiles": 9
+    },
+    {
+      "number": 43868,
+      "title": "feat(feishu): add feishu_sheets tool for reading spreadsheet data",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T08:52:41Z",
+      "mergedAt": null,
+      "additions": 198,
+      "deletions": 1,
+      "changedFiles": 7
+    },
+    {
+      "number": 43713,
+      "title": "feat(feishu): add feishu_calendar tool for calendar event management",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T05:42:35Z",
+      "mergedAt": null,
+      "additions": 380,
+      "deletions": 107,
+      "changedFiles": 8
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43696,
+      "title": "Feature request: feishu_calendar tool — create events, invite attendees, book meeting rooms",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T05:11:20Z",
+      "closedAt": null
+    },
+    {
+      "number": 43691,
+      "title": "Anthropic thinking block 'signature' field lost during session persistence — causes API rejection",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T05:02:13Z",
+      "closedAt": null
+    },
+    {
+      "number": 43690,
+      "title": "Feishu: card fails with 'table number over limit' — should fallback or render tables as images",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T05:01:56Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

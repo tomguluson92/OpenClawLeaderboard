@@ -1,0 +1,114 @@
+{
+  "username": "xiaokhkh",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10765730?u=5c600cd78869783b570908bd98040cd5c6e71596&v=4",
+  "githubUrl": "https://github.com/xiaokhkh",
+  "score": {
+    "score": 33.79,
+    "prScore": 33.79,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 8,
+    "prDeletions": 16,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T11:54:59Z",
+  "lastContribution": "2026-03-14T12:01:47Z",
+  "recentPRs": [
+    {
+      "number": 46078,
+      "title": "docs: fix sub-agent bootstrap file list (5 files, not 2)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T12:01:47Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 46069,
+      "title": "fix(memory-lancedb): use float encoding for Ollama embedding compatibility",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T11:55:49Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 46067,
+      "title": "fix(gateway): preserve device identity for loopback probe",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T11:55:19Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 10,
+      "changedFiles": 1
+    },
+    {
+      "number": 46065,
+      "title": "fix(sandbox): workspaceAccess 'none' should mount sandbox workspace as read-write",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T11:54:59Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 3,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

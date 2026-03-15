@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/189487110?u=d7f1e533285dc7c49031796c3c90b1f9d5cee30d&v=4",
   "githubUrl": "https://github.com/glitch418x",
   "score": {
-    "score": 56.28,
-    "prScore": 31.28,
-    "issueScore": 24,
+    "score": 139.72,
+    "prScore": 123.22,
+    "issueScore": 16,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Hunter",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 181,
-    "prDeletions": 22,
-    "prChangedFiles": 9,
-    "prMergeRate": 0,
-    "issues": 3,
-    "issuesClosed": 3,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 778,
+    "prDeletions": 170,
+    "prChangedFiles": 37,
+    "prMergeRate": 33,
+    "issues": 2,
+    "issuesClosed": 2,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 112,
-    "commitDeletions": 8,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 5
+    "comments": 1,
+    "commitAdditions": 178,
+    "commitDeletions": 11,
+    "commitChangedFiles": 10
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 66,
+      "commitDeletions": 3,
+      "commits": 1
     },
     "monthly": {
-      "prs": 1,
-      "issues": 3,
+      "prs": 3,
+      "issues": 2,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 112,
-      "commitDeletions": 8,
-      "commits": 1
+      "comments": 1,
+      "commitAdditions": 178,
+      "commitDeletions": 11,
+      "commits": 2
     }
   },
-  "firstContribution": "2026-03-01T11:17:37Z",
-  "lastContribution": "2026-03-11T06:59:00Z",
+  "firstContribution": "2026-03-04T19:01:38Z",
+  "lastContribution": "2026-03-13T15:09:04Z",
   "recentPRs": [
+    {
+      "number": 45223,
+      "title": "feat: non-terminal failover handling for faster, quieter model fallback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T15:09:04Z",
+      "mergedAt": null,
+      "additions": 531,
+      "deletions": 145,
+      "changedFiles": 23
+    },
+    {
+      "number": 43876,
+      "title": "fix: preserve sandbox write payload stdin",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T09:03:09Z",
+      "mergedAt": "2026-03-12T09:42:57Z",
+      "additions": 66,
+      "deletions": 3,
+      "changedFiles": 5
+    },
     {
       "number": 40053,
       "title": "fix: preserve selected session model during fallback",
@@ -80,26 +100,20 @@
       "state": "CLOSED",
       "createdAt": "2026-03-04T19:01:38Z",
       "closedAt": "2026-03-04T19:02:03Z"
-    },
-    {
-      "number": 30582,
-      "title": "Sandbox write fails for existing subdirectories with workspaceAccess: rw (2026.2.26 regression)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-01T11:17:37Z",
-      "closedAt": "2026-03-01T21:41:48Z"
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-01": 1
-  },
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
@@ -114,11 +128,16 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-01": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-12": 1,
+    "2026-03-01": 1
   }
 }

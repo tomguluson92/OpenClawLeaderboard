@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17723822?v=4",
   "githubUrl": "https://github.com/NaturalTensor",
   "score": {
-    "score": 839.95,
-    "prScore": 790.45,
+    "score": 730.02,
+    "prScore": 682.02,
     "issueScore": 0,
     "reviewScore": 45,
-    "commentScore": 4.5
+    "commentScore": 3
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
     "commits": 6,
-    "prs": 86,
-    "prsMerged": 4,
-    "prAdditions": 15761,
-    "prDeletions": 1618,
-    "prChangedFiles": 484,
-    "prMergeRate": 5,
+    "prs": 72,
+    "prsMerged": 1,
+    "prAdditions": 14727,
+    "prDeletions": 1072,
+    "prChangedFiles": 442,
+    "prMergeRate": 1,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 15,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
+    "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 55,
+      "prs": 0,
       "issues": 0,
-      "reviews": 10,
-      "comments": 4,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 86,
+      "prs": 72,
       "issues": 0,
       "reviews": 15,
-      "comments": 9,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T12:14:04Z",
+  "firstContribution": "2026-03-04T16:20:45Z",
   "lastContribution": "2026-03-06T06:01:45Z",
   "recentPRs": [
     {
@@ -353,6 +351,23 @@
       "createdAt": "2026-03-05T02:24:33Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-05": {
+      "prs": 60,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -382,17 +397,5 @@
       "description": "10K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 11,
-      "issues": 0,
-      "reviews": 6
-    },
-    "2026-03-05": {
-      "prs": 9,
-      "issues": 0,
-      "reviews": 9
-    }
-  }
+  "recentCommitDays": {}
 }

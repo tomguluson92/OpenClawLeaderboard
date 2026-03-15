@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/37739196?v=4",
   "githubUrl": "https://github.com/big91987",
   "score": {
-    "score": 15.41,
-    "prScore": 10.41,
+    "score": 36.04,
+    "prScore": 31.04,
     "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 42,
-    "prDeletions": 1,
-    "prChangedFiles": 3,
+    "prAdditions": 288,
+    "prDeletions": 4,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-11T23:48:41Z",
-  "lastContribution": "2026-03-12T00:04:14Z",
+  "lastContribution": "2026-03-12T23:31:18Z",
   "recentPRs": [
+    {
+      "number": 44445,
+      "title": "fix(session-memory): strip channel-injected metadata from user messages before storing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T23:31:18Z",
+      "mergedAt": null,
+      "additions": 144,
+      "deletions": 2,
+      "changedFiles": 5
+    },
     {
       "number": 43533,
       "title": "fix(session): trigger session-memory hook flush on daily/scheduled reset",
@@ -61,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-12T00:04:14Z",
       "mergedAt": null,
-      "additions": 42,
-      "deletions": 1,
-      "changedFiles": 3
+      "additions": 144,
+      "deletions": 2,
+      "changedFiles": 5
     }
   ],
   "recentIssues": [
@@ -76,15 +85,9 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-12": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     },
@@ -93,5 +96,11 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

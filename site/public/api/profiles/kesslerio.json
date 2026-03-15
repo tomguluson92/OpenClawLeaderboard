@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2647990?u=802378840dc0b01e8347db286763b8cd3247e7e1&v=4",
   "githubUrl": "https://github.com/kesslerio",
   "score": {
-    "score": 52.82,
+    "score": 57.82,
     "prScore": 24.82,
-    "issueScore": 21,
+    "issueScore": 26,
     "reviewScore": 6,
     "commentScore": 1
   },
@@ -19,7 +19,7 @@
     "prDeletions": 106,
     "prChangedFiles": 10,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 4,
     "issuesClosed": 2,
     "reviews": 2,
     "reviewsApproved": 0,
@@ -27,8 +27,6 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,14 +34,14 @@
       "prs": 1,
       "issues": 2,
       "reviews": 2,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 4,
       "reviews": 2,
       "comments": 2,
       "commitAdditions": 0,
@@ -52,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-03T18:26:46Z",
-  "lastContribution": "2026-03-11T14:56:43Z",
+  "lastContribution": "2026-03-12T15:31:07Z",
   "recentPRs": [
     {
       "number": 42667,
@@ -67,6 +65,13 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 44171,
+      "title": "Cron one-shot at jobs can disappear without leaving run history",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T15:31:07Z",
+      "closedAt": null
+    },
     {
       "number": 43271,
       "title": "Cron announce delivery can collapse WhatsApp paragraph formatting into a single line",
@@ -101,6 +106,28 @@
       "createdAt": "2026-03-11T04:43:15Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -114,22 +141,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 2
-    },
-    "2026-03-06": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7107452?u=f6c7e5aea7cc081effafe3eade4d9efe932614a1&v=4",
   "githubUrl": "https://github.com/powermaster888",
   "score": {
-    "score": 175.5,
-    "prScore": 175.5,
+    "score": 148.17,
+    "prScore": 148.17,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,12 +13,12 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 17,
+    "prs": 14,
     "prsMerged": 1,
-    "prAdditions": 609,
-    "prDeletions": 108,
-    "prChangedFiles": 25,
-    "prMergeRate": 6,
+    "prAdditions": 585,
+    "prDeletions": 93,
+    "prChangedFiles": 22,
+    "prMergeRate": 7,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -27,22 +27,20 @@
     "comments": 0,
     "commitAdditions": 20,
     "commitDeletions": 1,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 13,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 20,
-      "commitDeletions": 1,
-      "commits": 1
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 17,
+      "prs": 14,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-03T19:14:35Z",
+  "firstContribution": "2026-03-04T08:50:57Z",
   "lastContribution": "2026-03-09T20:52:00Z",
   "recentPRs": [
     {
@@ -207,56 +205,10 @@
       "additions": 71,
       "deletions": 2,
       "changedFiles": 3
-    },
-    {
-      "number": 34187,
-      "title": "fix(feishu): deduplicate streaming card text by reusing shared merge helper",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T08:48:22Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 14,
-      "changedFiles": 1
-    },
-    {
-      "number": 34186,
-      "title": "fix: enforce git dependency check for npm installs in PS1 installer",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T08:46:05Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 33405,
-      "title": "fix: resolve relative media paths against localRoots before access check",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T19:14:35Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 0,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-05": 1
-  },
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 2,
@@ -284,14 +236,22 @@
       "reviews": 0
     },
     "2026-03-04": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-05": 1
   }
 }

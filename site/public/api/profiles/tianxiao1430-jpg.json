@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 3,
       "reviews": 0,
       "comments": 0,
@@ -51,8 +49,8 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-28T15:14:48Z",
-  "lastContribution": "2026-03-09T15:45:26Z",
+  "firstContribution": "2026-03-06T17:49:25Z",
+  "lastContribution": "2026-03-14T14:16:42Z",
   "recentPRs": [
     {
       "number": 38247,
@@ -68,15 +66,22 @@
   ],
   "recentIssues": [
     {
+      "number": 46223,
+      "title": "[Feature Request] GitHub Webhook Integration for Real-time Agent Task Triggering",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T14:16:42Z",
+      "closedAt": null
+    },
+    {
       "number": 41203,
-      "title": "[Optimization] \u4f18\u5316\u91cd\u590d\u8c03\u7528: browser(['action', 'profile'])",
+      "title": "[Optimization] 优化重复调用: browser(['action', 'profile'])",
       "state": "OPEN",
       "createdAt": "2026-03-09T15:45:26Z",
       "closedAt": null
     },
     {
       "number": 41202,
-      "title": "[Optimization] \u4f18\u5316\u91cd\u590d\u8c03\u7528: exec(['command'])",
+      "title": "[Optimization] 优化重复调用: exec(['command'])",
       "state": "OPEN",
       "createdAt": "2026-03-09T15:45:18Z",
       "closedAt": null
@@ -87,25 +92,17 @@
       "state": "OPEN",
       "createdAt": "2026-03-06T17:49:25Z",
       "closedAt": null
-    },
-    {
-      "number": 29838,
-      "title": "Agents modify openclaw.json without authorization",
-      "state": "OPEN",
-      "createdAt": "2026-02-28T15:14:48Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
       "issues": 1,
       "reviews": 0
     },
@@ -113,11 +110,12 @@
       "prs": 0,
       "issues": 2,
       "reviews": 0
-    },
-    "2026-02-28": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

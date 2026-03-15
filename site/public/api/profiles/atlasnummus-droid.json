@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/267162625?v=4",
   "githubUrl": "https://github.com/atlasnummus-droid",
   "score": {
-    "score": 40.55,
-    "prScore": 35.55,
+    "score": 39.23,
+    "prScore": 34.23,
     "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
@@ -15,8 +15,8 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 370,
-    "prDeletions": 12,
+    "prAdditions": 283,
+    "prDeletions": 7,
     "prChangedFiles": 16,
     "prMergeRate": 0,
     "issues": 1,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -57,12 +55,12 @@
     {
       "number": 43542,
       "title": "feat(whatsapp): add onWhatsApp() number check + message ACK status (#43522)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T00:18:49Z",
       "mergedAt": null,
-      "additions": 370,
-      "deletions": 12,
+      "additions": 283,
+      "deletions": 7,
       "changedFiles": 16
     }
   ],
@@ -76,12 +74,6 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
@@ -93,5 +85,11 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

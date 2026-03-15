@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/266776760?v=4",
   "githubUrl": "https://github.com/leo-jiqimao",
   "score": {
-    "score": 7.33,
-    "prScore": 7.33,
+    "score": 35.73,
+    "prScore": 35.73,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1,
-    "prDeletions": 1,
-    "prChangedFiles": 1,
+    "prAdditions": 1397,
+    "prDeletions": 2,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-09T16:41:37Z",
-  "lastContribution": "2026-03-09T16:41:37Z",
+  "lastContribution": "2026-03-12T16:33:40Z",
   "recentPRs": [
+    {
+      "number": 44231,
+      "title": "Add aliyun ecs skill",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:33:40Z",
+      "mergedAt": null,
+      "additions": 1396,
+      "deletions": 1,
+      "changedFiles": 9
+    },
     {
       "number": 41269,
       "title": "docs: improve good first issue link in CONTRIBUTING.md",
@@ -68,16 +77,21 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

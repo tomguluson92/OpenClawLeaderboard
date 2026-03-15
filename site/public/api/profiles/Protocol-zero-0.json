@@ -1,0 +1,117 @@
+{
+  "username": "Protocol-zero-0",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/257158451?u=b68711162bd058fd649d616bd5380bf7dd3f5c96&v=4",
+  "githubUrl": "https://github.com/Protocol-zero-0",
+  "score": {
+    "score": 54.54,
+    "prScore": 54.04,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 440,
+    "prDeletions": 28,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 23,
+    "commitDeletions": 1,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 23,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-14T04:26:30Z",
+  "lastContribution": "2026-03-14T08:54:48Z",
+  "recentPRs": [
+    {
+      "number": 45884,
+      "title": "fix(whatsapp): handle SIGUSR1 restarts cleanly",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T08:24:02Z",
+      "mergedAt": null,
+      "additions": 295,
+      "deletions": 23,
+      "changedFiles": 3
+    },
+    {
+      "number": 45743,
+      "title": "fix(ui): avoid empty-state lockout when chat has hidden activity",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T04:41:57Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 45741,
+      "title": "fix(doctor): keep security checks alive for channel SecretRefs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T04:36:21Z",
+      "mergedAt": null,
+      "additions": 92,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 45735,
+      "title": "fix(agents): repair Anthropic tool mismatch recovery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T04:26:30Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-19": 1
+  }
+}

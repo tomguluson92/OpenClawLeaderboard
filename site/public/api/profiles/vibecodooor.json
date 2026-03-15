@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/256609840?v=4",
   "githubUrl": "https://github.com/vibecodooor",
   "score": {
-    "score": 8.21,
-    "prScore": 8.21,
+    "score": 56.74,
+    "prScore": 55.74,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 1
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 55,
-    "prDeletions": 0,
-    "prChangedFiles": 1,
+    "prAdditions": 602,
+    "prDeletions": 306,
+    "prChangedFiles": 17,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-10T08:11:30Z",
-  "lastContribution": "2026-03-10T08:11:30Z",
+  "lastContribution": "2026-03-14T07:53:01Z",
   "recentPRs": [
+    {
+      "number": 45861,
+      "title": "fix(bluebubbles): audit webhook health in status probe",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T07:53:01Z",
+      "mergedAt": null,
+      "additions": 429,
+      "deletions": 288,
+      "changedFiles": 10
+    },
+    {
+      "number": 44900,
+      "title": "fix(telegram/acp): preserve bound ACP session keys in DM topics",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T09:04:38Z",
+      "mergedAt": null,
+      "additions": 99,
+      "deletions": 17,
+      "changedFiles": 6
+    },
     {
       "number": 41929,
       "title": "test(doctor): cover multi-account Telegram tokenFile summary",
@@ -61,23 +81,34 @@
       "merged": false,
       "createdAt": "2026-03-10T08:11:30Z",
       "mergedAt": null,
-      "additions": 55,
-      "deletions": 0,
+      "additions": 74,
+      "deletions": 1,
       "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

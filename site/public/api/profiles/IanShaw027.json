@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/131567472?u=ca11afa5269a4bbdb105e9b91d4d37d32a88c616&v=4",
   "githubUrl": "https://github.com/IanShaw027",
   "score": {
-    "score": 149.36,
-    "prScore": 149.36,
+    "score": 150.99,
+    "prScore": 150.99,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -15,9 +15,9 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 13238,
+    "prAdditions": 14753,
     "prDeletions": 1,
-    "prChangedFiles": 69,
+    "prChangedFiles": 71,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -57,17 +55,24 @@
     {
       "number": 43601,
       "title": "feat(wemp): add WeChat Official Account channel plugin",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T02:36:30Z",
       "mergedAt": null,
-      "additions": 13238,
+      "additions": 14753,
       "deletions": 1,
-      "changedFiles": 69
+      "changedFiles": 71
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Large-Scale Changes"
@@ -79,12 +84,5 @@
       "description": "10K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-12": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

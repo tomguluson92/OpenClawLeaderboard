@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/100554541?u=7946db7a857e7dfdb976daf4f77782f15542e67c&v=4",
   "githubUrl": "https://github.com/kevinsong0",
   "score": {
-    "score": 249.2,
-    "prScore": 239.7,
+    "score": 134.35,
+    "prScore": 134.35,
     "issueScore": 0,
-    "reviewScore": 6,
-    "commentScore": 3.5
+    "reviewScore": 0,
+    "commentScore": 0
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 20,
+    "prs": 11,
     "prsMerged": 0,
-    "prAdditions": 1880,
-    "prDeletions": 26,
-    "prChangedFiles": 44,
+    "prAdditions": 1169,
+    "prDeletions": 18,
+    "prChangedFiles": 27,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 20,
+      "prs": 11,
       "issues": 0,
-      "reviews": 2,
-      "comments": 7,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T08:15:53Z",
+  "firstContribution": "2026-03-04T09:01:49Z",
   "lastContribution": "2026-03-06T06:52:12Z",
   "recentPRs": [
     {
@@ -174,133 +172,10 @@
       "additions": 139,
       "deletions": 0,
       "changedFiles": 1
-    },
-    {
-      "number": 34101,
-      "title": "docs(zh-CN): add Feishu reaction tool documentation",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T07:15:38Z",
-      "mergedAt": null,
-      "additions": 127,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 34100,
-      "title": "docs(reactions): add Feishu/Lark reaction tool notes",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T07:15:35Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 34099,
-      "title": "feat(feishu): add reaction tool (add/remove/list emoji reactions)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T07:14:36Z",
-      "mergedAt": null,
-      "additions": 566,
-      "deletions": 1,
-      "changedFiles": 8
-    },
-    {
-      "number": 33909,
-      "title": "fix: respect user-configured baseUrl for Moonshot provider",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T04:16:58Z",
-      "mergedAt": null,
-      "additions": 6,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 32866,
-      "title": "fix: add RTL mark support for Telegram draft streaming",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T09:56:22Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 32844,
-      "title": "fix: improve Slack manifest copy instructions",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T09:35:52Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 32835,
-      "title": "fix: correct abort-signal import in nextcloud-talk extension",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T09:19:26Z",
-      "mergedAt": null,
-      "additions": 3,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 32817,
-      "title": "fix: correct normalizeSecretInputString import in feishu extension",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T09:02:14Z",
-      "mergedAt": null,
-      "additions": 0,
-      "deletions": 0,
-      "changedFiles": 0
-    },
-    {
-      "number": 32758,
-      "title": "fix: allow channels without sendMedia in createPluginHandler",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T08:15:53Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 2,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 32866,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T10:44:43Z"
-    },
-    {
-      "prNumber": 32835,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T10:44:41Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 2,
@@ -313,14 +188,20 @@
       "reviews": 0
     },
     "2026-03-04": {
-      "prs": 11,
+      "prs": 7,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 2
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

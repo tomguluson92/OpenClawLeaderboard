@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/179671552?v=4",
   "githubUrl": "https://github.com/akramcodez",
   "score": {
-    "score": 194.86,
-    "prScore": 194.36,
+    "score": 197.65,
+    "prScore": 195.15,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 2.5
   },
   "tier": "regular",
   "characterClass": "Builder",
@@ -15,28 +15,26 @@
     "commits": 12,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 180,
-    "prDeletions": 20,
-    "prChangedFiles": 14,
+    "prAdditions": 347,
+    "prDeletions": 19,
+    "prChangedFiles": 9,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 5,
     "commitAdditions": 2699,
     "commitDeletions": 153,
-    "weeklyCommits": 0,
-    "monthlyCommits": 8,
     "commitChangedFiles": 62
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,15 +43,26 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 2483,
-      "commitDeletions": 121,
-      "commits": 10
+      "comments": 5,
+      "commitAdditions": 2477,
+      "commitDeletions": 115,
+      "commits": 8
     }
   },
-  "firstContribution": "2026-03-04T06:06:30Z",
-  "lastContribution": "2026-03-08T07:06:11Z",
+  "firstContribution": "2026-03-08T06:53:16Z",
+  "lastContribution": "2026-03-13T09:47:58Z",
   "recentPRs": [
+    {
+      "number": 44916,
+      "title": "feat: MCP server config support in openclaw.json (#43509)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T09:20:52Z",
+      "mergedAt": null,
+      "additions": 272,
+      "deletions": 0,
+      "changedFiles": 6
+    },
     {
       "number": 39565,
       "title": "fix(tui): preserve dotted entity IDs and punctuation-wrapped copy-sensitive tokens",
@@ -64,21 +73,22 @@
       "additions": 75,
       "deletions": 19,
       "changedFiles": 3
-    },
-    {
-      "number": 34026,
-      "title": "feat(slack): add threadImplicitMention config to disable implicit thread triggers",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T06:06:30Z",
-      "mergedAt": null,
-      "additions": 105,
-      "deletions": 1,
-      "changedFiles": 11
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion",
@@ -95,17 +105,5 @@
     "2026-02-11": 1,
     "2026-02-09": 1,
     "2026-02-02": 1
-  },
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

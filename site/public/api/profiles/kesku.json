@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/62210496?v=4",
   "githubUrl": "https://github.com/kesku",
   "score": {
-    "score": 227.8,
-    "prScore": 180.8,
+    "score": 179.54,
+    "prScore": 151.54,
     "issueScore": 23,
-    "reviewScore": 18,
-    "commentScore": 6
+    "reviewScore": 3,
+    "commentScore": 2
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 3,
-    "prs": 4,
-    "prsMerged": 3,
-    "prAdditions": 1782,
-    "prDeletions": 947,
-    "prChangedFiles": 43,
-    "prMergeRate": 75,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 92,
+    "prDeletions": 166,
+    "prChangedFiles": 13,
+    "prMergeRate": 50,
     "issues": 4,
     "issuesClosed": 1,
-    "reviews": 6,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 12,
+    "comments": 4,
     "commitAdditions": 1772,
     "commitDeletions": 859,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 39
   },
   "period": {
@@ -36,22 +34,22 @@
       "prs": 2,
       "issues": 1,
       "reviews": 1,
-      "comments": 3,
-      "commitAdditions": 901,
-      "commitDeletions": 219,
-      "commits": 2
+      "comments": 2,
+      "commitAdditions": 82,
+      "commitDeletions": 78,
+      "commits": 1
     },
     "monthly": {
-      "prs": 4,
+      "prs": 2,
       "issues": 4,
-      "reviews": 6,
-      "comments": 12,
+      "reviews": 1,
+      "comments": 4,
       "commitAdditions": 1772,
       "commitDeletions": 859,
       "commits": 3
     }
   },
-  "firstContribution": "2026-03-04T02:51:57Z",
+  "firstContribution": "2026-03-04T14:00:12Z",
   "lastContribution": "2026-03-11T01:39:33Z",
   "recentPRs": [
     {
@@ -75,28 +73,6 @@
       "additions": 82,
       "deletions": 78,
       "changedFiles": 9
-    },
-    {
-      "number": 34009,
-      "title": "feat(onboarding): add web search to onboarding flow",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T05:50:16Z",
-      "mergedAt": "2026-03-06T19:09:00Z",
-      "additions": 819,
-      "deletions": 141,
-      "changedFiles": 16
-    },
-    {
-      "number": 33822,
-      "title": "feat(web-search): switch Perplexity to native Search API",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T02:51:57Z",
-      "mergedAt": "2026-03-04T04:57:19Z",
-      "additions": 871,
-      "deletions": 640,
-      "changedFiles": 14
     }
   ],
   "recentIssues": [
@@ -134,33 +110,30 @@
       "prNumber": 40607,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T06:08:20Z"
-    },
-    {
-      "prNumber": 34009,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T06:31:16Z"
-    },
-    {
-      "prNumber": 34009,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T06:20:00Z"
-    },
-    {
-      "prNumber": 33822,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T03:47:50Z"
-    },
-    {
-      "prNumber": 33822,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T03:33:32Z"
-    },
-    {
-      "prNumber": 33822,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T03:32:30Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -179,27 +152,5 @@
     "2026-03-09": 1,
     "2026-03-06": 1,
     "2026-03-04": 1
-  },
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 3,
-      "reviews": 5
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

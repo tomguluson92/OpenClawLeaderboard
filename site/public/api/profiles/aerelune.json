@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/264479151?v=4",
   "githubUrl": "https://github.com/aerelune",
   "score": {
-    "score": 384.77,
-    "prScore": 357.77,
+    "score": 358.93,
+    "prScore": 339.43,
     "issueScore": 0,
-    "reviewScore": 15,
-    "commentScore": 12
+    "reviewScore": 9,
+    "commentScore": 10.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 34,
+    "prs": 28,
     "prsMerged": 1,
-    "prAdditions": 2066,
-    "prDeletions": 227,
-    "prChangedFiles": 103,
-    "prMergeRate": 3,
+    "prAdditions": 10724,
+    "prDeletions": 806,
+    "prChangedFiles": 86,
+    "prMergeRate": 4,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 24,
+    "comments": 21,
     "commitAdditions": 103,
     "commitDeletions": 6,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 5
   },
   "period": {
     "weekly": {
-      "prs": 15,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 18,
-      "commitAdditions": 103,
-      "commitDeletions": 6,
-      "commits": 1
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 34,
+      "prs": 28,
       "issues": 0,
-      "reviews": 5,
-      "comments": 24,
+      "reviews": 3,
+      "comments": 21,
       "commitAdditions": 103,
       "commitDeletions": 6,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T01:12:43Z",
+  "firstContribution": "2026-03-04T10:17:20Z",
   "lastContribution": "2026-03-10T17:58:34Z",
   "recentPRs": [
     {
@@ -265,7 +263,7 @@
     },
     {
       "number": 35046,
-      "title": "fix: normalize \u226a \u226b marker homoglyphs in external content sanitizer",
+      "title": "fix: normalize ≪ ≫ marker homoglyphs in external content sanitizer",
       "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-04T23:18:03Z",
@@ -291,22 +289,25 @@
       "prNumber": 34296,
       "state": "COMMENTED",
       "createdAt": "2026-03-04T10:55:04Z"
-    },
-    {
-      "prNumber": 34049,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T10:54:51Z"
-    },
-    {
-      "prNumber": 34049,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T09:08:55Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 19,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 3
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [
     {
@@ -318,21 +319,14 @@
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
     }
   ],
   "recentCommitDays": {
     "2026-03-06": 1
-  },
-  "recentActivityDays": {
-    "2026-03-05": {
-      "prs": 19,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 5
-    }
   }
 }

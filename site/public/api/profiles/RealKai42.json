@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/44634134?v=4",
   "githubUrl": "https://github.com/RealKai42",
   "score": {
-    "score": 891.21,
-    "prScore": 873.21,
+    "score": 870.11,
+    "prScore": 852.11,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 18
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 100,
+    "prs": 97,
     "prsMerged": 3,
-    "prAdditions": 19122,
-    "prDeletions": 1773,
-    "prChangedFiles": 799,
+    "prAdditions": 19000,
+    "prDeletions": 1750,
+    "prChangedFiles": 793,
     "prMergeRate": 3,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,22 +27,20 @@
     "comments": 36,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 62,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 27,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 100,
+      "prs": 97,
       "issues": 0,
       "reviews": 0,
       "comments": 36,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T07:40:38Z",
+  "firstContribution": "2026-03-04T09:15:53Z",
   "lastContribution": "2026-03-06T04:00:11Z",
   "recentPRs": [
     {
@@ -277,6 +275,23 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 56,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 32,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion",
@@ -295,11 +310,6 @@
       "description": "50+ pull requests"
     },
     {
-      "id": "pr-legend",
-      "label": "PR Legend",
-      "description": "100+ pull requests"
-    },
-    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
@@ -310,17 +320,5 @@
       "description": "10K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 9,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 11,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

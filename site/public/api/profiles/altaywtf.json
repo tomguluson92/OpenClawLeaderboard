@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9790196?v=4",
   "githubUrl": "https://github.com/altaywtf",
   "score": {
-    "score": 585.63,
-    "prScore": 505.13,
+    "score": 616.92,
+    "prScore": 515.42,
     "issueScore": 0,
-    "reviewScore": 24,
+    "reviewScore": 45,
     "commentScore": 56.5
   },
   "tier": "veteran",
   "characterClass": "Contributor",
   "stats": {
-    "commits": 23,
-    "prs": 27,
-    "prsMerged": 20,
-    "prAdditions": 6230,
-    "prDeletions": 486,
-    "prChangedFiles": 198,
-    "prMergeRate": 74,
+    "commits": 29,
+    "prs": 25,
+    "prsMerged": 18,
+    "prAdditions": 6035,
+    "prDeletions": 622,
+    "prChangedFiles": 246,
+    "prMergeRate": 72,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 8,
+    "reviews": 14,
     "reviewsApproved": 0,
-    "reviewsChangesRequested": 0,
+    "reviewsChangesRequested": 2,
     "comments": 113,
-    "commitAdditions": 5127,
-    "commitDeletions": 353,
-    "weeklyCommits": 36,
-    "monthlyCommits": 56,
-    "commitChangedFiles": 148
+    "commitAdditions": 5295,
+    "commitDeletions": 478,
+    "commitChangedFiles": 208
   },
   "period": {
     "weekly": {
-      "prs": 22,
+      "prs": 15,
       "issues": 0,
-      "reviews": 7,
-      "comments": 93,
-      "commitAdditions": 3878,
-      "commitDeletions": 300,
-      "commits": 17
+      "reviews": 12,
+      "comments": 96,
+      "commitAdditions": 2565,
+      "commitDeletions": 256,
+      "commits": 16
     },
     "monthly": {
-      "prs": 27,
+      "prs": 25,
       "issues": 0,
-      "reviews": 8,
+      "reviews": 14,
       "comments": 113,
-      "commitAdditions": 5127,
-      "commitDeletions": 353,
-      "commits": 23
+      "commitAdditions": 5295,
+      "commitDeletions": 478,
+      "commits": 29
     }
   },
-  "firstContribution": "2026-03-02T10:05:14Z",
-  "lastContribution": "2026-03-11T23:18:05Z",
+  "firstContribution": "2026-03-04T21:46:16Z",
+  "lastContribution": "2026-03-14T11:02:30Z",
   "recentPRs": [
+    {
+      "number": 45349,
+      "title": "fix(config): close zod schema parity gaps",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T17:52:38Z",
+      "mergedAt": null,
+      "additions": 301,
+      "deletions": 6,
+      "changedFiles": 7
+    },
+    {
+      "number": 44016,
+      "title": "runtime: default to Node v24 (LTS) while keeping Node v22.16+ compatibility",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T12:10:42Z",
+      "mergedAt": "2026-03-12T14:37:45Z",
+      "additions": 151,
+      "deletions": 108,
+      "changedFiles": 39
+    },
+    {
+      "number": 44014,
+      "title": "Default to Node 24 while keeping Node 22 compatibility",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T12:10:06Z",
+      "mergedAt": null,
+      "additions": 103,
+      "deletions": 70,
+      "changedFiles": 30
+    },
     {
       "number": 43476,
       "title": "test(gateway): widen before tool hook mock typing",
@@ -240,43 +271,45 @@
       "additions": 227,
       "deletions": 36,
       "changedFiles": 10
-    },
-    {
-      "number": 37738,
-      "title": "fix(agents): classify overloaded failures separately",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T11:48:02Z",
-      "mergedAt": null,
-      "additions": 227,
-      "deletions": 36,
-      "changedFiles": 10
-    },
-    {
-      "number": 37470,
-      "title": "fix(ci): restore protocol and schema checks",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-06T08:39:57Z",
-      "mergedAt": "2026-03-06T08:46:17Z",
-      "additions": 91,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 36783,
-      "title": "fix(agents): classify insufficient_quota 400s as billing",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T22:09:09Z",
-      "mergedAt": "2026-03-05T22:17:48Z",
-      "additions": 47,
-      "deletions": 0,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 44986,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T18:33:08Z"
+    },
+    {
+      "prNumber": 44970,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-13T18:27:19Z"
+    },
+    {
+      "prNumber": 43478,
+      "state": "DISMISSED",
+      "createdAt": "2026-03-13T18:03:43Z"
+    },
+    {
+      "prNumber": 39338,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-13T11:13:18Z"
+    },
+    {
+      "prNumber": 44016,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T13:49:56Z"
+    },
+    {
+      "prNumber": 44016,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T12:41:45Z"
+    },
+    {
+      "prNumber": 44016,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T12:32:12Z"
+    },
     {
       "prNumber": 41468,
       "state": "COMMENTED",
@@ -311,50 +344,19 @@
       "prNumber": 38301,
       "state": "COMMENTED",
       "createdAt": "2026-03-06T20:49:40Z"
-    },
-    {
-      "prNumber": 32724,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T09:05:43Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "merger",
-      "label": "Merger",
-      "description": "5+ merged PRs"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-11": 1,
-    "2026-03-10": 1,
-    "2026-03-09": 5,
-    "2026-03-08": 3,
-    "2026-03-07": 2,
-    "2026-03-06": 2,
-    "2026-03-05": 3,
-    "2026-03-03": 1,
-    "2026-03-02": 4,
-    "2026-03-01": 1
-  },
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -386,14 +388,51 @@
       "reviews": 2
     },
     "2026-03-05": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 6,
+    "2026-03-11": 1,
+    "2026-03-10": 1,
+    "2026-03-09": 5,
+    "2026-03-08": 3,
+    "2026-03-07": 2,
+    "2026-03-06": 2,
+    "2026-03-05": 3,
+    "2026-03-03": 1,
+    "2026-03-02": 4,
+    "2026-03-01": 1
   }
 }

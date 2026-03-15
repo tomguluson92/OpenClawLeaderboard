@@ -3,57 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/152018508?v=4",
   "githubUrl": "https://github.com/onutc",
   "score": {
-    "score": 402.86,
-    "prScore": 396.36,
+    "score": 497.86,
+    "prScore": 486.86,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 3.5
+    "reviewScore": 7,
+    "commentScore": 4
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 43,
-    "prs": 3,
-    "prsMerged": 2,
-    "prAdditions": 782,
-    "prDeletions": 6,
-    "prChangedFiles": 12,
-    "prMergeRate": 67,
+    "commits": 53,
+    "prs": 7,
+    "prsMerged": 6,
+    "prAdditions": 1170,
+    "prDeletions": 76,
+    "prChangedFiles": 23,
+    "prMergeRate": 86,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
-    "reviewsApproved": 0,
+    "reviews": 2,
+    "reviewsApproved": 1,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 23478,
-    "commitDeletions": 5189,
-    "weeklyCommits": 8,
-    "monthlyCommits": 13,
-    "commitChangedFiles": 280
+    "comments": 8,
+    "commitAdditions": 23910,
+    "commitDeletions": 5303,
+    "commitChangedFiles": 303
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 7,
       "issues": 0,
-      "reviews": 1,
-      "comments": 6,
-      "commitAdditions": 460,
-      "commitDeletions": 2,
-      "commits": 2
+      "reviews": 2,
+      "comments": 8,
+      "commitAdditions": 892,
+      "commitDeletions": 116,
+      "commits": 12
     },
     "monthly": {
-      "prs": 3,
+      "prs": 7,
       "issues": 0,
-      "reviews": 1,
-      "comments": 7,
-      "commitAdditions": 16260,
-      "commitDeletions": 2587,
-      "commits": 6
+      "reviews": 2,
+      "comments": 8,
+      "commitAdditions": 15850,
+      "commitDeletions": 2613,
+      "commits": 15
     }
   },
-  "firstContribution": "2026-03-03T09:12:47Z",
-  "lastContribution": "2026-03-10T21:15:11Z",
+  "firstContribution": "2026-03-09T16:51:19Z",
+  "lastContribution": "2026-03-14T18:38:44Z",
   "recentPRs": [
+    {
+      "number": 46486,
+      "title": "ci: allow fallback npm correction tags",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T18:14:47Z",
+      "mergedAt": "2026-03-14T18:38:14Z",
+      "additions": 131,
+      "deletions": 15,
+      "changedFiles": 4
+    },
+    {
+      "number": 46269,
+      "title": "ci: add manual backfill support to Docker release",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T15:07:04Z",
+      "mergedAt": "2026-03-14T15:36:21Z",
+      "additions": 88,
+      "deletions": 25,
+      "changedFiles": 1
+    },
+    {
+      "number": 46247,
+      "title": "ci: move Docker release to GitHub-hosted runners",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T14:46:00Z",
+      "mergedAt": "2026-03-14T14:54:06Z",
+      "additions": 16,
+      "deletions": 7,
+      "changedFiles": 1
+    },
+    {
+      "number": 46061,
+      "title": "ci: add dry-run gate to npm release workflow",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T11:53:22Z",
+      "mergedAt": "2026-03-14T12:45:40Z",
+      "additions": 153,
+      "deletions": 23,
+      "changedFiles": 5
+    },
     {
       "number": 42503,
       "title": "docs: require codex review in contributing guide",
@@ -91,30 +133,47 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 45891,
+      "state": "APPROVED",
+      "createdAt": "2026-03-14T17:45:59Z"
+    },
+    {
       "prNumber": 42414,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T18:09:10Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    }
+  ],
   "recentCommitDays": {
+    "2026-03-14": 10,
     "2026-03-10": 2,
     "2026-02-21": 1,
     "2026-02-17": 1,
     "2026-02-16": 1,
     "2026-02-10": 1
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 1
-    }
   }
 }

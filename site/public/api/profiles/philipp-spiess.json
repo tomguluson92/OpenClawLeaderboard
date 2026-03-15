@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/458591?v=4",
   "githubUrl": "https://github.com/philipp-spiess",
   "score": {
-    "score": 57.3,
+    "score": 45.8,
     "prScore": 45.8,
-    "issueScore": 8,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3.5
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 6,
@@ -19,16 +19,14 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 0,
     "commitAdditions": 148,
     "commitDeletions": 45,
-    "weeklyCommits": 0,
-    "monthlyCommits": 6,
     "commitChangedFiles": 10
   },
   "period": {
@@ -43,42 +41,26 @@
     },
     "monthly": {
       "prs": 0,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 7,
+      "comments": 0,
       "commitAdditions": 20,
       "commitDeletions": 9,
       "commits": 4
     }
   },
-  "firstContribution": "2026-02-27T21:52:33Z",
-  "lastContribution": "2026-03-02T23:58:59Z",
+  "firstContribution": null,
+  "lastContribution": null,
   "recentPRs": [],
-  "recentIssues": [
-    {
-      "number": 29155,
-      "title": "Onboarding custom-provider verification: endpoint-aware timeout policy and host coverage",
-      "state": "CLOSED",
-      "createdAt": "2026-02-27T21:52:46Z",
-      "closedAt": "2026-02-28T20:38:28Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Issue Reporting",
-    "Discussion",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-02-27": 2,
     "2026-02-26": 2
-  },
-  "recentActivityDays": {
-    "2026-02-27": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

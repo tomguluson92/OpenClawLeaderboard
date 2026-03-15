@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1655200?u=164057dac9a676bb97ac1452e77ea4d18ef9b3d8&v=4",
   "githubUrl": "https://github.com/liujiaqiid",
   "score": {
-    "score": 67.12,
-    "prScore": 65.62,
+    "score": 120.44,
+    "prScore": 113.94,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 6.5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 881,
-    "prDeletions": 20,
-    "prChangedFiles": 15,
+    "prAdditions": 1709,
+    "prDeletions": 35,
+    "prChangedFiles": 29,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 13,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,24 +34,46 @@
       "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 13,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 13,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-07T04:17:14Z",
-  "lastContribution": "2026-03-11T09:14:37Z",
+  "lastContribution": "2026-03-15T01:04:16Z",
   "recentPRs": [
+    {
+      "number": 43977,
+      "title": "fix(failover): classify ZenMux subscription-quota 402 as rate_limit for fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T11:18:24Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 43958,
+      "title": "fix(failover): classify ZenMux subscription-quota 402 as rate_limit for fallback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T10:44:48Z",
+      "mergedAt": null,
+      "additions": 753,
+      "deletions": 9,
+      "changedFiles": 12
+    },
     {
       "number": 42995,
       "title": "feat: cross-channel memory sharing for unified agent experience",
@@ -112,13 +132,12 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -134,5 +153,11 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

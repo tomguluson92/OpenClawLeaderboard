@@ -27,8 +27,6 @@
     "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -224,6 +222,13 @@
       "createdAt": "2026-03-09T10:59:43Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 20
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -236,12 +241,5 @@
       "description": "10+ reviews"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 20
-    }
-  }
+  "recentCommitDays": {}
 }

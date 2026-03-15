@@ -3,56 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/111204176?u=d8cb6894560574b9e3ed69e034fe7bb869ce59a1&v=4",
   "githubUrl": "https://github.com/WinnCook",
   "score": {
-    "score": 64.5,
-    "prScore": 39.5,
+    "score": 14.18,
+    "prScore": 9.18,
     "issueScore": 0,
-    "reviewScore": 22,
-    "commentScore": 3
+    "reviewScore": 3,
+    "commentScore": 2
   },
-  "tier": "regular",
-  "characterClass": "Reviewer",
+  "tier": "beginner",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 247,
-    "prDeletions": 24,
-    "prChangedFiles": 11,
+    "prAdditions": 37,
+    "prDeletions": 0,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 7,
-    "reviewsApproved": 1,
+    "reviews": 1,
+    "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 1,
-      "comments": 2,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
-      "reviews": 7,
-      "comments": 6,
+      "reviews": 1,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T16:48:48Z",
-  "lastContribution": "2026-03-08T21:48:58Z",
+  "firstContribution": "2026-03-03T17:10:07Z",
+  "lastContribution": "2026-03-07T15:31:00Z",
   "recentPRs": [
     {
       "number": 38366,
@@ -64,28 +62,6 @@
       "additions": 37,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 33301,
-      "title": "fix(feishu): correct normalizeSecretInputString reference",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T17:13:08Z",
-      "mergedAt": null,
-      "additions": 131,
-      "deletions": 13,
-      "changedFiles": 2
-    },
-    {
-      "number": 33276,
-      "title": "fix(cli): route Slack manifest through prompter with plain text option",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T16:48:48Z",
-      "mergedAt": null,
-      "additions": 79,
-      "deletions": 11,
-      "changedFiles": 7
     }
   ],
   "recentIssues": [],
@@ -94,60 +70,25 @@
       "prNumber": 38489,
       "state": "COMMENTED",
       "createdAt": "2026-03-07T15:30:59Z"
-    },
-    {
-      "prNumber": 33346,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T18:02:53Z"
-    },
-    {
-      "prNumber": 33343,
-      "state": "APPROVED",
-      "createdAt": "2026-03-03T18:02:39Z"
-    },
-    {
-      "prNumber": 33276,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T17:25:11Z"
-    },
-    {
-      "prNumber": 33276,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T17:25:09Z"
-    },
-    {
-      "prNumber": 33301,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T17:22:58Z"
-    },
-    {
-      "prNumber": 33298,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T17:09:55Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-03": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 6
-    },
     "2026-03-07": {
       "prs": 0,
       "issues": 0,
       "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

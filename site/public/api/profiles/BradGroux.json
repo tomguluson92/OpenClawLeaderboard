@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3053586?u=55d4112802fcae06d1b21074709f32cdfa5fe6c7&v=4",
   "githubUrl": "https://github.com/BradGroux",
   "score": {
-    "score": 74.64,
-    "prScore": 43.64,
+    "score": 85.58,
+    "prScore": 56.58,
     "issueScore": 13,
     "reviewScore": 9,
-    "commentScore": 9
+    "commentScore": 7
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 1,
-    "prAdditions": 379,
-    "prDeletions": 210,
-    "prChangedFiles": 7,
-    "prMergeRate": 33,
+    "prAdditions": 384,
+    "prDeletions": 213,
+    "prChangedFiles": 10,
+    "prMergeRate": 25,
     "issues": 2,
     "issuesClosed": 1,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 18,
+    "comments": 14,
     "commitAdditions": 96,
     "commitDeletions": 12,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 2,
       "reviews": 3,
-      "comments": 18,
+      "comments": 14,
       "commitAdditions": 96,
       "commitDeletions": 12,
       "commits": 1
     },
     "monthly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 2,
       "reviews": 3,
-      "comments": 18,
+      "comments": 14,
       "commitAdditions": 96,
       "commitDeletions": 12,
       "commits": 1
     }
   },
   "firstContribution": "2026-03-09T10:28:07Z",
-  "lastContribution": "2026-03-10T18:24:55Z",
+  "lastContribution": "2026-03-12T09:45:03Z",
   "recentPRs": [
+    {
+      "number": 43761,
+      "title": "fix(msteams): add @microsoft/agents-hosting to root dependencies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T06:38:03Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 3,
+      "changedFiles": 3
+    },
     {
       "number": 41838,
       "title": "fix(msteams): use General channel conversation ID as team key for Bot Framework compatibility",
@@ -91,7 +100,7 @@
   "recentIssues": [
     {
       "number": 41390,
-      "title": "MS Teams: startup resolution stores Graph group GUID as team key, but Bot Framework sends General channel conversation ID \u2014 all channel messages silently dropped",
+      "title": "MS Teams: startup resolution stores Graph group GUID as team key, but Bot Framework sends General channel conversation ID — all channel messages silently dropped",
       "state": "CLOSED",
       "createdAt": "2026-03-09T19:37:28Z",
       "closedAt": "2026-03-10T08:13:43Z"
@@ -121,6 +130,23 @@
       "createdAt": "2026-03-10T06:40:17Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -136,17 +162,5 @@
   ],
   "recentCommitDays": {
     "2026-03-10": 1
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 3
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 0
-    }
   }
 }

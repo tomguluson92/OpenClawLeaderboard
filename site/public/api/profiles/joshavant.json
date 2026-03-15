@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/830519?v=4",
   "githubUrl": "https://github.com/joshavant",
   "score": {
-    "score": 862.68,
-    "prScore": 788.68,
+    "score": 863.78,
+    "prScore": 791.28,
     "issueScore": 0,
-    "reviewScore": 30,
-    "commentScore": 44
+    "reviewScore": 39,
+    "commentScore": 33.5
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
-    "commits": 92,
-    "prs": 16,
+    "commits": 94,
+    "prs": 15,
     "prsMerged": 14,
-    "prAdditions": 38120,
-    "prDeletions": 8526,
-    "prChangedFiles": 1045,
-    "prMergeRate": 88,
+    "prAdditions": 34509,
+    "prDeletions": 8277,
+    "prChangedFiles": 963,
+    "prMergeRate": 93,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 10,
+    "reviews": 13,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 88,
-    "commitAdditions": 57473,
-    "commitDeletions": 10425,
-    "weeklyCommits": 9,
-    "monthlyCommits": 96,
-    "commitChangedFiles": 1253
+    "comments": 67,
+    "commitAdditions": 57867,
+    "commitDeletions": 10518,
+    "commitChangedFiles": 1278
   },
   "period": {
     "weekly": {
-      "prs": 12,
+      "prs": 9,
       "issues": 0,
-      "reviews": 10,
-      "comments": 65,
-      "commitAdditions": 20151,
-      "commitDeletions": 1777,
-      "commits": 17
+      "reviews": 13,
+      "comments": 36,
+      "commitAdditions": 6973,
+      "commitDeletions": 649,
+      "commits": 11
     },
     "monthly": {
-      "prs": 16,
+      "prs": 15,
       "issues": 0,
-      "reviews": 10,
-      "comments": 88,
-      "commitAdditions": 57473,
-      "commitDeletions": 10425,
-      "commits": 93
+      "reviews": 13,
+      "comments": 67,
+      "commitAdditions": 57867,
+      "commitDeletions": 10518,
+      "commits": 94
     }
   },
-  "firstContribution": "2026-03-03T21:00:00Z",
-  "lastContribution": "2026-03-11T02:22:16Z",
+  "firstContribution": "2026-03-04T06:46:21Z",
+  "lastContribution": "2026-03-14T01:59:29Z",
   "recentPRs": [
+    {
+      "number": 45622,
+      "title": "Gateway: treat scope-limited probe RPC as degraded reachability",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T01:59:29Z",
+      "mergedAt": "2026-03-14T04:13:34Z",
+      "additions": 394,
+      "deletions": 93,
+      "changedFiles": 25
+    },
+    {
+      "number": 43759,
+      "title": "Models: enforce source-managed SecretRef markers in models.json",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T06:35:43Z",
+      "mergedAt": "2026-03-12T07:22:52Z",
+      "additions": 390,
+      "deletions": 23,
+      "changedFiles": 10
+    },
     {
       "number": 42672,
       "title": "Gateway: fail closed unresolved local auth SecretRefs",
@@ -196,43 +216,25 @@
       "additions": 5752,
       "deletions": 467,
       "changedFiles": 112
-    },
-    {
-      "number": 33987,
-      "title": "fix(outbound): unify resolved cfg threading across send paths",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T05:30:16Z",
-      "mergedAt": "2026-03-04T06:20:45Z",
-      "additions": 1780,
-      "deletions": 117,
-      "changedFiles": 62
-    },
-    {
-      "number": 33983,
-      "title": "Tests: expand outbound cfg-threading regression coverage",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T05:24:48Z",
-      "mergedAt": null,
-      "additions": 1487,
-      "deletions": 31,
-      "changedFiles": 19
-    },
-    {
-      "number": 33733,
-      "title": "follow-up: align ingress, atomic paths, and channel tests with credential semantics",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T01:34:49Z",
-      "mergedAt": "2026-03-04T02:29:46Z",
-      "additions": 1128,
-      "deletions": 217,
-      "changedFiles": 36
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 43759,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T06:52:39Z"
+    },
+    {
+      "prNumber": 43759,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T06:52:34Z"
+    },
+    {
+      "prNumber": 43759,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T06:52:29Z"
+    },
     {
       "prNumber": 42672,
       "state": "COMMENTED",
@@ -284,6 +286,43 @@
       "createdAt": "2026-03-10T02:13:08Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-10": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-07": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -316,9 +355,15 @@
       "id": "prolific",
       "label": "Prolific Coder",
       "description": "10K+ lines added"
+    },
+    {
+      "id": "precision",
+      "label": "Precision",
+      "description": "90%+ PR merge rate"
     }
   ],
   "recentCommitDays": {
+    "2026-03-14": 1,
     "2026-03-12": 1,
     "2026-03-11": 1,
     "2026-03-10": 8,
@@ -331,37 +376,5 @@
     "2026-02-26": 65,
     "2026-02-19": 2,
     "2026-02-17": 2
-  },
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-10": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 9
-    },
-    "2026-03-07": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

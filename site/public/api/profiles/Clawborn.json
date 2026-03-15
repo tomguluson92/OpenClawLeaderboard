@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/261310391?v=4",
   "githubUrl": "https://github.com/Clawborn",
   "score": {
-    "score": 667.17,
-    "prScore": 665.17,
+    "score": 507.57,
+    "prScore": 506.57,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 1
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
     "commits": 35,
-    "prs": 53,
+    "prs": 31,
     "prsMerged": 0,
-    "prAdditions": 2471,
-    "prDeletions": 349,
-    "prChangedFiles": 125,
+    "prAdditions": 1770,
+    "prDeletions": 305,
+    "prChangedFiles": 84,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 24,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 31,
       "issues": 0,
       "reviews": 0,
       "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 53,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T17:37:59Z",
+  "firstContribution": "2026-03-04T10:55:26Z",
   "lastContribution": "2026-03-06T17:34:33Z",
   "recentPRs": [
     {
@@ -277,6 +275,23 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion",
@@ -287,24 +302,7 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "pr-master",
-      "label": "PR Master",
-      "description": "50+ pull requests"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 12,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 8,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

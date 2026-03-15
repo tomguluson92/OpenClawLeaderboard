@@ -3,276 +3,274 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/25068?v=4",
   "githubUrl": "https://github.com/vincentkoc",
   "score": {
-    "score": 3410.74,
-    "prScore": 3227.74,
+    "score": 4304.09,
+    "prScore": 4137.59,
     "issueScore": 23,
-    "reviewScore": 60,
-    "commentScore": 100
+    "reviewScore": 51,
+    "commentScore": 92.5
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
-    "commits": 425,
-    "prs": 103,
-    "prsMerged": 71,
-    "prAdditions": 30698,
-    "prDeletions": 8485,
-    "prChangedFiles": 1193,
-    "prMergeRate": 69,
+    "commits": 508,
+    "prs": 155,
+    "prsMerged": 108,
+    "prAdditions": 95520,
+    "prDeletions": 9158,
+    "prChangedFiles": 1524,
+    "prMergeRate": 70,
     "issues": 4,
     "issuesClosed": 1,
-    "reviews": 20,
+    "reviews": 17,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 201,
-    "commitAdditions": 30289,
-    "commitDeletions": 8498,
-    "weeklyCommits": 43,
-    "monthlyCommits": 509,
-    "commitChangedFiles": 1481
+    "comments": 185,
+    "commitAdditions": 145756,
+    "commitDeletions": 38035,
+    "commitChangedFiles": 2814
   },
   "period": {
     "weekly": {
-      "prs": 85,
-      "issues": 1,
-      "reviews": 14,
-      "comments": 161,
-      "commitAdditions": 15036,
-      "commitDeletions": 5171,
-      "commits": 206
+      "prs": 90,
+      "issues": 0,
+      "reviews": 9,
+      "comments": 60,
+      "commitAdditions": 119398,
+      "commitDeletions": 29998,
+      "commits": 116
     },
     "monthly": {
-      "prs": 103,
+      "prs": 155,
       "issues": 4,
-      "reviews": 20,
-      "comments": 201,
-      "commitAdditions": 30288,
-      "commitDeletions": 8498,
-      "commits": 435
+      "reviews": 17,
+      "comments": 185,
+      "commitAdditions": 145755,
+      "commitDeletions": 38035,
+      "commits": 507
     }
   },
-  "firstContribution": "2026-02-28T08:13:05Z",
-  "lastContribution": "2026-03-12T05:00:06Z",
+  "firstContribution": "2026-03-04T05:08:10Z",
+  "lastContribution": "2026-03-15T03:33:29Z",
   "recentPRs": [
     {
-      "number": 43687,
-      "title": "Security: escape invisible exec approval format chars",
+      "number": 46817,
+      "title": "ACP: fail closed on conflicting tool identity hints",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-12T05:00:06Z",
+      "createdAt": "2026-03-15T03:33:29Z",
       "mergedAt": null,
-      "additions": 77,
-      "deletions": 15,
-      "changedFiles": 4
+      "additions": 38,
+      "deletions": 1,
+      "changedFiles": 3
     },
     {
-      "number": 43686,
-      "title": "Infra: cap device tokens to approved scopes",
+      "number": 46816,
+      "title": "External content: sanitize wrapped metadata",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-12T04:57:40Z",
+      "createdAt": "2026-03-15T03:33:28Z",
       "mergedAt": null,
-      "additions": 69,
+      "additions": 19,
       "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 43685,
-      "title": "Infra: block GIT_EXEC_PATH in host env sanitizer",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-12T04:57:40Z",
-      "mergedAt": null,
-      "additions": 59,
-      "deletions": 0,
       "changedFiles": 3
     },
     {
-      "number": 43684,
-      "title": "fix(browser): restore proxy attachment media size cap",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-12T04:56:49Z",
-      "mergedAt": "2026-03-12T05:04:32Z",
-      "additions": 56,
+      "number": 46815,
+      "title": "Nodes: recheck queued actions before delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:33:28Z",
+      "mergedAt": null,
+      "additions": 92,
       "deletions": 1,
       "changedFiles": 3
     },
     {
-      "number": 43683,
-      "title": "Runtime: share singleton state across bundled chunks",
+      "number": 46803,
+      "title": "Tools: revalidate workspace-only patch targets",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-12T04:54:49Z",
+      "createdAt": "2026-03-15T03:21:11Z",
       "mergedAt": null,
-      "additions": 353,
-      "deletions": 52,
-      "changedFiles": 14
-    },
-    {
-      "number": 43520,
-      "title": "fix(terminal): sanitize skills JSON and fallback on legacy Windows",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-11T23:35:53Z",
-      "mergedAt": "2026-03-11T23:53:07Z",
-      "additions": 143,
-      "deletions": 7,
-      "changedFiles": 5
-    },
-    {
-      "number": 42849,
-      "title": "fix(terminal): stabilize skills table width across Terminal.app and iTerm",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-11T05:42:10Z",
-      "mergedAt": "2026-03-11T13:13:10Z",
-      "additions": 298,
-      "deletions": 66,
-      "changedFiles": 32
-    },
-    {
-      "number": 42835,
-      "title": "Agents: recover malformed Anthropic-compatible tool call args",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-11T05:22:46Z",
-      "mergedAt": null,
-      "additions": 301,
-      "deletions": 0,
+      "additions": 43,
+      "deletions": 3,
       "changedFiles": 3
     },
     {
-      "number": 42528,
-      "title": "fix(kimi-coding): ignore stale Anthropic tool compat overrides",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-10T21:56:58Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 42256,
-      "title": "fix(sandbox): sanitize Docker env before marking OPENCLAW_CLI",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T14:57:59Z",
-      "mergedAt": "2026-03-11T04:59:36Z",
-      "additions": 41,
-      "deletions": 14,
-      "changedFiles": 3
-    },
-    {
-      "number": 42249,
-      "title": "fix(terminal): align table wrapping for wide graphemes",
+      "number": 46802,
+      "title": "Webhooks: tighten pre-auth body handling",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-10T14:52:10Z",
+      "createdAt": "2026-03-15T03:21:11Z",
       "mergedAt": null,
-      "additions": 140,
-      "deletions": 12,
-      "changedFiles": 5
-    },
-    {
-      "number": 41415,
-      "title": "docs(logging): define diagnostics as the telemetry surface",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T20:29:46Z",
-      "mergedAt": null,
-      "additions": 53,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 41411,
-      "title": "feat(exec): mark child command env with OPENCLAW_CLI",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T20:26:05Z",
-      "mergedAt": "2026-03-09T23:14:08Z",
-      "additions": 41,
-      "deletions": 5,
+      "additions": 62,
+      "deletions": 22,
       "changedFiles": 8
     },
     {
-      "number": 41403,
-      "title": "docs: define hook surface ownership and middleware guidance",
+      "number": 46801,
+      "title": "Subagents: restrict follow-up messaging scope",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-09T20:17:33Z",
+      "createdAt": "2026-03-15T03:21:11Z",
       "mergedAt": null,
-      "additions": 90,
-      "deletions": 30,
-      "changedFiles": 2
+      "additions": 69,
+      "deletions": 1,
+      "changedFiles": 4
     },
     {
-      "number": 41386,
-      "title": "Doctor: honor repair gating for legacy cron fixes",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T19:34:22Z",
-      "mergedAt": "2026-03-09T19:35:32Z",
-      "additions": 116,
-      "deletions": 8,
-      "changedFiles": 2
-    },
-    {
-      "number": 41375,
-      "title": "fix(hooks): deliver internal hook replies on replyable surfaces",
+      "number": 46800,
+      "title": "Gateway: tighten forwarded client and pairing guards",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-09T19:13:36Z",
+      "createdAt": "2026-03-15T03:21:11Z",
       "mergedAt": null,
-      "additions": 237,
-      "deletions": 35,
+      "additions": 213,
+      "deletions": 2,
       "changedFiles": 7
     },
     {
-      "number": 41341,
-      "title": "fix(telegram): use DM thread hook session for plugin commands",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T18:10:07Z",
-      "mergedAt": null,
-      "additions": 10049,
-      "deletions": 2949,
-      "changedFiles": 324
-    },
-    {
-      "number": 41277,
-      "title": "fix(gateway): run before_reset hooks for sessions.reset",
+      "number": 46799,
+      "title": "Gateway: scrub credentials from endpoint snapshots",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-09T16:49:12Z",
+      "createdAt": "2026-03-15T03:21:11Z",
       "mergedAt": null,
-      "additions": 371,
-      "deletions": 61,
-      "changedFiles": 9
+      "additions": 66,
+      "deletions": 1,
+      "changedFiles": 5
     },
     {
-      "number": 40351,
-      "title": "Docker: improve build cache reuse",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T23:25:48Z",
-      "mergedAt": "2026-03-09T00:57:47Z",
-      "additions": 237,
-      "deletions": 47,
+      "number": 46796,
+      "title": "ACP: honor per-agent allowlists for spawned sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:19:54Z",
+      "mergedAt": null,
+      "additions": 171,
+      "deletions": 24,
+      "changedFiles": 3
+    },
+    {
+      "number": 46794,
+      "title": "Device pairing: bind setup codes to node approvals",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:19:45Z",
+      "mergedAt": null,
+      "additions": 91,
+      "deletions": 2,
+      "changedFiles": 5
+    },
+    {
+      "number": 46793,
+      "title": "Skills: apply tool policy to direct slash dispatch",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:19:35Z",
+      "mergedAt": null,
+      "additions": 261,
+      "deletions": 15,
+      "changedFiles": 3
+    },
+    {
+      "number": 46791,
+      "title": "Synology Chat: reject duplicate webhook path ownership",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:19:27Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 46790,
+      "title": "macOS: restrict canvas agent actions to trusted surfaces",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:19:13Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 33,
+      "changedFiles": 3
+    },
+    {
+      "number": 46789,
+      "title": "ACP: require admin scope for mutating internal actions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:18:23Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 46788,
+      "title": "Tlon: honor explicit empty allowlists and defer cite expansion",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:18:18Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 19,
+      "changedFiles": 1
+    },
+    {
+      "number": 46787,
+      "title": "Integrations: tighten inbound callback and allowlist checks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:18:14Z",
+      "mergedAt": null,
+      "additions": 316,
+      "deletions": 11,
       "changedFiles": 13
     },
     {
-      "number": 40345,
-      "title": "fix(tui): improve color contrast for light-background terminals",
+      "number": 46784,
+      "title": "CLI: reduce channels add startup memory",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T03:14:52Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 24,
+      "changedFiles": 10
+    },
+    {
+      "number": 46640,
+      "title": "browser: add local CDP bridge for remote MCP attach",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T23:14:16Z",
+      "mergedAt": null,
+      "additions": 839,
+      "deletions": 19,
+      "changedFiles": 12
+    },
+    {
+      "number": 46639,
+      "title": "ci: add docker existing-session MCP smoke",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T23:12:55Z",
+      "mergedAt": null,
+      "additions": 211,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 46636,
+      "title": "docker: add lsof to runtime image",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-08T23:12:01Z",
-      "mergedAt": "2026-03-08T23:17:28Z",
-      "additions": 381,
-      "deletions": 5,
-      "changedFiles": 6
+      "createdAt": "2026-03-14T23:10:51Z",
+      "mergedAt": "2026-03-15T02:40:29Z",
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
     }
   ],
   "recentIssues": [
@@ -307,6 +305,41 @@
   ],
   "recentReviews": [
     {
+      "prNumber": 45318,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T21:24:50Z"
+    },
+    {
+      "prNumber": 45318,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T21:24:48Z"
+    },
+    {
+      "prNumber": 45318,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T21:24:47Z"
+    },
+    {
+      "prNumber": 45318,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T20:17:57Z"
+    },
+    {
+      "prNumber": 45318,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T20:17:09Z"
+    },
+    {
+      "prNumber": 45318,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T20:16:14Z"
+    },
+    {
+      "prNumber": 45318,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T20:15:27Z"
+    },
+    {
       "prNumber": 42256,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T15:22:08Z"
@@ -327,11 +360,6 @@
       "createdAt": "2026-03-07T01:07:31Z"
     },
     {
-      "prNumber": 34068,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T13:09:49Z"
-    },
-    {
       "prNumber": 34501,
       "state": "COMMENTED",
       "createdAt": "2026-03-05T12:57:59Z"
@@ -340,31 +368,6 @@
       "prNumber": 34501,
       "state": "COMMENTED",
       "createdAt": "2026-03-05T12:57:50Z"
-    },
-    {
-      "prNumber": 34068,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T12:54:32Z"
-    },
-    {
-      "prNumber": 34068,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T12:54:30Z"
-    },
-    {
-      "prNumber": 34068,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T12:54:29Z"
-    },
-    {
-      "prNumber": 34068,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T12:54:28Z"
-    },
-    {
-      "prNumber": 34068,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T12:54:26Z"
     },
     {
       "prNumber": 34310,
@@ -385,28 +388,70 @@
       "prNumber": 34884,
       "state": "COMMENTED",
       "createdAt": "2026-03-04T19:44:50Z"
-    },
-    {
-      "prNumber": 34055,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T06:46:22Z"
-    },
-    {
-      "prNumber": 34055,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T06:46:21Z"
-    },
-    {
-      "prNumber": 34055,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T06:46:20Z"
-    },
-    {
-      "prNumber": 34055,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T06:46:19Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 17,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-12": {
+      "prs": 29,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-09": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-08": {
+      "prs": 17,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 17,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-06": {
+      "prs": 28,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 5,
+      "issues": 1,
+      "reviews": 4
+    },
+    "2026-03-04": {
+      "prs": 6,
+      "issues": 3,
+      "reviews": 2
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -420,6 +465,11 @@
       "id": "centurion",
       "label": "Centurion",
       "description": "100+ commits"
+    },
+    {
+      "id": "marathon",
+      "label": "Marathon Coder",
+      "description": "500+ commits"
     },
     {
       "id": "pr-machine",
@@ -462,15 +512,23 @@
       "description": "10K+ lines added"
     },
     {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    },
+    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
   ],
   "recentCommitDays": {
-    "2026-03-12": 12,
-    "2026-03-11": 3,
-    "2026-03-10": 1,
+    "2026-03-15": 1,
+    "2026-03-14": 13,
+    "2026-03-13": 20,
+    "2026-03-12": 37,
+    "2026-03-11": 11,
+    "2026-03-10": 6,
     "2026-03-09": 6,
     "2026-03-08": 95,
     "2026-03-07": 26,
@@ -492,47 +550,5 @@
     "2026-02-14": 1,
     "2026-02-13": 1,
     "2026-02-05": 1
-  },
-  "recentActivityDays": {
-    "2026-03-12": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-09": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 10
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 3,
-      "reviews": 6
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
-    }
   }
 }

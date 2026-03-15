@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/111618279?u=2ffecaa031cedb4e86d70b2941d199b693531c67&v=4",
   "githubUrl": "https://github.com/Jimmy-xuzimo",
   "score": {
-    "score": 347.84,
-    "prScore": 294.84,
-    "issueScore": 41,
+    "score": 194.66,
+    "prScore": 189.66,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 12
+    "commentScore": 5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 25,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 2611,
-    "prDeletions": 326,
-    "prChangedFiles": 108,
+    "prAdditions": 2622,
+    "prDeletions": 280,
+    "prChangedFiles": 96,
     "prMergeRate": 0,
-    "issues": 7,
-    "issuesClosed": 2,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 24,
+    "comments": 10,
     "commitAdditions": 6,
     "commitDeletions": 6,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 13,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 25,
-      "issues": 7,
+      "prs": 10,
+      "issues": 0,
       "reviews": 0,
-      "comments": 24,
+      "comments": 10,
       "commitAdditions": 6,
       "commitDeletions": 6,
       "commits": 1
     }
   },
-  "firstContribution": "2026-02-27T10:55:46Z",
-  "lastContribution": "2026-03-09T16:08:38Z",
+  "firstContribution": "2026-03-06T09:47:13Z",
+  "lastContribution": "2026-03-13T15:06:24Z",
   "recentPRs": [
+    {
+      "number": 45218,
+      "title": "fix: preserve Discord IDs as strings in Control UI v2",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T15:06:24Z",
+      "mergedAt": null,
+      "additions": 276,
+      "deletions": 62,
+      "changedFiles": 10
+    },
+    {
+      "number": 45066,
+      "title": "fix: resolve ANTHROPIC_MODEL_ALIASES TDZ error on gateway start",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T12:11:59Z",
+      "mergedAt": null,
+      "additions": 994,
+      "deletions": 44,
+      "changedFiles": 34
+    },
+    {
+      "number": 45004,
+      "title": "docs: fix Brave Search cost info rendering by escaping $ symbols",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:42:40Z",
+      "mergedAt": null,
+      "additions": 237,
+      "deletions": 53,
+      "changedFiles": 8
+    },
     {
       "number": 41062,
       "title": "fix(configure): auto-add Tailscale origin to allowedOrigins",
@@ -130,229 +161,16 @@
       "additions": 155,
       "deletions": 3,
       "changedFiles": 3
-    },
-    {
-      "number": 33192,
-      "title": "fix: make file block regex resilient to attribute order and extra attributes (clean)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T15:41:41Z",
-      "mergedAt": null,
-      "additions": 371,
-      "deletions": 3,
-      "changedFiles": 6
-    },
-    {
-      "number": 33162,
-      "title": "fix(ui): show actual primary model in dropdown for object-format model config",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T15:18:17Z",
-      "mergedAt": null,
-      "additions": 39,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 33161,
-      "title": "fix: normalize Feishu delivery target for cron duplicate suppression",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T15:17:40Z",
-      "mergedAt": null,
-      "additions": 38,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 33160,
-      "title": "fix: address review comments on Slack react auto-inference",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T15:17:16Z",
-      "mergedAt": null,
-      "additions": 21,
-      "deletions": 1,
-      "changedFiles": 4
-    },
-    {
-      "number": 33159,
-      "title": "fix: make file block regex resilient to attribute order and extra attributes",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T15:16:38Z",
-      "mergedAt": null,
-      "additions": 405,
-      "deletions": 3,
-      "changedFiles": 8
-    },
-    {
-      "number": 32707,
-      "title": "feat: add 'xai' to reasoning tag providers (#27533)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T07:33:50Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 32702,
-      "title": "chore: improve logging for backoff timeout in delivery queue",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T07:31:21Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 32697,
-      "title": "fix: strip ANSI codes from skills list JSON output (#27530)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T07:24:59Z",
-      "mergedAt": null,
-      "additions": 3,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 32653,
-      "title": "fix: cap cache hit rate at 100% (#26643)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T06:38:53Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 32650,
-      "title": "fix(slack): skip is_share attachments in bot fallback text extraction (#27616)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T06:36:05Z",
-      "mergedAt": null,
-      "additions": 49,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 31818,
-      "title": "fix: Use continue instead of break for backoff timeout in delivery queue (#27638)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T15:10:28Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 31811,
-      "title": "fix: Skip is_share attachments in Slack bot message handling (#27616)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T15:05:09Z",
-      "mergedAt": null,
-      "additions": 118,
-      "deletions": 22,
-      "changedFiles": 11
-    },
-    {
-      "number": 31793,
-      "title": "fix: Add host header origin fallback for Podman gateway (#27473)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T14:44:39Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 2,
-      "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 28719,
-      "title": "[Feature]: Home Assistant Integration Configuration Improvements",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T13:08:43Z",
-      "closedAt": null
-    },
-    {
-      "number": 28718,
-      "title": "[Feature]: Chinese Documentation and Localization Improvements",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T13:08:23Z",
-      "closedAt": null
-    },
-    {
-      "number": 28716,
-      "title": "[Bug]: WebSocket Origin check configuration is complex with unclear error messages",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T13:08:02Z",
-      "closedAt": null
-    },
-    {
-      "number": 28715,
-      "title": "[Bug]: Cron job removal command sometimes fails silently, task continues running",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T13:07:43Z",
-      "closedAt": null
-    },
-    {
-      "number": 28714,
-      "title": "[Feature]: DingTalk Integration Configuration Wizard and Error Message Improvements",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T13:07:22Z",
-      "closedAt": null
-    },
-    {
-      "number": 28713,
-      "title": "[Bug]: \u5b9a\u65f6\u4efb\u52a1(cron)\u5220\u9664\u529f\u80fd\u4e0d\u7a33\u5b9a\uff0c\u4efb\u52a1\u4ecd\u5728\u540e\u53f0\u8fd0\u884c",
-      "state": "CLOSED",
-      "createdAt": "2026-02-27T13:06:13Z",
-      "closedAt": "2026-02-27T13:07:03Z"
-    },
-    {
-      "number": 28712,
-      "title": "[Feature]: \u9489\u9489(DingTalk)\u96c6\u6210\u914d\u7f6e\u5411\u5bfc\u548c\u9519\u8bef\u63d0\u793a\u6539\u8fdb",
-      "state": "CLOSED",
-      "createdAt": "2026-02-27T13:05:50Z",
-      "closedAt": "2026-02-27T13:07:03Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-02-26": 1
-  },
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 2,
       "issues": 0,
@@ -367,21 +185,20 @@
       "prs": 4,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 10,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-02-27": {
-      "prs": 0,
-      "issues": 7,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-02-26": 1
   }
 }

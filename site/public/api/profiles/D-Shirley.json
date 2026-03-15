@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/49874043?v=4",
   "githubUrl": "https://github.com/D-Shirley",
   "score": {
-    "score": 39.35,
-    "prScore": 30.35,
+    "score": 19.08,
+    "prScore": 10.08,
     "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Maintainer",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 869,
-    "prDeletions": 41,
-    "prChangedFiles": 8,
+    "prAdditions": 164,
+    "prDeletions": 4,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,22 +27,20 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 3,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 3,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T08:42:02Z",
+  "firstContribution": "2026-03-06T07:14:17Z",
   "lastContribution": "2026-03-06T08:17:42Z",
   "recentPRs": [
     {
@@ -64,17 +62,6 @@
       "additions": 164,
       "deletions": 4,
       "changedFiles": 2
-    },
-    {
-      "number": 34181,
-      "title": "feat: integrate optional tokenizer for accurate token estimation",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T08:42:02Z",
-      "mergedAt": null,
-      "additions": 705,
-      "deletions": 37,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [],
@@ -95,22 +82,17 @@
       "createdAt": "2026-03-06T08:17:42Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
       "issues": 0,
       "reviews": 3
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

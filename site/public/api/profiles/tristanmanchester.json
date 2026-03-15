@@ -3,72 +3,103 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/108270628?u=683f5cbbb658b72db940819c714c2b53bbdf3cc7&v=4",
   "githubUrl": "https://github.com/tristanmanchester",
   "score": {
-    "score": 114.93,
-    "prScore": 99.43,
+    "score": 204.82,
+    "prScore": 169.82,
     "issueScore": 0,
-    "reviewScore": 15,
-    "commentScore": 0.5
+    "reviewScore": 33,
+    "commentScore": 2
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 2121,
-    "prDeletions": 79,
-    "prChangedFiles": 37,
+    "prAdditions": 7484,
+    "prDeletions": 520,
+    "prChangedFiles": 160,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 11,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 4,
       "issues": 0,
-      "reviews": 5,
-      "comments": 1,
+      "reviews": 10,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 5,
       "issues": 0,
-      "reviews": 5,
-      "comments": 1,
+      "reviews": 11,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-05T08:36:54Z",
-  "lastContribution": "2026-03-11T03:47:59Z",
+  "lastContribution": "2026-03-13T19:12:32Z",
   "recentPRs": [
     {
-      "number": 42489,
+      "number": 45256,
+      "title": "Memory: add Gemini multimodal video and PDF indexing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T15:53:03Z",
+      "mergedAt": null,
+      "additions": 390,
+      "deletions": 32,
+      "changedFiles": 11
+    },
+    {
+      "number": 43849,
+      "title": "PDF: add explicit extraction modes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T08:25:31Z",
+      "mergedAt": null,
+      "additions": 951,
+      "deletions": 19,
+      "changedFiles": 12
+    },
+    {
+      "number": 43731,
       "title": "WhatsApp: send commentary updates live",
       "state": "OPEN",
       "merged": false,
+      "createdAt": "2026-03-12T05:57:19Z",
+      "mergedAt": null,
+      "additions": 2981,
+      "deletions": 217,
+      "changedFiles": 36
+    },
+    {
+      "number": 42489,
+      "title": "WhatsApp: send commentary updates live",
+      "state": "CLOSED",
+      "merged": false,
       "createdAt": "2026-03-10T20:23:07Z",
       "mergedAt": null,
-      "additions": 1593,
-      "deletions": 72,
-      "changedFiles": 26
+      "additions": 2634,
+      "deletions": 245,
+      "changedFiles": 90
     },
     {
       "number": 35771,
       "title": "PDF: add optional Mistral OCR fallback for weak extraction",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T08:36:54Z",
       "mergedAt": null,
@@ -79,6 +110,36 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 45256,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T19:12:32Z"
+    },
+    {
+      "prNumber": 45256,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T18:06:57Z"
+    },
+    {
+      "prNumber": 45256,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T16:59:28Z"
+    },
+    {
+      "prNumber": 43731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T06:58:33Z"
+    },
+    {
+      "prNumber": 43731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T06:30:09Z"
+    },
+    {
+      "prNumber": 43731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T06:30:09Z"
+    },
     {
       "prNumber": 42489,
       "state": "COMMENTED",
@@ -105,14 +166,17 @@
       "createdAt": "2026-03-05T08:46:55Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
@@ -128,5 +192,19 @@
       "issues": 0,
       "reviews": 4
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {}
 }

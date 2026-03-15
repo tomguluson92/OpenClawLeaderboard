@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -89,7 +87,7 @@
     },
     {
       "number": 39269,
-      "title": "fix: batch bug fixes \u2014 routing, delivery, errors, plugins",
+      "title": "fix: batch bug fixes — routing, delivery, errors, plugins",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-07T23:50:09Z",
@@ -112,18 +110,6 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
@@ -140,5 +126,17 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {}
 }

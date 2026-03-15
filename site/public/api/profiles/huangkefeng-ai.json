@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/113394381?v=4",
   "githubUrl": "https://github.com/huangkefeng-ai",
   "score": {
-    "score": 134.11,
-    "prScore": 122.61,
+    "score": 68.47,
+    "prScore": 67.47,
     "issueScore": 0,
-    "reviewScore": 6,
-    "commentScore": 5.5
+    "reviewScore": 0,
+    "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 569,
-    "prDeletions": 67,
-    "prChangedFiles": 38,
+    "prAdditions": 436,
+    "prDeletions": 54,
+    "prChangedFiles": 25,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 6,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 3,
       "issues": 0,
-      "reviews": 2,
-      "comments": 11,
+      "reviews": 0,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T18:47:20Z",
+  "firstContribution": "2026-03-05T06:26:41Z",
   "lastContribution": "2026-03-08T13:55:50Z",
   "recentPRs": [
     {
@@ -86,72 +84,10 @@
       "additions": 8,
       "deletions": 7,
       "changedFiles": 8
-    },
-    {
-      "number": 33443,
-      "title": "test(memory,plugins): stabilize batch tests and align command spec expectation",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T20:09:09Z",
-      "mergedAt": null,
-      "additions": 22,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 33433,
-      "title": "fix(matrix): resolve keyed-async-queue module resolution regression",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T19:54:02Z",
-      "mergedAt": null,
-      "additions": 3,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 33416,
-      "title": "fix(telegram): avoid duplicate preview/final messages for quoted replies",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T19:27:44Z",
-      "mergedAt": null,
-      "additions": 86,
-      "deletions": 12,
-      "changedFiles": 7
-    },
-    {
-      "number": 33382,
-      "title": "test(memory,plugins): stabilize flaky batch tests and align command spec assertion",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T18:47:20Z",
-      "mergedAt": null,
-      "additions": 22,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 33416,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T00:54:25Z"
-    },
-    {
-      "prNumber": 33416,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T00:53:37Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 2,
@@ -161,12 +97,13 @@
     "2026-03-05": {
       "prs": 1,
       "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-03": {
-      "prs": 4,
-      "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

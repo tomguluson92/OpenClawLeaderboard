@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5855097?u=a49d0037d254ef156c86e14116917d27c744a92c&v=4",
   "githubUrl": "https://github.com/cyan-ember",
   "score": {
-    "score": 24.07,
+    "score": 16.07,
     "prScore": 10.07,
-    "issueScore": 13,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 1
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,16 +19,14 @@
     "prDeletions": 6,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
+    "issues": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,14 +34,14 @@
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 1,
       "reviews": 0,
       "comments": 2,
       "commitAdditions": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-28T16:35:09Z",
+  "firstContribution": "2026-03-04T15:03:46Z",
   "lastContribution": "2026-03-05T18:50:29Z",
   "recentPRs": [
     {
@@ -73,33 +71,21 @@
       "state": "OPEN",
       "createdAt": "2026-03-04T15:03:46Z",
       "closedAt": null
-    },
-    {
-      "number": 29909,
-      "title": "[Feature]: ACP Session Streaming/Log Forwarding to Orchestrator",
-      "state": "CLOSED",
-      "createdAt": "2026-02-28T16:35:09Z",
-      "closedAt": "2026-03-04T13:38:54Z"
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-02-28": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

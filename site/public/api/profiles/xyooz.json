@@ -1,0 +1,118 @@
+{
+  "username": "xyooz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/101877493?u=e0305e8a3d07ddea7f7b39bbf22b52ea21b710e2&v=4",
+  "githubUrl": "https://github.com/xyooz",
+  "score": {
+    "score": 46.56,
+    "prScore": 39.06,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 2.5
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 139,
+    "prDeletions": 11,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T16:09:44Z",
+  "lastContribution": "2026-03-14T12:07:00Z",
+  "recentPRs": [
+    {
+      "number": 46082,
+      "title": "fix(status): treat scope-limited probe as reachable",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T12:06:51Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 5,
+      "changedFiles": 5
+    },
+    {
+      "number": 45977,
+      "title": "fix(status): treat scope-limited probe as reachable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T10:20:27Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 5,
+      "changedFiles": 5
+    },
+    {
+      "number": 45270,
+      "title": "fix(status): avoid misleading context usage when totalTokensFresh=false",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T16:11:13Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45268,
+      "title": "status: context usage is misleading when totalTokensFresh=false",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T16:09:44Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

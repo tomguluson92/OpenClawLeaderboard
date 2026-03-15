@@ -3,40 +3,38 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258399167?u=40e527fa4c6254d0215e99da799d2c7fe580bfc7&v=4",
   "githubUrl": "https://github.com/xiaoyaner0201",
   "score": {
-    "score": 91.38,
-    "prScore": 90.88,
+    "score": 144.93,
+    "prScore": 102.43,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 42,
     "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 2351,
-    "prDeletions": 3,
-    "prChangedFiles": 30,
+    "prAdditions": 820,
+    "prDeletions": 64,
+    "prChangedFiles": 40,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 14,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "reviews": 14,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -44,68 +42,146 @@
     "monthly": {
       "prs": 3,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 14,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T01:37:13Z",
-  "lastContribution": "2026-03-08T09:27:38Z",
+  "firstContribution": "2026-03-08T09:27:38Z",
+  "lastContribution": "2026-03-13T15:23:08Z",
   "recentPRs": [
+    {
+      "number": 44878,
+      "title": "feat(memory): support separate fallback remote config for memorySearch",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T08:45:54Z",
+      "mergedAt": null,
+      "additions": 588,
+      "deletions": 63,
+      "changedFiles": 28
+    },
+    {
+      "number": 44793,
+      "title": "feat(compaction): add language-preservation default instructions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T07:08:46Z",
+      "mergedAt": null,
+      "additions": 190,
+      "deletions": 1,
+      "changedFiles": 7
+    },
     {
       "number": 39670,
       "title": "feat(agents): auto-show context usage warning when nearing token limit",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T09:27:38Z",
       "mergedAt": null,
       "additions": 42,
       "deletions": 0,
       "changedFiles": 5
-    },
-    {
-      "number": 33740,
-      "title": "feat(plugins): add usage-tracker extension",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T01:37:42Z",
-      "mergedAt": null,
-      "additions": 2045,
-      "deletions": 0,
-      "changedFiles": 15
-    },
-    {
-      "number": 33739,
-      "title": "feat(hooks): add skill_read plugin hook for skill lifecycle observability",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T01:37:13Z",
-      "mergedAt": null,
-      "additions": 264,
-      "deletions": 3,
-      "changedFiles": 10
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
+  "recentReviews": [
+    {
+      "prNumber": 44650,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:23:08Z"
+    },
+    {
+      "prNumber": 39940,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:22:59Z"
+    },
+    {
+      "prNumber": 43783,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:22:54Z"
+    },
+    {
+      "prNumber": 39919,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:22:50Z"
+    },
+    {
+      "prNumber": 41510,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:19:54Z"
+    },
+    {
+      "prNumber": 43652,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:19:50Z"
+    },
+    {
+      "prNumber": 43039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:19:46Z"
+    },
+    {
+      "prNumber": 41952,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:19:42Z"
+    },
+    {
+      "prNumber": 43619,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:19:29Z"
+    },
+    {
+      "prNumber": 41434,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:19:25Z"
+    },
+    {
+      "prNumber": 41767,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:19:21Z"
+    },
+    {
+      "prNumber": 42925,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:19:16Z"
+    },
+    {
+      "prNumber": 43766,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T15:19:12Z"
+    },
+    {
+      "prNumber": 45008,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T13:16:29Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 14
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {}
 }

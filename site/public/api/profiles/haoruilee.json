@@ -3,72 +3,114 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/60883781?u=75681057d29b7a707a25d642c735778ca41b3254&v=4",
   "githubUrl": "https://github.com/haoruilee",
   "score": {
-    "score": 88.99,
-    "prScore": 87.99,
+    "score": 160.38,
+    "prScore": 155.38,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
-    "prsMerged": 0,
-    "prAdditions": 1051,
-    "prDeletions": 21,
-    "prChangedFiles": 32,
-    "prMergeRate": 0,
+    "prs": 7,
+    "prsMerged": 1,
+    "prAdditions": 1327,
+    "prDeletions": 42,
+    "prChangedFiles": 42,
+    "prMergeRate": 14,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "comments": 10,
+    "commitAdditions": 413,
+    "commitDeletions": 10,
+    "commitChangedFiles": 4
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 10,
+      "commitAdditions": 413,
+      "commitDeletions": 10,
+      "commits": 1
     },
     "monthly": {
-      "prs": 3,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 10,
+      "commitAdditions": 413,
+      "commitDeletions": 10,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-05T06:10:25Z",
-  "lastContribution": "2026-03-12T02:04:32Z",
+  "lastContribution": "2026-03-13T16:28:54Z",
   "recentPRs": [
+    {
+      "number": 45282,
+      "title": "fix(ui): add context-notice component and refresh token stats after every chat turn, solve #45230, #45034, #45192",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T16:28:54Z",
+      "mergedAt": null,
+      "additions": 54,
+      "deletions": 8,
+      "changedFiles": 4
+    },
+    {
+      "number": 44740,
+      "title": "fix(windows): add windowsHide:true to restart-helper spawn to suppress console flicker, fix #44693",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T06:24:59Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 44736,
+      "title": "fix(sandbox): detect silent data loss in write_atomic on fakeowner/network mounts, fix #44657",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T06:21:56Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 44669,
+      "title": "fix(discord): prevent gateway crash when Discord API returns 503 during proxy reconnect, solve #44529",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T04:49:26Z",
+      "mergedAt": null,
+      "additions": 134,
+      "deletions": 11,
+      "changedFiles": 3
+    },
     {
       "number": 36389,
       "title": "fix(status): resolve context window by provider-qualified key, prefer max on bare-id collision, solve #35976",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-05T15:56:36Z",
-      "mergedAt": null,
-      "additions": 335,
+      "mergedAt": "2026-03-12T14:00:36Z",
+      "additions": 413,
       "deletions": 10,
       "changedFiles": 4
     },
     {
       "number": 36327,
       "title": "fix(memory): enable WAL journal mode on SQLite index to prevent corruption on restart #36035 ",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T15:11:50Z",
       "mergedAt": null,
@@ -83,24 +125,31 @@
       "merged": false,
       "createdAt": "2026-03-05T06:10:25Z",
       "mergedAt": null,
-      "additions": 637,
+      "additions": 623,
       "deletions": 11,
       "changedFiles": 26
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-05": {
       "prs": 3,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-12": 1
   }
 }

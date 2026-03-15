@@ -3,57 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3917184?u=7388890a8bbc29dcff8584c85eaf827be575ff42&v=4",
   "githubUrl": "https://github.com/ccsang",
   "score": {
-    "score": 124.9,
-    "prScore": 117.9,
+    "score": 197.19,
+    "prScore": 192.69,
     "issueScore": 0,
     "reviewScore": 3,
-    "commentScore": 4
+    "commentScore": 1.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 9,
+    "prs": 11,
     "prsMerged": 0,
-    "prAdditions": 1028,
-    "prDeletions": 110,
-    "prChangedFiles": 26,
+    "prAdditions": 2089,
+    "prDeletions": 146,
+    "prChangedFiles": 53,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
+    "comments": 3,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 11,
       "issues": 0,
       "reviews": 1,
-      "comments": 5,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 9,
+      "prs": 11,
       "issues": 0,
       "reviews": 1,
-      "comments": 8,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T07:07:33Z",
-  "lastContribution": "2026-03-11T23:50:08Z",
+  "firstContribution": "2026-03-10T07:57:08Z",
+  "lastContribution": "2026-03-13T13:17:37Z",
   "recentPRs": [
+    {
+      "number": 45117,
+      "title": "fix(test): disable color output in loader tests for cross-platform consistency",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T13:17:37Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 44072,
+      "title": "fix(telegram): abort in-flight long-poll HTTP request on shutdown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T13:31:19Z",
+      "mergedAt": null,
+      "additions": 373,
+      "deletions": 21,
+      "changedFiles": 11
+    },
+    {
+      "number": 44066,
+      "title": "fix(cron): avoid false positive legacyPayloadKind warning when already normalized",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T13:19:42Z",
+      "mergedAt": null,
+      "additions": 370,
+      "deletions": 21,
+      "changedFiles": 10
+    },
+    {
+      "number": 43916,
+      "title": "fix(feishu): decode URL-encoded filenames when receiving files",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T09:54:24Z",
+      "mergedAt": null,
+      "additions": 339,
+      "deletions": 17,
+      "changedFiles": 8
+    },
     {
       "number": 43525,
       "title": "fix(ui): show full command/args in tool card sidebar (#43153)",
@@ -61,8 +103,8 @@
       "merged": false,
       "createdAt": "2026-03-11T23:50:08Z",
       "mergedAt": null,
-      "additions": 192,
-      "deletions": 12,
+      "additions": 258,
+      "deletions": 14,
       "changedFiles": 4
     },
     {
@@ -130,28 +172,6 @@
       "additions": 239,
       "deletions": 11,
       "changedFiles": 2
-    },
-    {
-      "number": 34112,
-      "title": "feat(telegram): send authorization hint when bot is @mentioned but unauthorized",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T07:28:56Z",
-      "mergedAt": null,
-      "additions": 43,
-      "deletions": 26,
-      "changedFiles": 1
-    },
-    {
-      "number": 34095,
-      "title": "feat: add /groupid command to show Telegram group chat ID",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T07:07:33Z",
-      "mergedAt": null,
-      "additions": 48,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -162,14 +182,17 @@
       "createdAt": "2026-03-11T04:39:01Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 4,
       "issues": 0,
@@ -179,11 +202,19 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

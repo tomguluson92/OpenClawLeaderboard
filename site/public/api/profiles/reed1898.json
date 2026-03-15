@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/129141816?u=1c2b637b5f2c81f2d3adfc56bbfacbd904aae07e&v=4",
   "githubUrl": "https://github.com/reed1898",
   "score": {
-    "score": 124.94,
-    "prScore": 117.44,
+    "score": 158.01,
+    "prScore": 150.51,
     "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 2.5
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 9,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 507,
-    "prDeletions": 14,
-    "prChangedFiles": 29,
+    "prAdditions": 635,
+    "prDeletions": 43,
+    "prChangedFiles": 34,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 9,
       "issues": 1,
       "reviews": 0,
       "comments": 5,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 9,
+      "prs": 12,
       "issues": 1,
       "reviews": 0,
       "comments": 5,
@@ -51,9 +49,53 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T16:59:35Z",
-  "lastContribution": "2026-03-10T19:14:10Z",
+  "firstContribution": "2026-03-04T19:20:23Z",
+  "lastContribution": "2026-03-14T01:10:11Z",
   "recentPRs": [
+    {
+      "number": 45586,
+      "title": "fix(tui): block chat input during active generation to prevent message swallowing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T01:10:11Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 11,
+      "changedFiles": 3
+    },
+    {
+      "number": 45549,
+      "title": "fix(gateway-status): downgrade SecretRef warning when gateway probe succeeds",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T00:15:17Z",
+      "mergedAt": null,
+      "additions": 83,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 44506,
+      "title": "fix(doctor): remove dead notify:true when cron.webhook is unset",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T01:22:20Z",
+      "mergedAt": null,
+      "additions": 129,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 44504,
+      "title": "fix(tts): use OGG/Opus for edge-tts on Telegram to render native voice memos",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T01:18:49Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 2,
+      "changedFiles": 2
+    },
     {
       "number": 42462,
       "title": "feat(cli): add top-level restart/start/stop aliases",
@@ -127,9 +169,9 @@
       "merged": false,
       "createdAt": "2026-03-04T19:26:04Z",
       "mergedAt": null,
-      "additions": 16,
+      "additions": 15,
       "deletions": 1,
-      "changedFiles": 9
+      "changedFiles": 8
     },
     {
       "number": 34909,
@@ -141,17 +183,6 @@
       "additions": 47,
       "deletions": 4,
       "changedFiles": 7
-    },
-    {
-      "number": 33289,
-      "title": "feat(discord): inject proxy dispatcher into carbon RequestClient",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T16:59:35Z",
-      "mergedAt": null,
-      "additions": 203,
-      "deletions": 0,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [
@@ -164,14 +195,17 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
@@ -196,11 +230,19 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

@@ -3,33 +3,31 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/41638541?u=4163ee1dbbe6656e575e64bec74b313433a6e630&v=4",
   "githubUrl": "https://github.com/uf-hy",
   "score": {
-    "score": 17.75,
-    "prScore": 12.75,
-    "issueScore": 5,
+    "score": 66.93,
+    "prScore": 58.93,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 120,
-    "prDeletions": 0,
-    "prChangedFiles": 4,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 610,
+    "prDeletions": 219,
+    "prChangedFiles": 11,
+    "prMergeRate": 100,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "commitAdditions": 610,
+    "commitDeletions": 219,
+    "commitChangedFiles": 11
   },
   "period": {
     "weekly": {
@@ -37,18 +35,18 @@
       "issues": 1,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 610,
+      "commitDeletions": 219,
+      "commits": 1
     },
     "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 610,
+      "commitDeletions": 219,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-11T01:28:31Z",
@@ -57,36 +55,38 @@
     {
       "number": 42629,
       "title": "fix: persist context-engine auto-compaction counts",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T01:29:25Z",
-      "mergedAt": null,
-      "additions": 120,
-      "deletions": 0,
-      "changedFiles": 4
+      "mergedAt": "2026-03-14T23:22:11Z",
+      "additions": 610,
+      "deletions": 219,
+      "changedFiles": 11
     }
   ],
   "recentIssues": [
     {
       "number": 42628,
       "title": "Bug: context-engine auto-compaction does not persist session compactionCount",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-11T01:28:31Z",
-      "closedAt": null
+      "closedAt": "2026-03-14T23:22:12Z"
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-14": 1
   }
 }

@@ -15,7 +15,7 @@
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1564103,
+    "prAdditions": 1564109,
     "prDeletions": 545,
     "prChangedFiles": 3082,
     "prMergeRate": 0,
@@ -27,16 +27,14 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
-      "reviews": 3,
-      "comments": 2,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -61,7 +59,7 @@
       "merged": false,
       "createdAt": "2026-03-06T07:55:39Z",
       "mergedAt": null,
-      "additions": 3466,
+      "additions": 3472,
       "deletions": 18,
       "changedFiles": 41
     },
@@ -95,6 +93,13 @@
       "createdAt": "2026-03-06T10:26:26Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -113,12 +118,5 @@
       "description": "50K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 3
-    }
-  }
+  "recentCommitDays": {}
 }

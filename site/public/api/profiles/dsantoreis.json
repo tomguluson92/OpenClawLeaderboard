@@ -3,57 +3,198 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/220753637?v=4",
   "githubUrl": "https://github.com/dsantoreis",
   "score": {
-    "score": 938,
-    "prScore": 625,
+    "score": 1153.64,
+    "prScore": 706.64,
     "issueScore": 5,
-    "reviewScore": 267,
-    "commentScore": 41
+    "reviewScore": 342,
+    "commentScore": 100
   },
-  "tier": "veteran",
-  "characterClass": "Reviewer",
+  "tier": "elite",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 3,
-    "prs": 66,
+    "prs": 78,
     "prsMerged": 3,
-    "prAdditions": 7595,
-    "prDeletions": 2315,
-    "prChangedFiles": 255,
-    "prMergeRate": 5,
+    "prAdditions": 7760,
+    "prDeletions": 608,
+    "prChangedFiles": 280,
+    "prMergeRate": 4,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 89,
+    "reviews": 114,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 82,
+    "comments": 577,
     "commitAdditions": 661,
     "commitDeletions": 9,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 17
   },
   "period": {
     "weekly": {
-      "prs": 63,
+      "prs": 40,
       "issues": 1,
-      "reviews": 80,
-      "comments": 71,
+      "reviews": 72,
+      "comments": 552,
       "commitAdditions": 518,
       "commitDeletions": 2,
       "commits": 3
     },
     "monthly": {
-      "prs": 66,
+      "prs": 78,
       "issues": 1,
-      "reviews": 89,
-      "comments": 82,
+      "reviews": 114,
+      "comments": 577,
       "commitAdditions": 661,
       "commitDeletions": 9,
       "commits": 4
     }
   },
-  "firstContribution": "2026-03-03T13:43:30Z",
-  "lastContribution": "2026-03-11T07:50:36Z",
+  "firstContribution": "2026-03-04T18:54:29Z",
+  "lastContribution": "2026-03-15T04:54:18Z",
   "recentPRs": [
+    {
+      "number": 44887,
+      "title": "fix(memory): honor env proxy settings for embedding provider requests",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T08:53:06Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 10,
+      "changedFiles": 4
+    },
+    {
+      "number": 44883,
+      "title": "fix(telegram): allow catch-all mention patterns to match media-only group messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T08:48:49Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 44744,
+      "title": "fix(config): extract Anthropic model aliases to break bundle TDZ",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T06:26:28Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 44719,
+      "title": "fix(skills): downgrade escaped skill path log from warn to debug",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T06:10:19Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 44704,
+      "title": "fix(cli): add windowsHide to restart script spawn to suppress console windows",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T05:52:58Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 44698,
+      "title": "fix(cron): report \"not-requested\" when delivery.mode is \"none\"",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T05:44:01Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 44692,
+      "title": "fix(slack): fall back to auth.test for scope discovery when legacy methods fail",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T05:39:11Z",
+      "mergedAt": null,
+      "additions": 109,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44667,
+      "title": "fix(ollama): respect user-configured num_ctx from openclaw.json",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T04:43:22Z",
+      "mergedAt": null,
+      "additions": 140,
+      "deletions": 2,
+      "changedFiles": 5
+    },
+    {
+      "number": 44631,
+      "title": "fix(ollama): respect user-configured num_ctx from openclaw.json",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T03:50:26Z",
+      "mergedAt": null,
+      "additions": 147,
+      "deletions": 15,
+      "changedFiles": 6
+    },
+    {
+      "number": 44608,
+      "title": "fix(docker): allow whitespace in config and workspace paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T03:31:09Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 13,
+      "changedFiles": 1
+    },
+    {
+      "number": 44102,
+      "title": "fix(cron): make normalizePayloadKind idempotent so doctor does not re-flag fixed jobs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T14:06:46Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 44095,
+      "title": "fix(cron): make doctor cron normalization idempotent",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T14:01:02Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 44092,
+      "title": "fix(sandbox): preserve file permissions on atomic write",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T13:56:49Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 0,
+      "changedFiles": 2
+    },
     {
       "number": 42047,
       "title": "fix(memory): add depth limit to chokidar watchers to prevent FD exhaustion",
@@ -130,149 +271,6 @@
       "additions": 5,
       "deletions": 1,
       "changedFiles": 4
-    },
-    {
-      "number": 41669,
-      "title": "fix(imessage): strip [[reply_to:*]] directive tags from outbound text",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-10T03:06:49Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 41393,
-      "title": "fix(models): override template contextWindow for gpt-5.4 synthetic catalog entries",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T19:50:14Z",
-      "mergedAt": null,
-      "additions": 29,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 41189,
-      "title": "fix(agents): deduplicate tool_call_ids within a single message",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T15:33:26Z",
-      "mergedAt": null,
-      "additions": 204,
-      "deletions": 590,
-      "changedFiles": 6
-    },
-    {
-      "number": 40914,
-      "title": "fix(agents): deduplicate tool_call_ids within a single message",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T11:23:58Z",
-      "mergedAt": null,
-      "additions": 166,
-      "deletions": 58,
-      "changedFiles": 3
-    },
-    {
-      "number": 40891,
-      "title": "fix(config): skip empty sensitive values in raw redaction to prevent RangeError",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T10:55:04Z",
-      "mergedAt": null,
-      "additions": 52,
-      "deletions": 15,
-      "changedFiles": 3
-    },
-    {
-      "number": 40757,
-      "title": "fix(sandbox): pass real workspace to sessions_spawn when workspaceAccess is ro",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T08:00:58Z",
-      "mergedAt": "2026-03-10T07:12:50Z",
-      "additions": 399,
-      "deletions": 1,
-      "changedFiles": 5
-    },
-    {
-      "number": 40756,
-      "title": "fix(heartbeat): do not append workspace path hint to user-configured prompts",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T07:59:41Z",
-      "mergedAt": null,
-      "additions": 65,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 40635,
-      "title": "fix(auth): prefer explicit openclaw.json apiKey over stale auth-profile credentials",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T05:27:55Z",
-      "mergedAt": null,
-      "additions": 346,
-      "deletions": 20,
-      "changedFiles": 13
-    },
-    {
-      "number": 40615,
-      "title": "fix(update): surface EBUSY hint when gateway locks install dir on Windows",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T05:06:17Z",
-      "mergedAt": null,
-      "additions": 273,
-      "deletions": 14,
-      "changedFiles": 11
-    },
-    {
-      "number": 40601,
-      "title": "fix(sandbox): pass real workspace to sessions_spawn when workspaceAccess is ro",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T04:49:17Z",
-      "mergedAt": null,
-      "additions": 256,
-      "deletions": 14,
-      "changedFiles": 9
-    },
-    {
-      "number": 40587,
-      "title": "test(daemon): add regression tests for USERPROFILE-only state dir on Windows",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T04:30:47Z",
-      "mergedAt": null,
-      "additions": 24,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 40528,
-      "title": "chore(protocol): regenerate Swift models for ACP provenance receipt fields",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T03:32:29Z",
-      "mergedAt": null,
-      "additions": 0,
-      "deletions": 0,
-      "changedFiles": 0
-    },
-    {
-      "number": 40460,
-      "title": "test(context-engine): add bundle chunk isolation tests for registry",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T02:15:32Z",
-      "mergedAt": "2026-03-09T15:15:36Z",
-      "additions": 115,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -286,106 +284,153 @@
   ],
   "recentReviews": [
     {
-      "prNumber": 40355,
+      "prNumber": 45858,
       "state": "COMMENTED",
-      "createdAt": "2026-03-11T07:50:36Z"
+      "createdAt": "2026-03-14T08:57:15Z"
     },
     {
-      "prNumber": 42047,
+      "prNumber": 45858,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T10:45:17Z"
+      "createdAt": "2026-03-14T08:57:11Z"
     },
     {
-      "prNumber": 42047,
+      "prNumber": 45871,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T10:45:15Z"
+      "createdAt": "2026-03-14T08:24:22Z"
     },
     {
-      "prNumber": 41701,
+      "prNumber": 45872,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T09:31:36Z"
+      "createdAt": "2026-03-14T08:24:21Z"
     },
     {
-      "prNumber": 41701,
+      "prNumber": 45876,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:53:21Z"
+      "createdAt": "2026-03-14T08:24:20Z"
     },
     {
-      "prNumber": 41717,
+      "prNumber": 45877,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:13:26Z"
+      "createdAt": "2026-03-14T08:24:19Z"
     },
     {
-      "prNumber": 41717,
+      "prNumber": 45879,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:13:25Z"
+      "createdAt": "2026-03-14T08:24:18Z"
     },
     {
-      "prNumber": 41759,
+      "prNumber": 45861,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T05:53:50Z"
+      "createdAt": "2026-03-14T08:02:25Z"
     },
     {
-      "prNumber": 41759,
+      "prNumber": 45863,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T05:53:49Z"
+      "createdAt": "2026-03-14T08:02:14Z"
     },
     {
-      "prNumber": 41697,
+      "prNumber": 45864,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T03:51:19Z"
+      "createdAt": "2026-03-14T08:02:13Z"
     },
     {
-      "prNumber": 41697,
+      "prNumber": 45862,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T03:51:18Z"
+      "createdAt": "2026-03-14T08:02:12Z"
     },
     {
-      "prNumber": 41680,
+      "prNumber": 45763,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T03:36:27Z"
+      "createdAt": "2026-03-14T05:49:44Z"
     },
     {
-      "prNumber": 41189,
+      "prNumber": 45763,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T00:13:29Z"
+      "createdAt": "2026-03-14T05:49:43Z"
     },
     {
-      "prNumber": 41189,
+      "prNumber": 45763,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T00:13:28Z"
+      "createdAt": "2026-03-14T05:49:42Z"
     },
     {
-      "prNumber": 41189,
+      "prNumber": 45763,
       "state": "COMMENTED",
-      "createdAt": "2026-03-09T15:47:59Z"
+      "createdAt": "2026-03-14T05:49:35Z"
     },
     {
-      "prNumber": 41189,
+      "prNumber": 45315,
       "state": "COMMENTED",
-      "createdAt": "2026-03-09T15:47:57Z"
+      "createdAt": "2026-03-13T19:55:17Z"
     },
     {
-      "prNumber": 40446,
+      "prNumber": 45315,
       "state": "COMMENTED",
-      "createdAt": "2026-03-09T12:28:18Z"
+      "createdAt": "2026-03-13T19:55:12Z"
     },
     {
-      "prNumber": 40446,
+      "prNumber": 45315,
       "state": "COMMENTED",
-      "createdAt": "2026-03-09T12:28:03Z"
+      "createdAt": "2026-03-13T19:51:55Z"
     },
     {
-      "prNumber": 40446,
+      "prNumber": 44887,
       "state": "COMMENTED",
-      "createdAt": "2026-03-09T12:28:02Z"
+      "createdAt": "2026-03-13T17:57:18Z"
     },
     {
-      "prNumber": 40446,
+      "prNumber": 45315,
       "state": "COMMENTED",
-      "createdAt": "2026-03-09T12:28:01Z"
+      "createdAt": "2026-03-13T17:43:20Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-12": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-10": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 13
+    },
+    "2026-03-09": {
+      "prs": 16,
+      "issues": 1,
+      "reviews": 33
+    },
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 36,
+      "issues": 0,
+      "reviews": 36
+    },
+    "2026-03-04": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 15
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -416,6 +461,11 @@
       "description": "50+ reviews"
     },
     {
+      "id": "review-legend",
+      "label": "Review Legend",
+      "description": "100+ reviews"
+    },
+    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
@@ -430,22 +480,5 @@
     "2026-03-10": 1,
     "2026-03-09": 2,
     "2026-02-27": 1
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 8,
-      "issues": 0,
-      "reviews": 13
-    },
-    "2026-03-09": {
-      "prs": 12,
-      "issues": 1,
-      "reviews": 6
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
-    }
   }
 }

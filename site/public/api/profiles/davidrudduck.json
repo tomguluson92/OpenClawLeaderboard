@@ -3,48 +3,46 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/47308254?v=4",
   "githubUrl": "https://github.com/davidrudduck",
   "score": {
-    "score": 238,
-    "prScore": 187,
+    "score": 277.58,
+    "prScore": 202.58,
     "issueScore": 0,
-    "reviewScore": 51,
+    "reviewScore": 75,
     "commentScore": 0
   },
   "tier": "active",
-  "characterClass": "Maintainer",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 9,
-    "prs": 4,
+    "prs": 6,
     "prsMerged": 1,
-    "prAdditions": 898,
-    "prDeletions": 57,
-    "prChangedFiles": 26,
-    "prMergeRate": 25,
+    "prAdditions": 1073,
+    "prDeletions": 64,
+    "prChangedFiles": 34,
+    "prMergeRate": 17,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 17,
+    "reviews": 25,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 605,
     "commitDeletions": 75,
-    "weeklyCommits": 1,
-    "monthlyCommits": 8,
     "commitChangedFiles": 41
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 6,
       "issues": 0,
-      "reviews": 17,
+      "reviews": 25,
       "comments": 0,
       "commitAdditions": 429,
       "commitDeletions": 50,
       "commits": 1
     },
     "monthly": {
-      "prs": 4,
+      "prs": 6,
       "issues": 0,
-      "reviews": 17,
+      "reviews": 25,
       "comments": 0,
       "commitAdditions": 605,
       "commitDeletions": 75,
@@ -52,8 +50,30 @@
     }
   },
   "firstContribution": "2026-03-09T18:48:22Z",
-  "lastContribution": "2026-03-11T17:29:08Z",
+  "lastContribution": "2026-03-13T11:13:40Z",
   "recentPRs": [
+    {
+      "number": 45025,
+      "title": "fix: migrate legacy :dm: session store keys to :direct:",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T11:06:18Z",
+      "mergedAt": null,
+      "additions": 153,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 44686,
+      "title": "fix: align bundled provider extension names with folder convention",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T05:30:34Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 3,
+      "changedFiles": 3
+    },
     {
       "number": 43370,
       "title": "fix(agents): deduplicate tool_use IDs when merging consecutive assistant messages",
@@ -72,7 +92,7 @@
       "merged": false,
       "createdAt": "2026-03-10T04:12:43Z",
       "mergedAt": null,
-      "additions": 130,
+      "additions": 149,
       "deletions": 2,
       "changedFiles": 12
     },
@@ -101,6 +121,46 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 45025,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T11:13:40Z"
+    },
+    {
+      "prNumber": 45025,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T11:13:38Z"
+    },
+    {
+      "prNumber": 45025,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T11:13:35Z"
+    },
+    {
+      "prNumber": 41724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T10:38:14Z"
+    },
+    {
+      "prNumber": 41724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T10:38:12Z"
+    },
+    {
+      "prNumber": 44686,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T05:58:42Z"
+    },
+    {
+      "prNumber": 44686,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T05:47:14Z"
+    },
+    {
+      "prNumber": 44686,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T05:41:08Z"
+    },
     {
       "prNumber": 43370,
       "state": "COMMENTED",
@@ -160,33 +220,30 @@
       "prNumber": 41723,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T04:31:18Z"
-    },
-    {
-      "prNumber": 41723,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T04:31:17Z"
-    },
-    {
-      "prNumber": 41361,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T22:31:17Z"
-    },
-    {
-      "prNumber": 41361,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T22:31:10Z"
-    },
-    {
-      "prNumber": 41361,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T19:02:13Z"
-    },
-    {
-      "prNumber": 41361,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T19:02:11Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 12
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -205,22 +262,5 @@
     "2026-02-25": 1,
     "2026-02-19": 4,
     "2026-02-13": 3
-  },
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-10": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 12
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 4
-    }
   }
 }

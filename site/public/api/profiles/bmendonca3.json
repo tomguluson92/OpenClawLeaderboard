@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/208517100?v=4",
   "githubUrl": "https://github.com/bmendonca3",
   "score": {
-    "score": 4139.53,
-    "prScore": 3850.03,
+    "score": 3462.3,
+    "prScore": 3235.8,
     "issueScore": 184,
-    "reviewScore": 24,
-    "commentScore": 81.5
+    "reviewScore": 0,
+    "commentScore": 42.5
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
     "commits": 69,
-    "prs": 475,
-    "prsMerged": 13,
-    "prAdditions": 11427,
-    "prDeletions": 684,
-    "prChangedFiles": 700,
-    "prMergeRate": 3,
+    "prs": 395,
+    "prsMerged": 0,
+    "prAdditions": 4136,
+    "prDeletions": 251,
+    "prChangedFiles": 473,
+    "prMergeRate": 0,
     "issues": 29,
     "issuesClosed": 13,
-    "reviews": 8,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 163,
+    "comments": 85,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 374,
-      "issues": 3,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 40,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 475,
+      "prs": 395,
       "issues": 29,
-      "reviews": 8,
-      "comments": 163,
+      "reviews": 0,
+      "comments": 85,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T15:50:36Z",
+  "firstContribution": "2026-03-03T20:08:26Z",
   "lastContribution": "2026-03-06T17:08:28Z",
   "recentPRs": [
     {
@@ -67,7 +65,7 @@
     },
     {
       "number": 38197,
-      "title": "[Issue #38090] [Bug] OpenClaw UI WebSocket reconnect \u5bfc\u81f4\u4f1a\u8bdd terminated",
+      "title": "[Issue #38090] [Bug] OpenClaw UI WebSocket reconnect 导致会话 terminated",
       "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T17:08:27Z",
@@ -78,7 +76,7 @@
     },
     {
       "number": 38196,
-      "title": "[Issue #38091] [Bug] OpenClaw UI WebSocket reconnect \u5bfc\u81f4\u4f1a\u8bdd terminated",
+      "title": "[Issue #38091] [Bug] OpenClaw UI WebSocket reconnect 导致会话 terminated",
       "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T17:08:26Z",
@@ -243,7 +241,7 @@
     },
     {
       "number": 38113,
-      "title": "[Issue #38038] [Feature Request] Agent Pack \u2014 shareable workspace templates for OpenClaw",
+      "title": "[Issue #38038] [Feature Request] Agent Pack — shareable workspace templates for OpenClaw",
       "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T16:08:22Z",
@@ -417,55 +415,34 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [
-    {
-      "prNumber": 31862,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T22:20:55Z"
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 299,
+      "issues": 0,
+      "reviews": 0
     },
-    {
-      "prNumber": 31862,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T22:20:53Z"
+    "2026-03-05": {
+      "prs": 78,
+      "issues": 3,
+      "reviews": 0
     },
-    {
-      "prNumber": 32172,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T22:19:43Z"
+    "2026-03-04": {
+      "prs": 18,
+      "issues": 7,
+      "reviews": 0
     },
-    {
-      "prNumber": 32174,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T22:18:19Z"
-    },
-    {
-      "prNumber": 32174,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T22:18:13Z"
-    },
-    {
-      "prNumber": 32178,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T22:16:52Z"
-    },
-    {
-      "prNumber": 32186,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T22:15:35Z"
-    },
-    {
-      "prNumber": 32210,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T22:08:57Z"
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 19,
+      "reviews": 0
     }
-  ],
+  },
   "skills": [
     "Pull Requests",
-    "Code Review",
     "Issue Reporting",
     "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
+    "Direct Commits"
   ],
   "achievements": [
     {
@@ -484,11 +461,6 @@
       "description": "100+ pull requests"
     },
     {
-      "id": "merger",
-      "label": "Merger",
-      "description": "5+ merged PRs"
-    },
-    {
       "id": "bug-reporter",
       "label": "Bug Reporter",
       "description": "5+ issues filed"
@@ -502,44 +474,7 @@
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
-    },
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 20,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 0,
-      "issues": 3,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 7,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 10,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 8
-    }
-  }
+  "recentCommitDays": {}
 }

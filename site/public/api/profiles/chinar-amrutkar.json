@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/22189135?u=625f056fb0d9324e0a71637a00393a71e0c91c65&v=4",
   "githubUrl": "https://github.com/chinar-amrutkar",
   "score": {
-    "score": 52.94,
-    "prScore": 42.44,
+    "score": 109.14,
+    "prScore": 98.64,
     "issueScore": 10,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,11 +13,11 @@
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 405,
-    "prDeletions": 4,
-    "prChangedFiles": 8,
+    "prAdditions": 496,
+    "prDeletions": 928,
+    "prChangedFiles": 26,
     "prMergeRate": 0,
     "issues": 2,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 5,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 6,
       "issues": 2,
       "reviews": 0,
       "comments": 1,
@@ -52,8 +50,30 @@
     }
   },
   "firstContribution": "2026-03-03T22:36:15Z",
-  "lastContribution": "2026-03-10T11:26:41Z",
+  "lastContribution": "2026-03-14T00:03:46Z",
   "recentPRs": [
+    {
+      "number": 45545,
+      "title": "feat(memory): add heading-aware chunking option for improved search",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T00:03:46Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 45543,
+      "title": "docs: add iMessage relay option for cloud/Linux deployments",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T00:00:02Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 922,
+      "changedFiles": 15
+    },
     {
       "number": 42082,
       "title": "feat(heartbeat): add task batching support via HEARTBEAT.md",
@@ -116,14 +136,12 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 2,
       "issues": 0,
@@ -144,5 +162,12 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

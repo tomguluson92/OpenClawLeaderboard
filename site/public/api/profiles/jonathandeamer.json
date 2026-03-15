@@ -1,0 +1,90 @@
+{
+  "username": "jonathandeamer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/202770?u=519ca26205fdf97dfa038a99fe78f5e0d8e2db94&v=4",
+  "githubUrl": "https://github.com/jonathandeamer",
+  "score": {
+    "score": 14.39,
+    "prScore": 9.39,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 52,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T20:44:25Z",
+  "lastContribution": "2026-03-13T20:45:41Z",
+  "recentPRs": [
+    {
+      "number": 45448,
+      "title": "fix(cli): exit cleanly on hooks update --all when no npm-installed hooks exist",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T20:45:41Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45447,
+      "title": "[Bug]: hooks update --all prints misleading \"Provide a hook id or use --all\" when no hooks are installed",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T20:44:25Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

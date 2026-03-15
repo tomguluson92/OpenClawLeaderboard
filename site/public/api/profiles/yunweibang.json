@@ -3,61 +3,70 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5226861?v=4",
   "githubUrl": "https://github.com/yunweibang",
   "score": {
-    "score": 13.1,
-    "prScore": 8.1,
-    "issueScore": 5,
+    "score": 50.6,
+    "prScore": 41.6,
+    "issueScore": 8,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 1
   },
-  "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "tier": "regular",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 38,
-    "prDeletions": 0,
-    "prChangedFiles": 1,
-    "prMergeRate": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 248,
+    "prDeletions": 45,
+    "prChangedFiles": 7,
+    "prMergeRate": 50,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "comments": 2,
+    "commitAdditions": 210,
+    "commitDeletions": 45,
+    "commitChangedFiles": 6
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2,
+      "commitAdditions": 210,
+      "commitDeletions": 45,
+      "commits": 1
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2,
+      "commitAdditions": 210,
+      "commitDeletions": 45,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-11T02:18:10Z",
-  "lastContribution": "2026-03-11T02:28:12Z",
+  "lastContribution": "2026-03-12T07:20:39Z",
   "recentPRs": [
+    {
+      "number": 43762,
+      "title": "fix(feishu): add early event-level dedup to prevent duplicate replies",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T06:38:58Z",
+      "mergedAt": "2026-03-14T03:37:40Z",
+      "additions": 210,
+      "deletions": 45,
+      "changedFiles": 6
+    },
     {
       "number": 42687,
       "title": "[Bug Report] Feishu: duplicate replies after skipping duplicate message",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T02:28:12Z",
       "mergedAt": null,
@@ -70,23 +79,31 @@
     {
       "number": 42681,
       "title": "[Bug]: Duplicate message replies: deliver() called multiple times after duplicate detection",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-11T02:18:10Z",
-      "closedAt": null
+      "closedAt": "2026-03-14T03:48:22Z"
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-14": 1
   }
 }

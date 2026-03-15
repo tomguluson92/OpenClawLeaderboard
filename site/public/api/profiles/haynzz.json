@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1236319?v=4",
   "githubUrl": "https://github.com/haynzz",
   "score": {
-    "score": 80.67,
+    "score": 69.67,
     "prScore": 40.17,
-    "issueScore": 39,
+    "issueScore": 28,
     "reviewScore": 0,
     "commentScore": 1.5
   },
@@ -19,31 +19,29 @@
     "prDeletions": 4,
     "prChangedFiles": 9,
     "prMergeRate": 33,
-    "issues": 6,
-    "issuesClosed": 3,
+    "issues": 5,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 3,
     "commitAdditions": 1,
     "commitDeletions": 1,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 1
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 3,
+      "prs": 2,
+      "issues": 1,
       "reviews": 0,
-      "comments": 3,
+      "comments": 1,
       "commitAdditions": 1,
       "commitDeletions": 1,
       "commits": 1
     },
     "monthly": {
       "prs": 3,
-      "issues": 6,
+      "issues": 5,
       "reviews": 0,
       "comments": 3,
       "commitAdditions": 1,
@@ -51,8 +49,8 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-02T10:05:37Z",
-  "lastContribution": "2026-03-08T19:43:38Z",
+  "firstContribution": "2026-03-04T11:06:52Z",
+  "lastContribution": "2026-03-12T09:08:08Z",
   "recentPRs": [
     {
       "number": 40209,
@@ -90,6 +88,13 @@
   ],
   "recentIssues": [
     {
+      "number": 43879,
+      "title": "[Bug]: Auth profile cooldown is per-profile, not per-model — rate limit on one model blocks fallback to models with available capacity",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T09:08:08Z",
+      "closedAt": null
+    },
+    {
       "number": 38335,
       "title": "Auth profile failover: no retry/backoff for recovered profiles",
       "state": "OPEN",
@@ -105,7 +110,7 @@
     },
     {
       "number": 36039,
-      "title": "skill-creator: description too narrow \u2014 fails to trigger on edit/refactor tasks",
+      "title": "skill-creator: description too narrow — fails to trigger on edit/refactor tasks",
       "state": "CLOSED",
       "createdAt": "2026-03-05T11:46:45Z",
       "closedAt": "2026-03-08T09:13:01Z"
@@ -116,38 +121,9 @@
       "state": "OPEN",
       "createdAt": "2026-03-04T11:06:52Z",
       "closedAt": null
-    },
-    {
-      "number": 31892,
-      "title": "[Slack] Native streaming (chatStream) bypasses markdownToSlackMrkdwn conversion",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T16:29:06Z",
-      "closedAt": "2026-03-02T20:34:43Z"
-    },
-    {
-      "number": 31564,
-      "title": "Expose requestHeartbeatNow in plugin runtime API",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T10:05:37Z",
-      "closedAt": "2026-03-03T01:22:12Z"
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-08": 1
-  },
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 2,
@@ -157,6 +133,11 @@
     "2026-03-07": {
       "prs": 1,
       "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     },
     "2026-03-06": {
@@ -173,11 +154,21 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-08": 1
   }
 }

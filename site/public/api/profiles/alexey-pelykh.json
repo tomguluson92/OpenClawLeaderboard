@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/345102?u=092a746e266dcd6bc01de5ba5aba21c886225d8e&v=4",
   "githubUrl": "https://github.com/alexey-pelykh",
   "score": {
-    "score": 36.94,
-    "prScore": 24.94,
+    "score": 27.89,
+    "prScore": 16.39,
     "issueScore": 5,
     "reviewScore": 6,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 77,
-    "prDeletions": 2,
-    "prChangedFiles": 3,
+    "prAdditions": 52,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,22 +34,22 @@
       "prs": 2,
       "issues": 1,
       "reviews": 2,
-      "comments": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 1,
       "reviews": 2,
-      "comments": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T14:17:54Z",
+  "firstContribution": "2026-03-08T12:17:29Z",
   "lastContribution": "2026-03-10T18:04:55Z",
   "recentPRs": [
     {
@@ -74,17 +72,6 @@
       "mergedAt": null,
       "additions": 21,
       "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 31765,
-      "title": "fix: reject delivery to unconfigured plugin channels in agent handler",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-02T14:17:54Z",
-      "mergedAt": null,
-      "additions": 25,
-      "deletions": 1,
       "changedFiles": 1
     }
   ],
@@ -109,6 +96,18 @@
       "createdAt": "2026-03-08T12:59:58Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-10": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -122,22 +121,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

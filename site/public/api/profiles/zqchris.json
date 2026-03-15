@@ -3,67 +3,142 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4436110?v=4",
   "githubUrl": "https://github.com/zqchris",
   "score": {
-    "score": 102.5,
-    "prScore": 36,
-    "issueScore": 49,
-    "reviewScore": 15,
-    "commentScore": 2.5
+    "score": 199.87,
+    "prScore": 167.37,
+    "issueScore": 10,
+    "reviewScore": 21,
+    "commentScore": 1.5
   },
   "tier": "regular",
-  "characterClass": "Hunter",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 8,
     "prsMerged": 0,
-    "prAdditions": 363,
-    "prDeletions": 634,
-    "prChangedFiles": 14,
+    "prAdditions": 1422,
+    "prDeletions": 254,
+    "prChangedFiles": 60,
     "prMergeRate": 0,
-    "issues": 8,
-    "issuesClosed": 3,
-    "reviews": 5,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 3,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 3,
+      "prs": 8,
+      "issues": 0,
+      "reviews": 7,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 8,
-      "reviews": 5,
-      "comments": 5,
+      "prs": 8,
+      "issues": 2,
+      "reviews": 7,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-01T13:09:15Z",
-  "lastContribution": "2026-03-08T02:54:03Z",
+  "firstContribution": "2026-03-03T18:44:50Z",
+  "lastContribution": "2026-03-14T07:18:27Z",
   "recentPRs": [
     {
-      "number": 33787,
-      "title": "fix(bluebubbles): send TTS voice audio as iMessage voice bubbles",
+      "number": 45366,
+      "title": "fix(gateway): keep BB webhook routes alive across reloads and restarts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T18:25:02Z",
+      "mergedAt": null,
+      "additions": 210,
+      "deletions": 31,
+      "changedFiles": 7
+    },
+    {
+      "number": 45295,
+      "title": "fix(telegram): suppress media-fetch error reply in requireMention groups",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-04T02:25:43Z",
+      "createdAt": "2026-03-13T16:41:06Z",
       "mergedAt": null,
-      "additions": 363,
-      "deletions": 634,
-      "changedFiles": 14
+      "additions": 27,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 45266,
+      "title": "fix(gateway): read live plugin registry per-request instead of startup snapshot",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T16:07:42Z",
+      "mergedAt": null,
+      "additions": 120,
+      "deletions": 77,
+      "changedFiles": 3
+    },
+    {
+      "number": 45186,
+      "title": "fix(gateway): keep plugin webhook routes alive across registry churn",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T14:38:12Z",
+      "mergedAt": null,
+      "additions": 675,
+      "deletions": 99,
+      "changedFiles": 31
+    },
+    {
+      "number": 44265,
+      "title": "fix(bluebubbles): restore TTS voice-bubble delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T17:21:29Z",
+      "mergedAt": null,
+      "additions": 277,
+      "deletions": 32,
+      "changedFiles": 9
+    },
+    {
+      "number": 44264,
+      "title": "fix(bluebubbles): tolerate sender-less fromMe webhooks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T17:21:26Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44263,
+      "title": "cron: avoid legacy payload kind false positives",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T17:21:23Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 44262,
+      "title": "config(bluebubbles): accept allowPrivateNetwork in core schema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T17:20:56Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 5
     }
   ],
   "recentIssues": [
@@ -80,101 +155,55 @@
       "state": "OPEN",
       "createdAt": "2026-03-03T18:44:50Z",
       "closedAt": null
-    },
-    {
-      "number": 31846,
-      "title": "Ollama auto-discovery causes connection storm when target is unreachable (no backoff/caching)",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T15:36:38Z",
-      "closedAt": null
-    },
-    {
-      "number": 31823,
-      "title": "BlueBubbles: text and balloon webhook events use different debounce keys, causing duplicate replies",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T15:13:29Z",
-      "closedAt": null
-    },
-    {
-      "number": 31815,
-      "title": "Telegram: model buttons silently dropped when Bedrock callback_data exceeds 64 bytes",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T15:06:21Z",
-      "closedAt": "2026-03-02T20:38:44Z"
-    },
-    {
-      "number": 31814,
-      "title": "SSRF protection blocks localhost, breaking BlueBubbles and other local channel plugins",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T15:06:07Z",
-      "closedAt": "2026-03-02T16:07:17Z"
-    },
-    {
-      "number": 31813,
-      "title": "BlueBubbles: unsupported tapback emoji throws instead of graceful fallback",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T15:05:56Z",
-      "closedAt": null
-    },
-    {
-      "number": 31809,
-      "title": "v2026.3.1: Control UI SPA catch-all blocks plugin webhook POST requests (405)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T15:03:24Z",
-      "closedAt": "2026-03-02T16:28:35Z"
     }
   ],
   "recentReviews": [
     {
-      "prNumber": 33787,
+      "prNumber": 45295,
       "state": "COMMENTED",
-      "createdAt": "2026-03-04T04:06:41Z"
+      "createdAt": "2026-03-14T02:21:54Z"
     },
     {
-      "prNumber": 33787,
+      "prNumber": 45295,
       "state": "COMMENTED",
-      "createdAt": "2026-03-04T04:06:36Z"
+      "createdAt": "2026-03-14T02:21:47Z"
     },
     {
-      "prNumber": 33787,
+      "prNumber": 45266,
       "state": "COMMENTED",
-      "createdAt": "2026-03-04T03:56:26Z"
+      "createdAt": "2026-03-14T02:21:36Z"
     },
     {
-      "prNumber": 33787,
+      "prNumber": 45266,
       "state": "COMMENTED",
-      "createdAt": "2026-03-04T03:56:21Z"
+      "createdAt": "2026-03-14T02:21:27Z"
     },
     {
-      "prNumber": 33787,
+      "prNumber": 44265,
       "state": "COMMENTED",
-      "createdAt": "2026-03-04T03:56:14Z"
+      "createdAt": "2026-03-14T02:21:21Z"
+    },
+    {
+      "prNumber": 44265,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T02:21:16Z"
+    },
+    {
+      "prNumber": 44265,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T02:20:46Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
-    "2026-03-04": {
-      "prs": 1,
+    "2026-03-13": {
+      "prs": 4,
       "issues": 0,
-      "reviews": 5
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
     },
     "2026-03-05": {
       "prs": 0,
@@ -186,10 +215,24 @@
       "issues": 1,
       "reviews": 0
     },
-    "2026-03-02": {
+    "2026-03-14": {
       "prs": 0,
-      "issues": 6,
-      "reviews": 0
+      "issues": 0,
+      "reviews": 7
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

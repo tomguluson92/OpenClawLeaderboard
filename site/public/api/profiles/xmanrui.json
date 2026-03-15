@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4094054?u=f68ad970a1a41b5e23d415717fe8056c2be6f5a6&v=4",
   "githubUrl": "https://github.com/xmanrui",
   "score": {
-    "score": 74.27,
-    "prScore": 69.27,
+    "score": 150.22,
+    "prScore": 145.22,
     "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 749,
-    "prDeletions": 66,
-    "prChangedFiles": 24,
+    "prAdditions": 2320,
+    "prDeletions": 155,
+    "prChangedFiles": 59,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-04T20:06:14Z",
-  "lastContribution": "2026-03-08T21:29:23Z",
+  "lastContribution": "2026-03-14T16:35:29Z",
   "recentPRs": [
+    {
+      "number": 46356,
+      "title": "Channels: restore webchat bidirectional sync and add proxy support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T16:35:29Z",
+      "mergedAt": null,
+      "additions": 1571,
+      "deletions": 89,
+      "changedFiles": 35
+    },
     {
       "number": 40277,
       "title": "fix(ui): show model errors inline in web chat",
@@ -98,13 +107,12 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 2,
       "issues": 0,
@@ -115,5 +123,11 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

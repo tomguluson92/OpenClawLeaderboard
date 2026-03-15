@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3967142?u=0a82db11511f1ffae668b7f13dcdcbee441b511b&v=4",
   "githubUrl": "https://github.com/deggertsen",
   "score": {
-    "score": 19.25,
+    "score": 19.75,
     "prScore": 19.25,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Builder",
@@ -24,19 +24,17 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,19 +43,19 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-08T00:41:25Z",
-  "lastContribution": "2026-03-08T00:41:25Z",
+  "lastContribution": "2026-03-13T15:28:40Z",
   "recentPRs": [
     {
       "number": 39299,
       "title": "feat(web-search): add Tavily as native search provider",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T00:41:25Z",
       "mergedAt": null,
@@ -68,16 +66,17 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

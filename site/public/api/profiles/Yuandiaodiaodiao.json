@@ -3,56 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/33371662?u=e018617f7d07f827a4fd2f9615072f4840dfd1a8&v=4",
   "githubUrl": "https://github.com/Yuandiaodiaodiao",
   "score": {
-    "score": 180.41,
-    "prScore": 137.41,
+    "score": 10.91,
+    "prScore": 10.91,
     "issueScore": 0,
-    "reviewScore": 42,
-    "commentScore": 1
+    "reviewScore": 0,
+    "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Maintainer",
+  "tier": "beginner",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 12,
-    "prsMerged": 1,
-    "prAdditions": 539,
-    "prDeletions": 76,
-    "prChangedFiles": 22,
-    "prMergeRate": 8,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 14,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 22,
     "commitDeletions": 3,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 4
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 2,
-      "comments": 2,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 12,
+      "prs": 1,
       "issues": 0,
-      "reviews": 14,
-      "comments": 2,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 22,
       "commitDeletions": 3,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-03T16:26:09Z",
-  "lastContribution": "2026-03-09T07:15:38Z",
+  "firstContribution": "2026-03-04T08:56:23Z",
+  "lastContribution": "2026-03-04T08:56:23Z",
   "recentPRs": [
     {
       "number": 34202,
@@ -64,237 +62,22 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0
-    },
-    {
-      "number": 33634,
-      "title": "fix(daemon): handle systemctl is-enabled exit 4 (not-found) on Ubuntu",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-03T23:50:47Z",
-      "mergedAt": "2026-03-04T16:13:45Z",
-      "additions": 22,
-      "deletions": 3,
-      "changedFiles": 4
-    },
-    {
-      "number": 33629,
-      "title": "fix(routing): prevent duplicate delivery in dmScope=main sessions",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T23:40:04Z",
-      "mergedAt": null,
-      "additions": 51,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 33618,
-      "title": "fix(bonjour): keep mDNS service alive across in-process restarts",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T23:26:49Z",
-      "mergedAt": null,
-      "additions": 44,
-      "deletions": 16,
-      "changedFiles": 2
-    },
-    {
-      "number": 33550,
-      "title": "fix(macos): resolve Swift exclusivity crash in overlay present() calls",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T22:19:11Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 33339,
-      "title": "fix: reject binary file attachments by extension to prevent context overflow",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T17:45:40Z",
-      "mergedAt": null,
-      "additions": 226,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 33286,
-      "title": "fix(auto-reply): use userTimezone fallback for system event timestamps",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T16:57:10Z",
-      "mergedAt": null,
-      "additions": 64,
-      "deletions": 23,
-      "changedFiles": 2
-    },
-    {
-      "number": 33284,
-      "title": "fix: use target parent dir as root for download path validation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T16:57:07Z",
-      "mergedAt": null,
-      "additions": 27,
-      "deletions": 7,
-      "changedFiles": 2
-    },
-    {
-      "number": 33283,
-      "title": "fix(slug-generator): use full model resolution path for auth inheritance",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T16:56:30Z",
-      "mergedAt": null,
-      "additions": 10,
-      "deletions": 9,
-      "changedFiles": 1
-    },
-    {
-      "number": 33255,
-      "title": "refactor: replace explicit any types with proper types in production code",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T16:26:22Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 12,
-      "changedFiles": 4
-    },
-    {
-      "number": 33254,
-      "title": "fix(plugins): suppress duplicate warning for same package at different paths",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T16:26:15Z",
-      "mergedAt": null,
-      "additions": 83,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 33253,
-      "title": "fix(gateway): skip stale-socket detection for idle channels with no events",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T16:26:09Z",
-      "mergedAt": null,
-      "additions": 0,
-      "deletions": 0,
-      "changedFiles": 0
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 33253,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T07:15:38Z"
-    },
-    {
-      "prNumber": 33550,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T07:15:14Z"
-    },
-    {
-      "prNumber": 33253,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T19:10:42Z"
-    },
-    {
-      "prNumber": 33284,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T19:09:37Z"
-    },
-    {
-      "prNumber": 33284,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T11:18:24Z"
-    },
-    {
-      "prNumber": 33284,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T11:18:17Z"
-    },
-    {
-      "prNumber": 33339,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T11:18:12Z"
-    },
-    {
-      "prNumber": 33339,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T11:18:08Z"
-    },
-    {
-      "prNumber": 33339,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T11:18:04Z"
-    },
-    {
-      "prNumber": 33339,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T11:18:02Z"
-    },
-    {
-      "prNumber": 33339,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T11:17:58Z"
-    },
-    {
-      "prNumber": 33550,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T11:17:56Z"
-    },
-    {
-      "prNumber": 33618,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T11:17:52Z"
-    },
-    {
-      "prNumber": 33618,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T11:17:48Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-04": 1
-  },
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-04": {
       "prs": 1,
       "issues": 0,
-      "reviews": 12
-    },
-    "2026-03-03": {
-      "prs": 11,
-      "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-04": 1
   }
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/384037?v=4",
   "githubUrl": "https://github.com/rodrigouroz",
   "score": {
-    "score": 297.81,
-    "prScore": 264.31,
+    "score": 309.39,
+    "prScore": 275.89,
     "issueScore": 0,
     "reviewScore": 30,
     "commentScore": 3.5
@@ -12,7 +12,7 @@
   "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
-    "commits": 22,
+    "commits": 24,
     "prs": 2,
     "prsMerged": 1,
     "prAdditions": 863,
@@ -25,11 +25,9 @@
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 7,
-    "commitAdditions": 7062,
-    "commitDeletions": 1400,
-    "weeklyCommits": 1,
-    "monthlyCommits": 12,
-    "commitChangedFiles": 147
+    "commitAdditions": 8059,
+    "commitDeletions": 1448,
+    "commitChangedFiles": 169
   },
   "period": {
     "weekly": {
@@ -37,8 +35,8 @@
       "issues": 0,
       "reviews": 10,
       "comments": 7,
-      "commitAdditions": 1653,
-      "commitDeletions": 181,
+      "commitAdditions": 1594,
+      "commitDeletions": 163,
       "commits": 3
     },
     "monthly": {
@@ -46,8 +44,8 @@
       "issues": 0,
       "reviews": 10,
       "comments": 7,
-      "commitAdditions": 6159,
-      "commitDeletions": 1053,
+      "commitAdditions": 6569,
+      "commitDeletions": 1088,
       "commits": 18
     }
   },
@@ -130,6 +128,13 @@
       "createdAt": "2026-03-10T12:10:42Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 10
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -144,6 +149,7 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-12": 2,
     "2026-03-10": 1,
     "2026-03-07": 1,
     "2026-03-05": 1,
@@ -159,12 +165,5 @@
     "2026-01-24": 1,
     "2026-01-23": 1,
     "2026-01-18": 1
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 10
-    }
   }
 }

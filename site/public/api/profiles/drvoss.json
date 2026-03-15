@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3031622?u=2448b4afa647fc8b3e678da431801a71f845a86e&v=4",
   "githubUrl": "https://github.com/drvoss",
   "score": {
-    "score": 205.69,
-    "prScore": 205.19,
+    "score": 183.07,
+    "prScore": 182.57,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 12,
+    "prs": 9,
     "prsMerged": 0,
-    "prAdditions": 2835,
-    "prDeletions": 288,
-    "prChangedFiles": 72,
+    "prAdditions": 2572,
+    "prDeletions": 220,
+    "prChangedFiles": 52,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,22 +27,20 @@
     "comments": 1,
     "commitAdditions": 102,
     "commitDeletions": 1,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 9,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 12,
+      "prs": 9,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -51,7 +49,7 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-03T06:22:24Z",
+  "firstContribution": "2026-03-05T23:36:16Z",
   "lastContribution": "2026-03-09T00:22:08Z",
   "recentPRs": [
     {
@@ -152,57 +150,10 @@
       "additions": 53,
       "deletions": 2,
       "changedFiles": 4
-    },
-    {
-      "number": 32824,
-      "title": "fix(agents): prevent stale baseUrl in models.json from overwriting Moonshot CN endpoint",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T09:10:38Z",
-      "mergedAt": null,
-      "additions": 60,
-      "deletions": 14,
-      "changedFiles": 4
-    },
-    {
-      "number": 32775,
-      "title": "fix: gateway plugin ordering, feishu schema 2.0 card, discord acp autocomplete and misc fixes",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T08:29:30Z",
-      "mergedAt": null,
-      "additions": 112,
-      "deletions": 34,
-      "changedFiles": 12
-    },
-    {
-      "number": 32640,
-      "title": "fix(models): do not preserve stale baseUrl from models.json in merge mode",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T06:22:24Z",
-      "mergedAt": null,
-      "additions": 91,
-      "deletions": 20,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-03": 1
-  },
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
@@ -223,11 +174,14 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-03": 1
   }
 }

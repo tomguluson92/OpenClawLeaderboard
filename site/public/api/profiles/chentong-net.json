@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/204968080?u=5f0a82bb0496d9596eb60467a6d67c53dd09e0c7&v=4",
   "githubUrl": "https://github.com/chentong-net",
   "score": {
-    "score": 51.54,
-    "prScore": 51.54,
+    "score": 151.08,
+    "prScore": 151.08,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 9,
     "prsMerged": 0,
-    "prAdditions": 402,
-    "prDeletions": 15,
-    "prChangedFiles": 13,
+    "prAdditions": 898,
+    "prDeletions": 24,
+    "prChangedFiles": 43,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 9,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 9,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -52,8 +50,63 @@
     }
   },
   "firstContribution": "2026-03-08T13:21:07Z",
-  "lastContribution": "2026-03-08T16:25:08Z",
+  "lastContribution": "2026-03-12T16:36:39Z",
   "recentPRs": [
+    {
+      "number": 44237,
+      "title": "fix(agent): recover anthropic tool-call args from partialJson and concatenated deltas",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:36:39Z",
+      "mergedAt": null,
+      "additions": 205,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 44181,
+      "title": "feat(onboard): add one-click SCNet provider option",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T15:36:35Z",
+      "mergedAt": null,
+      "additions": 199,
+      "deletions": 1,
+      "changedFiles": 16
+    },
+    {
+      "number": 44131,
+      "title": "docs(install): clarify --bind mode vs resolved 0.0.0.0 listener output",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T14:36:36Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 44103,
+      "title": "fix(gateway): avoid token mismatch between openclaw-tui and control-ui",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T14:08:39Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 44017,
+      "title": "fix(exec): prevent self-termination during gateway restart flows",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T12:12:25Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 0,
+      "changedFiles": 4
+    },
     {
       "number": 40059,
       "title": "fix(exec): stop implicit auto-backgrounding for long-running commands",
@@ -101,16 +154,21 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 4,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -1,13 +1,13 @@
 {
   "username": "xaeon2026",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/264572156?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264572156?u=f19fe231ee45db81f6cf81370d8f972e7a6f99b9&v=4",
   "githubUrl": "https://github.com/xaeon2026",
   "score": {
-    "score": 256.74,
-    "prScore": 233.74,
+    "score": 261.42,
+    "prScore": 235.92,
     "issueScore": 18,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 7.5
   },
   "tier": "active",
   "characterClass": "Builder",
@@ -15,28 +15,26 @@
     "commits": 0,
     "prs": 16,
     "prsMerged": 1,
-    "prAdditions": 2411,
-    "prDeletions": 292,
-    "prChangedFiles": 51,
+    "prAdditions": 2767,
+    "prDeletions": 364,
+    "prChangedFiles": 68,
     "prMergeRate": 6,
     "issues": 3,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
+    "comments": 15,
     "commitAdditions": 33,
     "commitDeletions": 4,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 16,
-      "issues": 3,
+      "prs": 15,
+      "issues": 2,
       "reviews": 0,
-      "comments": 10,
+      "comments": 15,
       "commitAdditions": 33,
       "commitDeletions": 4,
       "commits": 1
@@ -45,14 +43,14 @@
       "prs": 16,
       "issues": 3,
       "reviews": 0,
-      "comments": 10,
+      "comments": 15,
       "commitAdditions": 33,
       "commitDeletions": 4,
       "commits": 1
     }
   },
   "firstContribution": "2026-03-07T21:42:33Z",
-  "lastContribution": "2026-03-11T06:30:07Z",
+  "lastContribution": "2026-03-13T22:03:19Z",
   "recentPRs": [
     {
       "number": 42892,
@@ -83,9 +81,9 @@
       "merged": false,
       "createdAt": "2026-03-09T23:06:35Z",
       "mergedAt": null,
-      "additions": 216,
-      "deletions": 196,
-      "changedFiles": 4
+      "additions": 321,
+      "deletions": 216,
+      "changedFiles": 13
     },
     {
       "number": 41078,
@@ -127,9 +125,9 @@
       "merged": false,
       "createdAt": "2026-03-09T13:31:01Z",
       "mergedAt": null,
-      "additions": 18,
-      "deletions": 17,
-      "changedFiles": 2
+      "additions": 301,
+      "deletions": 69,
+      "changedFiles": 11
     },
     {
       "number": 41055,
@@ -160,9 +158,9 @@
       "merged": false,
       "createdAt": "2026-03-09T12:50:33Z",
       "mergedAt": null,
-      "additions": 247,
+      "additions": 215,
       "deletions": 29,
-      "changedFiles": 7
+      "changedFiles": 6
     },
     {
       "number": 40995,
@@ -255,21 +253,6 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-09": 1
-  },
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
@@ -291,5 +274,20 @@
       "issues": 1,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-09": 1
   }
 }

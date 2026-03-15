@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/85281883?u=65b90ccd0151f43579151e9545faa0ae619f549d&v=4",
   "githubUrl": "https://github.com/ivansong1981",
   "score": {
-    "score": 12.32,
-    "prScore": 12.32,
+    "score": 63.08,
+    "prScore": 47.58,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 15,
+    "commentScore": 0.5
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 81,
-    "prDeletions": 2,
-    "prChangedFiles": 4,
+    "prAdditions": 495,
+    "prDeletions": 65,
+    "prChangedFiles": 14,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "reviews": 5,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "reviews": 5,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-12T04:46:58Z",
-  "lastContribution": "2026-03-12T04:46:58Z",
+  "lastContribution": "2026-03-14T03:06:58Z",
   "recentPRs": [
+    {
+      "number": 45667,
+      "title": "fix(ci): restore latest check coverage",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T02:48:26Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 41,
+      "changedFiles": 4
+    },
+    {
+      "number": 45627,
+      "title": "fix(macos): clear SwiftFormat blockers on latest main",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T02:05:04Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 22,
+      "changedFiles": 6
+    },
     {
       "number": 43679,
       "title": "guard: block malformed internal orchestration from leaking into outbound replies",
@@ -61,23 +81,56 @@
       "merged": false,
       "createdAt": "2026-03-12T04:46:58Z",
       "mergedAt": null,
-      "additions": 81,
+      "additions": 374,
       "deletions": 2,
       "changedFiles": 4
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests"
+  "recentReviews": [
+    {
+      "prNumber": 43679,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:06:58Z"
+    },
+    {
+      "prNumber": 43679,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T03:06:56Z"
+    },
+    {
+      "prNumber": 43679,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:41:34Z"
+    },
+    {
+      "prNumber": 43679,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:41:33Z"
+    },
+    {
+      "prNumber": 43679,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:41:29Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0
+      "reviews": 3
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

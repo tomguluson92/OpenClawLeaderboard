@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258660657?v=4",
   "githubUrl": "https://github.com/jzOcb",
   "score": {
-    "score": 20.17,
+    "score": 15.17,
     "prScore": 15.17,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 4,
     "prChangedFiles": 5,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-28T23:11:13Z",
+  "firstContribution": "2026-03-09T17:37:01Z",
   "lastContribution": "2026-03-09T17:37:01Z",
   "recentPRs": [
     {
@@ -66,32 +64,18 @@
       "changedFiles": 5
     }
   ],
-  "recentIssues": [
-    {
-      "number": 30128,
-      "title": "Feature Request: Support Claude Memory Tool API (memory_20250818)",
-      "state": "OPEN",
-      "createdAt": "2026-02-28T23:11:13Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-02-28": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

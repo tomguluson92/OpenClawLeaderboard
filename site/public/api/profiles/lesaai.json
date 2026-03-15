@@ -3,37 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/260982214?u=c13e4dd5ac98a01099ac99f6060cebc3f1b3227c&v=4",
   "githubUrl": "https://github.com/lesaai",
   "score": {
-    "score": 25.3,
-    "prScore": 24.3,
+    "score": 7.83,
+    "prScore": 7.83,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 35,
-    "prDeletions": 3,
-    "prChangedFiles": 3,
+    "prAdditions": 14,
+    "prDeletions": 1,
+    "prChangedFiles": 1,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,65 +40,42 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T22:31:31Z",
-  "lastContribution": "2026-03-04T16:32:16Z",
+  "firstContribution": "2026-03-14T04:44:48Z",
+  "lastContribution": "2026-03-14T04:44:48Z",
   "recentPRs": [
     {
-      "number": 33567,
+      "number": 45744,
       "title": "fix: follow symlinks when discovering plugins in extensions directory",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-03T22:36:06Z",
+      "createdAt": "2026-03-14T04:44:48Z",
       "mergedAt": null,
       "additions": 14,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 33565,
-      "title": "fix: follow symlinks when discovering plugins in extensions directory",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T22:31:55Z",
-      "mergedAt": null,
-      "additions": 14,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 33563,
-      "title": "fix: follow symlinks when discovering plugins in extensions directory",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T22:31:31Z",
-      "mergedAt": null,
-      "additions": 7,
       "deletions": 1,
       "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
-    "2026-03-03": {
-      "prs": 3,
+    "2026-03-14": {
+      "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

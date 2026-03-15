@@ -3,22 +3,22 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/41375613?v=4",
   "githubUrl": "https://github.com/Drickon",
   "score": {
-    "score": 64.26,
-    "prScore": 64.26,
+    "score": 48.19,
+    "prScore": 48.19,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 5,
-    "prs": 1,
-    "prsMerged": 1,
-    "prAdditions": 37,
-    "prDeletions": 2,
-    "prChangedFiles": 3,
-    "prMergeRate": 100,
+    "prs": 0,
+    "prsMerged": 0,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 617,
     "commitDeletions": 9,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 12
   },
   "period": {
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,37 +49,18 @@
       "commits": 5
     }
   },
-  "firstContribution": "2026-03-02T23:25:50Z",
-  "lastContribution": "2026-03-02T23:25:50Z",
-  "recentPRs": [
-    {
-      "number": 32292,
-      "title": "fix(hooks): use globalThis singleton for handler registry to survive bundle splitting",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T23:25:50Z",
-      "mergedAt": "2026-03-03T00:27:11Z",
-      "additions": 37,
-      "deletions": 2,
-      "changedFiles": 3
-    }
-  ],
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-03-03": 2,
     "2026-03-02": 3
-  },
-  "recentActivityDays": {
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

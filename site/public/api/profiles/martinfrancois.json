@@ -27,8 +27,6 @@
     "comments": 4,
     "commitAdditions": 242,
     "commitDeletions": 11,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 4
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 1,
       "issues": 0,
       "reviews": 3,
-      "comments": 3,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -51,8 +49,8 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-01T15:21:27Z",
-  "lastContribution": "2026-03-09T01:51:42Z",
+  "firstContribution": "2026-03-08T23:15:01Z",
+  "lastContribution": "2026-03-14T14:32:22Z",
   "recentPRs": [
     {
       "number": 40347,
@@ -84,6 +82,13 @@
       "createdAt": "2026-03-08T23:36:25Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -92,12 +97,5 @@
   "achievements": [],
   "recentCommitDays": {
     "2026-03-01": 1
-  },
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 3
-    }
   }
 }

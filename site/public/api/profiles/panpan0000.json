@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/14049268?u=409078a6fc5ca8ec2201f186ccb43b26fa3b28bb&v=4",
   "githubUrl": "https://github.com/panpan0000",
   "score": {
-    "score": 60.72,
+    "score": 61.22,
     "prScore": 28.72,
     "issueScore": 10,
     "reviewScore": 21,
-    "commentScore": 1
+    "commentScore": 1.5
   },
   "tier": "regular",
   "characterClass": "Reviewer",
@@ -24,11 +24,9 @@
     "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 3,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 3,
       "issues": 2,
       "reviews": 7,
-      "comments": 2,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,14 +43,14 @@
       "prs": 3,
       "issues": 2,
       "reviews": 7,
-      "comments": 2,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-10T07:28:10Z",
-  "lastContribution": "2026-03-12T03:51:41Z",
+  "lastContribution": "2026-03-13T09:26:22Z",
   "recentPRs": [
     {
       "number": 42976,
@@ -141,20 +139,6 @@
       "createdAt": "2026-03-11T04:11:53Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 2,
@@ -171,5 +155,19 @@
       "issues": 0,
       "reviews": 3
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

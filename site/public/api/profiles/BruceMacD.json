@@ -1,23 +1,23 @@
 {
   "username": "BruceMacD",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/5853428?u=d233d9c0f7c3c0be7941888525050d12d69d50fe&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5853428?v=4",
   "githubUrl": "https://github.com/BruceMacD",
   "score": {
-    "score": 115.43,
-    "prScore": 106.43,
+    "score": 201.78,
+    "prScore": 192.78,
     "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
-    "commits": 0,
+    "commits": 2,
     "prs": 2,
     "prsMerged": 1,
-    "prAdditions": 1245,
-    "prDeletions": 70,
-    "prChangedFiles": 22,
+    "prAdditions": 51792,
+    "prDeletions": 9943,
+    "prChangedFiles": 838,
     "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
@@ -25,11 +25,9 @@
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
-    "commitAdditions": 1176,
-    "commitDeletions": 61,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 16
+    "commitAdditions": 1245,
+    "commitDeletions": 70,
+    "commitChangedFiles": 21
   },
   "period": {
     "weekly": {
@@ -37,18 +35,18 @@
       "issues": 0,
       "reviews": 3,
       "comments": 0,
-      "commitAdditions": 1176,
-      "commitDeletions": 61,
-      "commits": 1
+      "commitAdditions": 1245,
+      "commitDeletions": 70,
+      "commits": 2
     },
     "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 3,
       "comments": 0,
-      "commitAdditions": 1176,
-      "commitDeletions": 61,
-      "commits": 1
+      "commitAdditions": 1245,
+      "commitDeletions": 70,
+      "commits": 2
     }
   },
   "firstContribution": "2026-03-09T23:33:13Z",
@@ -57,13 +55,13 @@
     {
       "number": 43473,
       "title": "docs(ollama): update onboarding flow",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T21:12:05Z",
       "mergedAt": null,
-      "additions": 69,
-      "deletions": 9,
-      "changedFiles": 5
+      "additions": 50616,
+      "deletions": 9882,
+      "changedFiles": 821
     },
     {
       "number": 41529,
@@ -95,14 +93,6 @@
       "createdAt": "2026-03-10T16:39:44Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-11": 1
-  },
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
@@ -119,5 +109,27 @@
       "issues": 0,
       "reviews": 3
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-13": 1,
+    "2026-03-11": 1
   }
 }

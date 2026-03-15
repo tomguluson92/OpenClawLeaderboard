@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/95828888?u=e700f45dc1a1342ff36141a2720741fa8183b696&v=4",
   "githubUrl": "https://github.com/cl-victor1",
   "score": {
-    "score": 555.72,
-    "prScore": 554.22,
+    "score": 353.13,
+    "prScore": 353.13,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 0
   },
-  "tier": "veteran",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 61,
+    "prs": 34,
     "prsMerged": 0,
-    "prAdditions": 4817,
-    "prDeletions": 7,
-    "prChangedFiles": 96,
+    "prAdditions": 2154,
+    "prDeletions": 0,
+    "prChangedFiles": 57,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 25,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 61,
+      "prs": 34,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T00:42:37Z",
+  "firstContribution": "2026-03-04T10:03:15Z",
   "lastContribution": "2026-03-06T10:04:35Z",
   "recentPRs": [
     {
@@ -277,23 +275,6 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "pr-master",
-      "label": "PR Master",
-      "description": "50+ pull requests"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 5,
@@ -301,9 +282,25 @@
       "reviews": 0
     },
     "2026-03-05": {
-      "prs": 15,
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 9,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

@@ -1,0 +1,103 @@
+{
+  "username": "tsen1220",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53077736?u=bdcd006f7582770ddd3e13f726c7f2422de59ca0&v=4",
+  "githubUrl": "https://github.com/tsen1220",
+  "score": {
+    "score": 21.75,
+    "prScore": 7.75,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 10,
+    "prDeletions": 1,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T04:01:03Z",
+  "lastContribution": "2026-03-14T04:59:50Z",
+  "recentPRs": [
+    {
+      "number": 45748,
+      "title": "fix(gh-issues): harden sub-agent prompts against prompt injection",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T04:53:05Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45740,
+      "title": "gh-issues skill: untrusted issue body injected directly into sub-agent prompt",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T04:33:03Z",
+      "closedAt": null
+    },
+    {
+      "number": 44637,
+      "title": "Telegram: reasoning on mode shows only reasoning, no final answer for tag-based providers (Minimax)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-13T04:01:03Z",
+      "closedAt": "2026-03-13T14:14:02Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

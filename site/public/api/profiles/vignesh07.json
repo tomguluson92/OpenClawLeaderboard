@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1436853?v=4",
   "githubUrl": "https://github.com/vignesh07",
   "score": {
-    "score": 2370.49,
-    "prScore": 2353.99,
+    "score": 2375.3,
+    "prScore": 2361.3,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 16.5
+    "commentScore": 14
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
     "commits": 436,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 487,
-    "prDeletions": 36,
-    "prChangedFiles": 11,
+    "prAdditions": 1350,
+    "prDeletions": 65,
+    "prChangedFiles": 25,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 33,
+    "comments": 28,
     "commitAdditions": 35832,
     "commitDeletions": 6514,
-    "weeklyCommits": 0,
-    "monthlyCommits": 158,
     "commitChangedFiles": 1234
   },
   "period": {
@@ -36,24 +34,35 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 28,
-      "commitAdditions": 3708,
-      "commitDeletions": 293,
-      "commits": 32
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 33,
-      "commitAdditions": 25988,
-      "commitDeletions": 4191,
-      "commits": 326
+      "comments": 28,
+      "commitAdditions": 18936,
+      "commitDeletions": 2236,
+      "commits": 302
     }
   },
-  "firstContribution": "2026-02-28T21:33:55Z",
-  "lastContribution": "2026-03-08T21:21:17Z",
+  "firstContribution": "2026-03-06T00:10:18Z",
+  "lastContribution": "2026-03-14T18:25:31Z",
   "recentPRs": [
+    {
+      "number": 45676,
+      "title": "feat: add /btw side-question command across channels",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T03:00:07Z",
+      "mergedAt": null,
+      "additions": 863,
+      "deletions": 29,
+      "changedFiles": 14
+    },
     {
       "number": 40258,
       "title": "Fix heartbeat regression: don't mutate custom prompt",
@@ -79,6 +88,23 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion",
@@ -126,17 +152,5 @@
     "2026-01-21": 8,
     "2026-01-19": 3,
     "2026-01-18": 10
-  },
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

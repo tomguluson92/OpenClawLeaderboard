@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/93952610?u=1fc4f536194ab633477f821e2874e60236593812&v=4",
   "githubUrl": "https://github.com/0xNyk",
   "score": {
-    "score": 17.04,
-    "prScore": 17.04,
+    "score": 38.56,
+    "prScore": 38.56,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 416,
-    "prDeletions": 391,
-    "prChangedFiles": 5,
+    "prAdditions": 489,
+    "prDeletions": 429,
+    "prChangedFiles": 12,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-10T08:28:10Z",
-  "lastContribution": "2026-03-10T08:28:10Z",
+  "lastContribution": "2026-03-12T14:09:23Z",
   "recentPRs": [
+    {
+      "number": 44106,
+      "title": "fix(installer): clarify Node >=22.12 requirement and Node 24 support",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T14:09:23Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 38,
+      "changedFiles": 7
+    },
     {
       "number": 41954,
       "title": "ui: split cron view into focused modules",
@@ -68,16 +77,21 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

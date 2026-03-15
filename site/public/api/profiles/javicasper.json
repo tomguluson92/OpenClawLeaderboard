@@ -1,0 +1,91 @@
+{
+  "username": "javicasper",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/96118421?u=4b8cbfe9682e0364a11e38d56f0181a0c5a7e660&v=4",
+  "githubUrl": "https://github.com/javicasper",
+  "score": {
+    "score": 13.04,
+    "prScore": 7.54,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 4,
+    "prDeletions": 1,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T10:35:54Z",
+  "lastContribution": "2026-03-14T10:43:11Z",
+  "recentPRs": [
+    {
+      "number": 45997,
+      "title": "fix(whatsapp): share active-listener Map across bundled chunks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T10:38:59Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45994,
+      "title": "WhatsApp active-listener singleton not shared across bundled chunks (outbound sends fail)",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T10:35:54Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

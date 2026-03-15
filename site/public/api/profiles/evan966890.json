@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/236738035?v=4",
   "githubUrl": "https://github.com/evan966890",
   "score": {
-    "score": 702.29,
+    "score": 681.29,
     "prScore": 674.79,
-    "issueScore": 26,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 1.5
   },
@@ -19,21 +19,19 @@
     "prDeletions": 1071,
     "prChangedFiles": 199,
     "prMergeRate": 0,
-    "issues": 4,
-    "issuesClosed": 2,
+    "issues": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 3,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 54,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 77,
-      "issues": 4,
+      "issues": 1,
       "reviews": 0,
       "comments": 3,
       "commitAdditions": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-01T02:10:07Z",
+  "firstContribution": "2026-03-04T17:13:12Z",
   "lastContribution": "2026-03-06T13:43:48Z",
   "recentPRs": [
     {
@@ -282,30 +280,26 @@
       "state": "OPEN",
       "createdAt": "2026-03-04T17:13:12Z",
       "closedAt": null
-    },
-    {
-      "number": 30642,
-      "title": "SILENT_REPLY_TOKEN should not suppress subagent announce delivery",
-      "state": "CLOSED",
-      "createdAt": "2026-03-01T12:53:54Z",
-      "closedAt": "2026-03-02T07:02:54Z"
-    },
-    {
-      "number": 30581,
-      "title": "Subagent announce deadlock: last announce silently dropped while earlier announces instruct model to wait",
-      "state": "CLOSED",
-      "createdAt": "2026-03-01T11:17:32Z",
-      "closedAt": "2026-03-02T07:02:51Z"
-    },
-    {
-      "number": 30221,
-      "title": "Discord REST API (@buape/carbon) ignores channels.discord.proxy config",
-      "state": "OPEN",
-      "createdAt": "2026-03-01T02:10:07Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 60,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 11,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
@@ -324,27 +318,5 @@
       "description": "50+ pull requests"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 14,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-01": {
-      "prs": 0,
-      "issues": 3,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

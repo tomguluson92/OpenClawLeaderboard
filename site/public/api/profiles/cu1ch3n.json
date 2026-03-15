@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/80438676?u=a4a610b089437f99c3a4b13841fa8f7767b39461&v=4",
   "githubUrl": "https://github.com/cu1ch3n",
   "score": {
-    "score": 109.85,
-    "prScore": 99.35,
+    "score": 91.03,
+    "prScore": 80.53,
     "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 1.5
@@ -13,12 +13,12 @@
   "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 5,
-    "prsMerged": 1,
-    "prAdditions": 784,
-    "prDeletions": 56,
-    "prChangedFiles": 26,
-    "prMergeRate": 20,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 748,
+    "prDeletions": 20,
+    "prChangedFiles": 22,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
@@ -27,22 +27,20 @@
     "comments": 3,
     "commitAdditions": 36,
     "commitDeletions": 36,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 4
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 4,
       "issues": 0,
       "reviews": 3,
       "comments": 3,
@@ -51,7 +49,7 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-03T16:38:25Z",
+  "firstContribution": "2026-03-04T08:49:38Z",
   "lastContribution": "2026-03-05T15:05:25Z",
   "recentPRs": [
     {
@@ -97,17 +95,6 @@
       "additions": 1,
       "deletions": 1,
       "changedFiles": 1
-    },
-    {
-      "number": 33262,
-      "title": "fix(security): strip partial API token from status labels",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-03T16:38:25Z",
-      "mergedAt": "2026-03-03T23:11:49Z",
-      "additions": 36,
-      "deletions": 36,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
@@ -128,15 +115,6 @@
       "createdAt": "2026-03-04T17:10:28Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-03": 1
-  },
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 2,
@@ -147,11 +125,15 @@
       "prs": 2,
       "issues": 0,
       "reviews": 3
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-03": 1
   }
 }

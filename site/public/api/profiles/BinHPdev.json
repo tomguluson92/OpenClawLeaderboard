@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/219093083?v=4",
   "githubUrl": "https://github.com/BinHPdev",
   "score": {
-    "score": 116.51,
-    "prScore": 110.51,
+    "score": 88.69,
+    "prScore": 88.69,
     "issueScore": 0,
-    "reviewScore": 6,
+    "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Maintainer",
+  "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 5,
+    "prs": 3,
     "prsMerged": 1,
-    "prAdditions": 262,
+    "prAdditions": 76,
     "prDeletions": 31,
-    "prChangedFiles": 10,
-    "prMergeRate": 20,
+    "prChangedFiles": 7,
+    "prMergeRate": 33,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 634,
     "commitDeletions": 12,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 18
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 51,
-      "commitDeletions": 6,
-      "commits": 1
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 3,
       "issues": 0,
-      "reviews": 2,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 634,
       "commitDeletions": 12,
       "commits": 4
     }
   },
-  "firstContribution": "2026-03-03T17:14:36Z",
+  "firstContribution": "2026-03-05T16:36:29Z",
   "lastContribution": "2026-03-05T17:39:23Z",
   "recentPRs": [
     {
@@ -86,63 +84,24 @@
       "additions": 51,
       "deletions": 6,
       "changedFiles": 3
-    },
-    {
-      "number": 33321,
-      "title": "fix(build): add WSL detection to bundle-a2ui.sh",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T17:37:29Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 33302,
-      "title": "fix(cron): guard armTimer against watchdog clearance during tick execution (#18121)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T17:14:36Z",
-      "mergedAt": null,
-      "additions": 171,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 33321,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T17:47:34Z"
-    },
-    {
-      "prNumber": 33321,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T17:47:31Z"
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
     }
-  ],
+  },
   "skills": [
     "Pull Requests",
-    "Code Review",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-03-05": 1,
     "2026-02-14": 3
-  },
-  "recentActivityDays": {
-    "2026-03-05": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 2
-    }
   }
 }

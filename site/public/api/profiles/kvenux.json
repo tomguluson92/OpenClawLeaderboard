@@ -1,0 +1,209 @@
+{
+  "username": "kvenux",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7113132?u=58ef8fa716e5c8c79abd4414d78133280c76d9a8&v=4",
+  "githubUrl": "https://github.com/kvenux",
+  "score": {
+    "score": 147.85,
+    "prScore": 144.85,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 12,
+    "prsMerged": 0,
+    "prAdditions": 1070,
+    "prDeletions": 19,
+    "prChangedFiles": 29,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T08:57:41Z",
+  "lastContribution": "2026-03-13T16:31:36Z",
+  "recentPRs": [
+    {
+      "number": 45288,
+      "title": "fix(gateway-status): validate WebSocket URL hostnames against SSRF (CWE-918)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T16:31:36Z",
+      "mergedAt": null,
+      "additions": 90,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 45252,
+      "title": "fix(infra/net): pass pinned DNS lookup to ProxyAgent in explicit-proxy mode (CWE-918)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T15:49:13Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 45248,
+      "title": "fix(infra/net): pass pinned DNS lookup to EnvHttpProxyAgent in trusted_env_proxy mode (CWE-918)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T15:42:50Z",
+      "mergedAt": null,
+      "additions": 86,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 45243,
+      "title": "fix(tts): validate baseUrl against cloud metadata and dangerous hostnames (CWE-918)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T15:36:27Z",
+      "mergedAt": null,
+      "additions": 103,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 45236,
+      "title": "fix(signal): validate baseUrl against cloud metadata and dangerous hostnames (CWE-918)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T15:25:40Z",
+      "mergedAt": null,
+      "additions": 128,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 45197,
+      "title": "fix(link-understanding): re-validate resolved IPs at usage time to prevent SSRF bypass",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T14:48:23Z",
+      "mergedAt": null,
+      "additions": 133,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 45139,
+      "title": "fix(utils): validate parsed command argv to prevent split-args misuse as security boundary (CWE-78)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T13:40:14Z",
+      "mergedAt": null,
+      "additions": 93,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 45098,
+      "title": "fix(signal): validate cliPath at spawn time for defense-in-depth (CWE-78)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T12:52:42Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 45097,
+      "title": "fix(media-understanding): reject CLI template context with shell metacharacters (CWE-78)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T12:52:21Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 45091,
+      "title": "fix(signal): validate cliPath at spawn time for defense-in-depth (CWE-78)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T12:49:23Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 45090,
+      "title": "fix(media-understanding): reject CLI template context with shell metacharacters (CWE-78)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T12:49:17Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 44892,
+      "title": "fix(link-understanding): prevent command injection via URL templates (CWE-78)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T08:57:41Z",
+      "mergedAt": null,
+      "additions": 134,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
+}

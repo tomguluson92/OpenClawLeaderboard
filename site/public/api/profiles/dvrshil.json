@@ -3,16 +3,16 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/81693876?v=4",
   "githubUrl": "https://github.com/dvrshil",
   "score": {
-    "score": 41.52,
-    "prScore": 36.52,
+    "score": 88.54,
+    "prScore": 77.54,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 5
+    "reviewScore": 4,
+    "commentScore": 7
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
-    "commits": 3,
+    "commits": 7,
     "prs": 0,
     "prsMerged": 0,
     "prAdditions": 0,
@@ -21,49 +21,61 @@
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
-    "reviewsApproved": 0,
+    "reviews": 1,
+    "reviewsApproved": 1,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 388,
-    "commitDeletions": 6,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 12
+    "comments": 14,
+    "commitAdditions": 567,
+    "commitDeletions": 62,
+    "commitChangedFiles": 22
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 4,
+      "commitAdditions": 179,
+      "commitDeletions": 56,
+      "commits": 4
     },
     "monthly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 371,
-      "commitDeletions": 4,
-      "commits": 2
+      "reviews": 1,
+      "comments": 14,
+      "commitAdditions": 550,
+      "commitDeletions": 60,
+      "commits": 6
     }
   },
   "firstContribution": "2026-03-04T23:30:15Z",
-  "lastContribution": "2026-03-06T05:55:40Z",
+  "lastContribution": "2026-03-14T06:25:28Z",
   "recentPRs": [],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 44367,
+      "state": "APPROVED",
+      "createdAt": "2026-03-13T06:30:39Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
   "skills": [
+    "Code Review",
     "Discussion",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
+    "2026-03-14": 4,
     "2026-03-04": 2,
     "2026-02-06": 1
-  },
-  "recentActivityDays": {}
+  }
 }

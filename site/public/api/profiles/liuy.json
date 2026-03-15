@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1192888?v=4",
   "githubUrl": "https://github.com/liuy",
   "score": {
-    "score": 86.57,
+    "score": 86.07,
     "prScore": 86.07,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Builder",
@@ -24,11 +24,9 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 225,
     "commitDeletions": 38,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 22
   },
   "period": {
@@ -45,13 +43,13 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 169,
       "commitDeletions": 8,
       "commits": 4
     }
   },
-  "firstContribution": "2026-03-01T02:10:02Z",
+  "firstContribution": "2026-03-04T10:08:25Z",
   "lastContribution": "2026-03-04T10:08:25Z",
   "recentPRs": [
     {
@@ -68,9 +66,15 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
-    "Discussion",
     "Direct Commits"
   ],
   "achievements": [],
@@ -79,12 +83,5 @@
     "2026-02-26": 2,
     "2026-02-14": 1,
     "2026-02-10": 2
-  },
-  "recentActivityDays": {
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

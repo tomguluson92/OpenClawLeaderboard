@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/46583939?v=4",
   "githubUrl": "https://github.com/juppytt",
   "score": {
-    "score": 49.08,
+    "score": 41.08,
     "prScore": 26.08,
-    "issueScore": 23,
+    "issueScore": 15,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -19,16 +19,14 @@
     "prDeletions": 3,
     "prChangedFiles": 10,
     "prMergeRate": 0,
-    "issues": 4,
-    "issuesClosed": 1,
+    "issues": 3,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 4,
+      "issues": 3,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T11:13:03Z",
+  "firstContribution": "2026-03-03T23:51:45Z",
   "lastContribution": "2026-03-05T02:25:30Z",
   "recentPRs": [
     {
@@ -83,26 +81,13 @@
     },
     {
       "number": 33635,
-      "title": "Feature: tools.fs.allowedRoots \u2014 whitelist specific directories outside the workspace",
+      "title": "Feature: tools.fs.allowedRoots — whitelist specific directories outside the workspace",
       "state": "OPEN",
       "createdAt": "2026-03-03T23:51:45Z",
       "closedAt": null
-    },
-    {
-      "number": 31613,
-      "title": "[Slack] Each message creates separate agent context (v2026.3.1)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T11:13:03Z",
-      "closedAt": "2026-03-03T01:04:44Z"
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-04": {
       "prs": 1,
@@ -118,11 +103,12 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

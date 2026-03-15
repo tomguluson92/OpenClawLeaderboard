@@ -1,0 +1,130 @@
+{
+  "username": "education-01",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/63526822?u=d2411739e76271e974ea8c03d0f62d005ad19a35&v=4",
+  "githubUrl": "https://github.com/education-01",
+  "score": {
+    "score": 50.35,
+    "prScore": 50.35,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 159,
+    "prDeletions": 7,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T21:57:29Z",
+  "lastContribution": "2026-03-15T04:28:06Z",
+  "recentPRs": [
+    {
+      "number": 46864,
+      "title": "fix(nodes): inherit exec approvals full/off defaults",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T04:28:06Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 46856,
+      "title": "fix(discord): fail startup when bot identity fetch fails",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T04:22:43Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 46854,
+      "title": "fix(voice-call): guard concurrent webhook server starts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T04:17:50Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 46608,
+      "title": "fix(cron): apply agent defaults fallbacks to cron sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T22:02:04Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 46606,
+      "title": "fix(ui): use totalTokens instead of inputTokens for context banner",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T21:57:29Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 2,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

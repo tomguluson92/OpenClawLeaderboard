@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/354657?v=4",
   "githubUrl": "https://github.com/zhuowater",
   "score": {
-    "score": 303.32,
-    "prScore": 303.32,
+    "score": 97.74,
+    "prScore": 97.74,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 13,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 904,
-    "prDeletions": 1402562,
-    "prChangedFiles": 7643,
+    "prAdditions": 458,
+    "prDeletions": 17,
+    "prChangedFiles": 15,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 9,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 13,
+      "prs": 10,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T05:50:43Z",
+  "firstContribution": "2026-03-05T00:47:09Z",
   "lastContribution": "2026-03-11T02:12:13Z",
   "recentPRs": [
     {
@@ -123,7 +121,7 @@
     {
       "number": 37528,
       "title": "fix(feishu): add early event-level dedup to prevent duplicate message processing",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T09:10:06Z",
       "mergedAt": null,
@@ -163,55 +161,10 @@
       "additions": 127,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 34066,
-      "title": "fix(i18n): add missing zh-CN cron keys + locale completeness check script",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T06:41:21Z",
-      "mergedAt": null,
-      "additions": 122,
-      "deletions": 1402543,
-      "changedFiles": 7623
-    },
-    {
-      "number": 34051,
-      "title": "feat(webchat): add confirmation dialog for 'New session' button",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T06:25:45Z",
-      "mergedAt": null,
-      "additions": 83,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 34011,
-      "title": "feat(feishu): wire up react/reactions message actions",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T05:50:43Z",
-      "mergedAt": null,
-      "additions": 241,
-      "deletions": 1,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
@@ -247,11 +200,17 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

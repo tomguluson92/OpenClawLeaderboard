@@ -3,56 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/40628300?v=4",
   "githubUrl": "https://github.com/ayanesakura",
   "score": {
-    "score": 550.07,
-    "prScore": 471.57,
+    "score": 527.53,
+    "prScore": 450.03,
     "issueScore": 10,
     "reviewScore": 42,
-    "commentScore": 26.5
+    "commentScore": 25.5
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
     "commits": 2,
-    "prs": 46,
+    "prs": 43,
     "prsMerged": 3,
-    "prAdditions": 4940,
-    "prDeletions": 982,
-    "prChangedFiles": 156,
+    "prAdditions": 4792,
+    "prDeletions": 914,
+    "prChangedFiles": 149,
     "prMergeRate": 7,
     "issues": 2,
     "issuesClosed": 0,
     "reviews": 14,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 53,
+    "comments": 51,
     "commitAdditions": 106,
     "commitDeletions": 3,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 5
   },
   "period": {
     "weekly": {
-      "prs": 39,
+      "prs": 14,
       "issues": 2,
-      "reviews": 14,
-      "comments": 48,
-      "commitAdditions": 106,
-      "commitDeletions": 3,
-      "commits": 2
+      "reviews": 13,
+      "comments": 25,
+      "commitAdditions": 5,
+      "commitDeletions": 1,
+      "commits": 1
     },
     "monthly": {
-      "prs": 46,
+      "prs": 43,
       "issues": 2,
       "reviews": 14,
-      "comments": 53,
+      "comments": 51,
       "commitAdditions": 106,
       "commitDeletions": 3,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-04T04:12:17Z",
-  "lastContribution": "2026-03-12T02:59:50Z",
+  "firstContribution": "2026-03-04T16:42:50Z",
+  "lastContribution": "2026-03-12T13:26:34Z",
   "recentPRs": [
     {
       "number": 42847,
@@ -363,6 +361,48 @@
       "createdAt": "2026-03-06T05:43:01Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 2
+    },
+    "2026-03-09": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-08": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-05": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -396,37 +436,5 @@
   "recentCommitDays": {
     "2026-03-10": 1,
     "2026-03-05": 1
-  },
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 8
-    },
-    "2026-03-10": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 2
-    },
-    "2026-03-09": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 3
-    },
-    "2026-03-08": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
-    }
   }
 }

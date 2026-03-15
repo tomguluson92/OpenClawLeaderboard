@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7421499?u=1091e007816658e174a55951f10604c6778e9a0a&v=4",
   "githubUrl": "https://github.com/cocos543",
   "score": {
-    "score": 12.21,
+    "score": 15.21,
     "prScore": 7.21,
-    "issueScore": 5,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -20,15 +20,13 @@
     "prChangedFiles": 1,
     "prMergeRate": 0,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -70,23 +68,23 @@
     {
       "number": 43050,
       "title": "[Bug]: openclaw onboard ERROR: Error: Config validation failed: models.providers.kimi-coding.models.0.compat: Unrecognized key: \"requiresOpenAiAnthropicToolPayload\"",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-11T09:41:42Z",
-      "closedAt": null
+      "closedAt": "2026-03-12T15:07:31Z"
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

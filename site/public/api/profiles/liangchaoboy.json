@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17689793?u=57df5277948babbb030224d3e441520ff10437fc&v=4",
   "githubUrl": "https://github.com/liangchaoboy",
   "score": {
-    "score": 166.36,
-    "prScore": 155.36,
+    "score": 158.88,
+    "prScore": 147.88,
     "issueScore": 10,
     "reviewScore": 0,
     "commentScore": 1
@@ -13,11 +13,11 @@
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 3045,
-    "prDeletions": 8,
-    "prChangedFiles": 79,
+    "prAdditions": 2949,
+    "prDeletions": 7,
+    "prChangedFiles": 74,
     "prMergeRate": 0,
     "issues": 2,
     "issuesClosed": 0,
@@ -27,14 +27,12 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 2,
+      "prs": 1,
+      "issues": 1,
       "reviews": 0,
       "comments": 2,
       "commitAdditions": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 4,
       "issues": 2,
       "reviews": 0,
       "comments": 2,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T11:34:05Z",
+  "firstContribution": "2026-03-05T08:38:59Z",
   "lastContribution": "2026-03-09T10:29:07Z",
   "recentPRs": [
     {
@@ -97,17 +95,6 @@
       "additions": 265,
       "deletions": 1,
       "changedFiles": 15
-    },
-    {
-      "number": 31632,
-      "title": "feat(providers): add Qiniu Cloud AI as a built-in provider",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T11:34:05Z",
-      "mergedAt": null,
-      "additions": 96,
-      "deletions": 1,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [
@@ -127,13 +114,6 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
@@ -144,11 +124,13 @@
       "prs": 3,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

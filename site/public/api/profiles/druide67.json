@@ -3,40 +3,38 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/212749853?v=4",
   "githubUrl": "https://github.com/druide67",
   "score": {
-    "score": 168.34,
-    "prScore": 141.84,
+    "score": 163.43,
+    "prScore": 134.93,
     "issueScore": 5,
     "reviewScore": 21,
-    "commentScore": 0.5
+    "commentScore": 2.5
   },
   "tier": "regular",
-  "characterClass": "Maintainer",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 3,
     "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 1154,
-    "prDeletions": 127,
-    "prChangedFiles": 16,
+    "prAdditions": 1270,
+    "prDeletions": 160,
+    "prChangedFiles": 13,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 5,
     "commitAdditions": 2333,
     "commitDeletions": 42,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 27
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 1,
-      "reviews": 7,
-      "comments": 1,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,19 +43,19 @@
       "prs": 3,
       "issues": 1,
       "reviews": 7,
-      "comments": 1,
+      "comments": 5,
       "commitAdditions": 2333,
       "commitDeletions": 42,
       "commits": 3
     }
   },
   "firstContribution": "2026-03-05T22:55:28Z",
-  "lastContribution": "2026-03-11T17:24:08Z",
+  "lastContribution": "2026-03-14T20:58:59Z",
   "recentPRs": [
     {
       "number": 38360,
       "title": "fix(synology-chat): remove redundant 120s agent response timeout",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T22:02:03Z",
       "mergedAt": null,
@@ -83,9 +81,9 @@
       "merged": false,
       "createdAt": "2026-03-05T22:55:28Z",
       "mergedAt": null,
-      "additions": 197,
-      "deletions": 24,
-      "changedFiles": 5
+      "additions": 313,
+      "deletions": 57,
+      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -134,6 +132,23 @@
       "createdAt": "2026-03-05T23:02:13Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -151,22 +166,5 @@
   "recentCommitDays": {
     "2026-03-02": 2,
     "2026-02-21": 1
-  },
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 5
-    }
   }
 }

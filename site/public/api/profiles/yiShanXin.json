@@ -1,0 +1,152 @@
+{
+  "username": "yiShanXin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4454144?u=d7d1a738e816001367ae1b5cf16549f7a57ed682&v=4",
+  "githubUrl": "https://github.com/yiShanXin",
+  "score": {
+    "score": 77.75,
+    "prScore": 77.75,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 269,
+    "prDeletions": 129,
+    "prChangedFiles": 16,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T12:28:59Z",
+  "lastContribution": "2026-03-14T03:42:00Z",
+  "recentPRs": [
+    {
+      "number": 45702,
+      "title": "fix: restore new messages indicator styling in v2 UI",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T03:42:00Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 45678,
+      "title": "fix: restore multi-line input support in Web UI chat box",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T03:03:05Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 45590,
+      "title": "fix: improve stability across gateway, cli, and channels",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T01:19:59Z",
+      "mergedAt": null,
+      "additions": 110,
+      "deletions": 33,
+      "changedFiles": 8
+    },
+    {
+      "number": 45537,
+      "title": "fix: avoid OOM during completion script generation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T23:44:15Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 56,
+      "changedFiles": 1
+    },
+    {
+      "number": 45536,
+      "title": "fix: remove unknown line-clamp property to resolve CSS error",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T23:43:00Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 45535,
+      "title": "fix: robust token usage normalization for OpenAI-compatible providers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T23:42:30Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 27,
+      "changedFiles": 2
+    },
+    {
+      "number": 45073,
+      "title": "fix: resolve TDZ crash on ANTHROPIC_MODEL_ALIASES",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T12:28:59Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 8,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

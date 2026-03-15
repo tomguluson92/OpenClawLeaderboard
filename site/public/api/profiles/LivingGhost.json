@@ -3,10 +3,10 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/14040213?v=4",
   "githubUrl": "https://github.com/LivingGhost",
   "score": {
-    "score": 63.62,
-    "prScore": 51.12,
+    "score": 83.06,
+    "prScore": 61.56,
     "issueScore": 0,
-    "reviewScore": 12,
+    "reviewScore": 21,
     "commentScore": 0.5
   },
   "tier": "regular",
@@ -15,27 +15,25 @@
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 470,
-    "prDeletions": 15,
-    "prChangedFiles": 20,
+    "prAdditions": 720,
+    "prDeletions": 18,
+    "prChangedFiles": 24,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 4,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 2,
       "issues": 0,
-      "reviews": 4,
+      "reviews": 7,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -44,7 +42,7 @@
     "monthly": {
       "prs": 2,
       "issues": 0,
-      "reviews": 4,
+      "reviews": 7,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -52,18 +50,18 @@
     }
   },
   "firstContribution": "2026-03-08T15:33:43Z",
-  "lastContribution": "2026-03-10T06:16:09Z",
+  "lastContribution": "2026-03-12T12:31:11Z",
   "recentPRs": [
     {
       "number": 41813,
       "title": "feat(hooks): expose arbiter conversation and sender metadata",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T05:52:27Z",
       "mergedAt": null,
-      "additions": 213,
-      "deletions": 7,
-      "changedFiles": 9
+      "additions": 463,
+      "deletions": 10,
+      "changedFiles": 13
     },
     {
       "number": 40007,
@@ -79,6 +77,21 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 41813,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T12:31:11Z"
+    },
+    {
+      "prNumber": 41813,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T12:13:57Z"
+    },
+    {
+      "prNumber": 41813,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T11:57:27Z"
+    },
     {
       "prNumber": 41813,
       "state": "COMMENTED",
@@ -100,13 +113,6 @@
       "createdAt": "2026-03-08T15:46:50Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
@@ -117,6 +123,18 @@
       "prs": 1,
       "issues": 0,
       "reviews": 2
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

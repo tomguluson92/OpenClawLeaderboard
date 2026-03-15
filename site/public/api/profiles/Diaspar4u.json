@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3605840?v=4",
   "githubUrl": "https://github.com/Diaspar4u",
   "score": {
-    "score": 700.67,
-    "prScore": 409.17,
+    "score": 659.68,
+    "prScore": 379.68,
     "issueScore": 30,
-    "reviewScore": 246,
-    "commentScore": 15.5
+    "reviewScore": 237,
+    "commentScore": 13
   },
   "tier": "veteran",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 2,
-    "prs": 36,
+    "prs": 32,
     "prsMerged": 0,
-    "prAdditions": 17057,
-    "prDeletions": 990,
-    "prChangedFiles": 203,
+    "prAdditions": 15481,
+    "prDeletions": 840,
+    "prChangedFiles": 176,
     "prMergeRate": 0,
     "issues": 6,
     "issuesClosed": 0,
-    "reviews": 82,
+    "reviews": 79,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 31,
+    "comments": 26,
     "commitAdditions": 182,
     "commitDeletions": 10,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 6
   },
   "period": {
     "weekly": {
       "prs": 26,
       "issues": 6,
-      "reviews": 52,
-      "comments": 30,
+      "reviews": 51,
+      "comments": 26,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 36,
+      "prs": 32,
       "issues": 6,
-      "reviews": 82,
-      "comments": 31,
-      "commitAdditions": 182,
-      "commitDeletions": 10,
-      "commits": 2
+      "reviews": 79,
+      "comments": 26,
+      "commitAdditions": 128,
+      "commitDeletions": 8,
+      "commits": 1
     }
   },
-  "firstContribution": "2026-03-02T15:05:53Z",
+  "firstContribution": "2026-03-04T16:06:12Z",
   "lastContribution": "2026-03-10T21:50:19Z",
   "recentPRs": [
     {
@@ -421,6 +419,33 @@
       "createdAt": "2026-03-10T14:08:37Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 23,
+      "issues": 6,
+      "reviews": 47
+    },
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-04": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-07": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-05": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 18
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -469,12 +494,5 @@
   "recentCommitDays": {
     "2026-03-02": 1,
     "2026-02-13": 1
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 20,
-      "issues": 6,
-      "reviews": 20
-    }
   }
 }

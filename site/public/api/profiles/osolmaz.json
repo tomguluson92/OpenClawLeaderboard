@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2453968?v=4",
   "githubUrl": "https://github.com/osolmaz",
   "score": {
-    "score": 389.97,
-    "prScore": 379.97,
+    "score": 378.46,
+    "prScore": 369.96,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 3.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 43,
-    "prs": 1,
-    "prsMerged": 1,
-    "prAdditions": 5,
-    "prDeletions": 5,
-    "prChangedFiles": 1,
-    "prMergeRate": 100,
+    "prs": 0,
+    "prsMerged": 0,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
+    "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
+    "comments": 7,
     "commitAdditions": 27039,
     "commitDeletions": 3622,
-    "weeklyCommits": 2,
-    "monthlyCommits": 51,
     "commitChangedFiles": 351
   },
   "period": {
@@ -36,36 +34,24 @@
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 1,
       "reviews": 0,
-      "comments": 10,
+      "comments": 7,
       "commitAdditions": 27003,
       "commitDeletions": 3609,
       "commits": 42
     }
   },
-  "firstContribution": "2026-03-02T22:51:04Z",
+  "firstContribution": "2026-03-04T10:44:39Z",
   "lastContribution": "2026-03-10T20:43:07Z",
-  "recentPRs": [
-    {
-      "number": 32279,
-      "title": "chore(pi): change wording in landpr slash prompt, prefer squash",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T23:02:50Z",
-      "mergedAt": "2026-03-02T23:13:11Z",
-      "additions": 5,
-      "deletions": 5,
-      "changedFiles": 1
-    }
-  ],
+  "recentPRs": [],
   "recentIssues": [
     {
       "number": 34626,
@@ -76,8 +62,14 @@
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
-    "Pull Requests",
     "Issue Reporting",
     "Discussion",
     "Direct Commits"
@@ -90,17 +82,5 @@
     "2026-02-26": 1,
     "2026-02-22": 5,
     "2026-02-21": 1
-  },
-  "recentActivityDays": {
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

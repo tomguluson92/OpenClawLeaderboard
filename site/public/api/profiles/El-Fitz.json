@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8971906?v=4",
   "githubUrl": "https://github.com/El-Fitz",
   "score": {
-    "score": 92.95,
-    "prScore": 91.95,
+    "score": 23.37,
+    "prScore": 23.37,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 2,
-    "prs": 2,
+    "prs": 0,
     "prsMerged": 0,
-    "prAdditions": 2947,
-    "prDeletions": 50,
-    "prChangedFiles": 20,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 256,
     "commitDeletions": 6,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 8
   },
   "period": {
@@ -42,57 +40,26 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 256,
       "commitDeletions": 6,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-02T15:13:56Z",
-  "lastContribution": "2026-03-02T15:14:11Z",
-  "recentPRs": [
-    {
-      "number": 31826,
-      "title": "feat(plugins): add context-mode plugin \u2014 proactive tool-output compression",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T15:13:59Z",
-      "mergedAt": null,
-      "additions": 1810,
-      "deletions": 25,
-      "changedFiles": 11
-    },
-    {
-      "number": 31825,
-      "title": "feat(plugins): add code-mode plugin \u2014 sandboxed execute_code tool",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T15:13:56Z",
-      "mergedAt": null,
-      "additions": 1137,
-      "deletions": 25,
-      "changedFiles": 9
-    }
-  ],
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
-    "Discussion",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-02-16": 2
-  },
-  "recentActivityDays": {
-    "2026-03-02": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

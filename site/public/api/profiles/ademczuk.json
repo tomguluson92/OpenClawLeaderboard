@@ -3,88 +3,163 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5212682?v=4",
   "githubUrl": "https://github.com/ademczuk",
   "score": {
-    "score": 948.34,
-    "prScore": 556.34,
+    "score": 1035.34,
+    "prScore": 641.34,
     "issueScore": 0,
-    "reviewScore": 336,
-    "commentScore": 56
+    "reviewScore": 339,
+    "commentScore": 55
   },
-  "tier": "veteran",
+  "tier": "elite",
   "characterClass": "Reviewer",
   "stats": {
-    "commits": 7,
-    "prs": 41,
-    "prsMerged": 7,
-    "prAdditions": 6881,
-    "prDeletions": 1494986,
-    "prChangedFiles": 8229,
-    "prMergeRate": 17,
+    "commits": 17,
+    "prs": 43,
+    "prsMerged": 14,
+    "prAdditions": 6341,
+    "prDeletions": 1494966,
+    "prChangedFiles": 8224,
+    "prMergeRate": 33,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 112,
+    "reviews": 113,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 112,
-    "commitAdditions": 876,
-    "commitDeletions": 53,
-    "weeklyCommits": 4,
-    "monthlyCommits": 14,
-    "commitChangedFiles": 35
+    "comments": 110,
+    "commitAdditions": 1089,
+    "commitDeletions": 121,
+    "commitChangedFiles": 57
   },
   "period": {
     "weekly": {
-      "prs": 36,
+      "prs": 21,
       "issues": 0,
-      "reviews": 105,
-      "comments": 100,
-      "commitAdditions": 352,
-      "commitDeletions": 14,
-      "commits": 4
+      "reviews": 62,
+      "comments": 53,
+      "commitAdditions": 539,
+      "commitDeletions": 80,
+      "commits": 13
     },
     "monthly": {
-      "prs": 41,
+      "prs": 43,
       "issues": 0,
-      "reviews": 112,
-      "comments": 112,
-      "commitAdditions": 876,
-      "commitDeletions": 53,
-      "commits": 7
+      "reviews": 113,
+      "comments": 110,
+      "commitAdditions": 1089,
+      "commitDeletions": 121,
+      "commits": 17
     }
   },
-  "firstContribution": "2026-03-02T09:39:04Z",
-  "lastContribution": "2026-03-12T02:02:37Z",
+  "firstContribution": "2026-03-05T12:53:20Z",
+  "lastContribution": "2026-03-14T23:42:12Z",
   "recentPRs": [
+    {
+      "number": 46658,
+      "title": "fix(gateway): remove re-introduced auth.mode=none pairing bypass",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T23:42:12Z",
+      "mergedAt": "2026-03-14T23:46:24Z",
+      "additions": 1,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 46649,
+      "title": "revert: restore supportsUsageInStreaming=false default for non-native endpoints",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T23:29:30Z",
+      "mergedAt": "2026-03-14T23:34:05Z",
+      "additions": 27,
+      "deletions": 30,
+      "changedFiles": 3
+    },
+    {
+      "number": 46564,
+      "title": "style(gateway): fix oxfmt formatting in message-handler skipPairing",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T20:40:50Z",
+      "mergedAt": "2026-03-14T20:46:53Z",
+      "additions": 2,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 46515,
+      "title": "fix(node): remove debug console.log on node host startup",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T18:52:02Z",
+      "mergedAt": "2026-03-14T20:17:48Z",
+      "additions": 1,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 46500,
+      "title": "fix(agents): restore usage tracking for non-native openai-completions providers",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-14T18:28:49Z",
+      "mergedAt": "2026-03-14T18:41:21Z",
+      "additions": 30,
+      "deletions": 19,
+      "changedFiles": 3
+    },
+    {
+      "number": 44159,
+      "title": "docs: codify American English spelling convention",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T15:14:25Z",
+      "mergedAt": "2026-03-12T19:45:18Z",
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 43805,
+      "title": "docs: add ademczuk to maintainers list",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T07:31:39Z",
+      "mergedAt": "2026-03-14T18:12:48Z",
+      "additions": 3,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 43502,
       "title": "fix(feishu): clear stale streamingStartPromise on card creation failure",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T22:25:13Z",
-      "mergedAt": null,
-      "additions": 47,
+      "mergedAt": "2026-03-14T18:15:50Z",
+      "additions": 48,
       "deletions": 0,
       "changedFiles": 3
     },
     {
       "number": 43478,
       "title": "fix(gateway): skip device pairing when auth.mode=none",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T21:16:11Z",
-      "mergedAt": null,
-      "additions": 6,
-      "deletions": 1,
+      "mergedAt": "2026-03-14T18:17:40Z",
+      "additions": 4,
+      "deletions": 0,
       "changedFiles": 2
     },
     {
       "number": 43450,
       "title": "fix(auth): clear stale lockout state when user re-authenticates",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T20:31:00Z",
-      "mergedAt": null,
-      "additions": 98,
-      "deletions": 8,
+      "mergedAt": "2026-03-14T18:20:13Z",
+      "additions": 95,
+      "deletions": 5,
       "changedFiles": 3
     },
     {
@@ -196,87 +271,50 @@
       "additions": 381,
       "deletions": 5,
       "changedFiles": 6
-    },
-    {
-      "number": 40338,
-      "title": "fix(agents): show env var hint when provider API key is missing",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T23:05:38Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 13,
-      "changedFiles": 4
-    },
-    {
-      "number": 39312,
-      "title": "fix(daemon): extract schtasks result code across Windows versions and locales",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T00:58:41Z",
-      "mergedAt": null,
-      "additions": 124,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 39230,
-      "title": "fix(gateway): detect provider reference object in password auth config",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T22:16:08Z",
-      "mergedAt": null,
-      "additions": 30,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 39226,
-      "title": "fix(voice-call): add speed and instructions to OpenAI TTS config schema",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T22:04:37Z",
-      "mergedAt": "2026-03-11T17:45:48Z",
-      "additions": 209,
-      "deletions": 4,
-      "changedFiles": 11
-    },
-    {
-      "number": 39219,
-      "title": "fix(agents): strip store param from payload when supportsStore is false",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T21:57:00Z",
-      "mergedAt": null,
-      "additions": 34,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 39215,
-      "title": "fix(agents): warn on unrecognised model ID instead of silently falling back",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T21:48:36Z",
-      "mergedAt": null,
-      "additions": 88,
-      "deletions": 0,
-      "changedFiles": 5
-    },
-    {
-      "number": 39201,
-      "title": "fix(ci): resolve pre-existing type errors on main",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T21:33:50Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 8,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 43450,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T17:29:03Z"
+    },
+    {
+      "prNumber": 43450,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:30:28Z"
+    },
+    {
+      "prNumber": 43478,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T21:22:42Z"
+    },
+    {
+      "prNumber": 44159,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T15:43:18Z"
+    },
+    {
+      "prNumber": 43983,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T11:40:00Z"
+    },
+    {
+      "prNumber": 43965,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T11:39:41Z"
+    },
+    {
+      "prNumber": 43959,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T11:39:23Z"
+    },
+    {
+      "prNumber": 43502,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T05:28:29Z"
+    },
     {
       "prNumber": 43478,
       "state": "COMMENTED",
@@ -336,48 +374,60 @@
       "prNumber": 42318,
       "state": "COMMENTED",
       "createdAt": "2026-03-11T07:05:29Z"
-    },
-    {
-      "prNumber": 40409,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T12:22:04Z"
-    },
-    {
-      "prNumber": 40409,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T12:14:15Z"
-    },
-    {
-      "prNumber": 40395,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:53:39Z"
-    },
-    {
-      "prNumber": 40391,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:53:28Z"
-    },
-    {
-      "prNumber": 40409,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:52:55Z"
-    },
-    {
-      "prNumber": 40391,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:50:22Z"
-    },
-    {
-      "prNumber": 40391,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:50:10Z"
-    },
-    {
-      "prNumber": 40391,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:49:58Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-11": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 12
+    },
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 38
+    },
+    "2026-03-08": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-07": {
+      "prs": 17,
+      "issues": 0,
+      "reviews": 29
+    },
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 17
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -418,36 +468,11 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-14": 9,
+    "2026-03-12": 1,
     "2026-03-11": 3,
     "2026-03-07": 1,
     "2026-03-03": 2,
     "2026-03-02": 1
-  },
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 12
-    },
-    "2026-03-10": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 8
-    },
-    "2026-03-08": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

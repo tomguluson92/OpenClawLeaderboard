@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/65210143?v=4",
   "githubUrl": "https://github.com/t2wei",
   "score": {
-    "score": 60.73,
-    "prScore": 55.23,
+    "score": 57.03,
+    "prScore": 51.53,
     "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -15,8 +15,8 @@
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 944,
-    "prDeletions": 439,
+    "prAdditions": 652,
+    "prDeletions": 71,
     "prChangedFiles": 19,
     "prMergeRate": 0,
     "issues": 1,
@@ -27,14 +27,12 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -56,13 +54,13 @@
   "recentPRs": [
     {
       "number": 43348,
-      "title": "feat(acp): A2A communication \u2014 acp_send tool + callback channel routing",
+      "title": "feat(acp): add acp_send tool and sessions_cancel tool",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-11T16:39:12Z",
       "mergedAt": null,
-      "additions": 667,
-      "deletions": 368,
+      "additions": 375,
+      "deletions": 0,
       "changedFiles": 10
     },
     {
@@ -80,20 +78,13 @@
   "recentIssues": [
     {
       "number": 35598,
-      "title": "Feishu outbound adapter ignores threadId \u2014 ACP replies land in group root instead of topic",
+      "title": "Feishu outbound adapter ignores threadId — ACP replies land in group root instead of topic",
       "state": "OPEN",
       "createdAt": "2026-03-05T06:42:09Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
@@ -110,5 +101,12 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

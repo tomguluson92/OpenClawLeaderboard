@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/107440965?u=1d254d8278f2632c5ba8c289aca77ac531ef3cd4&v=4",
   "githubUrl": "https://github.com/Sovtoshi-SC",
   "score": {
-    "score": 7.21,
-    "prScore": 7.21,
+    "score": 10.66,
+    "prScore": 10.66,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -14,22 +14,20 @@
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
+    "prsMerged": 1,
     "prAdditions": 1,
     "prDeletions": 0,
     "prChangedFiles": 1,
-    "prMergeRate": 0,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
-    "commitAdditions": 0,
+    "commitAdditions": 1,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "commitChangedFiles": 1
   },
   "period": {
     "weekly": {
@@ -37,18 +35,18 @@
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
+      "commitAdditions": 1,
       "commitDeletions": 0,
-      "commits": 0
+      "commits": 1
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
+      "commitAdditions": 1,
       "commitDeletions": 0,
-      "commits": 0
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-11T06:14:58Z",
@@ -57,10 +55,10 @@
     {
       "number": 42879,
       "title": "small addition to .gitignore ",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T06:14:58Z",
-      "mergedAt": null,
+      "mergedAt": "2026-03-13T12:25:48Z",
       "additions": 1,
       "deletions": 0,
       "changedFiles": 1
@@ -68,16 +66,18 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-13": 1
   }
 }

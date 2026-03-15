@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/35731361?v=4",
   "githubUrl": "https://github.com/NikhilGaddam",
   "score": {
-    "score": 16.95,
+    "score": 11.95,
     "prScore": 11.95,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 5,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -43,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-01T01:58:03Z",
+  "firstContribution": "2026-03-05T22:56:49Z",
   "lastContribution": "2026-03-05T22:56:49Z",
   "recentPRs": [
     {
@@ -66,32 +64,18 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 30215,
-      "title": "[Feature]: Support Amazon Bedrock API Key (Bearer Token) Authentication",
-      "state": "OPEN",
-      "createdAt": "2026-03-01T01:58:03Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-01": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

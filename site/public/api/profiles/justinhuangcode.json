@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/252443740?v=4",
   "githubUrl": "https://github.com/justinhuangcode",
   "score": {
-    "score": 257.05,
-    "prScore": 239.55,
+    "score": 228.57,
+    "prScore": 209.57,
     "issueScore": 0,
-    "reviewScore": 15,
-    "commentScore": 2.5
+    "reviewScore": 18,
+    "commentScore": 1
   },
   "tier": "active",
-  "characterClass": "Builder",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 14,
-    "prs": 8,
-    "prsMerged": 3,
-    "prAdditions": 252,
-    "prDeletions": 60,
-    "prChangedFiles": 21,
-    "prMergeRate": 38,
+    "prs": 5,
+    "prsMerged": 1,
+    "prAdditions": 358,
+    "prDeletions": 47,
+    "prChangedFiles": 12,
+    "prMergeRate": 20,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 2,
     "commitAdditions": 712,
     "commitDeletions": 39,
-    "weeklyCommits": 2,
-    "monthlyCommits": 12,
     "commitChangedFiles": 36
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
       "reviews": 5,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 33,
       "commitDeletions": 2,
       "commits": 2
     },
     "monthly": {
-      "prs": 8,
+      "prs": 5,
       "issues": 0,
-      "reviews": 5,
-      "comments": 5,
+      "reviews": 6,
+      "comments": 2,
       "commitAdditions": 325,
       "commitDeletions": 22,
       "commits": 11
     }
   },
-  "firstContribution": "2026-03-02T15:12:26Z",
-  "lastContribution": "2026-03-10T18:32:11Z",
+  "firstContribution": "2026-03-06T10:30:50Z",
+  "lastContribution": "2026-03-13T17:54:25Z",
   "recentPRs": [
+    {
+      "number": 45351,
+      "title": "fix(infra): cache provider usage summary to prevent 429s",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T17:54:25Z",
+      "mergedAt": null,
+      "additions": 199,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 45293,
+      "title": "fix(agents): recognize core tools that carry metadata in policy pipeline",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T16:37:57Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 40889,
       "title": "fix(agents): prevent task prompt leak in subagent error announcements",
@@ -79,72 +99,22 @@
     {
       "number": 37640,
       "title": "fix(onboard): use inspection instead of resolution for Telegram SecretRef tokens",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T10:30:50Z",
       "mergedAt": null,
       "additions": 33,
       "deletions": 38,
       "changedFiles": 3
-    },
-    {
-      "number": 32111,
-      "title": "fix(cron): strip HEARTBEAT_OK from announce completion messages",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T19:49:57Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 31995,
-      "title": "fix(agents): truncate tool call IDs exceeding 40 chars for OpenAI provider",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T17:51:14Z",
-      "mergedAt": null,
-      "additions": 16,
-      "deletions": 10,
-      "changedFiles": 3
-    },
-    {
-      "number": 31923,
-      "title": "fix(slack): apply mrkdwn conversion in streaming delivery path",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T16:50:01Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 31882,
-      "title": "fix(tools): honor fsPolicy.workspaceOnly in image/pdf tool localRoots",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T16:21:48Z",
-      "mergedAt": "2026-03-02T19:24:33Z",
-      "additions": 74,
-      "deletions": 2,
-      "changedFiles": 5
-    },
-    {
-      "number": 31821,
-      "title": "fix(agents): normalize volcengine-plan and byteplus-plan provider IDs for auth lookup",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T15:12:26Z",
-      "mergedAt": "2026-03-02T19:22:19Z",
-      "additions": 24,
-      "deletions": 3,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 45293,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T17:36:14Z"
+    },
     {
       "prNumber": 37640,
       "state": "COMMENTED",
@@ -171,22 +141,12 @@
       "createdAt": "2026-03-06T16:46:55Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-08": 2,
-    "2026-03-02": 2,
-    "2026-02-25": 2,
-    "2026-02-24": 4,
-    "2026-02-23": 1,
-    "2026-02-02": 3
-  },
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
@@ -202,15 +162,25 @@
       "issues": 0,
       "reviews": 1
     },
-    "2026-03-02": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
     "2026-03-10": {
       "prs": 0,
       "issues": 0,
       "reviews": 2
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-08": 2,
+    "2026-03-02": 2,
+    "2026-02-25": 2,
+    "2026-02-24": 4,
+    "2026-02-23": 1,
+    "2026-02-02": 3
   }
 }

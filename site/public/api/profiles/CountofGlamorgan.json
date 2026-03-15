@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/59939121?v=4",
   "githubUrl": "https://github.com/CountofGlamorgan",
   "score": {
-    "score": 43.25,
+    "score": 37.75,
     "prScore": 9.75,
-    "issueScore": 33,
+    "issueScore": 28,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Hunter",
@@ -19,22 +19,20 @@
     "prDeletions": 55,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 6,
+    "issues": 5,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 5,
+      "issues": 4,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -43,21 +41,21 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 6,
+      "issues": 5,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-01T13:30:14Z",
+  "firstContribution": "2026-03-05T14:34:18Z",
   "lastContribution": "2026-03-11T07:39:11Z",
   "recentPRs": [
     {
       "number": 42950,
       "title": "fix(feishu): preserve UTF-8 filenames in file uploads",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T07:39:11Z",
       "mergedAt": null,
@@ -101,29 +99,9 @@
       "state": "OPEN",
       "createdAt": "2026-03-05T14:34:18Z",
       "closedAt": null
-    },
-    {
-      "number": 30675,
-      "title": "web_search tool returns missing_gemini_api_key for concurrent subagent calls",
-      "state": "OPEN",
-      "createdAt": "2026-03-01T13:30:14Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
@@ -144,11 +122,18 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-01": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {}
 }

@@ -1,0 +1,92 @@
+{
+  "username": "bwjoke",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1284814?v=4",
+  "githubUrl": "https://github.com/bwjoke",
+  "score": {
+    "score": 24.59,
+    "prScore": 16.59,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 19,
+    "prDeletions": 0,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 19,
+    "commitDeletions": 0,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 19,
+      "commitDeletions": 0,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 19,
+      "commitDeletions": 0,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-12T09:54:04Z",
+  "lastContribution": "2026-03-12T09:55:00Z",
+  "recentPRs": [
+    {
+      "number": 43917,
+      "title": "fix(failover): classify ZenMux quota-refresh 402 as rate_limit",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T09:55:00Z",
+      "mergedAt": "2026-03-12T21:06:44Z",
+      "additions": 19,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43915,
+      "title": "fix(failover): classify ZenMux subscription-quota 402 as rate_limit for fallback",
+      "state": "CLOSED",
+      "createdAt": "2026-03-12T09:54:04Z",
+      "closedAt": "2026-03-12T21:06:46Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-12": 1
+  }
+}

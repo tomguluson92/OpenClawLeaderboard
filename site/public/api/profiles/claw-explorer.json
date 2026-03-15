@@ -1,0 +1,156 @@
+{
+  "username": "claw-explorer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/263387821?v=4",
+  "githubUrl": "https://github.com/claw-explorer",
+  "score": {
+    "score": 60.75,
+    "prScore": 35.75,
+    "issueScore": 5,
+    "reviewScore": 18,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 392,
+    "prDeletions": 74,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-11T20:07:28Z",
+  "lastContribution": "2026-03-12T23:45:40Z",
+  "recentPRs": [
+    {
+      "number": 44455,
+      "title": "fix(config): restore SecretRef id field when redacted (#44357)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T23:45:40Z",
+      "mergedAt": null,
+      "additions": 134,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 44433,
+      "title": "fix(daemon): add Nix Home Manager PATH support to service environment",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T23:14:31Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 44427,
+      "title": "feat(discord): add connectStagger config to prevent rate limits",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T22:49:28Z",
+      "mergedAt": null,
+      "additions": 176,
+      "deletions": 71,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43440,
+      "title": "imsg should not require parent node process to have Full Disk Access",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T20:07:28Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 44444,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T23:42:18Z"
+    },
+    {
+      "prNumber": 44438,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T23:42:11Z"
+    },
+    {
+      "prNumber": 44445,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T23:42:10Z"
+    },
+    {
+      "prNumber": 44422,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T23:12:33Z"
+    },
+    {
+      "prNumber": 44429,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T23:12:32Z"
+    },
+    {
+      "prNumber": 44430,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T23:12:31Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

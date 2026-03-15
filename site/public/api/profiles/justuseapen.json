@@ -3,37 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4587141?u=ce033e1a02671c7e877d3fe497f2de57985e72b8&v=4",
   "githubUrl": "https://github.com/justuseapen",
   "score": {
-    "score": 152.38,
-    "prScore": 151.38,
+    "score": 137.41,
+    "prScore": 136.91,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 5880,
-    "prDeletions": 76,
-    "prChangedFiles": 123,
+    "prAdditions": 3574,
+    "prDeletions": 45,
+    "prChangedFiles": 72,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T18:34:30Z",
+  "firstContribution": "2026-03-04T18:44:24Z",
   "lastContribution": "2026-03-05T22:09:14Z",
   "recentPRs": [
     {
@@ -75,28 +73,10 @@
       "additions": 2645,
       "deletions": 45,
       "changedFiles": 58
-    },
-    {
-      "number": 32043,
-      "title": "feat: enable auto-merge for upstream sync pipeline",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T18:34:30Z",
-      "mergedAt": null,
-      "additions": 2306,
-      "deletions": 31,
-      "changedFiles": 51
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion",
-    "Large-Scale Changes"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
@@ -107,11 +87,12 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

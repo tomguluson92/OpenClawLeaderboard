@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/264718576?v=4",
   "githubUrl": "https://github.com/wangyanx333-bot",
   "score": {
-    "score": 14.91,
+    "score": 17.91,
     "prScore": 9.91,
-    "issueScore": 5,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -20,15 +20,13 @@
     "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -70,23 +68,23 @@
     {
       "number": 42348,
       "title": "Telegram polling can be interrupted by unrelated Slack DNS errors and fail to self-recover",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-10T16:32:17Z",
-      "closedAt": null
+      "closedAt": "2026-03-12T07:44:19Z"
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

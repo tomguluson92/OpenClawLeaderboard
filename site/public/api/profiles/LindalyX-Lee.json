@@ -27,14 +27,12 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 5,
+      "prs": 1,
+      "issues": 2,
       "reviews": 0,
       "comments": 2,
       "commitAdditions": 0,
@@ -102,7 +100,7 @@
   "recentIssues": [
     {
       "number": 39818,
-      "title": "Silent model fallback \u2014 no user notification when primary model fails",
+      "title": "Silent model fallback — no user notification when primary model fails",
       "state": "OPEN",
       "createdAt": "2026-03-08T12:21:21Z",
       "closedAt": null
@@ -116,7 +114,7 @@
     },
     {
       "number": 38730,
-      "title": "Cron session accumulation can silently exhaust agent context window \u2014 no guardrails or warnings",
+      "title": "Cron session accumulation can silently exhaust agent context window — no guardrails or warnings",
       "state": "OPEN",
       "createdAt": "2026-03-07T09:44:59Z",
       "closedAt": null
@@ -137,19 +135,6 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 1,
@@ -166,5 +151,18 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {}
 }

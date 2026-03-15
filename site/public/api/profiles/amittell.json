@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1388680?u=fc90f7e097f51fcf33433bbee8e6892a209c59b1&v=4",
   "githubUrl": "https://github.com/amittell",
   "score": {
-    "score": 332.59,
-    "prScore": 197.59,
+    "score": 354.05,
+    "prScore": 219.05,
     "issueScore": 5,
     "reviewScore": 126,
     "commentScore": 4
@@ -15,9 +15,9 @@
     "commits": 0,
     "prs": 9,
     "prsMerged": 0,
-    "prAdditions": 7619,
-    "prDeletions": 265,
-    "prChangedFiles": 79,
+    "prAdditions": 30768,
+    "prDeletions": 2197,
+    "prChangedFiles": 126,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
@@ -27,15 +27,13 @@
     "comments": 8,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 9,
+      "prs": 7,
       "issues": 1,
-      "reviews": 42,
+      "reviews": 37,
       "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -61,8 +59,8 @@
       "merged": false,
       "createdAt": "2026-03-11T22:10:20Z",
       "mergedAt": null,
-      "additions": 818,
-      "deletions": 1,
+      "additions": 999,
+      "deletions": 0,
       "changedFiles": 2
     },
     {
@@ -72,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-11T22:09:24Z",
       "mergedAt": null,
-      "additions": 2009,
-      "deletions": 3,
-      "changedFiles": 5
+      "additions": 5585,
+      "deletions": 186,
+      "changedFiles": 28
     },
     {
       "number": 42485,
@@ -83,8 +81,8 @@
       "merged": false,
       "createdAt": "2026-03-10T20:16:08Z",
       "mergedAt": null,
-      "additions": 104,
-      "deletions": 2,
+      "additions": 183,
+      "deletions": 58,
       "changedFiles": 2
     },
     {
@@ -94,8 +92,8 @@
       "merged": false,
       "createdAt": "2026-03-10T02:27:23Z",
       "mergedAt": null,
-      "additions": 1463,
-      "deletions": 7,
+      "additions": 1445,
+      "deletions": 380,
       "changedFiles": 6
     },
     {
@@ -105,9 +103,9 @@
       "merged": false,
       "createdAt": "2026-03-10T01:43:56Z",
       "mergedAt": null,
-      "additions": 2171,
-      "deletions": 50,
-      "changedFiles": 20
+      "additions": 17020,
+      "deletions": 1414,
+      "changedFiles": 43
     },
     {
       "number": 40384,
@@ -116,8 +114,8 @@
       "merged": false,
       "createdAt": "2026-03-09T00:19:40Z",
       "mergedAt": null,
-      "additions": 273,
-      "deletions": 43,
+      "additions": 4559,
+      "deletions": 0,
       "changedFiles": 6
     },
     {
@@ -149,9 +147,9 @@
       "merged": false,
       "createdAt": "2026-03-05T23:14:32Z",
       "mergedAt": null,
-      "additions": 651,
+      "additions": 847,
       "deletions": 128,
-      "changedFiles": 5
+      "changedFiles": 6
     }
   ],
   "recentIssues": [
@@ -265,6 +263,43 @@
       "createdAt": "2026-03-10T03:03:10Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 16
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 13
+    },
+    "2026-03-06": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -279,42 +314,15 @@
       "description": "10+ reviews"
     },
     {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 3,
-      "issues": 1,
-      "reviews": 7
-    },
-    "2026-03-09": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-12": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 13
-    }
-  }
+  "recentCommitDays": {}
 }

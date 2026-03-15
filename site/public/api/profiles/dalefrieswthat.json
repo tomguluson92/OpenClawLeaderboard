@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/176454532?u=e2e3338f10a7f2752e603b42b5f6988fa638c3a2&v=4",
   "githubUrl": "https://github.com/dalefrieswthat",
   "score": {
-    "score": 64.28,
-    "prScore": 44.78,
+    "score": 34.65,
+    "prScore": 33.65,
     "issueScore": 0,
-    "reviewScore": 18,
-    "commentScore": 1.5
+    "reviewScore": 0,
+    "commentScore": 1
   },
-  "tier": "regular",
-  "characterClass": "Reviewer",
+  "tier": "beginner",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 90,
-    "prDeletions": 34,
-    "prChangedFiles": 6,
+    "prAdditions": 53,
+    "prDeletions": 30,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 2,
     "commitAdditions": 141,
     "commitDeletions": 33,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 12
   },
   "period": {
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
-      "reviews": 6,
-      "comments": 3,
+      "reviews": 0,
+      "comments": 2,
       "commitAdditions": 141,
       "commitDeletions": 33,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-04T01:26:31Z",
+  "firstContribution": "2026-03-11T17:41:04Z",
   "lastContribution": "2026-03-11T18:02:07Z",
   "recentPRs": [
     {
@@ -64,72 +62,24 @@
       "additions": 53,
       "deletions": 30,
       "changedFiles": 4
-    },
-    {
-      "number": 33726,
-      "title": "fix(agents): always register Ollama provider when explicitly configured",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T01:26:31Z",
-      "mergedAt": null,
-      "additions": 37,
-      "deletions": 4,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 33726,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T01:58:21Z"
-    },
-    {
-      "prNumber": 33726,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T01:55:39Z"
-    },
-    {
-      "prNumber": 33726,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T01:55:37Z"
-    },
-    {
-      "prNumber": 33726,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T01:55:36Z"
-    },
-    {
-      "prNumber": 33726,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T01:55:34Z"
-    },
-    {
-      "prNumber": 33726,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T01:55:26Z"
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
     }
-  ],
+  },
   "skills": [
     "Pull Requests",
-    "Code Review",
     "Discussion"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-03-04": 1,
     "2026-02-27": 1
-  },
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 6
-    }
   }
 }

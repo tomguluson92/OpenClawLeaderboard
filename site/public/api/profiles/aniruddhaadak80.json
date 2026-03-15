@@ -1,0 +1,263 @@
+{
+  "username": "aniruddhaadak80",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/127435065?u=e066c799d8e4e5548818545d9e3028aaf707d359&v=4",
+  "githubUrl": "https://github.com/aniruddhaadak80",
+  "score": {
+    "score": 178.04,
+    "prScore": 128.04,
+    "issueScore": 50,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 10,
+    "prsMerged": 0,
+    "prAdditions": 276,
+    "prDeletions": 19,
+    "prChangedFiles": 34,
+    "prMergeRate": 0,
+    "issues": 10,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 10,
+      "issues": 10,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 10,
+      "issues": 10,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T14:51:13Z",
+  "lastContribution": "2026-03-12T18:07:00Z",
+  "recentPRs": [
+    {
+      "number": 44234,
+      "title": "docs(windows): note Git Bash requirement for A2UI builds",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:34:14Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 44228,
+      "title": "fix(reply): normalize Windows media paths for dedupe",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:24:36Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 44215,
+      "title": "fix(path): add Windows PATH bootstrap dirs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:19:02Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 44211,
+      "title": "fix(build): use Git Bash wrapper for A2UI bundling on Windows",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T16:11:04Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 44194,
+      "title": "test(compaction): make workspace path assertion portable",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T15:56:42Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 44163,
+      "title": "feat(compaction): expose summary in after_compaction hooks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T15:17:45Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 5,
+      "changedFiles": 9
+    },
+    {
+      "number": 44154,
+      "title": "feat(compaction): include sessionFile in after_compaction hooks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T15:09:39Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 44152,
+      "title": "feat(compaction): include sessionFile in before_compaction hooks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T15:07:38Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 44150,
+      "title": "feat(compaction): expose messages to before_compaction hooks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T15:05:01Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 44144,
+      "title": "docs(skills): clarify model-usage portable input mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T14:51:13Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 44298,
+      "title": "Audit docs credential examples for secret-scanner-safe placeholders",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T18:07:00Z",
+      "closedAt": null
+    },
+    {
+      "number": 44297,
+      "title": "Surface Slack external arg-menu fallback as a visible health signal",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T18:07:00Z",
+      "closedAt": null
+    },
+    {
+      "number": 44296,
+      "title": "Show the actual PowerShell profile path during onboarding shell-completion setup",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T18:07:00Z",
+      "closedAt": null
+    },
+    {
+      "number": 44295,
+      "title": "Refresh fallback plugin gateway context after runtime config changes",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T18:07:00Z",
+      "closedAt": null
+    },
+    {
+      "number": 44294,
+      "title": "Preserve structured ACP backend error kinds instead of mapping all errors to `end_turn`",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T18:07:00Z",
+      "closedAt": null
+    },
+    {
+      "number": 44293,
+      "title": "Make `pnpm check:docs` work in native PowerShell",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T18:05:47Z",
+      "closedAt": null
+    },
+    {
+      "number": 44292,
+      "title": "Add an autofix or generator for missing config field labels",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T18:05:46Z",
+      "closedAt": null
+    },
+    {
+      "number": 44291,
+      "title": "Add native PowerShell smoke coverage for contributor commands",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T18:05:45Z",
+      "closedAt": null
+    },
+    {
+      "number": 44290,
+      "title": "Clarify whether Feishu `encryptKey` should remain secretref-eligible",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T18:05:44Z",
+      "closedAt": null
+    },
+    {
+      "number": 44289,
+      "title": "Generate secretref reference docs from secret target registry metadata",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T18:05:43Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 10,
+      "issues": 10,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {}
+}

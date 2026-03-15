@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1996768?u=3e42d5bd458000486d71728af96deafb290b5a81&v=4",
   "githubUrl": "https://github.com/raw34",
   "score": {
-    "score": 114.25,
-    "prScore": 72.75,
-    "issueScore": 20,
-    "reviewScore": 18,
-    "commentScore": 3.5
+    "score": 65.05,
+    "prScore": 27.05,
+    "issueScore": 25,
+    "reviewScore": 12,
+    "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1016,
-    "prDeletions": 70,
-    "prChangedFiles": 18,
+    "prAdditions": 214,
+    "prDeletions": 15,
+    "prChangedFiles": 8,
     "prMergeRate": 0,
-    "issues": 4,
+    "issues": 5,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 1,
+      "prs": 2,
+      "issues": 2,
+      "reviews": 4,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
-      "issues": 4,
-      "reviews": 6,
-      "comments": 7,
+      "prs": 2,
+      "issues": 5,
+      "reviews": 4,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-03T16:25:08Z",
-  "lastContribution": "2026-03-12T02:41:15Z",
+  "lastContribution": "2026-03-14T00:07:33Z",
   "recentPRs": [
+    {
+      "number": 44526,
+      "title": "fix(discord): add content-based mention detection fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T01:50:44Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 43588,
       "title": "feat(slack): add allowBots \"mentions\" mode (parity with Discord)",
@@ -64,53 +73,16 @@
       "additions": 132,
       "deletions": 14,
       "changedFiles": 6
-    },
-    {
-      "number": 34169,
-      "title": "fix(plugin-sdk): narrow root alias fallback to legacy exports",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T08:30:59Z",
-      "mergedAt": null,
-      "additions": 155,
-      "deletions": 26,
-      "changedFiles": 2
-    },
-    {
-      "number": 34151,
-      "title": "fix(plugin-sdk): avoid hanging root alias source loads",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T08:06:19Z",
-      "mergedAt": null,
-      "additions": 0,
-      "deletions": 0,
-      "changedFiles": 0
-    },
-    {
-      "number": 33683,
-      "title": "fix(outbound): hydrate send buffers into media",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T00:40:58Z",
-      "mergedAt": null,
-      "additions": 717,
-      "deletions": 30,
-      "changedFiles": 8
-    },
-    {
-      "number": 33252,
-      "title": "fix(media): allow sandbox workspaces for local attachments",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T16:25:09Z",
-      "mergedAt": null,
-      "additions": 12,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
+    {
+      "number": 44524,
+      "title": "[Bug]: Discord mention detection fails when mentionedUsers array is empty",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T01:50:18Z",
+      "closedAt": null
+    },
     {
       "number": 43587,
       "title": "[Feature]: Slack allowBots: \"mentions\" mode (parity with Discord)",
@@ -142,36 +114,53 @@
   ],
   "recentReviews": [
     {
+      "prNumber": 44526,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T00:07:33Z"
+    },
+    {
+      "prNumber": 44526,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T03:22:36Z"
+    },
+    {
+      "prNumber": 44526,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T02:00:59Z"
+    },
+    {
       "prNumber": 43588,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T02:41:15Z"
-    },
-    {
-      "prNumber": 33683,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T08:42:58Z"
-    },
-    {
-      "prNumber": 33683,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T00:56:22Z"
-    },
-    {
-      "prNumber": 33683,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T00:56:21Z"
-    },
-    {
-      "prNumber": 33683,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T00:56:20Z"
-    },
-    {
-      "prNumber": 33683,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T00:56:19Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    },
+    "2026-03-04": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -180,27 +169,15 @@
   ],
   "achievements": [
     {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-12": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 1
-    },
-    "2026-03-04": {
-      "prs": 3,
-      "issues": 2,
-      "reviews": 5
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

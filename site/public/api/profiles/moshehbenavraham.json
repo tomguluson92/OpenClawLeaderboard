@@ -3,90 +3,107 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17122072?u=88f5d77677e24040c4299fe1ede12e338279209c&v=4",
   "githubUrl": "https://github.com/moshehbenavraham",
   "score": {
-    "score": 13.83,
-    "prScore": 8.83,
-    "issueScore": 5,
+    "score": 45.95,
+    "prScore": 37.45,
+    "issueScore": 8,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 13,
-    "prDeletions": 7,
-    "prChangedFiles": 2,
-    "prMergeRate": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 236,
+    "prDeletions": 10,
+    "prChangedFiles": 6,
+    "prMergeRate": 50,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "comments": 1,
+    "commitAdditions": 234,
+    "commitDeletions": 10,
+    "commitChangedFiles": 5
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1,
+      "commitAdditions": 234,
+      "commitDeletions": 10,
+      "commits": 1
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1,
+      "commitAdditions": 234,
+      "commitDeletions": 10,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-08T18:57:06Z",
-  "lastContribution": "2026-03-08T18:58:30Z",
+  "lastContribution": "2026-03-13T15:20:05Z",
   "recentPRs": [
+    {
+      "number": 44978,
+      "title": "fix(deps): add missing packages to onlyBuiltDependencies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:19:14Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 40176,
       "title": "fix: resolve target agent workspace for cross-agent subagent spawns",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-08T18:58:30Z",
-      "mergedAt": null,
-      "additions": 13,
-      "deletions": 7,
-      "changedFiles": 2
+      "mergedAt": "2026-03-13T15:09:51Z",
+      "additions": 234,
+      "deletions": 10,
+      "changedFiles": 5
     }
   ],
   "recentIssues": [
     {
       "number": 40171,
       "title": "Cross-agent subagent spawn inherits caller's workspace instead of target agent's",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-08T18:57:06Z",
-      "closedAt": null
+      "closedAt": "2026-03-13T15:09:53Z"
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-13": 1
   }
 }

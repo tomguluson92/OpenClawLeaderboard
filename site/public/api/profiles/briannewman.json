@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/16906394?v=4",
   "githubUrl": "https://github.com/briannewman",
   "score": {
-    "score": 24.12,
+    "score": 29.62,
     "prScore": 9.12,
-    "issueScore": 10,
+    "issueScore": 15,
     "reviewScore": 3,
-    "commentScore": 2
+    "commentScore": 2.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,40 +19,38 @@
     "prDeletions": 24,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 3,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 3,
       "reviews": 1,
-      "comments": 4,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 3,
       "reviews": 1,
-      "comments": 4,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-10T06:54:21Z",
-  "lastContribution": "2026-03-11T15:00:49Z",
+  "lastContribution": "2026-03-14T06:50:40Z",
   "recentPRs": [
     {
       "number": 41861,
@@ -68,6 +66,13 @@
   ],
   "recentIssues": [
     {
+      "number": 45795,
+      "title": "[Bug]: v2026.3.13 git source build fails — missing batchViaPlaywright export in pw-tools-core.ts",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T06:19:33Z",
+      "closedAt": null
+    },
+    {
       "number": 42530,
       "title": "Mac app kills running gateway on launch despite disable-launchagent sentinel",
       "state": "OPEN",
@@ -76,7 +81,7 @@
     },
     {
       "number": 41862,
-      "title": "export-session HTML renders blank \u2014 template placeholders broken by formatter",
+      "title": "export-session HTML renders blank — template placeholders broken by formatter",
       "state": "OPEN",
       "createdAt": "2026-03-10T06:54:34Z",
       "closedAt": null
@@ -89,6 +94,18 @@
       "createdAt": "2026-03-10T22:36:03Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 1
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -102,12 +119,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 1
-    }
-  }
+  "recentCommitDays": {}
 }

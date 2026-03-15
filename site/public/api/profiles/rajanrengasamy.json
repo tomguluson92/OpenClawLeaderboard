@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/607881?u=9c085b7bb25ea1bc05851b13dca1c45612562823&v=4",
   "githubUrl": "https://github.com/rajanrengasamy",
   "score": {
-    "score": 17.89,
+    "score": 12.39,
     "prScore": 12.39,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,16 +19,14 @@
     "prDeletions": 0,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -43,15 +41,15 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-02-27T10:26:08Z",
+  "firstContribution": "2026-03-10T13:17:51Z",
   "lastContribution": "2026-03-10T13:17:51Z",
   "recentPRs": [
     {
@@ -66,33 +64,18 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 28584,
-      "title": "[RFC] Event-driven cron scheduling: job chaining and reactive triggers",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T10:26:08Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-02-27": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/38732970?v=4",
   "githubUrl": "https://github.com/cgdusek",
   "score": {
-    "score": 627.95,
-    "prScore": 375.45,
+    "score": 617.5,
+    "prScore": 367,
     "issueScore": 0,
-    "reviewScore": 189,
-    "commentScore": 63.5
+    "reviewScore": 195,
+    "commentScore": 55.5
   },
   "tier": "veteran",
-  "characterClass": "Contributor",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 11,
-    "prs": 24,
-    "prsMerged": 3,
-    "prAdditions": 11634,
-    "prDeletions": 1271,
-    "prChangedFiles": 217,
-    "prMergeRate": 13,
+    "prs": 23,
+    "prsMerged": 2,
+    "prAdditions": 12882,
+    "prDeletions": 1564,
+    "prChangedFiles": 255,
+    "prMergeRate": 9,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 63,
+    "reviews": 65,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 127,
+    "comments": 111,
     "commitAdditions": 1229,
     "commitDeletions": 102,
-    "weeklyCommits": 2,
-    "monthlyCommits": 10,
     "commitChangedFiles": 38
   },
   "period": {
     "weekly": {
-      "prs": 15,
+      "prs": 10,
       "issues": 0,
-      "reviews": 46,
-      "comments": 82,
+      "reviews": 37,
+      "comments": 53,
       "commitAdditions": 882,
       "commitDeletions": 76,
       "commits": 10
     },
     "monthly": {
-      "prs": 24,
+      "prs": 23,
       "issues": 0,
-      "reviews": 63,
-      "comments": 127,
+      "reviews": 65,
+      "comments": 111,
       "commitAdditions": 1229,
       "commitDeletions": 102,
       "commits": 11
     }
   },
-  "firstContribution": "2026-02-28T05:12:59Z",
-  "lastContribution": "2026-03-12T04:48:45Z",
+  "firstContribution": "2026-03-03T20:36:25Z",
+  "lastContribution": "2026-03-14T14:47:32Z",
   "recentPRs": [
+    {
+      "number": 45491,
+      "title": "fix(agents): parse prompt/completion usage in OpenAI WS responses",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T22:16:04Z",
+      "mergedAt": null,
+      "additions": 111,
+      "deletions": 18,
+      "changedFiles": 6
+    },
+    {
+      "number": 44389,
+      "title": "fix(reply): block risky smaller-context model switches",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T21:21:24Z",
+      "mergedAt": null,
+      "additions": 736,
+      "deletions": 138,
+      "changedFiles": 13
+    },
+    {
+      "number": 44161,
+      "title": "fix(macos): fail fast when gateway startup already failed",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T15:16:24Z",
+      "mergedAt": null,
+      "additions": 206,
+      "deletions": 4,
+      "changedFiles": 4
+    },
     {
       "number": 43258,
       "title": "fix(auto-reply): retry inbound debounce flush after lock contention",
@@ -61,9 +92,9 @@
       "merged": false,
       "createdAt": "2026-03-11T14:33:27Z",
       "mergedAt": null,
-      "additions": 504,
-      "deletions": 28,
-      "changedFiles": 2
+      "additions": 1582,
+      "deletions": 153,
+      "changedFiles": 21
     },
     {
       "number": 42562,
@@ -72,9 +103,9 @@
       "merged": false,
       "createdAt": "2026-03-10T23:11:38Z",
       "mergedAt": null,
-      "additions": 95,
-      "deletions": 0,
-      "changedFiles": 4
+      "additions": 173,
+      "deletions": 46,
+      "changedFiles": 17
     },
     {
       "number": 41711,
@@ -240,43 +271,60 @@
       "additions": 12,
       "deletions": 7,
       "changedFiles": 9
-    },
-    {
-      "number": 34949,
-      "title": "onboard: default local tools profile to coding",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T20:06:22Z",
-      "mergedAt": null,
-      "additions": 269,
-      "deletions": 58,
-      "changedFiles": 15
-    },
-    {
-      "number": 34692,
-      "title": "fix(whatsapp): recover relink on wrapped disconnect status + stale auth",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T16:31:29Z",
-      "mergedAt": null,
-      "additions": 381,
-      "deletions": 13,
-      "changedFiles": 7
-    },
-    {
-      "number": 34614,
-      "title": "macOS: add remote gateway token field for remote mode",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T15:31:47Z",
-      "mergedAt": null,
-      "additions": 254,
-      "deletions": 47,
-      "changedFiles": 7
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 45491,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T14:47:32Z"
+    },
+    {
+      "prNumber": 44389,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T22:37:17Z"
+    },
+    {
+      "prNumber": 44389,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T22:37:15Z"
+    },
+    {
+      "prNumber": 44389,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T21:55:38Z"
+    },
+    {
+      "prNumber": 44389,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T21:32:40Z"
+    },
+    {
+      "prNumber": 44389,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T21:32:14Z"
+    },
+    {
+      "prNumber": 44161,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T19:54:44Z"
+    },
+    {
+      "prNumber": 44161,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T19:26:51Z"
+    },
+    {
+      "prNumber": 43258,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T14:13:14Z"
+    },
+    {
+      "prNumber": 43258,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T05:47:06Z"
+    },
     {
       "prNumber": 43258,
       "state": "COMMENTED",
@@ -326,58 +374,65 @@
       "prNumber": 41711,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T04:29:17Z"
-    },
-    {
-      "prNumber": 41466,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T22:58:44Z"
-    },
-    {
-      "prNumber": 41466,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T22:39:27Z"
-    },
-    {
-      "prNumber": 40202,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T08:01:32Z"
-    },
-    {
-      "prNumber": 40457,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T02:37:53Z"
-    },
-    {
-      "prNumber": 40457,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T02:27:36Z"
-    },
-    {
-      "prNumber": 40457,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T02:27:34Z"
-    },
-    {
-      "prNumber": 40457,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T02:27:33Z"
-    },
-    {
-      "prNumber": 40457,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T02:27:31Z"
-    },
-    {
-      "prNumber": 40457,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T02:27:29Z"
-    },
-    {
-      "prNumber": 40324,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T23:10:31Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 10
+    },
+    "2026-03-11": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 8
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-06": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 10
+    },
+    "2026-03-05": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-04": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -417,52 +472,5 @@
     "2026-03-09": 1,
     "2026-03-08": 8,
     "2026-03-02": 1
-  },
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 3
-    },
-    "2026-03-10": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 6
-    },
-    "2026-03-09": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 9
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-12": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
-    }
   }
 }

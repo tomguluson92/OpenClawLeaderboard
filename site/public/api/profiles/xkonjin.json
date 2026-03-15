@@ -3,11 +3,11 @@
   "avatarUrl": "https://github.com/xkonjin.png",
   "githubUrl": "https://github.com/xkonjin",
   "score": {
-    "score": 52.5,
+    "score": 88,
     "prScore": 0,
     "issueScore": 0,
-    "reviewScore": 51,
-    "commentScore": 1.5
+    "reviewScore": 81,
+    "commentScore": 7
   },
   "tier": "regular",
   "characterClass": "Reviewer",
@@ -21,22 +21,20 @@
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 17,
+    "reviews": 27,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 14,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 17,
-      "comments": 3,
+      "reviews": 19,
+      "comments": 14,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -44,18 +42,68 @@
     "monthly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 17,
-      "comments": 3,
+      "reviews": 27,
+      "comments": 14,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-07T23:25:28Z",
-  "lastContribution": "2026-03-11T17:36:54Z",
+  "lastContribution": "2026-03-14T15:36:04Z",
   "recentPRs": [],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 46288,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T15:36:04Z"
+    },
+    {
+      "prNumber": 46290,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T15:36:03Z"
+    },
+    {
+      "prNumber": 45858,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T07:47:49Z"
+    },
+    {
+      "prNumber": 45611,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T01:46:32Z"
+    },
+    {
+      "prNumber": 45537,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:49:28Z"
+    },
+    {
+      "prNumber": 45534,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:49:08Z"
+    },
+    {
+      "prNumber": 45535,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T23:47:35Z"
+    },
+    {
+      "prNumber": 45465,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T21:47:55Z"
+    },
+    {
+      "prNumber": 45344,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T17:48:44Z"
+    },
+    {
+      "prNumber": 44445,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T23:37:29Z"
+    },
     {
       "prNumber": 42415,
       "state": "COMMENTED",
@@ -105,56 +153,24 @@
       "prNumber": 39410,
       "state": "COMMENTED",
       "createdAt": "2026-03-08T03:25:23Z"
-    },
-    {
-      "prNumber": 39410,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T03:24:57Z"
-    },
-    {
-      "prNumber": 39334,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T01:25:06Z"
-    },
-    {
-      "prNumber": 39336,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T01:25:04Z"
-    },
-    {
-      "prNumber": 39337,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T01:25:02Z"
-    },
-    {
-      "prNumber": 39338,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T01:24:59Z"
-    },
-    {
-      "prNumber": 39339,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T01:24:57Z"
-    },
-    {
-      "prNumber": 39252,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T23:25:28Z"
     }
   ],
-  "skills": [
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-10": {
       "prs": 0,
       "issues": 0,
@@ -175,5 +191,17 @@
       "issues": 0,
       "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {}
 }

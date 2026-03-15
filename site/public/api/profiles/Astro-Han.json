@@ -1,0 +1,201 @@
+{
+  "username": "Astro-Han",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?u=d8676c546bf1ade00d68a19feb32d79780df3a98&v=4",
+  "githubUrl": "https://github.com/Astro-Han",
+  "score": {
+    "score": 116.9,
+    "prScore": 88.4,
+    "issueScore": 5,
+    "reviewScore": 18,
+    "commentScore": 5.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 1,
+    "prAdditions": 698,
+    "prDeletions": 15,
+    "prChangedFiles": 20,
+    "prMergeRate": 17,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 11,
+    "commitAdditions": 2,
+    "commitDeletions": 1,
+    "commitChangedFiles": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 11,
+      "commitAdditions": 2,
+      "commitDeletions": 1,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 11,
+      "commitAdditions": 2,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-11T13:21:44Z",
+  "lastContribution": "2026-03-15T02:10:10Z",
+  "recentPRs": [
+    {
+      "number": 46721,
+      "title": "fix(hooks): use local timezone for session-memory filenames",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T01:43:03Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 45005,
+      "title": "fix(discord,telegram): suppress NO_REPLY token before API call",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:43:42Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 44856,
+      "title": "fix(ui): restore chat-new-messages class on scroll pill button",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T08:11:50Z",
+      "mergedAt": "2026-03-13T19:03:00Z",
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 44308,
+      "title": "ClawDock: extract token mismatch hint fix from #23912",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T18:24:41Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44301,
+      "title": "docs: fix README message send flag",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T18:15:12Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 43837,
+      "title": "feat: one-shot thinking level via `/think <level> <body>`",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T08:06:45Z",
+      "mergedAt": null,
+      "additions": 575,
+      "deletions": 5,
+      "changedFiles": 11
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43201,
+      "title": "Feature: one-shot thinking level via /think <level> <message>",
+      "state": "OPEN",
+      "createdAt": "2026-03-11T13:21:44Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 45005,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T10:58:12Z"
+    },
+    {
+      "prNumber": 45005,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T10:58:10Z"
+    },
+    {
+      "prNumber": 45005,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T10:58:06Z"
+    },
+    {
+      "prNumber": 45005,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T10:58:02Z"
+    },
+    {
+      "prNumber": 43837,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:32:42Z"
+    },
+    {
+      "prNumber": 43837,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T08:32:34Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-12": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-11": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-13": 1
+  }
+}

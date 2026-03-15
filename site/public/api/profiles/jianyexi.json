@@ -1,0 +1,104 @@
+{
+  "username": "jianyexi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59603451?v=4",
+  "githubUrl": "https://github.com/jianyexi",
+  "score": {
+    "score": 32.41,
+    "prScore": 30.41,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 167,
+    "prDeletions": 18,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T14:27:28Z",
+  "lastContribution": "2026-03-13T01:21:47Z",
+  "recentPRs": [
+    {
+      "number": 44120,
+      "title": "fix(memory): shouldSyncSessions skips sessions during full reindex",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T14:28:12Z",
+      "mergedAt": null,
+      "additions": 93,
+      "deletions": 17,
+      "changedFiles": 3
+    },
+    {
+      "number": 44118,
+      "title": "fix(feishu): bypass mention gate for slash commands in group chats",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T14:27:44Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44117,
+      "title": "fix(cron): avoid false-positive legacyPayloadKind in normalizePayloadKind",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T14:27:28Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

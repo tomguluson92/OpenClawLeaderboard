@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/58493?v=4",
   "githubUrl": "https://github.com/steipete",
   "score": {
-    "score": 59737.08,
-    "prScore": 59632.58,
+    "score": 63347.36,
+    "prScore": 63242.86,
     "issueScore": 0,
     "reviewScore": 4.5,
     "commentScore": 100
@@ -12,47 +12,45 @@
   "tier": "legend",
   "characterClass": "Founder",
   "stats": {
-    "commits": 11866,
-    "prs": 7,
-    "prsMerged": 7,
-    "prAdditions": 1159,
-    "prDeletions": 155,
-    "prChangedFiles": 46,
+    "commits": 12592,
+    "prs": 5,
+    "prsMerged": 5,
+    "prAdditions": 1038,
+    "prDeletions": 147,
+    "prChangedFiles": 41,
     "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 1,
-    "comments": 671,
-    "commitAdditions": 3169793,
-    "commitDeletions": 2248248,
-    "weeklyCommits": 289,
-    "monthlyCommits": 4250,
-    "commitChangedFiles": 90062
+    "comments": 246,
+    "commitAdditions": 3234420,
+    "commitDeletions": 2284260,
+    "commitChangedFiles": 91984
   },
   "period": {
     "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 75,
+      "commitAdditions": 93441,
+      "commitDeletions": 50132,
+      "commits": 917
+    },
+    "monthly": {
       "prs": 5,
       "issues": 0,
       "reviews": 1,
-      "comments": 235,
-      "commitAdditions": 63466,
-      "commitDeletions": 32763,
-      "commits": 501
-    },
-    "monthly": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 1,
-      "comments": 671,
-      "commitAdditions": 568464,
-      "commitDeletions": 437148,
-      "commits": 4799
+      "comments": 246,
+      "commitAdditions": 626625,
+      "commitDeletions": 471560,
+      "commits": 5487
     }
   },
-  "firstContribution": "2026-03-01T23:53:05Z",
-  "lastContribution": "2026-03-12T00:33:01Z",
+  "firstContribution": "2026-03-03T03:42:35Z",
+  "lastContribution": "2026-03-13T21:58:02Z",
   "recentPRs": [
     {
       "number": 40543,
@@ -108,28 +106,6 @@
       "additions": 12,
       "deletions": 7,
       "changedFiles": 9
-    },
-    {
-      "number": 32274,
-      "title": "test/changelog: follow up sandbox workspace mount fixes",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T22:59:02Z",
-      "mergedAt": "2026-03-02T22:59:11Z",
-      "additions": 85,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 32090,
-      "title": "fix(auth): complete coding-plan auth normalization in auth order",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T19:26:02Z",
-      "mergedAt": "2026-03-02T19:26:09Z",
-      "additions": 36,
-      "deletions": 6,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -140,6 +116,23 @@
       "createdAt": "2026-03-08T20:31:18Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -179,7 +172,9 @@
     }
   ],
   "recentCommitDays": {
-    "2026-03-12": 12,
+    "2026-03-14": 170,
+    "2026-03-13": 526,
+    "2026-03-12": 42,
     "2026-03-11": 30,
     "2026-03-10": 23,
     "2026-03-09": 42,
@@ -230,31 +225,6 @@
     "2026-01-17": 260,
     "2026-01-16": 160,
     "2026-01-15": 207,
-    "2026-01-14": 61,
-    "2026-01-13": 157,
-    "2026-01-12": 281,
-    "2026-01-11": 154
-  },
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    }
+    "2026-01-14": 61
   }
 }

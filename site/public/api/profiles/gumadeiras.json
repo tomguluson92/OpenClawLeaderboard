@@ -3,57 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5599352?v=4",
   "githubUrl": "https://github.com/gumadeiras",
   "score": {
-    "score": 1648.7,
-    "prScore": 1630.7,
+    "score": 1637.3,
+    "prScore": 1625.8,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 18
+    "commentScore": 11.5
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
-    "commits": 268,
-    "prs": 13,
+    "commits": 271,
+    "prs": 10,
     "prsMerged": 8,
-    "prAdditions": 41622,
-    "prDeletions": 6593,
-    "prChangedFiles": 595,
-    "prMergeRate": 62,
+    "prAdditions": 47623,
+    "prDeletions": 6779,
+    "prChangedFiles": 486,
+    "prMergeRate": 80,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 36,
-    "commitAdditions": 49610,
-    "commitDeletions": 24351,
-    "weeklyCommits": 10,
-    "monthlyCommits": 209,
-    "commitChangedFiles": 2125
+    "comments": 23,
+    "commitAdditions": 52356,
+    "commitDeletions": 24699,
+    "commitChangedFiles": 2176
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 20,
-      "commitAdditions": 4488,
-      "commitDeletions": 666,
-      "commits": 12
+      "comments": 11,
+      "commitAdditions": 5017,
+      "commitDeletions": 933,
+      "commits": 9
     },
     "monthly": {
-      "prs": 13,
+      "prs": 10,
       "issues": 0,
       "reviews": 0,
-      "comments": 36,
-      "commitAdditions": 34107,
-      "commitDeletions": 7917,
-      "commits": 187
+      "comments": 23,
+      "commitAdditions": 33557,
+      "commitDeletions": 7618,
+      "commits": 171
     }
   },
-  "firstContribution": "2026-03-02T09:47:52Z",
-  "lastContribution": "2026-03-11T22:29:16Z",
+  "firstContribution": "2026-03-04T17:37:28Z",
+  "lastContribution": "2026-03-12T16:28:58Z",
   "recentPRs": [
+    {
+      "number": 44176,
+      "title": "Gateway: harden custom session-store discovery",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T15:33:45Z",
+      "mergedAt": "2026-03-12T16:44:46Z",
+      "additions": 1146,
+      "deletions": 183,
+      "changedFiles": 20
+    },
+    {
+      "number": 44046,
+      "title": "Plugins: fix env-aware root resolution and caching",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T12:47:04Z",
+      "mergedAt": "2026-03-12T15:31:31Z",
+      "additions": 1423,
+      "deletions": 151,
+      "changedFiles": 29
+    },
     {
       "number": 43460,
       "title": "Memory: add multimodal image and audio indexing",
@@ -83,9 +103,9 @@
       "merged": false,
       "createdAt": "2026-03-09T11:55:14Z",
       "mergedAt": null,
-      "additions": 32127,
-      "deletions": 5514,
-      "changedFiles": 262
+      "additions": 40841,
+      "deletions": 6146,
+      "changedFiles": 323
     },
     {
       "number": 37266,
@@ -141,65 +161,42 @@
       "additions": 633,
       "deletions": 18,
       "changedFiles": 17
-    },
-    {
-      "number": 33737,
-      "title": "Plugin SDK: add channel subpaths and migrate bundled plugins",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T01:36:02Z",
-      "mergedAt": null,
-      "additions": 802,
-      "deletions": 177,
-      "changedFiles": 75
-    },
-    {
-      "number": 33690,
-      "title": "build: fix ineffective dynamic imports with lazy boundaries",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T00:46:58Z",
-      "mergedAt": "2026-03-04T01:14:41Z",
-      "additions": 330,
-      "deletions": 153,
-      "changedFiles": 31
-    },
-    {
-      "number": 32769,
-      "title": "Agent: unify bootstrap truncation warning handling",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-03T08:26:17Z",
-      "mergedAt": "2026-03-03T21:28:38Z",
-      "additions": 1485,
-      "deletions": 221,
-      "changedFiles": 34
-    },
-    {
-      "number": 32335,
-      "title": "CLI: dedupe config validate errors and expose allowed values",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T00:28:01Z",
-      "mergedAt": null,
-      "additions": 1393,
-      "deletions": 134,
-      "changedFiles": 41
-    },
-    {
-      "number": 32050,
-      "title": "CLI: dedupe config validate errors and expose allowed values",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T18:49:16Z",
-      "mergedAt": null,
-      "additions": 1272,
-      "deletions": 95,
-      "changedFiles": 38
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-11": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-06": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion",
@@ -234,6 +231,7 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-12": 3,
     "2026-03-11": 4,
     "2026-03-08": 2,
     "2026-03-06": 5,
@@ -271,44 +269,6 @@
     "2026-01-27": 18,
     "2026-01-18": 4,
     "2026-01-17": 1,
-    "2026-01-16": 1,
-    "2026-01-13": 2
-  },
-  "recentActivityDays": {
-    "2026-03-11": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
+    "2026-01-16": 1
   }
 }

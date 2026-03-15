@@ -27,8 +27,6 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -80,27 +78,20 @@
   "recentIssues": [
     {
       "number": 43373,
-      "title": "[Bug]: feishu-openclaw-plugin probe.js has no caching \u2014 burns ~43k API calls/month per account on health checks",
+      "title": "[Bug]: feishu-openclaw-plugin probe.js has no caching — burns ~43k API calls/month per account on health checks",
       "state": "OPEN",
       "createdAt": "2026-03-11T17:17:16Z",
       "closedAt": null
     },
     {
       "number": 42300,
-      "title": "[Bug]: `openclaw cron runs <jobId>` position arg silently ignored \u2014 requires `--id` flag not documented in help",
+      "title": "[Bug]: `openclaw cron runs <jobId>` position arg silently ignored — requires `--id` flag not documented in help",
       "state": "OPEN",
       "createdAt": "2026-03-10T15:44:56Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 2,
@@ -117,5 +108,12 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

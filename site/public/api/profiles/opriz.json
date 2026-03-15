@@ -1,62 +1,71 @@
 {
   "username": "opriz",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/51957849?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51957849?u=cf83dbe2b6d4f97b60dd5956e40e59c2826b0a61&v=4",
   "githubUrl": "https://github.com/opriz",
   "score": {
-    "score": 31.41,
-    "prScore": 28.91,
+    "score": 43.5,
+    "prScore": 40,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2.5
+    "commentScore": 3.5
   },
   "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 1,
-    "prAdditions": 17,
+    "prAdditions": 65,
     "prDeletions": 78,
-    "prChangedFiles": 6,
-    "prMergeRate": 100,
+    "prChangedFiles": 8,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 7,
     "commitAdditions": 17,
     "commitDeletions": 78,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 6
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
+      "comments": 7,
       "commitAdditions": 17,
       "commitDeletions": 78,
       "commits": 1
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
+      "comments": 7,
       "commitAdditions": 17,
       "commitDeletions": 78,
       "commits": 1
     }
   },
   "firstContribution": "2026-03-08T15:34:37Z",
-  "lastContribution": "2026-03-11T10:13:11Z",
+  "lastContribution": "2026-03-14T00:55:23Z",
   "recentPRs": [
     {
+      "number": 44998,
+      "title": "fix(cron): resolve isolated session deadlock (#44805)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T10:33:41Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
       "number": 40008,
-      "title": "fix(kimi-coding): fix kimi tool format: use native Anthropic tool schema instead of OpenAI \u2026",
+      "title": "fix(kimi-coding): fix kimi tool format: use native Anthropic tool schema instead of OpenAI …",
       "state": "MERGED",
       "merged": true,
       "createdAt": "2026-03-08T15:34:37Z",
@@ -68,6 +77,18 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion"
@@ -75,12 +96,5 @@
   "achievements": [],
   "recentCommitDays": {
     "2026-03-09": 1
-  },
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

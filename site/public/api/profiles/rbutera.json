@@ -3,57 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6047293?v=4",
   "githubUrl": "https://github.com/rbutera",
   "score": {
-    "score": 198.47,
-    "prScore": 147.97,
-    "issueScore": 29,
+    "score": 233.96,
+    "prScore": 174.46,
+    "issueScore": 34,
     "reviewScore": 15,
-    "commentScore": 6.5
+    "commentScore": 10.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 2,
-    "prs": 5,
+    "prs": 6,
     "prsMerged": 2,
-    "prAdditions": 857,
-    "prDeletions": 34,
-    "prChangedFiles": 29,
-    "prMergeRate": 40,
-    "issues": 4,
+    "prAdditions": 1873,
+    "prDeletions": 55,
+    "prChangedFiles": 45,
+    "prMergeRate": 33,
+    "issues": 5,
     "issuesClosed": 3,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
+    "comments": 21,
     "commitAdditions": 399,
     "commitDeletions": 26,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 16
   },
   "period": {
     "weekly": {
-      "prs": 5,
-      "issues": 4,
+      "prs": 6,
+      "issues": 5,
       "reviews": 5,
-      "comments": 13,
+      "comments": 21,
       "commitAdditions": 399,
       "commitDeletions": 26,
       "commits": 2
     },
     "monthly": {
-      "prs": 5,
-      "issues": 4,
+      "prs": 6,
+      "issues": 5,
       "reviews": 5,
-      "comments": 13,
+      "comments": 21,
       "commitAdditions": 399,
       "commitDeletions": 26,
       "commits": 2
     }
   },
   "firstContribution": "2026-03-08T12:19:07Z",
-  "lastContribution": "2026-03-11T21:22:11Z",
+  "lastContribution": "2026-03-13T20:28:38Z",
   "recentPRs": [
+    {
+      "number": 45424,
+      "title": "fix(memory-flush): include outputTokens in flush threshold estimate",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T19:54:51Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 3,
+      "changedFiles": 2
+    },
     {
       "number": 43353,
       "title": "fix(sessions): thread agentChannel through sessions_send instead of hardcoding INTERNAL_MESSAGE_CHANNEL",
@@ -61,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-11T16:46:05Z",
       "mergedAt": null,
-      "additions": 268,
-      "deletions": 6,
-      "changedFiles": 8
+      "additions": 1228,
+      "deletions": 24,
+      "changedFiles": 22
     },
     {
       "number": 43328,
@@ -111,6 +120,13 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 44302,
+      "title": "[Feature]: Optional webchat-to-external-channel mirroring",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T18:16:28Z",
+      "closedAt": null
+    },
     {
       "number": 43318,
       "title": "[Bug]: sessions_send hardcodes INTERNAL_MESSAGE_CHANNEL, causing reply routing to flip from external channel to webchat",
@@ -167,25 +183,12 @@
       "createdAt": "2026-03-08T13:42:47Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-09": 1,
-    "2026-03-08": 1
-  },
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 3,
       "issues": 1,
@@ -196,10 +199,43 @@
       "issues": 2,
       "reviews": 2
     },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 0,
       "issues": 1,
       "reviews": 1
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-09": 1,
+    "2026-03-08": 1
   }
 }

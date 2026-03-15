@@ -27,16 +27,14 @@
     "comments": 3,
     "commitAdditions": 2163,
     "commitDeletions": 766,
-    "weeklyCommits": 0,
-    "monthlyCommits": 2,
     "commitChangedFiles": 88
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -46,9 +44,9 @@
       "issues": 0,
       "reviews": 0,
       "comments": 3,
-      "commitAdditions": 498,
-      "commitDeletions": 43,
-      "commits": 6
+      "commitAdditions": 76,
+      "commitDeletions": 3,
+      "commits": 2
     }
   },
   "firstContribution": "2026-03-07T09:11:39Z",
@@ -79,6 +77,13 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion",
@@ -92,14 +97,6 @@
     "2026-02-10": 1,
     "2026-02-07": 1,
     "2026-02-06": 1,
-    "2026-01-15": 1,
-    "2026-01-12": 1
-  },
-  "recentActivityDays": {
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    }
+    "2026-01-15": 1
   }
 }

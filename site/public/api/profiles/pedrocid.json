@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2520999?u=0f2a33814621b0e649aed3973c696dc2a3d83bc3&v=4",
   "githubUrl": "https://github.com/pedrocid",
   "score": {
-    "score": 13.57,
-    "prScore": 13.57,
+    "score": 15.6,
+    "prScore": 15.1,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Builder",
@@ -15,7 +15,7 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 75,
+    "prAdditions": 217,
     "prDeletions": 4,
     "prChangedFiles": 5,
     "prMergeRate": 0,
@@ -24,11 +24,9 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,39 +43,40 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-11T09:47:15Z",
-  "lastContribution": "2026-03-11T09:47:15Z",
+  "lastContribution": "2026-03-14T11:59:52Z",
   "recentPRs": [
     {
       "number": 43052,
       "title": "fix(telegram): ignore invalid reply-to ids on send",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T09:47:15Z",
       "mergedAt": null,
-      "additions": 75,
+      "additions": 217,
       "deletions": 4,
       "changedFiles": 5
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

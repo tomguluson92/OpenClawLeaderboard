@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/13951316?v=4",
   "githubUrl": "https://github.com/BillChirico",
   "score": {
-    "score": 142.14,
+    "score": 141.64,
     "prScore": 133.14,
     "issueScore": 8,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "regular",
   "characterClass": "Pathfinder",
@@ -24,11 +24,9 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 1,
     "commitAdditions": 1286,
     "commitDeletions": 39,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 31
   },
   "period": {
@@ -45,13 +43,13 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 1286,
-      "commitDeletions": 39,
-      "commits": 2
+      "comments": 1,
+      "commitAdditions": 838,
+      "commitDeletions": 37,
+      "commits": 1
     }
   },
-  "firstContribution": "2026-02-28T23:14:39Z",
+  "firstContribution": "2026-03-10T20:16:43Z",
   "lastContribution": "2026-03-11T21:35:13Z",
   "recentPRs": [
     {
@@ -76,6 +74,13 @@
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
@@ -86,12 +91,5 @@
   "recentCommitDays": {
     "2026-03-11": 1,
     "2026-02-11": 1
-  },
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    }
   }
 }

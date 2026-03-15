@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12505774?u=63a37b3ae46cc9fa6a55eedf40bb9883a1626e44&v=4",
   "githubUrl": "https://github.com/0xtangping",
   "score": {
-    "score": 244.08,
-    "prScore": 230.08,
+    "score": 229.26,
+    "prScore": 217.76,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 11
+    "reviewScore": 0,
+    "commentScore": 11.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 21,
-    "prsMerged": 2,
-    "prAdditions": 814,
-    "prDeletions": 222,
-    "prChangedFiles": 37,
-    "prMergeRate": 10,
+    "prs": 20,
+    "prsMerged": 1,
+    "prAdditions": 789,
+    "prDeletions": 225,
+    "prChangedFiles": 36,
+    "prMergeRate": 5,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 22,
+    "comments": 23,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 13,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 21,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 21,
+      "prs": 20,
       "issues": 0,
-      "reviews": 1,
-      "comments": 22,
+      "reviews": 0,
+      "comments": 23,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T01:54:14Z",
-  "lastContribution": "2026-03-08T23:19:31Z",
+  "firstContribution": "2026-03-04T10:20:20Z",
+  "lastContribution": "2026-03-15T01:24:32Z",
   "recentPRs": [
+    {
+      "number": 46702,
+      "title": "docs(agents): read daily memory slug variants in template",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T01:24:32Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 46662,
+      "title": "fix(slack): use interactiveReplies in system prompt messaging guidance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T23:53:24Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 5,
+      "changedFiles": 4
+    },
+    {
+      "number": 46516,
+      "title": "docs(browser): clarify existing-session setup for profile=\"user\"",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T18:54:50Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 39336,
       "title": "fix: default codex-cli backend sandbox to workspace-write",
@@ -178,7 +209,7 @@
     {
       "number": 37069,
       "title": "fix(tts): enable Matrix voice-bubble output for auto TTS replies",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T03:05:32Z",
       "mergedAt": null,
@@ -189,7 +220,7 @@
     {
       "number": 36974,
       "title": "docs(faq): remove broken troubleshooting anchor for Xfinity SSL",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T01:33:30Z",
       "mergedAt": null,
@@ -233,75 +264,28 @@
     {
       "number": 34299,
       "title": "test(infra): cleanup dotenv temp fixtures to avoid /tmp accumulation",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-04T10:20:20Z",
       "mergedAt": null,
       "additions": 29,
       "deletions": 4,
       "changedFiles": 1
-    },
-    {
-      "number": 33006,
-      "title": "fix(ci): tolerate maintainer-lookup rate limits in auto-response workflow",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T12:49:03Z",
-      "mergedAt": null,
-      "additions": 20,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 32994,
-      "title": "fix(gateway): block global chat/agent broadcasts to node-role WS clients",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T12:38:58Z",
-      "mergedAt": null,
-      "additions": 44,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 32413,
-      "title": "fix(acp): use publishable acpx install hint",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-03T02:06:02Z",
-      "mergedAt": "2026-03-03T02:34:07Z",
-      "additions": 2,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 33006,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T08:48:58Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    }
-  ],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 2,
       "issues": 0,
@@ -320,12 +304,24 @@
     "2026-03-04": {
       "prs": 4,
       "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-03": {
-      "prs": 3,
-      "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {}
 }

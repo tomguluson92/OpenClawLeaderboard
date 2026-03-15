@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/135854806?v=4",
   "githubUrl": "https://github.com/Owlock",
   "score": {
-    "score": 72.82,
+    "score": 75.82,
     "prScore": 48.82,
-    "issueScore": 18,
+    "issueScore": 21,
     "reviewScore": 3,
     "commentScore": 3
   },
@@ -20,23 +20,21 @@
     "prChangedFiles": 13,
     "prMergeRate": 33,
     "issues": 3,
-    "issuesClosed": 1,
+    "issuesClosed": 2,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 3,
-      "reviews": 1,
-      "comments": 6,
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -91,10 +89,10 @@
   "recentIssues": [
     {
       "number": 41618,
-      "title": "[Bug] Dashboard/webchat can show \u201cYour authentication token has been invalidated\u201d for non-token root causes",
-      "state": "OPEN",
+      "title": "[Bug] Dashboard/webchat can show “Your authentication token has been invalidated” for non-token root causes",
+      "state": "CLOSED",
       "createdAt": "2026-03-10T02:11:17Z",
-      "closedAt": null
+      "closedAt": "2026-03-14T01:13:38Z"
     },
     {
       "number": 41553,
@@ -118,6 +116,18 @@
       "createdAt": "2026-03-08T03:40:47Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -131,17 +141,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 1
-    }
-  }
+  "recentCommitDays": {}
 }

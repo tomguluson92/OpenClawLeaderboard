@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/72722788?v=4",
   "githubUrl": "https://github.com/loganprit",
   "score": {
-    "score": 75.32,
+    "score": 57.82,
     "prScore": 57.32,
-    "issueScore": 18,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 8,
     "prs": 0,
@@ -19,16 +19,14 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 3,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 177,
     "commitDeletions": 12,
-    "weeklyCommits": 0,
-    "monthlyCommits": 9,
     "commitChangedFiles": 11
   },
   "period": {
@@ -36,62 +34,34 @@
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 0,
-      "issues": 3,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 177,
       "commitDeletions": 12,
       "commits": 9
     }
   },
-  "firstContribution": "2026-02-27T22:18:55Z",
-  "lastContribution": "2026-02-27T22:19:25Z",
+  "firstContribution": "2026-03-12T15:03:53Z",
+  "lastContribution": "2026-03-12T15:03:53Z",
   "recentPRs": [],
-  "recentIssues": [
-    {
-      "number": 29172,
-      "title": "[Bug]: tools.exec.ask missing from config defaults to \"on-miss\", ignoring exec-approvals.json ask=off",
-      "state": "CLOSED",
-      "createdAt": "2026-02-27T22:19:25Z",
-      "closedAt": "2026-03-08T00:45:36Z"
-    },
-    {
-      "number": 29171,
-      "title": "[Bug]: Gateway sends system.run.prepare to nodes that don't advertise it",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T22:19:08Z",
-      "closedAt": null
-    },
-    {
-      "number": 29170,
-      "title": "[Bug]: OpenClaw.app node identity non-deterministic after gateway restart",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T22:18:55Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Issue Reporting",
+    "Discussion",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-02-28": 8,
     "2026-02-20": 1
-  },
-  "recentActivityDays": {
-    "2026-02-27": {
-      "prs": 0,
-      "issues": 3,
-      "reviews": 0
-    }
   }
 }

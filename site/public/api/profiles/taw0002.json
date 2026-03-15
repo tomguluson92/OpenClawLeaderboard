@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/42811278?u=50f619e13dbe9f74094ef28d6bc6f45a0856551e&v=4",
   "githubUrl": "https://github.com/taw0002",
   "score": {
-    "score": 145.05,
-    "prScore": 144.55,
+    "score": 168.45,
+    "prScore": 167.95,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,12 +13,12 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 10,
     "prsMerged": 1,
-    "prAdditions": 877,
-    "prDeletions": 19,
-    "prChangedFiles": 27,
-    "prMergeRate": 13,
+    "prAdditions": 955,
+    "prDeletions": 26,
+    "prChangedFiles": 31,
+    "prMergeRate": 10,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -27,33 +27,53 @@
     "comments": 1,
     "commitAdditions": 136,
     "commitDeletions": 16,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 14
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 76,
-      "commitDeletions": 2,
-      "commits": 1
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 10,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
-      "commitAdditions": 136,
-      "commitDeletions": 16,
-      "commits": 4
+      "commitAdditions": 120,
+      "commitDeletions": 5,
+      "commits": 3
     }
   },
   "firstContribution": "2026-03-05T15:06:28Z",
-  "lastContribution": "2026-03-11T14:05:00Z",
+  "lastContribution": "2026-03-12T14:06:13Z",
   "recentPRs": [
+    {
+      "number": 44100,
+      "title": "fix(cron): prevent false positive in normalizePayloadKind for already-normalized jobs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T14:06:13Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 44097,
+      "title": "fix(cron-cli): handle object model in printCronList",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T14:03:58Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 7,
+      "changedFiles": 2
+    },
     {
       "number": 43243,
       "title": "fix: make enqueueCommandInLane abort-aware to prevent stale cron queue entries",
@@ -145,18 +165,12 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-06": 1,
-    "2026-02-26": 1,
-    "2026-02-23": 1,
-    "2026-02-12": 1
-  },
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -177,5 +191,22 @@
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-06": 1,
+    "2026-02-26": 1,
+    "2026-02-23": 1,
+    "2026-02-12": 1
   }
 }

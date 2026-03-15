@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9658131?u=dbef55a0e7b9c7a678beb27aa60041dc62d607f1&v=4",
   "githubUrl": "https://github.com/veast",
   "score": {
-    "score": 47.96,
-    "prScore": 47.96,
+    "score": 34.12,
+    "prScore": 34.12,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 391,
-    "prDeletions": 9,
-    "prChangedFiles": 9,
+    "prAdditions": 205,
+    "prDeletions": 8,
+    "prChangedFiles": 6,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 22,
     "commitDeletions": 1,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T07:27:19Z",
+  "firstContribution": "2026-03-05T09:27:03Z",
   "lastContribution": "2026-03-07T03:55:12Z",
   "recentPRs": [
     {
@@ -86,28 +84,10 @@
       "additions": 28,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 34110,
-      "title": "fix(cron): manual `cron run` must not displace schedule anchor (#33940)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T07:27:19Z",
-      "mergedAt": null,
-      "additions": 186,
-      "deletions": 1,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-02": 1
-  },
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
@@ -118,11 +98,13 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 1
   }
 }

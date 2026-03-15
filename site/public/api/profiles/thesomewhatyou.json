@@ -3,66 +3,83 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/162917831?v=4",
   "githubUrl": "https://github.com/thesomewhatyou",
   "score": {
-    "score": 47.52,
-    "prScore": 46.52,
+    "score": 73.78,
+    "prScore": 71.78,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 2
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 5,
-    "prs": 0,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
+    "prAdditions": 33,
+    "prDeletions": 37,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 4,
     "commitAdditions": 110,
     "commitDeletions": 138,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 13
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 4,
       "commitAdditions": 110,
       "commitDeletions": 138,
       "commits": 5
     }
   },
-  "firstContribution": "2026-02-27T23:21:08Z",
-  "lastContribution": "2026-02-27T23:54:26Z",
-  "recentPRs": [],
+  "firstContribution": "2026-03-14T00:04:28Z",
+  "lastContribution": "2026-03-14T02:09:48Z",
+  "recentPRs": [
+    {
+      "number": 45546,
+      "title": "docs: Make needed changes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T00:04:28Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 37,
+      "changedFiles": 10
+    }
+  ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
+    "Pull Requests",
     "Discussion",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-02-14": 5
-  },
-  "recentActivityDays": {}
+  }
 }

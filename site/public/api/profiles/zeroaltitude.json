@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/102749?v=4",
   "githubUrl": "https://github.com/zeroaltitude",
   "score": {
-    "score": 372.14,
-    "prScore": 245.14,
+    "score": 291.35,
+    "prScore": 213.85,
     "issueScore": 5,
-    "reviewScore": 105,
-    "commentScore": 17
+    "reviewScore": 60,
+    "commentScore": 12.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 14,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 16660,
-    "prDeletions": 1547,
-    "prChangedFiles": 128,
+    "prAdditions": 13186,
+    "prDeletions": 1427,
+    "prChangedFiles": 91,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 35,
+    "reviews": 20,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 34,
+    "comments": 25,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 10,
-      "issues": 1,
-      "reviews": 20,
-      "comments": 31,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 14,
+      "prs": 10,
       "issues": 1,
-      "reviews": 35,
-      "comments": 34,
+      "reviews": 20,
+      "comments": 25,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T03:25:39Z",
+  "firstContribution": "2026-03-05T06:19:13Z",
   "lastContribution": "2026-03-11T20:19:45Z",
   "recentPRs": [
     {
@@ -72,8 +70,8 @@
       "merged": false,
       "createdAt": "2026-03-07T21:39:44Z",
       "mergedAt": null,
-      "additions": 1233,
-      "deletions": 17,
+      "additions": 1252,
+      "deletions": 36,
       "changedFiles": 11
     },
     {
@@ -116,9 +114,9 @@
       "merged": false,
       "createdAt": "2026-03-06T16:44:37Z",
       "mergedAt": null,
-      "additions": 927,
-      "deletions": 78,
-      "changedFiles": 7
+      "additions": 872,
+      "deletions": 44,
+      "changedFiles": 6
     },
     {
       "number": 38161,
@@ -163,50 +161,6 @@
       "additions": 357,
       "deletions": 35,
       "changedFiles": 3
-    },
-    {
-      "number": 33916,
-      "title": "feat(hooks): add before_llm_call, after_llm_call, before_response_emit tool/content mutating hooks [claude, human developer oversight]",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T04:21:00Z",
-      "mergedAt": null,
-      "additions": 2195,
-      "deletions": 49,
-      "changedFiles": 15
-    },
-    {
-      "number": 33915,
-      "title": "feat(hooks): add context_assembled, loop_iteration_start/end observability hooks [claude, human developer oversight]",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T04:20:42Z",
-      "mergedAt": null,
-      "additions": 409,
-      "deletions": 13,
-      "changedFiles": 6
-    },
-    {
-      "number": 33914,
-      "title": "feat(hooks): add sender identity and session context to plugin hook agent context [claude, human developer oversight]",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T04:20:26Z",
-      "mergedAt": null,
-      "additions": 606,
-      "deletions": 41,
-      "changedFiles": 13
-    },
-    {
-      "number": 33845,
-      "title": "fix(slack): persist thread participation cache to survive gateway restarts [claude, human developer oversight]",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T03:25:39Z",
-      "mergedAt": null,
-      "additions": 228,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -320,6 +274,28 @@
       "createdAt": "2026-03-05T07:15:13Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-07": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 16
+    },
+    "2026-03-06": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-05": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3
+    },
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -354,32 +330,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-07": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 16
-    },
-    "2026-03-06": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 3
-    },
-    "2026-03-04": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
-    }
-  }
+  "recentCommitDays": {}
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/976080?v=4",
   "githubUrl": "https://github.com/Maverick7",
   "score": {
-    "score": 93.66,
-    "prScore": 93.66,
+    "score": 198.16,
+    "prScore": 198.16,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 104291,
-    "prDeletions": 0,
-    "prChangedFiles": 25,
+    "prAdditions": 211760,
+    "prDeletions": 3066,
+    "prChangedFiles": 1589,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -52,22 +50,45 @@
     }
   },
   "firstContribution": "2026-03-08T11:03:35Z",
-  "lastContribution": "2026-03-08T11:03:35Z",
+  "lastContribution": "2026-03-13T19:59:01Z",
   "recentPRs": [
+    {
+      "number": 45428,
+      "title": "Feature/world model integration",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T19:59:01Z",
+      "mergedAt": null,
+      "additions": 104425,
+      "deletions": 63,
+      "changedFiles": 35
+    },
     {
       "number": 39749,
       "title": "feat(world-model): integrate world model with llm and lstm providers",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T11:03:35Z",
       "mergedAt": null,
-      "additions": 104291,
-      "deletions": 0,
-      "changedFiles": 25
+      "additions": 107335,
+      "deletions": 3003,
+      "changedFiles": 1554
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Large-Scale Changes"
@@ -84,12 +105,5 @@
       "description": "50K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

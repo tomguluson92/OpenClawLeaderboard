@@ -27,8 +27,6 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -69,20 +67,13 @@
   "recentIssues": [
     {
       "number": 41716,
-      "title": "[Feature]: nodes tool + node command surface: add file_push/file_pull (gateway \u2194 node file transfer)",
+      "title": "[Feature]: nodes tool + node command surface: add file_push/file_pull (gateway ↔ node file transfer)",
       "state": "OPEN",
       "createdAt": "2026-03-10T04:01:10Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
@@ -94,5 +85,12 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

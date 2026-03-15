@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/92250283?u=d585e15e0d3655185e155f1423687e6e652ff079&v=4",
   "githubUrl": "https://github.com/aoliaoduo",
   "score": {
-    "score": 12.48,
+    "score": 15.48,
     "prScore": 7.48,
-    "issueScore": 5,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -20,15 +20,13 @@
     "prChangedFiles": 1,
     "prMergeRate": 0,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -70,23 +68,23 @@
     {
       "number": 41040,
       "title": "Feature: Add only_mentioned mode for Telegram group chats",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-09T13:14:22Z",
-      "closedAt": null
+      "closedAt": "2026-03-12T12:19:16Z"
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

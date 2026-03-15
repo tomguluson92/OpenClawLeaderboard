@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/45380903?u=bb67884dae7c67760392eccfe91173a532e34aba&v=4",
   "githubUrl": "https://github.com/tysoncung",
   "score": {
-    "score": 46.67,
-    "prScore": 46.67,
+    "score": 35.24,
+    "prScore": 35.24,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,12 +13,12 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 1,
-    "prAdditions": 258,
-    "prDeletions": 22,
-    "prChangedFiles": 9,
-    "prMergeRate": 50,
+    "prAdditions": 182,
+    "prDeletions": 21,
+    "prChangedFiles": 7,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 182,
     "commitDeletions": 21,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 7
   },
   "period": {
@@ -42,7 +40,7 @@
       "commits": 1
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-03T17:11:39Z",
+  "firstContribution": "2026-03-08T17:11:07Z",
   "lastContribution": "2026-03-08T17:11:07Z",
   "recentPRs": [
     {
@@ -64,38 +62,22 @@
       "additions": 182,
       "deletions": 21,
       "changedFiles": 7
-    },
-    {
-      "number": 33300,
-      "title": "fix(mistral): enable tool-use result pairing repair for Mistral models",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T17:11:39Z",
-      "mergedAt": null,
-      "additions": 76,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-03-09": 1
-  },
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

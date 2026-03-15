@@ -3,48 +3,46 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/54324760?u=26e8390f3e5f00be81ab322ca176c0302ba5a1e0&v=4",
   "githubUrl": "https://github.com/ant1eicher",
   "score": {
-    "score": 176.97,
-    "prScore": 162.97,
+    "score": 201.42,
+    "prScore": 181.42,
     "issueScore": 0,
-    "reviewScore": 12,
+    "reviewScore": 18,
     "commentScore": 2
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 8,
     "prsMerged": 1,
-    "prAdditions": 2541,
-    "prDeletions": 46,
-    "prChangedFiles": 67,
-    "prMergeRate": 17,
+    "prAdditions": 3432,
+    "prDeletions": 56,
+    "prChangedFiles": 93,
+    "prMergeRate": 13,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 4,
+    "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 4,
     "commitAdditions": 2,
     "commitDeletions": 13,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 4,
       "issues": 0,
-      "reviews": 4,
-      "comments": 4,
-      "commitAdditions": 2,
-      "commitDeletions": 13,
-      "commits": 1
+      "reviews": 5,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 8,
       "issues": 0,
-      "reviews": 4,
+      "reviews": 6,
       "comments": 4,
       "commitAdditions": 2,
       "commitDeletions": 13,
@@ -52,16 +50,38 @@
     }
   },
   "firstContribution": "2026-03-06T12:09:09Z",
-  "lastContribution": "2026-03-09T19:40:06Z",
+  "lastContribution": "2026-03-13T18:03:30Z",
   "recentPRs": [
+    {
+      "number": 45355,
+      "title": "feat: add self-escalation tool for lightweight model hand-off",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T18:03:30Z",
+      "mergedAt": null,
+      "additions": 340,
+      "deletions": 5,
+      "changedFiles": 11
+    },
+    {
+      "number": 45333,
+      "title": "feat: self-escalation tool for model handoff",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T17:30:36Z",
+      "mergedAt": null,
+      "additions": 545,
+      "deletions": 5,
+      "changedFiles": 15
+    },
     {
       "number": 41392,
       "title": "feat: self-escalation tool for model handoff",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T19:40:06Z",
       "mergedAt": null,
-      "additions": 539,
+      "additions": 545,
       "deletions": 5,
       "changedFiles": 15
     },
@@ -124,6 +144,16 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 41392,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T12:07:20Z"
+    },
+    {
+      "prNumber": 41392,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T12:07:11Z"
+    },
+    {
       "prNumber": 41327,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T19:37:52Z"
@@ -144,16 +174,12 @@
       "createdAt": "2026-03-07T19:35:46Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-06": 1
-  },
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 2,
       "issues": 0,
@@ -169,10 +195,24 @@
       "issues": 0,
       "reviews": 0
     },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-08": {
       "prs": 0,
       "issues": 0,
       "reviews": 1
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-06": 1
   }
 }

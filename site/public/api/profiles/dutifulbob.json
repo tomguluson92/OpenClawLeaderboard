@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/261991368?v=4",
   "githubUrl": "https://github.com/dutifulbob",
   "score": {
-    "score": 345.67,
-    "prScore": 294.67,
-    "issueScore": 5,
-    "reviewScore": 45,
-    "commentScore": 1
+    "score": 264.07,
+    "prScore": 230.57,
+    "issueScore": 0,
+    "reviewScore": 33,
+    "commentScore": 0.5
   },
   "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
     "commits": 7,
-    "prs": 13,
-    "prsMerged": 6,
-    "prAdditions": 11785,
-    "prDeletions": 1101,
-    "prChangedFiles": 160,
-    "prMergeRate": 46,
-    "issues": 1,
+    "prs": 5,
+    "prsMerged": 4,
+    "prAdditions": 8969,
+    "prDeletions": 909,
+    "prChangedFiles": 114,
+    "prMergeRate": 80,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 15,
+    "reviews": 11,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 1,
     "commitAdditions": 9489,
     "commitDeletions": 653,
-    "weeklyCommits": 1,
-    "monthlyCommits": 7,
     "commitChangedFiles": 124
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
-      "reviews": 5,
-      "comments": 1,
-      "commitAdditions": 5889,
-      "commitDeletions": 465,
-      "commits": 3
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 12,
+      "commitDeletions": 26,
+      "commits": 1
     },
     "monthly": {
-      "prs": 13,
-      "issues": 1,
-      "reviews": 15,
-      "comments": 2,
+      "prs": 5,
+      "issues": 0,
+      "reviews": 11,
+      "comments": 1,
       "commitAdditions": 9489,
       "commitDeletions": 653,
       "commits": 7
     }
   },
-  "firstContribution": "2026-03-01T21:46:01Z",
+  "firstContribution": "2026-03-04T10:28:51Z",
   "lastContribution": "2026-03-10T08:47:31Z",
   "recentPRs": [
     {
@@ -108,105 +106,9 @@
       "additions": 893,
       "deletions": 3,
       "changedFiles": 10
-    },
-    {
-      "number": 33699,
-      "title": "fix: kill stuck ACP child processes on startup and harden sessions in discord threads",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T01:04:28Z",
-      "mergedAt": "2026-03-04T09:52:29Z",
-      "additions": 2566,
-      "deletions": 178,
-      "changedFiles": 30
-    },
-    {
-      "number": 32254,
-      "title": "Security: enforce ACP sandbox inheritance for sessions_spawn",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T22:38:12Z",
-      "mergedAt": "2026-03-02T22:50:39Z",
-      "additions": 124,
-      "deletions": 2,
-      "changedFiles": 8
-    },
-    {
-      "number": 32219,
-      "title": "Security: enforce ACP sandbox inheritance for sessions_spawn",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T22:16:44Z",
-      "mergedAt": null,
-      "additions": 0,
-      "deletions": 0,
-      "changedFiles": 0
-    },
-    {
-      "number": 32199,
-      "title": "fix(security): enforce ACP sandbox inheritance for cross-agent spawns",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T21:46:34Z",
-      "mergedAt": null,
-      "additions": 114,
-      "deletions": 4,
-      "changedFiles": 4
-    },
-    {
-      "number": 32066,
-      "title": "fix(security): enforce sandbox inheritance for ACP runtime spawn (GHSA-p7gr-f84w-hqg5)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T19:03:36Z",
-      "mergedAt": null,
-      "additions": 0,
-      "deletions": 0,
-      "changedFiles": 0
-    },
-    {
-      "number": 32047,
-      "title": "fix(browser): fail closed browser auth bootstrap (GHSA-vpj2-69hf-rppw)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T18:46:01Z",
-      "mergedAt": null,
-      "additions": 3,
-      "deletions": 4,
-      "changedFiles": 1
-    },
-    {
-      "number": 32029,
-      "title": "fix(acp): enforce sessions_spawn-only thread creation for harness spawns",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T18:18:52Z",
-      "mergedAt": null,
-      "additions": 0,
-      "deletions": 0,
-      "changedFiles": 0
-    },
-    {
-      "number": 31673,
-      "title": "fix(anthropic): drop replayed thinking blocks in transcript replay",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T12:21:53Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 4,
-      "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 30995,
-      "title": "Feature: adopt existing local Codex session into OpenClaw (handoff loop)",
-      "state": "OPEN",
-      "createdAt": "2026-03-01T21:46:01Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 36683,
@@ -262,70 +164,8 @@
       "prNumber": 34873,
       "state": "COMMENTED",
       "createdAt": "2026-03-04T21:36:43Z"
-    },
-    {
-      "prNumber": 34055,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T10:15:12Z"
-    },
-    {
-      "prNumber": 34055,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T10:13:18Z"
-    },
-    {
-      "prNumber": 33699,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T09:28:38Z"
-    },
-    {
-      "prNumber": 33699,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T09:28:33Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "merger",
-      "label": "Merger",
-      "description": "5+ merged PRs"
-    },
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    },
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-10": 1,
-    "2026-03-05": 2,
-    "2026-03-04": 2,
-    "2026-03-02": 1,
-    "2026-03-01": 1
-  },
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
@@ -338,24 +178,35 @@
       "reviews": 2
     },
     "2026-03-04": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
-      "reviews": 10
-    },
-    "2026-03-02": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-01": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
+      "reviews": 6
     },
     "2026-03-06": {
       "prs": 0,
       "issues": 0,
       "reviews": 3
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-10": 1,
+    "2026-03-05": 2,
+    "2026-03-04": 2,
+    "2026-03-02": 1,
+    "2026-03-01": 1
   }
 }

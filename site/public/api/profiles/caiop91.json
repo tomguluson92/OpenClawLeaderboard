@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/131739296?v=4",
   "githubUrl": "https://github.com/caiop91",
   "score": {
-    "score": 17.66,
-    "prScore": 12.66,
+    "score": 43,
+    "prScore": 38,
     "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 96,
-    "prDeletions": 15,
-    "prChangedFiles": 4,
+    "prAdditions": 259,
+    "prDeletions": 43,
+    "prChangedFiles": 14,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-08T15:42:59Z",
-  "lastContribution": "2026-03-11T06:10:50Z",
+  "lastContribution": "2026-03-14T22:48:04Z",
   "recentPRs": [
+    {
+      "number": 46626,
+      "title": "fix(reply): use isSilentTokenOnOwnLine in all delivery paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T22:48:04Z",
+      "mergedAt": null,
+      "additions": 163,
+      "deletions": 28,
+      "changedFiles": 10
+    },
     {
       "number": 42873,
       "title": "fix(reply): suppress entire message when NO_REPLY appears on its own line",
@@ -69,20 +78,19 @@
   "recentIssues": [
     {
       "number": 40019,
-      "title": "bug(whatsapp): applyGroupGating ignores accountId \u2014 multi-account group allowlist bypass",
+      "title": "bug(whatsapp): applyGroupGating ignores accountId — multi-account group allowlist bypass",
       "state": "OPEN",
       "createdAt": "2026-03-08T15:42:59Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -93,5 +101,11 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

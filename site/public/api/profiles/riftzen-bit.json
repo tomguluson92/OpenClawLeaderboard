@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/139470135?u=a6cbc2c7a7f14a5fafaeff72d8abcbe823e52c5d&v=4",
   "githubUrl": "https://github.com/riftzen-bit",
   "score": {
-    "score": 291.46,
-    "prScore": 210.46,
-    "issueScore": 13,
+    "score": 257.02,
+    "prScore": 184.02,
+    "issueScore": 5,
     "reviewScore": 66,
     "commentScore": 2
   },
@@ -13,27 +13,25 @@
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 14,
-    "prsMerged": 1,
-    "prAdditions": 1825,
-    "prDeletions": 152,
-    "prChangedFiles": 44,
-    "prMergeRate": 7,
-    "issues": 2,
-    "issuesClosed": 1,
+    "prs": 12,
+    "prsMerged": 0,
+    "prAdditions": 1787,
+    "prDeletions": 143,
+    "prChangedFiles": 40,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
     "reviews": 22,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 4,
     "commitAdditions": 13,
     "commitDeletions": 10,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 4
   },
   "period": {
     "weekly": {
-      "prs": 12,
+      "prs": 10,
       "issues": 0,
       "reviews": 22,
       "comments": 4,
@@ -42,8 +40,8 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 14,
-      "issues": 2,
+      "prs": 12,
+      "issues": 1,
       "reviews": 22,
       "comments": 4,
       "commitAdditions": 13,
@@ -51,7 +49,7 @@
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-03T01:31:33Z",
+  "firstContribution": "2026-03-03T05:58:28Z",
   "lastContribution": "2026-03-09T16:36:31Z",
   "recentPRs": [
     {
@@ -79,7 +77,7 @@
     {
       "number": 41232,
       "title": "fix: add google/gemini provider pairing for image tool",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T16:15:07Z",
       "mergedAt": null,
@@ -112,7 +110,7 @@
     {
       "number": 40656,
       "title": "fix(agents): clear stale tool call history between heartbeat cycles",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T05:59:29Z",
       "mergedAt": null,
@@ -134,7 +132,7 @@
     {
       "number": 40642,
       "title": "docs: quote bracket-notation paths in config CLI examples",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T05:41:43Z",
       "mergedAt": null,
@@ -145,7 +143,7 @@
     {
       "number": 40628,
       "title": "fix: make exec approval modal scrollable",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T05:20:35Z",
       "mergedAt": null,
@@ -156,7 +154,7 @@
     {
       "number": 39576,
       "title": "fix: prevent silence and context loss after auto-compaction",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T07:06:23Z",
       "mergedAt": null,
@@ -167,7 +165,7 @@
     {
       "number": 39358,
       "title": "fix(agent): notify user when context compaction produces empty response",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T01:51:03Z",
       "mergedAt": null,
@@ -185,28 +183,6 @@
       "additions": 62,
       "deletions": 20,
       "changedFiles": 4
-    },
-    {
-      "number": 32613,
-      "title": "fix(gateway): health check always times out when lsof is not installed",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T05:50:47Z",
-      "mergedAt": null,
-      "additions": 27,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 32382,
-      "title": "fix(gemini-cli-auth): use PLATFORM_UNSPECIFIED for Linux in loadCodeAssist",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-03T01:31:33Z",
-      "mergedAt": "2026-03-03T02:36:01Z",
-      "additions": 11,
-      "deletions": 8,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -216,13 +192,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-03T05:58:28Z",
       "closedAt": null
-    },
-    {
-      "number": 32399,
-      "title": "Gemini CLI OAuth completely broken on Linux \u2014 loadCodeAssist rejects \"LINUX\" platform",
-      "state": "CLOSED",
-      "createdAt": "2026-03-03T01:52:23Z",
-      "closedAt": "2026-03-03T02:41:22Z"
     }
   ],
   "recentReviews": [
@@ -327,6 +296,28 @@
       "createdAt": "2026-03-09T06:09:07Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 22
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-07": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -352,27 +343,5 @@
   ],
   "recentCommitDays": {
     "2026-03-03": 2
-  },
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 9,
-      "issues": 0,
-      "reviews": 20
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 0
-    }
   }
 }

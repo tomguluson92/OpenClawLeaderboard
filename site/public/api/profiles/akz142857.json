@@ -27,15 +27,13 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 15,
+      "prs": 1,
       "issues": 0,
-      "reviews": 1,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -68,7 +66,7 @@
     {
       "number": 39383,
       "title": "fix(agents): use Responses API flat tool format for WebSocket stream; fix TTS speed fallback",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T02:19:52Z",
       "mergedAt": null,
@@ -134,7 +132,7 @@
     {
       "number": 37369,
       "title": "fix(models): let explicit config baseUrl/apiKey override stale models.json cache",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T07:15:19Z",
       "mergedAt": null,
@@ -145,7 +143,7 @@
     {
       "number": 35969,
       "title": "fix(acpx): kill child process tree on session close to prevent zombie accumulation",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T11:01:02Z",
       "mergedAt": null,
@@ -156,7 +154,7 @@
     {
       "number": 35962,
       "title": "fix(gateway): exit gracefully when start() fails during restart loop",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T10:54:38Z",
       "mergedAt": null,
@@ -178,7 +176,7 @@
     {
       "number": 35779,
       "title": "fix(models): switch kimi-coding provider to openai-completions API ",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T08:42:29Z",
       "mergedAt": null,
@@ -200,7 +198,7 @@
     {
       "number": 35554,
       "title": "fix: sanitize Codex tool call IDs and honour Feishu reply_to_id",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T06:05:38Z",
       "mergedAt": null,
@@ -211,7 +209,7 @@
     {
       "number": 35531,
       "title": "fix: model selection checkmark and stale contextTokens after model switch",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-05T05:46:02Z",
       "mergedAt": null,
@@ -228,18 +226,6 @@
       "createdAt": "2026-03-05T08:49:53Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
@@ -266,5 +252,17 @@
       "issues": 0,
       "reviews": 1
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

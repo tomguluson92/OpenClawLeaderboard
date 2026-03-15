@@ -27,16 +27,14 @@
     "comments": 12,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 4,
       "issues": 0,
       "reviews": 3,
-      "comments": 12,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -89,7 +87,7 @@
     },
     {
       "number": 40679,
-      "title": "fix: filter delivery-mirror audit entries from LLM context, webchat, and API \u2014 eliminates escalating duplicate messages",
+      "title": "fix: filter delivery-mirror audit entries from LLM context, webchat, and API — eliminates escalating duplicate messages",
       "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T06:21:43Z",
@@ -139,13 +137,6 @@
       "createdAt": "2026-03-09T06:57:58Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 4,
@@ -157,5 +148,12 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

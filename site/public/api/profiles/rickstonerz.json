@@ -56,7 +56,7 @@
   "recentPRs": [
     {
       "number": 33819,
-      "title": "fix(gateway): production security hardening \u2014 trusted-proxy auth, shared-secret, nginx rDNS + .lan internal routing for multi-node swarm",
+      "title": "fix(gateway): production security hardening — trusted-proxy auth, shared-secret, nginx rDNS + .lan internal routing for multi-node swarm",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-04T02:50:43Z",
@@ -69,7 +69,7 @@
   "recentIssues": [
     {
       "number": 43561,
-      "title": "trusted-proxy mode is broken with nginx \u2014 proxy headers are never evaluated, making production multi-node deployments insecure",
+      "title": "trusted-proxy mode is broken with nginx — proxy headers are never evaluated, making production multi-node deployments insecure",
       "state": "OPEN",
       "createdAt": "2026-03-12T01:16:36Z",
       "closedAt": null

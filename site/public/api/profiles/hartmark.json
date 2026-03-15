@@ -3,38 +3,36 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12826053?v=4",
   "githubUrl": "https://github.com/hartmark",
   "score": {
-    "score": 15.83,
-    "prScore": 7.33,
-    "issueScore": 8,
+    "score": 12.91,
+    "prScore": 7.91,
+    "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1,
+    "prAdditions": 19,
     "prDeletions": 1,
     "prChangedFiles": 1,
     "prMergeRate": 0,
     "issues": 1,
-    "issuesClosed": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
+      "prs": 1,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -45,49 +43,48 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T20:38:18Z",
-  "lastContribution": "2026-03-02T22:22:44Z",
+  "firstContribution": "2026-03-14T00:13:41Z",
+  "lastContribution": "2026-03-14T21:21:28Z",
   "recentPRs": [
     {
-      "number": 32160,
-      "title": "Fix awk escape error when building docker with sandbox #32153",
-      "state": "CLOSED",
+      "number": 45548,
+      "title": "feat: Add optional QMD CLI installation via build argument in Dockerfile",
+      "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-02T20:44:58Z",
+      "createdAt": "2026-03-14T00:13:41Z",
       "mergedAt": null,
-      "additions": 1,
+      "additions": 19,
       "deletions": 1,
       "changedFiles": 1
     }
   ],
   "recentIssues": [
     {
-      "number": 32153,
-      "title": "[Bug]: OPENCLAW_SANDBOX=1 ./docker-setup.sh failing",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T20:38:18Z",
-      "closedAt": "2026-03-03T02:32:47Z"
+      "number": 46582,
+      "title": "[Bug]:  banner uses cumulative Tokens in instead of Context\"",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T21:21:28Z",
+      "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
-    "2026-03-02": {
+    "2026-03-14": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -3,36 +3,43 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/63548771?u=1c1af6a46bea7386af56ed58ababa51894d78807&v=4",
   "githubUrl": "https://github.com/guanyu-zhang",
   "score": {
-    "score": 102.8,
-    "prScore": 77.8,
-    "issueScore": 18,
+    "score": 71.76,
+    "prScore": 54.76,
+    "issueScore": 10,
     "reviewScore": 6,
     "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 5,
-    "prsMerged": 1,
-    "prAdditions": 695,
-    "prDeletions": 64,
-    "prChangedFiles": 20,
-    "prMergeRate": 20,
-    "issues": 3,
-    "issuesClosed": 1,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 692,
+    "prDeletions": 56,
+    "prChangedFiles": 17,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 3,
       "issues": 2,
       "reviews": 2,
@@ -40,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 5,
-      "issues": 3,
-      "reviews": 2,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T22:09:00Z",
+  "firstContribution": "2026-03-05T23:31:37Z",
   "lastContribution": "2026-03-10T09:53:24Z",
   "recentPRs": [
     {
@@ -86,28 +84,6 @@
       "additions": 454,
       "deletions": 25,
       "changedFiles": 5
-    },
-    {
-      "number": 32227,
-      "title": "fix(sandbox): make /workspace bind mount read-only when workspaceAcce\u2026",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T22:23:32Z",
-      "mergedAt": "2026-03-02T22:58:09Z",
-      "additions": 2,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 32215,
-      "title": "fix(sandbox): make /workspace bind mount read-only when workspaceAccess is not rw",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T22:09:00Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 2,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [
@@ -124,13 +100,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-05T23:32:23Z",
       "closedAt": null
-    },
-    {
-      "number": 32231,
-      "title": "[Question] sandbox workspace bind mount behavior when workspaceAccess is ro or none",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T22:25:46Z",
-      "closedAt": "2026-03-02T22:58:11Z"
     }
   ],
   "recentReviews": [
@@ -145,20 +114,6 @@
       "createdAt": "2026-03-06T00:49:38Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
@@ -174,11 +129,20 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

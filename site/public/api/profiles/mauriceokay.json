@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/132470536?v=4",
   "githubUrl": "https://github.com/mauriceokay",
   "score": {
-    "score": 40.42,
-    "prScore": 40.42,
+    "score": 161.64,
+    "prScore": 161.14,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 988,
-    "prDeletions": 68,
-    "prChangedFiles": 16,
+    "prAdditions": 6977,
+    "prDeletions": 180,
+    "prChangedFiles": 88,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T12:54:45Z",
-  "lastContribution": "2026-03-09T12:54:45Z",
+  "lastContribution": "2026-03-13T16:34:34Z",
   "recentPRs": [
+    {
+      "number": 45291,
+      "title": "Claude/fix dockerfile syntax s fxar",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T16:34:34Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 40,
+      "changedFiles": 2
+    },
+    {
+      "number": 45272,
+      "title": "Claude/continue development po i7n",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T16:15:35Z",
+      "mergedAt": null,
+      "additions": 207,
+      "deletions": 27,
+      "changedFiles": 3
+    },
+    {
+      "number": 45180,
+      "title": "Claude/add saas web app session 01 gb ur l3 k zz ypm qxw8erhz fq",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T14:26:14Z",
+      "mergedAt": null,
+      "additions": 5764,
+      "deletions": 45,
+      "changedFiles": 67
+    },
     {
       "number": 41002,
       "title": "Claude/this one 9 j hd z",
@@ -68,16 +99,23 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

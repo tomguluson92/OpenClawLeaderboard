@@ -1,0 +1,93 @@
+{
+  "username": "everest-an",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/118294469?u=809d8aff9ca1cca89615d94352da5be9639bd533&v=4",
+  "githubUrl": "https://github.com/everest-an",
+  "score": {
+    "score": 36.7,
+    "prScore": 36.2,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 399,
+    "prDeletions": 77,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T20:52:54Z",
+  "lastContribution": "2026-03-12T21:37:30Z",
+  "recentPRs": [
+    {
+      "number": 44393,
+      "title": "security(extensions): raise openclaw peer floor to >=2026.3.11",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T21:32:12Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    },
+    {
+      "number": 44379,
+      "title": "fix(pi-runner): harden context-overflow recovery with one suppress-hook retry",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T20:52:54Z",
+      "mergedAt": null,
+      "additions": 399,
+      "deletions": 77,
+      "changedFiles": 12
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

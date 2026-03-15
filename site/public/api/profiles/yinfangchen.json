@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/22325534?u=78621d6d3facd935d8752760fc6d3fe07e7443bf&v=4",
   "githubUrl": "https://github.com/yinfangchen",
   "score": {
-    "score": 70.69,
-    "prScore": 70.69,
+    "score": 41.5,
+    "prScore": 41.5,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 907,
+    "prAdditions": 57,
     "prDeletions": 18,
-    "prChangedFiles": 14,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T08:35:59Z",
+  "firstContribution": "2026-03-04T09:21:07Z",
   "lastContribution": "2026-03-04T18:10:22Z",
   "recentPRs": [
     {
@@ -108,31 +106,20 @@
       "additions": 2,
       "deletions": 1,
       "changedFiles": 1
-    },
-    {
-      "number": 34174,
-      "title": "feat(skills): add 6 new skills \u2014 git-standup, openbb, sysinfo, url-summarizer, crontab-helper, regex-helper",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T08:35:59Z",
-      "mergedAt": null,
-      "additions": 850,
-      "deletions": 0,
-      "changedFiles": 9
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-04": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

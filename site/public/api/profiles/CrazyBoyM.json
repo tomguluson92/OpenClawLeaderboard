@@ -3,39 +3,37 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/35400185?u=e074c7d2e42d687d843ed173407510cea9c1354e&v=4",
   "githubUrl": "https://github.com/CrazyBoyM",
   "score": {
-    "score": 25.61,
-    "prScore": 23.11,
+    "score": 52.67,
+    "prScore": 38.17,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 12,
     "commentScore": 2.5
   },
-  "tier": "beginner",
-  "characterClass": "Contributor",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 378,
-    "prDeletions": 11,
-    "prChangedFiles": 9,
+    "prAdditions": 647,
+    "prDeletions": 13,
+    "prChangedFiles": 16,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 4,
       "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -44,7 +42,7 @@
     "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 4,
       "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -52,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-11T12:20:12Z",
-  "lastContribution": "2026-03-12T05:13:56Z",
+  "lastContribution": "2026-03-13T08:25:43Z",
   "recentPRs": [
     {
       "number": 43170,
@@ -61,24 +59,51 @@
       "merged": false,
       "createdAt": "2026-03-11T12:20:12Z",
       "mergedAt": null,
-      "additions": 378,
-      "deletions": 11,
-      "changedFiles": 9
+      "additions": 647,
+      "deletions": 13,
+      "changedFiles": 16
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
+  "recentReviews": [
+    {
+      "prNumber": 43170,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T08:25:43Z"
+    },
+    {
+      "prNumber": 43170,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T08:25:40Z"
+    },
+    {
+      "prNumber": 43170,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T08:25:37Z"
+    },
+    {
+      "prNumber": 43170,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T08:25:09Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 4
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

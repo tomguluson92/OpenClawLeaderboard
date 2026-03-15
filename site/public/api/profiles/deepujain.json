@@ -27,16 +27,14 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -67,7 +65,7 @@
     },
     {
       "number": 39245,
-      "title": "fix(agents): normalize mangled tool names and IDs from OpenAI-compati\u2026",
+      "title": "fix(agents): normalize mangled tool names and IDs from OpenAI-compati…",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-07T22:42:41Z",
@@ -122,7 +120,7 @@
     },
     {
       "number": 39109,
-      "title": "fix(voice-call): add staleCallReaperSeconds and webhookSecurity to co\u2026",
+      "title": "fix(voice-call): add staleCallReaperSeconds and webhookSecurity to co…",
       "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-07T19:12:56Z",
@@ -134,17 +132,17 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 7,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/255488364?u=8bfcbf70573fcfa96752b1ef6731154b989cebd0&v=4",
   "githubUrl": "https://github.com/atian8179",
   "score": {
-    "score": 18.51,
-    "prScore": 18.51,
+    "score": 29.8,
+    "prScore": 29.8,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -14,41 +14,39 @@
   "stats": {
     "commits": 0,
     "prs": 2,
-    "prsMerged": 0,
-    "prAdditions": 147,
+    "prsMerged": 1,
+    "prAdditions": 175,
     "prDeletions": 2,
-    "prChangedFiles": 3,
-    "prMergeRate": 0,
+    "prChangedFiles": 5,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
-    "commitAdditions": 0,
+    "commitAdditions": 29,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
+      "commitAdditions": 29,
       "commitDeletions": 0,
-      "commits": 0
+      "commits": 1
     },
     "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
+      "commitAdditions": 29,
       "commitDeletions": 0,
-      "commits": 0
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-06T15:39:36Z",
@@ -57,13 +55,13 @@
     {
       "number": 41171,
       "title": "fix(config): add missing params field to agents.list[] validation schema",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-09T15:14:34Z",
-      "mergedAt": null,
-      "additions": 1,
+      "mergedAt": "2026-03-13T11:29:37Z",
+      "additions": 29,
       "deletions": 0,
-      "changedFiles": 1
+      "changedFiles": 3
     },
     {
       "number": 38050,
@@ -79,11 +77,6 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
@@ -95,5 +88,12 @@
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-13": 1
   }
 }

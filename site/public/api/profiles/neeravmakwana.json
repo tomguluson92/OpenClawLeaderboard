@@ -3,57 +3,121 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/261249544?v=4",
   "githubUrl": "https://github.com/neeravmakwana",
   "score": {
-    "score": 190.86,
-    "prScore": 182.36,
+    "score": 286.09,
+    "prScore": 246.09,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 5.5
+    "reviewScore": 27,
+    "commentScore": 13
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "active",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 3,
-    "prs": 9,
+    "prs": 15,
     "prsMerged": 2,
-    "prAdditions": 2253,
-    "prDeletions": 164,
-    "prChangedFiles": 38,
-    "prMergeRate": 22,
+    "prAdditions": 2752,
+    "prDeletions": 207,
+    "prChangedFiles": 55,
+    "prMergeRate": 13,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 9,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
+    "comments": 26,
     "commitAdditions": 21,
     "commitDeletions": 18,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 4
   },
   "period": {
     "weekly": {
-      "prs": 9,
+      "prs": 15,
       "issues": 0,
-      "reviews": 1,
-      "comments": 10,
+      "reviews": 9,
+      "comments": 26,
       "commitAdditions": 20,
       "commitDeletions": 17,
       "commits": 2
     },
     "monthly": {
-      "prs": 9,
+      "prs": 15,
       "issues": 0,
-      "reviews": 1,
-      "comments": 11,
-      "commitAdditions": 21,
-      "commitDeletions": 18,
-      "commits": 3
+      "reviews": 9,
+      "comments": 26,
+      "commitAdditions": 20,
+      "commitDeletions": 17,
+      "commits": 2
     }
   },
-  "firstContribution": "2026-03-03T02:39:15Z",
-  "lastContribution": "2026-03-12T02:08:10Z",
+  "firstContribution": "2026-03-09T16:22:19Z",
+  "lastContribution": "2026-03-14T04:07:06Z",
   "recentPRs": [
+    {
+      "number": 45715,
+      "title": "fix(ui): restore usage tab custom header layout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T04:01:41Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 45668,
+      "title": "fix(ui): improve light sidebar contrast",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T02:49:12Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 45601,
+      "title": "fix(discord): preserve code block indentation in streamed replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T01:34:42Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 17,
+      "changedFiles": 4
+    },
+    {
+      "number": 45562,
+      "title": "plugin-sdk: export gateway bind result type",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T00:42:43Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 45557,
+      "title": "plugin-sdk: export device-pair run command types",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T00:39:36Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 44553,
+      "title": "fix(compaction): recover manual /compact in threaded sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T02:30:08Z",
+      "mergedAt": null,
+      "additions": 311,
+      "deletions": 11,
+      "changedFiles": 6
+    },
     {
       "number": 43584,
       "title": "docs: update Raspberry Pi dashboard access instructions",
@@ -157,24 +221,62 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 45715,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T04:07:06Z"
+    },
+    {
+      "prNumber": 45715,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T04:07:05Z"
+    },
+    {
+      "prNumber": 45715,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T04:07:04Z"
+    },
+    {
+      "prNumber": 45601,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T01:45:22Z"
+    },
+    {
+      "prNumber": 45601,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T01:40:16Z"
+    },
+    {
+      "prNumber": 45562,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T00:49:56Z"
+    },
+    {
+      "prNumber": 44553,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T03:52:49Z"
+    },
+    {
+      "prNumber": 44553,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T02:57:59Z"
+    },
+    {
       "prNumber": 43101,
       "state": "COMMENTED",
       "createdAt": "2026-03-11T12:52:54Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-12": 1,
-    "2026-03-10": 1,
-    "2026-02-12": 1
-  },
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-12": {
       "prs": 3,
       "issues": 0,
@@ -195,5 +297,28 @@
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-12": 1,
+    "2026-03-10": 1,
+    "2026-02-12": 1
   }
 }

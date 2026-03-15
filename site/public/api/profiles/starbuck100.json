@@ -27,16 +27,14 @@
     "comments": 1,
     "commitAdditions": 143,
     "commitDeletions": 4,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 12
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 143,
       "commitDeletions": 4,
       "commits": 1
@@ -80,22 +78,13 @@
   "recentIssues": [
     {
       "number": 41100,
-      "title": "Compaction fails silently with 'Compaction cancelled' \u2014 safeguard returns no user-friendly reason",
+      "title": "Compaction fails silently with 'Compaction cancelled' — safeguard returns no user-friendly reason",
       "state": "OPEN",
       "createdAt": "2026-03-09T14:08:12Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-08": 1
-  },
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
@@ -107,5 +96,14 @@
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-08": 1
   }
 }

@@ -1,0 +1,98 @@
+{
+  "username": "brettdavies",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26392883?u=de01c6edce426850047426fcaf942de3858e14b4&v=4",
+  "githubUrl": "https://github.com/brettdavies",
+  "score": {
+    "score": 44.79,
+    "prScore": 29.79,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 5
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 1943,
+    "prDeletions": 45,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 10,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T18:03:32Z",
+  "lastContribution": "2026-03-12T20:45:14Z",
+  "recentPRs": [
+    {
+      "number": 44288,
+      "title": "feat(backup): add exclude patterns, --smart-exclude, and protected path guards [ai]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T18:03:32Z",
+      "mergedAt": null,
+      "additions": 1943,
+      "deletions": 45,
+      "changedFiles": 10
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 44362,
+      "title": "fix(backup): .backupignore permission check false-positives on Windows",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T20:13:24Z",
+      "closedAt": null
+    },
+    {
+      "number": 44361,
+      "title": "fix(backup): archive integrity cross-check fails on Windows (tar entry path mismatch)",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T20:13:02Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

@@ -1,0 +1,117 @@
+{
+  "username": "tamaosamu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5938440?u=cafa4989d5e6d91974b728e10726813242273665&v=4",
+  "githubUrl": "https://github.com/tamaosamu",
+  "score": {
+    "score": 29.08,
+    "prScore": 8.08,
+    "issueScore": 20,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 21,
+    "prDeletions": 15,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T02:09:57Z",
+  "lastContribution": "2026-03-14T03:40:05Z",
+  "recentPRs": [
+    {
+      "number": 45701,
+      "title": "fix(line): use configured field in collectStatusIssues instead of raw token",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T03:40:05Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 15,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45693,
+      "title": "LINE status always shows WARN: 'channel access token not configured' even when token is valid",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T03:25:56Z",
+      "closedAt": null
+    },
+    {
+      "number": 44557,
+      "title": "Control UI form mode cannot render channel accounts config",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T02:34:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 44546,
+      "title": "openclaw doctor reports 'LINE channel access token not configured' despite LINE channel working correctly",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T02:21:53Z",
+      "closedAt": null
+    },
+    {
+      "number": 44539,
+      "title": "openclaw doctor reports 'Telegram: not configured' despite Telegram channel working correctly",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T02:09:57Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

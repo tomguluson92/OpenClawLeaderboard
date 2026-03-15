@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258180677?v=4",
   "githubUrl": "https://github.com/extrasmall0",
   "score": {
-    "score": 85.76,
-    "prScore": 81.76,
+    "score": 126.02,
+    "prScore": 122.02,
     "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 1
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 288,
-    "prDeletions": 17,
-    "prChangedFiles": 15,
+    "prAdditions": 388,
+    "prDeletions": 29,
+    "prChangedFiles": 21,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,22 +27,20 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 7,
       "issues": 0,
-      "reviews": 1,
-      "comments": 2,
+      "reviews": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 12,
       "issues": 0,
       "reviews": 1,
       "comments": 2,
@@ -52,8 +50,52 @@
     }
   },
   "firstContribution": "2026-03-06T22:23:52Z",
-  "lastContribution": "2026-03-11T19:26:04Z",
+  "lastContribution": "2026-03-14T19:14:49Z",
   "recentPRs": [
+    {
+      "number": 46523,
+      "title": "fix(gateway): handle opaque origins for custom URL schemes in allowedOrigins",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T19:14:49Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 46318,
+      "title": "skip DNS pinning when routing through env proxy in trusted mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T16:13:28Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 45407,
+      "title": "fix(cli): add windowsHide to restart script spawn on Windows",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T19:23:01Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 44339,
+      "title": "fix: allow root-owned binaries in macOS SIP-protected paths for exec secret provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T19:23:49Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 3,
+      "changedFiles": 1
+    },
     {
       "number": 43425,
       "title": "fix: sanitize tool call IDs for openai-responses and codex-responses APIs",
@@ -127,8 +169,8 @@
       "merged": false,
       "createdAt": "2026-03-06T22:26:50Z",
       "mergedAt": null,
-      "additions": 8,
-      "deletions": 3,
+      "additions": 21,
+      "deletions": 5,
       "changedFiles": 1
     },
     {
@@ -138,7 +180,7 @@
       "merged": false,
       "createdAt": "2026-03-06T22:23:52Z",
       "mergedAt": null,
-      "additions": 53,
+      "additions": 56,
       "deletions": 5,
       "changedFiles": 2
     }
@@ -151,14 +193,22 @@
       "createdAt": "2026-03-07T02:18:43Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -184,5 +234,18 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

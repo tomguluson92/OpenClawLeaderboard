@@ -27,8 +27,6 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -69,25 +67,25 @@
   "recentIssues": [
     {
       "number": 42060,
-      "title": "[Bug]: tts tool tag [[audio_as_voice]] not processed by Telegram sender \u2014 audio delivered as file attachment instead of voice note",
+      "title": "[Bug]: tts tool tag [[audio_as_voice]] not processed by Telegram sender — audio delivered as file attachment instead of voice note",
       "state": "OPEN",
       "createdAt": "2026-03-10T10:49:41Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

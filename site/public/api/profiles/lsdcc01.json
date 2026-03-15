@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/239901345?v=4",
   "githubUrl": "https://github.com/lsdcc01",
   "score": {
-    "score": 22.57,
-    "prScore": 22.57,
+    "score": 18.04,
+    "prScore": 18.04,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -15,9 +15,9 @@
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 92,
-    "prDeletions": 24,
-    "prChangedFiles": 6,
+    "prAdditions": 28,
+    "prDeletions": 0,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,44 +49,44 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T01:57:22Z",
-  "lastContribution": "2026-03-04T08:32:20Z",
+  "firstContribution": "2026-03-13T06:54:29Z",
+  "lastContribution": "2026-03-13T07:29:40Z",
   "recentPRs": [
     {
-      "number": 34171,
-      "title": "ui: add clipboard fallback for copy button (#34092)",
+      "number": 44815,
+      "title": "Feishu: return [Image] placeholder for image messages to fix MediaPath mismatch (#44792)",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-04T08:32:20Z",
+      "createdAt": "2026-03-13T07:29:40Z",
       "mergedAt": null,
-      "additions": 27,
-      "deletions": 3,
-      "changedFiles": 1
+      "additions": 24,
+      "deletions": 0,
+      "changedFiles": 2
     },
     {
-      "number": 33757,
-      "title": "fix(memory): preserve FTS5 BM25 relevance in bm25RankToScore (#5767)",
+      "number": 44777,
+      "title": "fix(cli): add windowsHide to restart script spawn to suppress console windows (#44693)",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-04T01:57:22Z",
+      "createdAt": "2026-03-13T06:54:29Z",
       "mergedAt": null,
-      "additions": 65,
-      "deletions": 21,
-      "changedFiles": 5
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
-    "2026-03-04": {
+    "2026-03-13": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -3,78 +3,98 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/168966994?u=7f454d4609db1634bbea635db7a9ddc178d7527a&v=4",
   "githubUrl": "https://github.com/luoxiao6645",
   "score": {
-    "score": 53.48,
-    "prScore": 40.48,
+    "score": 123.31,
+    "prScore": 97.31,
     "issueScore": 0,
-    "reviewScore": 9,
-    "commentScore": 4
+    "reviewScore": 21,
+    "commentScore": 5
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 644,
-    "prDeletions": 15,
-    "prChangedFiles": 10,
+    "prAdditions": 1169,
+    "prDeletions": 119,
+    "prChangedFiles": 29,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 3,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
+    "comments": 10,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 5,
       "issues": 0,
-      "reviews": 3,
-      "comments": 8,
+      "reviews": 7,
+      "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 5,
       "issues": 0,
-      "reviews": 3,
-      "comments": 8,
+      "reviews": 7,
+      "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-08T07:42:38Z",
-  "lastContribution": "2026-03-11T10:33:01Z",
+  "lastContribution": "2026-03-13T11:50:30Z",
   "recentPRs": [
+    {
+      "number": 45026,
+      "title": " fix(browser): restore extension-relay color-scheme reset for attached pages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T11:09:02Z",
+      "mergedAt": null,
+      "additions": 287,
+      "deletions": 8,
+      "changedFiles": 7
+    },
+    {
+      "number": 44082,
+      "title": "fix[Bug]: [skills] Skipping skill path error triggered on officially installed skills via clawhub (WSL Environment)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T13:48:48Z",
+      "mergedAt": null,
+      "additions": 110,
+      "deletions": 69,
+      "changedFiles": 2
+    },
     {
       "number": 43011,
       "title": "fix[Bug]: Cross-channel outbound messages not visible in unified session context #42974",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T09:09:31Z",
       "mergedAt": null,
-      "additions": 412,
+      "additions": 456,
       "deletions": 11,
       "changedFiles": 2
     },
     {
       "number": 41071,
       "title": "fix(browser-relay): preserve attached tab color scheme AI-assisted",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T13:48:41Z",
       "mergedAt": null,
-      "additions": 134,
-      "deletions": 3,
-      "changedFiles": 5
+      "additions": 218,
+      "deletions": 30,
+      "changedFiles": 15
     },
     {
       "number": 39740,
@@ -91,6 +111,26 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 45026,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T11:50:30Z"
+    },
+    {
+      "prNumber": 45026,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T11:38:06Z"
+    },
+    {
+      "prNumber": 45026,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T11:37:52Z"
+    },
+    {
+      "prNumber": 41071,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T10:15:25Z"
+    },
+    {
       "prNumber": 41071,
       "state": "COMMENTED",
       "createdAt": "2026-03-11T10:33:01Z"
@@ -106,14 +146,17 @@
       "createdAt": "2026-03-11T09:59:22Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -129,5 +172,12 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

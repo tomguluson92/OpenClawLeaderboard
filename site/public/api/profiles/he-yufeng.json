@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/40085740?u=1b702d54a1790c486a79f5961933a05d35a4b510&v=4",
   "githubUrl": "https://github.com/he-yufeng",
   "score": {
-    "score": 79.36,
-    "prScore": 77.86,
+    "score": 79.22,
+    "prScore": 78.22,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 1
   },
   "tier": "regular",
   "characterClass": "Builder",
@@ -15,7 +15,7 @@
     "commits": 0,
     "prs": 7,
     "prsMerged": 1,
-    "prAdditions": 279,
+    "prAdditions": 305,
     "prDeletions": 25,
     "prChangedFiles": 13,
     "prMergeRate": 14,
@@ -24,11 +24,9 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 2,
     "commitAdditions": 7,
     "commitDeletions": 1,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
@@ -36,7 +34,7 @@
       "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 2,
       "commitAdditions": 7,
       "commitDeletions": 1,
       "commits": 1
@@ -45,7 +43,7 @@
       "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 2,
       "commitAdditions": 7,
       "commitDeletions": 1,
       "commits": 1
@@ -57,11 +55,11 @@
     {
       "number": 41288,
       "title": "feat: pluggable web search providers via plugin API",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T17:04:49Z",
       "mergedAt": null,
-      "additions": 253,
+      "additions": 279,
       "deletions": 2,
       "changedFiles": 6
     },
@@ -134,6 +132,13 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Discussion"
@@ -141,12 +146,5 @@
   "achievements": [],
   "recentCommitDays": {
     "2026-03-10": 1
-  },
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

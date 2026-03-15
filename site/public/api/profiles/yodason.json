@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/61774516?v=4",
   "githubUrl": "https://github.com/yodason",
   "score": {
-    "score": 24.79,
+    "score": 13.79,
     "prScore": 10.29,
-    "issueScore": 10,
+    "issueScore": 0,
     "reviewScore": 3,
-    "commentScore": 1.5
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,20 +19,27 @@
     "prDeletions": 1,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 1,
@@ -40,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 1,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T12:13:41Z",
+  "firstContribution": "2026-03-06T07:30:03Z",
   "lastContribution": "2026-03-06T08:30:13Z",
   "recentPRs": [
     {
@@ -66,22 +64,7 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 31664,
-      "title": "bug: agent runner stalls silently on rate limit / model switch mid-stream (attempt.ts race condition)",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T12:13:57Z",
-      "closedAt": null
-    },
-    {
-      "number": 31663,
-      "title": "bug: Chrome extension relay \u2014 tabOperationLocks not cleared on relay disconnect (zombie lock)",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T12:13:41Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 36938,
@@ -89,30 +72,18 @@
       "createdAt": "2026-03-06T07:30:03Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
       "issues": 0,
       "reviews": 1
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/138589?v=4",
   "githubUrl": "https://github.com/alexfilatov",
   "score": {
-    "score": 58.86,
-    "prScore": 55.86,
+    "score": 27.58,
+    "prScore": 27.58,
     "issueScore": 0,
-    "reviewScore": 3,
+    "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Maintainer",
+  "tier": "beginner",
+  "characterClass": "Builder",
   "stats": {
     "commits": 2,
-    "prs": 1,
-    "prsMerged": 1,
-    "prAdditions": 415,
+    "prs": 0,
+    "prsMerged": 0,
+    "prAdditions": 0,
     "prDeletions": 0,
-    "prChangedFiles": 8,
-    "prMergeRate": 100,
+    "prChangedFiles": 0,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 349,
     "commitDeletions": 1,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 10
   },
   "period": {
@@ -42,52 +40,26 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 1,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 349,
       "commitDeletions": 1,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-02T18:49:37Z",
-  "lastContribution": "2026-03-02T20:00:29Z",
-  "recentPRs": [
-    {
-      "number": 32051,
-      "title": "Add OpenAI OAuth TLS preflight and doctor prerequisite check",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T18:49:37Z",
-      "mergedAt": "2026-03-02T21:24:49Z",
-      "additions": 415,
-      "deletions": 0,
-      "changedFiles": 8
-    }
-  ],
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 32051,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T20:00:29Z"
-    }
-  ],
+  "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
-    "Code Review",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-03-02": 2
-  },
-  "recentActivityDays": {
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
-    }
   }
 }

@@ -1,0 +1,115 @@
+{
+  "username": "bingolam",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/200912265?u=8dc85f7ae0438f0144c98f647c72d7be9a60ba3e&v=4",
+  "githubUrl": "https://github.com/bingolam",
+  "score": {
+    "score": 49.88,
+    "prScore": 46.88,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 680,
+    "prDeletions": 81,
+    "prChangedFiles": 13,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T06:06:26Z",
+  "lastContribution": "2026-03-14T00:11:29Z",
+  "recentPRs": [
+    {
+      "number": 45530,
+      "title": "feat(tts): add persistent voice switching via directive persist=true",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T23:33:11Z",
+      "mergedAt": null,
+      "additions": 203,
+      "deletions": 7,
+      "changedFiles": 4
+    },
+    {
+      "number": 44716,
+      "title": "feat(tts): add MiniMax as a TTS provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T06:06:40Z",
+      "mergedAt": null,
+      "additions": 364,
+      "deletions": 10,
+      "changedFiles": 6
+    },
+    {
+      "number": 44713,
+      "title": "fix(tts): add channel adaptation layer for voice-bubble format conversion",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T06:06:26Z",
+      "mergedAt": null,
+      "additions": 113,
+      "deletions": 64,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 45530,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-14T00:11:29Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/768771?v=4",
   "githubUrl": "https://github.com/anisoptera",
   "score": {
-    "score": 76.25,
-    "prScore": 67.75,
+    "score": 58.43,
+    "prScore": 49.93,
     "issueScore": 0,
     "reviewScore": 6,
     "commentScore": 2.5
@@ -13,11 +13,11 @@
   "characterClass": "Contributor",
   "stats": {
     "commits": 2,
-    "prs": 2,
-    "prsMerged": 2,
-    "prAdditions": 162,
-    "prDeletions": 50,
-    "prChangedFiles": 10,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 135,
+    "prDeletions": 47,
+    "prChangedFiles": 6,
     "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,8 +27,6 @@
     "comments": 5,
     "commitAdditions": 215,
     "commitDeletions": 112,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 10
   },
   "period": {
@@ -36,13 +34,13 @@
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 2,
       "comments": 5,
@@ -64,17 +62,6 @@
       "additions": 135,
       "deletions": 47,
       "changedFiles": 6
-    },
-    {
-      "number": 33648,
-      "title": "fix(sessions-spawn): fix llama.cpp GBNF grammar overflow regression",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T00:05:09Z",
-      "mergedAt": "2026-03-04T04:35:41Z",
-      "additions": 27,
-      "deletions": 3,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
@@ -90,6 +77,13 @@
       "createdAt": "2026-03-04T18:23:50Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -101,12 +95,5 @@
     "2026-03-05": 1,
     "2026-03-04": 1,
     "2026-02-19": 1
-  },
-  "recentActivityDays": {
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 2
-    }
   }
 }

@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/285708?v=4",
   "githubUrl": "https://github.com/jasonhargrove",
   "score": {
-    "score": 50.83,
-    "prScore": 40.83,
-    "issueScore": 5,
-    "reviewScore": 3,
-    "commentScore": 2
+    "score": 15.64,
+    "prScore": 15.64,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 2,
-    "prs": 2,
-    "prsMerged": 1,
-    "prAdditions": 205,
-    "prDeletions": 3,
-    "prChangedFiles": 4,
-    "prMergeRate": 50,
-    "issues": 1,
+    "prs": 0,
+    "prsMerged": 0,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
+    "prMergeRate": 0,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 0,
     "commitAdditions": 100,
     "commitDeletions": 9,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 4
   },
   "period": {
@@ -42,84 +40,26 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 1,
-      "comments": 4,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 100,
       "commitDeletions": 9,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-02T22:00:51Z",
-  "lastContribution": "2026-03-03T01:07:07Z",
-  "recentPRs": [
-    {
-      "number": 32356,
-      "title": "fix(cli): fail fast on unsupported Node versions for installer and npm/npx runtime",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-03T00:44:09Z",
-      "mergedAt": "2026-03-03T02:03:45Z",
-      "additions": 95,
-      "deletions": 3,
-      "changedFiles": 3
-    },
-    {
-      "number": 32211,
-      "title": "fix(cli): bootstrap missing dist for npx github source installs",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-02T22:00:51Z",
-      "mergedAt": null,
-      "additions": 110,
-      "deletions": 0,
-      "changedFiles": 1
-    }
-  ],
-  "recentIssues": [
-    {
-      "number": 32284,
-      "title": "fix(cli): support npx github:openclaw/openclaw without global install",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T23:07:59Z",
-      "closedAt": null
-    }
-  ],
-  "recentReviews": [
-    {
-      "prNumber": 32211,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-02T22:27:07Z"
-    }
-  ],
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {
     "2026-03-03": 2
-  },
-  "recentActivityDays": {
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 1
-    }
   }
 }

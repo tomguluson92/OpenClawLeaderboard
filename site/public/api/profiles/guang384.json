@@ -3,57 +3,143 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1582168?u=657d1f9f6e358c8c8ee2b9dfb8368726f7d26007&v=4",
   "githubUrl": "https://github.com/guang384",
   "score": {
-    "score": 212.78,
-    "prScore": 184.28,
+    "score": 253.28,
+    "prScore": 233.28,
     "issueScore": 0,
-    "reviewScore": 24,
-    "commentScore": 4.5
+    "reviewScore": 12,
+    "commentScore": 8
   },
   "tier": "active",
-  "characterClass": "Reviewer",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 14,
     "prsMerged": 0,
-    "prAdditions": 7341,
-    "prDeletions": 915,
-    "prChangedFiles": 185,
+    "prAdditions": 7327,
+    "prDeletions": 930,
+    "prChangedFiles": 189,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 8,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
+    "comments": 16,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 8,
       "issues": 0,
-      "reviews": 5,
-      "comments": 8,
+      "reviews": 0,
+      "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 14,
       "issues": 0,
-      "reviews": 8,
-      "comments": 9,
+      "reviews": 4,
+      "comments": 16,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T05:37:07Z",
-  "lastContribution": "2026-03-07T05:51:04Z",
+  "firstContribution": "2026-03-05T21:54:14Z",
+  "lastContribution": "2026-03-13T12:45:49Z",
   "recentPRs": [
+    {
+      "number": 44105,
+      "title": "fix: show user messages immediately on Dashboard when agent starts (UX improvement)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T14:08:50Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 14,
+      "changedFiles": 4
+    },
+    {
+      "number": 44033,
+      "title": "URGENT: fix heartbeat suppressing all user messages during heartbeat execution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T12:27:23Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 44007,
+      "title": "fix: implement exec approvals Unix socket server (Issue #43989)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T12:02:03Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 43985,
+      "title": "fix(agents): skip tool calls without valid name on model switch",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T11:26:55Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43983,
+      "title": "fix(feishu): decode RFC 5987 filename for file downloads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T11:24:24Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 43965,
+      "title": "fix(agents): improve subagent output extraction for edge cases",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T10:58:04Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43949,
+      "title": "fix(agents): skip tool calls without valid name on model switch",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T10:37:27Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 43870,
+      "title": "fix(feishu): decode RFC 5987 filename for file downloads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T08:55:22Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 2,
+      "changedFiles": 1
+    },
     {
       "number": 38615,
       "title": "fix(plugins): handle symlinked plugin directories",
@@ -119,17 +205,6 @@
       "additions": 6789,
       "deletions": 887,
       "changedFiles": 149
-    },
-    {
-      "number": 33995,
-      "title": "feat(telegram): hot-reload groups + fix(ui): update banner close ",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T05:37:07Z",
-      "mergedAt": null,
-      "additions": 131,
-      "deletions": 7,
-      "changedFiles": 10
     }
   ],
   "recentIssues": [],
@@ -153,37 +228,14 @@
       "prNumber": 36761,
       "state": "COMMENTED",
       "createdAt": "2026-03-06T01:46:17Z"
-    },
-    {
-      "prNumber": 33995,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T20:58:01Z"
-    },
-    {
-      "prNumber": 33995,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T01:56:55Z"
-    },
-    {
-      "prNumber": 33995,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T01:56:12Z"
-    },
-    {
-      "prNumber": 33995,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T01:56:08Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Large-Scale Changes"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-07": {
       "prs": 4,
       "issues": 0,
@@ -197,12 +249,21 @@
     "2026-03-05": {
       "prs": 1,
       "issues": 0,
-      "reviews": 4
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

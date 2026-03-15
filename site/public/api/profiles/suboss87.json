@@ -1,0 +1,120 @@
+{
+  "username": "suboss87",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11032439?u=cd306e51bd02e8af04095e8342fe5153b139e17a&v=4",
+  "githubUrl": "https://github.com/suboss87",
+  "score": {
+    "score": 52.02,
+    "prScore": 50.02,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 266,
+    "prDeletions": 16,
+    "prChangedFiles": 13,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T04:32:39Z",
+  "lastContribution": "2026-03-14T09:51:34Z",
+  "recentPRs": [
+    {
+      "number": 45911,
+      "title": "fix(telegram): accept approval callbacks from forwarding target recipients",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T09:00:44Z",
+      "mergedAt": null,
+      "additions": 137,
+      "deletions": 13,
+      "changedFiles": 4
+    },
+    {
+      "number": 45648,
+      "title": "fix(ui): use totalTokens for context usage warning",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T02:23:42Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 45584,
+      "title": "feat(cron): add freshSession option to control session reuse per job",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T01:08:22Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 44659,
+      "title": "fix(discord): prevent gateway crash on non-JSON Discord API responses",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T04:32:39Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

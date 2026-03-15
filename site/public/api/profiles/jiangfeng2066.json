@@ -3,32 +3,30 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/265427002?u=06f37986c09491fa89ed7f7a1b3d9a88105e50ee&v=4",
   "githubUrl": "https://github.com/jiangfeng2066",
   "score": {
-    "score": 151.32,
-    "prScore": 150.82,
+    "score": 55.01,
+    "prScore": 55.01,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 9138,
-    "prDeletions": 12,
-    "prChangedFiles": 51,
+    "prAdditions": 2980,
+    "prDeletions": 6,
+    "prChangedFiles": 20,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -36,23 +34,23 @@
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T05:49:07Z",
-  "lastContribution": "2026-03-09T03:34:05Z",
+  "firstContribution": "2026-03-05T01:57:48Z",
+  "lastContribution": "2026-03-05T01:57:48Z",
   "recentPRs": [
     {
       "number": 35213,
@@ -64,38 +62,20 @@
       "additions": 2980,
       "deletions": 6,
       "changedFiles": 20
-    },
-    {
-      "number": 34007,
-      "title": "feat: add DeepSeek model configuration support",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T05:49:07Z",
-      "mergedAt": null,
-      "additions": 6158,
-      "deletions": 6,
-      "changedFiles": 31
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion",
-    "Large-Scale Changes"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

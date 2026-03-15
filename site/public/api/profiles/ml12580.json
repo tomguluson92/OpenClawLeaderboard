@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/38740695?v=4",
   "githubUrl": "https://github.com/ml12580",
   "score": {
-    "score": 153.78,
-    "prScore": 151.78,
+    "score": 105.57,
+    "prScore": 104.07,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 1.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 10,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 3014,
-    "prDeletions": 19,
-    "prChangedFiles": 34,
+    "prAdditions": 2848,
+    "prDeletions": 7,
+    "prChangedFiles": 26,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 3,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 10,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T07:33:53Z",
+  "firstContribution": "2026-03-04T12:07:05Z",
   "lastContribution": "2026-03-06T01:54:18Z",
   "recentPRs": [
     {
@@ -119,66 +117,10 @@
       "additions": 16,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 34147,
-      "title": "Web: Fix WhatsApp config changes ignored until channel restart (#33974)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T08:02:37Z",
-      "mergedAt": null,
-      "additions": 36,
-      "deletions": 9,
-      "changedFiles": 3
-    },
-    {
-      "number": 33830,
-      "title": "fix(process): resolve npm/npx to .cmd on Windows when npm-cli.js not \u2026",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T02:59:02Z",
-      "mergedAt": null,
-      "additions": 43,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 33725,
-      "title": "Browser: fix resolveBrowserBaseUrl missing return for host target (#3\u2026",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T01:25:20Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 32708,
-      "title": "Telegram: warn when accounts.default is missing in multi-account setup (#32137)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T07:33:53Z",
-      "mergedAt": null,
-      "additions": 82,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 4,
@@ -186,14 +128,15 @@
       "reviews": 0
     },
     "2026-03-04": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

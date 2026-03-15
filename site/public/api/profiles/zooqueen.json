@@ -3,37 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/98129351?u=a3f18aa19f18e4eb3953d46badd40ccb6f2d4076&v=4",
   "githubUrl": "https://github.com/zooqueen",
   "score": {
-    "score": 270.51,
-    "prScore": 269.51,
+    "score": 193.66,
+    "prScore": 193.66,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1586654,
-    "prDeletions": 837259,
-    "prChangedFiles": 37427,
+    "prAdditions": 170386,
+    "prDeletions": 83389,
+    "prChangedFiles": 5591,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T22:05:46Z",
+  "firstContribution": "2026-03-06T00:22:59Z",
   "lastContribution": "2026-03-06T00:22:59Z",
   "recentPRs": [
     {
@@ -64,79 +62,19 @@
       "additions": 170386,
       "deletions": 83389,
       "changedFiles": 5591
-    },
-    {
-      "number": 33230,
-      "title": "fix: resolve Android compilation errors from rebrand merge",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T16:10:10Z",
-      "mergedAt": null,
-      "additions": 236587,
-      "deletions": 126580,
-      "changedFiles": 5308
-    },
-    {
-      "number": 33170,
-      "title": "fix: resolve all CI test failures",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T15:22:45Z",
-      "mergedAt": null,
-      "additions": 235993,
-      "deletions": 125462,
-      "changedFiles": 5306
-    },
-    {
-      "number": 33123,
-      "title": "fix: resolve all CI test failures",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T14:52:07Z",
-      "mergedAt": null,
-      "additions": 235993,
-      "deletions": 125462,
-      "changedFiles": 5306
-    },
-    {
-      "number": 33081,
-      "title": "fix: resolve pre-existing CI test failures",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T13:56:16Z",
-      "mergedAt": null,
-      "additions": 235984,
-      "deletions": 125460,
-      "changedFiles": 5306
-    },
-    {
-      "number": 32340,
-      "title": "fix: update skill scripts to use live API endpoints",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T00:32:03Z",
-      "mergedAt": null,
-      "additions": 235924,
-      "deletions": 125498,
-      "changedFiles": 5306
-    },
-    {
-      "number": 32213,
-      "title": "feat: add Hanzo Search, Crawl, and Vector bot skills",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T22:05:46Z",
-      "mergedAt": null,
-      "additions": 235787,
-      "deletions": 125408,
-      "changedFiles": 5304
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
-    "Discussion",
     "Large-Scale Changes"
   ],
   "achievements": [
@@ -151,22 +89,5 @@
       "description": "50K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

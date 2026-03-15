@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/232409717?u=ff6457447c04ac4c0449b2d0ef2225c8438b3eb8&v=4",
   "githubUrl": "https://github.com/SmithLabsLLC",
   "score": {
-    "score": 221.28,
-    "prScore": 157.28,
+    "score": 228.33,
+    "prScore": 164.33,
     "issueScore": 0,
     "reviewScore": 63,
     "commentScore": 1
@@ -13,11 +13,11 @@
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 4093,
-    "prDeletions": 1440,
-    "prChangedFiles": 124,
+    "prAdditions": 4104,
+    "prDeletions": 1446,
+    "prChangedFiles": 126,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 5,
       "issues": 0,
       "reviews": 21,
       "comments": 2,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 5,
       "issues": 0,
       "reviews": 21,
       "comments": 2,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-08T22:18:17Z",
-  "lastContribution": "2026-03-09T01:42:03Z",
+  "lastContribution": "2026-03-12T22:46:26Z",
   "recentPRs": [
+    {
+      "number": 44423,
+      "title": "docs(telegram): add recovery hardening guidance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T22:46:26Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 6,
+      "changedFiles": 2
+    },
     {
       "number": 40401,
       "title": "fix(memory): keep group:memory read-only",
@@ -202,6 +211,23 @@
       "createdAt": "2026-03-08T22:53:09Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-09": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-08": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 12
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -215,17 +241,5 @@
       "description": "10+ reviews"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 9
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 11
-    }
-  }
+  "recentCommitDays": {}
 }

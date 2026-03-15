@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/249669838?v=4",
   "githubUrl": "https://github.com/jiangwenwei818",
   "score": {
-    "score": 207.53,
-    "prScore": 207.03,
+    "score": 214.06,
+    "prScore": 209.56,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 4.5
   },
   "tier": "active",
   "characterClass": "Builder",
@@ -15,28 +15,26 @@
     "commits": 0,
     "prs": 18,
     "prsMerged": 0,
-    "prAdditions": 564,
+    "prAdditions": 597,
     "prDeletions": 161,
-    "prChangedFiles": 41,
+    "prChangedFiles": 42,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 9,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 18,
+      "prs": 17,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -45,14 +43,14 @@
       "prs": 18,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-06T08:30:06Z",
-  "lastContribution": "2026-03-11T08:58:51Z",
+  "lastContribution": "2026-03-13T09:19:28Z",
   "recentPRs": [
     {
       "number": 42994,
@@ -68,12 +66,12 @@
     {
       "number": 42992,
       "title": "fix(agent): canonicalize bare CLI session-id before session_status lookup",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T08:56:04Z",
       "mergedAt": null,
-      "additions": 15,
-      "deletions": 2,
+      "additions": 22,
+      "deletions": 0,
       "changedFiles": 1
     },
     {
@@ -112,7 +110,7 @@
     {
       "number": 41938,
       "title": "fix: wire cron catch-up tuning and allow-always warnings",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T08:18:11Z",
       "mergedAt": null,
@@ -145,7 +143,7 @@
     {
       "number": 40704,
       "title": "fix(cron): filter reasoning payloads and strip thinking tags from announce delivery",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T06:52:17Z",
       "mergedAt": null,
@@ -156,7 +154,7 @@
     {
       "number": 40690,
       "title": "fix(imessage): strip reply directive tags instead of rendering as literal text",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T06:37:30Z",
       "mergedAt": null,
@@ -178,7 +176,7 @@
     {
       "number": 40556,
       "title": "fix(memory): migrate Ollama embeddings to /api/embed endpoint",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T03:55:22Z",
       "mergedAt": null,
@@ -189,7 +187,7 @@
     {
       "number": 40555,
       "title": "fix(pruner): weight CJK/non-Latin characters for accurate token estimation",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T03:53:07Z",
       "mergedAt": null,
@@ -215,9 +213,9 @@
       "merged": false,
       "createdAt": "2026-03-09T03:28:25Z",
       "mergedAt": null,
-      "additions": 4,
+      "additions": 28,
       "deletions": 3,
-      "changedFiles": 1
+      "changedFiles": 2
     },
     {
       "number": 40499,
@@ -244,29 +242,17 @@
     {
       "number": 37460,
       "title": "fix(feishu): fix streaming card sequence skew, card action chat_type, and webhook cleanup",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T08:30:06Z",
       "mergedAt": null,
-      "additions": 67,
-      "deletions": 43,
+      "additions": 69,
+      "deletions": 45,
       "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 5,
@@ -288,5 +274,17 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

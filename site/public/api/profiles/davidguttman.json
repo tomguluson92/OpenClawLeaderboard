@@ -3,10 +3,10 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/431696?v=4",
   "githubUrl": "https://github.com/davidguttman",
   "score": {
-    "score": 204.25,
-    "prScore": 197.75,
-    "issueScore": 5,
-    "reviewScore": 0,
+    "score": 202.51,
+    "prScore": 198.01,
+    "issueScore": 0,
+    "reviewScore": 3,
     "commentScore": 1.5
   },
   "tier": "active",
@@ -15,27 +15,25 @@
     "commits": 4,
     "prs": 7,
     "prsMerged": 2,
-    "prAdditions": 2697,
+    "prAdditions": 2761,
     "prDeletions": 142,
     "prChangedFiles": 39,
     "prMergeRate": 29,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 3,
     "commitAdditions": 706,
     "commitDeletions": 34,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 19
   },
   "period": {
     "weekly": {
       "prs": 5,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 1,
       "comments": 0,
       "commitAdditions": 576,
       "commitDeletions": 19,
@@ -43,16 +41,16 @@
     },
     "monthly": {
       "prs": 7,
-      "issues": 1,
-      "reviews": 0,
+      "issues": 0,
+      "reviews": 1,
       "comments": 3,
       "commitAdditions": 576,
       "commitDeletions": 19,
       "commits": 2
     }
   },
-  "firstContribution": "2026-02-27T20:19:02Z",
-  "lastContribution": "2026-03-12T00:06:44Z",
+  "firstContribution": "2026-03-04T17:49:30Z",
+  "lastContribution": "2026-03-13T21:23:04Z",
   "recentPRs": [
     {
       "number": 43535,
@@ -83,7 +81,7 @@
       "merged": false,
       "createdAt": "2026-03-11T17:07:35Z",
       "mergedAt": null,
-      "additions": 1139,
+      "additions": 1203,
       "deletions": 110,
       "changedFiles": 12
     },
@@ -132,27 +130,14 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
+  "recentIssues": [],
+  "recentReviews": [
     {
-      "number": 29116,
-      "title": "[Bug]: restart-sentinel consumed on startup but wake message never delivered",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T20:19:02Z",
-      "closedAt": null
+      "prNumber": 43366,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T21:23:04Z"
     }
   ],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-10": 2,
-    "2026-01-12": 2
-  },
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
@@ -174,10 +159,20 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-02-27": {
+    "2026-03-13": {
       "prs": 0,
-      "issues": 1,
-      "reviews": 0
+      "issues": 0,
+      "reviews": 1
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-10": 2
   }
 }

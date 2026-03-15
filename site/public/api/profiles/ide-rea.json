@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 42663,
     "commitDeletions": 11565,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 1048
   },
   "period": {
@@ -68,6 +66,13 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-09": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Direct Commits"
@@ -78,12 +83,5 @@
     "2026-02-06": 4,
     "2026-02-05": 8,
     "2026-02-04": 6
-  },
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
   }
 }

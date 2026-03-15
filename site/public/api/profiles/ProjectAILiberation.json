@@ -1,10 +1,10 @@
 {
   "username": "ProjectAILiberation",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/236648079?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/236648079?u=4e9df90cd5b3362f21d7343b807a047cab9a4954&v=4",
   "githubUrl": "https://github.com/ProjectAILiberation",
   "score": {
-    "score": 51.39,
-    "prScore": 51.39,
+    "score": 98.65,
+    "prScore": 98.65,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 11,
     "prsMerged": 0,
-    "prAdditions": 183,
-    "prDeletions": 0,
-    "prChangedFiles": 6,
+    "prAdditions": 405,
+    "prDeletions": 3,
+    "prChangedFiles": 12,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 11,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 11,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -52,8 +50,63 @@
     }
   },
   "firstContribution": "2026-03-10T10:29:30Z",
-  "lastContribution": "2026-03-11T08:12:47Z",
+  "lastContribution": "2026-03-13T06:57:29Z",
   "recentPRs": [
+    {
+      "number": 44782,
+      "title": "fix(docker): exclude .env from Docker build context",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T06:57:29Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43727,
+      "title": "fix(docker): isolate IPC namespace for both services",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T05:53:41Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43726,
+      "title": "fix(docker): clean up stale containers before gateway start",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T05:53:16Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 43725,
+      "title": "feat(security): add Markdown prompt injection scanning to skill-scanner",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T05:53:01Z",
+      "mergedAt": null,
+      "additions": 175,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 43724,
+      "title": "ci: add ShellCheck linting workflow for shell scripts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T05:52:31Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 42973,
       "title": "fix(docker): add no-new-privileges to gateway service",
@@ -123,12 +176,17 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 4,
       "issues": 0,
@@ -139,5 +197,16 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
 }

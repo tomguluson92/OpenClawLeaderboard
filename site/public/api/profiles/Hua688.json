@@ -27,14 +27,12 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -80,7 +78,7 @@
   "recentIssues": [
     {
       "number": 38784,
-      "title": "[Bug]: Azure OpenAI models report 0 context tokens \u2014 supportsUsageInStreaming forcefully disabled",
+      "title": "[Bug]: Azure OpenAI models report 0 context tokens — supportsUsageInStreaming forcefully disabled",
       "state": "OPEN",
       "createdAt": "2026-03-07T11:03:52Z",
       "closedAt": null
@@ -100,20 +98,6 @@
       "createdAt": "2026-03-05T03:24:41Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
@@ -130,5 +114,19 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/838027?v=4",
   "githubUrl": "https://github.com/nohat",
   "score": {
-    "score": 111.84,
+    "score": 81.34,
     "prScore": 81.34,
-    "issueScore": 30,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 4,
     "prs": 0,
@@ -19,16 +19,14 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 6,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 872,
     "commitDeletions": 39,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 30
   },
   "period": {
@@ -43,87 +41,25 @@
     },
     "monthly": {
       "prs": 0,
-      "issues": 6,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 872,
       "commitDeletions": 39,
       "commits": 4
     }
   },
-  "firstContribution": "2026-02-27T20:45:24Z",
-  "lastContribution": "2026-03-02T19:00:44Z",
+  "firstContribution": null,
+  "lastContribution": null,
   "recentPRs": [],
-  "recentIssues": [
-    {
-      "number": 32063,
-      "title": "Message Reliability: Durable SQLite Outbox, Recovery Worker, and Unified sendPayload",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T19:00:44Z",
-      "closedAt": null
-    },
-    {
-      "number": 29128,
-      "title": "Outbound delivery failures stored as opaque files \u2014 no way to detect silent message loss or diagnose failure patterns",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T20:46:57Z",
-      "closedAt": null
-    },
-    {
-      "number": 29127,
-      "title": "Abort (stop) does not prevent recovery-path re-delivery of partial reply",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T20:46:38Z",
-      "closedAt": null
-    },
-    {
-      "number": 29126,
-      "title": "Plugin/extension channel delivery failures are silent and unrecoverable",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T20:46:26Z",
-      "closedAt": null
-    },
-    {
-      "number": 29125,
-      "title": "Gateway crash (kill -9) during AI generation silently drops the user's message from conversation history",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T20:45:46Z",
-      "closedAt": null
-    },
-    {
-      "number": 29124,
-      "title": "No observability into message processing state (accepted \u2192 running \u2192 delivered/failed)",
-      "state": "OPEN",
-      "createdAt": "2026-02-27T20:45:24Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Issue Reporting",
-    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {
     "2026-03-02": 4
-  },
-  "recentActivityDays": {
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-02-27": {
-      "prs": 0,
-      "issues": 5,
-      "reviews": 0
-    }
   }
 }

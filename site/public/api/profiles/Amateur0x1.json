@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/157032610?u=500f5090d713017dd44637b0886383de0410a012&v=4",
   "githubUrl": "https://github.com/Amateur0x1",
   "score": {
-    "score": 57.67,
-    "prScore": 47.17,
-    "issueScore": 10,
+    "score": 71.33,
+    "prScore": 55.83,
+    "issueScore": 15,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -13,13 +13,13 @@
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 85,
+    "prAdditions": 94,
     "prDeletions": 73,
-    "prChangedFiles": 8,
+    "prChangedFiles": 9,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 3,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,14 +27,12 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 5,
-      "issues": 2,
+      "prs": 6,
+      "issues": 3,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -42,8 +40,8 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
-      "issues": 2,
+      "prs": 6,
+      "issues": 3,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-10T03:31:43Z",
-  "lastContribution": "2026-03-10T09:53:48Z",
+  "lastContribution": "2026-03-13T11:05:55Z",
   "recentPRs": [
+    {
+      "number": 45024,
+      "title": "fix(ui): add position:relative to .config-search--top for icon positioning",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T11:05:55Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 41884,
       "title": "fix: delete parent agent directory when removing agent",
@@ -112,6 +121,13 @@
   ],
   "recentIssues": [
     {
+      "number": 44861,
+      "title": "[Bug] WebUI Settings page search icon misaligned/rendered incorrectly",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T08:21:29Z",
+      "closedAt": null
+    },
+    {
       "number": 41686,
       "title": "[Bug]: Agent directory not fully cleaned up after deletion",
       "state": "OPEN",
@@ -127,18 +143,23 @@
     }
   ],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-10": {
+      "prs": 5,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 5,
-      "issues": 2,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

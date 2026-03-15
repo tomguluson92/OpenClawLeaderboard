@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/109857817?u=4289d5e16851c73bd4cb63b9c3f14f4c90bf15da&v=4",
   "githubUrl": "https://github.com/leepokai",
   "score": {
-    "score": 105.31,
+    "score": 100.31,
     "prScore": 99.81,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 3,
@@ -19,7 +19,7 @@
     "prDeletions": 377,
     "prChangedFiles": 31,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -27,12 +27,19 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 3,
       "issues": 0,
       "reviews": 0,
@@ -40,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 3,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T09:38:27Z",
+  "firstContribution": "2026-03-05T15:22:45Z",
   "lastContribution": "2026-03-07T09:58:47Z",
   "recentPRs": [
     {
@@ -88,33 +86,19 @@
       "changedFiles": 18
     }
   ],
-  "recentIssues": [
-    {
-      "number": 31542,
-      "title": "macOS CI job runs full TS test suite for iOS-only changes, causing timeout",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T09:38:27Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

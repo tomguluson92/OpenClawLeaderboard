@@ -1,23 +1,23 @@
 {
   "username": "BenediktSchackenberg",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/6381261?u=fd67e83d4d68dd226dd4600ff1d23c9b8e72ab80&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6381261?u=39cfdf76037c1302260b606d16c0ece66dd6e696&v=4",
   "githubUrl": "https://github.com/BenediktSchackenberg",
   "score": {
-    "score": 49.31,
-    "prScore": 43.81,
+    "score": 209.89,
+    "prScore": 204.39,
     "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0.5
   },
-  "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "tier": "active",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 3937,
-    "prDeletions": 3,
-    "prChangedFiles": 12,
+    "prAdditions": 46896,
+    "prDeletions": 3419,
+    "prChangedFiles": 949,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
@@ -27,14 +27,12 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 1,
+      "prs": 6,
+      "issues": 0,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 6,
       "issues": 1,
       "reviews": 0,
       "comments": 1,
@@ -51,29 +49,73 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T20:10:38Z",
-  "lastContribution": "2026-03-08T17:38:50Z",
+  "firstContribution": "2026-03-05T08:55:12Z",
+  "lastContribution": "2026-03-14T19:45:15Z",
   "recentPRs": [
     {
-      "number": 33466,
-      "title": "Fix/permanent delivery errors http 400",
+      "number": 46538,
+      "title": "fix(web): respect HTTP_PROXY/HTTPS_PROXY env vars in web_fetch",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-03T20:27:47Z",
+      "createdAt": "2026-03-14T19:45:15Z",
       "mergedAt": null,
-      "additions": 2905,
-      "deletions": 1,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 46533,
+      "title": "fix(security): block SSRF in nodes-camera writeUrlToFile",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T19:38:11Z",
+      "mergedAt": null,
+      "additions": 2848,
+      "deletions": 14,
       "changedFiles": 6
     },
     {
-      "number": 33444,
+      "number": 45348,
       "title": "feat: native PostgreSQL + pgvector memory backend",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-03T20:10:38Z",
+      "createdAt": "2026-03-13T17:51:27Z",
       "mergedAt": null,
-      "additions": 1032,
-      "deletions": 2,
+      "additions": 1201,
+      "deletions": 3,
+      "changedFiles": 10
+    },
+    {
+      "number": 45336,
+      "title": "Feat/postgres memory backend v2",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T17:32:37Z",
+      "mergedAt": null,
+      "additions": 37027,
+      "deletions": 3395,
+      "changedFiles": 918
+    },
+    {
+      "number": 45207,
+      "title": "feat(browser): add headless mode support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T14:55:17Z",
+      "mergedAt": null,
+      "additions": 2952,
+      "deletions": 3,
+      "changedFiles": 8
+    },
+    {
+      "number": 45174,
+      "title": "fix(security): extend env variable blocklist with missing injection vectors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T14:17:31Z",
+      "mergedAt": null,
+      "additions": 2867,
+      "deletions": 4,
       "changedFiles": 6
     }
   ],
@@ -87,16 +129,14 @@
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
-    "2026-03-03": {
+    "2026-03-14": {
       "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 4,
       "issues": 0,
       "reviews": 0
     },
@@ -105,5 +145,19 @@
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {}
 }

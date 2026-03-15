@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/116056546?u=66afabacdd5377af6e816158ffe0df08c26c6825&v=4",
   "githubUrl": "https://github.com/TomDjerry",
   "score": {
-    "score": 37.91,
-    "prScore": 19.91,
+    "score": 48.43,
+    "prScore": 30.43,
     "issueScore": 0,
     "reviewScore": 18,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 125,
-    "prDeletions": 12,
-    "prChangedFiles": 4,
+    "prAdditions": 173,
+    "prDeletions": 14,
+    "prChangedFiles": 6,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 6,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 6,
       "comments": 0,
@@ -52,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-10T09:46:17Z",
-  "lastContribution": "2026-03-12T02:57:40Z",
+  "lastContribution": "2026-03-12T05:43:59Z",
   "recentPRs": [
+    {
+      "number": 43717,
+      "title": "fix(cli): ignore invalid canonical session ids",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T05:43:59Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 2,
+      "changedFiles": 2
+    },
     {
       "number": 43614,
       "title": "fix(status): clarify bootstrap summary wording",
@@ -110,15 +119,9 @@
       "createdAt": "2026-03-11T04:16:37Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-12": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     },
@@ -132,5 +135,11 @@
       "issues": 0,
       "reviews": 6
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

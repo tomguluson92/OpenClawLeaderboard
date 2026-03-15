@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -56,7 +54,7 @@
   "recentPRs": [
     {
       "number": 41742,
-      "title": "feat(ui-mc): add Mavis Mission Control \u2014 agency-wide SPA with 80+ agents",
+      "title": "feat(ui-mc): add Mavis Mission Control — agency-wide SPA with 80+ agents",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-10T04:31:33Z",
@@ -68,6 +66,13 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests",
     "Large-Scale Changes"
@@ -79,12 +84,5 @@
       "description": "10K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

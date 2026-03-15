@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -300,6 +298,13 @@
       "createdAt": "2026-03-10T04:48:13Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-10": {
+      "prs": 17,
+      "issues": 0,
+      "reviews": 11
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
@@ -327,12 +332,5 @@
       "description": "50K+ lines added"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-10": {
-      "prs": 17,
-      "issues": 0,
-      "reviews": 11
-    }
-  }
+  "recentCommitDays": {}
 }

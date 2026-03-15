@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/28912784?u=820519a69df7b93cc15ccf4d5e40c9ac3664a1c9&v=4",
   "githubUrl": "https://github.com/jesamkim",
   "score": {
-    "score": 13.77,
+    "score": 8.27,
     "prScore": 8.27,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,39 +19,37 @@
     "prDeletions": 0,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T04:03:03Z",
+  "firstContribution": "2026-03-07T03:38:24Z",
   "lastContribution": "2026-03-07T03:38:24Z",
   "recentPRs": [
     {
@@ -66,33 +64,18 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 31257,
-      "title": "Support Anthropic 1M context window for Amazon Bedrock provider",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T04:03:03Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

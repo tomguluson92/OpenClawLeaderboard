@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -56,7 +54,7 @@
   "recentPRs": [
     {
       "number": 42023,
-      "title": "\u517c\u5bb9\u7fa4\u804a\u975e\u767d\u540d\u5355\u7528\u6237\u6d88\u606f\u4fdd\u5b58",
+      "title": "兼容群聊非白名单用户消息保存",
       "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T09:57:06Z",
@@ -68,16 +66,16 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

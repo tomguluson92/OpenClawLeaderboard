@@ -3,10 +3,10 @@
   "avatarUrl": "https://github.com/LalithaMV.png",
   "githubUrl": "https://github.com/LalithaMV",
   "score": {
-    "score": 149,
+    "score": 58,
     "prScore": 0,
     "issueScore": 0,
-    "reviewScore": 149,
+    "reviewScore": 58,
     "commentScore": 0
   },
   "tier": "regular",
@@ -21,21 +21,19 @@
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 39,
-    "reviewsApproved": 32,
+    "reviews": 15,
+    "reviewsApproved": 13,
     "reviewsChangesRequested": 0,
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 15,
+      "reviews": 2,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -44,14 +42,14 @@
     "monthly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 39,
+      "reviews": 15,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T06:32:37Z",
+  "firstContribution": "2026-03-06T06:24:53Z",
   "lastContribution": "2026-03-08T17:56:24Z",
   "recentPRs": [],
   "recentIssues": [],
@@ -130,33 +128,20 @@
       "prNumber": 37272,
       "state": "APPROVED",
       "createdAt": "2026-03-06T06:24:53Z"
-    },
-    {
-      "prNumber": 33485,
-      "state": "APPROVED",
-      "createdAt": "2026-03-04T05:52:37Z"
-    },
-    {
-      "prNumber": 33608,
-      "state": "APPROVED",
-      "createdAt": "2026-03-04T05:51:39Z"
-    },
-    {
-      "prNumber": 33485,
-      "state": "APPROVED",
-      "createdAt": "2026-03-04T04:25:27Z"
-    },
-    {
-      "prNumber": 33480,
-      "state": "APPROVED",
-      "createdAt": "2026-03-04T04:24:21Z"
-    },
-    {
-      "prNumber": 33608,
-      "state": "APPROVED",
-      "createdAt": "2026-03-04T04:22:07Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-08": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-06": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 13
+    }
+  },
   "skills": [
     "Code Review",
     "Approvals"
@@ -168,22 +153,5 @@
       "description": "10+ reviews"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-06": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 13
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 5
-    }
-  }
+  "recentCommitDays": {}
 }

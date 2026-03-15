@@ -1,0 +1,120 @@
+{
+  "username": "coletebou",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12384893?u=44ea346257dc161942a1368d2954a9a898a461e6&v=4",
+  "githubUrl": "https://github.com/coletebou",
+  "score": {
+    "score": 40.78,
+    "prScore": 30.28,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 70,
+    "prDeletions": 12,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T10:44:37Z",
+  "lastContribution": "2026-03-13T13:04:13Z",
+  "recentPRs": [
+    {
+      "number": 45105,
+      "title": "fix(gateway): bridge plugin registry across jiti VM realm boundaries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T13:04:13Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 45015,
+      "title": "fix(gateway): bridge plugin registry across jiti VM realm boundaries",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T10:53:54Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 45014,
+      "title": "fix(agents): prevent TDZ on ANTHROPIC_MODEL_ALIASES across chunk boundaries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:53:43Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 7,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45007,
+      "title": "[Bug]: Plugin HTTP routes return 404 due to cross-realm registry isolation (2026.3.12 regression)",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T10:44:42Z",
+      "closedAt": null
+    },
+    {
+      "number": 45006,
+      "title": "[Bug]: TDZ crash on ANTHROPIC_MODEL_ALIASES in bundled dist chunks (2026.3.12 regression)",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T10:44:37Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

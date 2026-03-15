@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/188308961?v=4",
   "githubUrl": "https://github.com/ocean-wan",
   "score": {
-    "score": 29.83,
-    "prScore": 23.83,
+    "score": 19.94,
+    "prScore": 13.94,
     "issueScore": 0,
     "reviewScore": 6,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Maintainer",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 100,
-    "prDeletions": 7,
-    "prChangedFiles": 7,
+    "prAdditions": 95,
+    "prDeletions": 6,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,8 +27,6 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 2,
       "comments": 0,
@@ -51,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T03:26:30Z",
+  "firstContribution": "2026-03-04T09:45:50Z",
   "lastContribution": "2026-03-04T10:21:25Z",
   "recentPRs": [
     {
@@ -64,17 +62,6 @@
       "additions": 95,
       "deletions": 6,
       "changedFiles": 5
-    },
-    {
-      "number": 32475,
-      "title": "fix: resolve pi-tools build errors (export assertRequiredParams, type\u2026",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T03:26:30Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -90,22 +77,17 @@
       "createdAt": "2026-03-04T09:55:14Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-04": {
       "prs": 1,
       "issues": 0,
       "reviews": 2
-    },
-    "2026-03-03": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

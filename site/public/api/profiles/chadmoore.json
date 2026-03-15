@@ -1,0 +1,88 @@
+{
+  "username": "chadmoore",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/230391?v=4",
+  "githubUrl": "https://github.com/chadmoore",
+  "score": {
+    "score": 12.43,
+    "prScore": 9.43,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 48,
+    "prDeletions": 8,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T01:20:27Z",
+  "lastContribution": "2026-03-15T02:07:14Z",
+  "recentPRs": [
+    {
+      "number": 46698,
+      "title": "fix(auth): fix GitHub device flow polling and add --wait flag for WSL…",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T01:20:27Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 8,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 46698,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T02:07:14Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

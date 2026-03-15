@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/134897422?v=4",
   "githubUrl": "https://github.com/Maple778",
   "score": {
-    "score": 105.14,
-    "prScore": 102.64,
+    "score": 57.95,
+    "prScore": 55.45,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 2.5
@@ -13,12 +13,12 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 11,
-    "prsMerged": 1,
-    "prAdditions": 182,
-    "prDeletions": 124,
-    "prChangedFiles": 11,
-    "prMergeRate": 9,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 132,
+    "prDeletions": 114,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -27,22 +27,20 @@
     "comments": 5,
     "commitAdditions": 24,
     "commitDeletions": 1,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 11,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
       "comments": 5,
@@ -51,7 +49,7 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-02T10:47:00Z",
+  "firstContribution": "2026-03-06T11:35:12Z",
   "lastContribution": "2026-03-06T13:45:33Z",
   "recentPRs": [
     {
@@ -119,89 +117,23 @@
       "additions": 27,
       "deletions": 26,
       "changedFiles": 1
-    },
-    {
-      "number": 31723,
-      "title": "fix(feishu): suppress reasoning/thinking block payloads from delivery",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-02T13:32:00Z",
-      "mergedAt": "2026-03-02T22:15:45Z",
-      "additions": 24,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 31721,
-      "title": "fix(discord): suppress reasoning/thinking block payloads from delivery",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T13:31:50Z",
-      "mergedAt": null,
-      "additions": 0,
-      "deletions": 0,
-      "changedFiles": 0
-    },
-    {
-      "number": 31719,
-      "title": "fix: prevent synthetic toolResult for aborted/errored assistant messages",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-02T13:31:21Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 5,
-      "changedFiles": 1
-    },
-    {
-      "number": 31715,
-      "title": "fix(slack): override wrong channel_type for D-prefix DM channels",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-02T13:28:46Z",
-      "mergedAt": null,
-      "additions": 13,
-      "deletions": 3,
-      "changedFiles": 1
-    },
-    {
-      "number": 31593,
-      "title": "fix(gateway): allow trusted-proxy and token/password auth to skip device pairing",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-02T10:47:00Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 1,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-02": 1
-  },
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 6,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-02": 1
   }
 }

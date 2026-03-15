@@ -3,57 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/126378?v=4",
   "githubUrl": "https://github.com/velvet-shark",
   "score": {
-    "score": 168.14,
-    "prScore": 161.14,
+    "score": 229.9,
+    "prScore": 218.9,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 7
+    "commentScore": 11
   },
-  "tier": "regular",
-  "characterClass": "Contributor",
+  "tier": "active",
+  "characterClass": "Builder",
   "stats": {
-    "commits": 5,
-    "prs": 3,
-    "prsMerged": 3,
-    "prAdditions": 718,
-    "prDeletions": 68,
-    "prChangedFiles": 23,
+    "commits": 9,
+    "prs": 6,
+    "prsMerged": 6,
+    "prAdditions": 867,
+    "prDeletions": 116,
+    "prChangedFiles": 36,
     "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 14,
-    "commitAdditions": 731,
-    "commitDeletions": 71,
-    "weeklyCommits": 5,
-    "monthlyCommits": 9,
-    "commitChangedFiles": 25
+    "comments": 22,
+    "commitAdditions": 881,
+    "commitDeletions": 120,
+    "commitChangedFiles": 39
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 12,
-      "commitAdditions": 731,
-      "commitDeletions": 71,
-      "commits": 5
+      "comments": 22,
+      "commitAdditions": 881,
+      "commitDeletions": 120,
+      "commits": 9
     },
     "monthly": {
-      "prs": 3,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 14,
-      "commitAdditions": 731,
-      "commitDeletions": 71,
-      "commits": 5
+      "comments": 22,
+      "commitAdditions": 881,
+      "commitDeletions": 120,
+      "commits": 9
     }
   },
-  "firstContribution": "2026-02-27T23:56:19Z",
-  "lastContribution": "2026-03-11T08:50:35Z",
+  "firstContribution": "2026-03-09T00:21:10Z",
+  "lastContribution": "2026-03-15T01:10:51Z",
   "recentPRs": [
+    {
+      "number": 46695,
+      "title": "Docs: fix MDX markers blocking page refreshes",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-15T01:10:51Z",
+      "mergedAt": "2026-03-15T01:58:59Z",
+      "additions": 18,
+      "deletions": 26,
+      "changedFiles": 7
+    },
+    {
+      "number": 46675,
+      "title": "docs: remove dead security README nav entry",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-15T00:22:51Z",
+      "mergedAt": "2026-03-15T00:40:00Z",
+      "additions": 51,
+      "deletions": 19,
+      "changedFiles": 3
+    },
+    {
+      "number": 45088,
+      "title": "fix(ui): keep shared auth on insecure control-ui connects",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-13T12:48:30Z",
+      "mergedAt": "2026-03-13T13:25:32Z",
+      "additions": 80,
+      "deletions": 3,
+      "changedFiles": 3
+    },
     {
       "number": 40892,
       "title": "fix(ui): preserve control-ui auth across refresh",
@@ -90,20 +121,49 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-09": 5
-  },
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 3,
       "issues": 0,
       "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "precision",
+      "label": "Precision",
+      "description": "90%+ PR merge rate"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-15": 2,
+    "2026-03-14": 1,
+    "2026-03-13": 1,
+    "2026-03-09": 5
   }
 }

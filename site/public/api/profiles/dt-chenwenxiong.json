@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/264732309?u=35da45ee5255ef10333974f99d0bf097b3f6f4d8&v=4",
   "githubUrl": "https://github.com/dt-chenwenxiong",
   "score": {
-    "score": 20.19,
-    "prScore": 19.69,
+    "score": 44.85,
+    "prScore": 44.35,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 64,
-    "prDeletions": 50,
-    "prChangedFiles": 4,
+    "prAdditions": 152,
+    "prDeletions": 80,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -52,8 +50,30 @@
     }
   },
   "firstContribution": "2026-03-05T10:14:13Z",
-  "lastContribution": "2026-03-10T08:29:18Z",
+  "lastContribution": "2026-03-14T16:23:21Z",
   "recentPRs": [
+    {
+      "number": 46325,
+      "title": "agents: fix image format for OpenAI-compatible providers like OpenRouter (#46255)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-14T16:23:21Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 15,
+      "changedFiles": 3
+    },
+    {
+      "number": 46288,
+      "title": "agents: fix image format for OpenAI-compatible providers like OpenRouter (#46255)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-14T15:30:47Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 15,
+      "changedFiles": 3
+    },
     {
       "number": 41941,
       "title": "fix(gateway):TUI Model Display Not Updating After session_status Switch",
@@ -79,13 +99,12 @@
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
+    "2026-03-14": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
@@ -96,5 +115,11 @@
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

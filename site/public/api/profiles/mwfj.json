@@ -3,49 +3,47 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12121110?u=d1f6eb52a940c0430e232edb83f32f4da2f59c84&v=4",
   "githubUrl": "https://github.com/mwfj",
   "score": {
-    "score": 78.25,
-    "prScore": 38.25,
+    "score": 47.27,
+    "prScore": 15.77,
     "issueScore": 26,
-    "reviewScore": 6,
-    "commentScore": 8
+    "reviewScore": 0,
+    "commentScore": 5.5
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 106,
-    "prDeletions": 25,
-    "prChangedFiles": 7,
+    "prAdditions": 12,
+    "prDeletions": 6,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 4,
     "issuesClosed": 2,
-    "reviews": 2,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 16,
+    "comments": 11,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 1,
-      "comments": 8,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 2,
       "issues": 4,
-      "reviews": 2,
-      "comments": 16,
+      "reviews": 0,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -75,28 +73,6 @@
       "additions": 9,
       "deletions": 4,
       "changedFiles": 1
-    },
-    {
-      "number": 33298,
-      "title": "fix(onboard): honor openai-codex auth-choice by setting primary model (#33290)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T17:07:52Z",
-      "mergedAt": null,
-      "additions": 58,
-      "deletions": 7,
-      "changedFiles": 2
-    },
-    {
-      "number": 32454,
-      "title": "fix(tests): update stale mocks for ResolvedAgentRoute and related type changes (#32446)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T03:03:06Z",
-      "mergedAt": null,
-      "additions": 36,
-      "deletions": 12,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [
@@ -123,48 +99,30 @@
     },
     {
       "number": 32446,
-      "title": "[Bug]: tsgo check broken on main \u2014 extension test mocks missing ResolvedAgentRoute fields (channel, mainSessionKey, matchedBy)",
+      "title": "[Bug]: tsgo check broken on main — extension test mocks missing ResolvedAgentRoute fields (channel, mainSessionKey, matchedBy)",
       "state": "CLOSED",
       "createdAt": "2026-03-03T02:55:57Z",
       "closedAt": "2026-03-03T03:06:17Z"
     }
   ],
-  "recentReviews": [
-    {
-      "prNumber": 33298,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T01:57:51Z"
-    },
-    {
-      "prNumber": 33298,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T17:16:48Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
-  ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 2,
       "issues": 2,
-      "reviews": 1
+      "reviews": 0
     },
     "2026-03-03": {
-      "prs": 2,
+      "prs": 0,
       "issues": 2,
-      "reviews": 1
+      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

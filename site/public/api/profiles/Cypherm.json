@@ -3,91 +3,109 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/28184436?u=580872133c27e488ac2eaaada196a6ead518ae8f&v=4",
   "githubUrl": "https://github.com/Cypherm",
   "score": {
-    "score": 20.15,
-    "prScore": 14.15,
-    "issueScore": 5,
-    "reviewScore": 0,
+    "score": 74.95,
+    "prScore": 62.95,
+    "issueScore": 8,
+    "reviewScore": 3,
     "commentScore": 1
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 51,
-    "prDeletions": 1,
-    "prChangedFiles": 6,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 169,
+    "prDeletions": 10,
+    "prChangedFiles": 15,
+    "prMergeRate": 100,
     "issues": 1,
-    "issuesClosed": 0,
-    "reviews": 0,
+    "issuesClosed": 1,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "commitAdditions": 169,
+    "commitDeletions": 10,
+    "commitChangedFiles": 15
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 169,
+      "commitDeletions": 10,
+      "commits": 1
     },
     "monthly": {
       "prs": 1,
       "issues": 1,
-      "reviews": 0,
+      "reviews": 1,
       "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 169,
+      "commitDeletions": 10,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-05T04:58:13Z",
-  "lastContribution": "2026-03-07T00:44:54Z",
+  "lastContribution": "2026-03-12T10:18:11Z",
   "recentPRs": [
     {
       "number": 35474,
       "title": "feat: show status reaction during context compaction",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-05T04:59:08Z",
-      "mergedAt": null,
-      "additions": 51,
-      "deletions": 1,
-      "changedFiles": 6
+      "mergedAt": "2026-03-13T04:06:15Z",
+      "additions": 169,
+      "deletions": 10,
+      "changedFiles": 15
     }
   ],
   "recentIssues": [
     {
       "number": 35545,
       "title": "UX: no feedback during context auto-compaction (10-30s freeze)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-05T05:58:17Z",
-      "closedAt": null
+      "closedAt": "2026-03-13T04:06:17Z"
     }
   ],
-  "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+  "recentReviews": [
+    {
+      "prNumber": 35474,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T10:18:11Z"
+    }
   ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
     "2026-03-05": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-13": 1
   }
 }

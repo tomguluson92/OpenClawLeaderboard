@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4801649?v=4",
   "githubUrl": "https://github.com/markmusson",
   "score": {
-    "score": 22.81,
-    "prScore": 22.81,
+    "score": 63.32,
+    "prScore": 63.32,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 0,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
+    "prAdditions": 1423,
+    "prDeletions": 448,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 178,
     "commitDeletions": 3,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 5
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,18 +49,48 @@
       "commits": 3
     }
   },
-  "firstContribution": null,
-  "lastContribution": null,
-  "recentPRs": [],
+  "firstContribution": "2026-03-13T11:46:57Z",
+  "lastContribution": "2026-03-13T12:06:21Z",
+  "recentPRs": [
+    {
+      "number": 45062,
+      "title": "perf(agents): optimize system prompt KV cache hit rate (10,901 → 30,735 stable chars, 99.4%) [ai-assisted]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T12:06:21Z",
+      "mergedAt": null,
+      "additions": 478,
+      "deletions": 220,
+      "changedFiles": 2
+    },
+    {
+      "number": 45053,
+      "title": "perf(agents): optimise system prompt KV cache hit rate (10,901 → 30,735 stable chars, 99.4%)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-13T11:46:57Z",
+      "mergedAt": null,
+      "additions": 945,
+      "deletions": 228,
+      "changedFiles": 8
+    }
+  ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
+    "Pull Requests",
     "Direct Commits"
   ],
   "achievements": [],
   "recentCommitDays": {
     "2026-03-02": 1,
     "2026-02-24": 2
-  },
-  "recentActivityDays": {}
+  }
 }

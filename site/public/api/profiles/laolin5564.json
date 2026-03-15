@@ -1,0 +1,102 @@
+{
+  "username": "laolin5564",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/158557918?u=3b0705f08eec9d94ca2483315cc27ad548b6ff7f&v=4",
+  "githubUrl": "https://github.com/laolin5564",
+  "score": {
+    "score": 23.99,
+    "prScore": 18.49,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 137,
+    "prDeletions": 8,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T10:47:13Z",
+  "lastContribution": "2026-03-13T12:39:46Z",
+  "recentPRs": [
+    {
+      "number": 45081,
+      "title": "fix(models): lazy-init ANTHROPIC_MODEL_ALIASES to avoid TDZ crash",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T12:39:46Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 7,
+      "changedFiles": 1
+    },
+    {
+      "number": 45013,
+      "title": "feat(memory): add instruct prefix for Ollama embedding queries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T10:50:19Z",
+      "mergedAt": null,
+      "additions": 114,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45076,
+      "title": "Bug: ANTHROPIC_MODEL_ALIASES TDZ crash when contextPruning is configured (3.12)",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T12:35:43Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

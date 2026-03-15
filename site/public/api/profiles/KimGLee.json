@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/150593189?v=4",
   "githubUrl": "https://github.com/KimGLee",
   "score": {
-    "score": 234.52,
-    "prScore": 209.02,
-    "issueScore": 10,
+    "score": 176.33,
+    "prScore": 159.83,
+    "issueScore": 5,
     "reviewScore": 9,
-    "commentScore": 6.5
+    "commentScore": 2.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 2,
-    "prs": 11,
-    "prsMerged": 1,
-    "prAdditions": 2293,
-    "prDeletions": 303,
-    "prChangedFiles": 75,
-    "prMergeRate": 9,
-    "issues": 2,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 1650,
+    "prDeletions": 266,
+    "prChangedFiles": 50,
+    "prMergeRate": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
+    "comments": 5,
     "commitAdditions": 148,
     "commitDeletions": 47,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 5,
-      "issues": 1,
+      "prs": 2,
+      "issues": 0,
       "reviews": 3,
-      "comments": 6,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 11,
-      "issues": 2,
+      "prs": 5,
+      "issues": 1,
       "reviews": 3,
-      "comments": 13,
+      "comments": 5,
       "commitAdditions": 148,
       "commitDeletions": 47,
       "commits": 2
     }
   },
-  "firstContribution": "2026-02-27T10:48:35Z",
+  "firstContribution": "2026-03-05T10:43:15Z",
   "lastContribution": "2026-03-11T03:54:51Z",
   "recentPRs": [
     {
@@ -61,9 +59,9 @@
       "merged": false,
       "createdAt": "2026-03-09T00:06:13Z",
       "mergedAt": null,
-      "additions": 828,
-      "deletions": 64,
-      "changedFiles": 22
+      "additions": 866,
+      "deletions": 86,
+      "changedFiles": 23
     },
     {
       "number": 40374,
@@ -108,72 +106,6 @@
       "additions": 152,
       "deletions": 85,
       "changedFiles": 2
-    },
-    {
-      "number": 32742,
-      "title": "fix(feishu): restore quoted card content by avoiding lossy interactive placeholder",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T08:00:42Z",
-      "mergedAt": null,
-      "additions": 43,
-      "deletions": 5,
-      "changedFiles": 2
-    },
-    {
-      "number": 32649,
-      "title": "fix(telegram): fire message hooks in reply delivery path",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-03T06:30:12Z",
-      "mergedAt": "2026-03-03T11:26:20Z",
-      "additions": 182,
-      "deletions": 47,
-      "changedFiles": 3
-    },
-    {
-      "number": 32643,
-      "title": "fix(slack): stabilize DM react with channel target + messageId inference",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T06:26:46Z",
-      "mergedAt": null,
-      "additions": 76,
-      "deletions": 1,
-      "changedFiles": 8
-    },
-    {
-      "number": 32641,
-      "title": "fix(gateway): avoid false restart timeout when lsof is unavailable",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T06:23:04Z",
-      "mergedAt": null,
-      "additions": 74,
-      "deletions": 2,
-      "changedFiles": 9
-    },
-    {
-      "number": 32433,
-      "title": "fix(fs-safe): honor umask/default ACLs for created files",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-03T02:24:30Z",
-      "mergedAt": null,
-      "additions": 20,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 32376,
-      "title": "fix(tools): handle abort-after-commit false failures for host write/edit",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-03T01:15:50Z",
-      "mergedAt": null,
-      "additions": 286,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -182,13 +114,6 @@
       "title": "Continuity pipeline hardening: adaptive Telegram reply threading, message-bound task routing, worker queueing, and long-run observability",
       "state": "OPEN",
       "createdAt": "2026-03-06T04:45:47Z",
-      "closedAt": null
-    },
-    {
-      "number": 31511,
-      "title": "CI(main): required checks failing due to baseline regressions (install-smoke + tsgo/check)",
-      "state": "OPEN",
-      "createdAt": "2026-03-02T09:08:05Z",
       "closedAt": null
     }
   ],
@@ -209,28 +134,6 @@
       "createdAt": "2026-03-09T00:30:44Z"
     }
   ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion",
-    "Direct Commits"
-  ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-03": 2
-  },
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 2,
@@ -246,16 +149,23 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-02": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-03": 2
   }
 }

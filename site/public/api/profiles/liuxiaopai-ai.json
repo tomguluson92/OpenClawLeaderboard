@@ -3,55 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/73659136?v=4",
   "githubUrl": "https://github.com/liuxiaopai-ai",
   "score": {
-    "score": 2158.13,
-    "prScore": 2054.13,
+    "score": 845.22,
+    "prScore": 835.22,
     "issueScore": 5,
-    "reviewScore": 78,
-    "commentScore": 21
+    "reviewScore": 0,
+    "commentScore": 5
   },
-  "tier": "elite",
+  "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
     "commits": 30,
-    "prs": 242,
-    "prsMerged": 20,
-    "prAdditions": 20210,
-    "prDeletions": 2004,
-    "prChangedFiles": 1067,
-    "prMergeRate": 8,
+    "prs": 78,
+    "prsMerged": 2,
+    "prAdditions": 6654,
+    "prDeletions": 542,
+    "prChangedFiles": 410,
+    "prMergeRate": 3,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 26,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 42,
+    "comments": 10,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 77,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 9,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 242,
+      "prs": 78,
       "issues": 1,
-      "reviews": 26,
-      "comments": 42,
+      "reviews": 0,
+      "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-01T17:47:37Z",
+  "firstContribution": "2026-03-03T20:12:11Z",
   "lastContribution": "2026-03-06T09:01:48Z",
   "recentPRs": [
     {
@@ -284,111 +282,31 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [
-    {
-      "prNumber": 32862,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T20:20:45Z"
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-06": {
+      "prs": 14,
+      "issues": 0,
+      "reviews": 0
     },
-    {
-      "prNumber": 32862,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T20:19:01Z"
+    "2026-03-05": {
+      "prs": 63,
+      "issues": 0,
+      "reviews": 0
     },
-    {
-      "prNumber": 32696,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T20:19:00Z"
+    "2026-03-04": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
     },
-    {
-      "prNumber": 32880,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T20:17:41Z"
-    },
-    {
-      "prNumber": 32862,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T20:17:41Z"
-    },
-    {
-      "prNumber": 32862,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T20:17:41Z"
-    },
-    {
-      "prNumber": 32722,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:58:28Z"
-    },
-    {
-      "prNumber": 32737,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:55:00Z"
-    },
-    {
-      "prNumber": 32731,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:52:39Z"
-    },
-    {
-      "prNumber": 32696,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:51:12Z"
-    },
-    {
-      "prNumber": 32679,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:49:55Z"
-    },
-    {
-      "prNumber": 32722,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:38:19Z"
-    },
-    {
-      "prNumber": 32715,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:34:37Z"
-    },
-    {
-      "prNumber": 32715,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:34:33Z"
-    },
-    {
-      "prNumber": 32696,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:30:22Z"
-    },
-    {
-      "prNumber": 32696,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:30:18Z"
-    },
-    {
-      "prNumber": 32685,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:28:52Z"
-    },
-    {
-      "prNumber": 32679,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:26:10Z"
-    },
-    {
-      "prNumber": 32670,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:24:26Z"
-    },
-    {
-      "prNumber": 32731,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T08:22:37Z"
+    "2026-03-03": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
-  ],
+  },
   "skills": [
     "Pull Requests",
-    "Code Review",
     "Issue Reporting",
     "Discussion",
     "Direct Commits",
@@ -404,54 +322,7 @@
       "id": "pr-master",
       "label": "PR Master",
       "description": "50+ pull requests"
-    },
-    {
-      "id": "pr-legend",
-      "label": "PR Legend",
-      "description": "100+ pull requests"
-    },
-    {
-      "id": "merger",
-      "label": "Merger",
-      "description": "5+ merged PRs"
-    },
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    },
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 14,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 20
-    }
-  }
+  "recentCommitDays": {}
 }

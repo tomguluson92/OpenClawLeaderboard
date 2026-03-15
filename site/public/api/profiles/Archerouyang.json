@@ -1,0 +1,131 @@
+{
+  "username": "Archerouyang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/122831462?u=f3587c869a0aae27408237b1191ddf135c6a7a81&v=4",
+  "githubUrl": "https://github.com/Archerouyang",
+  "score": {
+    "score": 79.09,
+    "prScore": 78.59,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 985,
+    "prDeletions": 25,
+    "prChangedFiles": 21,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T08:06:18Z",
+  "lastContribution": "2026-03-13T05:35:10Z",
+  "recentPRs": [
+    {
+      "number": 44671,
+      "title": "fix(docker): allow whitespace in config and workspace paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-13T04:58:03Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 15,
+      "changedFiles": 1
+    },
+    {
+      "number": 43881,
+      "title": "feat(gateway): add startup notification feature",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T09:11:15Z",
+      "mergedAt": null,
+      "additions": 529,
+      "deletions": 3,
+      "changedFiles": 8
+    },
+    {
+      "number": 43843,
+      "title": "fix(ui): add font-family to chat-thinking for Chinese character support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T08:19:12Z",
+      "mergedAt": null,
+      "additions": 380,
+      "deletions": 3,
+      "changedFiles": 9
+    },
+    {
+      "number": 43839,
+      "title": "fix(cron): prevent false positive legacy payload kind normalization",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-12T08:10:54Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 43835,
+      "title": "fix(sandbox): cleanup workspace directories during prune",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-12T08:06:18Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}
