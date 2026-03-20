@@ -1,57 +1,68 @@
 {
   "username": "GodsBoy",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/5792287?u=f103aac89d8296d2996fbae09cde78d3f08d3aac&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5792287?u=a2591debd7a82daba43f7261ed88b7716effd3ca&v=4",
   "githubUrl": "https://github.com/GodsBoy",
   "score": {
-    "score": 164.28,
-    "prScore": 111.28,
-    "issueScore": 18,
-    "reviewScore": 30,
-    "commentScore": 5
+    "score": 206.45,
+    "prScore": 128.95,
+    "issueScore": 23,
+    "reviewScore": 48,
+    "commentScore": 6.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 994,
-    "prDeletions": 51,
-    "prChangedFiles": 31,
+    "prAdditions": 1238,
+    "prDeletions": 56,
+    "prChangedFiles": 35,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 4,
     "issuesClosed": 1,
-    "reviews": 10,
+    "reviews": 16,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
+    "comments": 13,
     "commitAdditions": 47,
     "commitDeletions": 1,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 6,
-      "issues": 3,
-      "reviews": 10,
-      "comments": 9,
+      "prs": 2,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
-      "issues": 3,
-      "reviews": 10,
-      "comments": 10,
+      "prs": 7,
+      "issues": 4,
+      "reviews": 16,
+      "comments": 13,
       "commitAdditions": 47,
       "commitDeletions": 1,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T11:04:52Z",
-  "lastContribution": "2026-03-14T15:18:19Z",
+  "firstContribution": "2026-03-08T11:43:02Z",
+  "lastContribution": "2026-03-19T12:49:47Z",
   "recentPRs": [
+    {
+      "number": 49091,
+      "title": "fix(install): auto-write NODE_EXTRA_CA_CERTS to .env on nvm Node.js installs (Linux)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T15:13:33Z",
+      "mergedAt": null,
+      "additions": 244,
+      "deletions": 5,
+      "changedFiles": 4
+    },
     {
       "number": 46259,
       "title": "fix(browser): skip shared_worker/service_worker CDP targets gracefully",
@@ -121,6 +132,13 @@
   ],
   "recentIssues": [
     {
+      "number": 49088,
+      "title": "[Bug] web_fetch fails silently on Linux/VPS when Node.js installed via nvm (TLS cert bundle missing ISRG/DigiCert roots)",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T15:06:53Z",
+      "closedAt": null
+    },
+    {
       "number": 41982,
       "title": "feat(telegram): persist forum topic icons via config (iconCustomEmojiId)",
       "state": "OPEN",
@@ -143,6 +161,36 @@
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 49091,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T15:44:09Z"
+    },
+    {
+      "prNumber": 49091,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T15:36:03Z"
+    },
+    {
+      "prNumber": 49091,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T15:25:43Z"
+    },
+    {
+      "prNumber": 49091,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T15:25:33Z"
+    },
+    {
+      "prNumber": 49091,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T15:25:24Z"
+    },
+    {
+      "prNumber": 49091,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T15:24:49Z"
+    },
     {
       "prNumber": 41365,
       "state": "COMMENTED",
@@ -195,6 +243,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,

@@ -1,0 +1,177 @@
+{
+  "username": "gaohongxiang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33713367?u=fc79fc2ba1b0f765a3474fe6b5f0d7996ecc58f9&v=4",
+  "githubUrl": "https://github.com/gaohongxiang",
+  "score": {
+    "score": 163.85,
+    "prScore": 135.35,
+    "issueScore": 0,
+    "reviewScore": 27,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 1178,
+    "prDeletions": 305,
+    "prChangedFiles": 49,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 9,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 9,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 9,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T06:14:18Z",
+  "lastContribution": "2026-03-19T07:29:14Z",
+  "recentPRs": [
+    {
+      "number": 50241,
+      "title": "fix(feishu): avoid resolving SecretRefs during tool register",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T05:27:59Z",
+      "mergedAt": null,
+      "additions": 166,
+      "deletions": 18,
+      "changedFiles": 11
+    },
+    {
+      "number": 47406,
+      "title": "fix(feishu): avoid resolving SecretRefs during plugin register",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:47:49Z",
+      "mergedAt": null,
+      "additions": 620,
+      "deletions": 115,
+      "changedFiles": 14
+    },
+    {
+      "number": 47016,
+      "title": "fix(feishu): defer SecretRef resolution until execution and skip CLI drift warnings",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T07:19:09Z",
+      "mergedAt": null,
+      "additions": 370,
+      "deletions": 171,
+      "changedFiles": 21
+    },
+    {
+      "number": 46958,
+      "title": "Avoid plugin registration during install slot selection",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T06:14:18Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 1,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 50241,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T07:29:14Z"
+    },
+    {
+      "prNumber": 50241,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T07:17:39Z"
+    },
+    {
+      "prNumber": 50241,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T07:17:37Z"
+    },
+    {
+      "prNumber": 47406,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:17:12Z"
+    },
+    {
+      "prNumber": 47406,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T07:06:06Z"
+    },
+    {
+      "prNumber": 47406,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T07:06:05Z"
+    },
+    {
+      "prNumber": 47406,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T06:39:35Z"
+    },
+    {
+      "prNumber": 47406,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T06:39:34Z"
+    },
+    {
+      "prNumber": 47406,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T12:13:09Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-15": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

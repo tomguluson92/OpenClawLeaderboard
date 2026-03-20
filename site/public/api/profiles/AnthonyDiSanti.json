@@ -1,0 +1,124 @@
+{
+  "username": "AnthonyDiSanti",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/911470?u=74ab6073def2a9a941951758885174f5530446fe&v=4",
+  "githubUrl": "https://github.com/AnthonyDiSanti",
+  "score": {
+    "score": 28.52,
+    "prScore": 12.02,
+    "issueScore": 5,
+    "reviewScore": 9,
+    "commentScore": 2.5
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 263,
+    "prDeletions": 1,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-16T08:25:05Z",
+  "lastContribution": "2026-03-18T11:05:30Z",
+  "recentPRs": [
+    {
+      "number": 48147,
+      "title": "fix(gateway): keep long-running clients alive across reconnect delays",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T10:50:14Z",
+      "mergedAt": null,
+      "additions": 263,
+      "deletions": 1,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 48032,
+      "title": "[Bug]: node-host exits after gateway disconnect instead of retrying",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T08:25:05Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 49723,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T11:05:30Z"
+    },
+    {
+      "prNumber": 48147,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T00:37:25Z"
+    },
+    {
+      "prNumber": 48147,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T23:33:34Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

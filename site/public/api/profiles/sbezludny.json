@@ -3,25 +3,25 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1378452?u=2121c6cbf79497062b1223ce219e0deff3b25b7b&v=4",
   "githubUrl": "https://github.com/sbezludny",
   "score": {
-    "score": 162.08,
-    "prScore": 159.08,
+    "score": 172.43,
+    "prScore": 166.43,
     "issueScore": 0,
-    "reviewScore": 3,
+    "reviewScore": 6,
     "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 7966,
-    "prDeletions": 1984,
-    "prChangedFiles": 256,
+    "prAdditions": 8197,
+    "prDeletions": 1989,
+    "prChangedFiles": 264,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
@@ -40,9 +40,9 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
-      "reviews": 1,
+      "reviews": 2,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-12T19:36:40Z",
-  "lastContribution": "2026-03-14T14:03:20Z",
+  "lastContribution": "2026-03-17T16:14:16Z",
   "recentPRs": [
+    {
+      "number": 48978,
+      "title": "feat(slack): add thread-aware requireMentionInThreads config (#30270)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T12:13:46Z",
+      "mergedAt": null,
+      "additions": 231,
+      "deletions": 5,
+      "changedFiles": 8
+    },
     {
       "number": 46208,
       "title": "feat(slack): add thread-aware requireMentionInThreads config (#30270)",
@@ -89,12 +100,22 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 48978,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T16:14:16Z"
+    },
+    {
       "prNumber": 44349,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T19:54:14Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,

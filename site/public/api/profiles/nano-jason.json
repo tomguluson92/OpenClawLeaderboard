@@ -1,0 +1,97 @@
+{
+  "username": "nano-jason",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/246129955?v=4",
+  "githubUrl": "https://github.com/nano-jason",
+  "score": {
+    "score": 18.73,
+    "prScore": 8.73,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 15,
+    "prDeletions": 2,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-19T02:33:43Z",
+  "lastContribution": "2026-03-19T06:50:57Z",
+  "recentPRs": [
+    {
+      "number": 50147,
+      "title": "fix: prevent interrupt mode from replaying previous assistant reply",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T02:35:22Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 50282,
+      "title": "Feature request: before_reply_send hook for filtering/transforming outbound replies",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T06:50:57Z",
+      "closedAt": null
+    },
+    {
+      "number": 50145,
+      "title": "interrupt queue mode replays previous assistant reply after abort",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T02:33:43Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

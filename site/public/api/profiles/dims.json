@@ -1,0 +1,103 @@
+{
+  "username": "dims",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23304?u=63cac503fd2069de891eb2ce227f0dd58f958512&v=4",
+  "githubUrl": "https://github.com/dims",
+  "score": {
+    "score": 92.51,
+    "prScore": 92.51,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 812,
+    "prDeletions": 94,
+    "prChangedFiles": 35,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-19T03:41:27Z",
+  "lastContribution": "2026-03-19T12:15:43Z",
+  "recentPRs": [
+    {
+      "number": 50417,
+      "title": "fix: resolve typecheck regressions on main (non-matrix)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T12:15:43Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 13,
+      "changedFiles": 7
+    },
+    {
+      "number": 50181,
+      "title": "fix: close media trust bypasses",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T03:41:34Z",
+      "mergedAt": null,
+      "additions": 573,
+      "deletions": 68,
+      "changedFiles": 21
+    },
+    {
+      "number": 50180,
+      "title": "fix(ssrf): honor empty URL allowlists as deny-all",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T03:41:27Z",
+      "mergedAt": null,
+      "additions": 218,
+      "deletions": 13,
+      "changedFiles": 7
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

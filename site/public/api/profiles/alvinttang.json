@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/104285249?u=6c061f89042dea7c3bab1fc276f979d45747f8ec&v=4",
   "githubUrl": "https://github.com/alvinttang",
   "score": {
-    "score": 171.43,
-    "prScore": 157.43,
+    "score": 205.6,
+    "prScore": 191.6,
     "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 14,
+    "prs": 15,
     "prsMerged": 0,
-    "prAdditions": 403,
-    "prDeletions": 84,
-    "prChangedFiles": 32,
+    "prAdditions": 866,
+    "prDeletions": 99,
+    "prChangedFiles": 42,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,16 +31,16 @@
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
-      "reviews": 3,
-      "comments": 7,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 14,
+      "prs": 15,
       "issues": 0,
       "reviews": 3,
       "comments": 10,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-07T16:05:23Z",
-  "lastContribution": "2026-03-10T23:21:14Z",
+  "lastContribution": "2026-03-18T07:34:07Z",
   "recentPRs": [
+    {
+      "number": 49574,
+      "title": "fix: add circuit breaker to proxy fetch to prevent CPU exhaustion",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T07:34:07Z",
+      "mergedAt": null,
+      "additions": 463,
+      "deletions": 15,
+      "changedFiles": 10
+    },
     {
       "number": 42568,
       "title": "docs: add Cortex Memory to community plugins",
@@ -88,7 +99,7 @@
     {
       "number": 39391,
       "title": "fix(config): add firecrawl and readability to web fetch schema",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T02:28:44Z",
       "mergedAt": null,
@@ -226,6 +237,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,

@@ -3,60 +3,78 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/165377636?v=4",
   "githubUrl": "https://github.com/shakkernerd",
   "score": {
-    "score": 772.32,
-    "prScore": 759.32,
+    "score": 910.08,
+    "prScore": 910.08,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 13
+    "commentScore": 0
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
-    "commits": 118,
-    "prs": 0,
-    "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
-    "prMergeRate": 0,
+    "commits": 146,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 1081,
+    "prDeletions": 200,
+    "prChangedFiles": 35,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 26,
-    "commitAdditions": 63921,
-    "commitDeletions": 15940,
-    "commitChangedFiles": 1471
+    "comments": 0,
+    "commitAdditions": 66441,
+    "commitDeletions": 16262,
+    "commitChangedFiles": 1542
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 2520,
+      "commitDeletions": 322,
+      "commits": 28
     },
     "monthly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 26,
-      "commitAdditions": 3256,
-      "commitDeletions": 833,
-      "commits": 59
+      "comments": 0,
+      "commitAdditions": 4865,
+      "commitDeletions": 970,
+      "commits": 77
     }
   },
-  "firstContribution": "2026-03-04T16:03:50Z",
-  "lastContribution": "2026-03-05T07:31:25Z",
-  "recentPRs": [],
+  "firstContribution": "2026-03-20T04:28:48Z",
+  "lastContribution": "2026-03-20T04:28:48Z",
+  "recentPRs": [
+    {
+      "number": 50838,
+      "title": "fix(ci): auto-isolate memory-heavy unit tests",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T04:28:48Z",
+      "mergedAt": "2026-03-20T06:13:27Z",
+      "additions": 1081,
+      "deletions": 200,
+      "changedFiles": 35
+    }
+  ],
   "recentIssues": [],
   "recentReviews": [],
-  "recentActivityDays": {},
+  "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
-    "Discussion",
+    "Pull Requests",
     "Direct Commits"
   ],
   "achievements": [
@@ -64,14 +82,10 @@
       "id": "centurion",
       "label": "Centurion",
       "description": "100+ commits"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
     }
   ],
   "recentCommitDays": {
+    "2026-03-20": 28,
     "2026-03-05": 6,
     "2026-03-04": 7,
     "2026-03-03": 2,

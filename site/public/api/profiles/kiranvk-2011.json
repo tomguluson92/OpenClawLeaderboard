@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/91108465?v=4",
   "githubUrl": "https://github.com/kiranvk-2011",
   "score": {
-    "score": 21.26,
-    "prScore": 20.76,
-    "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0.5
+    "score": 69.86,
+    "prScore": 44.36,
+    "issueScore": 5,
+    "reviewScore": 18,
+    "commentScore": 2.5
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 274,
-    "prDeletions": 4,
-    "prChangedFiles": 4,
+    "prAdditions": 620,
+    "prDeletions": 36,
+    "prChangedFiles": 12,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 1,
+      "prs": 3,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 1,
+      "prs": 3,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-14T08:07:29Z",
-  "lastContribution": "2026-03-14T08:28:20Z",
+  "lastContribution": "2026-03-19T11:27:20Z",
   "recentPRs": [
+    {
+      "number": 49834,
+      "title": "fix: per-model cooldown scope, stepped backoff, and user-facing rate-limit message",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T13:51:54Z",
+      "mergedAt": null,
+      "additions": 346,
+      "deletions": 32,
+      "changedFiles": 8
+    },
     {
       "number": 45877,
       "title": "fix: clear model/provider overrides on bare /new and /reset",
@@ -75,9 +86,53 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
+  "recentIssues": [
+    {
+      "number": 49848,
+      "title": "bug: Multiple CI jobs fail on main branch — contracts, channels, extensions, extension-fast, install-smoke, Windows shards",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T14:34:12Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 49834,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T15:05:29Z"
+    },
+    {
+      "prNumber": 49834,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T15:05:21Z"
+    },
+    {
+      "prNumber": 49834,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T15:05:14Z"
+    },
+    {
+      "prNumber": 49834,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T15:05:07Z"
+    },
+    {
+      "prNumber": 49834,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T15:04:59Z"
+    },
+    {
+      "prNumber": 49834,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T15:04:52Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
@@ -86,8 +141,16 @@
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

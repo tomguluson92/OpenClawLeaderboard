@@ -3,54 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4436535?v=4",
   "githubUrl": "https://github.com/sircrumpet",
   "score": {
-    "score": 180.66,
-    "prScore": 170.16,
+    "score": 171.45,
+    "prScore": 162.45,
     "issueScore": 0,
     "reviewScore": 6,
-    "commentScore": 4.5
+    "commentScore": 3
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 4,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 1,
-    "prAdditions": 1902,
-    "prDeletions": 408,
-    "prChangedFiles": 42,
-    "prMergeRate": 33,
+    "prAdditions": 1733,
+    "prDeletions": 369,
+    "prChangedFiles": 25,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
+    "comments": 6,
     "commitAdditions": 1808,
     "commitDeletions": 375,
     "commitChangedFiles": 34
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 2,
-      "comments": 8,
-      "commitAdditions": 1602,
-      "commitDeletions": 351,
-      "commits": 1
-    },
-    "monthly": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 2,
-      "comments": 9,
+      "comments": 6,
       "commitAdditions": 1693,
       "commitDeletions": 370,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-05T07:08:53Z",
-  "lastContribution": "2026-03-11T06:47:24Z",
+  "firstContribution": "2026-03-09T01:36:45Z",
+  "lastContribution": "2026-03-10T02:40:16Z",
   "recentPRs": [
     {
       "number": 40740,
@@ -73,17 +73,6 @@
       "additions": 131,
       "deletions": 18,
       "changedFiles": 2
-    },
-    {
-      "number": 35648,
-      "title": "docs: add Google/Gemini provider guide and update legacy Google references",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T07:08:53Z",
-      "mergedAt": null,
-      "additions": 169,
-      "deletions": 39,
-      "changedFiles": 17
     }
   ],
   "recentIssues": [],
@@ -102,11 +91,6 @@
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
       "issues": 0,
       "reviews": 0
     },

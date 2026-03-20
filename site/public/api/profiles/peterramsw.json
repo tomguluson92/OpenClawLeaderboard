@@ -3,35 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/83950575?v=4",
   "githubUrl": "https://github.com/peterramsw",
   "score": {
-    "score": 27.47,
-    "prScore": 26.97,
+    "score": 9.49,
+    "prScore": 9.49,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 111,
-    "prDeletions": 33,
-    "prChangedFiles": 4,
+    "prAdditions": 30,
+    "prDeletions": 32,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T00:57:30Z",
+  "firstContribution": "2026-03-08T13:58:08Z",
   "lastContribution": "2026-03-08T13:58:08Z",
   "recentPRs": [
     {
@@ -62,28 +62,6 @@
       "additions": 30,
       "deletions": 32,
       "changedFiles": 2
-    },
-    {
-      "number": 35761,
-      "title": "fix(pi-embedded): forward top_p/presence_penalty / 修正 top_p/presence_penalty 透傳",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T08:25:35Z",
-      "mergedAt": null,
-      "additions": 35,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 35128,
-      "title": "fix(line): add mention gating for group messages / 修復 LINE 群組 requireMention 不生效",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T00:57:30Z",
-      "mergedAt": null,
-      "additions": 46,
-      "deletions": 1,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -93,16 +71,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

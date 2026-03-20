@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/172346891?v=4",
   "githubUrl": "https://github.com/plabzzxx",
   "score": {
-    "score": 176.97,
-    "prScore": 171.47,
+    "score": 199.31,
+    "prScore": 192.81,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5.5
+    "commentScore": 6.5
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 18272,
-    "prDeletions": 4461,
-    "prChangedFiles": 448,
+    "prAdditions": 18676,
+    "prDeletions": 4566,
+    "prChangedFiles": 456,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
+    "comments": 13,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -34,24 +34,57 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 11,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 11,
+      "comments": 13,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-08T08:42:18Z",
-  "lastContribution": "2026-03-14T03:54:36Z",
+  "lastContribution": "2026-03-18T03:34:43Z",
   "recentPRs": [
+    {
+      "number": 49410,
+      "title": "docs: clarify multi-account GPT OAuth profile rotation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T03:27:54Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 49409,
+      "title": "hooks: avoid LLM-blocking slug path on /new,/reset and use canonical daily memory file",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T03:27:54Z",
+      "mergedAt": null,
+      "additions": 130,
+      "deletions": 75,
+      "changedFiles": 5
+    },
+    {
+      "number": 48076,
+      "title": "ui: add recent chats rail to chat view",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T09:12:35Z",
+      "mergedAt": null,
+      "additions": 242,
+      "deletions": 30,
+      "changedFiles": 2
+    },
     {
       "number": 42682,
       "title": "models/auth: support multi OpenAI Codex OAuth profiles without overwrite",
@@ -66,7 +99,7 @@
     {
       "number": 41590,
       "title": "hooks: avoid LLM-blocking slug path on /new,/reset and use canonical daily memory file",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T01:31:20Z",
       "mergedAt": null,
@@ -77,7 +110,7 @@
     {
       "number": 39641,
       "title": "docs: clarify GPT OAuth multi-account rotation",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T08:42:18Z",
       "mergedAt": null,
@@ -89,6 +122,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,

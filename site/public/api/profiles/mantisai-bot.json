@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259690819?u=b3e01e7f4ac1ee1dda2ac2431bf2305c5e8c5181&v=4",
   "githubUrl": "https://github.com/mantisai-bot",
   "score": {
-    "score": 58.78,
+    "score": 49.78,
     "prScore": 22.78,
-    "issueScore": 28,
+    "issueScore": 20,
     "reviewScore": 6,
-    "commentScore": 2
+    "commentScore": 1
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Hunter",
   "stats": {
     "commits": 0,
@@ -19,38 +19,38 @@
     "prDeletions": 14,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 5,
-    "issuesClosed": 1,
+    "issues": 4,
+    "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 2,
-      "reviews": 2,
-      "comments": 2,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 5,
+      "issues": 4,
       "reviews": 2,
-      "comments": 4,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-06T08:22:45Z",
-  "lastContribution": "2026-03-13T06:18:15Z",
+  "firstContribution": "2026-03-08T07:34:31Z",
+  "lastContribution": "2026-03-17T06:28:33Z",
   "recentPRs": [
     {
       "number": 44489,
@@ -77,6 +77,20 @@
   ],
   "recentIssues": [
     {
+      "number": 48785,
+      "title": "[Feature]: Granular session visibility — split tools.sessions.visibility into per-capability knobs",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T06:28:33Z",
+      "closedAt": null
+    },
+    {
+      "number": 48784,
+      "title": "[Feature]: Same-gateway agent-to-agent session delivery",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T06:28:32Z",
+      "closedAt": null
+    },
+    {
       "number": 43738,
       "title": "[Feature]: Adaptive session reset mode — daily reset gated by idle time (AND logic)",
       "state": "OPEN",
@@ -88,27 +102,6 @@
       "title": "fix(media): classify audio-only MP4/M4A containers as audio, not video",
       "state": "OPEN",
       "createdAt": "2026-03-11T15:59:38Z",
-      "closedAt": null
-    },
-    {
-      "number": 37833,
-      "title": "Feature Request: `agent:turn:end` internal hook event",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T13:10:12Z",
-      "closedAt": null
-    },
-    {
-      "number": 37512,
-      "title": "[Security]: Resolved secrets written as plaintext to agents/*/agent/models.json",
-      "state": "CLOSED",
-      "createdAt": "2026-03-06T09:06:41Z",
-      "closedAt": "2026-03-07T17:32:39Z"
-    },
-    {
-      "number": 37457,
-      "title": "[Bug]: Auto-created agent dirs ignore OPENCLAW_STATE_DIR, fallback to ~/.openclaw/agents/",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T08:22:45Z",
       "closedAt": null
     }
   ],
@@ -135,6 +128,11 @@
       "issues": 0,
       "reviews": 2
     },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 0,
       "issues": 1,
@@ -143,11 +141,6 @@
     "2026-03-11": {
       "prs": 0,
       "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 0,
-      "issues": 3,
       "reviews": 0
     }
   },
@@ -158,11 +151,6 @@
     "Discussion"
   ],
   "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    },
     {
       "id": "well-rounded",
       "label": "Well Rounded",

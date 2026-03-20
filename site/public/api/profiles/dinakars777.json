@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/250428393?v=4",
   "githubUrl": "https://github.com/dinakars777",
   "score": {
-    "score": 69.59,
-    "prScore": 66.59,
+    "score": 82.79,
+    "prScore": 79.79,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 3
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 2,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 324,
-    "prDeletions": 21,
-    "prChangedFiles": 15,
+    "prAdditions": 373,
+    "prDeletions": 22,
+    "prChangedFiles": 18,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,27 +31,38 @@
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
       "comments": 6,
       "commitAdditions": 5,
       "commitDeletions": 2,
       "commits": 2
-    },
-    "monthly": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 24,
-      "commitDeletions": 7,
-      "commits": 3
     }
   },
   "firstContribution": "2026-03-10T22:40:52Z",
-  "lastContribution": "2026-03-14T21:21:12Z",
+  "lastContribution": "2026-03-20T07:30:02Z",
   "recentPRs": [
+    {
+      "number": 50907,
+      "title": "feat(acp): add --no-device-identity flag for token-only auth",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T07:30:02Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 1,
+      "changedFiles": 3
+    },
     {
       "number": 45455,
       "title": "feat(browser): add Chrome DevTools MCP preset for agent sessions (v2)",
@@ -89,6 +100,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,

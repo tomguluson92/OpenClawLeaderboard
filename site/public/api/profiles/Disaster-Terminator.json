@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/47147571?u=95bd39313a4dcb067e60896139ef779246848fa1&v=4",
   "githubUrl": "https://github.com/Disaster-Terminator",
   "score": {
-    "score": 19.07,
-    "prScore": 18.57,
+    "score": 52.69,
+    "prScore": 52.19,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 231,
-    "prDeletions": 15,
-    "prChangedFiles": 7,
+    "prAdditions": 1658,
+    "prDeletions": 127,
+    "prChangedFiles": 17,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -50,12 +50,23 @@
     }
   },
   "firstContribution": "2026-03-07T09:44:29Z",
-  "lastContribution": "2026-03-07T10:34:43Z",
+  "lastContribution": "2026-03-20T07:57:47Z",
   "recentPRs": [
+    {
+      "number": 50923,
+      "title": "Gateway: harden chat stream idempotency and effective-run cleanup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T07:57:47Z",
+      "mergedAt": null,
+      "additions": 1427,
+      "deletions": 112,
+      "changedFiles": 10
+    },
     {
       "number": 38727,
       "title": "feat(github-copilot): support gpt-5.4 via openai-responses forward-compat",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-07T09:44:29Z",
       "mergedAt": null,
@@ -67,6 +78,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-07": {
       "prs": 1,
       "issues": 0,

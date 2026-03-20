@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/129473798?u=abba10a9ee22fce053fad046e98584e5f7145887&v=4",
   "githubUrl": "https://github.com/CZH-THU",
   "score": {
-    "score": 195.13,
-    "prScore": 185.13,
+    "score": 186.02,
+    "prScore": 176.02,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 10
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 16,
+    "prs": 15,
     "prsMerged": 0,
-    "prAdditions": 527,
-    "prDeletions": 83,
-    "prChangedFiles": 38,
+    "prAdditions": 519,
+    "prDeletions": 81,
+    "prChangedFiles": 37,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,16 +31,16 @@
   },
   "period": {
     "weekly": {
-      "prs": 11,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 19,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 16,
+      "prs": 15,
       "issues": 0,
       "reviews": 0,
       "comments": 20,
@@ -49,13 +49,13 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T12:10:33Z",
+  "firstContribution": "2026-03-06T14:09:34Z",
   "lastContribution": "2026-03-13T06:59:21Z",
   "recentPRs": [
     {
       "number": 44763,
       "title": "Telegram: fix media download behind HTTP proxy",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T06:40:11Z",
       "mergedAt": null,
@@ -132,7 +132,7 @@
     {
       "number": 40633,
       "title": "Fix/telegram mention gating log 40567",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T05:25:22Z",
       "mergedAt": null,
@@ -198,7 +198,7 @@
     {
       "number": 37932,
       "title": "fix(web-search): fallback to BRAVE_API_KEY env var when config secret input cannot be resolved",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T14:42:27Z",
       "mergedAt": null,
@@ -216,17 +216,6 @@
       "additions": 30,
       "deletions": 2,
       "changedFiles": 2
-    },
-    {
-      "number": 34396,
-      "title": "docs: clarify agent workspace paths vs media whitelist (#34161)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T12:10:33Z",
-      "mergedAt": null,
-      "additions": 8,
-      "deletions": 2,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -269,11 +258,6 @@
     },
     "2026-03-06": {
       "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
       "issues": 0,
       "reviews": 0
     }

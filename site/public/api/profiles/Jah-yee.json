@@ -3,35 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/166608075?u=f64bab3157fafcc9cde6ccb077998fd1ad176f2d&v=4",
   "githubUrl": "https://github.com/Jah-yee",
   "score": {
-    "score": 117.26,
-    "prScore": 111.76,
+    "score": 18.49,
+    "prScore": 18.49,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5.5
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 9,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 4207,
-    "prDeletions": 985,
-    "prChangedFiles": 19,
+    "prAdditions": 13,
+    "prDeletions": 6,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 9,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 11,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T03:34:57Z",
+  "firstContribution": "2026-03-06T16:50:18Z",
   "lastContribution": "2026-03-10T11:38:58Z",
   "recentPRs": [
     {
@@ -73,83 +73,6 @@
       "additions": 11,
       "deletions": 4,
       "changedFiles": 3
-    },
-    {
-      "number": 36572,
-      "title": "test(config): add unit tests for port-defaults module",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T18:35:29Z",
-      "mergedAt": null,
-      "additions": 86,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 36570,
-      "title": "docs(zh-CN): add Diffs tool page with correct internal links",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T18:33:23Z",
-      "mergedAt": null,
-      "additions": 61,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 36561,
-      "title": "test(config): add unit tests for backup-rotation module",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T18:21:35Z",
-      "mergedAt": null,
-      "additions": 253,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 36545,
-      "title": "test(config): fix backup-rotation tests and zh-CN diffs links",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T18:07:43Z",
-      "mergedAt": null,
-      "additions": 390,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 34957,
-      "title": "fix(onboard): default local tools profile to coding",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T20:13:46Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 34952,
-      "title": "fix(ui): set selected attribute on option elements to fix model select initial value",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T20:09:51Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 34923,
-      "title": "chore: remove unused strip-ansi dependency (#34920)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T19:33:10Z",
-      "mergedAt": null,
-      "additions": 3401,
-      "deletions": 976,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [],
@@ -164,22 +87,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion",
-    "Large-Scale Changes"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

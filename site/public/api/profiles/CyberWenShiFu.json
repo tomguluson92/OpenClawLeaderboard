@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/58394779?u=44afc82f175ffe0a28bef0cb670e8af8504218d1&v=4",
   "githubUrl": "https://github.com/CyberWenShiFu",
   "score": {
-    "score": 48.82,
+    "score": 39.32,
     "prScore": 27.32,
-    "issueScore": 18,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 3.5
+    "commentScore": 2
   },
   "tier": "beginner",
   "characterClass": "Contributor",
@@ -19,12 +19,12 @@
     "prDeletions": 8,
     "prChangedFiles": 9,
     "prMergeRate": 0,
-    "issues": 3,
-    "issuesClosed": 1,
+    "issues": 2,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -34,22 +34,22 @@
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 3,
+      "issues": 2,
       "reviews": 0,
-      "comments": 7,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-06T02:57:43Z",
+  "firstContribution": "2026-03-08T04:54:12Z",
   "lastContribution": "2026-03-09T01:24:56Z",
   "recentPRs": [
     {
@@ -89,13 +89,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-08T04:54:12Z",
       "closedAt": null
-    },
-    {
-      "number": 37058,
-      "title": "[Bug] Group chat mention-triggered context injection can miss pre-mention messages",
-      "state": "CLOSED",
-      "createdAt": "2026-03-06T02:57:43Z",
-      "closedAt": "2026-03-08T03:18:32Z"
     }
   ],
   "recentReviews": [],
@@ -103,11 +96,6 @@
     "2026-03-08": {
       "prs": 2,
       "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 0,
-      "issues": 1,
       "reviews": 0
     }
   },

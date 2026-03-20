@@ -3,35 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/263165539?v=4",
   "githubUrl": "https://github.com/manusjs",
   "score": {
-    "score": 205.06,
-    "prScore": 203.06,
+    "score": 123.35,
+    "prScore": 123.35,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 0
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 18,
+    "prs": 11,
     "prsMerged": 0,
-    "prAdditions": 1180,
-    "prDeletions": 74,
-    "prChangedFiles": 36,
+    "prAdditions": 790,
+    "prDeletions": 36,
+    "prChangedFiles": 23,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 18,
+      "prs": 11,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T21:21:59Z",
+  "firstContribution": "2026-03-06T09:59:12Z",
   "lastContribution": "2026-03-14T13:56:54Z",
   "recentPRs": [
     {
@@ -172,83 +172,6 @@
       "additions": 17,
       "deletions": 6,
       "changedFiles": 1
-    },
-    {
-      "number": 36347,
-      "title": "feat(feishu): add filter, sort, field_names, view_id to feishu_bitable_list_records",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T15:26:14Z",
-      "mergedAt": null,
-      "additions": 163,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 36258,
-      "title": "test(feishu): assert prefetched botOpenId is not re-fetched in monitorSingleAccount",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T14:29:32Z",
-      "mergedAt": null,
-      "additions": 39,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 36253,
-      "title": "feat(config): add agents.defaults.systemPromptFile for operator system prompt injection",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T14:24:12Z",
-      "mergedAt": null,
-      "additions": 56,
-      "deletions": 1,
-      "changedFiles": 4
-    },
-    {
-      "number": 35141,
-      "title": "fix(agents): guard against null content entries in openai-ws-stream",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T01:07:02Z",
-      "mergedAt": null,
-      "additions": 68,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 35138,
-      "title": "fix(skill-creator): reject empty name and description in quick_validate.py",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T01:05:32Z",
-      "mergedAt": null,
-      "additions": 35,
-      "deletions": 33,
-      "changedFiles": 1
-    },
-    {
-      "number": 34998,
-      "title": "fix(cli): include commit SHA in -v/--version output",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T21:23:02Z",
-      "mergedAt": null,
-      "additions": 28,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 34995,
-      "title": "fix(security): replace `in` with Object.hasOwn in hasExplicitProviderAccountConfig",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T21:21:59Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -273,21 +196,10 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion"
+    "Pull Requests"
   ],
   "achievements": [
     {

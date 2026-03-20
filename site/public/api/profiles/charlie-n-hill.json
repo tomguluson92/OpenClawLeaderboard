@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/39253519?u=dadf57fa5e57c0c4b27b246c5195ed5eb661c9cc&v=4",
   "githubUrl": "https://github.com/charlie-n-hill",
   "score": {
-    "score": 73.91,
+    "score": 74.91,
     "prScore": 66.91,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 3
   },
   "tier": "regular",
   "characterClass": "Contributor",
@@ -24,17 +24,17 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 4,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -43,19 +43,19 @@
       "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 4,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-11T15:16:20Z",
-  "lastContribution": "2026-03-11T23:54:50Z",
+  "lastContribution": "2026-03-15T20:18:21Z",
   "recentPRs": [
     {
       "number": 43459,
       "title": "feat(session): add session.channelIsolation config option",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T20:46:09Z",
       "mergedAt": null,
@@ -66,7 +66,7 @@
     {
       "number": 43360,
       "title": "feat(slack): add session.threadIsolation config option",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T16:52:49Z",
       "mergedAt": null,

@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/16416080?u=07287c415f7a6afb126c5d08cf4f8791fa31b17d&v=4",
   "githubUrl": "https://github.com/ssdiwu",
   "score": {
-    "score": 32.46,
+    "score": 26.96,
     "prScore": 23.96,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3.5
+    "commentScore": 3
   },
   "tier": "beginner",
   "characterClass": "Contributor",
@@ -19,18 +19,27 @@
     "prDeletions": 4,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 0,
@@ -38,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T16:14:51Z",
+  "firstContribution": "2026-03-11T07:08:19Z",
   "lastContribution": "2026-03-13T06:08:25Z",
   "recentPRs": [
     {
@@ -75,31 +75,17 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 33239,
-      "title": "Duplicate plugin loading warning when installing Feishu plugin via official install script",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T16:14:51Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],

@@ -3,55 +3,110 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/267811734?u=37a2d48a9d0092c0e15dc055971f5afadc2c255e&v=4",
   "githubUrl": "https://github.com/alex-xuweilong",
   "score": {
-    "score": 95.76,
-    "prScore": 73.26,
-    "issueScore": 0,
-    "reviewScore": 18,
-    "commentScore": 4.5
+    "score": 156.62,
+    "prScore": 123.12,
+    "issueScore": 10,
+    "reviewScore": 15,
+    "commentScore": 8.5
   },
   "tier": "regular",
-  "characterClass": "Reviewer",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 583,
-    "prDeletions": 4,
-    "prChangedFiles": 20,
+    "prAdditions": 679,
+    "prDeletions": 25,
+    "prChangedFiles": 27,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 2,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
+    "comments": 17,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 6,
-      "comments": 9,
+      "prs": 7,
+      "issues": 2,
+      "reviews": 2,
+      "comments": 14,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 6,
-      "comments": 9,
+      "prs": 10,
+      "issues": 2,
+      "reviews": 5,
+      "comments": 17,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-13T02:50:58Z",
-  "lastContribution": "2026-03-15T02:02:50Z",
+  "lastContribution": "2026-03-19T11:34:46Z",
   "recentPRs": [
+    {
+      "number": 50394,
+      "title": "fix(feishu): stop treating @all as a direct bot mention in group chats",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T11:27:45Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 50164,
+      "title": "fix(feishu): fallback to type=media when file download returns 502",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T02:55:26Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 48588,
+      "title": "fix(feishu): await HTTP server close before clearing state references",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T00:30:56Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 48578,
+      "title": "fix(feishu): recover UTF-8 filenames from Latin-1 encoded Content-Disposition",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T00:20:53Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 47652,
+      "title": "fix(feishu): isolate per-account credential resolution to prevent full plugin crash",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T22:06:19Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 2,
+      "changedFiles": 1
+    },
     {
       "number": 46727,
       "title": "fix(feishu): prevent duplicate streaming cards via synchronous re-entry guard",
@@ -77,7 +132,7 @@
     {
       "number": 44831,
       "title": "feat(providers): add DeepSeek as first-class provider with onboard support",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T07:38:33Z",
       "mergedAt": null,
@@ -87,8 +142,8 @@
     },
     {
       "number": 44589,
-      "title": "docs(install): add China deployment guide",
-      "state": "OPEN",
+      "title": "docs(install): adddeployment guide",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T03:14:10Z",
       "mergedAt": null,
@@ -108,8 +163,33 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 48793,
+      "title": "feat: centralized PluginResourceManager interface for consistent async cleanup across all channel plugins",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T06:45:04Z",
+      "closedAt": null
+    },
+    {
+      "number": 48788,
+      "title": "feat: centralized filename encoding utility for multi-encoding Content-Disposition handling",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T06:37:04Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 50164,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T03:49:37Z"
+    },
+    {
+      "prNumber": 48588,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T01:03:16Z"
+    },
     {
       "prNumber": 44831,
       "state": "COMMENTED",
@@ -121,29 +201,24 @@
       "createdAt": "2026-03-13T08:01:25Z"
     },
     {
-      "prNumber": 44589,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T03:46:33Z"
-    },
-    {
-      "prNumber": 44589,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T03:46:02Z"
-    },
-    {
-      "prNumber": 44589,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T03:36:18Z"
-    },
-    {
       "prNumber": 44567,
       "state": "COMMENTED",
       "createdAt": "2026-03-13T03:05:05Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-17": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 1
+    },
     "2026-03-15": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     },
@@ -155,14 +230,26 @@
     "2026-03-13": {
       "prs": 3,
       "issues": 0,
-      "reviews": 6
+      "reviews": 3
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

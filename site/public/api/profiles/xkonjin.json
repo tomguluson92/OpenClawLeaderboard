@@ -1,12 +1,12 @@
 {
   "username": "xkonjin",
-  "avatarUrl": "https://github.com/xkonjin.png",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/103052785?v=4",
   "githubUrl": "https://github.com/xkonjin",
   "score": {
-    "score": 88,
+    "score": 102,
     "prScore": 0,
-    "issueScore": 0,
-    "reviewScore": 81,
+    "issueScore": 5,
+    "reviewScore": 90,
     "commentScore": 7
   },
   "tier": "regular",
@@ -19,9 +19,9 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 27,
+    "reviews": 30,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 14,
@@ -32,17 +32,17 @@
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 0,
-      "reviews": 19,
-      "comments": 14,
+      "issues": 1,
+      "reviews": 12,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 0,
-      "issues": 0,
-      "reviews": 27,
+      "issues": 1,
+      "reviews": 30,
       "comments": 14,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -50,10 +50,33 @@
     }
   },
   "firstContribution": "2026-03-07T23:25:28Z",
-  "lastContribution": "2026-03-14T15:36:04Z",
+  "lastContribution": "2026-03-16T23:04:59Z",
   "recentPRs": [],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 48546,
+      "title": "Test failure: test run failed",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T23:04:59Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 48455,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T19:37:00Z"
+    },
+    {
+      "prNumber": 48112,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T10:07:49Z"
+    },
+    {
+      "prNumber": 47465,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T16:20:00Z"
+    },
     {
       "prNumber": 46288,
       "state": "COMMENTED",
@@ -138,24 +161,19 @@
       "prNumber": 40409,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T01:05:52Z"
-    },
-    {
-      "prNumber": 40328,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T23:08:30Z"
-    },
-    {
-      "prNumber": 40158,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T18:34:13Z"
-    },
-    {
-      "prNumber": 39410,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T03:25:23Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 2
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-14": {
       "prs": 0,
       "issues": 0,
@@ -194,6 +212,7 @@
   },
   "skills": [
     "Code Review",
+    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [

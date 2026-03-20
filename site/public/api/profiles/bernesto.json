@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1020507?v=4",
   "githubUrl": "https://github.com/bernesto",
   "score": {
-    "score": 16.08,
-    "prScore": 16.08,
+    "score": 27.76,
+    "prScore": 27.76,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -14,20 +14,20 @@
   "stats": {
     "commits": 0,
     "prs": 2,
-    "prsMerged": 0,
-    "prAdditions": 18,
-    "prDeletions": 13,
-    "prChangedFiles": 2,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 60,
+    "prDeletions": 24,
+    "prChangedFiles": 4,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "commitAdditions": 59,
+    "commitDeletions": 24,
+    "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
@@ -35,18 +35,18 @@
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 59,
+      "commitDeletions": 24,
+      "commits": 1
     },
     "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 59,
+      "commitDeletions": 24,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-06T15:59:41Z",
@@ -66,13 +66,13 @@
     {
       "number": 38079,
       "title": "fix(macos): show sessions after controls in tray menu",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-06T15:59:41Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 13,
-      "changedFiles": 1
+      "mergedAt": "2026-03-18T00:29:12Z",
+      "additions": 59,
+      "deletions": 24,
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
@@ -88,5 +88,7 @@
     "Pull Requests"
   ],
   "achievements": [],
-  "recentCommitDays": {}
+  "recentCommitDays": {
+    "2026-03-18": 1
+  }
 }

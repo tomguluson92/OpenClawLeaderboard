@@ -1,0 +1,113 @@
+{
+  "username": "LittleBreak",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16707072?v=4",
+  "githubUrl": "https://github.com/LittleBreak",
+  "score": {
+    "score": 42.23,
+    "prScore": 42.23,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 206,
+    "prDeletions": 24,
+    "prChangedFiles": 13,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T14:40:32Z",
+  "lastContribution": "2026-03-17T11:28:29Z",
+  "recentPRs": [
+    {
+      "number": 48958,
+      "title": "fix: prevent phantom image injection from memory context into agent prompt",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T11:28:29Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 48158,
+      "title": "fix: auto-split long messages at channel limits instead of silent failure",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T11:15:14Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 18,
+      "changedFiles": 2
+    },
+    {
+      "number": 47399,
+      "title": "fix(ui): deduplicate streaming chat segments to prevent growing duplicate bubbles",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:40:32Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 4,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

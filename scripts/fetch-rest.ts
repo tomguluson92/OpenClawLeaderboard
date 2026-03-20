@@ -83,7 +83,7 @@ async function fetchAllPages<T>(url: string, maxPages = 50): Promise<T[]> {
 const GQL_URL = "https://api.github.com/graphql";
 
 async function gql<T>(query: string, variables: Record<string, unknown>): Promise<T> {
-  for (let attempt = 0; attempt < 5; attempt++) {
+  for (let attempt = 0; attempt < 8; attempt++) {
     const res = await fetch(GQL_URL, {
       method: "POST",
       headers: { ...HEADERS, "Content-Type": "application/json" },
@@ -98,18 +98,42 @@ async function gql<T>(query: string, variables: Record<string, unknown>): Promis
       continue;
     }
 
-    if (!res.ok) {
-      const text = await res.text();
-      throw new Error(`GraphQL error ${res.status}: ${text}`);
+    // Transient GitHub / CDN errors (common during large PR pagination)
+    if (res.status === 502 || res.status === 503 || res.status === 504) {
+      const waitMs = Math.min(3000 * 2 ** attempt, 90000);
+      console.log(`  GraphQL ${res.status}, retry in ${Math.ceil(waitMs / 1000)}s (attempt ${attempt + 1}/8)...`);
+      await sleep(waitMs);
+      continue;
     }
 
-    const json = (await res.json()) as { data: T; errors?: { message: string }[] };
+    const text = await res.text();
+
+    if (!res.ok) {
+      throw new Error(`GraphQL error ${res.status}: ${text.slice(0, 500)}`);
+    }
+
+    let json: { data?: T; errors?: { message: string }[] };
+    try {
+      json = JSON.parse(text) as { data?: T; errors?: { message: string }[] };
+    } catch {
+      const waitMs = Math.min(2000 * 2 ** attempt, 60000);
+      console.log(`  GraphQL invalid JSON (likely proxy glitch), retry in ${Math.ceil(waitMs / 1000)}s...`);
+      await sleep(waitMs);
+      continue;
+    }
+
     if (json.errors) {
       console.warn("  GraphQL warnings:", json.errors.map((e) => e.message).join(", "));
     }
+    if (json.data === undefined) {
+      const waitMs = Math.min(2000 * 2 ** attempt, 60000);
+      console.log(`  GraphQL missing data field, retry in ${Math.ceil(waitMs / 1000)}s...`);
+      await sleep(waitMs);
+      continue;
+    }
     return json.data;
   }
-  throw new Error("Max retries exceeded");
+  throw new Error("Max GraphQL retries exceeded");
 }
 
 // ─── GraphQL Queries ───
@@ -760,4 +784,7 @@ async function main() {
   console.log(`\n🎉 Done! ${lifetimeBoard.length} all-time, ${monthlyBoard.length} monthly, ${weeklyBoard.length} weekly contributors.`);
 }
 
-main().catch(console.error);
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

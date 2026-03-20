@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/809529?u=c01672d8af82f409d22036efdfc295ff3d5072d6&v=4",
   "githubUrl": "https://github.com/ajayr",
   "score": {
-    "score": 20.98,
+    "score": 26.98,
     "prScore": 15.98,
     "issueScore": 5,
-    "reviewScore": 0,
+    "reviewScore": 6,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -21,7 +21,7 @@
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
@@ -31,9 +31,9 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -42,7 +42,7 @@
     "monthly": {
       "prs": 1,
       "issues": 1,
-      "reviews": 0,
+      "reviews": 2,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-10T22:22:05Z",
-  "lastContribution": "2026-03-10T22:33:51Z",
+  "lastContribution": "2026-03-15T22:59:06Z",
   "recentPRs": [
     {
       "number": 42543,
@@ -73,18 +73,41 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 42543,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T22:59:06Z"
+    },
+    {
+      "prNumber": 42543,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T22:58:35Z"
+    }
+  ],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

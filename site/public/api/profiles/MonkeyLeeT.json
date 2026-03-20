@@ -1,75 +1,108 @@
 {
   "username": "MonkeyLeeT",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/6754057?u=3eaa3ba9500e3dbe066a385efb0c9803fcd0f701&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6754057?v=4",
   "githubUrl": "https://github.com/MonkeyLeeT",
   "score": {
-    "score": 38.43,
-    "prScore": 31.43,
+    "score": 121.17,
+    "prScore": 107.17,
     "issueScore": 0,
-    "reviewScore": 6,
-    "commentScore": 1
+    "reviewScore": 12,
+    "commentScore": 2
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Maintainer",
   "stats": {
-    "commits": 0,
-    "prs": 3,
-    "prsMerged": 0,
-    "prAdditions": 323,
-    "prDeletions": 4,
-    "prChangedFiles": 6,
-    "prMergeRate": 0,
+    "commits": 2,
+    "prs": 6,
+    "prsMerged": 2,
+    "prAdditions": 932,
+    "prDeletions": 62,
+    "prChangedFiles": 18,
+    "prMergeRate": 33,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4,
+    "commitAdditions": 246,
+    "commitDeletions": 3,
+    "commitChangedFiles": 5
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 5,
       "issues": 0,
       "reviews": 2,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4,
+      "commitAdditions": 246,
+      "commitDeletions": 3,
+      "commits": 2
     },
     "monthly": {
-      "prs": 3,
+      "prs": 6,
       "issues": 0,
-      "reviews": 2,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 4,
+      "comments": 4,
+      "commitAdditions": 246,
+      "commitDeletions": 3,
+      "commits": 2
     }
   },
   "firstContribution": "2026-03-11T00:20:05Z",
-  "lastContribution": "2026-03-15T04:41:29Z",
+  "lastContribution": "2026-03-17T18:36:03Z",
   "recentPRs": [
+    {
+      "number": 49176,
+      "title": "Discord: resolve /think autocomplete from session model",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T17:57:30Z",
+      "mergedAt": null,
+      "additions": 217,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 47533,
+      "title": "CLI: respect full timeout for loopback gateway probes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T17:41:56Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 24,
+      "changedFiles": 6
+    },
+    {
+      "number": 47528,
+      "title": "fix(line): honor accounts.default and enable configured named accounts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T17:38:09Z",
+      "mergedAt": null,
+      "additions": 137,
+      "deletions": 25,
+      "changedFiles": 2
+    },
     {
       "number": 46879,
       "title": "fix(outbound): honor plugin default account for generic sends",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T04:41:29Z",
       "mergedAt": null,
-      "additions": 78,
+      "additions": 231,
       "deletions": 1,
       "changedFiles": 2
     },
     {
       "number": 46850,
       "title": "fix(release): block oversized npm packs that regress low-memory startup",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-15T04:14:24Z",
-      "mergedAt": null,
+      "mergedAt": "2026-03-15T20:31:30Z",
       "additions": 89,
       "deletions": 2,
       "changedFiles": 2
@@ -77,17 +110,27 @@
     {
       "number": 42588,
       "title": "fix(whatsapp): restore append recency filter lost in extensions refactor, handle Long timestamps",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T00:20:05Z",
-      "mergedAt": null,
-      "additions": 156,
+      "mergedAt": "2026-03-15T10:03:31Z",
+      "additions": 157,
       "deletions": 1,
-      "changedFiles": 2
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 49176,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T18:36:03Z"
+    },
+    {
+      "prNumber": 47528,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T18:07:06Z"
+    },
     {
       "prNumber": 42588,
       "state": "COMMENTED",
@@ -100,10 +143,15 @@
     }
   ],
   "recentActivityDays": {
-    "2026-03-15": {
-      "prs": 2,
+    "2026-03-17": {
+      "prs": 1,
       "issues": 0,
-      "reviews": 0
+      "reviews": 1
+    },
+    "2026-03-15": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 1
     },
     "2026-03-11": {
       "prs": 1,
@@ -114,8 +162,11 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion"
+    "Discussion",
+    "Direct Commits"
   ],
   "achievements": [],
-  "recentCommitDays": {}
+  "recentCommitDays": {
+    "2026-03-15": 2
+  }
 }

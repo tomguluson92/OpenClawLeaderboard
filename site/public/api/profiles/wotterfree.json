@@ -1,0 +1,147 @@
+{
+  "username": "wotterfree",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51160359?u=3f7f7d878689d413a5384471ad20e6c522c66d3c&v=4",
+  "githubUrl": "https://github.com/wotterfree",
+  "score": {
+    "score": 59.72,
+    "prScore": 59.72,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 67,
+    "prDeletions": 19,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-16T09:38:47Z",
+  "lastContribution": "2026-03-16T10:30:32Z",
+  "recentPRs": [
+    {
+      "number": 48137,
+      "title": "fix: add WhatsApp Web listener liveness check to fix desync issue",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T10:30:32Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 48135,
+      "title": "fix: replace \"Benevolent Dictator\" with \"Lead Maintainer\" in CONTRIBUTING.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T10:26:43Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 48132,
+      "title": "fix: add download support for browser tool CDP connections",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T10:23:35Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 48130,
+      "title": "fix: correct Windows Chrome executable path extraction regex",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T10:19:21Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 48125,
+      "title": "fix: add null checks in Feishu plugin webhook parsing to prevent Gateway crash",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T10:12:00Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 13,
+      "changedFiles": 1
+    },
+    {
+      "number": 48120,
+      "title": "fix: correct LINE plugin webhook route path case to fix 404 on Windows",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T10:06:40Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 48093,
+      "title": "fix: move fs.constants.W_OK access inside function to fix browser bundle",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T09:38:47Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

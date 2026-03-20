@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/72488598?u=e555d8a515c5804f2a794ae68d317e2f47603489&v=4",
   "githubUrl": "https://github.com/Undertone0809",
   "score": {
-    "score": 111.57,
-    "prScore": 105.57,
-    "issueScore": 5,
+    "score": 62.21,
+    "prScore": 62.21,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 961,
-    "prDeletions": 49,
-    "prChangedFiles": 34,
+    "prAdditions": 777,
+    "prDeletions": 31,
+    "prChangedFiles": 24,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -34,23 +34,23 @@
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
-      "issues": 1,
+      "prs": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T16:31:39Z",
-  "lastContribution": "2026-03-12T07:07:02Z",
+  "firstContribution": "2026-03-06T14:20:26Z",
+  "lastContribution": "2026-03-07T07:34:49Z",
   "recentPRs": [
     {
       "number": 38670,
@@ -73,50 +73,9 @@
       "additions": 199,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 36086,
-      "title": "fix(control-ui): show effective agent for cron jobs without explicit agentId",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T12:27:03Z",
-      "mergedAt": null,
-      "additions": 50,
-      "deletions": 1,
-      "changedFiles": 4
-    },
-    {
-      "number": 35539,
-      "title": "UI: make Agents Files editor fill the right pane",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T05:51:53Z",
-      "mergedAt": null,
-      "additions": 13,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 35238,
-      "title": "UI: persist agent model edits when config view is in raw mode",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T02:20:59Z",
-      "mergedAt": null,
-      "additions": 121,
-      "deletions": 17,
-      "changedFiles": 5
     }
   ],
-  "recentIssues": [
-    {
-      "number": 33261,
-      "title": "[Bug]: /skills page shows only main agent workspace skills in multi-agent setup (misleading global scope)",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T16:31:39Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-07": {
@@ -128,22 +87,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

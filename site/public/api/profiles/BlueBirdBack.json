@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/126304167?u=505a93d23a3ba4b887ad36972fedecfc46a0ecec&v=4",
   "githubUrl": "https://github.com/BlueBirdBack",
   "score": {
-    "score": 321.14,
-    "prScore": 312.14,
+    "score": 141.52,
+    "prScore": 138.52,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 9
+    "commentScore": 3
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 27,
+    "prs": 11,
     "prsMerged": 0,
-    "prAdditions": 3552,
-    "prDeletions": 121,
-    "prChangedFiles": 83,
+    "prAdditions": 1481,
+    "prDeletions": 34,
+    "prChangedFiles": 28,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 18,
+    "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -34,23 +34,23 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 27,
+      "prs": 11,
       "issues": 0,
       "reviews": 0,
-      "comments": 18,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T14:38:49Z",
-  "lastContribution": "2026-03-14T20:45:43Z",
+  "firstContribution": "2026-03-06T06:58:01Z",
+  "lastContribution": "2026-03-15T12:31:02Z",
   "recentPRs": [
     {
       "number": 46221,
@@ -172,105 +172,6 @@
       "additions": 3,
       "deletions": 1,
       "changedFiles": 1
-    },
-    {
-      "number": 36187,
-      "title": "fix(acp): normalize configOptionKeys comparison to lowercase (#28339)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T13:25:40Z",
-      "mergedAt": null,
-      "additions": 44,
-      "deletions": 5,
-      "changedFiles": 4
-    },
-    {
-      "number": 35837,
-      "title": "fix(gateway): allow allowInsecureAuth bypass for loopback-proxy Control UI (#20524)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T09:25:10Z",
-      "mergedAt": null,
-      "additions": 68,
-      "deletions": 2,
-      "changedFiles": 4
-    },
-    {
-      "number": 35613,
-      "title": "fix(cli): return to section menu on ESC inside configure sub-section (#20495)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T06:49:59Z",
-      "mergedAt": null,
-      "additions": 88,
-      "deletions": 40,
-      "changedFiles": 3
-    },
-    {
-      "number": 35509,
-      "title": "fix(discord): append attachment placeholder to agent text when content is non-empty (#28296)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T05:29:05Z",
-      "mergedAt": null,
-      "additions": 64,
-      "deletions": 9,
-      "changedFiles": 3
-    },
-    {
-      "number": 35479,
-      "title": "fix(discord): add allowBotIds config to selectively allow bot messages (#11199)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T05:02:01Z",
-      "mergedAt": null,
-      "additions": 176,
-      "deletions": 3,
-      "changedFiles": 5
-    },
-    {
-      "number": 35437,
-      "title": "test(discord-monitor): add integration tests for native-command",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T04:29:29Z",
-      "mergedAt": null,
-      "additions": 566,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 35408,
-      "title": "test(config): add unit tests for schema.help",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T04:14:33Z",
-      "mergedAt": null,
-      "additions": 289,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 35237,
-      "title": "fix(browser): use refreshConfigFromDisk: false in stopKnownBrowserProfiles (#11257)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T02:20:11Z",
-      "mergedAt": null,
-      "additions": 39,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 35172,
-      "title": "fix(models-config): config apiKey wins over stale models.json on merge (#12740)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T01:27:29Z",
-      "mergedAt": null,
-      "additions": 148,
-      "deletions": 6,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
@@ -283,16 +184,6 @@
     },
     "2026-03-06": {
       "prs": 10,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 9,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 7,
       "issues": 0,
       "reviews": 0
     }

@@ -3,34 +3,43 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/431696?v=4",
   "githubUrl": "https://github.com/davidguttman",
   "score": {
-    "score": 202.51,
-    "prScore": 198.01,
+    "score": 181.01,
+    "prScore": 178.01,
     "issueScore": 0,
     "reviewScore": 3,
-    "commentScore": 1.5
+    "commentScore": 0
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 4,
-    "prs": 7,
-    "prsMerged": 2,
-    "prAdditions": 2761,
-    "prDeletions": 142,
-    "prChangedFiles": 39,
-    "prMergeRate": 29,
+    "prs": 5,
+    "prsMerged": 1,
+    "prAdditions": 2691,
+    "prDeletions": 81,
+    "prChangedFiles": 30,
+    "prMergeRate": 20,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 0,
     "commitAdditions": 706,
     "commitDeletions": 34,
     "commitChangedFiles": 19
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 5,
       "issues": 0,
       "reviews": 1,
@@ -38,18 +47,9 @@
       "commitAdditions": 576,
       "commitDeletions": 19,
       "commits": 2
-    },
-    "monthly": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 1,
-      "comments": 3,
-      "commitAdditions": 576,
-      "commitDeletions": 19,
-      "commits": 2
     }
   },
-  "firstContribution": "2026-03-04T17:49:30Z",
+  "firstContribution": "2026-03-10T17:38:43Z",
   "lastContribution": "2026-03-13T21:23:04Z",
   "recentPRs": [
     {
@@ -81,8 +81,8 @@
       "merged": false,
       "createdAt": "2026-03-11T17:07:35Z",
       "mergedAt": null,
-      "additions": 1203,
-      "deletions": 110,
+      "additions": 1474,
+      "deletions": 58,
       "changedFiles": 12
     },
     {
@@ -106,28 +106,6 @@
       "additions": 483,
       "deletions": 17,
       "changedFiles": 8
-    },
-    {
-      "number": 35065,
-      "title": "feat(discord): add autoArchiveDuration config option",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T23:33:26Z",
-      "mergedAt": "2026-03-10T22:13:25Z",
-      "additions": 93,
-      "deletions": 2,
-      "changedFiles": 5
-    },
-    {
-      "number": 34789,
-      "title": "feat(discord): add autoThreadName and autoThreadArchiveMin config options",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T17:49:30Z",
-      "mergedAt": null,
-      "additions": 248,
-      "deletions": 7,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
@@ -154,11 +132,6 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
     "2026-03-13": {
       "prs": 0,
       "issues": 0,
@@ -168,7 +141,6 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion",
     "Direct Commits"
   ],
   "achievements": [],

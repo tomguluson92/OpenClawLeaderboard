@@ -3,55 +3,121 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259807879?v=4",
   "githubUrl": "https://github.com/Bartok9",
   "score": {
-    "score": 107.32,
-    "prScore": 107.32,
+    "score": 170.26,
+    "prScore": 166.76,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 3.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 9,
+    "prs": 13,
     "prsMerged": 0,
-    "prAdditions": 579,
-    "prDeletions": 36,
-    "prChangedFiles": 23,
+    "prAdditions": 2043,
+    "prDeletions": 63,
+    "prChangedFiles": 33,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 7,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 7,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 9,
+      "prs": 13,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 7,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T09:36:07Z",
-  "lastContribution": "2026-03-14T08:35:58Z",
+  "firstContribution": "2026-03-06T09:37:46Z",
+  "lastContribution": "2026-03-19T08:37:25Z",
   "recentPRs": [
+    {
+      "number": 49660,
+      "title": "fix(session-lock): clean orphan self-lock files during startup cleanup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T08:39:48Z",
+      "mergedAt": null,
+      "additions": 185,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 48864,
+      "title": "fix(model-ref): preserve version suffixes in model IDs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T08:39:57Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 48861,
+      "title": "fix(model-ref): preserve version suffixes in model IDs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T08:33:28Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 48048,
+      "title": "fix(auth): don't pass ADC marker as literal API key for google-vertex",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T08:39:07Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 47918,
+      "title": "fix: preserve thinking blocks in latest assistant message during compaction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T05:22:59Z",
+      "mergedAt": null,
+      "additions": 1107,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 47093,
+      "title": "fix(tts): add resolveModelAsync to test mock",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T08:35:12Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 18,
+      "changedFiles": 1
+    },
     {
       "number": 45894,
       "title": "fix(sanitize): strip raw tool_call/tool_result XML tags from user-facing text",
@@ -59,14 +125,14 @@
       "merged": false,
       "createdAt": "2026-03-14T08:35:58Z",
       "mergedAt": null,
-      "additions": 34,
+      "additions": 51,
       "deletions": 1,
       "changedFiles": 2
     },
     {
       "number": 44873,
       "title": "fix(model-selection): use lazy getter for ANTHROPIC_MODEL_ALIASES to avoid TDZ error",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T08:36:16Z",
       "mergedAt": null,
@@ -81,7 +147,7 @@
       "merged": false,
       "createdAt": "2026-03-12T08:34:57Z",
       "mergedAt": null,
-      "additions": 64,
+      "additions": 67,
       "deletions": 0,
       "changedFiles": 2
     },
@@ -110,7 +176,7 @@
     {
       "number": 39636,
       "title": "fix(messages): add suppressMutatingToolErrorWarnings config option",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T08:38:40Z",
       "mergedAt": null,
@@ -128,33 +194,31 @@
       "additions": 247,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 35852,
-      "title": "fix(security): add Russian Cyrillic SYSTEM locale for Windows ACL audit",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T09:35:01Z",
-      "mergedAt": null,
-      "additions": 27,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 34246,
-      "title": "fix(daemon): handle generic 'command failed' error for systemctl --user",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T09:36:07Z",
-      "mergedAt": null,
-      "additions": 19,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -189,21 +253,18 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
   "recentCommitDays": {}
 }

@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3736986?v=4",
   "githubUrl": "https://github.com/cnJasonZ",
   "score": {
-    "score": 31.41,
+    "score": 26.41,
     "prScore": 20.41,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 6,
     "commentScore": 0
   },
@@ -19,7 +19,7 @@
     "prDeletions": 0,
     "prChangedFiles": 7,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
@@ -31,9 +31,9 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 2,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 2,
       "comments": 0,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-06T10:37:14Z",
+  "firstContribution": "2026-03-11T09:22:11Z",
   "lastContribution": "2026-03-11T10:31:59Z",
   "recentPRs": [
     {
@@ -64,15 +64,7 @@
       "changedFiles": 7
     }
   ],
-  "recentIssues": [
-    {
-      "number": 37651,
-      "title": "Feature request: Add lightweight shell payload type for cron jobs",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T10:37:14Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 43024,
@@ -90,24 +82,12 @@
       "prs": 1,
       "issues": 0,
       "reviews": 2
-    },
-    "2026-03-06": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
-    "Issue Reporting"
+    "Code Review"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {}
 }

@@ -3,62 +3,62 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1272053?v=4",
   "githubUrl": "https://github.com/jarimustonen",
   "score": {
-    "score": 83.88,
-    "prScore": 65.88,
+    "score": 98.31,
+    "prScore": 79.81,
     "issueScore": 0,
     "reviewScore": 18,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Maintainer",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 4,
-    "prsMerged": 0,
-    "prAdditions": 279,
-    "prDeletions": 31,
+    "prsMerged": 1,
+    "prAdditions": 352,
+    "prDeletions": 35,
     "prChangedFiles": 22,
-    "prMergeRate": 0,
+    "prMergeRate": 25,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1,
+    "commitAdditions": 22,
+    "commitDeletions": 4,
+    "commitChangedFiles": 5
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
-      "reviews": 4,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 22,
+      "commitDeletions": 4,
+      "commits": 1
     },
     "monthly": {
       "prs": 4,
       "issues": 0,
       "reviews": 6,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1,
+      "commitAdditions": 22,
+      "commitDeletions": 4,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-07T09:40:46Z",
-  "lastContribution": "2026-03-09T12:37:02Z",
+  "lastContribution": "2026-03-18T15:12:36Z",
   "recentPRs": [
     {
       "number": 40781,
       "title": "fix(hooks): pass sessionFile and sessionKey in after_compaction hook",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-09T08:37:21Z",
-      "mergedAt": null,
+      "mergedAt": "2026-03-17T15:30:38Z",
       "additions": 22,
       "deletions": 4,
       "changedFiles": 5
@@ -70,8 +70,8 @@
       "merged": false,
       "createdAt": "2026-03-08T17:38:46Z",
       "mergedAt": null,
-      "additions": 166,
-      "deletions": 23,
+      "additions": 235,
+      "deletions": 27,
       "changedFiles": 12
     },
     {
@@ -81,7 +81,7 @@
       "merged": false,
       "createdAt": "2026-03-07T15:07:14Z",
       "mergedAt": null,
-      "additions": 90,
+      "additions": 94,
       "deletions": 3,
       "changedFiles": 4
     },
@@ -149,8 +149,11 @@
   },
   "skills": [
     "Pull Requests",
-    "Code Review"
+    "Code Review",
+    "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {}
+  "recentCommitDays": {
+    "2026-03-17": 1
+  }
 }

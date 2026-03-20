@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/166576253?u=456e42f927c6a7dade6e15fd4ca74c15caeffbc2&v=4",
   "githubUrl": "https://github.com/HOYALIM",
   "score": {
-    "score": 155.78,
-    "prScore": 155.28,
+    "score": 146.08,
+    "prScore": 145.58,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,12 +13,12 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 7,
-    "prsMerged": 1,
-    "prAdditions": 707,
-    "prDeletions": 220,
-    "prChangedFiles": 59,
-    "prMergeRate": 14,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 1045,
+    "prDeletions": 495,
+    "prChangedFiles": 101,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -49,9 +49,20 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T20:57:30Z",
-  "lastContribution": "2026-03-13T21:46:36Z",
+  "firstContribution": "2026-03-13T19:23:26Z",
+  "lastContribution": "2026-03-16T01:16:30Z",
   "recentPRs": [
+    {
+      "number": 47728,
+      "title": "Fix current pnpm gate regressions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T01:16:30Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 51,
+      "changedFiles": 9
+    },
     {
       "number": 45476,
       "title": "chore: fix pnpm guard checks in nested worktrees",
@@ -59,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-13T21:46:36Z",
       "mergedAt": null,
-      "additions": 43,
-      "deletions": 20,
-      "changedFiles": 4
+      "additions": 82,
+      "deletions": 36,
+      "changedFiles": 7
     },
     {
       "number": 45430,
@@ -81,9 +92,9 @@
       "merged": false,
       "createdAt": "2026-03-13T19:59:11Z",
       "mergedAt": null,
-      "additions": 6,
-      "deletions": 3,
-      "changedFiles": 2
+      "additions": 418,
+      "deletions": 220,
+      "changedFiles": 40
     },
     {
       "number": 45409,
@@ -95,51 +106,18 @@
       "additions": 128,
       "deletions": 26,
       "changedFiles": 17
-    },
-    {
-      "number": 34983,
-      "title": "fix(telegram): avoid duplicate final sends on unmodified preview edits",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T20:57:33Z",
-      "mergedAt": null,
-      "additions": 48,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 34982,
-      "title": "fix(security): avoid prototype-chain account path checks",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T20:57:32Z",
-      "mergedAt": "2026-03-05T01:38:09Z",
-      "additions": 48,
-      "deletions": 2,
-      "changedFiles": 4
-    },
-    {
-      "number": 34981,
-      "title": "fix(ollama): support thinking field in native stream and response",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T20:57:30Z",
-      "mergedAt": null,
-      "additions": 74,
-      "deletions": 7,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-13": {
-      "prs": 4,
+    "2026-03-16": {
+      "prs": 1,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-04": {
-      "prs": 3,
+    "2026-03-13": {
+      "prs": 4,
       "issues": 0,
       "reviews": 0
     }

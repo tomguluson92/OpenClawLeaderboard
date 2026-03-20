@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/225288021?v=4",
   "githubUrl": "https://github.com/Kansodata",
   "score": {
-    "score": 54.71,
-    "prScore": 48.71,
+    "score": 18.56,
+    "prScore": 18.56,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 3
+    "reviewScore": 0,
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 2,
+    "prs": 0,
     "prsMerged": 0,
-    "prAdditions": 330,
-    "prDeletions": 10,
-    "prChangedFiles": 8,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
+    "comments": 0,
     "commitAdditions": 43,
     "commitDeletions": 8,
     "commitChangedFiles": 3
@@ -34,66 +34,28 @@
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
-      "reviews": 1,
-      "comments": 6,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 43,
       "commitDeletions": 8,
       "commits": 3
     }
   },
-  "firstContribution": "2026-03-04T14:26:18Z",
-  "lastContribution": "2026-03-09T15:13:00Z",
-  "recentPRs": [
-    {
-      "number": 34568,
-      "title": "test: split schema coverage and peer dependency updates from #34532",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T14:57:28Z",
-      "mergedAt": null,
-      "additions": 61,
-      "deletions": 9,
-      "changedFiles": 4
-    },
-    {
-      "number": 34532,
-      "title": "docs: add Teams academic chat Canvas MVP host-side guide",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T14:26:18Z",
-      "mergedAt": null,
-      "additions": 269,
-      "deletions": 1,
-      "changedFiles": 4
-    }
-  ],
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 34568,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T16:20:41Z"
-    }
-  ],
-  "recentActivityDays": {
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 1
-    }
-  },
+  "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
     "Direct Commits"
   ],
   "achievements": [],

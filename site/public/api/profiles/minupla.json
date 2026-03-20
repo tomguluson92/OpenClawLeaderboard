@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/42547246?v=4",
   "githubUrl": "https://github.com/minupla",
   "score": {
-    "score": 23.46,
+    "score": 22.96,
     "prScore": 17.96,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Pathfinder",
@@ -24,7 +24,7 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 194,
     "commitDeletions": 7,
     "commitChangedFiles": 5
@@ -32,7 +32,7 @@
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -43,27 +43,27 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 194,
       "commitDeletions": 7,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-03T15:19:22Z",
-  "lastContribution": "2026-03-03T16:11:33Z",
+  "firstContribution": "2026-03-16T20:40:07Z",
+  "lastContribution": "2026-03-16T20:40:07Z",
   "recentPRs": [],
   "recentIssues": [
     {
-      "number": 33167,
-      "title": "feat(cron): CRON_DONE signal and condition-based job self-deletion",
+      "number": 48478,
+      "title": "feat: Cancel and restart generation on new inbound message during active response (interrupt mode)",
       "state": "OPEN",
-      "createdAt": "2026-03-03T15:19:22Z",
+      "createdAt": "2026-03-16T20:40:07Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-03": {
+    "2026-03-16": {
       "prs": 0,
       "issues": 1,
       "reviews": 0
@@ -71,7 +71,6 @@
   },
   "skills": [
     "Issue Reporting",
-    "Discussion",
     "Direct Commits"
   ],
   "achievements": [],

@@ -66,7 +66,7 @@
     {
       "number": 45252,
       "title": "fix(infra/net): pass pinned DNS lookup to ProxyAgent in explicit-proxy mode (CWE-918)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T15:49:13Z",
       "mergedAt": null,
@@ -77,7 +77,7 @@
     {
       "number": 45248,
       "title": "fix(infra/net): pass pinned DNS lookup to EnvHttpProxyAgent in trusted_env_proxy mode (CWE-918)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T15:42:50Z",
       "mergedAt": null,
@@ -88,7 +88,7 @@
     {
       "number": 45243,
       "title": "fix(tts): validate baseUrl against cloud metadata and dangerous hostnames (CWE-918)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T15:36:27Z",
       "mergedAt": null,
@@ -99,7 +99,7 @@
     {
       "number": 45236,
       "title": "fix(signal): validate baseUrl against cloud metadata and dangerous hostnames (CWE-918)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T15:25:40Z",
       "mergedAt": null,
@@ -110,7 +110,7 @@
     {
       "number": 45197,
       "title": "fix(link-understanding): re-validate resolved IPs at usage time to prevent SSRF bypass",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T14:48:23Z",
       "mergedAt": null,

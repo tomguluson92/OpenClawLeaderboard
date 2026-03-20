@@ -3,55 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/72309817?v=4",
   "githubUrl": "https://github.com/byungsker",
   "score": {
-    "score": 422.01,
-    "prScore": 356.51,
+    "score": 322.05,
+    "prScore": 266.05,
     "issueScore": 0,
     "reviewScore": 30,
-    "commentScore": 35.5
+    "commentScore": 26
   },
   "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 9,
-    "prs": 26,
-    "prsMerged": 2,
-    "prAdditions": 2396,
-    "prDeletions": 112,
-    "prChangedFiles": 75,
-    "prMergeRate": 8,
+    "prs": 14,
+    "prsMerged": 1,
+    "prAdditions": 1652,
+    "prDeletions": 81,
+    "prChangedFiles": 43,
+    "prMergeRate": 7,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 10,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 71,
+    "comments": 52,
     "commitAdditions": 1173,
     "commitDeletions": 84,
     "commitChangedFiles": 32
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 4,
       "issues": 0,
-      "reviews": 10,
-      "comments": 48,
+      "reviews": 0,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 26,
+      "prs": 14,
       "issues": 0,
       "reviews": 10,
-      "comments": 71,
+      "comments": 52,
       "commitAdditions": 1173,
       "commitDeletions": 84,
       "commits": 11
     }
   },
-  "firstContribution": "2026-03-03T15:59:24Z",
-  "lastContribution": "2026-03-13T15:42:09Z",
+  "firstContribution": "2026-03-06T15:17:10Z",
+  "lastContribution": "2026-03-19T09:29:21Z",
   "recentPRs": [
+    {
+      "number": 49831,
+      "title": "fix(imessage): replace openclaw/plugin-sdk/channel-runtime import in channel.runtime.ts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T13:45:34Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 13,
+      "changedFiles": 3
+    },
+    {
+      "number": 49767,
+      "title": "fix(feishu): @所有人 (@all) no longer triggers every bot unconditionally",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T11:37:10Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 3,
+      "changedFiles": 4
+    },
     {
       "number": 45246,
       "title": "fix(feishu): resolve tool account by session accountId before config defaultAccount",
@@ -70,7 +92,7 @@
       "merged": false,
       "createdAt": "2026-03-13T14:46:20Z",
       "mergedAt": null,
-      "additions": 136,
+      "additions": 184,
       "deletions": 3,
       "changedFiles": 6
     },
@@ -183,94 +205,6 @@
       "additions": 238,
       "deletions": 18,
       "changedFiles": 2
-    },
-    {
-      "number": 36216,
-      "title": "fix(ui): catch marked.js parse errors and fall back to escaped plain text",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T13:49:17Z",
-      "mergedAt": null,
-      "additions": 38,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 36214,
-      "title": "fix(security): use icacls /sid for locale-independent Windows ACL audit",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T13:47:07Z",
-      "mergedAt": null,
-      "additions": 52,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 35836,
-      "title": "fix(msteams): strip stray double-quote from Graph API messageId",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T09:24:49Z",
-      "mergedAt": null,
-      "additions": 21,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 35829,
-      "title": "fix(agents): inject messageToolHints into sub-agent prompts in minimal mode",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T09:21:16Z",
-      "mergedAt": null,
-      "additions": 39,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 35813,
-      "title": "fix(exec): bypass cmd.exe for explicit PowerShell invocations on Windows",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T09:09:28Z",
-      "mergedAt": null,
-      "additions": 159,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 35553,
-      "title": "fix(telegram): only mark selected model ✓ for the matching provider",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T06:05:35Z",
-      "mergedAt": null,
-      "additions": 39,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 35493,
-      "title": "fix(session): archive old transcript on daily/scheduled reset to prevent orphaned files",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T05:11:12Z",
-      "mergedAt": "2026-03-05T19:52:23Z",
-      "additions": 61,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 35186,
-      "title": "fix(agents): recognise OpenAI/Codex `server_error` JSON body as retryable so model fallback triggers on transient 500s",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T01:37:33Z",
-      "mergedAt": null,
-      "additions": 27,
-      "deletions": 1,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
@@ -327,6 +261,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 2,
       "issues": 0,
@@ -349,16 +288,6 @@
     },
     "2026-03-06": {
       "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 9,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 5,
       "issues": 0,
       "reviews": 0
     },

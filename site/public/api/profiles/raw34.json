@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1996768?u=3e42d5bd458000486d71728af96deafb290b5a81&v=4",
   "githubUrl": "https://github.com/raw34",
   "score": {
-    "score": 65.05,
+    "score": 49.05,
     "prScore": 27.05,
-    "issueScore": 25,
+    "issueScore": 10,
     "reviewScore": 12,
-    "commentScore": 1
+    "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Hunter",
+  "tier": "beginner",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,21 +19,21 @@
     "prDeletions": 15,
     "prChangedFiles": 8,
     "prMergeRate": 0,
-    "issues": 5,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 4,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -41,15 +41,15 @@
     },
     "monthly": {
       "prs": 2,
-      "issues": 5,
+      "issues": 2,
       "reviews": 4,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T16:25:08Z",
+  "firstContribution": "2026-03-12T02:12:24Z",
   "lastContribution": "2026-03-14T00:07:33Z",
   "recentPRs": [
     {
@@ -89,27 +89,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-12T02:12:24Z",
       "closedAt": null
-    },
-    {
-      "number": 33743,
-      "title": "Harden sandbox buffered-send materialization against path escapes and filename collisions",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T01:38:57Z",
-      "closedAt": null
-    },
-    {
-      "number": 33682,
-      "title": "message send accepts buffer params but outbound send does not hydrate them into media",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T00:40:48Z",
-      "closedAt": null
-    },
-    {
-      "number": 33251,
-      "title": "Slack sandbox attachments reject ~/.openclaw/workspaces paths resolved from /workspace media",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T16:25:08Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [
@@ -145,16 +124,6 @@
       "issues": 1,
       "reviews": 1
     },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
     "2026-03-14": {
       "prs": 0,
       "issues": 0,
@@ -164,15 +133,9 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
-    "Discussion"
+    "Issue Reporting"
   ],
   "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    },
     {
       "id": "well-rounded",
       "label": "Well Rounded",

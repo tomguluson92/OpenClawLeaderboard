@@ -1,0 +1,152 @@
+{
+  "username": "100menotu001",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64228916?v=4",
+  "githubUrl": "https://github.com/100menotu001",
+  "score": {
+    "score": 92.05,
+    "prScore": 66.05,
+    "issueScore": 10,
+    "reviewScore": 15,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 1316,
+    "prDeletions": 63,
+    "prChangedFiles": 24,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 5,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 5,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T22:55:55Z",
+  "lastContribution": "2026-03-17T01:13:37Z",
+  "recentPRs": [
+    {
+      "number": 48187,
+      "title": "Telegram: expose topic routing state in /status",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T12:11:20Z",
+      "mergedAt": null,
+      "additions": 459,
+      "deletions": 33,
+      "changedFiles": 10
+    },
+    {
+      "number": 47687,
+      "title": "Telegram: add reaction semantics wake triggers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T23:20:36Z",
+      "mergedAt": null,
+      "additions": 857,
+      "deletions": 30,
+      "changedFiles": 14
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 47677,
+      "title": "Feature request: first-class Telegram reaction triggers for agent wake-up and execution",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T23:02:33Z",
+      "closedAt": null
+    },
+    {
+      "number": 47673,
+      "title": "Feature request: first-class ACPX support for Telegram topic/thread sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T22:55:55Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 47687,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T01:13:37Z"
+    },
+    {
+      "prNumber": 47687,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T18:24:15Z"
+    },
+    {
+      "prNumber": 47687,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T17:41:14Z"
+    },
+    {
+      "prNumber": 47687,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T12:02:16Z"
+    },
+    {
+      "prNumber": 47687,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T23:29:48Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 1
+    },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

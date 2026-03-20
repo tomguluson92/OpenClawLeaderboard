@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/157032610?u=500f5090d713017dd44637b0886383de0410a012&v=4",
   "githubUrl": "https://github.com/Amateur0x1",
   "score": {
-    "score": 71.33,
+    "score": 77.33,
     "prScore": 55.83,
-    "issueScore": 15,
+    "issueScore": 21,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -20,7 +20,7 @@
     "prChangedFiles": 9,
     "prMergeRate": 0,
     "issues": 3,
-    "issuesClosed": 0,
+    "issuesClosed": 2,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
@@ -31,10 +31,10 @@
   },
   "period": {
     "weekly": {
-      "prs": 6,
-      "issues": 3,
+      "prs": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -55,7 +55,7 @@
     {
       "number": 45024,
       "title": "fix(ui): add position:relative to .config-search--top for icon positioning",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T11:05:55Z",
       "mergedAt": null,
@@ -66,7 +66,7 @@
     {
       "number": 41884,
       "title": "fix: delete parent agent directory when removing agent",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T07:13:19Z",
       "mergedAt": null,
@@ -123,16 +123,16 @@
     {
       "number": 44861,
       "title": "[Bug] WebUI Settings page search icon misaligned/rendered incorrectly",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-13T08:21:29Z",
-      "closedAt": null
+      "closedAt": "2026-03-19T04:28:59Z"
     },
     {
       "number": 41686,
       "title": "[Bug]: Agent directory not fully cleaned up after deletion",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-10T03:31:54Z",
-      "closedAt": null
+      "closedAt": "2026-03-18T13:15:44Z"
     },
     {
       "number": 41685,

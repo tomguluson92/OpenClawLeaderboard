@@ -3,55 +3,143 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/28055621?u=a9386309359afb54d8d0938852903fb657177d8e&v=4",
   "githubUrl": "https://github.com/jackjin1997",
   "score": {
-    "score": 159.81,
-    "prScore": 149.31,
-    "issueScore": 5,
-    "reviewScore": 0,
-    "commentScore": 5.5
+    "score": 276.27,
+    "prScore": 239.77,
+    "issueScore": 10,
+    "reviewScore": 3,
+    "commentScore": 23.5
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "active",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 12,
+    "prs": 20,
     "prsMerged": 0,
-    "prAdditions": 364,
-    "prDeletions": 58,
-    "prChangedFiles": 36,
+    "prAdditions": 644,
+    "prDeletions": 129,
+    "prChangedFiles": 67,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
+    "comments": 47,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 12,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 11,
+      "prs": 20,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 47,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 12,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 11,
+      "prs": 20,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 47,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-13T12:41:56Z",
-  "lastContribution": "2026-03-15T03:46:29Z",
+  "lastContribution": "2026-03-19T08:58:12Z",
   "recentPRs": [
+    {
+      "number": 50340,
+      "title": "docs(subagents): fix 6 gaps in sub-agents documentation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T08:58:12Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 16,
+      "changedFiles": 1
+    },
+    {
+      "number": 47850,
+      "title": "fix(test): resolve CI test regressions — Windows short paths, synology zod mock, feishu registration",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T03:35:16Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 11,
+      "changedFiles": 5
+    },
+    {
+      "number": 47490,
+      "title": "fix(telegram): align topic agentId test with routing fallback behavior",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T16:46:02Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 47465,
+      "title": "fix(line): preserve underscores inside words in stripMarkdown",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T16:17:13Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 47059,
+      "title": "fix(tts): add resolveModelAsync to tts.test.ts mock",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T08:00:53Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 7,
+      "changedFiles": 1
+    },
+    {
+      "number": 47054,
+      "title": "fix(tts): add resolveModelAsync to tts.test.ts mock",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T07:56:16Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 7,
+      "changedFiles": 1
+    },
+    {
+      "number": 46945,
+      "title": "fix(line): preserve underscores inside words in stripMarkdown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T05:55:50Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 46944,
+      "title": "fix(plugins): route send-deps imports through plugin-sdk for Docker compat",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T05:55:44Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 25,
+      "changedFiles": 14
+    },
     {
       "number": 46827,
       "title": "fix(plugins): route send-deps imports through plugin-sdk for Docker compat",
@@ -81,14 +169,14 @@
       "merged": false,
       "createdAt": "2026-03-14T11:31:06Z",
       "mergedAt": null,
-      "additions": 54,
+      "additions": 77,
       "deletions": 0,
       "changedFiles": 2
     },
     {
       "number": 45915,
       "title": "fix(agents): forward threadId in sessions_send announce delivery",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T09:03:51Z",
       "mergedAt": null,
@@ -103,9 +191,9 @@
       "merged": false,
       "createdAt": "2026-03-14T07:23:39Z",
       "mergedAt": null,
-      "additions": 112,
-      "deletions": 0,
-      "changedFiles": 2
+      "additions": 115,
+      "deletions": 1,
+      "changedFiles": 3
     },
     {
       "number": 45809,
@@ -114,25 +202,25 @@
       "merged": false,
       "createdAt": "2026-03-14T06:52:06Z",
       "mergedAt": null,
-      "additions": 14,
-      "deletions": 1,
+      "additions": 11,
+      "deletions": 0,
       "changedFiles": 2
     },
     {
       "number": 45723,
       "title": "feat(web-search): add Brave Search baseUrl config override",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T04:11:27Z",
       "mergedAt": null,
-      "additions": 19,
-      "deletions": 10,
-      "changedFiles": 3
+      "additions": 54,
+      "deletions": 11,
+      "changedFiles": 4
     },
     {
       "number": 45719,
       "title": "fix(agents): expand ~ in tool file paths to OS home directory",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T04:09:22Z",
       "mergedAt": null,
@@ -143,7 +231,7 @@
     {
       "number": 45700,
       "title": "fix(subagents): correct duration display showing 5-6x inflated runtime",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T03:39:10Z",
       "mergedAt": null,
@@ -154,24 +242,24 @@
     {
       "number": 45215,
       "title": "fix(sandbox): propagate browser.ssrfPolicy to sandbox browser bridge (fixes #45153)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T15:02:36Z",
       "mergedAt": null,
-      "additions": 10,
+      "additions": 48,
       "deletions": 1,
-      "changedFiles": 3
+      "changedFiles": 4
     },
     {
       "number": 45188,
       "title": "fix(cron): refresh stale Current time timestamp on repeated heartbeat runs",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T14:39:19Z",
       "mergedAt": null,
-      "additions": 38,
+      "additions": 106,
       "deletions": 1,
-      "changedFiles": 2
+      "changedFiles": 3
     },
     {
       "number": 45083,
@@ -187,6 +275,13 @@
   ],
   "recentIssues": [
     {
+      "number": 47053,
+      "title": "tts.test.ts mock missing resolveModelAsync — Windows CI fails",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T07:55:56Z",
+      "closedAt": null
+    },
+    {
       "number": 45729,
       "title": "[Feature]: Add baseUrl override for Brave Search API",
       "state": "OPEN",
@@ -194,12 +289,28 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 46944,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T07:35:30Z"
+    }
+  ],
   "recentActivityDays": {
-    "2026-03-15": {
+    "2026-03-19": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 7,
+      "issues": 1,
+      "reviews": 1
     },
     "2026-03-14": {
       "prs": 8,
@@ -214,6 +325,7 @@
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
     "Discussion"
   ],
@@ -222,6 +334,16 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
   ],
   "recentCommitDays": {}

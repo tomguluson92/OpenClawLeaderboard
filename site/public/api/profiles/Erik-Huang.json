@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/41610851?u=314a248687dfd276b9cee43c895268c330329e45&v=4",
   "githubUrl": "https://github.com/Erik-Huang",
   "score": {
-    "score": 13.66,
+    "score": 8.66,
     "prScore": 7.66,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1
   },
@@ -19,7 +19,7 @@
     "prDeletions": 2,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 2,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-06T18:35:32Z",
+  "firstContribution": "2026-03-06T18:43:17Z",
   "lastContribution": "2026-03-06T19:35:29Z",
   "recentPRs": [
     {
@@ -64,26 +64,17 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38262,
-      "title": "[Bug]: session.resetByChannel does not reset Discord channel sessions (updatedAt pre-bumped before freshness check)",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T18:35:32Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],

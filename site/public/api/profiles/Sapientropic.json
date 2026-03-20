@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/194952804?u=28ae94205033788a11bdbaec34cab5ff578be819&v=4",
   "githubUrl": "https://github.com/Sapientropic",
   "score": {
-    "score": 60.62,
+    "score": 51.12,
     "prScore": 27.62,
-    "issueScore": 20,
+    "issueScore": 10,
     "reviewScore": 9,
-    "commentScore": 4
+    "commentScore": 4.5
   },
   "tier": "regular",
   "characterClass": "Contributor",
@@ -19,38 +19,38 @@
     "prDeletions": 66,
     "prChangedFiles": 8,
     "prMergeRate": 0,
-    "issues": 4,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
+    "comments": 9,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 1,
-      "reviews": 3,
-      "comments": 2,
+      "reviews": 0,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 4,
+      "issues": 2,
       "reviews": 3,
-      "comments": 8,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-06T10:27:07Z",
-  "lastContribution": "2026-03-11T10:15:52Z",
+  "firstContribution": "2026-03-06T10:50:11Z",
+  "lastContribution": "2026-03-18T16:21:31Z",
   "recentPRs": [
     {
       "number": 43060,
@@ -77,31 +77,17 @@
   ],
   "recentIssues": [
     {
+      "number": 48963,
+      "title": "Design: add a channel-agnostic progress/status lane and a single source of truth for progress vs final delivery",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T11:34:41Z",
+      "closedAt": null
+    },
+    {
       "number": 40673,
       "title": "[Bug]: OPENCLAW_RAW_STREAM disable semantics unclear; LaunchAgent still appends after unset/0",
       "state": "OPEN",
       "createdAt": "2026-03-09T06:14:43Z",
-      "closedAt": null
-    },
-    {
-      "number": 38291,
-      "title": "bug(gemini/replies): user-visible paths can leak raw reasoning/tagged text after tool use; cleaned final payload and stored transcript diverge",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T19:36:04Z",
-      "closedAt": null
-    },
-    {
-      "number": 37804,
-      "title": "RFC: treat models.providers-injected models as first-class forward-compat models",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T12:26:51Z",
-      "closedAt": null
-    },
-    {
-      "number": 37635,
-      "title": "models list --all omits config-injected models from models.providers",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T10:27:38Z",
       "closedAt": null
     }
   ],
@@ -133,14 +119,14 @@
       "issues": 0,
       "reviews": 3
     },
-    "2026-03-09": {
+    "2026-03-17": {
       "prs": 0,
       "issues": 1,
       "reviews": 0
     },
-    "2026-03-06": {
+    "2026-03-09": {
       "prs": 0,
-      "issues": 3,
+      "issues": 1,
       "reviews": 0
     }
   },

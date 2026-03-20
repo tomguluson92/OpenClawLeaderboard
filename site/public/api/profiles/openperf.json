@@ -3,59 +3,81 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/80630709?v=4",
   "githubUrl": "https://github.com/openperf",
   "score": {
-    "score": 613.53,
-    "prScore": 425.53,
+    "score": 539.5,
+    "prScore": 362,
     "issueScore": 0,
-    "reviewScore": 162,
-    "commentScore": 26
+    "reviewScore": 165,
+    "commentScore": 12.5
   },
   "tier": "veteran",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 4,
-    "prs": 34,
+    "prs": 25,
     "prsMerged": 1,
-    "prAdditions": 41790,
-    "prDeletions": 15489,
-    "prChangedFiles": 1037,
-    "prMergeRate": 3,
+    "prAdditions": 39868,
+    "prDeletions": 15386,
+    "prChangedFiles": 1007,
+    "prMergeRate": 4,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 54,
+    "reviews": 55,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 52,
+    "comments": 25,
     "commitAdditions": 735,
     "commitDeletions": 17,
     "commitChangedFiles": 15
   },
   "period": {
     "weekly": {
-      "prs": 16,
+      "prs": 6,
       "issues": 0,
-      "reviews": 37,
-      "comments": 16,
-      "commitAdditions": 78,
-      "commitDeletions": 1,
-      "commits": 1
+      "reviews": 15,
+      "comments": 11,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 34,
+      "prs": 25,
       "issues": 0,
-      "reviews": 54,
-      "comments": 52,
+      "reviews": 55,
+      "comments": 25,
       "commitAdditions": 735,
       "commitDeletions": 17,
       "commits": 5
     }
   },
-  "firstContribution": "2026-03-03T07:55:17Z",
-  "lastContribution": "2026-03-14T12:51:30Z",
+  "firstContribution": "2026-03-06T06:44:18Z",
+  "lastContribution": "2026-03-18T02:30:58Z",
   "recentPRs": [
+    {
+      "number": 48001,
+      "title": "fix(browser): prevent gateway crash from unhandled MCP handshake rejection in existing-session",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T07:40:38Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 47222,
+      "title": "fix(gateway): prevent spurious SIGTERM shutdown on CLI disconnect under systemd",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T11:07:39Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 5,
+      "changedFiles": 3
+    },
     {
       "number": 46054,
       "title": "fix(whatsapp): anchor listener registry on globalThis to survive chunk-splitting",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T11:45:57Z",
       "mergedAt": null,
@@ -165,7 +187,7 @@
     {
       "number": 40501,
       "title": "fix(auth): sync openai-codex cli credentials to default profile slot",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T03:07:39Z",
       "mergedAt": null,
@@ -198,7 +220,7 @@
     {
       "number": 39958,
       "title": "fix(gateway): warn at startup when default model provider has no auth configured",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T14:47:12Z",
       "mergedAt": null,
@@ -249,32 +271,40 @@
       "additions": 113,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 38619,
-      "title": "fix(discord): split CJK text at natural boundaries instead of mid-character",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T05:55:24Z",
-      "mergedAt": null,
-      "additions": 36925,
-      "deletions": 15194,
-      "changedFiles": 942
-    },
-    {
-      "number": 38475,
-      "title": "fix: respect session modelOverride in followup/auto-reply fallback resolution",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T02:12:37Z",
-      "mergedAt": null,
-      "additions": 157,
-      "deletions": 29,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 48001,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T01:24:15Z"
+    },
+    {
+      "prNumber": 48001,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T08:35:48Z"
+    },
+    {
+      "prNumber": 48001,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T08:30:39Z"
+    },
+    {
+      "prNumber": 47222,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T11:50:09Z"
+    },
+    {
+      "prNumber": 47222,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T11:24:58Z"
+    },
+    {
+      "prNumber": 47222,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T11:24:36Z"
+    },
     {
       "prNumber": 45793,
       "state": "COMMENTED",
@@ -344,39 +374,19 @@
       "prNumber": 43908,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T10:02:43Z"
-    },
-    {
-      "prNumber": 43908,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T10:02:21Z"
-    },
-    {
-      "prNumber": 43864,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T09:01:11Z"
-    },
-    {
-      "prNumber": 43864,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T09:00:25Z"
-    },
-    {
-      "prNumber": 43053,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T04:50:27Z"
-    },
-    {
-      "prNumber": 43053,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T03:22:45Z"
-    },
-    {
-      "prNumber": 43053,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T02:07:44Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-14": {
       "prs": 3,
       "issues": 0,
@@ -413,12 +423,12 @@
       "reviews": 6
     },
     "2026-03-06": {
-      "prs": 4,
+      "prs": 2,
       "issues": 0,
-      "reviews": 6
+      "reviews": 2
     },
-    "2026-03-05": {
-      "prs": 9,
+    "2026-03-18": {
+      "prs": 0,
       "issues": 0,
       "reviews": 1
     }

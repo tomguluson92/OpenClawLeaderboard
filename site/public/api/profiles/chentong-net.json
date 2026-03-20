@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 9,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -55,7 +55,7 @@
     {
       "number": 44237,
       "title": "fix(agent): recover anthropic tool-call args from partialJson and concatenated deltas",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T16:36:39Z",
       "mergedAt": null,
@@ -66,7 +66,7 @@
     {
       "number": 44181,
       "title": "feat(onboard): add one-click SCNet provider option",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T15:36:35Z",
       "mergedAt": null,
@@ -77,7 +77,7 @@
     {
       "number": 44131,
       "title": "docs(install): clarify --bind mode vs resolved 0.0.0.0 listener output",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T14:36:36Z",
       "mergedAt": null,
@@ -88,7 +88,7 @@
     {
       "number": 44103,
       "title": "fix(gateway): avoid token mismatch between openclaw-tui and control-ui",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T14:08:39Z",
       "mergedAt": null,
@@ -99,7 +99,7 @@
     {
       "number": 44017,
       "title": "fix(exec): prevent self-termination during gateway restart flows",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T12:12:25Z",
       "mergedAt": null,
@@ -110,7 +110,7 @@
     {
       "number": 40059,
       "title": "fix(exec): stop implicit auto-backgrounding for long-running commands",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T16:25:08Z",
       "mergedAt": null,
@@ -121,7 +121,7 @@
     {
       "number": 39944,
       "title": "fix(gateway): fail fast when startup model auth is missing",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T14:32:49Z",
       "mergedAt": null,
@@ -132,7 +132,7 @@
     {
       "number": 39883,
       "title": "Agents: skip workspace cleanup when other agents still reference it",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T13:39:25Z",
       "mergedAt": null,
@@ -143,7 +143,7 @@
     {
       "number": 39867,
       "title": "Gateway: support chrome-extension://* in gateway.controlUi.allowedOrigins",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T13:21:07Z",
       "mergedAt": null,

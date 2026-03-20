@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5648066?u=e99c32e60aa532343789048c4aca0dfb6de68050&v=4",
   "githubUrl": "https://github.com/4ier",
   "score": {
-    "score": 34.06,
+    "score": 36.56,
     "prScore": 22.56,
-    "issueScore": 10,
-    "reviewScore": 0,
-    "commentScore": 1.5
+    "issueScore": 5,
+    "reviewScore": 9,
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,12 +19,12 @@
     "prDeletions": 4,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 0,
     "commitAdditions": 53,
     "commitDeletions": 2,
     "commitChangedFiles": 3
@@ -33,7 +33,7 @@
     "weekly": {
       "prs": 1,
       "issues": 1,
-      "reviews": 0,
+      "reviews": 3,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -41,16 +41,16 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 3,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 0,
       "commitAdditions": 53,
       "commitDeletions": 2,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-07T16:37:55Z",
-  "lastContribution": "2026-03-13T12:27:43Z",
+  "firstContribution": "2026-03-13T10:46:01Z",
+  "lastContribution": "2026-03-15T09:00:59Z",
   "recentPRs": [
     {
       "number": 45072,
@@ -71,34 +71,49 @@
       "state": "OPEN",
       "createdAt": "2026-03-13T10:46:01Z",
       "closedAt": null
-    },
-    {
-      "number": 39010,
-      "title": "Critical: Telegram message replay storm after upgrade to 2026.3.2",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T16:37:55Z",
-      "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 45072,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T09:00:59Z"
+    },
+    {
+      "prNumber": 45072,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T09:00:47Z"
+    },
+    {
+      "prNumber": 45072,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T09:00:36Z"
+    }
+  ],
   "recentActivityDays": {
     "2026-03-13": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     },
-    "2026-03-07": {
+    "2026-03-15": {
       "prs": 0,
-      "issues": 1,
-      "reviews": 0
+      "issues": 0,
+      "reviews": 3
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Code Review",
+    "Issue Reporting"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {
     "2026-02-28": 1
   }

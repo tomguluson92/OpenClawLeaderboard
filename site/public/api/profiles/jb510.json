@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/801241?v=4",
   "githubUrl": "https://github.com/jb510",
   "score": {
-    "score": 13.91,
-    "prScore": 12.91,
-    "issueScore": 0,
+    "score": 34.91,
+    "prScore": 27.91,
+    "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 2
   },
   "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 137,
-    "prDeletions": 0,
-    "prChangedFiles": 4,
+    "prAdditions": 325,
+    "prDeletions": 3,
+    "prChangedFiles": 8,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
+      "prs": 1,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 2,
+      "issues": 1,
       "reviews": 0,
-      "comments": 2,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-06T05:10:05Z",
-  "lastContribution": "2026-03-06T05:43:02Z",
+  "lastContribution": "2026-03-18T14:16:13Z",
   "recentPRs": [
+    {
+      "number": 49085,
+      "title": "fix(acp): keep stdout JSON clean",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T15:01:36Z",
+      "mergedAt": null,
+      "additions": 188,
+      "deletions": 3,
+      "changedFiles": 4
+    },
     {
       "number": 37215,
       "title": "Models/openai-codex: add gpt-5.4 forward-compat support",
@@ -64,9 +75,22 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 49060,
+      "title": "ACP server stdout corruption when logging subsystem writes to stdout",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T14:25:57Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-06": {
       "prs": 1,
       "issues": 0,
@@ -75,6 +99,7 @@
   },
   "skills": [
     "Pull Requests",
+    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],

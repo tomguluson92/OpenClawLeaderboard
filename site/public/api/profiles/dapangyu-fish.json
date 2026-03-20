@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/68261559?u=da2d5a5fd49bd66341d505d9a08671dcf27cf188&v=4",
   "githubUrl": "https://github.com/dapangyu-fish",
   "score": {
-    "score": 111.18,
-    "prScore": 103.18,
-    "issueScore": 0,
+    "score": 143.03,
+    "prScore": 130.03,
+    "issueScore": 5,
     "reviewScore": 6,
     "commentScore": 2
   },
@@ -13,13 +13,13 @@
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 308,
-    "prDeletions": 300,
-    "prChangedFiles": 315,
+    "prAdditions": 1855,
+    "prDeletions": 432,
+    "prChangedFiles": 328,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
@@ -32,16 +32,16 @@
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 0,
-      "reviews": 2,
-      "comments": 4,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 2,
+      "issues": 1,
       "reviews": 2,
       "comments": 4,
       "commitAdditions": 0,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-11T08:03:58Z",
-  "lastContribution": "2026-03-12T09:50:17Z",
+  "lastContribution": "2026-03-15T16:55:43Z",
   "recentPRs": [
+    {
+      "number": 47497,
+      "title": "[Feature]: Dashboard Embedded VNC Viewer",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T16:54:56Z",
+      "mergedAt": null,
+      "additions": 1547,
+      "deletions": 132,
+      "changedFiles": 13
+    },
     {
       "number": 42966,
       "title": "fix(docs): rename zh-CN → zh-Hans and ja-JP → ja to follow BCP 47 standard #28303",
@@ -64,7 +75,15 @@
       "changedFiles": 315
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 47499,
+      "title": "[Feature]: Dashboard Embedded VNC Viewer + Agent Full Desktop Takeover (Manus-like, evolving to full computer control)",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T16:55:43Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
     {
       "prNumber": 42966,
@@ -78,6 +97,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -92,8 +116,15 @@
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

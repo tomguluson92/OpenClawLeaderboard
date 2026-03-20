@@ -3,54 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259352523?v=4",
   "githubUrl": "https://github.com/stim64045-spec",
   "score": {
-    "score": 155.57,
-    "prScore": 155.57,
+    "score": 177.05,
+    "prScore": 174.05,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 3
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 11,
-    "prsMerged": 1,
-    "prAdditions": 998,
-    "prDeletions": 36,
-    "prChangedFiles": 33,
-    "prMergeRate": 9,
+    "prsMerged": 2,
+    "prAdditions": 1146,
+    "prDeletions": 47,
+    "prChangedFiles": 34,
+    "prMergeRate": 18,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 59,
-    "commitDeletions": 0,
-    "commitChangedFiles": 3
+    "comments": 6,
+    "commitAdditions": 166,
+    "commitDeletions": 15,
+    "commitChangedFiles": 8
   },
   "period": {
     "weekly": {
-      "prs": 11,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 59,
-      "commitDeletions": 0,
-      "commits": 1
+      "comments": 6,
+      "commitAdditions": 166,
+      "commitDeletions": 15,
+      "commits": 2
     },
     "monthly": {
       "prs": 11,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 59,
-      "commitDeletions": 0,
-      "commits": 1
+      "comments": 6,
+      "commitAdditions": 166,
+      "commitDeletions": 15,
+      "commits": 2
     }
   },
   "firstContribution": "2026-03-11T00:12:30Z",
-  "lastContribution": "2026-03-12T12:18:35Z",
+  "lastContribution": "2026-03-17T13:25:51Z",
   "recentPRs": [
     {
       "number": 44022,
@@ -70,7 +70,7 @@
       "merged": false,
       "createdAt": "2026-03-12T11:35:57Z",
       "mergedAt": null,
-      "additions": 220,
+      "additions": 293,
       "deletions": 0,
       "changedFiles": 7
     },
@@ -81,7 +81,7 @@
       "merged": false,
       "createdAt": "2026-03-12T11:24:33Z",
       "mergedAt": null,
-      "additions": 53,
+      "additions": 92,
       "deletions": 1,
       "changedFiles": 2
     },
@@ -92,20 +92,20 @@
       "merged": false,
       "createdAt": "2026-03-12T11:23:30Z",
       "mergedAt": null,
-      "additions": 77,
+      "additions": 122,
       "deletions": 3,
       "changedFiles": 2
     },
     {
       "number": 43979,
       "title": "fix(ui): restore control-ui query token compatibility",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-12T11:20:33Z",
-      "mergedAt": null,
-      "additions": 116,
-      "deletions": 4,
-      "changedFiles": 4
+      "mergedAt": "2026-03-17T09:03:36Z",
+      "additions": 107,
+      "deletions": 15,
+      "changedFiles": 5
     },
     {
       "number": 43978,
@@ -132,7 +132,7 @@
     {
       "number": 42705,
       "title": "fix(googlechat): honor replyToMode off for thread replies",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T02:48:53Z",
       "mergedAt": null,
@@ -143,7 +143,7 @@
     {
       "number": 42704,
       "title": "fix(sessions): preserve labels during heartbeat polls",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T02:48:34Z",
       "mergedAt": null,
@@ -154,7 +154,7 @@
     {
       "number": 42605,
       "title": "fix: accept old_text/new_text aliases for edit tool",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T00:38:19Z",
       "mergedAt": null,
@@ -189,7 +189,8 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Discussion"
   ],
   "achievements": [
     {
@@ -199,6 +200,7 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-17": 1,
     "2026-03-13": 1
   }
 }

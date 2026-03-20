@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/875398?v=4",
   "githubUrl": "https://github.com/neko1990",
   "score": {
-    "score": 8.26,
-    "prScore": 8.26,
+    "score": 32.5,
+    "prScore": 32.5,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 65,
-    "prDeletions": 0,
-    "prChangedFiles": 1,
+    "prAdditions": 227,
+    "prDeletions": 11,
+    "prChangedFiles": 7,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -50,12 +50,34 @@
     }
   },
   "firstContribution": "2026-03-15T02:56:54Z",
-  "lastContribution": "2026-03-15T02:56:54Z",
+  "lastContribution": "2026-03-15T08:18:44Z",
   "recentPRs": [
+    {
+      "number": 47082,
+      "title": "macOS exec: harden allowlist shell wrapper resolution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T08:18:44Z",
+      "mergedAt": null,
+      "additions": 161,
+      "deletions": 10,
+      "changedFiles": 5
+    },
+    {
+      "number": 47047,
+      "title": "macOS tests: update CommandResolver node fixture",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T07:50:36Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 46773,
       "title": "fix(macos): restore CronJob initializers for cron testing helpers",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T02:56:54Z",
       "mergedAt": null,
@@ -68,7 +90,7 @@
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-15": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0
     }

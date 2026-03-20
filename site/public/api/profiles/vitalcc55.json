@@ -3,10 +3,10 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/182537763?v=4",
   "githubUrl": "https://github.com/vitalcc55",
   "score": {
-    "score": 52.78,
-    "prScore": 49.78,
+    "score": 87.15,
+    "prScore": 78.15,
     "issueScore": 0,
-    "reviewScore": 3,
+    "reviewScore": 9,
     "commentScore": 0
   },
   "tier": "regular",
@@ -15,13 +15,13 @@
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 751,
-    "prDeletions": 3,
-    "prChangedFiles": 18,
+    "prAdditions": 961,
+    "prDeletions": 28,
+    "prChangedFiles": 31,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
@@ -31,9 +31,9 @@
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
-      "reviews": 1,
+      "reviews": 2,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -42,7 +42,7 @@
     "monthly": {
       "prs": 2,
       "issues": 0,
-      "reviews": 1,
+      "reviews": 3,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-12T09:45:55Z",
-  "lastContribution": "2026-03-12T13:24:54Z",
+  "lastContribution": "2026-03-15T10:24:27Z",
   "recentPRs": [
     {
       "number": 44019,
@@ -59,9 +59,9 @@
       "merged": false,
       "createdAt": "2026-03-12T12:15:11Z",
       "mergedAt": null,
-      "additions": 374,
-      "deletions": 0,
-      "changedFiles": 7
+      "additions": 518,
+      "deletions": 18,
+      "changedFiles": 14
     },
     {
       "number": 43911,
@@ -70,13 +70,23 @@
       "merged": false,
       "createdAt": "2026-03-12T09:45:55Z",
       "mergedAt": null,
-      "additions": 377,
-      "deletions": 3,
-      "changedFiles": 11
+      "additions": 443,
+      "deletions": 10,
+      "changedFiles": 17
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 44019,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T10:24:27Z"
+    },
+    {
+      "prNumber": 43911,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T09:51:22Z"
+    },
     {
       "prNumber": 44019,
       "state": "COMMENTED",
@@ -88,6 +98,11 @@
       "prs": 2,
       "issues": 0,
       "reviews": 1
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
     }
   },
   "skills": [

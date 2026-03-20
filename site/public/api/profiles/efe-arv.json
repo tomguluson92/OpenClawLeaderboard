@@ -3,167 +3,93 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259833796?v=4",
   "githubUrl": "https://github.com/efe-arv",
   "score": {
-    "score": 127.42,
-    "prScore": 95.92,
+    "score": 127.09,
+    "prScore": 126.09,
     "issueScore": 0,
-    "reviewScore": 30,
-    "commentScore": 1.5
+    "reviewScore": 0,
+    "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Reviewer",
+  "characterClass": "Builder",
   "stats": {
     "commits": 2,
-    "prs": 3,
-    "prsMerged": 1,
-    "prAdditions": 701,
-    "prDeletions": 66,
-    "prChangedFiles": 16,
-    "prMergeRate": 33,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 425,
+    "prDeletions": 12,
+    "prChangedFiles": 71,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 10,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 2,
     "commitAdditions": 398,
     "commitDeletions": 67,
     "commitChangedFiles": 13
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 2,
-      "commitAdditions": 142,
-      "commitDeletions": 5,
-      "commits": 1
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
-      "reviews": 10,
-      "comments": 3,
+      "reviews": 0,
+      "comments": 2,
       "commitAdditions": 398,
       "commitDeletions": 67,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-04T14:46:10Z",
-  "lastContribution": "2026-03-09T06:40:02Z",
+  "firstContribution": "2026-03-16T13:23:22Z",
+  "lastContribution": "2026-03-17T06:43:16Z",
   "recentPRs": [
     {
-      "number": 34891,
-      "title": "feat(infra): structured INFO-level model API request/response timing and payload-size logging",
+      "number": 48249,
+      "title": "feat(bindings): add workspace override for project-specific context isolation",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-04T19:04:59Z",
+      "createdAt": "2026-03-16T13:57:38Z",
       "mergedAt": null,
-      "additions": 444,
-      "deletions": 3,
-      "changedFiles": 6
+      "additions": 233,
+      "deletions": 6,
+      "changedFiles": 36
     },
     {
-      "number": 34876,
-      "title": "fix(ci): remove semver build metadata from bun version",
-      "state": "OPEN",
+      "number": 48227,
+      "title": "feat(bindings): add workspace override for project-specific context isolation",
+      "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-04T18:53:33Z",
+      "createdAt": "2026-03-16T13:23:22Z",
       "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 34556,
-      "title": "feat(compaction): make post-compaction context sections configurable",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T14:46:10Z",
-      "mergedAt": "2026-03-06T22:57:15Z",
-      "additions": 256,
-      "deletions": 62,
-      "changedFiles": 9
+      "additions": 192,
+      "deletions": 6,
+      "changedFiles": 35
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 34556,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T00:06:06Z"
-    },
-    {
-      "prNumber": 34556,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T21:17:24Z"
-    },
-    {
-      "prNumber": 34556,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T20:49:22Z"
-    },
-    {
-      "prNumber": 34891,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T20:05:01Z"
-    },
-    {
-      "prNumber": 34891,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T20:04:59Z"
-    },
-    {
-      "prNumber": 34891,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T19:55:14Z"
-    },
-    {
-      "prNumber": 34556,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T19:32:35Z"
-    },
-    {
-      "prNumber": 34891,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T19:32:09Z"
-    },
-    {
-      "prNumber": 34891,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T19:32:07Z"
-    },
-    {
-      "prNumber": 34556,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T14:53:15Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-04": {
-      "prs": 3,
+    "2026-03-16": {
+      "prs": 2,
       "issues": 0,
-      "reviews": 9
-    },
-    "2026-03-05": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
+      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {
     "2026-03-13": 1,
     "2026-03-06": 1

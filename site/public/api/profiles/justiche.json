@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/172351812?v=4",
   "githubUrl": "https://github.com/justiche",
   "score": {
-    "score": 7,
-    "prScore": 7,
+    "score": 23.84,
+    "prScore": 23.84,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
+    "prAdditions": 161,
+    "prDeletions": 546,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-14T15:19:28Z",
-  "lastContribution": "2026-03-14T15:19:28Z",
+  "lastContribution": "2026-03-15T13:10:41Z",
   "recentPRs": [
+    {
+      "number": 47329,
+      "title": "20260315",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:10:41Z",
+      "mergedAt": null,
+      "additions": 161,
+      "deletions": 546,
+      "changedFiles": 5
+    },
     {
       "number": 46278,
       "title": "Sync with upstream main",
@@ -67,6 +78,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,

@@ -1,0 +1,129 @@
+{
+  "username": "jlian",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2320572?u=3cca821f42024e5e7c6b92474210bcbd298bf303&v=4",
+  "githubUrl": "https://github.com/jlian",
+  "score": {
+    "score": 42.17,
+    "prScore": 17.17,
+    "issueScore": 5,
+    "reviewScore": 18,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 227,
+    "prDeletions": 57,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-18T22:12:17Z",
+  "lastContribution": "2026-03-18T23:39:05Z",
+  "recentPRs": [
+    {
+      "number": 50044,
+      "title": "fix(msteams): fix inline pasted image downloads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T22:12:25Z",
+      "mergedAt": null,
+      "additions": 227,
+      "deletions": 57,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 50043,
+      "title": "MSTeams: inline pasted images not downloaded (hostedContents contentBytes missing)",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T22:12:17Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 50044,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T22:48:07Z"
+    },
+    {
+      "prNumber": 50044,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T22:48:06Z"
+    },
+    {
+      "prNumber": 50044,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T22:48:05Z"
+    },
+    {
+      "prNumber": 50044,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T22:48:04Z"
+    },
+    {
+      "prNumber": 50044,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T22:48:02Z"
+    },
+    {
+      "prNumber": 50044,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T22:48:01Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

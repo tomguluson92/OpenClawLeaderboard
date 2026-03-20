@@ -3,55 +3,110 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5599352?v=4",
   "githubUrl": "https://github.com/gumadeiras",
   "score": {
-    "score": 1637.3,
-    "prScore": 1625.8,
+    "score": 2422.61,
+    "prScore": 2390.61,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 11.5
+    "reviewScore": 6,
+    "commentScore": 26
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
-    "commits": 271,
-    "prs": 10,
-    "prsMerged": 8,
-    "prAdditions": 47623,
-    "prDeletions": 6779,
-    "prChangedFiles": 486,
-    "prMergeRate": 80,
+    "commits": 422,
+    "prs": 11,
+    "prsMerged": 7,
+    "prAdditions": 41376,
+    "prDeletions": 6481,
+    "prChangedFiles": 469,
+    "prMergeRate": 64,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 23,
-    "commitAdditions": 52356,
-    "commitDeletions": 24699,
-    "commitChangedFiles": 2176
+    "comments": 52,
+    "commitAdditions": 107785,
+    "commitDeletions": 38016,
+    "commitChangedFiles": 3234
   },
   "period": {
     "weekly": {
       "prs": 5,
       "issues": 0,
-      "reviews": 0,
-      "comments": 11,
-      "commitAdditions": 5017,
-      "commitDeletions": 933,
-      "commits": 9
+      "reviews": 2,
+      "comments": 40,
+      "commitAdditions": 55429,
+      "commitDeletions": 13317,
+      "commits": 151
     },
     "monthly": {
-      "prs": 10,
+      "prs": 11,
       "issues": 0,
-      "reviews": 0,
-      "comments": 23,
-      "commitAdditions": 33557,
-      "commitDeletions": 7618,
-      "commits": 171
+      "reviews": 2,
+      "comments": 52,
+      "commitAdditions": 85928,
+      "commitDeletions": 19604,
+      "commits": 286
     }
   },
-  "firstContribution": "2026-03-04T17:37:28Z",
-  "lastContribution": "2026-03-12T16:28:58Z",
+  "firstContribution": "2026-03-06T06:07:04Z",
+  "lastContribution": "2026-03-20T08:24:23Z",
   "recentPRs": [
+    {
+      "number": 50935,
+      "title": "Web: derive search provider metadata from plugin contracts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T08:24:23Z",
+      "mergedAt": null,
+      "additions": 357,
+      "deletions": 346,
+      "changedFiles": 8
+    },
+    {
+      "number": 50922,
+      "title": "Matrix: dedupe replayed inbound events on restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T07:57:18Z",
+      "mergedAt": null,
+      "additions": 757,
+      "deletions": 9,
+      "changedFiles": 8
+    },
+    {
+      "number": 47713,
+      "title": "Extension host: establish host-owned plugin runtime foundations",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T00:40:18Z",
+      "mergedAt": null,
+      "additions": 17634,
+      "deletions": 2729,
+      "changedFiles": 145
+    },
+    {
+      "number": 47709,
+      "title": "Extension host: establish host-owned plugin runtime foundations",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T00:34:29Z",
+      "mergedAt": null,
+      "additions": 17418,
+      "deletions": 2729,
+      "changedFiles": 158
+    },
+    {
+      "number": 47571,
+      "title": "Scripts: rebuild on extension and tsdown config changes",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-15T18:29:13Z",
+      "mergedAt": "2026-03-15T20:19:27Z",
+      "additions": 539,
+      "deletions": 39,
+      "changedFiles": 9
+    },
     {
       "number": 44176,
       "title": "Gateway: harden custom session-store discovery",
@@ -99,13 +154,13 @@
     {
       "number": 40946,
       "title": "Matrix: replace legacy plugin with new implementation",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-09T11:55:14Z",
-      "mergedAt": null,
-      "additions": 40841,
-      "deletions": 6146,
-      "changedFiles": 323
+      "mergedAt": "2026-03-19T06:06:24Z",
+      "additions": 78,
+      "deletions": 86,
+      "changedFiles": 43
     },
     {
       "number": 37266,
@@ -117,55 +172,37 @@
       "additions": 633,
       "deletions": 7,
       "changedFiles": 18
-    },
-    {
-      "number": 36904,
-      "title": "Diffs: restore system prompt guidance",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-06T00:23:28Z",
-      "mergedAt": "2026-03-06T00:46:39Z",
-      "additions": 48,
-      "deletions": 4,
-      "changedFiles": 6
-    },
-    {
-      "number": 36567,
-      "title": "plugins: enforce prompt hook policy with runtime validation",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T18:29:13Z",
-      "mergedAt": "2026-03-05T23:15:54Z",
-      "additions": 379,
-      "deletions": 3,
-      "changedFiles": 15
-    },
-    {
-      "number": 36547,
-      "title": "Harden Telegram poll gating and schema consistency",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T18:09:13Z",
-      "mergedAt": "2026-03-06T00:24:44Z",
-      "additions": 1129,
-      "deletions": 65,
-      "changedFiles": 27
-    },
-    {
-      "number": 34775,
-      "title": "Fix Telegram poll actions and routing",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T17:37:28Z",
-      "mergedAt": null,
-      "additions": 633,
-      "deletions": 18,
-      "changedFiles": 17
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 47713,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T00:54:43Z"
+    },
+    {
+      "prNumber": 47713,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T00:54:10Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 2,
       "issues": 0,
@@ -182,16 +219,6 @@
       "reviews": 0
     },
     "2026-03-06": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -199,6 +226,7 @@
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
@@ -231,6 +259,12 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-20": 6,
+    "2026-03-19": 25,
+    "2026-03-18": 66,
+    "2026-03-17": 16,
+    "2026-03-16": 33,
+    "2026-03-15": 5,
     "2026-03-12": 3,
     "2026-03-11": 4,
     "2026-03-08": 2,
@@ -266,9 +300,6 @@
     "2026-01-30": 10,
     "2026-01-29": 3,
     "2026-01-28": 3,
-    "2026-01-27": 18,
-    "2026-01-18": 4,
-    "2026-01-17": 1,
-    "2026-01-16": 1
+    "2026-01-27": 18
   }
 }

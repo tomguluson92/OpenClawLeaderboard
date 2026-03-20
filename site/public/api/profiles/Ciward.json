@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/108670147?u=923df0d7a92441cb5b81285f14e078891c7abc01&v=4",
   "githubUrl": "https://github.com/Ciward",
   "score": {
-    "score": 171.31,
-    "prScore": 154.81,
+    "score": 176.77,
+    "prScore": 161.27,
     "issueScore": 13,
     "reviewScore": 0,
-    "commentScore": 3.5
+    "commentScore": 2.5
   },
   "tier": "regular",
   "characterClass": "Contributor",
@@ -15,26 +15,26 @@
     "commits": 0,
     "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 3630,
-    "prDeletions": 1064,
-    "prChangedFiles": 54,
+    "prAdditions": 5474,
+    "prDeletions": 1745,
+    "prChangedFiles": 91,
     "prMergeRate": 0,
     "issues": 2,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 2,
+      "prs": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 4,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -43,15 +43,26 @@
       "prs": 4,
       "issues": 2,
       "reviews": 0,
-      "comments": 7,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T12:10:29Z",
-  "lastContribution": "2026-03-10T04:54:04Z",
+  "firstContribution": "2026-03-08T07:48:21Z",
+  "lastContribution": "2026-03-15T11:17:20Z",
   "recentPRs": [
+    {
+      "number": 47221,
+      "title": "fix(models): respect explicit compat flags for non-native openai-completions endpoints",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T11:05:45Z",
+      "mergedAt": null,
+      "additions": 3618,
+      "deletions": 1228,
+      "changedFiles": 57
+    },
     {
       "number": 40638,
       "title": "fix: strip Telegram @bot mention suffix from inline directives",
@@ -84,17 +95,6 @@
       "additions": 1751,
       "deletions": 503,
       "changedFiles": 25
-    },
-    {
-      "number": 36070,
-      "title": "feat(gateway): resume inflight agent runs after gateway restart",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T12:10:29Z",
-      "mergedAt": null,
-      "additions": 1774,
-      "deletions": 547,
-      "changedFiles": 20
     }
   ],
   "recentIssues": [
@@ -115,6 +115,11 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 1,
@@ -124,17 +129,13 @@
       "prs": 2,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [],
   "recentCommitDays": {}

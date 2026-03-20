@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/20536249?v=4",
   "githubUrl": "https://github.com/lailoo",
   "score": {
-    "score": 205.4,
-    "prScore": 203.4,
+    "score": 135.39,
+    "prScore": 135.39,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 0
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 25,
-    "prs": 6,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 406,
-    "prDeletions": 24,
-    "prChangedFiles": 20,
+    "prAdditions": 38,
+    "prDeletions": 4,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -40,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T13:37:37Z",
+  "firstContribution": "2026-03-06T14:31:19Z",
   "lastContribution": "2026-03-06T14:31:19Z",
   "recentPRs": [
     {
@@ -62,61 +62,6 @@
       "additions": 38,
       "deletions": 4,
       "changedFiles": 3
-    },
-    {
-      "number": 35079,
-      "title": "fix(gateway): use 4-hour threshold for iMessage health monitor",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T00:03:40Z",
-      "mergedAt": null,
-      "additions": 78,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 34504,
-      "title": "fix(agents): allow workspace symlinks between sibling .openclaw directories",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T13:59:19Z",
-      "mergedAt": null,
-      "additions": 188,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 34491,
-      "title": "fix(slack): suppress implicit thread mentions when requireMention is true",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T13:47:04Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 34486,
-      "title": "fix(ui): add confirmation dialog for New Session button",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T13:42:23Z",
-      "mergedAt": null,
-      "additions": 42,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 34480,
-      "title": "fix(slack): always pass threadId to readSlackMessages",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T13:37:37Z",
-      "mergedAt": null,
-      "additions": 43,
-      "deletions": 16,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [],
@@ -126,21 +71,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Discussion",
     "Direct Commits"
   ],
   "achievements": [],

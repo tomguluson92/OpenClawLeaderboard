@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/11567738?u=40bc9e9284b3c663bc813f8766e0ed7895c1171c&v=4",
   "githubUrl": "https://github.com/riveryang",
   "score": {
-    "score": 50.11,
-    "prScore": 50.11,
+    "score": 24.99,
+    "prScore": 24.99,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 3055,
+    "prAdditions": 1799,
     "prDeletions": 0,
-    "prChangedFiles": 15,
+    "prChangedFiles": 8,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T07:33:41Z",
+  "firstContribution": "2026-03-09T09:15:25Z",
   "lastContribution": "2026-03-09T09:15:25Z",
   "recentPRs": [
     {
@@ -62,28 +62,12 @@
       "additions": 1799,
       "deletions": 0,
       "changedFiles": 8
-    },
-    {
-      "number": 35679,
-      "title": "feat: add concurrent execution support for sessions_send_concurrent tool",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T07:33:41Z",
-      "mergedAt": null,
-      "additions": 1256,
-      "deletions": 0,
-      "changedFiles": 7
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
       "prs": 1,
       "issues": 0,
       "reviews": 0

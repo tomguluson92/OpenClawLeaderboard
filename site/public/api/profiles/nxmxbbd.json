@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/32288?v=4",
   "githubUrl": "https://github.com/nxmxbbd",
   "score": {
-    "score": 33.4,
+    "score": 29.4,
     "prScore": 12.4,
-    "issueScore": 18,
-    "reviewScore": 3,
+    "issueScore": 5,
+    "reviewScore": 12,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,9 +19,9 @@
     "prDeletions": 1,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 3,
-    "issuesClosed": 1,
-    "reviews": 1,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
@@ -31,9 +31,9 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 1,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -41,16 +41,16 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 3,
-      "reviews": 1,
+      "issues": 1,
+      "reviews": 4,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T09:57:51Z",
-  "lastContribution": "2026-03-10T11:33:28Z",
+  "firstContribution": "2026-03-08T17:06:37Z",
+  "lastContribution": "2026-03-20T07:48:35Z",
   "recentPRs": [
     {
       "number": 42042,
@@ -68,26 +68,27 @@
     {
       "number": 40088,
       "title": "memory_search: chokidar file watcher silently stops delivering events, index goes stale",
-      "state": "CLOSED",
+      "state": "OPEN",
       "createdAt": "2026-03-08T17:06:37Z",
-      "closedAt": "2026-03-10T12:48:46Z"
-    },
-    {
-      "number": 36659,
-      "title": "feat: configurable retry policy for WhatsApp outbound message sends",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T20:12:25Z",
-      "closedAt": null
-    },
-    {
-      "number": 32868,
-      "title": "Block streaming: block replies not delivered before tool execution (same-channel)",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T09:57:51Z",
       "closedAt": null
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 42042,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T07:48:35Z"
+    },
+    {
+      "prNumber": 42042,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T05:38:58Z"
+    },
+    {
+      "prNumber": 42042,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T03:08:15Z"
+    },
     {
       "prNumber": 42042,
       "state": "COMMENTED",
@@ -105,15 +106,15 @@
       "issues": 1,
       "reviews": 0
     },
-    "2026-03-05": {
+    "2026-03-20": {
       "prs": 0,
-      "issues": 1,
-      "reviews": 0
+      "issues": 0,
+      "reviews": 2
     },
-    "2026-03-03": {
+    "2026-03-19": {
       "prs": 0,
-      "issues": 1,
-      "reviews": 0
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [

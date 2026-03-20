@@ -3,59 +3,136 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/67350434?u=daba8f99aee96ae7dcb7275b0a31047bafaa9c5f&v=4",
   "githubUrl": "https://github.com/BryanTegomoh",
   "score": {
-    "score": 223.02,
-    "prScore": 215.52,
+    "score": 177.35,
+    "prScore": 132.35,
     "issueScore": 0,
-    "reviewScore": 6,
-    "commentScore": 1.5
+    "reviewScore": 39,
+    "commentScore": 6
   },
-  "tier": "active",
-  "characterClass": "Builder",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 48008,
-    "prDeletions": 18254,
-    "prChangedFiles": 1399,
+    "prAdditions": 353,
+    "prDeletions": 37,
+    "prChangedFiles": 27,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 13,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 12,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 7,
       "issues": 0,
-      "reviews": 0,
-      "comments": 2,
+      "reviews": 13,
+      "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 12,
       "issues": 0,
-      "reviews": 2,
-      "comments": 3,
+      "reviews": 13,
+      "comments": 12,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T19:17:08Z",
-  "lastContribution": "2026-03-12T05:20:44Z",
+  "firstContribution": "2026-03-08T01:33:14Z",
+  "lastContribution": "2026-03-20T08:06:48Z",
   "recentPRs": [
+    {
+      "number": 50698,
+      "title": "fix(cron): use agent-turn timeout for main systemEvent jobs with wakeMode=now",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T23:36:27Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 50670,
+      "title": "fix(cron): use agent-turn timeout for main systemEvent jobs with wakeMode=now",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T22:21:28Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 50548,
+      "title": "fix(agents): enable tool calling for deepseek-v3.2 on Venice",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T17:10:47Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 50325,
+      "title": "fix(discord): skip updateLastRoute for guild channels to allow daily reset",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T08:19:46Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 19,
+      "changedFiles": 2
+    },
+    {
+      "number": 49852,
+      "title": "fix(agents): respect provider config for MiniMax vision model selection",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T14:42:17Z",
+      "mergedAt": null,
+      "additions": 78,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 49539,
+      "title": "fix(sessions): preserve updatedAt in updateLastRoute to allow idle/daily resets",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T06:40:16Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 48344,
+      "title": "fix: add compact mode to cron list tool",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T16:19:05Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 4,
+      "changedFiles": 4
+    },
     {
       "number": 43702,
       "title": "fix(matrix): honor top-level allowFrom for DM command auth",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T05:20:44Z",
       "mergedAt": null,
@@ -106,44 +183,92 @@
       "additions": 1,
       "deletions": 1,
       "changedFiles": 1
-    },
-    {
-      "number": 34988,
-      "title": "fix(cron): bypass pending-descendant guard for cron completion direct-send",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T21:14:24Z",
-      "mergedAt": null,
-      "additions": 12,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 34905,
-      "title": "fix(gateway): forward child session node events to spawnedBy subscribers",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T19:17:08Z",
-      "mergedAt": null,
-      "additions": 47889,
-      "deletions": 18246,
-      "changedFiles": 1387
     }
   ],
   "recentIssues": [],
   "recentReviews": [
     {
-      "prNumber": 34905,
+      "prNumber": 48344,
       "state": "COMMENTED",
-      "createdAt": "2026-03-07T21:25:14Z"
+      "createdAt": "2026-03-20T04:18:06Z"
     },
     {
-      "prNumber": 34905,
+      "prNumber": 48344,
       "state": "COMMENTED",
-      "createdAt": "2026-03-07T21:25:04Z"
+      "createdAt": "2026-03-20T04:17:56Z"
+    },
+    {
+      "prNumber": 48344,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:17:48Z"
+    },
+    {
+      "prNumber": 48344,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:17:41Z"
+    },
+    {
+      "prNumber": 48344,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:17:24Z"
+    },
+    {
+      "prNumber": 48344,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:17:03Z"
+    },
+    {
+      "prNumber": 48344,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:16:39Z"
+    },
+    {
+      "prNumber": 49539,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:16:13Z"
+    },
+    {
+      "prNumber": 49852,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:15:47Z"
+    },
+    {
+      "prNumber": 49852,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:15:22Z"
+    },
+    {
+      "prNumber": 49852,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:15:09Z"
+    },
+    {
+      "prNumber": 49852,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:14:58Z"
+    },
+    {
+      "prNumber": 49852,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:14:39Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -154,28 +279,27 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
+    "2026-03-20": {
       "prs": 0,
       "issues": 0,
-      "reviews": 2
+      "reviews": 13
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion",
-    "Large-Scale Changes"
+    "Discussion"
   ],
   "achievements": [
     {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
     }
   ],
   "recentCommitDays": {}

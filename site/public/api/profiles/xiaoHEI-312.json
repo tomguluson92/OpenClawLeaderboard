@@ -1,70 +1,106 @@
 {
   "username": "xiaoHEI-312",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/44249876?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44249876?u=a28dd3ea6744bf3352012add9c212b36f285cc20&v=4",
   "githubUrl": "https://github.com/xiaoHEI-312",
   "score": {
-    "score": 22.13,
-    "prScore": 9.63,
-    "issueScore": 10,
-    "reviewScore": 0,
-    "commentScore": 2.5
+    "score": 92,
+    "prScore": 34,
+    "issueScore": 26,
+    "reviewScore": 27,
+    "commentScore": 5
   },
-  "tier": "beginner",
-  "characterClass": "Contributor",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 68,
-    "prDeletions": 11,
-    "prChangedFiles": 2,
+    "prAdditions": 443,
+    "prDeletions": 43,
+    "prChangedFiles": 7,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 0,
-    "reviews": 0,
+    "issues": 4,
+    "issuesClosed": 2,
+    "reviews": 9,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 10,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 5,
+      "prs": 3,
+      "issues": 4,
+      "reviews": 9,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 5,
+      "prs": 3,
+      "issues": 4,
+      "reviews": 9,
+      "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-13T05:48:03Z",
-  "lastContribution": "2026-03-15T05:01:23Z",
+  "lastContribution": "2026-03-19T09:20:37Z",
   "recentPRs": [
     {
-      "number": 46883,
-      "title": "fix(ui): preserve provider in chat model picker#46859",
+      "number": 48726,
+      "title": "update(models): update modelsRegistry#48722",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T04:17:20Z",
+      "mergedAt": null,
+      "additions": 115,
+      "deletions": 15,
+      "changedFiles": 2
+    },
+    {
+      "number": 46895,
+      "title": "fix(slash): handle /model status locally[AI-assisted]#46894",
       "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T05:01:53Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 46883,
+      "title": "fix(model): preserve provider in chat model picker[AI-assisted]#46859",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T04:46:27Z",
       "mergedAt": null,
-      "additions": 68,
-      "deletions": 11,
-      "changedFiles": 2
+      "additions": 247,
+      "deletions": 26,
+      "changedFiles": 3
     }
   ],
   "recentIssues": [
+    {
+      "number": 48722,
+      "title": "[Feature]: onboarding model picker / models update /GLM-5-turbo",
+      "state": "CLOSED",
+      "createdAt": "2026-03-17T04:15:30Z",
+      "closedAt": "2026-03-19T02:37:01Z"
+    },
+    {
+      "number": 47851,
+      "title": "[Bug]: WebUI — bash code block copy badge/button styling looks bad",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T03:35:26Z",
+      "closedAt": null
+    },
     {
       "number": 46894,
       "title": "[Bug]: Slash command error——WebUI treats `/model status` as a model name instead of a slash-command subcommand",
@@ -75,24 +111,87 @@
     {
       "number": 46859,
       "title": "[Bug]: Control UI model switcher applies the current provider to the selected model",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-15T04:23:45Z",
-      "closedAt": null
+      "closedAt": "2026-03-16T03:59:42Z"
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 48726,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T04:42:13Z"
+    },
+    {
+      "prNumber": 48726,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T04:42:00Z"
+    },
+    {
+      "prNumber": 46883,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T07:17:00Z"
+    },
+    {
+      "prNumber": 46883,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T06:28:11Z"
+    },
+    {
+      "prNumber": 46883,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T06:18:27Z"
+    },
+    {
+      "prNumber": 46895,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T05:54:26Z"
+    },
+    {
+      "prNumber": 46895,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T05:49:04Z"
+    },
+    {
+      "prNumber": 46895,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T05:47:21Z"
+    },
+    {
+      "prNumber": 46883,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T05:29:19Z"
+    }
+  ],
   "recentActivityDays": {
-    "2026-03-15": {
+    "2026-03-17": {
       "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    },
+    "2026-03-15": {
+      "prs": 2,
       "issues": 2,
+      "reviews": 7
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

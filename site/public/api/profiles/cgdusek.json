@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/38732970?v=4",
   "githubUrl": "https://github.com/cgdusek",
   "score": {
-    "score": 617.5,
-    "prScore": 367,
+    "score": 573.29,
+    "prScore": 364.79,
     "issueScore": 0,
-    "reviewScore": 195,
-    "commentScore": 55.5
+    "reviewScore": 171,
+    "commentScore": 37.5
   },
   "tier": "veteran",
   "characterClass": "Reviewer",
@@ -15,16 +15,16 @@
     "commits": 11,
     "prs": 23,
     "prsMerged": 2,
-    "prAdditions": 12882,
-    "prDeletions": 1564,
-    "prChangedFiles": 255,
+    "prAdditions": 11072,
+    "prDeletions": 1214,
+    "prChangedFiles": 206,
     "prMergeRate": 9,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 65,
+    "reviews": 57,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 111,
+    "comments": 75,
     "commitAdditions": 1229,
     "commitDeletions": 102,
     "commitChangedFiles": 38
@@ -33,25 +33,124 @@
     "weekly": {
       "prs": 10,
       "issues": 0,
-      "reviews": 37,
-      "comments": 53,
-      "commitAdditions": 882,
-      "commitDeletions": 76,
-      "commits": 10
+      "reviews": 10,
+      "comments": 24,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
       "prs": 23,
       "issues": 0,
-      "reviews": 65,
-      "comments": 111,
+      "reviews": 57,
+      "comments": 75,
       "commitAdditions": 1229,
       "commitDeletions": 102,
       "commits": 11
     }
   },
-  "firstContribution": "2026-03-03T20:36:25Z",
-  "lastContribution": "2026-03-14T14:47:32Z",
+  "firstContribution": "2026-03-06T06:06:48Z",
+  "lastContribution": "2026-03-19T02:46:57Z",
   "recentPRs": [
+    {
+      "number": 50139,
+      "title": "fix: stabilize CI — stale compat assertion, matrix setup leak, AJV ESM import",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T02:21:35Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 22,
+      "changedFiles": 4
+    },
+    {
+      "number": 50135,
+      "title": "fix(llm-task): fix AJV ESM import and test mock",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T02:11:18Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 50134,
+      "title": "fix(plugin-sdk): remove leaked matrix setup entrypoints",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T02:11:18Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 12,
+      "changedFiles": 1
+    },
+    {
+      "number": 50132,
+      "title": "test: remove stale compat subpath assertion",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T02:10:27Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 50109,
+      "title": "fix(synology-chat): strip channel prefix from peer ID before numeric parse",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T01:15:53Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 50034,
+      "title": "fix(ui): expand tool cards when verboseDefault is full",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T21:43:17Z",
+      "mergedAt": null,
+      "additions": 163,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 49994,
+      "title": "fix(memory): detect QMD pattern changes when path is absent",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T19:43:15Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 49947,
+      "title": "fix(memory): honor configured remote batch timeout for builtin indexing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T17:49:36Z",
+      "mergedAt": null,
+      "additions": 172,
+      "deletions": 10,
+      "changedFiles": 5
+    },
+    {
+      "number": 47646,
+      "title": "fix(embedded): prevent requiresThinkingAsText unshift crash",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T21:49:31Z",
+      "mergedAt": null,
+      "additions": 200,
+      "deletions": 2,
+      "changedFiles": 4
+    },
     {
       "number": 45491,
       "title": "fix(agents): parse prompt/completion usage in OpenAI WS responses",
@@ -70,9 +169,9 @@
       "merged": false,
       "createdAt": "2026-03-12T21:21:24Z",
       "mergedAt": null,
-      "additions": 736,
-      "deletions": 138,
-      "changedFiles": 13
+      "additions": 581,
+      "deletions": 32,
+      "changedFiles": 5
     },
     {
       "number": 44161,
@@ -88,7 +187,7 @@
     {
       "number": 43258,
       "title": "fix(auto-reply): retry inbound debounce flush after lock contention",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T14:33:27Z",
       "mergedAt": null,
@@ -99,7 +198,7 @@
     {
       "number": 42562,
       "title": "fix(agents): fail over on streaming server_error",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T23:11:38Z",
       "mergedAt": null,
@@ -154,7 +253,7 @@
     {
       "number": 40202,
       "title": "fix(config): auto-migrate legacy local onboarding messaging profile",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T19:38:43Z",
       "mergedAt": null,
@@ -172,109 +271,55 @@
       "additions": 4042,
       "deletions": 151,
       "changedFiles": 53
-    },
-    {
-      "number": 38241,
-      "title": "Onboarding: default local tools profile to coding",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T17:54:10Z",
-      "mergedAt": null,
-      "additions": 12,
-      "deletions": 7,
-      "changedFiles": 9
-    },
-    {
-      "number": 38051,
-      "title": "fix(agents): cap Google OAuth retry delay in embedded runs",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T15:39:52Z",
-      "mergedAt": null,
-      "additions": 139,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 37261,
-      "title": "agents: scope parallel_tool_calls to OpenAI-compatible payloads",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T06:06:48Z",
-      "mergedAt": null,
-      "additions": 403,
-      "deletions": 25,
-      "changedFiles": 7
-    },
-    {
-      "number": 37128,
-      "title": "feat(hooks): make llm_input/llm_output payloads mutable",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T03:49:32Z",
-      "mergedAt": null,
-      "additions": 378,
-      "deletions": 73,
-      "changedFiles": 14
-    },
-    {
-      "number": 36677,
-      "title": "feat(tools): add Brave llm-context mode for web_search",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T20:36:42Z",
-      "mergedAt": null,
-      "additions": 392,
-      "deletions": 2,
-      "changedFiles": 8
-    },
-    {
-      "number": 36654,
-      "title": "process: fix Windows npm fallback spawn EINVAL",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T20:01:17Z",
-      "mergedAt": null,
-      "additions": 69,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 36442,
-      "title": "failover: avoid false global rate-limit classification from generic cooling-down text",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T16:33:50Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 35016,
-      "title": "fix(agents): discover Bedrock inference profile IDs alongside foundation models",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T22:06:19Z",
-      "mergedAt": null,
-      "additions": 529,
-      "deletions": 106,
-      "changedFiles": 4
-    },
-    {
-      "number": 34958,
-      "title": "onboard: default local tools profile to coding",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T20:15:18Z",
-      "mergedAt": null,
-      "additions": 12,
-      "deletions": 7,
-      "changedFiles": 9
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 50139,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T02:30:09Z"
+    },
+    {
+      "prNumber": 50109,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T01:20:49Z"
+    },
+    {
+      "prNumber": 50034,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T22:25:52Z"
+    },
+    {
+      "prNumber": 50034,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T22:25:45Z"
+    },
+    {
+      "prNumber": 49947,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T19:34:10Z"
+    },
+    {
+      "prNumber": 49947,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T19:07:57Z"
+    },
+    {
+      "prNumber": 49947,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T19:07:57Z"
+    },
+    {
+      "prNumber": 49947,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T19:07:57Z"
+    },
+    {
+      "prNumber": 49947,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T19:07:57Z"
+    },
     {
       "prNumber": 45491,
       "state": "COMMENTED",
@@ -329,54 +374,24 @@
       "prNumber": 43258,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T04:48:45Z"
-    },
-    {
-      "prNumber": 43258,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T15:19:08Z"
-    },
-    {
-      "prNumber": 43258,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T15:09:17Z"
-    },
-    {
-      "prNumber": 42562,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T03:33:07Z"
-    },
-    {
-      "prNumber": 42562,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T23:54:52Z"
-    },
-    {
-      "prNumber": 42562,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T23:36:30Z"
-    },
-    {
-      "prNumber": 42562,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T23:36:30Z"
-    },
-    {
-      "prNumber": 42562,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T23:36:19Z"
-    },
-    {
-      "prNumber": 41466,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T23:14:24Z"
-    },
-    {
-      "prNumber": 41711,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T04:29:17Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-18": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
@@ -413,19 +428,9 @@
       "reviews": 6
     },
     "2026-03-06": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 10
-    },
-    "2026-03-05": {
       "prs": 3,
       "issues": 0,
-      "reviews": 3
-    },
-    "2026-03-04": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 9
+      "reviews": 5
     },
     "2026-03-14": {
       "prs": 0,

@@ -1,0 +1,134 @@
+{
+  "username": "ralyodio",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27381?u=806e24b1d0d195deb9f79ad30f49694299d801ce&v=4",
+  "githubUrl": "https://github.com/ralyodio",
+  "score": {
+    "score": 76.66,
+    "prScore": 59.66,
+    "issueScore": 5,
+    "reviewScore": 12,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 1006,
+    "prDeletions": 4,
+    "prChangedFiles": 22,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-17T14:11:45Z",
+  "lastContribution": "2026-03-18T13:17:27Z",
+  "recentPRs": [
+    {
+      "number": 49816,
+      "title": "Pr ci fix clean",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T13:17:27Z",
+      "mergedAt": null,
+      "additions": 503,
+      "deletions": 2,
+      "changedFiles": 11
+    },
+    {
+      "number": 49141,
+      "title": "Add TUI prompt aliases",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T16:43:02Z",
+      "mergedAt": null,
+      "additions": 503,
+      "deletions": 2,
+      "changedFiles": 11
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 49050,
+      "title": "[Feature]: add an /alias feature for common prompts",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T14:11:45Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 49141,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T06:51:16Z"
+    },
+    {
+      "prNumber": 49141,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T06:51:16Z"
+    },
+    {
+      "prNumber": 49141,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T06:51:16Z"
+    },
+    {
+      "prNumber": 49141,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T06:51:16Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

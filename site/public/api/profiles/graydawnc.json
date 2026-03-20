@@ -3,25 +3,25 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/99816898?u=c4b0ee44b97ea31e97d691e0820fa6b1f4fdda13&v=4",
   "githubUrl": "https://github.com/graydawnc",
   "score": {
-    "score": 83.45,
-    "prScore": 83.45,
+    "score": 10.58,
+    "prScore": 7.58,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 3,
     "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "beginner",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 3057,
-    "prDeletions": 34,
-    "prChangedFiles": 23,
+    "prAdditions": 4,
+    "prDeletions": 2,
+    "prChangedFiles": 1,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
@@ -31,88 +31,62 @@
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 1,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 1,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 1,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T16:23:23Z",
-  "lastContribution": "2026-03-05T09:42:54Z",
+  "firstContribution": "2026-03-18T15:26:04Z",
+  "lastContribution": "2026-03-20T04:19:56Z",
   "recentPRs": [
     {
-      "number": 35866,
-      "title": "feat(feishu): extend feishu_chat with announcements and group management",
+      "number": 49881,
+      "title": "fix(feishu): export missing plugin-sdk/feishu subpath symbols",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-05T09:42:54Z",
+      "createdAt": "2026-03-18T15:26:04Z",
       "mergedAt": null,
-      "additions": 883,
-      "deletions": 30,
-      "changedFiles": 4
-    },
-    {
-      "number": 35832,
-      "title": "feat(feishu): urgent/buzz notification tool",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T09:22:57Z",
-      "mergedAt": null,
-      "additions": 264,
-      "deletions": 0,
-      "changedFiles": 7
-    },
-    {
-      "number": 35803,
-      "title": "feat(feishu): task management tools (task v2)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T09:02:21Z",
-      "mergedAt": null,
-      "additions": 1696,
-      "deletions": 0,
-      "changedFiles": 8
-    },
-    {
-      "number": 34675,
-      "title": "fix(feishu): normalize markdown URLs in rendered messages",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T16:23:23Z",
-      "mergedAt": null,
-      "additions": 214,
-      "deletions": 4,
-      "changedFiles": 4
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 1
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 49881,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T04:19:56Z"
+    }
+  ],
   "recentActivityDays": {
-    "2026-03-05": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
+    "2026-03-18": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review"
   ],
   "achievements": [],
   "recentCommitDays": {}

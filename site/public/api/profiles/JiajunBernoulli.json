@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/45968640?u=167ace832774fed436966595c7f73558e4fce87c&v=4",
   "githubUrl": "https://github.com/JiajunBernoulli",
   "score": {
-    "score": 98.34,
-    "prScore": 58.84,
+    "score": 112.45,
+    "prScore": 72.45,
     "issueScore": 5,
     "reviewScore": 33,
-    "commentScore": 1.5
+    "commentScore": 2
   },
   "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 874,
+    "prAdditions": 954,
     "prDeletions": 73,
-    "prChangedFiles": 15,
+    "prChangedFiles": 18,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 11,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 1,
-      "reviews": 11,
+      "prs": 3,
+      "issues": 0,
+      "reviews": 5,
       "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 5,
       "issues": 1,
       "reviews": 11,
-      "comments": 3,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-08T12:32:14Z",
-  "lastContribution": "2026-03-15T00:55:04Z",
+  "lastContribution": "2026-03-17T02:03:59Z",
   "recentPRs": [
+    {
+      "number": 48621,
+      "title": "feat[ui]: Add pending changes view to raw config mode with lazy JSON …",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T01:33:03Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 0,
+      "changedFiles": 3
+    },
     {
       "number": 46654,
       "title": "feat[ui]: Add pending changes view to raw config mode with lazy JSON …",
@@ -164,6 +175,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,

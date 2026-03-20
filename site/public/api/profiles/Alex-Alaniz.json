@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/88956822?u=4178a2724b95d206d120ab87e2421d7b67636a8e&v=4",
   "githubUrl": "https://github.com/Alex-Alaniz",
   "score": {
-    "score": 95.11,
-    "prScore": 77.61,
+    "score": 154.74,
+    "prScore": 137.24,
     "issueScore": 0,
     "reviewScore": 15,
     "commentScore": 2.5
@@ -13,11 +13,11 @@
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 562,
-    "prDeletions": 37,
-    "prChangedFiles": 23,
+    "prAdditions": 1128,
+    "prDeletions": 135,
+    "prChangedFiles": 45,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,16 +31,16 @@
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 1,
       "issues": 0,
-      "reviews": 5,
-      "comments": 5,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 5,
       "issues": 0,
       "reviews": 5,
       "comments": 5,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-10T08:08:16Z",
-  "lastContribution": "2026-03-13T07:01:38Z",
+  "lastContribution": "2026-03-20T04:21:33Z",
   "recentPRs": [
+    {
+      "number": 50837,
+      "title": "feat: add publicMode for public-facing agents",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T04:21:33Z",
+      "mergedAt": null,
+      "additions": 557,
+      "deletions": 115,
+      "changedFiles": 23
+    },
     {
       "number": 44784,
       "title": "config: fix bundled Anthropic provider startup TDZ",
@@ -59,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-13T07:01:38Z",
       "mergedAt": null,
-      "additions": 27,
-      "deletions": 23,
-      "changedFiles": 3
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 2
     },
     {
       "number": 44678,
@@ -70,8 +81,8 @@
       "merged": false,
       "createdAt": "2026-03-13T05:18:03Z",
       "mergedAt": null,
-      "additions": 118,
-      "deletions": 1,
+      "additions": 144,
+      "deletions": 3,
       "changedFiles": 4
     },
     {
@@ -92,8 +103,8 @@
       "merged": false,
       "createdAt": "2026-03-11T21:06:37Z",
       "mergedAt": null,
-      "additions": 183,
-      "deletions": 12,
+      "additions": 189,
+      "deletions": 14,
       "changedFiles": 2
     }
   ],
@@ -126,6 +137,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 2,
       "issues": 0,

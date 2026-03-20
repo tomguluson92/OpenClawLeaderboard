@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/84082748?u=012d3c8ca7ca670da569d243b298c91ea1d3dd6e&v=4",
   "githubUrl": "https://github.com/cdxiaodong",
   "score": {
-    "score": 98.51,
-    "prScore": 98.51,
+    "score": 125.81,
+    "prScore": 125.81,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 11,
+    "prs": 14,
     "prsMerged": 0,
-    "prAdditions": 293,
-    "prDeletions": 99,
-    "prChangedFiles": 12,
+    "prAdditions": 371,
+    "prDeletions": 111,
+    "prChangedFiles": 15,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 11,
+      "prs": 14,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 11,
+      "prs": 14,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,41 @@
     }
   },
   "firstContribution": "2026-03-14T16:06:08Z",
-  "lastContribution": "2026-03-14T16:48:55Z",
+  "lastContribution": "2026-03-15T15:17:58Z",
   "recentPRs": [
+    {
+      "number": 47428,
+      "title": "fix: sanitize prototype pollution keys from all JSON5 parse paths in config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T15:17:58Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 47424,
+      "title": "fix: sanitize prototype pollution keys from all JSON5 parse paths in config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T15:12:36Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 47420,
+      "title": "fix: sanitize prototype pollution keys from all JSON5 parse paths in config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T15:11:07Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 4,
+      "changedFiles": 1
+    },
     {
       "number": 46384,
       "title": "fix: sanitize prototype pollution keys from JSON5 config parsing",
@@ -143,7 +176,7 @@
     {
       "number": 46322,
       "title": "fix: use SSRF-guarded fetch for Firecrawl integration",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T16:20:04Z",
       "mergedAt": null,
@@ -177,6 +210,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 11,
       "issues": 0,

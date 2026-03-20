@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/262214320?u=0ae6c9bb70888b1b6aabfc45c647627672c685b8&v=4",
   "githubUrl": "https://github.com/spectra-the-bot",
   "score": {
-    "score": 42.61,
+    "score": 47.11,
     "prScore": 14.61,
-    "issueScore": 26,
+    "issueScore": 31,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 1.5
   },
   "tier": "beginner",
   "characterClass": "Hunter",
@@ -19,38 +19,38 @@
     "prDeletions": 43,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 4,
+    "issues": 5,
     "issuesClosed": 2,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 3,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 4,
+      "prs": 0,
+      "issues": 2,
       "reviews": 0,
-      "comments": 4,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 4,
+      "issues": 5,
       "reviews": 0,
-      "comments": 4,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-08T20:21:30Z",
-  "lastContribution": "2026-03-14T13:35:07Z",
+  "lastContribution": "2026-03-16T04:45:28Z",
   "recentPRs": [
     {
       "number": 43552,
@@ -65,6 +65,13 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 47903,
+      "title": "feat(hooks): add cron event type to internal hook system",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T04:45:28Z",
+      "closedAt": null
+    },
     {
       "number": 45484,
       "title": "native-scheduler (launchd): auto-resolve user PATH at upsert time",
@@ -101,6 +108,11 @@
       "issues": 1,
       "reviews": 0
     },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 0,
       "issues": 1,
@@ -122,6 +134,12 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
   "recentCommitDays": {}
 }

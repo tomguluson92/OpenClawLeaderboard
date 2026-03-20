@@ -1,0 +1,197 @@
+{
+  "username": "biefan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70761325?u=582748f0275ef73522b460c5c12ccbebaa6051b6&v=4",
+  "githubUrl": "https://github.com/biefan",
+  "score": {
+    "score": 176.87,
+    "prScore": 176.87,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 11,
+    "prsMerged": 0,
+    "prAdditions": 936,
+    "prDeletions": 91,
+    "prChangedFiles": 48,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-17T15:47:35Z",
+  "lastContribution": "2026-03-17T17:09:40Z",
+  "recentPRs": [
+    {
+      "number": 49158,
+      "title": "fix(whatsapp): guard missing direct peer ids",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T17:09:40Z",
+      "mergedAt": null,
+      "additions": 70,
+      "deletions": 15,
+      "changedFiles": 3
+    },
+    {
+      "number": 49147,
+      "title": "fix(onboard): keep Azure custom providers on Azure Responses API",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T16:51:48Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 49139,
+      "title": "fix(tools): remove cron from coding profile",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T16:40:26Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 49137,
+      "title": "fix(ui): bypass marked on escaped fence storms",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T16:37:24Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 49134,
+      "title": "fix: mirror bundled extension runtime deps",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T16:31:09Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 15,
+      "changedFiles": 6
+    },
+    {
+      "number": 49130,
+      "title": "fix: restore terminal keyboard state after TUI exit",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T16:24:17Z",
+      "mergedAt": null,
+      "additions": 85,
+      "deletions": 7,
+      "changedFiles": 7
+    },
+    {
+      "number": 49125,
+      "title": "Skills: refresh stale session snapshots after restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T16:16:27Z",
+      "mergedAt": null,
+      "additions": 244,
+      "deletions": 39,
+      "changedFiles": 5
+    },
+    {
+      "number": 49117,
+      "title": "Gateway/Agent: suppress false no-reply logs for silent completions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T16:05:35Z",
+      "mergedAt": null,
+      "additions": 119,
+      "deletions": 3,
+      "changedFiles": 8
+    },
+    {
+      "number": 49113,
+      "title": "fix stale Control UI context warning math",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T15:50:18Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 49112,
+      "title": "add doctor coverage for stale gateway locks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T15:49:15Z",
+      "mergedAt": null,
+      "additions": 233,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 49110,
+      "title": "fix poll send false-positive when duration sentinel is zero",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T15:47:35Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 4,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
+}

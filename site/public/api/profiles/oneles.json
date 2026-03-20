@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/62010096?v=4",
   "githubUrl": "https://github.com/oneles",
   "score": {
-    "score": 13.72,
+    "score": 7.72,
     "prScore": 7.72,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,12 +19,12 @@
     "prDeletions": 0,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -41,16 +41,16 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-06T16:49:09Z",
-  "lastContribution": "2026-03-06T17:25:37Z",
+  "firstContribution": "2026-03-06T17:25:32Z",
+  "lastContribution": "2026-03-06T17:25:32Z",
   "recentPRs": [
     {
       "number": 38216,
@@ -64,27 +64,17 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38166,
-      "title": "Bootstrap agent attempts to write local files via messaging tool",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T16:49:09Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

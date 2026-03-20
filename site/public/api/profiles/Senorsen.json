@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4176091?u=bd7c537b14d3cc18262c9716cb428acf5185ab1e&v=4",
   "githubUrl": "https://github.com/Senorsen",
   "score": {
-    "score": 69.09,
+    "score": 79.09,
     "prScore": 42.59,
-    "issueScore": 10,
+    "issueScore": 20,
     "reviewScore": 15,
     "commentScore": 1.5
   },
@@ -19,7 +19,7 @@
     "prDeletions": 31,
     "prChangedFiles": 15,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 4,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
@@ -31,17 +31,17 @@
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 2,
-      "reviews": 5,
-      "comments": 3,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 2,
+      "issues": 4,
       "reviews": 5,
       "comments": 3,
       "commitAdditions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-10T05:32:25Z",
-  "lastContribution": "2026-03-12T03:15:04Z",
+  "lastContribution": "2026-03-18T03:43:18Z",
   "recentPRs": [
     {
       "number": 43218,
@@ -76,6 +76,20 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 49424,
+      "title": "Control Dashboard: tool call details do not show request parameters",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T03:43:18Z",
+      "closedAt": null
+    },
+    {
+      "number": 48333,
+      "title": "Cron list tool result too verbose — causes LLM to miss/hallucinate entries",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T16:01:09Z",
+      "closedAt": null
+    },
     {
       "number": 43200,
       "title": "Bug / Feature Request: message tool cross-session messages not recorded in target session history (per-channel-peer)",
@@ -126,6 +140,16 @@
     },
     "2026-03-10": {
       "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 0,
       "issues": 1,
       "reviews": 0
     },

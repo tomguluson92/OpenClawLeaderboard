@@ -3,59 +3,70 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/140015627?v=4",
   "githubUrl": "https://github.com/joelnishanth",
   "score": {
-    "score": 277.19,
-    "prScore": 225.19,
-    "issueScore": 13,
-    "reviewScore": 21,
-    "commentScore": 18
+    "score": 195.14,
+    "prScore": 166.64,
+    "issueScore": 10,
+    "reviewScore": 9,
+    "commentScore": 9.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 2,
-    "prs": 14,
-    "prsMerged": 1,
-    "prAdditions": 1387,
-    "prDeletions": 157,
-    "prChangedFiles": 42,
-    "prMergeRate": 7,
+    "prs": 9,
+    "prsMerged": 0,
+    "prAdditions": 841,
+    "prDeletions": 100,
+    "prChangedFiles": 27,
+    "prMergeRate": 0,
     "issues": 2,
-    "issuesClosed": 1,
-    "reviews": 7,
+    "issuesClosed": 0,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 36,
+    "comments": 19,
     "commitAdditions": 470,
     "commitDeletions": 9,
     "commitChangedFiles": 16
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 1,
       "issues": 1,
-      "reviews": 3,
-      "comments": 19,
+      "reviews": 0,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 14,
+      "prs": 9,
       "issues": 2,
-      "reviews": 7,
-      "comments": 36,
+      "reviews": 3,
+      "comments": 19,
       "commitAdditions": 470,
       "commitDeletions": 9,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-03T04:55:37Z",
-  "lastContribution": "2026-03-12T00:36:36Z",
+  "firstContribution": "2026-03-08T19:57:33Z",
+  "lastContribution": "2026-03-16T01:01:38Z",
   "recentPRs": [
+    {
+      "number": 47708,
+      "title": "fix(agents): add Mistral model hints to OpenRouter provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T00:32:43Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 43545,
       "title": "fix(agents): truncate tool call IDs for OpenAI-compat proxies",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T00:25:28Z",
       "mergedAt": null,
@@ -139,88 +150,22 @@
       "additions": 155,
       "deletions": 3,
       "changedFiles": 4
-    },
-    {
-      "number": 36756,
-      "title": "fix(models): add openai-codex as built-in provider for models auth login",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T21:51:07Z",
-      "mergedAt": null,
-      "additions": 142,
-      "deletions": 6,
-      "changedFiles": 3
-    },
-    {
-      "number": 36746,
-      "title": "fix(telegram): clear DM draft after materialize to prevent duplicate display",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T21:35:19Z",
-      "mergedAt": "2026-03-06T05:46:01Z",
-      "additions": 58,
-      "deletions": 12,
-      "changedFiles": 3
-    },
-    {
-      "number": 36588,
-      "title": "fix: suppress undici TLS session null-deref as transient uncaughtException",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T18:58:04Z",
-      "mergedAt": null,
-      "additions": 155,
-      "deletions": 3,
-      "changedFiles": 4
-    },
-    {
-      "number": 34783,
-      "title": "fix(whatsapp): fix mid-session listener desync and watchdog null-lastMessageAt bug",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T17:45:09Z",
-      "mergedAt": null,
-      "additions": 50,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 34740,
-      "title": "fix(models): preserve api/authHeader/headers from models.json during merge-mode regen",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T17:07:25Z",
-      "mergedAt": null,
-      "additions": 96,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 34646,
-      "title": "fix(line): use getRegistry callback in plugin HTTP handler to prevent stale-route 404",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T15:57:25Z",
-      "mergedAt": null,
-      "additions": 79,
-      "deletions": 33,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [
+    {
+      "number": 47707,
+      "title": "[Bug]: OpenRouter Mistral models fail with strict tool call ID requirements",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T00:27:56Z",
+      "closedAt": null
+    },
     {
       "number": 40399,
       "title": "feat: Adaptive Model Routing — run local model first, escalate to cloud on quality failure",
       "state": "OPEN",
       "createdAt": "2026-03-09T00:33:26Z",
       "closedAt": null
-    },
-    {
-      "number": 32566,
-      "title": "[Bug]: CI check job fails on all PRs due to unformatted feishu extension files on main",
-      "state": "CLOSED",
-      "createdAt": "2026-03-03T04:55:37Z",
-      "closedAt": "2026-03-07T02:01:57Z"
     }
   ],
   "recentReviews": [
@@ -238,29 +183,14 @@
       "prNumber": 41440,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T02:44:52Z"
-    },
-    {
-      "prNumber": 36588,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T19:33:02Z"
-    },
-    {
-      "prNumber": 36588,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T19:33:01Z"
-    },
-    {
-      "prNumber": 36588,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T19:32:59Z"
-    },
-    {
-      "prNumber": 34783,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T18:16:16Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -281,21 +211,6 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-05": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 3
-    },
-    "2026-03-04": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
     "2026-03-10": {
       "prs": 0,
       "issues": 0,
@@ -310,16 +225,6 @@
     "Direct Commits"
   ],
   "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    },
     {
       "id": "well-rounded",
       "label": "Well Rounded",

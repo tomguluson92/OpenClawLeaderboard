@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/141030911?u=ae08bcbae4426db2d73eddc58689b4ee33eb3958&v=4",
   "githubUrl": "https://github.com/JFWaskin",
   "score": {
-    "score": 96.26,
-    "prScore": 96.26,
+    "score": 123.44,
+    "prScore": 123.44,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 699,
-    "prDeletions": 120,
-    "prChangedFiles": 20,
+    "prAdditions": 978,
+    "prDeletions": 264,
+    "prChangedFiles": 25,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 10,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,30 @@
     }
   },
   "firstContribution": "2026-03-08T05:00:41Z",
-  "lastContribution": "2026-03-14T14:05:59Z",
+  "lastContribution": "2026-03-17T10:56:45Z",
   "recentPRs": [
+    {
+      "number": 48942,
+      "title": "test(gateway): consolidate deriveSessionTitle tests into dedicated module",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T10:56:45Z",
+      "mergedAt": null,
+      "additions": 233,
+      "deletions": 144,
+      "changedFiles": 4
+    },
+    {
+      "number": 47878,
+      "title": "docs: add read, write, edit tool documentation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T04:17:29Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 46215,
       "title": "fix: honor defaults-only heartbeat scope across agents",
@@ -132,7 +154,7 @@
     {
       "number": 39494,
       "title": "docs: add recovery guidance for wedged helper sessions",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T05:00:41Z",
       "mergedAt": null,
@@ -144,6 +166,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 5,
       "issues": 0,
@@ -168,6 +200,12 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
   "recentCommitDays": {}
 }

@@ -1,0 +1,294 @@
+{
+  "username": "abdushsk",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55688747?u=fcea5408600ad015712d6f7567a85ecf21b3286f&v=4",
+  "githubUrl": "https://github.com/abdushsk",
+  "score": {
+    "score": 171.76,
+    "prScore": 103.26,
+    "issueScore": 0,
+    "reviewScore": 66,
+    "commentScore": 2.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 10,
+    "prsMerged": 0,
+    "prAdditions": 414,
+    "prDeletions": 58,
+    "prChangedFiles": 18,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 22,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 22,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 22,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-17T01:24:24Z",
+  "lastContribution": "2026-03-17T03:18:03Z",
+  "recentPRs": [
+    {
+      "number": 48675,
+      "title": "fix: ensure daily memory file exists before agent run",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T02:53:30Z",
+      "mergedAt": null,
+      "additions": 120,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 48673,
+      "title": "fix(plugins): suppress duplicate warning for npm-installed plugin overriding bundled",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T02:49:13Z",
+      "mergedAt": null,
+      "additions": 83,
+      "deletions": 24,
+      "changedFiles": 2
+    },
+    {
+      "number": 48671,
+      "title": "fix(ui): include all known agents in webchat session dropdown",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T02:48:44Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 48670,
+      "title": "edit/write/read: add tool-specific hints to parameter validation errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T02:47:57Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 48662,
+      "title": "fix(ui): ensure all agents appear in webchat session dropdown after switching",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T02:33:39Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 48656,
+      "title": "fix: ensure memory flush target file exists before agent run",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T02:30:43Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 48655,
+      "title": "edit: add tool-specific hints to parameter validation errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T02:29:09Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 48653,
+      "title": "fix(plugins): suppress duplicate warning for npm-installed overrides",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T02:27:52Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 48639,
+      "title": "fix(gateway): scope deferred channel plugin reload to avoid duplicate registration",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T02:03:54Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 48616,
+      "title": "fix(gateway): scope deferred plugin reload to channel plugins only",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T01:24:24Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 10,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 48671,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T03:18:03Z"
+    },
+    {
+      "prNumber": 48673,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T03:16:12Z"
+    },
+    {
+      "prNumber": 48675,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T03:10:28Z"
+    },
+    {
+      "prNumber": 48675,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T03:03:07Z"
+    },
+    {
+      "prNumber": 48675,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T03:03:06Z"
+    },
+    {
+      "prNumber": 48673,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T03:03:05Z"
+    },
+    {
+      "prNumber": 48670,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:57:42Z"
+    },
+    {
+      "prNumber": 48670,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:57:40Z"
+    },
+    {
+      "prNumber": 48673,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:57:00Z"
+    },
+    {
+      "prNumber": 48671,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:56:43Z"
+    },
+    {
+      "prNumber": 48671,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:56:40Z"
+    },
+    {
+      "prNumber": 48662,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:44:42Z"
+    },
+    {
+      "prNumber": 48662,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:44:40Z"
+    },
+    {
+      "prNumber": 48656,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:44:03Z"
+    },
+    {
+      "prNumber": 48656,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:44:02Z"
+    },
+    {
+      "prNumber": 48655,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:43:49Z"
+    },
+    {
+      "prNumber": 48655,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:41:32Z"
+    },
+    {
+      "prNumber": 48653,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:37:19Z"
+    },
+    {
+      "prNumber": 48653,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T02:37:17Z"
+    },
+    {
+      "prNumber": 48616,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T01:53:39Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 22
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {}
+}

@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3243910?v=4",
   "githubUrl": "https://github.com/onesmash",
   "score": {
-    "score": 15.19,
-    "prScore": 10.19,
+    "score": 25.06,
+    "prScore": 12.06,
     "issueScore": 5,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 6,
+    "commentScore": 2
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 197,
-    "prDeletions": 5,
-    "prChangedFiles": 2,
+    "prAdditions": 266,
+    "prDeletions": 8,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -33,8 +33,8 @@
     "weekly": {
       "prs": 1,
       "issues": 1,
-      "reviews": 0,
-      "comments": 0,
+      "reviews": 2,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -42,15 +42,15 @@
     "monthly": {
       "prs": 1,
       "issues": 1,
-      "reviews": 0,
-      "comments": 0,
+      "reviews": 2,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-14T16:27:44Z",
-  "lastContribution": "2026-03-14T17:19:18Z",
+  "lastContribution": "2026-03-19T17:26:09Z",
   "recentPRs": [
     {
       "number": 46423,
@@ -59,9 +59,9 @@
       "merged": false,
       "createdAt": "2026-03-14T17:19:18Z",
       "mergedAt": null,
-      "additions": 197,
-      "deletions": 5,
-      "changedFiles": 2
+      "additions": 266,
+      "deletions": 8,
+      "changedFiles": 3
     }
   ],
   "recentIssues": [
@@ -73,18 +73,47 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 46423,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T17:26:09Z"
+    },
+    {
+      "prNumber": 46423,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T23:21:40Z"
+    }
+  ],
   "recentActivityDays": {
     "2026-03-14": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-18": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting"
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

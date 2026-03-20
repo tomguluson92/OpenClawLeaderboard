@@ -3,55 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1450505?v=4",
   "githubUrl": "https://github.com/gbpnkans",
   "score": {
-    "score": 82.01,
-    "prScore": 70.01,
-    "issueScore": 0,
-    "reviewScore": 12,
-    "commentScore": 0
+    "score": 217.45,
+    "prScore": 182.45,
+    "issueScore": 5,
+    "reviewScore": 27,
+    "commentScore": 3
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 9222,
-    "prDeletions": 20,
-    "prChangedFiles": 23,
+    "prAdditions": 18537,
+    "prDeletions": 45,
+    "prChangedFiles": 55,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 4,
+    "reviews": 9,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 4,
-      "comments": 0,
+      "prs": 5,
+      "issues": 1,
+      "reviews": 9,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 4,
-      "comments": 0,
+      "prs": 5,
+      "issues": 1,
+      "reviews": 9,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-14T21:32:25Z",
-  "lastContribution": "2026-03-14T22:26:56Z",
+  "lastContribution": "2026-03-17T01:03:44Z",
   "recentPRs": [
+    {
+      "number": 47554,
+      "title": "fix(gateway): narrow ApproveDevicePairingResult before accessing .device",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T18:10:58Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 47480,
+      "title": "fix(telegram): preserve unknown topic agentId in session key",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T16:35:11Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    },
+    {
+      "number": 47463,
+      "title": "fix(cli): prevent plugin double-registration via runtime boundary",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T16:15:17Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 47438,
+      "title": "fix(cli): prevent plugin double-registration via runtime boundary",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T15:39:25Z",
+      "mergedAt": null,
+      "additions": 9265,
+      "deletions": 22,
+      "changedFiles": 27
+    },
     {
       "number": 46589,
       "title": "feat(cron): cron job management improvements — edit, run history, pipeline orchestration (#6808)",
@@ -59,13 +103,46 @@
       "merged": false,
       "createdAt": "2026-03-14T21:32:25Z",
       "mergedAt": null,
-      "additions": 9222,
-      "deletions": 20,
+      "additions": 9249,
+      "deletions": 18,
       "changedFiles": 23
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 48603,
+      "title": "[Feature]:  API rate limit reached. Please try again later.",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T01:03:44Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 47438,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T15:51:34Z"
+    },
+    {
+      "prNumber": 47438,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T15:51:34Z"
+    },
+    {
+      "prNumber": 47438,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T15:51:33Z"
+    },
+    {
+      "prNumber": 47438,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T15:51:21Z"
+    },
+    {
+      "prNumber": 47438,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T15:51:19Z"
+    },
     {
       "prNumber": 46589,
       "state": "COMMENTED",
@@ -88,17 +165,40 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 5
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
       "reviews": 4
+    },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
+    "Discussion",
     "Large-Scale Changes"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

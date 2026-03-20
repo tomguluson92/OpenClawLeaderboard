@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1236319?v=4",
   "githubUrl": "https://github.com/haynzz",
   "score": {
-    "score": 69.67,
+    "score": 46.67,
     "prScore": 40.17,
-    "issueScore": 28,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 1.5
   },
-  "tier": "regular",
-  "characterClass": "Hunter",
+  "tier": "beginner",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 3,
@@ -19,8 +19,8 @@
     "prDeletions": 4,
     "prChangedFiles": 9,
     "prMergeRate": 33,
-    "issues": 5,
-    "issuesClosed": 1,
+    "issues": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
@@ -31,17 +31,17 @@
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 1,
-      "commitDeletions": 1,
-      "commits": 1
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
       "prs": 3,
-      "issues": 5,
+      "issues": 1,
       "reviews": 0,
       "comments": 3,
       "commitAdditions": 1,
@@ -49,7 +49,7 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T11:06:52Z",
+  "firstContribution": "2026-03-07T20:10:01Z",
   "lastContribution": "2026-03-12T09:08:08Z",
   "recentPRs": [
     {
@@ -93,34 +93,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-12T09:08:08Z",
       "closedAt": null
-    },
-    {
-      "number": 38335,
-      "title": "Auth profile failover: no retry/backoff for recovered profiles",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T21:03:34Z",
-      "closedAt": null
-    },
-    {
-      "number": 37907,
-      "title": "Mutating tool warning fires even when agent successfully recovered in the same turn",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T14:29:00Z",
-      "closedAt": null
-    },
-    {
-      "number": 36039,
-      "title": "skill-creator: description too narrow — fails to trigger on edit/refactor tasks",
-      "state": "CLOSED",
-      "createdAt": "2026-03-05T11:46:45Z",
-      "closedAt": "2026-03-08T09:13:01Z"
-    },
-    {
-      "number": 34338,
-      "title": "requestHeartbeatNow with sessionKey silently skips for channel sessions (agent:main:slack:channel:*)",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T11:06:52Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
@@ -139,21 +111,6 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
@@ -161,13 +118,7 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {
     "2026-03-08": 1
   }

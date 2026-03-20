@@ -3,55 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12096460?v=4",
   "githubUrl": "https://github.com/jnMetaCode",
   "score": {
-    "score": 317.97,
-    "prScore": 254.47,
+    "score": 300.83,
+    "prScore": 245.83,
     "issueScore": 5,
-    "reviewScore": 57,
-    "commentScore": 1.5
+    "reviewScore": 48,
+    "commentScore": 2
   },
   "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
     "commits": 6,
-    "prs": 16,
-    "prsMerged": 4,
-    "prAdditions": 569,
-    "prDeletions": 62,
-    "prChangedFiles": 47,
-    "prMergeRate": 25,
+    "prs": 15,
+    "prsMerged": 3,
+    "prAdditions": 666,
+    "prDeletions": 42,
+    "prChangedFiles": 41,
+    "prMergeRate": 20,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 19,
+    "reviews": 16,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 4,
     "commitAdditions": 156,
     "commitDeletions": 23,
     "commitChangedFiles": 19
   },
   "period": {
     "weekly": {
-      "prs": 11,
-      "issues": 1,
-      "reviews": 13,
-      "comments": 1,
-      "commitAdditions": 112,
-      "commitDeletions": 4,
-      "commits": 3
+      "prs": 4,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 16,
+      "prs": 15,
       "issues": 1,
-      "reviews": 19,
-      "comments": 3,
+      "reviews": 16,
+      "comments": 4,
       "commitAdditions": 156,
       "commitDeletions": 23,
       "commits": 6
     }
   },
-  "firstContribution": "2026-03-04T00:06:17Z",
-  "lastContribution": "2026-03-12T15:58:07Z",
+  "firstContribution": "2026-03-08T04:58:41Z",
+  "lastContribution": "2026-03-16T16:01:04Z",
   "recentPRs": [
+    {
+      "number": 48021,
+      "title": "fix(context): fall back to path basename for unnamed bootstrap files",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T08:06:46Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 47985,
+      "title": "fix(discord): include provider prefix in model picker values",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T07:15:05Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 47588,
+      "title": "fix(discord): skip reaction listeners when all guilds disable reactions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T19:17:18Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 47521,
+      "title": "fix(failover): classify OpenRouter generic provider errors as timeout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T17:31:30Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 2
+    },
     {
       "number": 43823,
       "title": "fix(failover): classify HTTP 422 as format and OpenRouter credits as billing",
@@ -70,9 +114,9 @@
       "merged": false,
       "createdAt": "2026-03-12T07:44:03Z",
       "mergedAt": null,
-      "additions": 7,
+      "additions": 3,
       "deletions": 0,
-      "changedFiles": 3
+      "changedFiles": 2
     },
     {
       "number": 43513,
@@ -92,8 +136,8 @@
       "merged": false,
       "createdAt": "2026-03-11T23:04:45Z",
       "mergedAt": null,
-      "additions": 78,
-      "deletions": 22,
+      "additions": 82,
+      "deletions": 23,
       "changedFiles": 4
     },
     {
@@ -125,7 +169,7 @@
       "merged": false,
       "createdAt": "2026-03-10T17:09:42Z",
       "mergedAt": null,
-      "additions": 89,
+      "additions": 99,
       "deletions": 2,
       "changedFiles": 2
     },
@@ -172,61 +216,6 @@
       "additions": 8,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 36646,
-      "title": "fix(failover): narrow service-unavailable to require overload indicator (#32828)",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T19:52:15Z",
-      "mergedAt": "2026-03-05T21:01:57Z",
-      "additions": 24,
-      "deletions": 2,
-      "changedFiles": 4
-    },
-    {
-      "number": 34765,
-      "title": "fix(agents): use correct Ollama thinking field instead of reasoning",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T17:24:44Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 15,
-      "changedFiles": 2
-    },
-    {
-      "number": 34689,
-      "title": "ci: remove stale google-antigravity-auth labeler entry",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T16:29:24Z",
-      "mergedAt": null,
-      "additions": 0,
-      "deletions": 4,
-      "changedFiles": 1
-    },
-    {
-      "number": 34679,
-      "title": "fix(memory): differentiate error messages for path validation failures",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T16:25:13Z",
-      "mergedAt": null,
-      "additions": 10,
-      "deletions": 8,
-      "changedFiles": 5
-    },
-    {
-      "number": 34551,
-      "title": "fix(daemon): correct systemd availability checks for degraded user sessions",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T14:41:06Z",
-      "mergedAt": null,
-      "additions": 73,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -239,6 +228,26 @@
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 48021,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T09:15:25Z"
+    },
+    {
+      "prNumber": 47588,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T22:25:29Z"
+    },
+    {
+      "prNumber": 47521,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T18:27:56Z"
+    },
+    {
+      "prNumber": 47521,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T18:27:39Z"
+    },
     {
       "prNumber": 43512,
       "state": "COMMENTED",
@@ -298,44 +307,19 @@
       "prNumber": 42260,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T17:16:58Z"
-    },
-    {
-      "prNumber": 34679,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T23:57:18Z"
-    },
-    {
-      "prNumber": 34765,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T03:51:59Z"
-    },
-    {
-      "prNumber": 34551,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T20:17:31Z"
-    },
-    {
-      "prNumber": 34551,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T20:17:24Z"
-    },
-    {
-      "prNumber": 34551,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T20:17:09Z"
-    },
-    {
-      "prNumber": 34551,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T20:17:02Z"
-    },
-    {
-      "prNumber": 34551,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T20:16:55Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-12": {
       "prs": 2,
       "issues": 1,
@@ -354,22 +338,7 @@
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 5
-    },
-    "2026-03-04": {
-      "prs": 4,
-      "issues": 0,
       "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
     }
   },
   "skills": [

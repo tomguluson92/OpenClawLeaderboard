@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/775850?v=4",
   "githubUrl": "https://github.com/felipematos",
   "score": {
-    "score": 40.58,
+    "score": 32.58,
     "prScore": 14.58,
-    "issueScore": 26,
+    "issueScore": 18,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -19,8 +19,8 @@
     "prDeletions": 5,
     "prChangedFiles": 7,
     "prMergeRate": 0,
-    "issues": 4,
-    "issuesClosed": 2,
+    "issues": 3,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
@@ -31,8 +31,8 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 3,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 4,
+      "issues": 3,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-07T11:49:16Z",
+  "firstContribution": "2026-03-09T00:42:29Z",
   "lastContribution": "2026-03-10T00:59:39Z",
   "recentPRs": [
     {
@@ -85,13 +85,6 @@
       "state": "CLOSED",
       "createdAt": "2026-03-09T22:02:32Z",
       "closedAt": "2026-03-15T02:21:58Z"
-    },
-    {
-      "number": 38822,
-      "title": "Rate limit detection missing 'too many tokens per day' pattern (AWS Bedrock)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-07T11:49:16Z",
-      "closedAt": "2026-03-08T10:03:35Z"
     }
   ],
   "recentReviews": [],
@@ -102,11 +95,6 @@
       "reviews": 0
     },
     "2026-03-10": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-07": {
       "prs": 0,
       "issues": 1,
       "reviews": 0

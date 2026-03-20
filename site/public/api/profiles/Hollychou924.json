@@ -3,55 +3,165 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/128659251?u=dcd43921760584e1b167e7ae1146d856351104c7&v=4",
   "githubUrl": "https://github.com/Hollychou924",
   "score": {
-    "score": 36.84,
-    "prScore": 26.34,
+    "score": 243.89,
+    "prScore": 133.89,
     "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 100
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "active",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 162,
-    "prDeletions": 8,
-    "prChangedFiles": 8,
+    "prAdditions": 2360,
+    "prDeletions": 386,
+    "prChangedFiles": 21,
     "prMergeRate": 0,
     "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 552,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 2,
+      "prs": 10,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 551,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 12,
       "issues": 2,
       "reviews": 0,
-      "comments": 1,
+      "comments": 552,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T05:43:31Z",
-  "lastContribution": "2026-03-11T17:17:16Z",
+  "lastContribution": "2026-03-20T06:40:19Z",
   "recentPRs": [
+    {
+      "number": 50881,
+      "title": "fix(slack): silently ignore already_reacted / no_reaction errors (#50733)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T06:09:35Z",
+      "mergedAt": null,
+      "additions": 469,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 50846,
+      "title": "fix(slack): silently ignore already_reacted / no_reaction errors (#50733)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T04:41:50Z",
+      "mergedAt": null,
+      "additions": 473,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 50845,
+      "title": "fix(compaction): only zero usage for pre-compaction messages (#50795)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T04:37:42Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 50842,
+      "title": "fix(docs): correct json55 typo to json5 in IRC channel docs (#50831)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T04:33:39Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 31,
+      "changedFiles": 1
+    },
+    {
+      "number": 50728,
+      "title": "fix(agents): deserialize Ollama tool call arguments from JSON string",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T01:01:40Z",
+      "mergedAt": null,
+      "additions": 122,
+      "deletions": 71,
+      "changedFiles": 2
+    },
+    {
+      "number": 50723,
+      "title": "fix(cron): use agent-turn safety timeout for systemEvent jobs with wakeMode=now",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T00:46:27Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 49222,
+      "title": "fix(acpx): replace --cwd with --cd for Codex CLI working directory",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T20:08:23Z",
+      "mergedAt": null,
+      "additions": 362,
+      "deletions": 86,
+      "changedFiles": 1
+    },
+    {
+      "number": 48101,
+      "title": "fix(ui): lazy-evaluate fs.constants in tmp-openclaw-dir (#48062)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T09:46:51Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 47641,
+      "title": "fix(plugins): guard activatePluginRegistry against overwriting established gateway registry",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T21:38:43Z",
+      "mergedAt": null,
+      "additions": 615,
+      "deletions": 175,
+      "changedFiles": 1
+    },
+    {
+      "number": 47544,
+      "title": "fix: sessions_send announce drops threadId; child loggers bypass logging.level",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T17:59:14Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 5,
+      "changedFiles": 2
+    },
     {
       "number": 40841,
       "title": "fix: surface specific sub-issue for config validation union errors",
@@ -93,6 +203,26 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 2,
       "issues": 0,
@@ -114,6 +244,17 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
   "recentCommitDays": {}
 }

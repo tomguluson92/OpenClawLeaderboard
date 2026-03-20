@@ -3,37 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6714241?v=4",
   "githubUrl": "https://github.com/pedrosbraga",
   "score": {
-    "score": 32.66,
-    "prScore": 19.66,
+    "score": 12.77,
+    "prScore": 12.77,
     "issueScore": 0,
-    "reviewScore": 12,
-    "commentScore": 1
+    "reviewScore": 0,
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Reviewer",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1133,
+    "prAdditions": 122,
     "prDeletions": 0,
-    "prChangedFiles": 6,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 4,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -44,63 +42,40 @@
     "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 4,
-      "comments": 2,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T09:16:50Z",
-  "lastContribution": "2026-03-03T10:04:48Z",
+  "firstContribution": "2026-03-15T23:42:28Z",
+  "lastContribution": "2026-03-15T23:42:28Z",
   "recentPRs": [
     {
-      "number": 32832,
-      "title": "Gateway: add preflight module for provider credential validation",
-      "state": "CLOSED",
+      "number": 47693,
+      "title": "fix(slack): instrument DM inbound pipeline with verbose drop logging",
+      "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-03T09:16:50Z",
+      "createdAt": "2026-03-15T23:42:28Z",
       "mergedAt": null,
-      "additions": 1133,
+      "additions": 122,
       "deletions": 0,
-      "changedFiles": 6
+      "changedFiles": 4
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 32832,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T09:53:45Z"
-    },
-    {
-      "prNumber": 32832,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T09:53:29Z"
-    },
-    {
-      "prNumber": 32832,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T09:53:07Z"
-    },
-    {
-      "prNumber": 32832,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-03T09:52:55Z"
-    }
-  ],
-  "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
+  "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-03": {
+    "2026-03-15": {
       "prs": 1,
       "issues": 0,
-      "reviews": 4
+      "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
 }

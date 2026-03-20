@@ -3,25 +3,25 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/23615754?u=02c96074bce0622f3dad382057f012205ae27525&v=4",
   "githubUrl": "https://github.com/JoshuaLelon",
   "score": {
-    "score": 327.93,
-    "prScore": 234.43,
+    "score": 164.92,
+    "prScore": 119.42,
     "issueScore": 0,
-    "reviewScore": 81,
+    "reviewScore": 33,
     "commentScore": 12.5
   },
-  "tier": "active",
-  "characterClass": "Reviewer",
+  "tier": "regular",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 15,
+    "prs": 10,
     "prsMerged": 1,
-    "prAdditions": 3504,
-    "prDeletions": 166,
-    "prChangedFiles": 53,
-    "prMergeRate": 7,
+    "prAdditions": 180,
+    "prDeletions": 49,
+    "prChangedFiles": 14,
+    "prMergeRate": 10,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 27,
+    "reviews": 11,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 25,
@@ -31,25 +31,25 @@
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 10,
       "issues": 0,
-      "reviews": 27,
+      "reviews": 11,
       "comments": 25,
       "commitAdditions": 3,
       "commitDeletions": 1,
       "commits": 1
-    },
-    "monthly": {
-      "prs": 15,
-      "issues": 0,
-      "reviews": 27,
-      "comments": 25,
-      "commitAdditions": 619,
-      "commitDeletions": 285,
-      "commits": 2
     }
   },
-  "firstContribution": "2026-03-05T03:56:17Z",
+  "firstContribution": "2026-03-08T15:01:23Z",
   "lastContribution": "2026-03-12T20:55:16Z",
   "recentPRs": [
     {
@@ -161,61 +161,6 @@
       "additions": 3,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 36302,
-      "title": "feat(hooks): workspace events subscription hook",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T14:59:34Z",
-      "mergedAt": null,
-      "additions": 1462,
-      "deletions": 4,
-      "changedFiles": 19
-    },
-    {
-      "number": 35506,
-      "title": "feat(hooks): support gws as alternative to gog for Gmail Pub/Sub",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T05:25:40Z",
-      "mergedAt": null,
-      "additions": 1146,
-      "deletions": 108,
-      "changedFiles": 12
-    },
-    {
-      "number": 35421,
-      "title": "docs: add Google Workspace quick-start guide",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T04:19:36Z",
-      "mergedAt": null,
-      "additions": 108,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 35409,
-      "title": "docs: add gws to default agent skill roster",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T04:14:36Z",
-      "mergedAt": null,
-      "additions": 305,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 35382,
-      "title": "feat(skills): bundled gws skill + fix xurl install kind",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T03:56:17Z",
-      "mergedAt": null,
-      "additions": 303,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -274,51 +219,6 @@
       "prNumber": 44190,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T20:29:54Z"
-    },
-    {
-      "prNumber": 35409,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:23:46Z"
-    },
-    {
-      "prNumber": 35382,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:23:05Z"
-    },
-    {
-      "prNumber": 35506,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:15:04Z"
-    },
-    {
-      "prNumber": 35506,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:14:06Z"
-    },
-    {
-      "prNumber": 35506,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:13:40Z"
-    },
-    {
-      "prNumber": 35506,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:13:30Z"
-    },
-    {
-      "prNumber": 35506,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:13:20Z"
-    },
-    {
-      "prNumber": 35506,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:12:47Z"
-    },
-    {
-      "prNumber": 36302,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:10:48Z"
     }
   ],
   "recentActivityDays": {
@@ -329,11 +229,6 @@
     },
     "2026-03-08": {
       "prs": 1,
-      "issues": 0,
-      "reviews": 16
-    },
-    "2026-03-05": {
-      "prs": 5,
       "issues": 0,
       "reviews": 0
     }

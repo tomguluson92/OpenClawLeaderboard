@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259760016?u=e34afd3cd688f91c30ef1213f214f8cf60154e3b&v=4",
   "githubUrl": "https://github.com/clawbie",
   "score": {
-    "score": 645.65,
-    "prScore": 631.65,
+    "score": 313.83,
+    "prScore": 309.83,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 14
+    "commentScore": 4
   },
-  "tier": "veteran",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 73,
+    "prs": 29,
     "prsMerged": 0,
-    "prAdditions": 2772,
-    "prDeletions": 339,
-    "prChangedFiles": 154,
+    "prAdditions": 1108,
+    "prDeletions": 130,
+    "prChangedFiles": 60,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 28,
+    "comments": 8,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -40,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 73,
+      "prs": 29,
       "issues": 0,
       "reviews": 0,
-      "comments": 28,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T05:15:23Z",
+  "firstContribution": "2026-03-06T05:17:30Z",
   "lastContribution": "2026-03-06T17:51:49Z",
   "recentPRs": [
     {
@@ -277,12 +277,7 @@
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-06": {
-      "prs": 48,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 25,
+      "prs": 29,
       "issues": 0,
       "reviews": 0
     }
@@ -296,16 +291,6 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "pr-master",
-      "label": "PR Master",
-      "description": "50+ pull requests"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
     }
   ],
   "recentCommitDays": {}

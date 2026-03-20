@@ -3,55 +3,110 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/26067127?v=4",
   "githubUrl": "https://github.com/MoerAI",
   "score": {
-    "score": 309.77,
-    "prScore": 274.27,
+    "score": 420.37,
+    "prScore": 317.37,
     "issueScore": 0,
-    "reviewScore": 33,
-    "commentScore": 2.5
+    "reviewScore": 96,
+    "commentScore": 7
   },
   "tier": "active",
-  "characterClass": "Maintainer",
+  "characterClass": "Reviewer",
   "stats": {
-    "commits": 4,
-    "prs": 14,
-    "prsMerged": 1,
-    "prAdditions": 21020,
-    "prDeletions": 6081,
-    "prChangedFiles": 553,
-    "prMergeRate": 7,
+    "commits": 5,
+    "prs": 19,
+    "prsMerged": 2,
+    "prAdditions": 21128,
+    "prDeletions": 6123,
+    "prChangedFiles": 565,
+    "prMergeRate": 11,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 11,
+    "reviews": 32,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 285,
-    "commitDeletions": 13,
-    "commitChangedFiles": 12
+    "comments": 14,
+    "commitAdditions": 302,
+    "commitDeletions": 14,
+    "commitChangedFiles": 14
   },
   "period": {
     "weekly": {
-      "prs": 14,
+      "prs": 5,
       "issues": 0,
-      "reviews": 11,
-      "comments": 5,
-      "commitAdditions": 279,
-      "commitDeletions": 13,
-      "commits": 3
+      "reviews": 32,
+      "comments": 9,
+      "commitAdditions": 22,
+      "commitDeletions": 1,
+      "commits": 2
     },
     "monthly": {
-      "prs": 14,
+      "prs": 19,
       "issues": 0,
-      "reviews": 11,
-      "comments": 5,
-      "commitAdditions": 285,
-      "commitDeletions": 13,
-      "commits": 4
+      "reviews": 32,
+      "comments": 14,
+      "commitAdditions": 302,
+      "commitDeletions": 14,
+      "commits": 5
     }
   },
   "firstContribution": "2026-03-10T11:33:12Z",
-  "lastContribution": "2026-03-13T18:04:03Z",
+  "lastContribution": "2026-03-20T01:46:53Z",
   "recentPRs": [
+    {
+      "number": 50188,
+      "title": "fix(tui): restore hook visibility for /new command (#49918)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T04:00:02Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 48985,
+      "title": "fix(agents): recognize snake_case tool call types in session history repair (#48915)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T12:21:41Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 48636,
+      "title": "chore: add mailmap entry for MoerAI (consolidate ToToKr alias)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T01:56:41Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 48395,
+      "title": "fix(infra): lazy-evaluate fs.constants in tmp-openclaw-dir to fix browser bundle (#48062)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T17:22:04Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 47844,
+      "title": "fix(daemon): accept 'Last Result' schtasks key variant on Windows (#47726)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-16T03:16:48Z",
+      "mergedAt": "2026-03-16T05:20:34Z",
+      "additions": 51,
+      "deletions": 26,
+      "changedFiles": 5
+    },
     {
       "number": 44842,
       "title": "fix(windows): suppress visible console windows during restart and process cleanup",
@@ -66,40 +121,40 @@
     {
       "number": 44706,
       "title": "fix(agents): notify agent when images are dropped for non-vision models",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T05:55:59Z",
       "mergedAt": null,
-      "additions": 52,
+      "additions": 60,
       "deletions": 3,
       "changedFiles": 3
     },
     {
       "number": 44594,
       "title": "fix(cron): report not-requested when delivery.mode=none and delivered=false",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T03:18:37Z",
       "mergedAt": null,
-      "additions": 75,
+      "additions": 63,
       "deletions": 4,
       "changedFiles": 5
     },
     {
       "number": 44497,
       "title": "feat(agents): make system prompt preamble configurable",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T01:05:45Z",
       "mergedAt": null,
-      "additions": 68,
-      "deletions": 2,
+      "additions": 73,
+      "deletions": 4,
       "changedFiles": 11
     },
     {
       "number": 44236,
       "title": "fix(sessions): clear stale context/token cache on model switch",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T16:35:32Z",
       "mergedAt": null,
@@ -110,18 +165,18 @@
     {
       "number": 43956,
       "title": "fix: use file identity (dev:ino) for memory file dedup on case-insensitive FS",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T10:44:05Z",
       "mergedAt": null,
-      "additions": 26,
-      "deletions": 6,
-      "changedFiles": 2
+      "additions": 13,
+      "deletions": 3,
+      "changedFiles": 1
     },
     {
       "number": 43818,
       "title": "fix(status): replace misleading 'no bootstrap files' wording (#43527)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T07:44:08Z",
       "mergedAt": null,
@@ -137,8 +192,8 @@
       "createdAt": "2026-03-12T06:08:39Z",
       "mergedAt": null,
       "additions": 36,
-      "deletions": 0,
-      "changedFiles": 1
+      "deletions": 1,
+      "changedFiles": 2
     },
     {
       "number": 43709,
@@ -180,8 +235,8 @@
       "merged": false,
       "createdAt": "2026-03-10T22:16:45Z",
       "mergedAt": null,
-      "additions": 21,
-      "deletions": 2,
+      "additions": 23,
+      "deletions": 3,
       "changedFiles": 1
     },
     {
@@ -210,62 +265,122 @@
   "recentIssues": [],
   "recentReviews": [
     {
-      "prNumber": 44236,
+      "prNumber": 50188,
       "state": "COMMENTED",
-      "createdAt": "2026-03-13T18:04:03Z"
+      "createdAt": "2026-03-19T14:55:48Z"
+    },
+    {
+      "prNumber": 50188,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T14:55:28Z"
+    },
+    {
+      "prNumber": 50188,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T14:55:28Z"
+    },
+    {
+      "prNumber": 50188,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T14:55:28Z"
+    },
+    {
+      "prNumber": 42535,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T11:22:09Z"
+    },
+    {
+      "prNumber": 44706,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T02:12:06Z"
+    },
+    {
+      "prNumber": 44706,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T02:12:06Z"
     },
     {
       "prNumber": 44236,
       "state": "COMMENTED",
-      "createdAt": "2026-03-13T18:04:03Z"
+      "createdAt": "2026-03-17T10:35:54Z"
     },
     {
-      "prNumber": 44236,
+      "prNumber": 44706,
       "state": "COMMENTED",
-      "createdAt": "2026-03-13T18:04:03Z"
+      "createdAt": "2026-03-17T09:20:00Z"
     },
     {
-      "prNumber": 43956,
+      "prNumber": 44706,
       "state": "COMMENTED",
-      "createdAt": "2026-03-13T16:52:30Z"
+      "createdAt": "2026-03-17T09:17:43Z"
     },
     {
-      "prNumber": 43956,
+      "prNumber": 44594,
       "state": "COMMENTED",
-      "createdAt": "2026-03-13T16:52:30Z"
+      "createdAt": "2026-03-16T07:54:06Z"
     },
     {
-      "prNumber": 43956,
+      "prNumber": 44594,
       "state": "COMMENTED",
-      "createdAt": "2026-03-13T16:52:30Z"
+      "createdAt": "2026-03-16T07:53:55Z"
     },
     {
-      "prNumber": 43956,
+      "prNumber": 44497,
       "state": "COMMENTED",
-      "createdAt": "2026-03-13T16:52:30Z"
+      "createdAt": "2026-03-16T07:22:08Z"
     },
     {
-      "prNumber": 43818,
+      "prNumber": 44497,
       "state": "COMMENTED",
-      "createdAt": "2026-03-13T15:24:15Z"
+      "createdAt": "2026-03-16T07:21:57Z"
+    },
+    {
+      "prNumber": 44497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T07:21:57Z"
+    },
+    {
+      "prNumber": 44497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T07:21:57Z"
+    },
+    {
+      "prNumber": 44497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T07:21:57Z"
+    },
+    {
+      "prNumber": 44706,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T06:14:51Z"
+    },
+    {
+      "prNumber": 44706,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T06:14:51Z"
     },
     {
       "prNumber": 43739,
       "state": "COMMENTED",
-      "createdAt": "2026-03-13T13:54:05Z"
-    },
-    {
-      "prNumber": 43739,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T13:54:05Z"
-    },
-    {
-      "prNumber": 43739,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T13:54:04Z"
+      "createdAt": "2026-03-16T06:05:15Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-17": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 11
+    },
     "2026-03-13": {
       "prs": 4,
       "issues": 0,
@@ -307,6 +422,7 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-16": 1,
     "2026-03-13": 1,
     "2026-03-12": 1,
     "2026-03-11": 1,

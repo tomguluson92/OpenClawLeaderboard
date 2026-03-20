@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/58395394?u=3ba58cfbc67e2d3bc85410a61cbe8a847b13c7fe&v=4",
   "githubUrl": "https://github.com/jung-geun",
   "score": {
-    "score": 25.28,
-    "prScore": 19.78,
+    "score": 99.54,
+    "prScore": 93.54,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 1
   },
-  "tier": "beginner",
-  "characterClass": "Hunter",
+  "tier": "regular",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1195,
-    "prDeletions": 16,
-    "prChangedFiles": 6,
+    "prAdditions": 2265,
+    "prDeletions": 171,
+    "prChangedFiles": 34,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -32,26 +32,37 @@
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-12T14:37:45Z",
-  "lastContribution": "2026-03-14T15:31:00Z",
+  "lastContribution": "2026-03-15T12:59:51Z",
   "recentPRs": [
+    {
+      "number": 47277,
+      "title": "feat: add user-specific memory isolation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T12:03:57Z",
+      "mergedAt": null,
+      "additions": 445,
+      "deletions": 16,
+      "changedFiles": 12
+    },
     {
       "number": 44238,
       "title": "feat: add automatic config rollback on gateway startup failure",
@@ -59,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-12T16:38:12Z",
       "mergedAt": null,
-      "additions": 1195,
-      "deletions": 16,
-      "changedFiles": 6
+      "additions": 1820,
+      "deletions": 155,
+      "changedFiles": 22
     }
   ],
   "recentIssues": [
@@ -75,6 +86,11 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 1,

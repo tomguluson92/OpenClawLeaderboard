@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/202879235?u=eaa8e0d8749ff38583ec1a7decb9b3a2a0ce7b98&v=4",
   "githubUrl": "https://github.com/chalawbot",
   "score": {
-    "score": 170.03,
-    "prScore": 150.53,
-    "issueScore": 13,
-    "reviewScore": 6,
-    "commentScore": 0.5
+    "score": 125.16,
+    "prScore": 125.16,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 4228,
-    "prDeletions": 278,
-    "prChangedFiles": 43,
+    "prAdditions": 3167,
+    "prDeletions": 200,
+    "prChangedFiles": 37,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
-    "reviews": 2,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -40,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
-      "issues": 2,
-      "reviews": 2,
-      "comments": 1,
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T12:53:14Z",
+  "firstContribution": "2026-03-06T09:47:58Z",
   "lastContribution": "2026-03-07T21:45:55Z",
   "recentPRs": [
     {
@@ -106,47 +106,10 @@
       "additions": 234,
       "deletions": 46,
       "changedFiles": 4
-    },
-    {
-      "number": 36140,
-      "title": "fix(gateway): support `openclaw gateway restart/stop` in containers without systemd",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T12:54:04Z",
-      "mergedAt": null,
-      "additions": 1061,
-      "deletions": 78,
-      "changedFiles": 6
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38349,
-      "title": "feat: contextual group activation — LLM-driven peeking/engaged state machine",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T21:40:46Z",
-      "closedAt": null
-    },
-    {
-      "number": 36137,
-      "title": "[Bug]: `openclaw gateway restart/stop` fail in containers without systemd",
-      "state": "CLOSED",
-      "createdAt": "2026-03-05T12:53:14Z",
-      "closedAt": "2026-03-08T02:20:30Z"
-    }
-  ],
-  "recentReviews": [
-    {
-      "prNumber": 36140,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T14:02:38Z"
-    },
-    {
-      "prNumber": 36140,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T14:01:24Z"
-    }
-  ],
+  "recentIssues": [],
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
@@ -155,27 +118,13 @@
     },
     "2026-03-06": {
       "prs": 4,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 2
     }
   },
   "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {}
 }

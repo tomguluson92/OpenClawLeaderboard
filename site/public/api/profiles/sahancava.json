@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/57447079?u=64af868ec3c76d05a385d0fe2b0516c8ca75f942&v=4",
   "githubUrl": "https://github.com/sahancava",
   "score": {
-    "score": 195.79,
-    "prScore": 180.29,
+    "score": 193.28,
+    "prScore": 177.78,
     "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 6.5
@@ -14,39 +14,39 @@
   "stats": {
     "commits": 0,
     "prs": 4,
-    "prsMerged": 0,
-    "prAdditions": 10820,
-    "prDeletions": 14846,
-    "prChangedFiles": 348,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 7408,
+    "prDeletions": 10293,
+    "prChangedFiles": 218,
+    "prMergeRate": 25,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 13,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "commitAdditions": 59,
+    "commitDeletions": 10,
+    "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 1,
       "issues": 0,
-      "reviews": 3,
-      "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 2,
+      "comments": 3,
+      "commitAdditions": 59,
+      "commitDeletions": 10,
+      "commits": 1
     },
     "monthly": {
       "prs": 4,
       "issues": 0,
       "reviews": 3,
       "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 59,
+      "commitDeletions": 10,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-09T02:21:09Z",
@@ -55,13 +55,13 @@
     {
       "number": 45497,
       "title": "fix: Disable strict mode tools for non-native openai-completions compatible APIs",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-13T22:24:49Z",
-      "mergedAt": null,
-      "additions": 3471,
-      "deletions": 4563,
-      "changedFiles": 133
+      "mergedAt": "2026-03-15T08:36:52Z",
+      "additions": 59,
+      "deletions": 10,
+      "changedFiles": 3
     },
     {
       "number": 41532,
@@ -133,12 +133,8 @@
     "Discussion",
     "Large-Scale Changes"
   ],
-  "achievements": [
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-15": 1
+  }
 }

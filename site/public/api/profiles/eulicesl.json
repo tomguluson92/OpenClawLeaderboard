@@ -3,59 +3,103 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/105620565?u=9cf4fdf28e96ff53a889b151b471f35a13336c0d&v=4",
   "githubUrl": "https://github.com/eulicesl",
   "score": {
-    "score": 214.57,
-    "prScore": 151.57,
+    "score": 284.72,
+    "prScore": 189.22,
     "issueScore": 0,
-    "reviewScore": 60,
-    "commentScore": 3
+    "reviewScore": 90,
+    "commentScore": 5.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 1723,
-    "prDeletions": 292,
-    "prChangedFiles": 48,
+    "prAdditions": 2479,
+    "prDeletions": 349,
+    "prChangedFiles": 66,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 20,
+    "reviews": 30,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
+    "comments": 11,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 4,
       "issues": 0,
-      "reviews": 20,
-      "comments": 6,
+      "reviews": 10,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 10,
       "issues": 0,
-      "reviews": 20,
-      "comments": 6,
+      "reviews": 30,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T10:35:24Z",
-  "lastContribution": "2026-03-09T12:50:44Z",
+  "lastContribution": "2026-03-19T15:29:17Z",
   "recentPRs": [
+    {
+      "number": 50483,
+      "title": "fix(ios): stabilize chat streaming layout and session flow",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T15:11:39Z",
+      "mergedAt": null,
+      "additions": 374,
+      "deletions": 18,
+      "changedFiles": 6
+    },
+    {
+      "number": 50466,
+      "title": "fix(tlon): vendor api package tarball for installs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T14:20:41Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 19,
+      "changedFiles": 5
+    },
+    {
+      "number": 49207,
+      "title": "fix(ios): scope chat streaming to the active session",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T19:24:58Z",
+      "mergedAt": null,
+      "additions": 191,
+      "deletions": 13,
+      "changedFiles": 4
+    },
+    {
+      "number": 49131,
+      "title": "fix: add placeholder transcript for silent voice notes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T16:26:28Z",
+      "mergedAt": null,
+      "additions": 125,
+      "deletions": 3,
+      "changedFiles": 3
+    },
     {
       "number": 40985,
       "title": "fix(ios): use plain Text during streaming to eliminate markdown flicker [AI-assisted]",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T12:43:09Z",
       "mergedAt": null,
@@ -81,9 +125,9 @@
       "merged": false,
       "createdAt": "2026-03-09T10:38:24Z",
       "mergedAt": null,
-      "additions": 10,
-      "deletions": 10,
-      "changedFiles": 3
+      "additions": 9,
+      "deletions": 3,
+      "changedFiles": 2
     },
     {
       "number": 40877,
@@ -92,19 +136,19 @@
       "merged": false,
       "createdAt": "2026-03-09T10:37:41Z",
       "mergedAt": null,
-      "additions": 10,
-      "deletions": 2,
+      "additions": 42,
+      "deletions": 19,
       "changedFiles": 1
     },
     {
       "number": 40876,
       "title": "fix(ios): Dynamic Type scaling and accessibility improvements",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T10:37:18Z",
       "mergedAt": null,
       "additions": 519,
-      "deletions": 91,
+      "deletions": 92,
       "changedFiles": 12
     },
     {
@@ -114,13 +158,63 @@
       "merged": false,
       "createdAt": "2026-03-09T10:35:24Z",
       "mergedAt": null,
-      "additions": 499,
-      "deletions": 78,
-      "changedFiles": 12
+      "additions": 501,
+      "deletions": 71,
+      "changedFiles": 13
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 50466,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T15:29:17Z"
+    },
+    {
+      "prNumber": 50466,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T15:29:15Z"
+    },
+    {
+      "prNumber": 50483,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T15:25:07Z"
+    },
+    {
+      "prNumber": 40877,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T15:24:16Z"
+    },
+    {
+      "prNumber": 40878,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T14:43:16Z"
+    },
+    {
+      "prNumber": 40878,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T14:43:14Z"
+    },
+    {
+      "prNumber": 40877,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T14:40:24Z"
+    },
+    {
+      "prNumber": 49131,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T05:53:27Z"
+    },
+    {
+      "prNumber": 49131,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T16:44:05Z"
+    },
+    {
+      "prNumber": 49131,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T16:44:04Z"
+    },
     {
       "prNumber": 40876,
       "state": "COMMENTED",
@@ -170,63 +264,28 @@
       "prNumber": 40878,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T11:00:34Z"
-    },
-    {
-      "prNumber": 40877,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:00:22Z"
-    },
-    {
-      "prNumber": 40877,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:00:20Z"
-    },
-    {
-      "prNumber": 40877,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:00:19Z"
-    },
-    {
-      "prNumber": 40874,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T10:59:54Z"
-    },
-    {
-      "prNumber": 40874,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T10:59:52Z"
-    },
-    {
-      "prNumber": 40874,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T10:59:50Z"
-    },
-    {
-      "prNumber": 40874,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T10:59:48Z"
-    },
-    {
-      "prNumber": 40874,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T10:59:46Z"
-    },
-    {
-      "prNumber": 40874,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T10:59:44Z"
-    },
-    {
-      "prNumber": 40874,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T10:59:43Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-17": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-09": {
       "prs": 6,
       "issues": 0,
       "reviews": 20
+    },
+    "2026-03-18": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
@@ -235,6 +294,11 @@
     "Discussion"
   ],
   "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
     {
       "id": "reviewer",
       "label": "Code Reviewer",

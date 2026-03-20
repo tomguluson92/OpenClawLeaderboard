@@ -3,55 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/255263011?u=e87efd12dab931080a677316ee90ed4caacf8ec7&v=4",
   "githubUrl": "https://github.com/donut-wenzhang",
   "score": {
-    "score": 31.24,
-    "prScore": 31.24,
+    "score": 133.48,
+    "prScore": 132.98,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 103,
-    "prDeletions": 12,
-    "prChangedFiles": 17,
+    "prAdditions": 1636,
+    "prDeletions": 110,
+    "prChangedFiles": 82,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-11T13:23:52Z",
-  "lastContribution": "2026-03-11T13:23:52Z",
+  "lastContribution": "2026-03-18T03:48:04Z",
   "recentPRs": [
+    {
+      "number": 49428,
+      "title": "fix(routing): cherry-pick upstream duplicate suppression fix (TES-642)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T03:47:33Z",
+      "mergedAt": null,
+      "additions": 973,
+      "deletions": 63,
+      "changedFiles": 38
+    },
+    {
+      "number": 48853,
+      "title": "feat: webhook x-trigger-source header passthrough (TES-674)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T08:21:39Z",
+      "mergedAt": null,
+      "additions": 560,
+      "deletions": 35,
+      "changedFiles": 27
+    },
     {
       "number": 43207,
       "title": "feat(agent): forward sender identity as HTTP headers to LLM proxies",
@@ -67,6 +89,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -74,7 +106,8 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Discussion"
   ],
   "achievements": [],
   "recentCommitDays": {}

@@ -1,27 +1,27 @@
 {
   "username": "BenediktSchackenberg",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/6381261?u=39cfdf76037c1302260b606d16c0ece66dd6e696&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6381261?u=ea892831ee7725c205a7859e46dc643fdc5a572d&v=4",
   "githubUrl": "https://github.com/BenediktSchackenberg",
   "score": {
-    "score": 209.89,
-    "prScore": 204.39,
-    "issueScore": 5,
-    "reviewScore": 0,
+    "score": 402.63,
+    "prScore": 276.13,
+    "issueScore": 0,
+    "reviewScore": 126,
     "commentScore": 0.5
   },
   "tier": "active",
-  "characterClass": "Builder",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 9,
     "prsMerged": 0,
-    "prAdditions": 46896,
-    "prDeletions": 3419,
-    "prChangedFiles": 949,
+    "prAdditions": 684291,
+    "prDeletions": 797246,
+    "prChangedFiles": 8488,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 42,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 1,
@@ -31,27 +31,60 @@
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 9,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 42,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
-      "issues": 1,
-      "reviews": 0,
+      "prs": 9,
+      "issues": 0,
+      "reviews": 42,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T08:55:12Z",
-  "lastContribution": "2026-03-14T19:45:15Z",
+  "firstContribution": "2026-03-13T14:17:31Z",
+  "lastContribution": "2026-03-19T21:03:45Z",
   "recentPRs": [
+    {
+      "number": 50589,
+      "title": "fix: treat HTTP 4xx as permanent delivery errors, exclude 408",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T18:58:41Z",
+      "mergedAt": null,
+      "additions": 71,
+      "deletions": 554,
+      "changedFiles": 2
+    },
+    {
+      "number": 49218,
+      "title": "fix(discord): fail-fast when bot identity fetch fails",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T19:44:41Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 48476,
+      "title": "fix(daemon): resilient launchctl bootstrap with retry and load fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T20:31:51Z",
+      "mergedAt": null,
+      "additions": 113,
+      "deletions": 8,
+      "changedFiles": 2
+    },
     {
       "number": 46538,
       "title": "fix(web): respect HTTP_PROXY/HTTPS_PROXY env vars in web_fetch",
@@ -59,20 +92,20 @@
       "merged": false,
       "createdAt": "2026-03-14T19:45:15Z",
       "mergedAt": null,
-      "additions": 1,
+      "additions": 4,
       "deletions": 0,
       "changedFiles": 1
     },
     {
       "number": 46533,
       "title": "fix(security): block SSRF in nodes-camera writeUrlToFile",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T19:38:11Z",
       "mergedAt": null,
-      "additions": 2848,
-      "deletions": 14,
-      "changedFiles": 6
+      "additions": 321952,
+      "deletions": 393232,
+      "changedFiles": 3774
     },
     {
       "number": 45348,
@@ -81,9 +114,9 @@
       "merged": false,
       "createdAt": "2026-03-13T17:51:27Z",
       "mergedAt": null,
-      "additions": 1201,
-      "deletions": 3,
-      "changedFiles": 10
+      "additions": 2953,
+      "deletions": 6457,
+      "changedFiles": 11
     },
     {
       "number": 45336,
@@ -99,13 +132,13 @@
     {
       "number": 45207,
       "title": "feat(browser): add headless mode support",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T14:55:17Z",
       "mergedAt": null,
-      "additions": 2952,
-      "deletions": 3,
-      "changedFiles": 8
+      "additions": 322014,
+      "deletions": 393519,
+      "changedFiles": 3775
     },
     {
       "number": 45174,
@@ -114,22 +147,130 @@
       "merged": false,
       "createdAt": "2026-03-13T14:17:31Z",
       "mergedAt": null,
-      "additions": 2867,
-      "deletions": 4,
-      "changedFiles": 6
+      "additions": 110,
+      "deletions": 80,
+      "changedFiles": 2
     }
   ],
-  "recentIssues": [
+  "recentIssues": [],
+  "recentReviews": [
     {
-      "number": 35796,
-      "title": "[Bug]: Windows node onboarding: no --token flag, config overwritten on restart, confusing devices/nodes split",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T08:55:12Z",
-      "closedAt": null
+      "prNumber": 49218,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T21:03:45Z"
+    },
+    {
+      "prNumber": 49218,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T21:03:38Z"
+    },
+    {
+      "prNumber": 50589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T20:54:10Z"
+    },
+    {
+      "prNumber": 50589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T20:54:09Z"
+    },
+    {
+      "prNumber": 50589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T20:54:08Z"
+    },
+    {
+      "prNumber": 50589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T20:54:06Z"
+    },
+    {
+      "prNumber": 50589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T20:53:54Z"
+    },
+    {
+      "prNumber": 50589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T20:53:52Z"
+    },
+    {
+      "prNumber": 50589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T20:53:50Z"
+    },
+    {
+      "prNumber": 49218,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T20:48:24Z"
+    },
+    {
+      "prNumber": 49218,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:06:43Z"
+    },
+    {
+      "prNumber": 49218,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:06:42Z"
+    },
+    {
+      "prNumber": 48476,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T06:05:29Z"
+    },
+    {
+      "prNumber": 48476,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T20:51:09Z"
+    },
+    {
+      "prNumber": 48476,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T20:38:37Z"
+    },
+    {
+      "prNumber": 48476,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T20:38:35Z"
+    },
+    {
+      "prNumber": 48476,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T20:38:25Z"
+    },
+    {
+      "prNumber": 45174,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T18:54:20Z"
+    },
+    {
+      "prNumber": 45174,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T18:54:18Z"
+    },
+    {
+      "prNumber": 45174,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T18:54:17Z"
     }
   ],
-  "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 10
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
@@ -140,23 +281,33 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-05": {
+    "2026-03-15": {
       "prs": 0,
-      "issues": 1,
-      "reviews": 0
+      "issues": 0,
+      "reviews": 25
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
+    "Code Review",
     "Discussion",
     "Large-Scale Changes"
   ],
   "achievements": [
     {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
       "id": "prolific",
       "label": "Prolific Coder",
       "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
     }
   ],
   "recentCommitDays": {}

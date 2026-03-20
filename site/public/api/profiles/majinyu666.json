@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/31942171?u=a4b7113c551508c46d45e08f942d58a6583690ac&v=4",
   "githubUrl": "https://github.com/majinyu666",
   "score": {
-    "score": 12.66,
+    "score": 7.66,
     "prScore": 7.66,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 3,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-07T11:04:07Z",
-  "lastContribution": "2026-03-07T11:25:36Z",
+  "lastContribution": "2026-03-07T11:04:07Z",
   "recentPRs": [
     {
       "number": 38785,
@@ -64,26 +64,17 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38810,
-      "title": "bug(podman): OPENCLAW_GATEWAY_BIND in .env ignored — gateway always starts with --bind loopback",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T11:25:36Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

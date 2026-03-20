@@ -1,0 +1,104 @@
+{
+  "username": "zanmato1984",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1061004?u=7897728cdee5da6827f9b1d176e5d1a74b089c13&v=4",
+  "githubUrl": "https://github.com/zanmato1984",
+  "score": {
+    "score": 20.79,
+    "prScore": 12.29,
+    "issueScore": 5,
+    "reviewScore": 3,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 65,
+    "prDeletions": 16,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-18T08:19:17Z",
+  "lastContribution": "2026-03-18T17:40:27Z",
+  "recentPRs": [
+    {
+      "number": 49614,
+      "title": "Fix heartbeat defaults for non-default agents",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T08:19:22Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 16,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 49613,
+      "title": "[Bug]: Non-default agents do not inherit agents.defaults.heartbeat unless they define agents.list[].heartbeat",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T08:19:17Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 49614,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T17:40:27Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

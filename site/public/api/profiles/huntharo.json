@@ -3,76 +3,252 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5617868?v=4",
   "githubUrl": "https://github.com/huntharo",
   "score": {
-    "score": 277.49,
-    "prScore": 266.49,
+    "score": 521.17,
+    "prScore": 488.67,
     "issueScore": 0,
-    "reviewScore": 6,
-    "commentScore": 5
+    "reviewScore": 0,
+    "commentScore": 32.5
   },
-  "tier": "active",
+  "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
-    "commits": 13,
-    "prs": 6,
-    "prsMerged": 3,
-    "prAdditions": 12473,
-    "prDeletions": 1149,
-    "prChangedFiles": 179,
-    "prMergeRate": 50,
+    "commits": 30,
+    "prs": 20,
+    "prsMerged": 14,
+    "prAdditions": 14885,
+    "prDeletions": 1878,
+    "prChangedFiles": 272,
+    "prMergeRate": 70,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 8019,
-    "commitDeletions": 1113,
-    "commitChangedFiles": 146
+    "comments": 65,
+    "commitAdditions": 16030,
+    "commitDeletions": 1564,
+    "commitChangedFiles": 257
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 18,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 4111,
-      "commitDeletions": 527,
-      "commits": 2
+      "comments": 58,
+      "commitAdditions": 8011,
+      "commitDeletions": 451,
+      "commits": 17
     },
     "monthly": {
-      "prs": 6,
+      "prs": 20,
       "issues": 0,
-      "reviews": 2,
-      "comments": 10,
-      "commitAdditions": 8019,
-      "commitDeletions": 1113,
-      "commits": 13
+      "reviews": 0,
+      "comments": 65,
+      "commitAdditions": 16030,
+      "commitDeletions": 1564,
+      "commits": 30
     }
   },
-  "firstContribution": "2026-03-05T13:46:00Z",
-  "lastContribution": "2026-03-15T02:03:51Z",
+  "firstContribution": "2026-03-06T05:25:11Z",
+  "lastContribution": "2026-03-20T03:55:35Z",
   "recentPRs": [
+    {
+      "number": 50819,
+      "title": "Tests: isolate remaining March 19 unit-fast OOM hotspots",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T03:55:35Z",
+      "mergedAt": null,
+      "additions": 710,
+      "deletions": 21,
+      "changedFiles": 9
+    },
+    {
+      "number": 50725,
+      "title": "Infra: unify plugin split runtime state",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T00:53:48Z",
+      "mergedAt": null,
+      "additions": 405,
+      "deletions": 56,
+      "changedFiles": 12
+    },
+    {
+      "number": 50722,
+      "title": "Gateway: unify plugin interactive callback state",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T00:44:07Z",
+      "mergedAt": "2026-03-20T02:09:39Z",
+      "additions": 227,
+      "deletions": 26,
+      "changedFiles": 6
+    },
+    {
+      "number": 50663,
+      "title": "Tests: trim command secret gateway imports",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-19T22:12:23Z",
+      "mergedAt": "2026-03-19T23:53:02Z",
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 50654,
+      "title": "Tests: Add tooling / skill for detecting and fixing memory leaks in tests",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-19T21:49:22Z",
+      "mergedAt": "2026-03-19T21:59:13Z",
+      "additions": 459,
+      "deletions": 19,
+      "changedFiles": 5
+    },
+    {
+      "number": 50418,
+      "title": "fix(plugins): share split-load singleton state",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-19T12:17:33Z",
+      "mergedAt": "2026-03-19T13:10:25Z",
+      "additions": 102,
+      "deletions": 19,
+      "changedFiles": 5
+    },
+    {
+      "number": 50062,
+      "title": "fix(plugins): preserve singletons in source runtime shims",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T22:58:42Z",
+      "mergedAt": null,
+      "additions": 238,
+      "deletions": 121,
+      "changedFiles": 4
+    },
+    {
+      "number": 49998,
+      "title": "CLI: support versioned plugin updates",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T19:56:39Z",
+      "mergedAt": "2026-03-19T16:51:11Z",
+      "additions": 345,
+      "deletions": 12,
+      "changedFiles": 7
+    },
+    {
+      "number": 49084,
+      "title": "tests(channels): fix slack, whatsapp, line, and browser CI regressions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T14:58:00Z",
+      "mergedAt": null,
+      "additions": 1171,
+      "deletions": 627,
+      "changedFiles": 48
+    },
+    {
+      "number": 49048,
+      "title": "CI: guard gateway watch against duplicate runtime regressions",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T14:06:49Z",
+      "mergedAt": "2026-03-17T14:55:56Z",
+      "additions": 493,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 49040,
+      "title": "tests(contracts): fix provider catalog runtime wiring",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T13:57:26Z",
+      "mergedAt": "2026-03-17T14:05:41Z",
+      "additions": 51,
+      "deletions": 17,
+      "changedFiles": 2
+    },
+    {
+      "number": 48998,
+      "title": "tests: fix extension CI seams for googlechat, google, and feishu",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T12:34:23Z",
+      "mergedAt": "2026-03-17T13:46:59Z",
+      "additions": 166,
+      "deletions": 74,
+      "changedFiles": 7
+    },
+    {
+      "number": 48678,
+      "title": "Plugins: add binding resolution callbacks",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T02:55:46Z",
+      "mergedAt": "2026-03-17T17:11:08Z",
+      "additions": 169,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 48595,
+      "title": "fix(plugins): keep built plugin loading on one module graph",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T00:43:41Z",
+      "mergedAt": "2026-03-17T00:58:59Z",
+      "additions": 382,
+      "deletions": 91,
+      "changedFiles": 8
+    },
+    {
+      "number": 48348,
+      "title": "fix(plugins): enable duplicate registry tripwire by default",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T16:22:16Z",
+      "mergedAt": null,
+      "additions": 351,
+      "deletions": 83,
+      "changedFiles": 8
+    },
+    {
+      "number": 47645,
+      "title": "CI: cache workspace deps across jobs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T21:48:01Z",
+      "mergedAt": null,
+      "additions": 115,
+      "deletions": 54,
+      "changedFiles": 3
+    },
     {
       "number": 46597,
       "title": "Discord: reconcile native commands without restart churn",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-14T21:47:11Z",
-      "mergedAt": null,
-      "additions": 1396,
-      "deletions": 18,
-      "changedFiles": 10
+      "mergedAt": "2026-03-20T02:23:22Z",
+      "additions": 58,
+      "deletions": 6,
+      "changedFiles": 5
     },
     {
       "number": 45318,
       "title": "Plugins: broaden plugin surface for Codex App Server",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-13T17:05:14Z",
-      "mergedAt": null,
-      "additions": 4362,
-      "deletions": 94,
-      "changedFiles": 50
+      "mergedAt": "2026-03-15T23:06:11Z",
+      "additions": 5322,
+      "deletions": 123,
+      "changedFiles": 53
     },
     {
       "number": 42664,
@@ -95,44 +271,41 @@
       "additions": 4058,
       "deletions": 524,
       "changedFiles": 78
-    },
-    {
-      "number": 36683,
-      "title": "feat(telegram/acp): Topic Binding, Pin Binding Message, Fix Spawn Param Parsing",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T20:43:07Z",
-      "mergedAt": "2026-03-06T01:17:51Z",
-      "additions": 2395,
-      "deletions": 451,
-      "changedFiles": 35
-    },
-    {
-      "number": 36211,
-      "title": "chore(gateway): ignore `.test.ts` changes in `gateway:watch`",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T13:46:00Z",
-      "mergedAt": null,
-      "additions": 209,
-      "deletions": 59,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 36683,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T21:17:01Z"
-    },
-    {
-      "prNumber": 36683,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T20:55:22Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -152,21 +325,30 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 2
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
   ],
   "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
     {
       "id": "prolific",
       "label": "Prolific Coder",
@@ -174,6 +356,11 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-20": 2,
+    "2026-03-19": 4,
+    "2026-03-17": 8,
+    "2026-03-16": 1,
+    "2026-03-15": 2,
     "2026-03-11": 1,
     "2026-03-10": 1,
     "2026-03-06": 1,

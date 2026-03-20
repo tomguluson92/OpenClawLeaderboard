@@ -3,55 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10957907?v=4",
   "githubUrl": "https://github.com/caesargattuso",
   "score": {
-    "score": 82.75,
-    "prScore": 82.75,
-    "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "score": 191.84,
+    "prScore": 167.34,
+    "issueScore": 10,
+    "reviewScore": 12,
+    "commentScore": 2.5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 2680,
-    "prDeletions": 24,
-    "prChangedFiles": 29,
+    "prAdditions": 4178,
+    "prDeletions": 78,
+    "prChangedFiles": 77,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 2,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "prs": 4,
+      "issues": 2,
+      "reviews": 4,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "prs": 6,
+      "issues": 2,
+      "reviews": 4,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T03:06:57Z",
-  "lastContribution": "2026-03-12T06:24:17Z",
+  "lastContribution": "2026-03-20T07:36:27Z",
   "recentPRs": [
+    {
+      "number": 50787,
+      "title": "feat(gateway): support cap thinking-event when websocket connect",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T03:00:57Z",
+      "mergedAt": null,
+      "additions": 170,
+      "deletions": 22,
+      "changedFiles": 11
+    },
+    {
+      "number": 50419,
+      "title": "feat(gateway): add default reasoning config, defaulting to off when unset",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T12:24:19Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 3,
+      "changedFiles": 6
+    },
+    {
+      "number": 50405,
+      "title": "feat(gateway): add default reasoning config, defaulting to off when u…",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T11:57:00Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 48716,
+      "title": "feat(gateway): add thinking-events cap and reasoningDefault config  ",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T04:05:11Z",
+      "mergedAt": null,
+      "additions": 891,
+      "deletions": 27,
+      "changedFiles": 18
+    },
     {
       "number": 43751,
       "title": "fix(gateway): skip seq-gap broadcast for stale post-lifecycle events",
@@ -59,9 +103,9 @@
       "merged": false,
       "createdAt": "2026-03-12T06:24:17Z",
       "mergedAt": null,
-      "additions": 3,
+      "additions": 340,
       "deletions": 1,
-      "changedFiles": 1
+      "changedFiles": 8
     },
     {
       "number": 40500,
@@ -75,9 +119,60 @@
       "changedFiles": 28
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
+  "recentIssues": [
+    {
+      "number": 50812,
+      "title": "feat(gateway): add default reasoning config, defaulting to off when unset",
+      "state": "OPEN",
+      "createdAt": "2026-03-20T03:49:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 48995,
+      "title": "[Feature]: support cap thinking-event when websocket connect",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T12:29:01Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 50787,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T03:23:01Z"
+    },
+    {
+      "prNumber": 50787,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T03:22:53Z"
+    },
+    {
+      "prNumber": 50787,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T03:16:49Z"
+    },
+    {
+      "prNumber": 48716,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T02:54:05Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 3
+    },
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -87,11 +182,25 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

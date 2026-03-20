@@ -3,55 +3,110 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/18023423?v=4",
   "githubUrl": "https://github.com/maweibin",
   "score": {
-    "score": 343.68,
-    "prScore": 334.68,
-    "issueScore": 5,
+    "score": 296.75,
+    "prScore": 292.25,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 4
+    "commentScore": 4.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 30,
-    "prsMerged": 1,
-    "prAdditions": 2583,
-    "prDeletions": 282,
-    "prChangedFiles": 107,
-    "prMergeRate": 3,
-    "issues": 1,
+    "prs": 25,
+    "prsMerged": 0,
+    "prAdditions": 1859,
+    "prDeletions": 153,
+    "prChangedFiles": 87,
+    "prMergeRate": 0,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
+    "comments": 9,
     "commitAdditions": 453,
     "commitDeletions": 16,
     "commitChangedFiles": 25
   },
   "period": {
     "weekly": {
-      "prs": 13,
+      "prs": 9,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 30,
-      "issues": 1,
+      "prs": 25,
+      "issues": 0,
       "reviews": 0,
-      "comments": 8,
+      "comments": 9,
       "commitAdditions": 453,
       "commitDeletions": 16,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-03T02:35:51Z",
-  "lastContribution": "2026-03-13T09:57:48Z",
+  "firstContribution": "2026-03-06T07:00:56Z",
+  "lastContribution": "2026-03-20T03:26:18Z",
   "recentPRs": [
+    {
+      "number": 50794,
+      "title": "UI: Show current context used tokens in WebChat",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T03:21:14Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 48840,
+      "title": "Webchat: fix context token usage display (48787)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T07:57:22Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 48783,
+      "title": " Fix Matrix E2EE device keys not persisted when access token changes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T06:27:46Z",
+      "mergedAt": null,
+      "additions": 113,
+      "deletions": 9,
+      "changedFiles": 4
+    },
+    {
+      "number": 48068,
+      "title": "Fix browser.cdpUrl default profile to avoid DevToolsActivePort fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T08:58:43Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 27,
+      "changedFiles": 3
+    },
+    {
+      "number": 48023,
+      "title": "ollama: support model-level parameters forwarded to options",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T08:14:16Z",
+      "mergedAt": null,
+      "additions": 128,
+      "deletions": 1,
+      "changedFiles": 6
+    },
     {
       "number": 44955,
       "title": "fix: respect provider-level contextWindow over model metadata",
@@ -216,74 +271,26 @@
       "additions": 72,
       "deletions": 1,
       "changedFiles": 4
-    },
-    {
-      "number": 38518,
-      "title": "fix(models-config): let config baseUrl/apiKey override agent models.json in merge mode #37331",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T03:13:25Z",
-      "mergedAt": null,
-      "additions": 55,
-      "deletions": 4,
-      "changedFiles": 3
-    },
-    {
-      "number": 38516,
-      "title": "feat(channels): add preflight guardrails before token/config write",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T03:10:46Z",
-      "mergedAt": null,
-      "additions": 207,
-      "deletions": 9,
-      "changedFiles": 6
-    },
-    {
-      "number": 37607,
-      "title": "fix(anthropic): inject SSE event lines for custom baseUrl proxy (#37571)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T10:08:22Z",
-      "mergedAt": null,
-      "additions": 252,
-      "deletions": 2,
-      "changedFiles": 4
-    },
-    {
-      "number": 37413,
-      "title": "feat(channels): add preflight guardrails before token/config write",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T07:27:35Z",
-      "mergedAt": null,
-      "additions": 207,
-      "deletions": 9,
-      "changedFiles": 6
-    },
-    {
-      "number": 37331,
-      "title": "fix(models-config): let config baseUrl/apiKey override agent models.json in merge mode",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T07:00:56Z",
-      "mergedAt": null,
-      "additions": 55,
-      "deletions": 4,
-      "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 32438,
-      "title": "[Feature]: Add a formatted log file when JSON logs are hard to read and Control UI is unusable",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T02:35:51Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 5,
       "issues": 0,
@@ -313,26 +320,10 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 8,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [

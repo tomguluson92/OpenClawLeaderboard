@@ -1,0 +1,218 @@
+{
+  "username": "fuller-stack-dev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/263060202?v=4",
+  "githubUrl": "https://github.com/fuller-stack-dev",
+  "score": {
+    "score": 114.71,
+    "prScore": 55.71,
+    "issueScore": 21,
+    "reviewScore": 33,
+    "commentScore": 5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 231,
+    "prDeletions": 48,
+    "prChangedFiles": 9,
+    "prMergeRate": 33,
+    "issues": 3,
+    "issuesClosed": 2,
+    "reviews": 11,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10,
+    "commitAdditions": 116,
+    "commitDeletions": 344,
+    "commitChangedFiles": 7
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 11,
+      "comments": 10,
+      "commitAdditions": 31,
+      "commitDeletions": 3,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 11,
+      "comments": 10,
+      "commitAdditions": 116,
+      "commitDeletions": 344,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-15T04:57:54Z",
+  "lastContribution": "2026-03-20T06:59:47Z",
+  "recentPRs": [
+    {
+      "number": 50886,
+      "title": "feat(github-copilot): resolve any model ID dynamically",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T06:23:19Z",
+      "mergedAt": null,
+      "additions": 169,
+      "deletions": 38,
+      "changedFiles": 4
+    },
+    {
+      "number": 49265,
+      "title": "feat(gateway): persist webchat inbound images to disk",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T22:03:42Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 49262,
+      "title": "fix(gateway): increase WS handshake timeout from 3s to 10s",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T21:54:15Z",
+      "mergedAt": "2026-03-19T17:16:40Z",
+      "additions": 31,
+      "deletions": 3,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 47931,
+      "title": "bug: DEFAULT_HANDSHAKE_TIMEOUT_MS too aggressive (3s) — causes spurious disconnects",
+      "state": "CLOSED",
+      "createdAt": "2026-03-16T05:45:38Z",
+      "closedAt": "2026-03-18T00:32:40Z"
+    },
+    {
+      "number": 47930,
+      "title": "feat: persist webchat inbound images to disk (like WhatsApp/Telegram)",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T05:45:26Z",
+      "closedAt": null
+    },
+    {
+      "number": 46892,
+      "title": "Gateway WS handshake timeout (3s) too aggressive — causes spurious 'gateway closed (1000)' on busy event loops",
+      "state": "CLOSED",
+      "createdAt": "2026-03-15T04:57:54Z",
+      "closedAt": "2026-03-19T17:16:42Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 50886,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T06:50:53Z"
+    },
+    {
+      "prNumber": 50886,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T06:39:20Z"
+    },
+    {
+      "prNumber": 50886,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T06:33:49Z"
+    },
+    {
+      "prNumber": 50886,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T06:33:46Z"
+    },
+    {
+      "prNumber": 50886,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T06:33:43Z"
+    },
+    {
+      "prNumber": 49265,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T19:26:12Z"
+    },
+    {
+      "prNumber": 49265,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T19:14:48Z"
+    },
+    {
+      "prNumber": 49265,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T19:14:47Z"
+    },
+    {
+      "prNumber": 49265,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T19:14:46Z"
+    },
+    {
+      "prNumber": 49265,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T19:14:44Z"
+    },
+    {
+      "prNumber": 49265,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T19:14:39Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-17": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 6
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-19": 1,
+    "2026-02-28": 1
+  }
+}

@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/22994703?u=92f56ba453ac696f1117d38bf117ecd4df917eef&v=4",
   "githubUrl": "https://github.com/xialonglee",
   "score": {
-    "score": 132.45,
-    "prScore": 107.95,
-    "issueScore": 8,
-    "reviewScore": 9,
-    "commentScore": 7.5
+    "score": 104.34,
+    "prScore": 95.84,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 2.5
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 5,
     "prsMerged": 1,
-    "prAdditions": 789,
-    "prDeletions": 116,
-    "prChangedFiles": 17,
-    "prMergeRate": 17,
-    "issues": 1,
-    "issuesClosed": 1,
-    "reviews": 3,
+    "prAdditions": 693,
+    "prDeletions": 86,
+    "prChangedFiles": 15,
+    "prMergeRate": 20,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 15,
+    "comments": 5,
     "commitAdditions": 451,
     "commitDeletions": 31,
     "commitChangedFiles": 12
@@ -33,23 +33,23 @@
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 1,
-      "comments": 1,
-      "commitAdditions": 343,
-      "commitDeletions": 26,
-      "commits": 1
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 6,
-      "issues": 1,
-      "reviews": 3,
-      "comments": 15,
+      "prs": 5,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 5,
       "commitAdditions": 343,
       "commitDeletions": 26,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T03:44:16Z",
+  "firstContribution": "2026-03-06T09:43:49Z",
   "lastContribution": "2026-03-08T07:54:20Z",
   "recentPRs": [
     {
@@ -106,28 +106,9 @@
       "additions": 8,
       "deletions": 6,
       "changedFiles": 2
-    },
-    {
-      "number": 34244,
-      "title": "fix(doctor): iterate all channel accounts in security warnings",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T09:33:11Z",
-      "mergedAt": null,
-      "additions": 96,
-      "deletions": 30,
-      "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 33866,
-      "title": "[BUG] Case-sensitive session key in TUI prevents real-time message display",
-      "state": "CLOSED",
-      "createdAt": "2026-03-04T03:44:16Z",
-      "closedAt": "2026-03-04T06:53:41Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 38965,
@@ -138,11 +119,6 @@
       "prNumber": 38533,
       "state": "COMMENTED",
       "createdAt": "2026-03-07T08:40:17Z"
-    },
-    {
-      "prNumber": 34244,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T09:51:42Z"
     }
   ],
   "recentActivityDays": {
@@ -156,11 +132,6 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 1
-    },
     "2026-03-08": {
       "prs": 0,
       "issues": 0,
@@ -170,16 +141,9 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {
     "2026-03-08": 1,
     "2026-02-11": 1

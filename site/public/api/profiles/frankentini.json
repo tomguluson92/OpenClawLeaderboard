@@ -3,25 +3,25 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/63809370?u=a6a146fb1968f44abdb8ef6da8ba742d748c4d5e&v=4",
   "githubUrl": "https://github.com/frankentini",
   "score": {
-    "score": 19.64,
-    "prScore": 19.64,
+    "score": 90.05,
+    "prScore": 84.05,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 6,
     "commentScore": 0
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "regular",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 8,
     "prsMerged": 0,
-    "prAdditions": 36,
-    "prDeletions": 6,
-    "prChangedFiles": 5,
+    "prAdditions": 489,
+    "prDeletions": 19,
+    "prChangedFiles": 15,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
@@ -31,18 +31,18 @@
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 8,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 2,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 8,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 2,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -50,8 +50,74 @@
     }
   },
   "firstContribution": "2026-03-14T07:28:46Z",
-  "lastContribution": "2026-03-14T07:59:01Z",
+  "lastContribution": "2026-03-19T16:04:41Z",
   "recentPRs": [
+    {
+      "number": 50506,
+      "title": "security: add missing response headers to media server",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T16:04:41Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 49907,
+      "title": "fix(tlon): use crypto.randomBytes for approval IDs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T16:03:48Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 49120,
+      "title": "fix(security): reject private/internal hosts in cron webhook URLs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T16:11:26Z",
+      "mergedAt": null,
+      "additions": 112,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 48339,
+      "title": "fix(gateway): add Cache-Control: no-store to default security headers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T16:07:36Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 47195,
+      "title": "fix(security): guard mention patterns against ReDoS via compileSafeRegex",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T10:31:47Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 11,
+      "changedFiles": 1
+    },
+    {
+      "number": 47162,
+      "title": "fix(security): extend skill scanner to cover Python and shell scripts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T09:51:28Z",
+      "mergedAt": null,
+      "additions": 310,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 45862,
       "title": "fix(audit): include Gemini/Grok/Kimi in web search key detection",
@@ -76,8 +142,44 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 49120,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T18:03:52Z"
+    },
+    {
+      "prNumber": 48392,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T18:04:36Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
@@ -85,7 +187,8 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review"
   ],
   "achievements": [],
   "recentCommitDays": {}

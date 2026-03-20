@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4305058?u=9fb9e37ad65b9ac351474dcfab96698896c61e18&v=4",
   "githubUrl": "https://github.com/tymrtn",
   "score": {
-    "score": 13.5,
+    "score": 23.5,
     "prScore": 8.5,
-    "issueScore": 5,
+    "issueScore": 15,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 10,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 3,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,8 +31,8 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 2,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 3,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-10T17:46:19Z",
-  "lastContribution": "2026-03-12T21:33:33Z",
+  "lastContribution": "2026-03-19T11:41:08Z",
   "recentPRs": [
     {
       "number": 42409,
@@ -66,6 +66,20 @@
   ],
   "recentIssues": [
     {
+      "number": 50398,
+      "title": "coding-agent skill should recommend sessions_spawn over exec background for completion notification",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T11:41:08Z",
+      "closedAt": null
+    },
+    {
+      "number": 49023,
+      "title": "Telegram: duplicate session race condition when messages arrive during session initialization",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T13:17:21Z",
+      "closedAt": null
+    },
+    {
       "number": 44395,
       "title": "feat: heading-aware chunking + entity extraction for memory search",
       "state": "OPEN",
@@ -78,6 +92,16 @@
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     },
     "2026-03-12": {

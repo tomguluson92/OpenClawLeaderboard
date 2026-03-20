@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12384893?u=44ea346257dc161942a1368d2954a9a898a461e6&v=4",
   "githubUrl": "https://github.com/coletebou",
   "score": {
-    "score": 40.78,
+    "score": 43.78,
     "prScore": 30.28,
-    "issueScore": 10,
+    "issueScore": 13,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -20,7 +20,7 @@
     "prChangedFiles": 7,
     "prMergeRate": 0,
     "issues": 2,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
@@ -90,9 +90,9 @@
     {
       "number": 45007,
       "title": "[Bug]: Plugin HTTP routes return 404 due to cross-realm registry isolation (2026.3.12 regression)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-13T10:44:42Z",
-      "closedAt": null
+      "closedAt": "2026-03-16T04:53:38Z"
     },
     {
       "number": 45006,

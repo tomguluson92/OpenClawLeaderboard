@@ -3,35 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/137865255?u=ce6ac2ec0e102bd3c1c3c8c25583016b8d7d5ad8&v=4",
   "githubUrl": "https://github.com/ahua2020qq",
   "score": {
-    "score": 238.86,
-    "prScore": 238.36,
+    "score": 253.36,
+    "prScore": 252.36,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 1
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 16,
+    "prs": 18,
     "prsMerged": 0,
-    "prAdditions": 4193,
-    "prDeletions": 361,
-    "prChangedFiles": 93,
+    "prAdditions": 4201,
+    "prDeletions": 354,
+    "prChangedFiles": 92,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 16,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -40,18 +40,40 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 16,
+      "prs": 18,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-10T15:46:10Z",
-  "lastContribution": "2026-03-11T04:58:50Z",
+  "lastContribution": "2026-03-19T14:05:00Z",
   "recentPRs": [
+    {
+      "number": 50461,
+      "title": "docs: add audit logging PR status update",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T14:05:00Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 49985,
+      "title": "fix(types): resolve spread argument TypeScript error in provider-usage test",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T19:22:10Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 42810,
       "title": "feat(acp): add audit logging system for control plane security",
@@ -59,9 +81,9 @@
       "merged": false,
       "createdAt": "2026-03-11T04:58:50Z",
       "mergedAt": null,
-      "additions": 1092,
-      "deletions": 149,
-      "changedFiles": 12
+      "additions": 1078,
+      "deletions": 141,
+      "changedFiles": 9
     },
     {
       "number": 42661,
@@ -232,6 +254,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 4,
       "issues": 0,

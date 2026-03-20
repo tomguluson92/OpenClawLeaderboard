@@ -3,54 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/24588751?v=4",
   "githubUrl": "https://github.com/carrotRakko",
   "score": {
-    "score": 407.37,
-    "prScore": 251.87,
-    "issueScore": 46,
-    "reviewScore": 105,
-    "commentScore": 4.5
+    "score": 319.2,
+    "prScore": 206.2,
+    "issueScore": 18,
+    "reviewScore": 90,
+    "commentScore": 5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 3,
-    "prs": 18,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 1178,
-    "prDeletions": 271,
-    "prChangedFiles": 97,
+    "prAdditions": 858,
+    "prDeletions": 239,
+    "prChangedFiles": 80,
     "prMergeRate": 0,
-    "issues": 8,
-    "issuesClosed": 2,
-    "reviews": 35,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 30,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
+    "comments": 10,
     "commitAdditions": 166,
     "commitDeletions": 6,
     "commitChangedFiles": 4
   },
   "period": {
     "weekly": {
-      "prs": 12,
-      "issues": 1,
-      "reviews": 30,
-      "comments": 8,
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 18,
-      "issues": 8,
-      "reviews": 35,
-      "comments": 9,
-      "commitAdditions": 166,
-      "commitDeletions": 6,
-      "commits": 3
+      "prs": 12,
+      "issues": 3,
+      "reviews": 30,
+      "comments": 10,
+      "commitAdditions": 129,
+      "commitDeletions": 3,
+      "commits": 2
     }
   },
-  "firstContribution": "2026-03-03T08:11:36Z",
-  "lastContribution": "2026-03-10T15:19:39Z",
+  "firstContribution": "2026-03-09T06:06:48Z",
+  "lastContribution": "2026-03-19T11:01:33Z",
   "recentPRs": [
     {
       "number": 42010,
@@ -121,13 +121,13 @@
     {
       "number": 41808,
       "title": "feat: allow sandbox browser to access sandbox localhost via network namespace sharing",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T05:50:38Z",
       "mergedAt": null,
-      "additions": 208,
+      "additions": 207,
       "deletions": 7,
-      "changedFiles": 10
+      "changedFiles": 13
     },
     {
       "number": 41807,
@@ -143,13 +143,13 @@
     {
       "number": 41806,
       "title": "fix(sandbox): mount skills at dedicated /skills path for sandboxed agents",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T05:49:32Z",
       "mergedAt": null,
-      "additions": 146,
+      "additions": 149,
       "deletions": 29,
-      "changedFiles": 14
+      "changedFiles": 16
     },
     {
       "number": 41803,
@@ -183,129 +183,28 @@
       "additions": 3,
       "deletions": 2,
       "changedFiles": 3
-    },
-    {
-      "number": 36189,
-      "title": "feat: add agents.defaults.systemPromptFile config option",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T13:26:22Z",
-      "mergedAt": null,
-      "additions": 100,
-      "deletions": 2,
-      "changedFiles": 6
-    },
-    {
-      "number": 35937,
-      "title": "feat: add configurable FTS5 tokenizer for CJK text support",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T10:27:24Z",
-      "mergedAt": null,
-      "additions": 91,
-      "deletions": 12,
-      "changedFiles": 8
-    },
-    {
-      "number": 35596,
-      "title": "feat: add CJK fonts to sandbox-browser for correct screenshot rendering",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T06:40:57Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 34769,
-      "title": "fix(auto-reply): inject timestamp into BodyForAgent for channel messages",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T17:28:37Z",
-      "mergedAt": null,
-      "additions": 31,
-      "deletions": 12,
-      "changedFiles": 4
-    },
-    {
-      "number": 34682,
-      "title": "fix: remove double Markdown-to-mrkdwn conversion in Slack native streaming",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T16:26:31Z",
-      "mergedAt": null,
-      "additions": 90,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 34606,
-      "title": "fix: add Markdown formatting hints to Slack channel dock",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T15:26:16Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 0,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [
+    {
+      "number": 49808,
+      "title": "[Bug]: sandbox.browser.evaluateEnabled missing from Zod validation schema — gateway crashes on startup",
+      "state": "CLOSED",
+      "createdAt": "2026-03-18T12:57:43Z",
+      "closedAt": "2026-03-18T13:17:31Z"
+    },
+    {
+      "number": 49609,
+      "title": "[Bug]: sandbox-browser noVNC clipboard garbles non-Latin-1 characters (CJK, Cyrillic, etc.)",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T08:17:14Z",
+      "closedAt": null
+    },
     {
       "number": 40668,
       "title": "[Bug]: Tools returning MEDIA: paths lack auto-delivery hint, causing agent to misreport media delivery",
       "state": "OPEN",
       "createdAt": "2026-03-09T06:07:10Z",
-      "closedAt": null
-    },
-    {
-      "number": 36190,
-      "title": "[Feature]: agents.defaults.systemPromptFile — file-based system prompt injection from config",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T13:27:02Z",
-      "closedAt": null
-    },
-    {
-      "number": 35597,
-      "title": "[Feature]: Add CJK fonts to sandbox-browser container for correct screenshot rendering",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T06:41:53Z",
-      "closedAt": null
-    },
-    {
-      "number": 34690,
-      "title": "[Bug]: Slack native streaming double-converts Markdown→mrkdwn, rendering bold as italic",
-      "state": "CLOSED",
-      "createdAt": "2026-03-04T16:29:28Z",
-      "closedAt": "2026-03-06T02:34:44Z"
-    },
-    {
-      "number": 34609,
-      "title": "[Bug]: Markdown→mrkdwn pipeline misinterprets Slack mrkdwn bold (*text*) as Markdown italic",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T15:27:15Z",
-      "closedAt": null
-    },
-    {
-      "number": 34124,
-      "title": "[Feature]: Allow sandbox browser to access dev servers on sandbox localhost via network namespace sharing",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T07:37:31Z",
-      "closedAt": null
-    },
-    {
-      "number": 33989,
-      "title": "[Bug]: Sandbox browser SSRF policy defaults to strict mode, blocking localhost access",
-      "state": "CLOSED",
-      "createdAt": "2026-03-04T05:33:29Z",
-      "closedAt": "2026-03-04T07:37:55Z"
-    },
-    {
-      "number": 32752,
-      "title": "[Bug]: skills.entries.<key>.enabled: true does not override requires.bins check",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T08:11:36Z",
       "closedAt": null
     }
   ],
@@ -422,19 +321,9 @@
       "issues": 1,
       "reviews": 1
     },
-    "2026-03-05": {
-      "prs": 3,
-      "issues": 2,
-      "reviews": 4
-    },
-    "2026-03-04": {
-      "prs": 3,
-      "issues": 4,
-      "reviews": 1
-    },
-    "2026-03-03": {
+    "2026-03-18": {
       "prs": 0,
-      "issues": 1,
+      "issues": 2,
       "reviews": 0
     }
   },
@@ -450,11 +339,6 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
     },
     {
       "id": "reviewer",

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/64381258?v=4",
   "githubUrl": "https://github.com/tyler6204",
   "score": {
-    "score": 768.55,
-    "prScore": 744.05,
+    "score": 795.33,
+    "prScore": 770.83,
     "issueScore": 16,
     "reviewScore": 0,
     "commentScore": 8.5
@@ -12,50 +12,72 @@
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
-    "commits": 107,
-    "prs": 5,
+    "commits": 111,
+    "prs": 6,
     "prsMerged": 3,
-    "prAdditions": 11747,
-    "prDeletions": 1815,
-    "prChangedFiles": 146,
-    "prMergeRate": 60,
+    "prAdditions": 9791,
+    "prDeletions": 1073,
+    "prChangedFiles": 136,
+    "prMergeRate": 50,
     "issues": 2,
     "issuesClosed": 2,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 17,
-    "commitAdditions": 39285,
-    "commitDeletions": 7240,
-    "commitChangedFiles": 952
+    "commitAdditions": 40925,
+    "commitDeletions": 7408,
+    "commitChangedFiles": 980
   },
   "period": {
     "weekly": {
       "prs": 3,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 534,
-      "commitDeletions": 88,
-      "commits": 1
+      "comments": 16,
+      "commitAdditions": 1640,
+      "commitDeletions": 168,
+      "commits": 4
     },
     "monthly": {
-      "prs": 5,
+      "prs": 6,
       "issues": 2,
       "reviews": 0,
       "comments": 17,
-      "commitAdditions": 17460,
-      "commitDeletions": 3489,
-      "commits": 20
+      "commitAdditions": 9733,
+      "commitDeletions": 2420,
+      "commits": 13
     }
   },
-  "firstContribution": "2026-03-05T00:05:30Z",
-  "lastContribution": "2026-03-13T19:48:19Z",
+  "firstContribution": "2026-03-07T18:31:24Z",
+  "lastContribution": "2026-03-19T11:38:44Z",
   "recentPRs": [
+    {
+      "number": 50397,
+      "title": "fix: honor BlueBubbles chunk mode and envelope timezone",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T11:38:44Z",
+      "mergedAt": null,
+      "additions": 141,
+      "deletions": 68,
+      "changedFiles": 10
+    },
+    {
+      "number": 50092,
+      "title": "fix: persist outbound sends and skip stale cron deliveries",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-19T00:19:33Z",
+      "mergedAt": "2026-03-19T02:40:34Z",
+      "additions": 1381,
+      "deletions": 33,
+      "changedFiles": 12
+    },
     {
       "number": 45420,
       "title": "fix: recover subagents after restart, preserve gateway webhook routes, and skip subagent memory flush",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T19:48:19Z",
       "mergedAt": null,
@@ -66,7 +88,7 @@
     {
       "number": 43811,
       "title": "feat: dashboard API improvements, session status, kill endpoint, ws subscriptions, subagent tree, compaction cleanup",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T07:38:48Z",
       "mergedAt": null,
@@ -95,17 +117,6 @@
       "additions": 620,
       "deletions": 33,
       "changedFiles": 5
-    },
-    {
-      "number": 35080,
-      "title": "fix(subagents): deterministic announce delivery with descendant gating",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T00:05:30Z",
-      "mergedAt": "2026-03-06T03:20:24Z",
-      "additions": 3478,
-      "deletions": 843,
-      "changedFiles": 32
     }
   ],
   "recentIssues": [
@@ -126,6 +137,11 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
@@ -145,11 +161,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -164,14 +175,10 @@
       "id": "centurion",
       "label": "Centurion",
       "description": "100+ commits"
-    },
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
     }
   ],
   "recentCommitDays": {
+    "2026-03-19": 4,
     "2026-03-08": 1,
     "2026-03-07": 1,
     "2026-03-06": 1,
@@ -196,9 +203,6 @@
     "2026-01-25": 7,
     "2026-01-24": 1,
     "2026-01-21": 3,
-    "2026-01-20": 22,
-    "2026-01-18": 4,
-    "2026-01-17": 2,
-    "2026-01-16": 3
+    "2026-01-20": 22
   }
 }

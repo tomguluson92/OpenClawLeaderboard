@@ -1,0 +1,164 @@
+{
+  "username": "Sathvik-Chowdary-Veerapaneni",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/98241593?u=84c9e8528bbb71b923db1ee360fb03194941a0b0&v=4",
+  "githubUrl": "https://github.com/Sathvik-Chowdary-Veerapaneni",
+  "score": {
+    "score": 85.87,
+    "prScore": 85.37,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 280,
+    "prDeletions": 36,
+    "prChangedFiles": 17,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-16T01:38:52Z",
+  "lastContribution": "2026-03-19T23:54:12Z",
+  "recentPRs": [
+    {
+      "number": 50708,
+      "title": "fix(daemon): suppress stale exit details when systemd service is running",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T23:54:12Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 50707,
+      "title": "fix(ollama): send think: false when thinking is off",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T23:54:02Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 50705,
+      "title": "fix(ollama): deserialize string tool call arguments to object",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T23:45:53Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 50703,
+      "title": "fix(directives): preserve xhigh thinking level in session entry",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T23:40:28Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 50694,
+      "title": "fix(compaction): clamp reserveTokensFloor to prevent negative flush threshold",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T23:20:11Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 50688,
+      "title": "fix(sessions): update sessionFile after compaction rotates sessionId",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T23:09:25Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 47739,
+      "title": "gateway: suppress colon-ending narration flush before tool calls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T01:39:17Z",
+      "mergedAt": null,
+      "additions": 107,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 47738,
+      "title": "Telegram: handle unresolved SecretRefs gracefully in token resolution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T01:38:52Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 13,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

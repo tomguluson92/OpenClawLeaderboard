@@ -1,0 +1,103 @@
+{
+  "username": "Meli73",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17142494?v=4",
+  "githubUrl": "https://github.com/Meli73",
+  "score": {
+    "score": 22.47,
+    "prScore": 11.97,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 205,
+    "prDeletions": 44,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-12T10:32:08Z",
+  "lastContribution": "2026-03-17T13:25:16Z",
+  "recentPRs": [
+    {
+      "number": 49030,
+      "title": "Fix #43945: Handle custom-named Ollama providers in subagents",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T13:25:16Z",
+      "mergedAt": null,
+      "additions": 205,
+      "deletions": 44,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 43946,
+      "title": "Configurable LLM request timeout per provider/model (Ollama cold-start causes silent fallback)",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T10:32:16Z",
+      "closedAt": null
+    },
+    {
+      "number": 43945,
+      "title": "Subagents miss Ollama credentials and silently fall back to cloud models (privacy regression)",
+      "state": "OPEN",
+      "createdAt": "2026-03-12T10:32:08Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-12": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

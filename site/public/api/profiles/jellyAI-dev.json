@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/263263160?v=4",
   "githubUrl": "https://github.com/jellyAI-dev",
   "score": {
-    "score": 36.06,
-    "prScore": 20.56,
-    "issueScore": 0,
+    "score": 54.75,
+    "prScore": 32.75,
+    "issueScore": 5,
     "reviewScore": 15,
-    "commentScore": 0.5
+    "commentScore": 2
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 619,
-    "prDeletions": 16,
-    "prChangedFiles": 7,
+    "prAdditions": 1006,
+    "prDeletions": 30,
+    "prChangedFiles": 9,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -32,26 +32,37 @@
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 0,
-      "reviews": 5,
-      "comments": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 2,
+      "issues": 1,
       "reviews": 5,
-      "comments": 1,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T00:57:17Z",
-  "lastContribution": "2026-03-10T06:48:45Z",
+  "lastContribution": "2026-03-20T02:01:57Z",
   "recentPRs": [
+    {
+      "number": 48807,
+      "title": "fix(health-monitor): drain active runs before abort on channel restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T07:07:55Z",
+      "mergedAt": null,
+      "additions": 391,
+      "deletions": 15,
+      "changedFiles": 2
+    },
     {
       "number": 40413,
       "title": "fix(discord): persist hello-stall counter and add escalation across health-monitor restarts",
@@ -59,12 +70,20 @@
       "merged": false,
       "createdAt": "2026-03-09T00:57:17Z",
       "mergedAt": null,
-      "additions": 619,
-      "deletions": 16,
+      "additions": 615,
+      "deletions": 15,
       "changedFiles": 7
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 46966,
+      "title": "[Bug]: Gateway dev-build startup has ~80s silent period before first log line",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T06:29:59Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
     {
       "prNumber": 40413,
@@ -93,9 +112,19 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     },
     "2026-03-10": {
@@ -107,8 +136,15 @@
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

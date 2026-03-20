@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1416878?u=62466025032f57565b5d5be1250a5d742305dfa5&v=4",
   "githubUrl": "https://github.com/dwinter3",
   "score": {
-    "score": 13.21,
+    "score": 21.21,
     "prScore": 8.21,
-    "issueScore": 5,
+    "issueScore": 13,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,8 +19,8 @@
     "prDeletions": 1,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 0,
+    "issues": 2,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 2,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-08T13:41:28Z",
-  "lastContribution": "2026-03-10T09:58:49Z",
+  "lastContribution": "2026-03-15T20:05:12Z",
   "recentPRs": [
     {
       "number": 39888,
@@ -66,6 +66,13 @@
   ],
   "recentIssues": [
     {
+      "number": 47607,
+      "title": "Docs: Teams link on 101 page goes nowhere",
+      "state": "CLOSED",
+      "createdAt": "2026-03-15T20:05:12Z",
+      "closedAt": "2026-03-17T04:49:00Z"
+    },
+    {
       "number": 42026,
       "title": "RFC: Distributed Agent Runtime — separate control plane from agent compute",
       "state": "OPEN",
@@ -78,6 +85,11 @@
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     },
     "2026-03-10": {

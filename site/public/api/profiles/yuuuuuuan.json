@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/99110203?u=d37714759f89b18923cf5b21504cdf16617e9364&v=4",
   "githubUrl": "https://github.com/yuuuuuuan",
   "score": {
-    "score": 150.28,
+    "score": 145.28,
     "prScore": 144.78,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,7 +19,7 @@
     "prDeletions": 1338,
     "prChangedFiles": 179,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -75,15 +75,7 @@
       "changedFiles": 153
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38515,
-      "title": "The secrets job appears to be falling back to a full repository scan,",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T03:08:49Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
@@ -93,13 +85,12 @@
     },
     "2026-03-07": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion",
     "Large-Scale Changes"
   ],

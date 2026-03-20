@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4488090?v=4",
   "githubUrl": "https://github.com/frankekn",
   "score": {
-    "score": 482.84,
-    "prScore": 446.84,
+    "score": 491.03,
+    "prScore": 449.53,
     "issueScore": 0,
     "reviewScore": 15,
-    "commentScore": 21
+    "commentScore": 26.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 23,
-    "prs": 22,
+    "commits": 25,
+    "prs": 21,
     "prsMerged": 13,
-    "prAdditions": 5567,
-    "prDeletions": 426,
-    "prChangedFiles": 145,
-    "prMergeRate": 59,
+    "prAdditions": 5284,
+    "prDeletions": 418,
+    "prChangedFiles": 142,
+    "prMergeRate": 62,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 42,
-    "commitAdditions": 3907,
-    "commitDeletions": 568,
-    "commitChangedFiles": 121
+    "comments": 53,
+    "commitAdditions": 3964,
+    "commitDeletions": 586,
+    "commitChangedFiles": 128
   },
   "period": {
     "weekly": {
-      "prs": 17,
+      "prs": 6,
       "issues": 0,
-      "reviews": 5,
-      "comments": 41,
-      "commitAdditions": 1994,
-      "commitDeletions": 257,
-      "commits": 15
+      "reviews": 4,
+      "comments": 20,
+      "commitAdditions": 783,
+      "commitDeletions": 87,
+      "commits": 6
     },
     "monthly": {
-      "prs": 22,
+      "prs": 21,
       "issues": 0,
       "reviews": 5,
-      "comments": 42,
-      "commitAdditions": 3543,
-      "commitDeletions": 555,
-      "commits": 22
+      "comments": 53,
+      "commitAdditions": 3600,
+      "commitDeletions": 573,
+      "commits": 24
     }
   },
-  "firstContribution": "2026-03-06T03:43:00Z",
-  "lastContribution": "2026-03-14T03:08:35Z",
+  "firstContribution": "2026-03-07T04:44:20Z",
+  "lastContribution": "2026-03-19T07:12:44Z",
   "recentPRs": [
+    {
+      "number": 47119,
+      "title": "fix: forward forceDocument through sendPayload path (follow-up to #45111)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-15T09:07:37Z",
+      "mergedAt": "2026-03-15T09:23:53Z",
+      "additions": 53,
+      "deletions": 18,
+      "changedFiles": 6
+    },
     {
       "number": 45631,
       "title": "fix(agents): preserve blank local custom-provider API keys after onboarding",
@@ -260,17 +271,6 @@
       "additions": 178,
       "deletions": 23,
       "changedFiles": 6
-    },
-    {
-      "number": 38574,
-      "title": "fix: protect bootstrap files during memory flush",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T04:44:20Z",
-      "mergedAt": "2026-03-10T04:44:33Z",
-      "additions": 468,
-      "deletions": 15,
-      "changedFiles": 13
     }
   ],
   "recentIssues": [],
@@ -302,6 +302,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -341,11 +346,6 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -373,6 +373,8 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-17": 1,
+    "2026-03-15": 1,
     "2026-03-14": 2,
     "2026-03-13": 8,
     "2026-03-12": 1,

@@ -3,55 +3,132 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/22031114?v=4",
   "githubUrl": "https://github.com/obviyus",
   "score": {
-    "score": 2515.78,
-    "prScore": 2440.28,
-    "issueScore": 0,
-    "reviewScore": 22,
-    "commentScore": 53.5
+    "score": 2919.61,
+    "prScore": 2800.11,
+    "issueScore": 8,
+    "reviewScore": 54.5,
+    "commentScore": 57
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
-    "commits": 398,
-    "prs": 29,
-    "prsMerged": 27,
-    "prAdditions": 8813,
-    "prDeletions": 4498,
-    "prChangedFiles": 322,
-    "prMergeRate": 93,
-    "issues": 0,
-    "issuesClosed": 0,
-    "reviews": 7,
-    "reviewsApproved": 1,
-    "reviewsChangesRequested": 0,
-    "comments": 107,
-    "commitAdditions": 38669,
-    "commitDeletions": 13234,
-    "commitChangedFiles": 1362
+    "commits": 462,
+    "prs": 33,
+    "prsMerged": 30,
+    "prAdditions": 10242,
+    "prDeletions": 6647,
+    "prChangedFiles": 371,
+    "prMergeRate": 91,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 16,
+    "reviewsApproved": 2,
+    "reviewsChangesRequested": 3,
+    "comments": 114,
+    "commitAdditions": 45054,
+    "commitDeletions": 16821,
+    "commitChangedFiles": 1579
   },
   "period": {
     "weekly": {
-      "prs": 16,
-      "issues": 0,
-      "reviews": 7,
-      "comments": 79,
-      "commitAdditions": 4681,
-      "commitDeletions": 3387,
-      "commits": 55
+      "prs": 11,
+      "issues": 1,
+      "reviews": 10,
+      "comments": 34,
+      "commitAdditions": 7797,
+      "commitDeletions": 4355,
+      "commits": 83
     },
     "monthly": {
-      "prs": 29,
-      "issues": 0,
-      "reviews": 7,
-      "comments": 107,
-      "commitAdditions": 34552,
-      "commitDeletions": 11769,
-      "commits": 332
+      "prs": 33,
+      "issues": 1,
+      "reviews": 16,
+      "comments": 114,
+      "commitAdditions": 38544,
+      "commitDeletions": 13903,
+      "commits": 380
     }
   },
-  "firstContribution": "2026-03-04T03:53:33Z",
-  "lastContribution": "2026-03-15T03:05:38Z",
+  "firstContribution": "2026-03-06T05:47:38Z",
+  "lastContribution": "2026-03-20T05:42:29Z",
   "recentPRs": [
+    {
+      "number": 50849,
+      "title": "Android: route Talk playback through gateway synthesis",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T04:59:59Z",
+      "mergedAt": "2026-03-20T05:31:24Z",
+      "additions": 665,
+      "deletions": 1830,
+      "changedFiles": 21
+    },
+    {
+      "number": 50535,
+      "title": "fix(onboard): respect Azure Foundry custom provider compatibility",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-19T16:34:54Z",
+      "mergedAt": "2026-03-19T16:37:20Z",
+      "additions": 60,
+      "deletions": 13,
+      "changedFiles": 3
+    },
+    {
+      "number": 50212,
+      "title": "fix: isolate CLI startup imports",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-19T04:46:08Z",
+      "mergedAt": "2026-03-19T05:04:29Z",
+      "additions": 218,
+      "deletions": 187,
+      "changedFiles": 11
+    },
+    {
+      "number": 49148,
+      "title": "fix(telegram): unify transport fallback chain",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T16:52:00Z",
+      "mergedAt": "2026-03-17T17:14:15Z",
+      "additions": 457,
+      "deletions": 133,
+      "changedFiles": 10
+    },
+    {
+      "number": 48371,
+      "title": "perf: defer gateway probe auth runtime imports",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T16:54:09Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 47798,
+      "title": "feat(telegram): add topic-edit action",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-16T02:19:47Z",
+      "mergedAt": "2026-03-16T02:33:23Z",
+      "additions": 227,
+      "deletions": 11,
+      "changedFiles": 11
+    },
+    {
+      "number": 47274,
+      "title": "fix: preserve Telegram word boundaries when rechunking HTML",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-15T12:01:43Z",
+      "mergedAt": "2026-03-15T12:40:49Z",
+      "additions": 242,
+      "deletions": 6,
+      "changedFiles": 3
+    },
     {
       "number": 45969,
       "title": "fix(zai): align explicit coding endpoint setup with detected model defaults",
@@ -194,87 +271,63 @@
       "additions": 79,
       "deletions": 4,
       "changedFiles": 4
-    },
-    {
-      "number": 40013,
-      "title": "fix(telegram): avoid DM duplicate flash",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T15:36:54Z",
-      "mergedAt": "2026-03-08T16:29:43Z",
-      "additions": 23,
-      "deletions": 18,
-      "changedFiles": 5
-    },
-    {
-      "number": 39937,
-      "title": "fix(web-search): restore OpenRouter compatibility for Perplexity",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T14:23:11Z",
-      "mergedAt": "2026-03-08T15:07:55Z",
-      "additions": 631,
-      "deletions": 81,
-      "changedFiles": 9
-    },
-    {
-      "number": 39660,
-      "title": "fix(android): remove Play-restricted permissions",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T09:19:20Z",
-      "mergedAt": "2026-03-08T10:55:49Z",
-      "additions": 90,
-      "deletions": 1019,
-      "changedFiles": 33
-    },
-    {
-      "number": 39414,
-      "title": "fix(chat): preserve Telegram sender labels in dashboard history",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T03:23:15Z",
-      "mergedAt": "2026-03-08T03:47:03Z",
-      "additions": 214,
-      "deletions": 17,
-      "changedFiles": 12
-    },
-    {
-      "number": 39398,
-      "title": "fix(telegram): restore DM draft streaming",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T02:48:26Z",
-      "mergedAt": "2026-03-08T02:53:25Z",
-      "additions": 35,
-      "deletions": 10,
-      "changedFiles": 3
-    },
-    {
-      "number": 38895,
-      "title": "fix: flatten remote markdown images",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T13:46:51Z",
-      "mergedAt": "2026-03-07T14:16:41Z",
-      "additions": 184,
-      "deletions": 24,
-      "changedFiles": 7
-    },
-    {
-      "number": 38871,
-      "title": "fix(telegram): route native topic commands to the active session",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T13:11:03Z",
-      "mergedAt": "2026-03-07T13:31:16Z",
-      "additions": 335,
-      "deletions": 172,
-      "changedFiles": 13
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 50528,
+      "title": "Custom provider onboarding forces openai-responses on all *.services.ai.azure.com endpoints",
+      "state": "CLOSED",
+      "createdAt": "2026-03-19T16:26:57Z",
+      "closedAt": "2026-03-19T16:37:22Z"
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 40700,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-20T05:42:29Z"
+    },
+    {
+      "prNumber": 50849,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T05:22:32Z"
+    },
+    {
+      "prNumber": 49849,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-18T14:55:24Z"
+    },
+    {
+      "prNumber": 49148,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T17:08:00Z"
+    },
+    {
+      "prNumber": 49148,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T17:05:24Z"
+    },
+    {
+      "prNumber": 49148,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T17:05:24Z"
+    },
+    {
+      "prNumber": 49148,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T17:05:17Z"
+    },
+    {
+      "prNumber": 48753,
+      "state": "APPROVED",
+      "createdAt": "2026-03-17T06:13:42Z"
+    },
+    {
+      "prNumber": 48439,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-17T02:54:48Z"
+    },
     {
       "prNumber": 45021,
       "state": "COMMENTED",
@@ -312,6 +365,31 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
@@ -352,15 +430,16 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-04": {
-      "prs": 3,
+    "2026-03-18": {
+      "prs": 0,
       "issues": 0,
-      "reviews": 0
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
@@ -382,18 +461,38 @@
       "description": "5+ merged PRs"
     },
     {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
     },
     {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
       "id": "precision",
       "label": "Precision",
       "description": "90%+ PR merge rate"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
   ],
   "recentCommitDays": {
-    "2026-03-15": 1,
+    "2026-03-20": 14,
+    "2026-03-19": 9,
+    "2026-03-18": 17,
+    "2026-03-17": 2,
+    "2026-03-16": 20,
+    "2026-03-15": 3,
     "2026-03-14": 9,
     "2026-03-13": 14,
     "2026-03-12": 6,

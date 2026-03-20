@@ -3,65 +3,76 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/866535?v=4",
   "githubUrl": "https://github.com/sibbl",
   "score": {
-    "score": 199.97,
-    "prScore": 184.47,
+    "score": 244.74,
+    "prScore": 225.24,
     "issueScore": 0,
-    "reviewScore": 15,
-    "commentScore": 0.5
+    "reviewScore": 18,
+    "commentScore": 1.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
     "commits": 6,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 1,
-    "prAdditions": 6067,
-    "prDeletions": 269,
-    "prChangedFiles": 66,
-    "prMergeRate": 50,
+    "prAdditions": 84710,
+    "prDeletions": 2833,
+    "prChangedFiles": 500,
+    "prMergeRate": 33,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 3,
     "commitAdditions": 2276,
     "commitDeletions": 938,
     "commitChangedFiles": 53
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
-      "reviews": 5,
-      "comments": 1,
+      "reviews": 6,
+      "comments": 2,
       "commitAdditions": 337,
       "commitDeletions": 255,
       "commits": 1
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
-      "reviews": 5,
-      "comments": 1,
+      "reviews": 6,
+      "comments": 3,
       "commitAdditions": 337,
       "commitDeletions": 255,
       "commits": 1
     }
   },
   "firstContribution": "2026-03-09T15:01:37Z",
-  "lastContribution": "2026-03-14T19:03:15Z",
+  "lastContribution": "2026-03-16T12:06:51Z",
   "recentPRs": [
     {
-      "number": 46279,
+      "number": 47604,
       "title": "feat(android): add Wear OS app MVP",
       "state": "OPEN",
       "merged": false,
+      "createdAt": "2026-03-15T19:46:23Z",
+      "mergedAt": null,
+      "additions": 8170,
+      "deletions": 636,
+      "changedFiles": 85
+    },
+    {
+      "number": 46279,
+      "title": "feat(android): add Wear OS app MVP",
+      "state": "CLOSED",
+      "merged": false,
       "createdAt": "2026-03-14T15:22:14Z",
       "mergedAt": null,
-      "additions": 5730,
-      "deletions": 14,
-      "changedFiles": 52
+      "additions": 76203,
+      "deletions": 1942,
+      "changedFiles": 401
     },
     {
       "number": 46249,
@@ -77,6 +88,11 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 47604,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T12:06:51Z"
+    },
     {
       "prNumber": 46279,
       "state": "COMMENTED",
@@ -104,10 +120,20 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
       "reviews": 5
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
@@ -117,12 +143,21 @@
     "Direct Commits",
     "Large-Scale Changes"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ],
   "recentCommitDays": {
     "2026-03-15": 1,
     "2026-01-23": 1,
-    "2026-01-20": 1,
-    "2026-01-18": 1,
-    "2026-01-17": 2
+    "2026-01-20": 1
   }
 }

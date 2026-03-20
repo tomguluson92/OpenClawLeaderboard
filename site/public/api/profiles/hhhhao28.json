@@ -3,55 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/112874572?u=454aad41bd16247a0c22739a6b0f174cb81a9343&v=4",
   "githubUrl": "https://github.com/hhhhao28",
   "score": {
-    "score": 291.72,
-    "prScore": 211.22,
-    "issueScore": 0,
-    "reviewScore": 78,
-    "commentScore": 2.5
+    "score": 347.2,
+    "prScore": 245.7,
+    "issueScore": 5,
+    "reviewScore": 93,
+    "commentScore": 3.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 12,
-    "prsMerged": 0,
-    "prAdditions": 4300,
-    "prDeletions": 523,
-    "prChangedFiles": 69,
-    "prMergeRate": 0,
-    "issues": 0,
+    "prs": 16,
+    "prsMerged": 1,
+    "prAdditions": 5051,
+    "prDeletions": 636,
+    "prChangedFiles": 105,
+    "prMergeRate": 6,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 26,
+    "reviews": 31,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 7,
+    "commitAdditions": 396,
+    "commitDeletions": 1,
+    "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 12,
-      "issues": 0,
-      "reviews": 26,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 6,
+      "issues": 1,
+      "reviews": 9,
+      "comments": 2,
+      "commitAdditions": 396,
+      "commitDeletions": 1,
+      "commits": 1
     },
     "monthly": {
-      "prs": 12,
-      "issues": 0,
-      "reviews": 26,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 16,
+      "issues": 1,
+      "reviews": 31,
+      "comments": 7,
+      "commitAdditions": 396,
+      "commitDeletions": 1,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-11T11:39:27Z",
-  "lastContribution": "2026-03-13T10:17:52Z",
+  "lastContribution": "2026-03-19T09:17:08Z",
   "recentPRs": [
+    {
+      "number": 50300,
+      "title": "Fix session transcript timestamps to use local timezone offsets",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T07:24:18Z",
+      "mergedAt": null,
+      "additions": 328,
+      "deletions": 23,
+      "changedFiles": 14
+    },
+    {
+      "number": 48702,
+      "title": "Fixes #48314fix: clarify reasoning status in /status",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T03:37:26Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 21,
+      "changedFiles": 4
+    },
+    {
+      "number": 47736,
+      "title": "Fail cron jobs on invalid payload model overrides",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T01:31:18Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 22,
+      "changedFiles": 5
+    },
+    {
+      "number": 47387,
+      "title": "fix(telegram): route outbound media downloads through proxy transport",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:19:05Z",
+      "mergedAt": null,
+      "additions": 287,
+      "deletions": 47,
+      "changedFiles": 12
+    },
     {
       "number": 44954,
       "title": "fix(telegram): preserve media download transport fallback",
@@ -77,13 +121,13 @@
     {
       "number": 44779,
       "title": "fix(context-engine): preserve legacy plugin sessionKey interop",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-13T06:56:38Z",
-      "mergedAt": null,
-      "additions": 395,
+      "mergedAt": "2026-03-17T16:14:14Z",
+      "additions": 396,
       "deletions": 1,
-      "changedFiles": 2
+      "changedFiles": 3
     },
     {
       "number": 44676,
@@ -185,8 +229,41 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 50211,
+      "title": "[Bug]: Shared CI regressions in loader, Feishu, and Google OAuth tests are failing unrelated PRs",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T04:45:22Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 50300,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T07:57:11Z"
+    },
+    {
+      "prNumber": 50300,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T07:57:02Z"
+    },
+    {
+      "prNumber": 50300,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T07:56:53Z"
+    },
+    {
+      "prNumber": 50300,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T07:56:36Z"
+    },
+    {
+      "prNumber": 48702,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T07:46:42Z"
+    },
     {
       "prNumber": 44954,
       "state": "COMMENTED",
@@ -261,34 +338,29 @@
       "prNumber": 43189,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T02:11:59Z"
-    },
-    {
-      "prNumber": 43573,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T02:10:40Z"
-    },
-    {
-      "prNumber": 43280,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T02:06:11Z"
-    },
-    {
-      "prNumber": 43573,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T01:58:53Z"
-    },
-    {
-      "prNumber": 43280,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T01:52:03Z"
-    },
-    {
-      "prNumber": 43280,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T01:16:44Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 5,
       "issues": 0,
@@ -308,7 +380,9 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion"
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [
     {
@@ -320,7 +394,14 @@
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {}
+  "recentCommitDays": {
+    "2026-03-17": 1
+  }
 }

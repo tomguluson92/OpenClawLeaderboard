@@ -3,59 +3,136 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7495165?v=4",
   "githubUrl": "https://github.com/lishuaigit",
   "score": {
-    "score": 127.2,
-    "prScore": 121.7,
+    "score": 193.76,
+    "prScore": 188.76,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5.5
+    "commentScore": 5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 10,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 1266,
-    "prDeletions": 47,
-    "prChangedFiles": 24,
+    "prAdditions": 1060,
+    "prDeletions": 58,
+    "prChangedFiles": 28,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 10,
+    "commitAdditions": 275,
+    "commitDeletions": 50,
+    "commitChangedFiles": 20
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 11,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 6,
+      "commitAdditions": 275,
+      "commitDeletions": 50,
+      "commits": 1
     },
     "monthly": {
-      "prs": 10,
+      "prs": 12,
       "issues": 0,
       "reviews": 0,
-      "comments": 11,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 10,
+      "commitAdditions": 275,
+      "commitDeletions": 50,
+      "commits": 1
     }
   },
-  "firstContribution": "2026-03-05T05:35:14Z",
-  "lastContribution": "2026-03-10T03:20:30Z",
+  "firstContribution": "2026-03-06T06:32:22Z",
+  "lastContribution": "2026-03-20T03:30:22Z",
   "recentPRs": [
+    {
+      "number": 50802,
+      "title": "fix: recognize snake_case tool call types in session history repair",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T03:30:22Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 50801,
+      "title": "fix(feishu): do not treat @_all as a bot-specific mention",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T03:29:59Z",
+      "mergedAt": null,
+      "additions": 70,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 50446,
+      "title": "fix: recognize snake_case tool call types in session history repair",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T13:29:58Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 50440,
+      "title": "fix(feishu): do not treat @_all as a bot-specific mention",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T13:20:29Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 50435,
+      "title": "fix(feishu): recover Chinese filenames from Latin-1 mojibake in Content-Disposition",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T13:06:27Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 50434,
+      "title": "fix(telegram): use trigger message id as reply-to fallback for replyToMode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T13:03:36Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 50429,
+      "title": "fix(feishu): fall back to plain text when card delivery fails",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T12:50:04Z",
+      "mergedAt": null,
+      "additions": 121,
+      "deletions": 18,
+      "changedFiles": 2
+    },
     {
       "number": 41136,
       "title": "fix(test): skip runGatewayLoop signal tests under Bun runtime",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T14:36:28Z",
       "mergedAt": null,
@@ -99,73 +176,28 @@
     {
       "number": 37296,
       "title": "fix(discord): pass appliedTags through channel-edit action",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T06:32:22Z",
       "mergedAt": null,
       "additions": 9,
       "deletions": 0,
       "changedFiles": 4
-    },
-    {
-      "number": 36924,
-      "title": "fix(telegram): split messages at word boundaries instead of mid-word",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T00:41:07Z",
-      "mergedAt": null,
-      "additions": 47,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 36810,
-      "title": "fix(feishu): use ReadStream for local file uploads to prevent binary corruption",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T22:37:29Z",
-      "mergedAt": null,
-      "additions": 215,
-      "deletions": 12,
-      "changedFiles": 2
-    },
-    {
-      "number": 36129,
-      "title": "fix: recognize Gemini 3.1 models under google provider for fallback routing",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T12:47:40Z",
-      "mergedAt": null,
-      "additions": 48,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 35878,
-      "title": "fix(matrix): import KeyedAsyncQueue from plugin-sdk/matrix subpath",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T09:54:45Z",
-      "mergedAt": null,
-      "additions": 3,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 35517,
-      "title": "feat(feishu): add history action to feishu_chat tool",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T05:35:14Z",
-      "mergedAt": null,
-      "additions": 386,
-      "deletions": 4,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
@@ -177,12 +209,7 @@
       "reviews": 0
     },
     "2026-03-06": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 4,
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     }
@@ -198,5 +225,7 @@
       "description": "10+ pull requests"
     }
   ],
-  "recentCommitDays": {}
+  "recentCommitDays": {
+    "2026-03-17": 1
+  }
 }

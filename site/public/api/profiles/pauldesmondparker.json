@@ -3,10 +3,10 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/114397409?u=40b62a5cfc4a6ff6043dcf8f199a8756b978fe5b&v=4",
   "githubUrl": "https://github.com/pauldesmondparker",
   "score": {
-    "score": 53.66,
+    "score": 56.66,
     "prScore": 39.66,
     "issueScore": 5,
-    "reviewScore": 9,
+    "reviewScore": 12,
     "commentScore": 0
   },
   "tier": "regular",
@@ -21,7 +21,7 @@
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 3,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
@@ -31,9 +31,9 @@
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 3,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -42,7 +42,7 @@
     "monthly": {
       "prs": 2,
       "issues": 1,
-      "reviews": 3,
+      "reviews": 4,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-12T08:49:42Z",
-  "lastContribution": "2026-03-13T05:19:03Z",
+  "lastContribution": "2026-03-19T03:23:57Z",
   "recentPRs": [
     {
       "number": 44680,
@@ -88,6 +88,11 @@
     {
       "prNumber": 43951,
       "state": "COMMENTED",
+      "createdAt": "2026-03-19T03:23:57Z"
+    },
+    {
+      "prNumber": 43951,
+      "state": "COMMENTED",
       "createdAt": "2026-03-12T23:59:36Z"
     },
     {
@@ -111,6 +116,11 @@
       "prs": 1,
       "issues": 1,
       "reviews": 3
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [

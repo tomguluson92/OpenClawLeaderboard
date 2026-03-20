@@ -3,23 +3,23 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/34594989?u=a778e12c6014185fc880dcf044cc5ef6dbd15f54&v=4",
   "githubUrl": "https://github.com/ScrappyZhang",
   "score": {
-    "score": 7.42,
-    "prScore": 7.42,
-    "issueScore": 0,
+    "score": 40.8,
+    "prScore": 35.8,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 3,
-    "prDeletions": 0,
-    "prChangedFiles": 1,
+    "prAdditions": 85,
+    "prDeletions": 53,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,8 +31,8 @@
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
+      "prs": 2,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -40,8 +40,8 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 3,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -50,8 +50,30 @@
     }
   },
   "firstContribution": "2026-03-07T05:25:01Z",
-  "lastContribution": "2026-03-07T05:25:01Z",
+  "lastContribution": "2026-03-16T01:08:55Z",
   "recentPRs": [
+    {
+      "number": 47723,
+      "title": "feat(feishu): improve error messages with Chinese localization and better context",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T01:08:55Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 53,
+      "changedFiles": 8
+    },
+    {
+      "number": 47417,
+      "title": "fix(docker): include src in runtime image",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T15:07:16Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 38599,
       "title": "fix: resolve version from package.json at runtime (issue #38473)",
@@ -64,9 +86,27 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 47392,
+      "title": "[Bug]: Feishu channel - First message after /new session startup is not delivered",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T14:24:40Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-07": {
       "prs": 1,
       "issues": 0,
@@ -74,7 +114,8 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Issue Reporting"
   ],
   "achievements": [],
   "recentCommitDays": {}

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/43046102?u=c4e029c11d70aeea50d1a1163ee7f51f5465ccf9&v=4",
   "githubUrl": "https://github.com/aneym",
   "score": {
-    "score": 20.45,
+    "score": 10.45,
     "prScore": 10.45,
-    "issueScore": 10,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 11,
     "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T20:21:09Z",
+  "firstContribution": "2026-03-14T18:14:46Z",
   "lastContribution": "2026-03-14T18:14:46Z",
   "recentPRs": [
     {
@@ -64,43 +64,17 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 37057,
-      "title": "feat: RTK exec proxy — compress tool output to save context tokens",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T02:56:22Z",
-      "closedAt": null
-    },
-    {
-      "number": 33463,
-      "title": "sessions.list with includeDerivedTitles blocks event loop with synchronous transcript reads",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T20:21:09Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

@@ -3,36 +3,36 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/129141816?u=1c2b637b5f2c81f2d3adfc56bbfacbd904aae07e&v=4",
   "githubUrl": "https://github.com/reed1898",
   "score": {
-    "score": 158.01,
-    "prScore": 150.51,
+    "score": 159.56,
+    "prScore": 149.56,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 2.5
+    "commentScore": 5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 12,
+    "prs": 13,
     "prsMerged": 0,
-    "prAdditions": 635,
-    "prDeletions": 43,
-    "prChangedFiles": 34,
+    "prAdditions": 756,
+    "prDeletions": 81,
+    "prChangedFiles": 29,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 10,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 9,
-      "issues": 1,
+      "prs": 5,
+      "issues": 0,
       "reviews": 0,
       "comments": 5,
       "commitAdditions": 0,
@@ -40,18 +40,51 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 12,
+      "prs": 13,
       "issues": 1,
       "reviews": 0,
-      "comments": 5,
+      "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T19:20:23Z",
-  "lastContribution": "2026-03-14T01:10:11Z",
+  "firstContribution": "2026-03-07T20:07:21Z",
+  "lastContribution": "2026-03-19T19:22:17Z",
   "recentPRs": [
+    {
+      "number": 50598,
+      "title": "feat(skills): warn when skill descriptions exceed configurable length limit",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T19:22:17Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 50593,
+      "title": "fix(ollama): detect vision models and set input to text+image",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T19:16:23Z",
+      "mergedAt": null,
+      "additions": 129,
+      "deletions": 22,
+      "changedFiles": 4
+    },
+    {
+      "number": 50037,
+      "title": "fix(export): restore JS placeholders in export HTML template",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T21:52:50Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 21,
+      "changedFiles": 2
+    },
     {
       "number": 45586,
       "title": "fix(tui): block chat input during active generation to prevent message swallowing",
@@ -59,14 +92,14 @@
       "merged": false,
       "createdAt": "2026-03-14T01:10:11Z",
       "mergedAt": null,
-      "additions": 80,
+      "additions": 90,
       "deletions": 11,
       "changedFiles": 3
     },
     {
       "number": 45549,
       "title": "fix(gateway-status): downgrade SecretRef warning when gateway probe succeeds",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T00:15:17Z",
       "mergedAt": null,
@@ -121,7 +154,7 @@
     {
       "number": 39873,
       "title": "fix(matrix): use main plugin-sdk export for KeyedAsyncQueue",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T13:28:06Z",
       "mergedAt": null,
@@ -161,28 +194,6 @@
       "additions": 2,
       "deletions": 2,
       "changedFiles": 2
-    },
-    {
-      "number": 34915,
-      "title": "feat(slack): make assistant thread status text configurable",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T19:26:04Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 1,
-      "changedFiles": 8
-    },
-    {
-      "number": 34909,
-      "title": "feat(gateway): expose staleEventThresholdMs in config (gateway.healthMonitor.timing)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T19:20:23Z",
-      "mergedAt": null,
-      "additions": 47,
-      "deletions": 4,
-      "changedFiles": 7
     }
   ],
   "recentIssues": [
@@ -196,6 +207,16 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
@@ -223,11 +244,6 @@
     },
     "2026-03-07": {
       "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 2,
       "issues": 0,
       "reviews": 0
     }

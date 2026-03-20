@@ -3,55 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/35169750?u=2daaf41d001ab91b0fadc06bed05d8576e28a7bf&v=4",
   "githubUrl": "https://github.com/Linux2010",
   "score": {
-    "score": 294.5,
-    "prScore": 278,
+    "score": 262.57,
+    "prScore": 249.07,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 16.5
+    "commentScore": 13.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 24,
+    "prs": 18,
     "prsMerged": 0,
-    "prAdditions": 1224,
-    "prDeletions": 255,
-    "prChangedFiles": 60,
+    "prAdditions": 3364,
+    "prDeletions": 242,
+    "prChangedFiles": 61,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 33,
+    "comments": 27,
     "commitAdditions": 50,
     "commitDeletions": 0,
     "commitChangedFiles": 2
   },
   "period": {
     "weekly": {
-      "prs": 15,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 28,
+      "comments": 13,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 24,
+      "prs": 18,
       "issues": 0,
       "reviews": 0,
-      "comments": 33,
+      "comments": 27,
       "commitAdditions": 50,
       "commitDeletions": 0,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T09:21:44Z",
-  "lastContribution": "2026-03-15T01:54:36Z",
+  "firstContribution": "2026-03-07T05:14:44Z",
+  "lastContribution": "2026-03-17T01:20:32Z",
   "recentPRs": [
+    {
+      "number": 48568,
+      "title": "feat: heartbeat.timeoutSeconds — per-heartbeat embedded run timeout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T23:55:46Z",
+      "mergedAt": null,
+      "additions": 253,
+      "deletions": 8,
+      "changedFiles": 4
+    },
+    {
+      "number": 47752,
+      "title": "feat: heartbeat.timeoutSeconds — per-heartbeat embedded run timeout",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T02:03:58Z",
+      "mergedAt": null,
+      "additions": 2288,
+      "deletions": 2,
+      "changedFiles": 14
+    },
     {
       "number": 45813,
       "title": "fix(ui): prevent empty state overlay from blocking chat input (#45707)",
@@ -121,13 +143,13 @@
     {
       "number": 43269,
       "title": "fix: persist outbound messages to unified session transcript",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T14:49:59Z",
       "mergedAt": null,
-      "additions": 108,
+      "additions": 53,
       "deletions": 9,
-      "changedFiles": 6
+      "changedFiles": 5
     },
     {
       "number": 43198,
@@ -154,13 +176,13 @@
     {
       "number": 41065,
       "title": "fix(kimi-coding): exclude from thinking signature preservation",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T13:41:54Z",
       "mergedAt": null,
-      "additions": 2,
+      "additions": 0,
       "deletions": 0,
-      "changedFiles": 1
+      "changedFiles": 0
     },
     {
       "number": 41061,
@@ -198,13 +220,13 @@
     {
       "number": 40867,
       "title": "fix(web-search): respect baseUrl config for Perplexity Search API",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T10:28:25Z",
       "mergedAt": null,
-      "additions": 9,
-      "deletions": 1,
-      "changedFiles": 2
+      "additions": 6,
+      "deletions": 0,
+      "changedFiles": 1
     },
     {
       "number": 40775,
@@ -227,55 +249,16 @@
       "additions": 64,
       "deletions": 3,
       "changedFiles": 3
-    },
-    {
-      "number": 36252,
-      "title": "fix: device pairing required on loopback for backend clients (#35763)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T14:23:56Z",
-      "mergedAt": null,
-      "additions": 8,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 36225,
-      "title": "fix: device pairing required on loopback for backend clients",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T13:56:24Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 34478,
-      "title": "feat(config): add configurable backup options",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T13:37:14Z",
-      "mergedAt": null,
-      "additions": 219,
-      "deletions": 17,
-      "changedFiles": 4
-    },
-    {
-      "number": 34366,
-      "title": "fix: deliver inter-session replies to bound channel (Telegram)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T11:35:44Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 0,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -303,16 +286,6 @@
     },
     "2026-03-07": {
       "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 6,
       "issues": 0,
       "reviews": 0
     }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/171759149?u=6c9e8523f57ebbf0af691fe83cebf670f827978b&v=4",
   "githubUrl": "https://github.com/sawyer-shi",
   "score": {
-    "score": 78.67,
-    "prScore": 66.17,
+    "score": 144.84,
+    "prScore": 132.34,
     "issueScore": 0,
     "reviewScore": 12,
     "commentScore": 0.5
@@ -13,11 +13,11 @@
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1139,
-    "prDeletions": 6,
-    "prChangedFiles": 28,
+    "prAdditions": 2616,
+    "prDeletions": 52,
+    "prChangedFiles": 65,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -33,14 +33,14 @@
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 4,
-      "comments": 1,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 4,
       "comments": 1,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-08T06:11:19Z",
-  "lastContribution": "2026-03-12T03:52:22Z",
+  "lastContribution": "2026-03-16T14:20:04Z",
   "recentPRs": [
+    {
+      "number": 48267,
+      "title": "Pr 39540 rebased--Azure models support(GPT-5.4 and more)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T14:20:04Z",
+      "mergedAt": null,
+      "additions": 1478,
+      "deletions": 45,
+      "changedFiles": 37
+    },
     {
       "number": 39540,
       "title": "New：Add support for Azure models【Supports the GPT-5.4 and more models‌】",
@@ -59,8 +70,8 @@
       "merged": false,
       "createdAt": "2026-03-08T06:11:19Z",
       "mergedAt": null,
-      "additions": 1139,
-      "deletions": 6,
+      "additions": 1138,
+      "deletions": 7,
       "changedFiles": 28
     }
   ],
@@ -88,6 +99,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 0,

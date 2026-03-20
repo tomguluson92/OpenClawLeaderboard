@@ -1,0 +1,121 @@
+{
+  "username": "hqwuzhaoyi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44605072?u=2849f55a7c5cd4220ce113e850bd1da06ff4e520&v=4",
+  "githubUrl": "https://github.com/hqwuzhaoyi",
+  "score": {
+    "score": 169.34,
+    "prScore": 158.34,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 10226,
+    "prDeletions": 4875,
+    "prChangedFiles": 424,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-16T16:42:53Z",
+  "lastContribution": "2026-03-20T07:24:07Z",
+  "recentPRs": [
+    {
+      "number": 48967,
+      "title": "fix: copy ACP metadata to thread-bound sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T11:46:54Z",
+      "mergedAt": null,
+      "additions": 233,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 48363,
+      "title": "fix: copy ACP metadata to thread-bound sessions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T16:46:34Z",
+      "mergedAt": null,
+      "additions": 9993,
+      "deletions": 4874,
+      "changedFiles": 422
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 48362,
+      "title": "Thread-bound ACP sessions missing metadata causing ACP_SESSION_INIT_FAILED",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T16:46:23Z",
+      "closedAt": null
+    },
+    {
+      "number": 48359,
+      "title": "Thread-bound ACP sessions missing metadata causing ACP_SESSION_INIT_FAILED",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T16:42:53Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {}
+}

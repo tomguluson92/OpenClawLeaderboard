@@ -1,57 +1,79 @@
 {
   "username": "No898",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/82420070?u=1cb20cd62475b3ec7e6b6f6446ae6707f9d62228&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82420070?v=4",
   "githubUrl": "https://github.com/No898",
   "score": {
-    "score": 62.08,
-    "prScore": 55.08,
-    "issueScore": 5,
-    "reviewScore": 0,
-    "commentScore": 2
+    "score": 108.38,
+    "prScore": 79.38,
+    "issueScore": 18,
+    "reviewScore": 6,
+    "commentScore": 5
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
-    "commits": 0,
-    "prs": 3,
-    "prsMerged": 1,
-    "prAdditions": 623,
-    "prDeletions": 18,
-    "prChangedFiles": 12,
-    "prMergeRate": 33,
-    "issues": 1,
-    "issuesClosed": 0,
-    "reviews": 0,
+    "commits": 2,
+    "prs": 4,
+    "prsMerged": 2,
+    "prAdditions": 204,
+    "prDeletions": 62,
+    "prChangedFiles": 14,
+    "prMergeRate": 50,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 6,
-    "commitDeletions": 1,
-    "commitChangedFiles": 4
+    "comments": 10,
+    "commitAdditions": 70,
+    "commitDeletions": 27,
+    "commitChangedFiles": 6
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 6,
-      "commitDeletions": 1,
-      "commits": 1
+      "prs": 3,
+      "issues": 2,
+      "reviews": 2,
+      "comments": 6,
+      "commitAdditions": 70,
+      "commitDeletions": 27,
+      "commits": 2
     },
     "monthly": {
-      "prs": 3,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 6,
-      "commitDeletions": 1,
-      "commits": 1
+      "prs": 4,
+      "issues": 3,
+      "reviews": 2,
+      "comments": 10,
+      "commitAdditions": 70,
+      "commitDeletions": 27,
+      "commits": 2
     }
   },
-  "firstContribution": "2026-03-05T13:50:15Z",
-  "lastContribution": "2026-03-14T20:14:58Z",
+  "firstContribution": "2026-03-11T03:10:24Z",
+  "lastContribution": "2026-03-17T18:34:30Z",
   "recentPRs": [
+    {
+      "number": 49172,
+      "title": "fix(zalo): accept photo_url for inbound image events",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T17:46:03Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 20,
+      "changedFiles": 5
+    },
+    {
+      "number": 47552,
+      "title": "docs(zalo): document current Marketplace bot behavior",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-15T18:06:22Z",
+      "mergedAt": "2026-03-15T19:40:36Z",
+      "additions": 64,
+      "deletions": 26,
+      "changedFiles": 2
+    },
     {
       "number": 46549,
       "title": "fix(zalo): use plugin-sdk export for webhook client IP resolution",
@@ -73,20 +95,23 @@
       "additions": 67,
       "deletions": 15,
       "changedFiles": 3
-    },
-    {
-      "number": 36217,
-      "title": "Security: isolate plugin env/config (#12518)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T13:50:15Z",
-      "mergedAt": null,
-      "additions": 550,
-      "deletions": 2,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [
+    {
+      "number": 49171,
+      "title": "zalo: inbound image messages are dropped because the plugin expects photo instead of photo_url",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T17:45:21Z",
+      "closedAt": null
+    },
+    {
+      "number": 47550,
+      "title": "docs(zalo): align Bot Creator behavior docs with current tested reality",
+      "state": "CLOSED",
+      "createdAt": "2026-03-15T18:03:42Z",
+      "closedAt": "2026-03-15T19:40:37Z"
+    },
     {
       "number": 42725,
       "title": "[Bug]: Discord subagent session inherits incomplete deliveryContext, announce ends in silent ANNOUNCE_SKIP",
@@ -95,8 +120,29 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 49172,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T17:56:34Z"
+    },
+    {
+      "prNumber": 49172,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T17:56:32Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -106,20 +152,24 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
-    "Discussion"
+    "Discussion",
+    "Direct Commits"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {
+    "2026-03-15": 1,
     "2026-03-14": 1
   }
 }

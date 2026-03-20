@@ -1,0 +1,91 @@
+{
+  "username": "supperdsj",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10287320?u=65e4a71be3d8703a666c34a13a9c9bb9a46dee63&v=4",
+  "githubUrl": "https://github.com/supperdsj",
+  "score": {
+    "score": 14.74,
+    "prScore": 9.24,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 40,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-18T09:28:05Z",
+  "lastContribution": "2026-03-18T09:59:46Z",
+  "recentPRs": [
+    {
+      "number": 49710,
+      "title": "fix(discord): return null for empty component specs to prevent media loss",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T09:42:52Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 49703,
+      "title": "[Bug] Discord: empty components forces v2 path, silently drops media attachments",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T09:28:05Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

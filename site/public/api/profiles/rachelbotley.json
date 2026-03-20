@@ -3,25 +3,25 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/268250971?u=caa3ee9ffcd1da8d6dafc4c151c77de8a7dd8988&v=4",
   "githubUrl": "https://github.com/rachelbotley",
   "score": {
-    "score": 37.52,
-    "prScore": 37.52,
+    "score": 61.72,
+    "prScore": 46.72,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 15,
     "commentScore": 0
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 557,
-    "prDeletions": 19,
-    "prChangedFiles": 16,
+    "prAdditions": 673,
+    "prDeletions": 76,
+    "prChangedFiles": 20,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
@@ -33,7 +33,7 @@
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 5,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -42,7 +42,7 @@
     "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 5,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-15T02:11:32Z",
-  "lastContribution": "2026-03-15T02:11:32Z",
+  "lastContribution": "2026-03-15T06:04:26Z",
   "recentPRs": [
     {
       "number": 46737,
@@ -59,22 +59,49 @@
       "merged": false,
       "createdAt": "2026-03-15T02:11:32Z",
       "mergedAt": null,
-      "additions": 557,
-      "deletions": 19,
-      "changedFiles": 16
+      "additions": 673,
+      "deletions": 76,
+      "changedFiles": 20
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 46737,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T06:04:26Z"
+    },
+    {
+      "prNumber": 46737,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T06:04:20Z"
+    },
+    {
+      "prNumber": 46737,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T06:04:15Z"
+    },
+    {
+      "prNumber": 46737,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T06:04:10Z"
+    },
+    {
+      "prNumber": 46737,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T06:04:04Z"
+    }
+  ],
   "recentActivityDays": {
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0
+      "reviews": 5
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review"
   ],
   "achievements": [],
   "recentCommitDays": {}

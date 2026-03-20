@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9350182?u=3208e3ed909a17ca6a4babe064bbe75adbbc853e&v=4",
   "githubUrl": "https://github.com/codexGW",
   "score": {
-    "score": 22.3,
-    "prScore": 16.8,
+    "score": 31.03,
+    "prScore": 25.53,
     "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 140,
-    "prDeletions": 2,
-    "prChangedFiles": 4,
+    "prAdditions": 147,
+    "prDeletions": 5,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
@@ -31,8 +31,8 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 2,
+      "issues": 0,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
       "comments": 1,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-08T22:44:41Z",
-  "lastContribution": "2026-03-13T14:05:00Z",
+  "lastContribution": "2026-03-19T00:44:16Z",
   "recentPRs": [
+    {
+      "number": 50046,
+      "title": "fix(discord): add WebSocket handshake timeout to prevent stuck reconnects",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T22:14:11Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 3,
+      "changedFiles": 1
+    },
     {
       "number": 45161,
       "title": "fix(discord): retry outbound sends on transient network errors",
@@ -75,6 +86,11 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,

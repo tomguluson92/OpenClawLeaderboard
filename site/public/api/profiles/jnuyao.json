@@ -3,25 +3,25 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2928523?u=3ceceed3638a3a4f2663336fce784aeb10657bca&v=4",
   "githubUrl": "https://github.com/jnuyao",
   "score": {
-    "score": 67.02,
-    "prScore": 62.02,
+    "score": 93.24,
+    "prScore": 85.24,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 3,
     "commentScore": 5
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 6,
-    "prsMerged": 0,
-    "prAdditions": 402,
-    "prDeletions": 28,
-    "prChangedFiles": 11,
-    "prMergeRate": 0,
+    "prs": 8,
+    "prsMerged": 1,
+    "prAdditions": 485,
+    "prDeletions": 31,
+    "prChangedFiles": 14,
+    "prMergeRate": 13,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 10,
@@ -31,18 +31,18 @@
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 8,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 1,
       "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 8,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 1,
       "comments": 10,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -50,8 +50,30 @@
     }
   },
   "firstContribution": "2026-03-13T09:02:33Z",
-  "lastContribution": "2026-03-14T10:01:05Z",
+  "lastContribution": "2026-03-16T17:59:17Z",
   "recentPRs": [
+    {
+      "number": 48410,
+      "title": "fix(ui): prevent marked from auto-linking adjacent CJK characters",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T17:59:17Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 48394,
+      "title": "fix(feishu): ensure spatial boundaries for parsed rich text links and mentions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T17:21:38Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 3,
+      "changedFiles": 2
+    },
     {
       "number": 45960,
       "title": "fix(feishu): capture unhandled websocket rejections to enable self-healing restarts",
@@ -99,10 +121,10 @@
     {
       "number": 44938,
       "title": "[WebUI] Fix missing auto-refresh for Usage tab",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-13T09:37:44Z",
-      "mergedAt": null,
+      "mergedAt": "2026-03-16T11:28:49Z",
       "additions": 3,
       "deletions": 0,
       "changedFiles": 1
@@ -120,8 +142,19 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 48394,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T17:38:07Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
@@ -135,6 +168,7 @@
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion"
   ],
   "achievements": [],

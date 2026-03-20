@@ -1,0 +1,99 @@
+{
+  "username": "moe-tech-dev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/214390365?v=4",
+  "githubUrl": "https://github.com/moe-tech-dev",
+  "score": {
+    "score": 33.95,
+    "prScore": 30.95,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 246,
+    "prDeletions": 37,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-16T17:09:02Z",
+  "lastContribution": "2026-03-16T17:43:12Z",
+  "recentPRs": [
+    {
+      "number": 48391,
+      "title": "cron: add running-state fields without mutating last completed status",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T17:15:00Z",
+      "mergedAt": null,
+      "additions": 236,
+      "deletions": 34,
+      "changedFiles": 8
+    },
+    {
+      "number": 48387,
+      "title": "whatsapp: stop gating explicit outbound targets on allowFrom",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T17:09:02Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 3,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 48391,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T17:43:12Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

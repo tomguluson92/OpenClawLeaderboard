@@ -3,23 +3,23 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17689793?u=57df5277948babbb030224d3e441520ff10437fc&v=4",
   "githubUrl": "https://github.com/liangchaoboy",
   "score": {
-    "score": 158.88,
-    "prScore": 147.88,
-    "issueScore": 10,
+    "score": 56.37,
+    "prScore": 50.37,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 2949,
-    "prDeletions": 7,
-    "prChangedFiles": 74,
+    "prAdditions": 972,
+    "prDeletions": 4,
+    "prChangedFiles": 21,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,6 +31,15 @@
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 0,
@@ -38,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 4,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T08:38:59Z",
+  "firstContribution": "2026-03-09T10:19:36Z",
   "lastContribution": "2026-03-09T10:29:07Z",
   "recentPRs": [
     {
@@ -62,39 +62,6 @@
       "additions": 972,
       "deletions": 4,
       "changedFiles": 21
-    },
-    {
-      "number": 35880,
-      "title": "fix: add memory check at gateway startup",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T09:55:53Z",
-      "mergedAt": null,
-      "additions": 881,
-      "deletions": 1,
-      "changedFiles": 19
-    },
-    {
-      "number": 35811,
-      "title": "fix: add memory check at gateway startup (#35773)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T09:07:27Z",
-      "mergedAt": null,
-      "additions": 831,
-      "deletions": 1,
-      "changedFiles": 19
-    },
-    {
-      "number": 35798,
-      "title": "feat(feishu): improve permission error messages with helpful hints",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T08:57:03Z",
-      "mergedAt": null,
-      "additions": 265,
-      "deletions": 1,
-      "changedFiles": 15
     }
   ],
   "recentIssues": [
@@ -104,24 +71,12 @@
       "state": "OPEN",
       "createdAt": "2026-03-09T10:19:36Z",
       "closedAt": null
-    },
-    {
-      "number": 35773,
-      "title": "Out of memory: Process killed with no error message",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T08:38:59Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 3,
       "issues": 1,
       "reviews": 0
     }

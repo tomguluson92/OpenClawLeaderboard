@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/26759948?u=3148d55e949750f74012d85f674a44f3922ae895&v=4",
   "githubUrl": "https://github.com/techfitmaster",
   "score": {
-    "score": 76.08,
-    "prScore": 69.58,
+    "score": 178.29,
+    "prScore": 171.79,
     "issueScore": 0,
     "reviewScore": 6,
     "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Maintainer",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 807,
-    "prDeletions": 73,
-    "prChangedFiles": 17,
+    "prAdditions": 2893,
+    "prDeletions": 330,
+    "prChangedFiles": 42,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 8,
       "issues": 0,
       "reviews": 2,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 10,
       "issues": 0,
       "reviews": 2,
       "comments": 1,
@@ -50,8 +50,63 @@
     }
   },
   "firstContribution": "2026-03-08T03:59:34Z",
-  "lastContribution": "2026-03-15T02:13:40Z",
+  "lastContribution": "2026-03-20T02:31:55Z",
   "recentPRs": [
+    {
+      "number": 50767,
+      "title": "fix: use correct defaultProvider in buildAllowedModelSet for /model command",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T02:31:55Z",
+      "mergedAt": null,
+      "additions": 242,
+      "deletions": 23,
+      "changedFiles": 6
+    },
+    {
+      "number": 50142,
+      "title": "fix: strip orphaned tool_use blocks before sending to Anthropic API",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T02:28:22Z",
+      "mergedAt": null,
+      "additions": 347,
+      "deletions": 16,
+      "changedFiles": 5
+    },
+    {
+      "number": 49534,
+      "title": "fix: guard ANTHROPIC_MODEL_ALIASES initialization to prevent ReferenceError crash",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T06:26:56Z",
+      "mergedAt": null,
+      "additions": 278,
+      "deletions": 22,
+      "changedFiles": 5
+    },
+    {
+      "number": 48666,
+      "title": "fix: restore full agent list in webchat dropdown after session switch",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T02:42:59Z",
+      "mergedAt": null,
+      "additions": 970,
+      "deletions": 181,
+      "changedFiles": 5
+    },
+    {
+      "number": 47776,
+      "title": "fix: kill orphan child processes when gateway is force-killed",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T02:16:28Z",
+      "mergedAt": null,
+      "additions": 249,
+      "deletions": 15,
+      "changedFiles": 4
+    },
     {
       "number": 46738,
       "title": "fix: pass Anthropic cache control TTL through Cloudflare AI Gateway",
@@ -122,6 +177,31 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
@@ -143,6 +223,12 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
   "recentCommitDays": {}
 }

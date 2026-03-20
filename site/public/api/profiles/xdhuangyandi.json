@@ -1,0 +1,120 @@
+{
+  "username": "xdhuangyandi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47098952?v=4",
+  "githubUrl": "https://github.com/xdhuangyandi",
+  "score": {
+    "score": 32.58,
+    "prScore": 17.08,
+    "issueScore": 0,
+    "reviewScore": 15,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 132,
+    "prDeletions": 37,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-18T06:43:33Z",
+  "lastContribution": "2026-03-18T11:50:41Z",
+  "recentPRs": [
+    {
+      "number": 49575,
+      "title": "fix: use per-client seq in gateway broadcaster to prevent false event gap warnings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T07:36:18Z",
+      "mergedAt": null,
+      "additions": 111,
+      "deletions": 22,
+      "changedFiles": 1
+    },
+    {
+      "number": 49540,
+      "title": "fix: use per-client seq in gateway broadcaster to prevent false event gap warnings",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T06:43:33Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 15,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 49575,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:58:07Z"
+    },
+    {
+      "prNumber": 49575,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:41:48Z"
+    },
+    {
+      "prNumber": 49575,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:19:06Z"
+    },
+    {
+      "prNumber": 49575,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:17:50Z"
+    },
+    {
+      "prNumber": 49575,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:02:29Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

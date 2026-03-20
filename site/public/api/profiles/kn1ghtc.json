@@ -1,0 +1,103 @@
+{
+  "username": "kn1ghtc",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2888992?v=4",
+  "githubUrl": "https://github.com/kn1ghtc",
+  "score": {
+    "score": 25.29,
+    "prScore": 25.29,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 115,
+    "prDeletions": 2,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-16T10:24:44Z",
+  "lastContribution": "2026-03-16T10:51:58Z",
+  "recentPRs": [
+    {
+      "number": 48149,
+      "title": "security: prevent requester self-approval in exec.approval.resolve",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T10:51:58Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 48134,
+      "title": "security(openshell): prevent host environment variable leakage to SSH subprocesses",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T10:25:07Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 48133,
+      "title": "security(firecrawl): validate scraped URL to prevent SSRF + cap cache size",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T10:24:44Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

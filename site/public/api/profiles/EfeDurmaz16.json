@@ -1,0 +1,186 @@
+{
+  "username": "EfeDurmaz16",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/75971010?u=6004669eda75b22ce80a52ef0e734eeea5f2bdd8&v=4",
+  "githubUrl": "https://github.com/EfeDurmaz16",
+  "score": {
+    "score": 108.26,
+    "prScore": 108.26,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 10,
+    "prsMerged": 0,
+    "prAdditions": 803,
+    "prDeletions": 18,
+    "prChangedFiles": 19,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T12:36:45Z",
+  "lastContribution": "2026-03-15T14:48:54Z",
+  "recentPRs": [
+    {
+      "number": 47407,
+      "title": "fix(cron): warn when cron edit --model is not in allowlist",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:48:54Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 47405,
+      "title": "fix(gateway): classify SQLite transient errors as non-fatal",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:45:46Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 47400,
+      "title": "fix(hooks): append session memory to canonical daily file",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:42:20Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 47379,
+      "title": "fix(status): show configured fallback models in /status output",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:11:53Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 47365,
+      "title": "fix(logs): default to local timezone for log timestamps",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T13:57:51Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 47362,
+      "title": "fix(slack): check interactiveReplies capability for inline buttons prompt",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T13:53:33Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 47327,
+      "title": "fix(skills): surface SKILL.md parse errors instead of silently dropping",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T13:05:24Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 47322,
+      "title": "fix(config): preserve $schema field across config rewrites",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T12:56:13Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 47318,
+      "title": "fix(config): warn when config set receives an invalid model identifier",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T12:51:49Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 47302,
+      "title": "feat(doctor): add --check-config for deep config validation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T12:36:45Z",
+      "mergedAt": null,
+      "additions": 546,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 10,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
+}

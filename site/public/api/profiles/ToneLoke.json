@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10687151?u=121a31564b161fdb2ca1f0f27d1be0a26674913b&v=4",
   "githubUrl": "https://github.com/ToneLoke",
   "score": {
-    "score": 68.81,
-    "prScore": 40.81,
-    "issueScore": 28,
+    "score": 92.04,
+    "prScore": 87.04,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -13,14 +13,14 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 197,
-    "prDeletions": 10,
-    "prChangedFiles": 8,
+    "prAdditions": 889,
+    "prDeletions": 30,
+    "prChangedFiles": 22,
     "prMergeRate": 0,
-    "issues": 5,
-    "issuesClosed": 1,
+    "issues": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,8 +40,8 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
-      "issues": 5,
+      "prs": 6,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -49,9 +49,31 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T17:37:20Z",
-  "lastContribution": "2026-03-14T05:27:20Z",
+  "firstContribution": "2026-03-08T00:53:58Z",
+  "lastContribution": "2026-03-18T07:31:29Z",
   "recentPRs": [
+    {
+      "number": 49571,
+      "title": "fix(tui): include modelOverride and providerOverride in sessions.list response",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T07:31:29Z",
+      "mergedAt": null,
+      "additions": 475,
+      "deletions": 15,
+      "changedFiles": 12
+    },
+    {
+      "number": 49485,
+      "title": "fix(tui): prioritize modelOverride over runtime model in status bar",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T05:10:49Z",
+      "mergedAt": null,
+      "additions": 217,
+      "deletions": 5,
+      "changedFiles": 2
+    },
     {
       "number": 45763,
       "title": "feat(agents): structured FallbackSummaryError with human-friendly rate limit messages",
@@ -104,38 +126,15 @@
       "state": "OPEN",
       "createdAt": "2026-03-08T00:53:58Z",
       "closedAt": null
-    },
-    {
-      "number": 36404,
-      "title": "Discord health-monitor restart storm: 'disconnected' classified as 'stuck', no reconnect config parity with WhatsApp",
-      "state": "CLOSED",
-      "createdAt": "2026-03-05T16:08:59Z",
-      "closedAt": "2026-03-08T02:02:20Z"
-    },
-    {
-      "number": 35764,
-      "title": "Feature: Cross-channel mention forwarding — notify designated channel when agent is @mentioned",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T08:32:22Z",
-      "closedAt": null
-    },
-    {
-      "number": 35160,
-      "title": "fix: OpenAI/Codex server_error not recognized as retryable — model fallback skipped",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T01:23:10Z",
-      "closedAt": null
-    },
-    {
-      "number": 33320,
-      "title": "Binary file attachments (.msg, .zip, etc.) injected as raw text into prompt context",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T17:37:20Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 4,
       "issues": 0,
@@ -145,28 +144,12 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 0,
-      "issues": 3,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Issue Reporting"
   ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {}
 }

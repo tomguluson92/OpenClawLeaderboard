@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/131782913?v=4",
   "githubUrl": "https://github.com/iteemoo6",
   "score": {
-    "score": 9.9,
-    "prScore": 9.9,
+    "score": 18.56,
+    "prScore": 18.56,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 46,
-    "prDeletions": 79,
-    "prChangedFiles": 2,
+    "prAdditions": 65,
+    "prDeletions": 92,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-12T03:28:52Z",
-  "lastContribution": "2026-03-12T03:28:52Z",
+  "lastContribution": "2026-03-18T03:43:13Z",
   "recentPRs": [
+    {
+      "number": 49423,
+      "title": "fix: use async fs APIs in export-session command",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T03:43:13Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 13,
+      "changedFiles": 1
+    },
     {
       "number": 43634,
       "title": "fix: restore export-html template placeholders and prevent reformatting",
@@ -67,6 +78,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,

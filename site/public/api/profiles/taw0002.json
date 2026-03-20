@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/42811278?u=50f619e13dbe9f74094ef28d6bc6f45a0856551e&v=4",
   "githubUrl": "https://github.com/taw0002",
   "score": {
-    "score": 168.45,
-    "prScore": 167.95,
+    "score": 135.8,
+    "prScore": 135.3,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,12 +13,12 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 10,
-    "prsMerged": 1,
-    "prAdditions": 955,
-    "prDeletions": 26,
-    "prChangedFiles": 31,
-    "prMergeRate": 10,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 875,
+    "prDeletions": 22,
+    "prChangedFiles": 24,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 10,
+      "prs": 8,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -49,7 +49,7 @@
       "commits": 3
     }
   },
-  "firstContribution": "2026-03-05T15:06:28Z",
+  "firstContribution": "2026-03-06T15:10:56Z",
   "lastContribution": "2026-03-12T14:06:13Z",
   "recentPRs": [
     {
@@ -139,28 +139,6 @@
       "additions": 117,
       "deletions": 1,
       "changedFiles": 4
-    },
-    {
-      "number": 36319,
-      "title": "fix(skill-creator): broaden description to trigger on edit/refactor tasks (#36039)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T15:08:35Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 2,
-      "changedFiles": 1
-    },
-    {
-      "number": 36316,
-      "title": "fix: strip skill-injected env vars from ACP harness spawn env (#36280)",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T15:06:28Z",
-      "mergedAt": "2026-03-06T23:18:13Z",
-      "additions": 76,
-      "deletions": 2,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [],
@@ -185,24 +163,13 @@
       "prs": 4,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {
     "2026-03-06": 1,
     "2026-02-26": 1,

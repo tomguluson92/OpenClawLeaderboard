@@ -1,0 +1,161 @@
+{
+  "username": "Kemalau",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/188348039?u=279bf338c14747e2fe5c95351db457449488e1af&v=4",
+  "githubUrl": "https://github.com/Kemalau",
+  "score": {
+    "score": 162.69,
+    "prScore": 162.19,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 971,
+    "prDeletions": 160,
+    "prChangedFiles": 50,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 45,
+    "commitDeletions": 10,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 45,
+      "commitDeletions": 10,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-16T13:46:37Z",
+  "lastContribution": "2026-03-16T19:09:19Z",
+  "recentPRs": [
+    {
+      "number": 48448,
+      "title": "fix(ui): show provider name for qualified model ids",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T19:09:19Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 48268,
+      "title": "fix(ui): use current context usage in chat notice",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T14:20:37Z",
+      "mergedAt": null,
+      "additions": 143,
+      "deletions": 40,
+      "changedFiles": 11
+    },
+    {
+      "number": 48263,
+      "title": "fix(ui): preserve qualified model ids in chat selector",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T14:15:54Z",
+      "mergedAt": null,
+      "additions": 138,
+      "deletions": 64,
+      "changedFiles": 12
+    },
+    {
+      "number": 48261,
+      "title": "fix(ui): preserve qualified model ids in chat picker",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T14:15:01Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 20,
+      "changedFiles": 7
+    },
+    {
+      "number": 48251,
+      "title": "fix(plugins): normalize renamed plugin id hints",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T13:59:33Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 48247,
+      "title": "fix(plugins): normalize renamed web search plugin ids",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T13:55:21Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 27,
+      "changedFiles": 4
+    },
+    {
+      "number": 48246,
+      "title": "test(cron): cover main-session cron events with empty heartbeat",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T13:54:31Z",
+      "mergedAt": null,
+      "additions": 294,
+      "deletions": 3,
+      "changedFiles": 5
+    },
+    {
+      "number": 48242,
+      "title": "test(cron): cover main-session cron events with empty heartbeat",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T13:46:37Z",
+      "mergedAt": null,
+      "additions": 188,
+      "deletions": 1,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-23": 1
+  }
+}

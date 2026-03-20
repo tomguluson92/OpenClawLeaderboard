@@ -3,25 +3,25 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7755017?v=4",
   "githubUrl": "https://github.com/hclsys",
   "score": {
-    "score": 336.06,
-    "prScore": 323.56,
+    "score": 395.53,
+    "prScore": 389.03,
     "issueScore": 0,
-    "reviewScore": 9,
+    "reviewScore": 3,
     "commentScore": 3.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 4,
-    "prs": 28,
+    "prs": 37,
     "prsMerged": 0,
-    "prAdditions": 769,
-    "prDeletions": 372,
-    "prChangedFiles": 52,
+    "prAdditions": 945,
+    "prDeletions": 429,
+    "prChangedFiles": 53,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 3,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 7,
@@ -31,31 +31,185 @@
   },
   "period": {
     "weekly": {
-      "prs": 23,
+      "prs": 18,
       "issues": 0,
-      "reviews": 0,
-      "comments": 2,
+      "reviews": 1,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 28,
+      "prs": 37,
       "issues": 0,
-      "reviews": 3,
+      "reviews": 1,
       "comments": 7,
       "commitAdditions": 110,
       "commitDeletions": 23,
       "commits": 4
     }
   },
-  "firstContribution": "2026-03-03T23:04:00Z",
-  "lastContribution": "2026-03-14T23:20:16Z",
+  "firstContribution": "2026-03-09T23:27:27Z",
+  "lastContribution": "2026-03-20T05:13:51Z",
   "recentPRs": [
+    {
+      "number": 50853,
+      "title": "fix(telegram): prevent silent wrong-bot routing when accountId not in config",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T05:13:19Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 50852,
+      "title": "fix(azure): include azure-openai-responses in reasoning block downgrade",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T05:12:01Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 49663,
+      "title": "fix(telegram): prevent silent wrong-bot routing when accountId not in config",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T08:45:00Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 49304,
+      "title": "fix(memory): add gemini-embedding-001 to GEMINI_MAX_INPUT_TOKENS",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T23:20:31Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 49302,
+      "title": "fix(memory): add voyage-4-large to VOYAGE_MAX_INPUT_TOKENS",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T23:19:36Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 49301,
+      "title": "fix(azure): include azure-openai-responses in reasoning block downgrade",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T23:18:51Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 48882,
+      "title": "fix(mattermost): add fetch timeout to file upload",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T09:08:06Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 7,
+      "changedFiles": 1
+    },
+    {
+      "number": 48881,
+      "title": "fix(image-gen): add fetch timeout to OpenAI image generation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T09:07:02Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 13,
+      "changedFiles": 1
+    },
+    {
+      "number": 48542,
+      "title": "fix(nextcloud-talk): add fetch timeout to message and reaction sends",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T22:55:02Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 20,
+      "changedFiles": 1
+    },
+    {
+      "number": 48541,
+      "title": "fix(googlechat): add fetch timeout to certificate verification endpoint",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T22:54:16Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 47861,
+      "title": "fix(qwen-portal): add fetch timeout to OAuth device-code and token flows",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T03:55:03Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 42,
+      "changedFiles": 2
+    },
+    {
+      "number": 47860,
+      "title": "fix(msteams): add fetch timeout to Microsoft Graph API calls",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T03:53:43Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 6,
+      "changedFiles": 1
+    },
+    {
+      "number": 47704,
+      "title": "fix(github-copilot): add fetch timeout to device-code and token-poll requests",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T00:13:06Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 16,
+      "changedFiles": 1
+    },
+    {
+      "number": 47703,
+      "title": "fix(minimax-vlm): add fetch timeout to VLM image analysis call",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T00:13:03Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 12,
+      "changedFiles": 1
+    },
     {
       "number": 46644,
       "title": "fix(pdf): add fetch timeout to Anthropic and Gemini PDF analysis calls",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T23:20:16Z",
       "mergedAt": null,
@@ -66,7 +220,7 @@
     {
       "number": 46643,
       "title": "fix(skills): log warning when skills are truncated due to prompt limits",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T23:20:12Z",
       "mergedAt": null,
@@ -77,7 +231,7 @@
     {
       "number": 45534,
       "title": "fix(voice-call): add fetch timeout to Twilio API and OpenAI TTS calls",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T23:40:08Z",
       "mergedAt": null,
@@ -99,7 +253,7 @@
     {
       "number": 44469,
       "title": "fix(feishu): guard response.code checks against undefined in docx operations",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T00:11:38Z",
       "mergedAt": null,
@@ -110,188 +264,44 @@
     {
       "number": 44466,
       "title": "fix(talk-voice): add fetch timeout to ElevenLabs voices API call",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T00:06:41Z",
       "mergedAt": null,
       "additions": 14,
       "deletions": 5,
       "changedFiles": 1
-    },
-    {
-      "number": 44465,
-      "title": "fix(discord): add fetch timeout to voice message upload and webhook send",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-13T00:06:40Z",
-      "mergedAt": null,
-      "additions": 45,
-      "deletions": 26,
-      "changedFiles": 2
-    },
-    {
-      "number": 44464,
-      "title": "fix(feishu): guard response.code checks against undefined in docx operations",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T00:06:38Z",
-      "mergedAt": null,
-      "additions": 27,
-      "deletions": 27,
-      "changedFiles": 3
-    },
-    {
-      "number": 43538,
-      "title": "fix(feishu): guard response.code in docx table operations",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-12T00:07:40Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 5,
-      "changedFiles": 1
-    },
-    {
-      "number": 43537,
-      "title": "fix(pdf): add fetch timeout to Anthropic and Gemini PDF analysis",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-12T00:07:35Z",
-      "mergedAt": null,
-      "additions": 57,
-      "deletions": 23,
-      "changedFiles": 1
-    },
-    {
-      "number": 43536,
-      "title": "fix(minimax-vlm): add fetch timeout to VLM image analysis request",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-12T00:07:29Z",
-      "mergedAt": null,
-      "additions": 32,
-      "deletions": 13,
-      "changedFiles": 1
-    },
-    {
-      "number": 42724,
-      "title": "fix(feishu): guard response.code checks against undefined in wiki operations",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-11T03:09:43Z",
-      "mergedAt": null,
-      "additions": 6,
-      "deletions": 6,
-      "changedFiles": 1
-    },
-    {
-      "number": 42720,
-      "title": "fix(web-search): strip /chat/completions from baseUrl to prevent path doubling",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-11T03:05:02Z",
-      "mergedAt": null,
-      "additions": 49,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 42563,
-      "title": "fix(qwen-portal-auth,minimax-portal-auth): add fetch timeout to OAuth calls",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-10T23:12:08Z",
-      "mergedAt": null,
-      "additions": 92,
-      "deletions": 56,
-      "changedFiles": 2
-    },
-    {
-      "number": 42561,
-      "title": "fix(voice-call): add fetch timeout to OpenAI TTS request",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-10T23:10:17Z",
-      "mergedAt": null,
-      "additions": 28,
-      "deletions": 10,
-      "changedFiles": 1
-    },
-    {
-      "number": 42560,
-      "title": "fix(matrix): add fetch timeout to directory-live API helper",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-10T23:09:26Z",
-      "mergedAt": null,
-      "additions": 23,
-      "deletions": 12,
-      "changedFiles": 1
-    },
-    {
-      "number": 42559,
-      "title": "fix(mattermost): add fetch timeout to file upload",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-10T23:08:38Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 7,
-      "changedFiles": 1
-    },
-    {
-      "number": 42558,
-      "title": "fix(msteams): add fetch timeout to Microsoft Graph API call",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-10T23:07:39Z",
-      "mergedAt": null,
-      "additions": 14,
-      "deletions": 6,
-      "changedFiles": 1
-    },
-    {
-      "number": 41535,
-      "title": "fix(nextcloud-talk): add fetch timeout to send and reaction POST calls",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T23:45:04Z",
-      "mergedAt": null,
-      "additions": 36,
-      "deletions": 20,
-      "changedFiles": 1
-    },
-    {
-      "number": 41534,
-      "title": "fix(googlechat,talk-voice): add fetch timeout to external HTTP calls",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T23:44:03Z",
-      "mergedAt": null,
-      "additions": 18,
-      "deletions": 3,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [
     {
-      "prNumber": 37044,
+      "prNumber": 49663,
       "state": "COMMENTED",
-      "createdAt": "2026-03-06T03:27:28Z"
-    },
-    {
-      "prNumber": 37043,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T03:11:35Z"
-    },
-    {
-      "prNumber": 37018,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T03:11:11Z"
+      "createdAt": "2026-03-18T08:52:33Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-17": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
@@ -319,16 +329,6 @@
     },
     "2026-03-09": {
       "prs": 5,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 3
-    },
-    "2026-03-04": {
-      "prs": 1,
       "issues": 0,
       "reviews": 0
     }

@@ -1,0 +1,208 @@
+{
+  "username": "xiwuqi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64734786?u=552e45277e66ed002ee27159c9c031822d391c9a&v=4",
+  "githubUrl": "https://github.com/xiwuqi",
+  "score": {
+    "score": 168.37,
+    "prScore": 166.87,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 11,
+    "prsMerged": 0,
+    "prAdditions": 2032,
+    "prDeletions": 134,
+    "prChangedFiles": 39,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-18T06:44:58Z",
+  "lastContribution": "2026-03-20T08:34:43Z",
+  "recentPRs": [
+    {
+      "number": 50938,
+      "title": "fix(telegram): emit sent hooks for preview finals",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T08:34:43Z",
+      "mergedAt": null,
+      "additions": 128,
+      "deletions": 11,
+      "changedFiles": 5
+    },
+    {
+      "number": 50240,
+      "title": "fix: fall back on loopback pairing handshake closes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T05:27:19Z",
+      "mergedAt": null,
+      "additions": 331,
+      "deletions": 10,
+      "changedFiles": 4
+    },
+    {
+      "number": 50216,
+      "title": "fix: keep control ui model refs canonical",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T04:52:09Z",
+      "mergedAt": null,
+      "additions": 115,
+      "deletions": 2,
+      "changedFiles": 5
+    },
+    {
+      "number": 50045,
+      "title": "fix: restore streaming usage for openai-compatible providers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T22:13:10Z",
+      "mergedAt": null,
+      "additions": 279,
+      "deletions": 17,
+      "changedFiles": 2
+    },
+    {
+      "number": 50028,
+      "title": "fix: classify invalid-model fallback errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T21:24:32Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 50014,
+      "title": "fix: let google-vertex fall back to ADC auth",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T20:39:23Z",
+      "mergedAt": null,
+      "additions": 195,
+      "deletions": 33,
+      "changedFiles": 4
+    },
+    {
+      "number": 49984,
+      "title": "fix: stop forwarding local cwd to node hosts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T19:14:33Z",
+      "mergedAt": null,
+      "additions": 93,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 49759,
+      "title": "fix: stop forwarding local cwd to node hosts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T11:13:18Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 49715,
+      "title": "fix: keep slack block streaming replies in thread",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T09:49:01Z",
+      "mergedAt": null,
+      "additions": 228,
+      "deletions": 19,
+      "changedFiles": 4
+    },
+    {
+      "number": 49566,
+      "title": "fix: normalize same-provider embedded model refs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T07:26:24Z",
+      "mergedAt": null,
+      "additions": 464,
+      "deletions": 29,
+      "changedFiles": 3
+    },
+    {
+      "number": 49541,
+      "title": "fix: normalize same-provider embedded model refs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T06:44:58Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 4,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
+  "recentCommitDays": {}
+}

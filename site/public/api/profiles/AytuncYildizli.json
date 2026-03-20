@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/47717026?v=4",
   "githubUrl": "https://github.com/AytuncYildizli",
   "score": {
-    "score": 329.67,
-    "prScore": 257.67,
-    "issueScore": 43,
-    "reviewScore": 18,
-    "commentScore": 11
+    "score": 181.2,
+    "prScore": 171.7,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 0.5
   },
-  "tier": "active",
-  "characterClass": "Contributor",
+  "tier": "regular",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 4,
-    "prs": 12,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 4708,
-    "prDeletions": 22702,
-    "prChangedFiles": 853,
+    "prAdditions": 1539,
+    "prDeletions": 552,
+    "prChangedFiles": 37,
     "prMergeRate": 0,
-    "issues": 8,
-    "issuesClosed": 1,
-    "reviews": 6,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 22,
+    "comments": 1,
     "commitAdditions": 667,
     "commitDeletions": 45,
     "commitChangedFiles": 12
@@ -33,25 +33,36 @@
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 3,
-      "comments": 0,
+      "reviews": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 12,
-      "issues": 8,
-      "reviews": 6,
-      "comments": 22,
+      "prs": 5,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 1,
       "commitAdditions": 667,
       "commitDeletions": 45,
       "commits": 5
     }
   },
-  "firstContribution": "2026-03-03T05:22:31Z",
-  "lastContribution": "2026-03-08T08:34:47Z",
+  "firstContribution": "2026-03-06T17:52:06Z",
+  "lastContribution": "2026-03-17T12:38:42Z",
   "recentPRs": [
+    {
+      "number": 48994,
+      "title": "fix(whatsapp): refresh rotated QR refs and preserve pair flow across 515 restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T12:28:29Z",
+      "mergedAt": null,
+      "additions": 979,
+      "deletions": 523,
+      "changedFiles": 26
+    },
     {
       "number": 39624,
       "title": "fix: harden macOS update restart recovery",
@@ -95,154 +106,9 @@
       "additions": 94,
       "deletions": 9,
       "changedFiles": 2
-    },
-    {
-      "number": 36569,
-      "title": "docs(cron): propose persisted run-record + morning handoff MVP",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T18:30:58Z",
-      "mergedAt": null,
-      "additions": 96,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 35188,
-      "title": "fix(gateway): keep hook announce summaries in target session lane",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T01:39:40Z",
-      "mergedAt": null,
-      "additions": 157,
-      "deletions": 33,
-      "changedFiles": 7
-    },
-    {
-      "number": 35089,
-      "title": "fix(subagents): enforce target model lock on spawn override",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T00:16:31Z",
-      "mergedAt": null,
-      "additions": 116,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 35082,
-      "title": "fix(gateway): keep hook announce summaries in target session lane",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T00:08:16Z",
-      "mergedAt": null,
-      "additions": 2842,
-      "deletions": 22595,
-      "changedFiles": 801
-    },
-    {
-      "number": 35012,
-      "title": "fix(gateway): harden Gemini CLI OAuth loadCodeAssist handling",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T21:40:01Z",
-      "mergedAt": null,
-      "additions": 433,
-      "deletions": 26,
-      "changedFiles": 6
-    },
-    {
-      "number": 34643,
-      "title": "fix(gateway): resolve unique provider model shorthand in sessions.patch",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T15:55:08Z",
-      "mergedAt": null,
-      "additions": 190,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 34349,
-      "title": "feat(session): gateway-level liveness triggers (fixes #34506)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T11:20:50Z",
-      "mergedAt": null,
-      "additions": 120,
-      "deletions": 7,
-      "changedFiles": 7
-    },
-    {
-      "number": 34348,
-      "title": "feat(tts): per-agent TTS voice configuration",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T11:20:44Z",
-      "mergedAt": null,
-      "additions": 194,
-      "deletions": 9,
-      "changedFiles": 14
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38259,
-      "title": "dotenv loader does not expand env references in .env files",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T18:24:40Z",
-      "closedAt": null
-    },
-    {
-      "number": 35083,
-      "title": "hooks/agent: keep summaries in requested session and use hook lane tag",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T00:09:53Z",
-      "closedAt": null
-    },
-    {
-      "number": 34642,
-      "title": "sessions.patch rejects unique provider-scoped model shorthand (e.g. nvidia/kimi)",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T15:54:54Z",
-      "closedAt": null
-    },
-    {
-      "number": 34506,
-      "title": "feat: gateway-level liveness triggers",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T13:59:43Z",
-      "closedAt": null
-    },
-    {
-      "number": 33593,
-      "title": "RFC: ACP Fleet Agent Integration (4-Phase Plan)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-03T22:56:41Z",
-      "closedAt": "2026-03-03T23:00:09Z"
-    },
-    {
-      "number": 33587,
-      "title": "feat: Codex (openai-codex-responses) embedded runner should support tool calls",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T22:52:28Z",
-      "closedAt": null
-    },
-    {
-      "number": 33584,
-      "title": "RFC: ACP Fleet Agent Integration — Persona, Context & State Bridging",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T22:49:54Z",
-      "closedAt": null
-    },
-    {
-      "number": 32598,
-      "title": "Feature: Gateway-level liveness check — instant agent status without waiting for LLM turn",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T05:22:31Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 39624,
@@ -258,24 +124,14 @@
       "prNumber": 39624,
       "state": "COMMENTED",
       "createdAt": "2026-03-08T08:34:47Z"
-    },
-    {
-      "prNumber": 35188,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T01:52:49Z"
-    },
-    {
-      "prNumber": 35012,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T01:52:49Z"
-    },
-    {
-      "prNumber": 34349,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T14:02:14Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
@@ -283,55 +139,17 @@
     },
     "2026-03-06": {
       "prs": 3,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 4,
-      "issues": 1,
-      "reviews": 2
-    },
-    "2026-03-04": {
-      "prs": 4,
-      "issues": 2,
-      "reviews": 1
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 4,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
+    "Direct Commits"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {
     "2026-03-03": 1,
     "2026-03-02": 3,

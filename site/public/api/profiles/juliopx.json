@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8511990?u=9c9cd1ff877794d17af4752151d92aa5229e13f2&v=4",
   "githubUrl": "https://github.com/juliopx",
   "score": {
-    "score": 146.73,
-    "prScore": 146.73,
+    "score": 215.61,
+    "prScore": 215.61,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 10104,
-    "prDeletions": 1005,
-    "prChangedFiles": 119,
+    "prAdditions": 522441,
+    "prDeletions": 164921,
+    "prChangedFiles": 5702,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-14T11:53:03Z",
-  "lastContribution": "2026-03-14T11:53:03Z",
+  "lastContribution": "2026-03-19T11:43:44Z",
   "recentPRs": [
+    {
+      "number": 50400,
+      "title": "merge: sync upstream v2026.3.13-1",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T11:43:44Z",
+      "mergedAt": null,
+      "additions": 512337,
+      "deletions": 163916,
+      "changedFiles": 5583
+    },
     {
       "number": 46060,
       "title": "feat: per-session KV cache save/restore for local llama.cpp models",
@@ -67,6 +78,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -82,6 +98,11 @@
       "id": "prolific",
       "label": "Prolific Coder",
       "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
     }
   ],
   "recentCommitDays": {}

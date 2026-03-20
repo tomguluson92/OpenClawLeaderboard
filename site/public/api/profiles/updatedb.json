@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12130137?v=4",
   "githubUrl": "https://github.com/updatedb",
   "score": {
-    "score": 10.65,
+    "score": 15.65,
     "prScore": 10.65,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 2,
     "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,8 +31,8 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-10T01:44:41Z",
-  "lastContribution": "2026-03-10T01:44:41Z",
+  "lastContribution": "2026-03-17T06:35:51Z",
   "recentPRs": [
     {
       "number": 41598,
@@ -64,17 +64,31 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 48787,
+      "title": "[Bug]: Token统计显示混乱 - 历史累积值与当前Context使用量混淆",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T06:35:51Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Issue Reporting"
   ],
   "achievements": [],
   "recentCommitDays": {}

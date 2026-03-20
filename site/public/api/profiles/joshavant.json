@@ -3,55 +3,264 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/830519?v=4",
   "githubUrl": "https://github.com/joshavant",
   "score": {
-    "score": 863.78,
-    "prScore": 791.28,
-    "issueScore": 0,
-    "reviewScore": 39,
-    "commentScore": 33.5
+    "score": 1169.76,
+    "prScore": 1035.76,
+    "issueScore": 5,
+    "reviewScore": 99,
+    "commentScore": 30
   },
-  "tier": "veteran",
+  "tier": "elite",
   "characterClass": "Builder",
   "stats": {
-    "commits": 94,
-    "prs": 15,
-    "prsMerged": 14,
-    "prAdditions": 34509,
-    "prDeletions": 8277,
-    "prChangedFiles": 963,
-    "prMergeRate": 93,
-    "issues": 0,
+    "commits": 113,
+    "prs": 31,
+    "prsMerged": 26,
+    "prAdditions": 35305,
+    "prDeletions": 8814,
+    "prChangedFiles": 992,
+    "prMergeRate": 84,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 13,
+    "reviews": 33,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 67,
-    "commitAdditions": 57867,
-    "commitDeletions": 10518,
-    "commitChangedFiles": 1278
+    "comments": 60,
+    "commitAdditions": 66914,
+    "commitDeletions": 11624,
+    "commitChangedFiles": 1482
   },
   "period": {
     "weekly": {
-      "prs": 9,
-      "issues": 0,
-      "reviews": 13,
-      "comments": 36,
-      "commitAdditions": 6973,
-      "commitDeletions": 649,
-      "commits": 11
+      "prs": 20,
+      "issues": 1,
+      "reviews": 20,
+      "comments": 31,
+      "commitAdditions": 9441,
+      "commitDeletions": 1199,
+      "commits": 20
     },
     "monthly": {
-      "prs": 15,
-      "issues": 0,
-      "reviews": 13,
-      "comments": 67,
-      "commitAdditions": 57867,
-      "commitDeletions": 10518,
-      "commits": 94
+      "prs": 31,
+      "issues": 1,
+      "reviews": 33,
+      "comments": 60,
+      "commitAdditions": 66616,
+      "commitDeletions": 11535,
+      "commits": 111
     }
   },
-  "firstContribution": "2026-03-04T06:46:21Z",
-  "lastContribution": "2026-03-14T01:59:29Z",
+  "firstContribution": "2026-03-07T02:10:04Z",
+  "lastContribution": "2026-03-20T02:49:38Z",
   "recentPRs": [
+    {
+      "number": 50782,
+      "title": "Gateway: harden OpenResponses file-context escaping",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T02:49:38Z",
+      "mergedAt": "2026-03-20T03:02:13Z",
+      "additions": 144,
+      "deletions": 26,
+      "changedFiles": 6
+    },
+    {
+      "number": 50695,
+      "title": "Hardening: refresh stale device pairing requests and pending metadata",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-19T23:20:31Z",
+      "mergedAt": "2026-03-19T23:26:06Z",
+      "additions": 452,
+      "deletions": 41,
+      "changedFiles": 19
+    },
+    {
+      "number": 50639,
+      "title": "CLI: prune inactive gateway auth credentials on mode set",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-19T20:55:35Z",
+      "mergedAt": "2026-03-19T21:05:44Z",
+      "additions": 142,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 50167,
+      "title": "Channels: stabilize lane harness and monitor tests",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-19T03:12:17Z",
+      "mergedAt": "2026-03-19T06:47:49Z",
+      "additions": 465,
+      "deletions": 393,
+      "changedFiles": 13
+    },
+    {
+      "number": 50155,
+      "title": "Telegram: stabilize pairing/session/forum routing and reply formatting tests",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-19T02:47:09Z",
+      "mergedAt": "2026-03-19T05:01:14Z",
+      "additions": 860,
+      "deletions": 206,
+      "changedFiles": 27
+    },
+    {
+      "number": 50058,
+      "title": "Stabilize plugin loader and Docker extension smoke",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T22:51:58Z",
+      "mergedAt": "2026-03-19T04:35:33Z",
+      "additions": 491,
+      "deletions": 66,
+      "changedFiles": 7
+    },
+    {
+      "number": 50007,
+      "title": "WhatsApp: stabilize Area 3 inbound monitor and setup tests",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T20:22:05Z",
+      "mergedAt": "2026-03-18T22:08:57Z",
+      "additions": 114,
+      "deletions": 49,
+      "changedFiles": 9
+    },
+    {
+      "number": 49997,
+      "title": "Discord: enforce strict DM component allowlist auth",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T19:49:12Z",
+      "mergedAt": "2026-03-19T01:11:47Z",
+      "additions": 106,
+      "deletions": 18,
+      "changedFiles": 5
+    },
+    {
+      "number": 49995,
+      "title": "Matrix: make onboarding status runtime-safe",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T19:47:00Z",
+      "mergedAt": "2026-03-18T22:33:42Z",
+      "additions": 129,
+      "deletions": 5,
+      "changedFiles": 6
+    },
+    {
+      "number": 49955,
+      "title": "Tests: restore deterministic plugins CLI coverage",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T18:11:47Z",
+      "mergedAt": "2026-03-18T19:05:04Z",
+      "additions": 442,
+      "deletions": 19,
+      "changedFiles": 3
+    },
+    {
+      "number": 49417,
+      "title": "Secrets: gate exec dry-run and preflight resolution behind --allow-exec",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T03:36:01Z",
+      "mergedAt": "2026-03-18T04:24:34Z",
+      "additions": 747,
+      "deletions": 49,
+      "changedFiles": 13
+    },
+    {
+      "number": 49414,
+      "title": "CI: run extension-fast via multipass for channel plugins",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T03:31:33Z",
+      "mergedAt": null,
+      "additions": 527,
+      "deletions": 5,
+      "changedFiles": 6
+    },
+    {
+      "number": 49348,
+      "title": "CI: stabilize extension-fast and publish timing metrics",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T01:40:43Z",
+      "mergedAt": null,
+      "additions": 530,
+      "deletions": 25,
+      "changedFiles": 3
+    },
+    {
+      "number": 49322,
+      "title": "CLI: skip exec SecretRef dry-run resolution unless explicitly allowed",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T00:29:16Z",
+      "mergedAt": "2026-03-18T01:20:11Z",
+      "additions": 495,
+      "deletions": 14,
+      "changedFiles": 7
+    },
+    {
+      "number": 49307,
+      "title": "CLI: follow up config set dry-run review fixes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T23:29:06Z",
+      "mergedAt": null,
+      "additions": 86,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 49296,
+      "title": "CLI: expand config set with SecretRef/provider builders and dry-run",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T23:14:02Z",
+      "mergedAt": "2026-03-17T23:15:49Z",
+      "additions": 2102,
+      "deletions": 32,
+      "changedFiles": 14
+    },
+    {
+      "number": 49240,
+      "title": "Tests: stabilize extension-fast inferable lane harnesses",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T20:50:04Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 84,
+      "changedFiles": 6
+    },
+    {
+      "number": 48728,
+      "title": "fix(secrets): scope message SecretRef resolution and harden doctor/status paths",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T04:18:31Z",
+      "mergedAt": "2026-03-17T05:01:34Z",
+      "additions": 854,
+      "deletions": 76,
+      "changedFiles": 27
+    },
+    {
+      "number": 47794,
+      "title": "secrets: harden read-only SecretRef command paths and diagnostics",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-16T02:19:21Z",
+      "mergedAt": "2026-03-16T02:55:24Z",
+      "additions": 1368,
+      "deletions": 103,
+      "changedFiles": 40
+    },
     {
       "number": 45622,
       "title": "Gateway: treat scope-limited probe RPC as degraded reachability",
@@ -62,231 +271,145 @@
       "additions": 394,
       "deletions": 93,
       "changedFiles": 25
-    },
-    {
-      "number": 43759,
-      "title": "Models: enforce source-managed SecretRef markers in models.json",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-12T06:35:43Z",
-      "mergedAt": "2026-03-12T07:22:52Z",
-      "additions": 390,
-      "deletions": 23,
-      "changedFiles": 10
-    },
-    {
-      "number": 42672,
-      "title": "Gateway: fail closed unresolved local auth SecretRefs",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-11T02:09:06Z",
-      "mergedAt": "2026-03-11T02:41:56Z",
-      "additions": 197,
-      "deletions": 48,
-      "changedFiles": 20
-    },
-    {
-      "number": 42554,
-      "title": "SecretRef: harden custom/provider secret persistence and reuse",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T22:53:59Z",
-      "mergedAt": "2026-03-10T23:46:47Z",
-      "additions": 650,
-      "deletions": 72,
-      "changedFiles": 40
-    },
-    {
-      "number": 42507,
-      "title": "fix(gateway): harden token fallback/reconnect behavior and docs",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T21:26:15Z",
-      "mergedAt": "2026-03-10T22:05:58Z",
-      "additions": 1188,
-      "deletions": 80,
-      "changedFiles": 21
-    },
-    {
-      "number": 42455,
-      "title": "Docs: add changelog entry for SecretRef traversal",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T18:52:34Z",
-      "mergedAt": "2026-03-10T18:52:50Z",
-      "additions": 1,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 42370,
-      "title": "Secrets: reject exec SecretRef traversal ids across schema/runtime/gateway",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T17:01:07Z",
-      "mergedAt": "2026-03-10T18:45:37Z",
-      "additions": 853,
-      "deletions": 32,
-      "changedFiles": 21
-    },
-    {
-      "number": 42352,
-      "title": "fix(secrets): thread runtime cfg through discord/telegram send paths",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T16:36:45Z",
-      "mergedAt": "2026-03-10T18:30:57Z",
-      "additions": 531,
-      "deletions": 46,
-      "changedFiles": 21
-    },
-    {
-      "number": 41599,
-      "title": "fix(secrets): resolve web tool SecretRefs atomically at runtime",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T01:47:26Z",
-      "mergedAt": "2026-03-10T03:57:03Z",
-      "additions": 2059,
-      "deletions": 112,
-      "changedFiles": 28
-    },
-    {
-      "number": 39241,
-      "title": "gateway: harden shared auth resolution across systemd, discord, and node host",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T22:36:25Z",
-      "mergedAt": "2026-03-08T00:28:32Z",
-      "additions": 1489,
-      "deletions": 246,
-      "changedFiles": 28
-    },
-    {
-      "number": 38955,
-      "title": "Secrets: harden SecretRef-safe models.json persistence",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T15:19:14Z",
-      "mergedAt": "2026-03-07T17:28:39Z",
-      "additions": 2707,
-      "deletions": 293,
-      "changedFiles": 66
-    },
-    {
-      "number": 38470,
-      "title": "Models/Secrets: harden SecretRef-managed models.json persistence and audit",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T02:10:04Z",
-      "mergedAt": null,
-      "additions": 14676,
-      "deletions": 6551,
-      "changedFiles": 496
-    },
-    {
-      "number": 37023,
-      "title": "CLI: make read-only SecretRef status flows degrade safely",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-06T02:13:25Z",
-      "mergedAt": "2026-03-06T05:07:13Z",
-      "additions": 3410,
-      "deletions": 203,
-      "changedFiles": 58
-    },
-    {
-      "number": 36835,
-      "title": "Memory: handle SecretRef keys in doctor embeddings",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T23:07:20Z",
-      "mergedAt": "2026-03-06T02:05:59Z",
-      "additions": 212,
-      "deletions": 11,
-      "changedFiles": 16
-    },
-    {
-      "number": 35094,
-      "title": "Gateway: add SecretRef support for gateway.auth.token with auth-mode guardrails",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T00:20:13Z",
-      "mergedAt": "2026-03-05T18:53:57Z",
-      "additions": 5752,
-      "deletions": 467,
-      "changedFiles": 112
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 50185,
+      "title": "Telegram: unquarantine skipped sticker e2e tests",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T03:56:43Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
     {
-      "prNumber": 43759,
+      "prNumber": 50167,
       "state": "COMMENTED",
-      "createdAt": "2026-03-12T06:52:39Z"
+      "createdAt": "2026-03-19T06:00:25Z"
     },
     {
-      "prNumber": 43759,
+      "prNumber": 50167,
       "state": "COMMENTED",
-      "createdAt": "2026-03-12T06:52:34Z"
+      "createdAt": "2026-03-19T05:46:37Z"
     },
     {
-      "prNumber": 43759,
+      "prNumber": 50167,
       "state": "COMMENTED",
-      "createdAt": "2026-03-12T06:52:29Z"
+      "createdAt": "2026-03-19T05:46:36Z"
     },
     {
-      "prNumber": 42672,
+      "prNumber": 50167,
       "state": "COMMENTED",
-      "createdAt": "2026-03-11T02:22:16Z"
+      "createdAt": "2026-03-19T05:46:35Z"
     },
     {
-      "prNumber": 42554,
+      "prNumber": 50167,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T23:14:28Z"
+      "createdAt": "2026-03-19T05:46:34Z"
     },
     {
-      "prNumber": 42554,
+      "prNumber": 50155,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T23:14:22Z"
+      "createdAt": "2026-03-19T04:38:50Z"
     },
     {
-      "prNumber": 42507,
+      "prNumber": 50155,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T21:45:36Z"
+      "createdAt": "2026-03-19T02:58:45Z"
     },
     {
-      "prNumber": 42507,
+      "prNumber": 50155,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T21:45:35Z"
+      "createdAt": "2026-03-19T02:58:44Z"
     },
     {
-      "prNumber": 42507,
+      "prNumber": 50155,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T21:45:34Z"
+      "createdAt": "2026-03-19T02:58:43Z"
     },
     {
-      "prNumber": 42370,
+      "prNumber": 50058,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T17:27:49Z"
+      "createdAt": "2026-03-18T23:19:59Z"
     },
     {
-      "prNumber": 42352,
+      "prNumber": 50058,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T16:57:35Z"
+      "createdAt": "2026-03-18T23:02:29Z"
     },
     {
-      "prNumber": 41599,
+      "prNumber": 50058,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T02:13:08Z"
+      "createdAt": "2026-03-18T23:02:16Z"
     },
     {
-      "prNumber": 41599,
+      "prNumber": 49417,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T02:13:08Z"
+      "createdAt": "2026-03-18T03:54:12Z"
+    },
+    {
+      "prNumber": 49417,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T03:54:12Z"
+    },
+    {
+      "prNumber": 49322,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T00:48:54Z"
+    },
+    {
+      "prNumber": 49322,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T00:48:54Z"
+    },
+    {
+      "prNumber": 48728,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T04:35:36Z"
+    },
+    {
+      "prNumber": 48728,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T04:33:21Z"
+    },
+    {
+      "prNumber": 47794,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T02:40:37Z"
+    },
+    {
+      "prNumber": 47794,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T02:40:31Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 4,
+      "issues": 1,
+      "reviews": 9
+    },
+    "2026-03-18": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-17": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -311,26 +434,22 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
   ],
   "achievements": [
+    {
+      "id": "centurion",
+      "label": "Centurion",
+      "description": "100+ commits"
+    },
     {
       "id": "pr-machine",
       "label": "PR Machine",
@@ -357,12 +476,17 @@
       "description": "10K+ lines added"
     },
     {
-      "id": "precision",
-      "label": "Precision",
-      "description": "90%+ PR merge rate"
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
   ],
   "recentCommitDays": {
+    "2026-03-20": 2,
+    "2026-03-19": 6,
+    "2026-03-18": 6,
+    "2026-03-17": 4,
+    "2026-03-16": 1,
     "2026-03-14": 1,
     "2026-03-12": 1,
     "2026-03-11": 1,

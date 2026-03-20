@@ -3,55 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/261991368?v=4",
   "githubUrl": "https://github.com/dutifulbob",
   "score": {
-    "score": 264.07,
-    "prScore": 230.57,
+    "score": 227.61,
+    "prScore": 227.61,
     "issueScore": 0,
-    "reviewScore": 33,
-    "commentScore": 0.5
+    "reviewScore": 0,
+    "commentScore": 0
   },
   "tier": "active",
-  "characterClass": "Maintainer",
+  "characterClass": "Builder",
   "stats": {
-    "commits": 7,
-    "prs": 5,
-    "prsMerged": 4,
-    "prAdditions": 8969,
-    "prDeletions": 909,
-    "prChangedFiles": 114,
-    "prMergeRate": 80,
+    "commits": 9,
+    "prs": 3,
+    "prsMerged": 3,
+    "prAdditions": 6830,
+    "prDeletions": 1222,
+    "prChangedFiles": 110,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 11,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 9489,
-    "commitDeletions": 653,
-    "commitChangedFiles": 124
+    "comments": 0,
+    "commitAdditions": 16307,
+    "commitDeletions": 1849,
+    "commitChangedFiles": 229
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 12,
-      "commitDeletions": 26,
-      "commits": 1
+      "commitAdditions": 6818,
+      "commitDeletions": 1196,
+      "commits": 2
     },
     "monthly": {
-      "prs": 5,
+      "prs": 3,
       "issues": 0,
-      "reviews": 11,
-      "comments": 1,
-      "commitAdditions": 9489,
-      "commitDeletions": 653,
-      "commits": 7
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 16307,
+      "commitDeletions": 1849,
+      "commits": 9
     }
   },
-  "firstContribution": "2026-03-04T10:28:51Z",
-  "lastContribution": "2026-03-10T08:47:31Z",
+  "firstContribution": "2026-03-10T08:47:31Z",
+  "lastContribution": "2026-03-18T04:01:45Z",
   "recentPRs": [
+    {
+      "number": 49435,
+      "title": "ACP: reproduce binding restart session reset",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T04:01:45Z",
+      "mergedAt": "2026-03-18T06:24:38Z",
+      "additions": 227,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 48197,
+      "title": "ACP: harden startup and move configured routing behind plugin seams",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-16T12:27:08Z",
+      "mergedAt": "2026-03-17T16:27:52Z",
+      "additions": 6591,
+      "deletions": 1184,
+      "changedFiles": 102
+    },
     {
       "number": 41975,
       "title": "ACPX: bump bundled acpx to 0.1.16",
@@ -62,147 +84,36 @@
       "additions": 12,
       "deletions": 26,
       "changedFiles": 5
-    },
-    {
-      "number": 36873,
-      "title": "feat(telegram/acp): Topic Binding, Pin Binding Message, Fix Spawn Param Parsing",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T23:36:40Z",
-      "mergedAt": null,
-      "additions": 2187,
-      "deletions": 441,
-      "changedFiles": 32
-    },
-    {
-      "number": 36602,
-      "title": "Discord: separate inbound worker timeout from listener timeout",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T19:09:18Z",
-      "mergedAt": "2026-03-05T23:09:15Z",
-      "additions": 1047,
-      "deletions": 253,
-      "changedFiles": 17
-    },
-    {
-      "number": 34873,
-      "title": "ACP: add persistent Discord channel and Telegram topic bindings",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T18:51:26Z",
-      "mergedAt": "2026-03-05T08:38:12Z",
-      "additions": 4830,
-      "deletions": 186,
-      "changedFiles": 50
-    },
-    {
-      "number": 34310,
-      "title": "feat(acp): add sessions_spawn streamTo parent relay for ACP spawns",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T10:28:51Z",
-      "mergedAt": "2026-03-04T10:44:20Z",
-      "additions": 893,
-      "deletions": 3,
-      "changedFiles": 10
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 36683,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T00:20:00Z"
-    },
-    {
-      "prNumber": 36683,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T00:19:59Z"
-    },
-    {
-      "prNumber": 36683,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T00:19:26Z"
-    },
-    {
-      "prNumber": 36602,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T21:40:22Z"
-    },
-    {
-      "prNumber": 36602,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T21:40:22Z"
-    },
-    {
-      "prNumber": 34873,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T21:38:24Z"
-    },
-    {
-      "prNumber": 34873,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T21:38:19Z"
-    },
-    {
-      "prNumber": 34873,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T21:38:13Z"
-    },
-    {
-      "prNumber": 34873,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T21:38:08Z"
-    },
-    {
-      "prNumber": 34873,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T21:38:03Z"
-    },
-    {
-      "prNumber": 34873,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T21:36:43Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-10": {
+    "2026-03-18": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-05": {
-      "prs": 2,
+    "2026-03-16": {
+      "prs": 1,
       "issues": 0,
-      "reviews": 2
+      "reviews": 0
     },
-    "2026-03-04": {
-      "prs": 2,
+    "2026-03-10": {
+      "prs": 1,
       "issues": 0,
-      "reviews": 6
-    },
-    "2026-03-06": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 3
+      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
-    "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
   ],
-  "achievements": [
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {
+    "2026-03-18": 1,
+    "2026-03-17": 1,
     "2026-03-10": 1,
     "2026-03-05": 2,
     "2026-03-04": 2,

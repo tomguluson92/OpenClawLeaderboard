@@ -3,53 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/46941315?u=eaba8049ae988ab2a5ba99ae5387d0750e327bd2&v=4",
   "githubUrl": "https://github.com/ruypang",
   "score": {
-    "score": 86.27,
-    "prScore": 83.77,
+    "score": 73.66,
+    "prScore": 71.66,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2.5
+    "commentScore": 2
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 434,
-    "prDeletions": 99,
-    "prChangedFiles": 25,
+    "prAdditions": 375,
+    "prDeletions": 55,
+    "prChangedFiles": 23,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 4,
     "commitAdditions": 228,
     "commitDeletions": 3,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
+      "comments": 4,
       "commitAdditions": 228,
       "commitDeletions": 3,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T23:24:08Z",
+  "firstContribution": "2026-03-07T23:16:26Z",
   "lastContribution": "2026-03-11T16:18:37Z",
   "recentPRs": [
     {
@@ -84,17 +84,6 @@
       "additions": 66,
       "deletions": 36,
       "changedFiles": 13
-    },
-    {
-      "number": 35054,
-      "title": "chore(security): bump hono + @hono/node-server (pnpm-audit-prod)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T23:24:08Z",
-      "mergedAt": null,
-      "additions": 59,
-      "deletions": 44,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -111,11 +100,6 @@
       "reviews": 0
     },
     "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
       "prs": 1,
       "issues": 0,
       "reviews": 0

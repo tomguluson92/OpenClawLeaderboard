@@ -1,0 +1,141 @@
+{
+  "username": "Panniantong",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73925474?u=2686ba4dd12c5f75509c0cee611efb37b25fb0b6&v=4",
+  "githubUrl": "https://github.com/Panniantong",
+  "score": {
+    "score": 75.59,
+    "prScore": 75.59,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 662,
+    "prDeletions": 62,
+    "prChangedFiles": 17,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-18T18:15:53Z",
+  "lastContribution": "2026-03-19T02:31:49Z",
+  "recentPRs": [
+    {
+      "number": 50144,
+      "title": "fix(feishu): gate @所有人 (@all) mentions behind respondToAtAll config",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T02:31:49Z",
+      "mergedAt": null,
+      "additions": 95,
+      "deletions": 7,
+      "changedFiles": 4
+    },
+    {
+      "number": 49983,
+      "title": "fix(feishu): use native at elements for blue @mention rendering",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T19:12:53Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 38,
+      "changedFiles": 4
+    },
+    {
+      "number": 49980,
+      "title": "fix(telegram): prioritize topic-level requireMention over activation override",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T19:08:06Z",
+      "mergedAt": null,
+      "additions": 118,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 49979,
+      "title": "fix(cron): preserve nested object properties in payload normalization",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T19:07:49Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 49967,
+      "title": "fix(feishu): fallback to media endpoint for video file downloads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T18:35:35Z",
+      "mergedAt": null,
+      "additions": 233,
+      "deletions": 11,
+      "changedFiles": 3
+    },
+    {
+      "number": 49958,
+      "title": "fix: allow commands in groups when no allowFrom is configured",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T18:15:53Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

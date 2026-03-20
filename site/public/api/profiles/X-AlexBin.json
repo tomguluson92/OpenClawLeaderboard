@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/265483407?u=e66080df7cd22937921bed604fb37bdc44266145&v=4",
   "githubUrl": "https://github.com/X-AlexBin",
   "score": {
-    "score": 118.51,
+    "score": 113.51,
     "prScore": 113.01,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -19,7 +19,7 @@
     "prDeletions": 259,
     "prChangedFiles": 30,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,17 +31,17 @@
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 5,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T09:26:01Z",
+  "firstContribution": "2026-03-06T08:54:12Z",
   "lastContribution": "2026-03-10T13:10:46Z",
   "recentPRs": [
     {
@@ -108,15 +108,7 @@
       "changedFiles": 5
     }
   ],
-  "recentIssues": [
-    {
-      "number": 34235,
-      "title": "[Feature]: Support creating and debugging skills directly from chat (with file tree & online editor)",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T09:26:01Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
@@ -133,16 +125,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion",
     "Large-Scale Changes"
   ],

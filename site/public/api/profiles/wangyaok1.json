@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/249894081?u=4ebea05d286b6480eb1801d757d6224e769234ed&v=4",
   "githubUrl": "https://github.com/wangyaok1",
   "score": {
-    "score": 190.26,
-    "prScore": 177.26,
-    "issueScore": 10,
+    "score": 192.28,
+    "prScore": 184.28,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 3
   },
@@ -13,13 +13,13 @@
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 34450,
-    "prDeletions": 18854,
-    "prChangedFiles": 1203,
+    "prAdditions": 34542,
+    "prDeletions": 18858,
+    "prChangedFiles": 1207,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,17 +31,17 @@
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 1,
+      "prs": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 6,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 2,
+      "prs": 3,
+      "issues": 1,
       "reviews": 0,
       "comments": 6,
       "commitAdditions": 0,
@@ -49,9 +49,20 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T16:13:25Z",
-  "lastContribution": "2026-03-13T13:56:19Z",
+  "firstContribution": "2026-03-09T14:23:01Z",
+  "lastContribution": "2026-03-19T10:03:53Z",
   "recentPRs": [
+    {
+      "number": 50359,
+      "title": "Fix embedded read-image media fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T10:03:53Z",
+      "mergedAt": null,
+      "additions": 92,
+      "deletions": 4,
+      "changedFiles": 4
+    },
     {
       "number": 41141,
       "title": "fix(edit): include current file contents on mismatch",
@@ -82,28 +93,21 @@
       "state": "OPEN",
       "createdAt": "2026-03-10T04:34:01Z",
       "closedAt": null
-    },
-    {
-      "number": 36411,
-      "title": "Gateway restart loop when memorySearch.provider is unsupported",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T16:13:25Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
     },
     "2026-03-10": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-05": {
       "prs": 0,
       "issues": 1,
       "reviews": 0

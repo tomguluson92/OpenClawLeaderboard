@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/91401252?u=af1174ea89dca372611d65bb01921aaa28820508&v=4",
   "githubUrl": "https://github.com/hexxyan",
   "score": {
-    "score": 13.34,
-    "prScore": 9.84,
+    "score": 36.45,
+    "prScore": 32.95,
     "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Reviewer",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 104,
-    "prDeletions": 9,
-    "prChangedFiles": 2,
+    "prAdditions": 456,
+    "prDeletions": 97,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,16 +31,16 @@
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 1,
       "comments": 1,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-08T03:38:20Z",
-  "lastContribution": "2026-03-08T10:01:12Z",
+  "lastContribution": "2026-03-15T07:06:51Z",
   "recentPRs": [
+    {
+      "number": 47007,
+      "title": "feat(feishu): enable real-time character-by-character streaming for subagent runs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T07:06:51Z",
+      "mergedAt": null,
+      "additions": 352,
+      "deletions": 88,
+      "changedFiles": 8
+    },
     {
       "number": 39422,
       "title": "perf(config): zero-latency routing configuration loading via mtime cache",
@@ -73,6 +84,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 0,

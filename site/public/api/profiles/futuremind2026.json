@@ -1,10 +1,10 @@
 {
   "username": "futuremind2026",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/258860756?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/258860756?u=27f033d44f398cbdf288fe9085633088a36763d5&v=4",
   "githubUrl": "https://github.com/futuremind2026",
   "score": {
-    "score": 119.54,
-    "prScore": 109.54,
+    "score": 172.25,
+    "prScore": 162.25,
     "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 7
@@ -15,9 +15,9 @@
     "commits": 0,
     "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 2217,
-    "prDeletions": 86,
-    "prChangedFiles": 24,
+    "prAdditions": 2798,
+    "prDeletions": 184,
+    "prChangedFiles": 59,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -33,11 +33,11 @@
     "weekly": {
       "prs": 2,
       "issues": 0,
-      "reviews": 1,
-      "comments": 3,
-      "commitAdditions": 45,
-      "commitDeletions": 3,
-      "commits": 1
+      "reviews": 0,
+      "comments": 7,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
       "prs": 6,
@@ -49,9 +49,31 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T17:43:11Z",
-  "lastContribution": "2026-03-11T04:35:51Z",
+  "firstContribution": "2026-03-06T22:52:29Z",
+  "lastContribution": "2026-03-17T15:01:02Z",
   "recentPRs": [
+    {
+      "number": 48898,
+      "title": "fix(feishu): restore naming paths and split control UI context notices",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T09:34:06Z",
+      "mergedAt": null,
+      "additions": 891,
+      "deletions": 56,
+      "changedFiles": 22
+    },
+    {
+      "number": 47540,
+      "title": "fix(ui): split higher-rate threshold hints from model context limits",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T17:53:46Z",
+      "mergedAt": null,
+      "additions": 465,
+      "deletions": 31,
+      "changedFiles": 20
+    },
     {
       "number": 42768,
       "title": "fix(ci): bump tar override to patched 7.5.11",
@@ -81,9 +103,9 @@
       "merged": false,
       "createdAt": "2026-03-07T15:22:36Z",
       "mergedAt": null,
-      "additions": 1104,
-      "deletions": 25,
-      "changedFiles": 7
+      "additions": 627,
+      "deletions": 48,
+      "changedFiles": 5
     },
     {
       "number": 38378,
@@ -95,28 +117,6 @@
       "additions": 691,
       "deletions": 32,
       "changedFiles": 6
-    },
-    {
-      "number": 36530,
-      "title": "fix(feishu): support fields_json fallback for bitable records",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T17:56:37Z",
-      "mergedAt": null,
-      "additions": 296,
-      "deletions": 11,
-      "changedFiles": 3
-    },
-    {
-      "number": 34781,
-      "title": "fix: treat wrapped 'fetch failed' rejections as transient network errors",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T17:43:11Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -128,6 +128,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -144,16 +154,6 @@
       "reviews": 0
     },
     "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
       "prs": 1,
       "issues": 0,
       "reviews": 0

@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9951231?u=721b74ba917c6ecdda006fd837d20afc58c7d997&v=4",
   "githubUrl": "https://github.com/mathiasnagler",
   "score": {
-    "score": 123.69,
-    "prScore": 109.19,
-    "issueScore": 13,
+    "score": 141.26,
+    "prScore": 131.26,
+    "issueScore": 8,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 2
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 1,
-    "prAdditions": 994,
-    "prDeletions": 28,
-    "prChangedFiles": 30,
-    "prMergeRate": 33,
-    "issues": 2,
+    "prAdditions": 1207,
+    "prDeletions": 34,
+    "prChangedFiles": 36,
+    "prMergeRate": 25,
+    "issues": 1,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 4,
     "commitAdditions": 182,
     "commitDeletions": 6,
     "commitChangedFiles": 10
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 1,
+      "prs": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 2,
-      "commitAdditions": 182,
-      "commitDeletions": 6,
-      "commits": 1
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 3,
-      "issues": 2,
+      "prs": 4,
+      "issues": 1,
       "reviews": 0,
-      "comments": 3,
+      "comments": 4,
       "commitAdditions": 182,
       "commitDeletions": 6,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-06T20:09:08Z",
-  "lastContribution": "2026-03-13T10:19:06Z",
+  "firstContribution": "2026-03-06T20:11:19Z",
+  "lastContribution": "2026-03-16T17:17:25Z",
   "recentPRs": [
+    {
+      "number": 48347,
+      "title": "fix(mattermost): thread resolved cfg through reply delivery send calls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T16:21:59Z",
+      "mergedAt": null,
+      "additions": 213,
+      "deletions": 6,
+      "changedFiles": 6
+    },
     {
       "number": 44145,
       "title": "fix(model-compat): respect explicit supportsUsageInStreaming override",
@@ -93,17 +104,15 @@
       "state": "CLOSED",
       "createdAt": "2026-03-09T16:02:28Z",
       "closedAt": "2026-03-12T07:15:19Z"
-    },
-    {
-      "number": 38309,
-      "title": "feat: support SecretRef in sandbox.docker.env",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T20:09:08Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -116,7 +125,7 @@
     },
     "2026-03-06": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },

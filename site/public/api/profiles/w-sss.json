@@ -3,55 +3,154 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/204439273?v=4",
   "githubUrl": "https://github.com/w-sss",
   "score": {
-    "score": 32.88,
-    "prScore": 32.88,
+    "score": 158.94,
+    "prScore": 155.44,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 3,
+    "commentScore": 0.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 11,
     "prsMerged": 0,
-    "prAdditions": 508,
-    "prDeletions": 32,
-    "prChangedFiles": 10,
+    "prAdditions": 875,
+    "prDeletions": 97,
+    "prChangedFiles": 38,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 11,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "reviews": 1,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 11,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "reviews": 1,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-14T13:16:19Z",
-  "lastContribution": "2026-03-15T04:26:30Z",
+  "lastContribution": "2026-03-19T08:19:40Z",
   "recentPRs": [
+    {
+      "number": 50324,
+      "title": "fix(acp): deliver final result text even when TTS is not configured",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T08:19:40Z",
+      "mergedAt": null,
+      "additions": 128,
+      "deletions": 11,
+      "changedFiles": 3
+    },
+    {
+      "number": 50133,
+      "title": "fix(browser): add logging for silent CDP/MCP errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T02:10:34Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 48952,
+      "title": "fix(ui): display error message when channel config save fails",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T11:16:37Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 48937,
+      "title": "fix(ui): display error message when channel config save fails",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T10:47:02Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 48650,
+      "title": "fix(telegram): improve error messages for 403 bot not member errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T02:17:11Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 48649,
+      "title": "fix(install): install gateway daemon service for fresh installs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T02:16:37Z",
+      "mergedAt": null,
+      "additions": 46,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 48619,
+      "title": "fix(telegram): improve error messages for 403 bot not member errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T01:32:09Z",
+      "mergedAt": null,
+      "additions": 201,
+      "deletions": 25,
+      "changedFiles": 9
+    },
+    {
+      "number": 48618,
+      "title": "fix(install): install gateway daemon service for fresh installs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T01:31:24Z",
+      "mergedAt": null,
+      "additions": 231,
+      "deletions": 24,
+      "changedFiles": 9
+    },
+    {
+      "number": 47939,
+      "title": "Fix/UI context notice icon overflow",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T06:04:34Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 46863,
       "title": "fix(acp): deliver final result text even when TTS is not configured",
@@ -59,9 +158,9 @@
       "merged": false,
       "createdAt": "2026-03-15T04:26:30Z",
       "mergedAt": null,
-      "additions": 461,
-      "deletions": 19,
-      "changedFiles": 6
+      "additions": 133,
+      "deletions": 9,
+      "changedFiles": 3
     },
     {
       "number": 46146,
@@ -70,14 +169,35 @@
       "merged": false,
       "createdAt": "2026-03-14T13:16:19Z",
       "mergedAt": null,
-      "additions": 47,
-      "deletions": 13,
-      "changedFiles": 4
+      "additions": 54,
+      "deletions": 15,
+      "changedFiles": 5
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 47939,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T06:47:38Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
@@ -90,8 +210,16 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
   "recentCommitDays": {}
 }

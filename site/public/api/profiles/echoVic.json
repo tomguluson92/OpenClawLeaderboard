@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/16428813?v=4",
   "githubUrl": "https://github.com/echoVic",
   "score": {
-    "score": 991.12,
-    "prScore": 978.12,
+    "score": 437.86,
+    "prScore": 435.36,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 13
+    "commentScore": 2.5
   },
-  "tier": "veteran",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 16,
-    "prs": 109,
-    "prsMerged": 1,
-    "prAdditions": 6149,
-    "prDeletions": 539,
-    "prChangedFiles": 306,
-    "prMergeRate": 1,
+    "prs": 34,
+    "prsMerged": 0,
+    "prAdditions": 2387,
+    "prDeletions": 112,
+    "prChangedFiles": 114,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 26,
+    "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -40,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 109,
+      "prs": 34,
       "issues": 0,
       "reviews": 0,
-      "comments": 26,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T15:37:29Z",
+  "firstContribution": "2026-03-06T08:40:06Z",
   "lastContribution": "2026-03-06T15:49:54Z",
   "recentPRs": [
     {
@@ -277,17 +277,7 @@
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-06": {
-      "prs": 38,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 29,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 42,
+      "prs": 34,
       "issues": 0,
       "reviews": 0
     }
@@ -295,29 +285,13 @@
   "skills": [
     "Pull Requests",
     "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
+    "Direct Commits"
   ],
   "achievements": [
     {
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "pr-master",
-      "label": "PR Master",
-      "description": "50+ pull requests"
-    },
-    {
-      "id": "pr-legend",
-      "label": "PR Legend",
-      "description": "100+ pull requests"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
     }
   ],
   "recentCommitDays": {}

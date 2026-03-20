@@ -3,22 +3,22 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/219093083?v=4",
   "githubUrl": "https://github.com/BinHPdev",
   "score": {
-    "score": 88.69,
-    "prScore": 88.69,
+    "score": 49.95,
+    "prScore": 49.95,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 3,
-    "prsMerged": 1,
-    "prAdditions": 76,
-    "prDeletions": 31,
-    "prChangedFiles": 7,
-    "prMergeRate": 33,
+    "prs": 0,
+    "prsMerged": 0,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -40,63 +40,22 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 634,
-      "commitDeletions": 12,
-      "commits": 4
+      "commitAdditions": 51,
+      "commitDeletions": 6,
+      "commits": 1
     }
   },
-  "firstContribution": "2026-03-05T16:36:29Z",
-  "lastContribution": "2026-03-05T17:39:23Z",
-  "recentPRs": [
-    {
-      "number": 36509,
-      "title": "fix(gateway): refresh stale OPENCLAW_SERVICE_VERSION at startup",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T17:39:23Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 36503,
-      "title": "fix(cron): return error when payload model override is disallowed",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T17:33:31Z",
-      "mergedAt": null,
-      "additions": 16,
-      "deletions": 25,
-      "changedFiles": 3
-    },
-    {
-      "number": 36445,
-      "title": "fix(ui): catch marked.js parse errors to prevent Control UI crash",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T16:36:29Z",
-      "mergedAt": "2026-03-05T19:46:49Z",
-      "additions": 51,
-      "deletions": 6,
-      "changedFiles": 3
-    }
-  ],
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
   "recentIssues": [],
   "recentReviews": [],
-  "recentActivityDays": {
-    "2026-03-05": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    }
-  },
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
     "Direct Commits"
   ],
   "achievements": [],

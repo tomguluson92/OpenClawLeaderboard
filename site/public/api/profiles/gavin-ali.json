@@ -3,59 +3,70 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/223589024?v=4",
   "githubUrl": "https://github.com/gavin-ali",
   "score": {
-    "score": 15.82,
-    "prScore": 9.82,
+    "score": 26.2,
+    "prScore": 19.7,
     "issueScore": 0,
     "reviewScore": 6,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Reviewer",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 99,
-    "prDeletions": 10,
-    "prChangedFiles": 2,
+    "prAdditions": 102,
+    "prDeletions": 13,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 2,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 2,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-14T14:26:02Z",
-  "lastContribution": "2026-03-14T15:21:13Z",
+  "lastContribution": "2026-03-18T14:05:11Z",
   "recentPRs": [
+    {
+      "number": 49837,
+      "title": "fix(feishu): use lark_md mention format in post messages (fixes #49833)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T14:05:11Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 3,
+      "changedFiles": 2
+    },
     {
       "number": 46230,
       "title": "fix(plugins): suppress duplicate warning when origins differ (fixes #46079)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T14:26:02Z",
       "mergedAt": null,
@@ -78,6 +89,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -86,7 +102,8 @@
   },
   "skills": [
     "Pull Requests",
-    "Code Review"
+    "Code Review",
+    "Discussion"
   ],
   "achievements": [],
   "recentCommitDays": {}

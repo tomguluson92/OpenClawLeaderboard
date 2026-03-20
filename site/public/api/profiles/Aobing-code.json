@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/163701194?u=3afcc42c5a8a0a6be2e04910b8b298a9a815383e&v=4",
   "githubUrl": "https://github.com/Aobing-code",
   "score": {
-    "score": 31.87,
+    "score": 26.37,
     "prScore": 24.37,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2.5
+    "commentScore": 2
   },
   "tier": "beginner",
   "characterClass": "Contributor",
@@ -15,23 +15,23 @@
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 312,
+    "prAdditions": 313,
     "prDeletions": 4,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -41,15 +41,15 @@
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 5,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T13:43:23Z",
+  "firstContribution": "2026-03-07T02:54:18Z",
   "lastContribution": "2026-03-08T08:31:57Z",
   "recentPRs": [
     {
@@ -70,20 +70,12 @@
       "merged": false,
       "createdAt": "2026-03-07T02:54:18Z",
       "mergedAt": null,
-      "additions": 293,
+      "additions": 294,
       "deletions": 1,
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 33063,
-      "title": "[Feature]: Add agent memory-related functionality",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T13:43:23Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-08": {
@@ -95,16 +87,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],

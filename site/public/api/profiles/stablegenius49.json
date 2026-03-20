@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259448942?u=62f2896d0c41c1defedefc4faed3f4cc3a0deffb&v=4",
   "githubUrl": "https://github.com/stablegenius49",
   "score": {
-    "score": 157.92,
-    "prScore": 157.92,
+    "score": 169.8,
+    "prScore": 169.8,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -14,39 +14,39 @@
   "stats": {
     "commits": 0,
     "prs": 13,
-    "prsMerged": 0,
-    "prAdditions": 1284,
+    "prsMerged": 1,
+    "prAdditions": 1285,
     "prDeletions": 49,
-    "prChangedFiles": 31,
-    "prMergeRate": 0,
+    "prChangedFiles": 32,
+    "prMergeRate": 8,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "commitAdditions": 26,
+    "commitDeletions": 4,
+    "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 13,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 26,
+      "commitDeletions": 4,
+      "commits": 1
     },
     "monthly": {
       "prs": 13,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 26,
+      "commitDeletions": 4,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-08T17:18:34Z",
@@ -176,13 +176,13 @@
     {
       "number": 40213,
       "title": "fix(macos): stop relaunching the app after quit when launch-at-login is enabled",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-08T19:48:11Z",
-      "mergedAt": null,
-      "additions": 25,
+      "mergedAt": "2026-03-17T09:59:57Z",
+      "additions": 26,
       "deletions": 4,
-      "changedFiles": 2
+      "changedFiles": 3
     },
     {
       "number": 40109,
@@ -225,5 +225,7 @@
       "description": "10+ pull requests"
     }
   ],
-  "recentCommitDays": {}
+  "recentCommitDays": {
+    "2026-03-17": 1
+  }
 }

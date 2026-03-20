@@ -3,55 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/31285242?v=4",
   "githubUrl": "https://github.com/jakepresent",
   "score": {
-    "score": 75,
-    "prScore": 64,
+    "score": 107.14,
+    "prScore": 90.64,
     "issueScore": 10,
-    "reviewScore": 0,
-    "commentScore": 1
+    "reviewScore": 6,
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 197,
-    "prDeletions": 50,
-    "prChangedFiles": 26,
+    "prAdditions": 218,
+    "prDeletions": 57,
+    "prChangedFiles": 33,
     "prMergeRate": 0,
     "issues": 2,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
-      "reviews": 0,
+      "reviews": 2,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 5,
       "issues": 2,
-      "reviews": 0,
-      "comments": 2,
+      "reviews": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-07T17:21:53Z",
-  "lastContribution": "2026-03-08T23:09:52Z",
+  "lastContribution": "2026-03-19T03:16:03Z",
   "recentPRs": [
+    {
+      "number": 50168,
+      "title": "github-copilot: enable xhigh for gpt-5.4",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T03:16:03Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 49917,
+      "title": "fix(ui): context % uses full token footprint instead of uncached input only",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T16:32:53Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 3,
+      "changedFiles": 3
+    },
     {
       "number": 40329,
       "title": "feat: send channel notice when auto-compaction starts",
@@ -88,22 +110,43 @@
   ],
   "recentIssues": [
     {
+      "number": 49931,
+      "title": "feat(exec): configurable shell override (tools.exec.shell)",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T17:02:42Z",
+      "closedAt": null
+    },
+    {
       "number": 40343,
       "title": "Auto-compaction can delete an already-delivered message on Telegram",
       "state": "OPEN",
       "createdAt": "2026-03-08T23:09:52Z",
       "closedAt": null
-    },
-    {
-      "number": 39082,
-      "title": "Flush pending chat delta before emitting tool events in server-chat.ts",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T18:20:41Z",
-      "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 49917,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T16:40:50Z"
+    },
+    {
+      "prNumber": 49917,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T16:40:33Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 1,
@@ -111,15 +154,22 @@
     },
     "2026-03-07": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

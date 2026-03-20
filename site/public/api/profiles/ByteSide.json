@@ -1,0 +1,90 @@
+{
+  "username": "ByteSide",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/146017750?u=bbf062c9bff734d18bf9e8add510173c6ef1c02a&v=4",
+  "githubUrl": "https://github.com/ByteSide",
+  "score": {
+    "score": 15.75,
+    "prScore": 7.75,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 10,
+    "prDeletions": 1,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-17T19:28:53Z",
+  "lastContribution": "2026-03-17T19:34:12Z",
+  "recentPRs": [
+    {
+      "number": 49211,
+      "title": "fix(whatsapp): use globalThis singleton for active-listener Map",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T19:34:12Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 49209,
+      "title": "WhatsApp outbound sends fail after 2026.3.13: duplicated active-listener state across bundle chunks",
+      "state": "CLOSED",
+      "createdAt": "2026-03-17T19:28:53Z",
+      "closedAt": "2026-03-19T16:21:23Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

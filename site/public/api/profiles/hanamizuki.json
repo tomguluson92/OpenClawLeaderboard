@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/741302?u=10fc02a994ed4f4c1bd15fccee2a18bc90c314af&v=4",
   "githubUrl": "https://github.com/hanamizuki",
   "score": {
-    "score": 23.58,
+    "score": 18.58,
     "prScore": 8.58,
-    "issueScore": 15,
+    "issueScore": 10,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -19,7 +19,7 @@
     "prDeletions": 0,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -32,7 +32,7 @@
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 2,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T02:05:40Z",
+  "firstContribution": "2026-03-13T06:29:45Z",
   "lastContribution": "2026-03-14T02:47:34Z",
   "recentPRs": [
     {
@@ -78,13 +78,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-13T06:29:45Z",
       "closedAt": null
-    },
-    {
-      "number": 35220,
-      "title": "[Bug]: Codex Responses API streaming server_error does not trigger model fallback (variant of #24378)",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T02:05:40Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
@@ -95,11 +88,6 @@
       "reviews": 0
     },
     "2026-03-13": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-05": {
       "prs": 0,
       "issues": 1,
       "reviews": 0

@@ -3,65 +3,197 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/68980965?v=4",
   "githubUrl": "https://github.com/BunsDev",
   "score": {
-    "score": 649.14,
-    "prScore": 540.64,
+    "score": 801.32,
+    "prScore": 687.32,
     "issueScore": 0,
-    "reviewScore": 103,
-    "commentScore": 5.5
+    "reviewScore": 106,
+    "commentScore": 8
   },
   "tier": "veteran",
   "characterClass": "Maintainer",
   "stats": {
-    "commits": 45,
-    "prs": 16,
-    "prsMerged": 10,
-    "prAdditions": 42352,
-    "prDeletions": 10047,
-    "prChangedFiles": 379,
-    "prMergeRate": 63,
+    "commits": 57,
+    "prs": 25,
+    "prsMerged": 18,
+    "prAdditions": 37668,
+    "prDeletions": 10725,
+    "prChangedFiles": 629,
+    "prMergeRate": 72,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 34,
+    "reviews": 35,
     "reviewsApproved": 1,
     "reviewsChangesRequested": 0,
-    "comments": 11,
-    "commitAdditions": 33570,
-    "commitDeletions": 20526,
-    "commitChangedFiles": 495
+    "comments": 16,
+    "commitAdditions": 35008,
+    "commitDeletions": 20878,
+    "commitChangedFiles": 567
   },
   "period": {
     "weekly": {
-      "prs": 13,
+      "prs": 20,
       "issues": 0,
-      "reviews": 29,
-      "comments": 9,
-      "commitAdditions": 18223,
-      "commitDeletions": 5993,
-      "commits": 17
+      "reviews": 18,
+      "comments": 11,
+      "commitAdditions": 3740,
+      "commitDeletions": 1034,
+      "commits": 18
     },
     "monthly": {
-      "prs": 16,
+      "prs": 25,
       "issues": 0,
-      "reviews": 34,
-      "comments": 11,
-      "commitAdditions": 32900,
-      "commitDeletions": 20523,
-      "commits": 43
+      "reviews": 35,
+      "comments": 16,
+      "commitAdditions": 34338,
+      "commitDeletions": 20875,
+      "commits": 55
     }
   },
-  "firstContribution": "2026-03-05T23:11:54Z",
-  "lastContribution": "2026-03-14T03:44:44Z",
+  "firstContribution": "2026-03-09T22:49:26Z",
+  "lastContribution": "2026-03-18T06:34:00Z",
   "recentPRs": [
+    {
+      "number": 49538,
+      "title": "Tests: cover Twitch runtime barrel",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T06:34:00Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 49500,
+      "title": "fix: restore CI on main (build, check, contracts)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T05:37:56Z",
+      "mergedAt": null,
+      "additions": 268,
+      "deletions": 146,
+      "changedFiles": 35
+    },
+    {
+      "number": 49490,
+      "title": "plugins: dist node_modules symlink + config raw-toggle UI fix",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T05:14:33Z",
+      "mergedAt": "2026-03-18T05:20:14Z",
+      "additions": 36,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 49483,
+      "title": "UI: expand-to-canvas, session navigation, plugin SDK fixes",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T05:07:39Z",
+      "mergedAt": "2026-03-18T05:07:53Z",
+      "additions": 296,
+      "deletions": 84,
+      "changedFiles": 12
+    },
+    {
+      "number": 49464,
+      "title": "UI touch-ups: expand-to-canvas, session navigation, plugin import fixes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T04:42:59Z",
+      "mergedAt": null,
+      "additions": 8699,
+      "deletions": 3482,
+      "changedFiles": 233
+    },
+    {
+      "number": 49443,
+      "title": "UI: fix redundant applyBorderRadius call and restore session-scope cap test",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T04:08:57Z",
+      "mergedAt": "2026-03-18T04:14:43Z",
+      "additions": 39,
+      "deletions": 24,
+      "changedFiles": 2
+    },
+    {
+      "number": 49436,
+      "title": "UI: add corner radius slider and appearance polish",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T04:02:00Z",
+      "mergedAt": "2026-03-18T04:06:01Z",
+      "additions": 942,
+      "deletions": 175,
+      "changedFiles": 28
+    },
+    {
+      "number": 49399,
+      "title": "Config UI: click-to-reveal redacted env vars and use lightweight re-render",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T03:10:25Z",
+      "mergedAt": "2026-03-18T03:10:31Z",
+      "additions": 85,
+      "deletions": 48,
+      "changedFiles": 8
+    },
+    {
+      "number": 49390,
+      "title": "UI: mute sidebar and chat input accent colors",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T02:56:26Z",
+      "mergedAt": "2026-03-18T02:56:50Z",
+      "additions": 44,
+      "deletions": 35,
+      "changedFiles": 4
+    },
+    {
+      "number": 49053,
+      "title": "docs(ui): harden legacy query token guidance",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T14:15:20Z",
+      "mergedAt": "2026-03-18T03:18:42Z",
+      "additions": 16,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 48951,
+      "title": "fix(ui): restore control-ui query token imports",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T11:11:05Z",
+      "mergedAt": null,
+      "additions": 96,
+      "deletions": 121,
+      "changedFiles": 6
+    },
+    {
+      "number": 48226,
+      "title": "fix(local-storage)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-16T13:21:23Z",
+      "mergedAt": "2026-03-16T13:21:44Z",
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 45653,
       "title": "feat: add /btw-style ephemeral side turns",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T02:29:48Z",
       "mergedAt": null,
-      "additions": 398,
-      "deletions": 97,
-      "changedFiles": 9
+      "additions": 1257,
+      "deletions": 100,
+      "changedFiles": 25
     },
     {
       "number": 45559,
@@ -139,98 +271,40 @@
       "additions": 1468,
       "deletions": 575,
       "changedFiles": 19
-    },
-    {
-      "number": 44371,
-      "title": "fix: support non-standard scheme origins (tauri://, capacitor://) in Control UI allowlist",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-12T20:31:36Z",
-      "mergedAt": null,
-      "additions": 8834,
-      "deletions": 1731,
-      "changedFiles": 73
-    },
-    {
-      "number": 41787,
-      "title": "CI: select Swift 6.2 toolchain for CodeQL",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T05:31:15Z",
-      "mergedAt": "2026-03-10T06:22:41Z",
-      "additions": 6,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 41503,
-      "title": "feat(ui): dashboard-v2 views refactor (slice 3/3 of dashboard-v2)",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T22:56:43Z",
-      "mergedAt": "2026-03-12T17:46:19Z",
-      "additions": 11320,
-      "deletions": 3822,
-      "changedFiles": 73
-    },
-    {
-      "number": 41500,
-      "title": "feat(ui): utilities, theming, and i18n updates (slice 2/3 of dashboard-v2)",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T22:54:25Z",
-      "mergedAt": "2026-03-12T08:26:39Z",
-      "additions": 1306,
-      "deletions": 241,
-      "changedFiles": 23
-    },
-    {
-      "number": 41497,
-      "title": "feat(ui): add chat infrastructure modules (slice 1/3 of dashboard-v2)",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T22:49:26Z",
-      "mergedAt": "2026-03-12T07:48:58Z",
-      "additions": 2057,
-      "deletions": 16,
-      "changedFiles": 19
-    },
-    {
-      "number": 36857,
-      "title": "test(ui): update dashboard-v2 coverage and expectations",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T23:12:27Z",
-      "mergedAt": null,
-      "additions": 357,
-      "deletions": 400,
-      "changedFiles": 17
-    },
-    {
-      "number": 36856,
-      "title": "ui: refresh dashboard-v2 theme and visual styles",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T23:12:11Z",
-      "mergedAt": null,
-      "additions": 6985,
-      "deletions": 1317,
-      "changedFiles": 15
-    },
-    {
-      "number": 36853,
-      "title": "ui: refactor dashboard-v2 structure and behavior",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T23:11:54Z",
-      "mergedAt": null,
-      "additions": 8736,
-      "deletions": 1729,
-      "changedFiles": 71
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 49500,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T05:57:15Z"
+    },
+    {
+      "prNumber": 49500,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T05:45:32Z"
+    },
+    {
+      "prNumber": 49464,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T04:59:21Z"
+    },
+    {
+      "prNumber": 49464,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T04:55:47Z"
+    },
+    {
+      "prNumber": 49464,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T04:48:53Z"
+    },
+    {
+      "prNumber": 49443,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T04:14:05Z"
+    },
     {
       "prNumber": 45653,
       "state": "COMMENTED",
@@ -300,39 +374,24 @@
       "prNumber": 41503,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T01:26:45Z"
-    },
-    {
-      "prNumber": 41503,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T01:26:45Z"
-    },
-    {
-      "prNumber": 41503,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T01:26:45Z"
-    },
-    {
-      "prNumber": 41500,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T01:04:33Z"
-    },
-    {
-      "prNumber": 41500,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T01:03:09Z"
-    },
-    {
-      "prNumber": 41500,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T01:03:09Z"
-    },
-    {
-      "prNumber": 41500,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T01:03:09Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-17": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
@@ -357,11 +416,6 @@
       "prs": 3,
       "issues": 0,
       "reviews": 6
-    },
-    "2026-03-05": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 5
     }
   },
   "skills": [
@@ -394,6 +448,8 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-18": 10,
+    "2026-03-16": 2,
     "2026-03-14": 2,
     "2026-03-13": 4,
     "2026-03-12": 4,

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/65210143?v=4",
   "githubUrl": "https://github.com/t2wei",
   "score": {
-    "score": 57.03,
+    "score": 52.03,
     "prScore": 51.53,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,7 +19,7 @@
     "prDeletions": 71,
     "prChangedFiles": 19,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,6 +31,15 @@
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 0,
@@ -38,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T06:42:09Z",
+  "firstContribution": "2026-03-10T09:59:14Z",
   "lastContribution": "2026-03-11T16:39:12Z",
   "recentPRs": [
     {
@@ -75,15 +75,7 @@
       "changedFiles": 9
     }
   ],
-  "recentIssues": [
-    {
-      "number": 35598,
-      "title": "Feishu outbound adapter ignores threadId — ACP replies land in group root instead of topic",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T06:42:09Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
@@ -95,16 +87,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],

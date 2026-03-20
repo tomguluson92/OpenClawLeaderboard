@@ -3,55 +3,220 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/252432848?u=334a2b1bbacb4fa0bca9f5fa21e0ebe7c7fba591&v=4",
   "githubUrl": "https://github.com/MorikawaSouma",
   "score": {
-    "score": 31.36,
-    "prScore": 29.86,
+    "score": 230.44,
+    "prScore": 226.94,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 1.5
+    "reviewScore": 3,
+    "commentScore": 0.5
   },
-  "tier": "beginner",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 18,
     "prsMerged": 0,
-    "prAdditions": 132,
-    "prDeletions": 4,
-    "prChangedFiles": 6,
+    "prAdditions": 1414,
+    "prDeletions": 87,
+    "prChangedFiles": 46,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 18,
       "issues": 0,
-      "reviews": 0,
-      "comments": 3,
+      "reviews": 1,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 18,
       "issues": 0,
-      "reviews": 0,
-      "comments": 3,
+      "reviews": 1,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-13T02:07:29Z",
-  "lastContribution": "2026-03-14T08:55:56Z",
+  "firstContribution": "2026-03-14T01:04:11Z",
+  "lastContribution": "2026-03-16T14:13:33Z",
   "recentPRs": [
+    {
+      "number": 48259,
+      "title": "docs(subagents): fix 6 gaps/inaccuracies in sub-agents documentation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T14:13:33Z",
+      "mergedAt": null,
+      "additions": 308,
+      "deletions": 11,
+      "changedFiles": 3
+    },
+    {
+      "number": 48254,
+      "title": "fix(skills): trust user-configured env vars in skills.entries.<skill>.env",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T14:07:50Z",
+      "mergedAt": null,
+      "additions": 276,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 47948,
+      "title": "fix: increase handshake timeout to 10s and add file label fallback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T06:16:24Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 47356,
+      "title": "fix: resolve gateway crash on second cron add",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:43:39Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 47321,
+      "title": "fix(webchat): allow configurable chunk limit, increase default",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T12:54:26Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 10,
+      "changedFiles": 5
+    },
+    {
+      "number": 47297,
+      "title": "feat(directives): add inbound 'reply in thread' user directive",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T12:29:28Z",
+      "mergedAt": null,
+      "additions": 232,
+      "deletions": 1,
+      "changedFiles": 6
+    },
+    {
+      "number": 47247,
+      "title": "fix: memoryFlush never triggers when compactionCount and memoryFlushCompactionCount are both 0",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T11:39:48Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 3,
+      "changedFiles": 6
+    },
+    {
+      "number": 47243,
+      "title": "feat(ui): add timestamp and preview to session list",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T11:35:03Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 47230,
+      "title": "fix: use punycode/ instead of punycode to avoid deprecation warning",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T11:19:28Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 47210,
+      "title": "fix(infra): install warning filter early to suppress punycode deprecation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T10:50:46Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 47207,
+      "title": "fix(agents): use max_tokens for Mistral API compatibility",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T10:45:04Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 47174,
+      "title": "fix(memory-flush): allow first flush when compactionCount is 0",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T10:08:09Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 47172,
+      "title": "fix(skills): show correct source for workspace-installed skills",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T10:04:39Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 47169,
+      "title": "test(tts): add resolveModelAsync mock to fix 6 failing tests",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T10:03:14Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 47165,
+      "title": "docs: add comprehensive Chinese tutorial to community resources",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T09:58:22Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 45907,
       "title": "feat(config): add agents.defaults.reasoningDefault config option",
@@ -59,8 +224,8 @@
       "merged": false,
       "createdAt": "2026-03-14T08:55:56Z",
       "mergedAt": null,
-      "additions": 5,
-      "deletions": 1,
+      "additions": 129,
+      "deletions": 38,
       "changedFiles": 3
     },
     {
@@ -70,8 +235,8 @@
       "merged": false,
       "createdAt": "2026-03-14T08:43:47Z",
       "mergedAt": null,
-      "additions": 111,
-      "deletions": 3,
+      "additions": 184,
+      "deletions": 6,
       "changedFiles": 2
     },
     {
@@ -87,8 +252,24 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 47230,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T12:37:33Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-14": {
       "prs": 3,
       "issues": 0,
@@ -97,8 +278,15 @@
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
   "recentCommitDays": {}
 }

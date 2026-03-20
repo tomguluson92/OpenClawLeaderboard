@@ -1,25 +1,25 @@
 {
   "username": "YUJIE2002",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/123847463?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/123847463?u=fe6b54e9c93bce7e235e2c528735a3d7e19af835&v=4",
   "githubUrl": "https://github.com/YUJIE2002",
   "score": {
-    "score": 23.44,
-    "prScore": 18.44,
-    "issueScore": 5,
+    "score": 19.25,
+    "prScore": 19.25,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
-    "commits": 2,
-    "prs": 0,
+    "commits": 0,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
+    "prAdditions": 62,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,8 +40,8 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 0,
-      "issues": 1,
+      "prs": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 269,
@@ -49,29 +49,32 @@
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-03T05:00:50Z",
-  "lastContribution": "2026-03-03T05:00:50Z",
-  "recentPRs": [],
-  "recentIssues": [
+  "firstContribution": "2026-03-18T18:22:29Z",
+  "lastContribution": "2026-03-18T18:22:29Z",
+  "recentPRs": [
     {
-      "number": 32579,
-      "title": "[Bug]: Gateway broadcasts chat events to all WebSocket clients regardless of session",
+      "number": 49962,
+      "title": "fix: groupPolicy 'open' should not be overridden by explicit group entries",
       "state": "OPEN",
-      "createdAt": "2026-03-03T05:00:50Z",
-      "closedAt": null
+      "merged": false,
+      "createdAt": "2026-03-18T18:22:29Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 1,
+      "changedFiles": 2
     }
   ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Issue Reporting",
-    "Direct Commits"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {

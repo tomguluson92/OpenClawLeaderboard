@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17255546?v=4",
   "githubUrl": "https://github.com/CharZhou",
   "score": {
-    "score": 58.48,
+    "score": 58.98,
     "prScore": 22.98,
     "issueScore": 20,
     "reviewScore": 15,
-    "commentScore": 0.5
+    "commentScore": 1
   },
   "tier": "regular",
   "characterClass": "Hunter",
@@ -24,7 +24,7 @@
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -32,9 +32,9 @@
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 1,
       "reviews": 5,
-      "comments": 0,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -43,14 +43,14 @@
       "prs": 1,
       "issues": 4,
       "reviews": 5,
-      "comments": 1,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T10:41:17Z",
-  "lastContribution": "2026-03-14T12:49:11Z",
+  "firstContribution": "2026-03-11T05:06:09Z",
+  "lastContribution": "2026-03-16T09:59:08Z",
   "recentPRs": [
     {
       "number": 45872,
@@ -65,6 +65,13 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 48114,
+      "title": "[Bug] Remote CDP profile fails with browserContext.newPage: Target page, context or browser has been closed after remote browser restart",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T09:59:08Z",
+      "closedAt": null
+    },
     {
       "number": 44138,
       "title": "Manual /compact command fails with 'no real conversation messages' on Discord thread sessions",
@@ -84,13 +91,6 @@
       "title": "message tool: Feishu send action polluted by poll schema/guard prevents file send",
       "state": "OPEN",
       "createdAt": "2026-03-11T05:06:09Z",
-      "closedAt": null
-    },
-    {
-      "number": 36057,
-      "title": "Bug: openai-responses custom providers can drop effective tool_choice on streamSimple path (no tool calls)",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T12:00:18Z",
       "closedAt": null
     }
   ],
@@ -127,6 +127,11 @@
       "issues": 0,
       "reviews": 5
     },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 0,
       "issues": 1,
@@ -135,11 +140,6 @@
     "2026-03-11": {
       "prs": 0,
       "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 0,
-      "issues": 1,
       "reviews": 0
     }
   },

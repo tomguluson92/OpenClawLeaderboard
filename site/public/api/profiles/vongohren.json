@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1012055?u=a9779b9bb013c7766376cbe11a72285b79d63409&v=4",
   "githubUrl": "https://github.com/vongohren",
   "score": {
-    "score": 19.13,
+    "score": 13.13,
     "prScore": 13.13,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,37 @@
     "prDeletions": 6,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-07T06:18:12Z",
+  "firstContribution": "2026-03-09T14:13:28Z",
   "lastContribution": "2026-03-09T14:13:28Z",
   "recentPRs": [
     {
@@ -64,32 +64,17 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38629,
-      "title": "[Bug]: msteams implicit mention fails — replyToId unreliable, conversation.id threadRootId not used as fallback",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T06:18:12Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

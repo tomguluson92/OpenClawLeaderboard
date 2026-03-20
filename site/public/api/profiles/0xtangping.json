@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12505774?u=63a37b3ae46cc9fa6a55eedf40bb9883a1626e44&v=4",
   "githubUrl": "https://github.com/0xtangping",
   "score": {
-    "score": 229.26,
-    "prScore": 217.76,
+    "score": 164.02,
+    "prScore": 157.52,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 11.5
+    "commentScore": 6.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 20,
+    "prs": 14,
     "prsMerged": 1,
-    "prAdditions": 789,
-    "prDeletions": 225,
-    "prChangedFiles": 36,
-    "prMergeRate": 5,
+    "prAdditions": 628,
+    "prDeletions": 207,
+    "prChangedFiles": 28,
+    "prMergeRate": 7,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 23,
+    "comments": 13,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -34,22 +34,22 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 11,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 20,
+      "prs": 14,
       "issues": 0,
       "reviews": 0,
-      "comments": 23,
+      "comments": 13,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T10:20:20Z",
+  "firstContribution": "2026-03-06T10:36:43Z",
   "lastContribution": "2026-03-15T01:24:32Z",
   "recentPRs": [
     {
@@ -205,72 +205,6 @@
       "additions": 158,
       "deletions": 66,
       "changedFiles": 3
-    },
-    {
-      "number": 37069,
-      "title": "fix(tts): enable Matrix voice-bubble output for auto TTS replies",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T03:05:32Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 36974,
-      "title": "docs(faq): remove broken troubleshooting anchor for Xfinity SSL",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T01:33:30Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 2,
-      "changedFiles": 1
-    },
-    {
-      "number": 34322,
-      "title": "fix(browser): improve extension relay tab-not-found diagnostics for blocked CDP attach",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T10:47:45Z",
-      "mergedAt": null,
-      "additions": 85,
-      "deletions": 9,
-      "changedFiles": 2
-    },
-    {
-      "number": 34320,
-      "title": "test(infra): clean up exec-approvals temp dirs after each test",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T10:46:39Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 34302,
-      "title": "docs(workspace): clarify media allowlist behavior for workspace-<profile>",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T10:21:39Z",
-      "mergedAt": null,
-      "additions": 18,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 34299,
-      "title": "test(infra): cleanup dotenv temp fixtures to avoid /tmp accumulation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T10:20:20Z",
-      "mergedAt": null,
-      "additions": 29,
-      "deletions": 4,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -297,12 +231,7 @@
       "reviews": 0
     },
     "2026-03-06": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 4,
+      "prs": 1,
       "issues": 0,
       "reviews": 0
     }
@@ -316,11 +245,6 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
     }
   ],
   "recentCommitDays": {}

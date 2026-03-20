@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/165852679?v=4",
   "githubUrl": "https://github.com/aiwatching",
   "score": {
-    "score": 166.38,
-    "prScore": 166.38,
+    "score": 9.35,
+    "prScore": 9.35,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 21898,
-    "prDeletions": 3916,
-    "prChangedFiles": 472,
+    "prAdditions": 47,
+    "prDeletions": 2,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T20:45:46Z",
+  "firstContribution": "2026-03-10T15:49:13Z",
   "lastContribution": "2026-03-10T15:49:13Z",
   "recentPRs": [
     {
@@ -62,17 +62,6 @@
       "additions": 47,
       "deletions": 2,
       "changedFiles": 2
-    },
-    {
-      "number": 36686,
-      "title": "Fix: restore Linuxbrew installation support in Docker builds",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T20:45:46Z",
-      "mergedAt": null,
-      "additions": 21851,
-      "deletions": 3914,
-      "changedFiles": 470
     }
   ],
   "recentIssues": [],
@@ -82,23 +71,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Large-Scale Changes"
+    "Pull Requests"
   ],
-  "achievements": [
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {}
 }

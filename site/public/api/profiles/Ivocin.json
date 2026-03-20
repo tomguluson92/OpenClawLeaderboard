@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/16836801?u=7ccdee35efe11a7776cb5c2df35cebf33f2cf0cf&v=4",
   "githubUrl": "https://github.com/Ivocin",
   "score": {
-    "score": 53.22,
+    "score": 48.22,
     "prScore": 32.72,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 15,
     "commentScore": 0.5
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
@@ -19,7 +19,7 @@
     "prDeletions": 71,
     "prChangedFiles": 12,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
@@ -34,14 +34,14 @@
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 5,
       "comments": 1,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-07T08:54:00Z",
+  "firstContribution": "2026-03-07T09:08:04Z",
   "lastContribution": "2026-03-13T05:55:39Z",
   "recentPRs": [
     {
@@ -64,15 +64,7 @@
       "changedFiles": 12
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38702,
-      "title": "[Feature]: WebChat input history navigation with ArrowUp / ArrowDown",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T08:54:00Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 38709,
@@ -103,7 +95,7 @@
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 4
     },
     "2026-03-08": {
@@ -115,15 +107,8 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {}
 }

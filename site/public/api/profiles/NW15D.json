@@ -1,16 +1,16 @@
 {
   "username": "NW15D",
-  "avatarUrl": "https://github.com/NW15D.png",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1011406?u=1c78b378fa523180cf7491b0211a5b98dcbf6e00&v=4",
   "githubUrl": "https://github.com/NW15D",
   "score": {
-    "score": 3,
+    "score": 8.5,
     "prScore": 0,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 3,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Reviewer",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 0,
@@ -19,12 +19,12 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -32,27 +32,35 @@
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 0,
-      "issues": 0,
+      "issues": 1,
       "reviews": 1,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-07T07:41:56Z",
-  "lastContribution": "2026-03-07T07:41:56Z",
+  "lastContribution": "2026-03-15T18:52:37Z",
   "recentPRs": [],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 47548,
+      "title": "[Bug]: agent/embedded] embedded run agent end error=textContent.unshift is not a function",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T18:03:00Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
     {
       "prNumber": 38034,
@@ -61,6 +69,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-07": {
       "prs": 0,
       "issues": 0,
@@ -68,7 +81,9 @@
     }
   },
   "skills": [
-    "Code Review"
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
   ],
   "achievements": [],
   "recentCommitDays": {}

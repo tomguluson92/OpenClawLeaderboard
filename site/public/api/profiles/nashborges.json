@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9395917?u=b05ae961a6b7817968209a501d4974d8e4fd86be&v=4",
   "githubUrl": "https://github.com/nashborges",
   "score": {
-    "score": 174.26,
+    "score": 209.76,
     "prScore": 154.76,
-    "issueScore": 10,
+    "issueScore": 45,
     "reviewScore": 3,
-    "commentScore": 6.5
+    "commentScore": 7
   },
-  "tier": "regular",
-  "characterClass": "Contributor",
+  "tier": "active",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 4,
@@ -19,38 +19,38 @@
     "prDeletions": 26,
     "prChangedFiles": 58,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 9,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
+    "comments": 14,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 1,
+      "prs": 2,
+      "issues": 7,
       "reviews": 1,
-      "comments": 9,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 4,
-      "issues": 2,
+      "issues": 9,
       "reviews": 1,
-      "comments": 13,
+      "comments": 14,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-07T20:17:21Z",
-  "lastContribution": "2026-03-14T06:05:54Z",
+  "lastContribution": "2026-03-16T22:06:40Z",
   "recentPRs": [
     {
       "number": 45567,
@@ -99,6 +99,55 @@
   ],
   "recentIssues": [
     {
+      "number": 48519,
+      "title": "[Feature]: Track data provenance across session boundaries for persistent state",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T22:06:40Z",
+      "closedAt": null
+    },
+    {
+      "number": 48517,
+      "title": "[Feature]: Support plugin-requestable session isolation for trust boundaries",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T22:05:42Z",
+      "closedAt": null
+    },
+    {
+      "number": 48515,
+      "title": "[Feature]: Generalize approval routing into a reusable plugin primitive",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T22:03:45Z",
+      "closedAt": null
+    },
+    {
+      "number": 48510,
+      "title": "[Feature]: Add optional capability descriptors to tool definitions",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T21:58:57Z",
+      "closedAt": null
+    },
+    {
+      "number": 48509,
+      "title": "[Feature]: Add before_persistence_write hook for durable state changes",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T21:56:50Z",
+      "closedAt": null
+    },
+    {
+      "number": 48506,
+      "title": "[Feature]: Enrich message_sending hook with resolved target context",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T21:54:48Z",
+      "closedAt": null
+    },
+    {
+      "number": 48503,
+      "title": "[Feature]: Enrich before_tool_call event with action classification and input provenance",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T21:49:41Z",
+      "closedAt": null
+    },
+    {
       "number": 44580,
       "title": "Bug: preserve fallback thinking signatures at replay boundary",
       "state": "OPEN",
@@ -135,6 +184,11 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 7,
+      "reviews": 0
     }
   },
   "skills": [
@@ -144,6 +198,11 @@
     "Discussion"
   ],
   "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
     {
       "id": "well-rounded",
       "label": "Well Rounded",

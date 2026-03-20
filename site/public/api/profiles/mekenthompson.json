@@ -3,55 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8923913?u=fa4e108d038b281ff584e7cf80b635cefb2530f2&v=4",
   "githubUrl": "https://github.com/mekenthompson",
   "score": {
-    "score": 41.71,
-    "prScore": 34.71,
-    "issueScore": 5,
+    "score": 110.34,
+    "prScore": 94.34,
+    "issueScore": 15,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 1
   },
-  "tier": "beginner",
-  "characterClass": "Contributor",
+  "tier": "regular",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 265,
-    "prDeletions": 49,
-    "prChangedFiles": 12,
+    "prAdditions": 375,
+    "prDeletions": 34,
+    "prChangedFiles": 29,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 3,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 1,
+      "prs": 4,
+      "issues": 2,
       "reviews": 0,
-      "comments": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 1,
+      "prs": 6,
+      "issues": 3,
       "reviews": 0,
-      "comments": 4,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T03:25:11Z",
-  "lastContribution": "2026-03-14T21:32:41Z",
+  "firstContribution": "2026-03-08T22:54:41Z",
+  "lastContribution": "2026-03-19T21:50:55Z",
   "recentPRs": [
+    {
+      "number": 50657,
+      "title": "fix(telegram): make buttons schema contribution Optional",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T21:50:55Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 50068,
+      "title": "fix(telegram): add buildToolContext to resolve message_thread_id for DM topics",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T23:14:45Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 49389,
+      "title": "fix(telegram): add buildToolContext to resolve message_thread_id for DM topics",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T02:53:21Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 5,
+      "changedFiles": 6
+    },
+    {
+      "number": 48791,
+      "title": "fix(plugins): pin channel registry to prevent desync on runtime reload",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T06:41:46Z",
+      "mergedAt": null,
+      "additions": 119,
+      "deletions": 6,
+      "changedFiles": 8
+    },
     {
       "number": 43465,
       "title": "fix(ssrf): thread connectOptions through fetch pipeline for Telegram IPv4 fallback",
@@ -70,12 +114,26 @@
       "merged": false,
       "createdAt": "2026-03-08T22:54:41Z",
       "mergedAt": null,
-      "additions": 98,
-      "deletions": 34,
+      "additions": 50,
+      "deletions": 6,
       "changedFiles": 5
     }
   ],
   "recentIssues": [
+    {
+      "number": 49388,
+      "title": "fix(telegram): missing buildToolContext causes message tool, cron, and sessions_send to lose thread context",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T02:53:06Z",
+      "closedAt": null
+    },
+    {
+      "number": 48790,
+      "title": "[Bug]: Channel plugin registrations lost on runtime registry swap — message tool \"Unknown channel\" for configured channels",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T06:41:13Z",
+      "closedAt": null
+    },
     {
       "number": 43464,
       "title": "fix(ssrf): Telegram media download IPv4 fallback regression from 45b74fb56c",
@@ -86,6 +144,21 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 1,

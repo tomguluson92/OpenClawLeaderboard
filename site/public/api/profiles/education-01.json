@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/63526822?u=d2411739e76271e974ea8c03d0f62d005ad19a35&v=4",
   "githubUrl": "https://github.com/education-01",
   "score": {
-    "score": 50.35,
-    "prScore": 50.35,
+    "score": 208.46,
+    "prScore": 208.46,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 159,
-    "prDeletions": 7,
-    "prChangedFiles": 10,
+    "prAdditions": 339,
+    "prDeletions": 9865,
+    "prChangedFiles": 56,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 10,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 10,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,63 @@
     }
   },
   "firstContribution": "2026-03-14T21:57:29Z",
-  "lastContribution": "2026-03-15T04:28:06Z",
+  "lastContribution": "2026-03-17T08:55:16Z",
   "recentPRs": [
+    {
+      "number": 48872,
+      "title": "fix: preserve version suffix in model IDs (@YYYYMMDD)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T08:55:16Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 9,
+      "changedFiles": 7
+    },
+    {
+      "number": 47835,
+      "title": "fix: add operator.read/write to Control UI WebSocket scope bundle",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T03:04:43Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 3267,
+      "changedFiles": 12
+    },
+    {
+      "number": 47734,
+      "title": "fix: handle Windows schtasks \"Last Result\" key variant",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T01:25:41Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 3266,
+      "changedFiles": 12
+    },
+    {
+      "number": 47714,
+      "title": "fix: add Mistral tool call ID hints to OpenRouter provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T00:51:23Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 3265,
+      "changedFiles": 11
+    },
+    {
+      "number": 47617,
+      "title": "fix: add node-addon-api to dependencies for sharp native build",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T20:24:55Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 46864,
       "title": "fix(nodes): inherit exec approvals full/off defaults",
@@ -81,38 +136,48 @@
       "merged": false,
       "createdAt": "2026-03-15T04:17:50Z",
       "mergedAt": null,
-      "additions": 33,
-      "deletions": 2,
-      "changedFiles": 2
+      "additions": 62,
+      "deletions": 19,
+      "changedFiles": 3
     },
     {
       "number": 46608,
       "title": "fix(cron): apply agent defaults fallbacks to cron sessions",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T22:02:04Z",
       "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
+      "additions": 30,
+      "deletions": 18,
+      "changedFiles": 2
     },
     {
       "number": 46606,
       "title": "fix(ui): use totalTokens instead of inputTokens for context banner",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T21:57:29Z",
       "mergedAt": null,
-      "additions": 38,
-      "deletions": 2,
-      "changedFiles": 3
+      "additions": 67,
+      "deletions": 19,
+      "changedFiles": 4
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-15": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
       "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 4,
       "issues": 0,
       "reviews": 0
     },
@@ -123,8 +188,15 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
   "recentCommitDays": {}
 }

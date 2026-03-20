@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/39724729?u=6f5f107125c044bbc094702281cb8bdfe9515116&v=4",
   "githubUrl": "https://github.com/rnrnstar2",
   "score": {
-    "score": 202.76,
+    "score": 197.76,
     "prScore": 88.76,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 100
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
@@ -19,37 +19,37 @@
     "prDeletions": 81,
     "prChangedFiles": 28,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 245,
+    "comments": 234,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 0,
       "issues": 0,
-      "reviews": 3,
-      "comments": 194,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 5,
-      "issues": 1,
+      "issues": 0,
       "reviews": 3,
-      "comments": 245,
+      "comments": 234,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-07T16:12:53Z",
+  "firstContribution": "2026-03-07T21:12:16Z",
   "lastContribution": "2026-03-12T16:10:32Z",
   "recentPRs": [
     {
@@ -108,15 +108,7 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38988,
-      "title": "infra: Sentry監視環境のセットアップ",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T16:12:53Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 44192,
@@ -149,17 +141,11 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
@@ -167,11 +153,6 @@
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
   ],
   "recentCommitDays": {}

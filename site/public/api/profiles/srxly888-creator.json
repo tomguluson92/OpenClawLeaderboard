@@ -1,0 +1,127 @@
+{
+  "username": "srxly888-creator",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/238136103?v=4",
+  "githubUrl": "https://github.com/srxly888-creator",
+  "score": {
+    "score": 160.72,
+    "prScore": 141.22,
+    "issueScore": 10,
+    "reviewScore": 3,
+    "commentScore": 6.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 4007,
+    "prDeletions": 815,
+    "prChangedFiles": 154,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 13,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 13,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 13,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-17T05:24:51Z",
+  "lastContribution": "2026-03-20T06:54:06Z",
+  "recentPRs": [
+    {
+      "number": 50882,
+      "title": "feat(skills): add agent-scoped skills policy",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T06:17:18Z",
+      "mergedAt": null,
+      "additions": 1281,
+      "deletions": 98,
+      "changedFiles": 29
+    },
+    {
+      "number": 48838,
+      "title": "feat(runtime): support agent-scoped skill policy and cron agent/delivery semantics",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T07:56:57Z",
+      "mergedAt": null,
+      "additions": 2726,
+      "deletions": 717,
+      "changedFiles": 125
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 48752,
+      "title": "Runtime support for global skills + agent override (effective skill resolution)",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T05:26:31Z",
+      "closedAt": null
+    },
+    {
+      "number": 48750,
+      "title": "Runtime contract for cron agentId + delivery(channel/to) semantics",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T05:24:51Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 48838,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T15:51:18Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

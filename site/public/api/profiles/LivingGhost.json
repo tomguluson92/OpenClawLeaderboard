@@ -1,57 +1,211 @@
 {
-  "username": "LivingGhost",
+  "username": "livingghost",
   "avatarUrl": "https://avatars.githubusercontent.com/u/14040213?v=4",
-  "githubUrl": "https://github.com/LivingGhost",
+  "githubUrl": "https://github.com/livingghost",
   "score": {
-    "score": 83.06,
-    "prScore": 61.56,
+    "score": 492.81,
+    "prScore": 281.31,
     "issueScore": 0,
-    "reviewScore": 21,
-    "commentScore": 0.5
+    "reviewScore": 198,
+    "commentScore": 13.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 16,
     "prsMerged": 0,
-    "prAdditions": 720,
-    "prDeletions": 18,
-    "prChangedFiles": 24,
+    "prAdditions": 57359,
+    "prDeletions": 22421,
+    "prChangedFiles": 1836,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 7,
+    "reviews": 66,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 27,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 14,
       "issues": 0,
-      "reviews": 7,
-      "comments": 1,
+      "reviews": 59,
+      "comments": 26,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 16,
       "issues": 0,
-      "reviews": 7,
-      "comments": 1,
+      "reviews": 66,
+      "comments": 27,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-08T15:33:43Z",
-  "lastContribution": "2026-03-12T12:31:11Z",
+  "lastContribution": "2026-03-19T20:58:13Z",
   "recentPRs": [
+    {
+      "number": 50402,
+      "title": "Plugins: fix subagent dispatch and runtime state management",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T11:52:47Z",
+      "mergedAt": null,
+      "additions": 915,
+      "deletions": 106,
+      "changedFiles": 19
+    },
+    {
+      "number": 49977,
+      "title": "Plugins: add structured output support for subagents",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T19:05:59Z",
+      "mergedAt": null,
+      "additions": 912,
+      "deletions": 23,
+      "changedFiles": 17
+    },
+    {
+      "number": 49976,
+      "title": "Gateway: fix hook dispatch and Discord provider teardown",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T19:05:57Z",
+      "mergedAt": null,
+      "additions": 739,
+      "deletions": 169,
+      "changedFiles": 20
+    },
+    {
+      "number": 49975,
+      "title": "Gateway: add agent abort support with session ownership",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T19:05:55Z",
+      "mergedAt": null,
+      "additions": 478,
+      "deletions": 2,
+      "changedFiles": 18
+    },
+    {
+      "number": 49560,
+      "title": "Gateway: fix hook dispatch and Discord provider teardown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T07:16:03Z",
+      "mergedAt": null,
+      "additions": 13649,
+      "deletions": 6323,
+      "changedFiles": 424
+    },
+    {
+      "number": 49559,
+      "title": "Plugins: fix subagent dispatch and runtime state management",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T07:15:45Z",
+      "mergedAt": null,
+      "additions": 772,
+      "deletions": 95,
+      "changedFiles": 19
+    },
+    {
+      "number": 49558,
+      "title": "Gateway: add agent abort support with session ownership",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T07:15:29Z",
+      "mergedAt": null,
+      "additions": 13311,
+      "deletions": 6197,
+      "changedFiles": 427
+    },
+    {
+      "number": 49487,
+      "title": "Gateway: fix plugin runtime and hook dispatch handling",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T05:12:09Z",
+      "mergedAt": null,
+      "additions": 1899,
+      "deletions": 268,
+      "changedFiles": 54
+    },
+    {
+      "number": 49416,
+      "title": "Plugins: add structured output support for subagents",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T03:33:51Z",
+      "mergedAt": null,
+      "additions": 13810,
+      "deletions": 6214,
+      "changedFiles": 423
+    },
+    {
+      "number": 48231,
+      "title": "Plugins: add structured output support for subagents",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T13:27:41Z",
+      "mergedAt": null,
+      "additions": 5025,
+      "deletions": 2768,
+      "changedFiles": 240
+    },
+    {
+      "number": 48230,
+      "title": "Gateway: fix plugin runtime and hook dispatch handling",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T13:27:37Z",
+      "mergedAt": null,
+      "additions": 1828,
+      "deletions": 111,
+      "changedFiles": 53
+    },
+    {
+      "number": 47923,
+      "title": "fix: narrow reply-root dedupe to queued reruns",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T05:34:06Z",
+      "mergedAt": null,
+      "additions": 674,
+      "deletions": 7,
+      "changedFiles": 19
+    },
+    {
+      "number": 47920,
+      "title": "fix: narrow reply-root dedupe to queued reruns",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T05:23:56Z",
+      "mergedAt": null,
+      "additions": 512,
+      "deletions": 7,
+      "changedFiles": 19
+    },
+    {
+      "number": 47517,
+      "title": "Gateway: preserve arbiter subagent context and runtime",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T17:20:40Z",
+      "mergedAt": null,
+      "additions": 2115,
+      "deletions": 113,
+      "changedFiles": 60
+    },
     {
       "number": 41813,
       "title": "feat(hooks): expose arbiter conversation and sender metadata",
@@ -78,42 +232,127 @@
   "recentIssues": [],
   "recentReviews": [
     {
-      "prNumber": 41813,
+      "prNumber": 49977,
       "state": "COMMENTED",
-      "createdAt": "2026-03-12T12:31:11Z"
+      "createdAt": "2026-03-19T12:35:49Z"
     },
     {
-      "prNumber": 41813,
+      "prNumber": 50402,
       "state": "COMMENTED",
-      "createdAt": "2026-03-12T12:13:57Z"
+      "createdAt": "2026-03-19T12:03:48Z"
     },
     {
-      "prNumber": 41813,
+      "prNumber": 50402,
       "state": "COMMENTED",
-      "createdAt": "2026-03-12T11:57:27Z"
+      "createdAt": "2026-03-19T12:03:46Z"
     },
     {
-      "prNumber": 41813,
+      "prNumber": 50402,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T06:16:09Z"
+      "createdAt": "2026-03-19T12:03:45Z"
     },
     {
-      "prNumber": 41813,
+      "prNumber": 50402,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T05:58:31Z"
+      "createdAt": "2026-03-19T12:03:43Z"
     },
     {
-      "prNumber": 40007,
+      "prNumber": 49977,
       "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:46:51Z"
+      "createdAt": "2026-03-19T07:29:08Z"
     },
     {
-      "prNumber": 40007,
+      "prNumber": 49975,
       "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:46:50Z"
+      "createdAt": "2026-03-19T06:39:06Z"
+    },
+    {
+      "prNumber": 49975,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T06:39:05Z"
+    },
+    {
+      "prNumber": 49975,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T06:39:03Z"
+    },
+    {
+      "prNumber": 49975,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T06:39:02Z"
+    },
+    {
+      "prNumber": 49977,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T23:34:57Z"
+    },
+    {
+      "prNumber": 49977,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T20:31:08Z"
+    },
+    {
+      "prNumber": 49977,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T20:31:07Z"
+    },
+    {
+      "prNumber": 49976,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T20:31:05Z"
+    },
+    {
+      "prNumber": 49976,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T20:31:04Z"
+    },
+    {
+      "prNumber": 49976,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T20:31:02Z"
+    },
+    {
+      "prNumber": 49975,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T20:31:01Z"
+    },
+    {
+      "prNumber": 49975,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T20:31:00Z"
+    },
+    {
+      "prNumber": 49558,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T11:18:53Z"
+    },
+    {
+      "prNumber": 49416,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T10:03:38Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 10
+    },
+    "2026-03-18": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 33
+    },
+    "2026-03-16": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
@@ -124,6 +363,11 @@
       "issues": 0,
       "reviews": 2
     },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
+    },
     "2026-03-12": {
       "prs": 0,
       "issues": 0,
@@ -133,8 +377,40 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "review-guru",
+      "label": "Review Guru",
+      "description": "50+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ],
   "recentCommitDays": {}
 }

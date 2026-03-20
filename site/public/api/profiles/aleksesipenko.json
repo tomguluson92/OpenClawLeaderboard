@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/252942994?v=4",
   "githubUrl": "https://github.com/aleksesipenko",
   "score": {
-    "score": 19.76,
+    "score": 22.76,
     "prScore": 9.26,
-    "issueScore": 10,
+    "issueScore": 13,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -20,7 +20,7 @@
     "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 2,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
@@ -34,7 +34,7 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -49,8 +49,8 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-06T09:08:42Z",
-  "lastContribution": "2026-03-11T23:53:52Z",
+  "firstContribution": "2026-03-06T09:18:28Z",
+  "lastContribution": "2026-03-16T10:39:50Z",
   "recentPRs": [
     {
       "number": 37547,
@@ -66,17 +66,17 @@
   ],
   "recentIssues": [
     {
+      "number": 48141,
+      "title": "[Bug]: Telegram group (basic Chat) — message with @mention silently dropped when it is a reply to another user's file message",
+      "state": "CLOSED",
+      "createdAt": "2026-03-16T10:37:11Z",
+      "closedAt": "2026-03-16T10:39:51Z"
+    },
+    {
       "number": 43527,
       "title": "[Bug]: status says \"no bootstrap files\" when only BOOTSTRAP.md is absent",
       "state": "OPEN",
       "createdAt": "2026-03-11T23:53:52Z",
-      "closedAt": null
-    },
-    {
-      "number": 37515,
-      "title": "Telegram voice notes can inject known Whisper hallucinations like \"Субтитры сделал DimaTorzok\" as trusted transcript text",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T09:08:42Z",
       "closedAt": null
     }
   ],
@@ -84,6 +84,11 @@
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 0,
       "issues": 1,
       "reviews": 0
     },

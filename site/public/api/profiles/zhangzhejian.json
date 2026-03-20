@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/30180005?v=4",
   "githubUrl": "https://github.com/zhangzhejian",
   "score": {
-    "score": 20.37,
-    "prScore": 20.37,
+    "score": 10.7,
+    "prScore": 10.7,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 64,
-    "prDeletions": 5,
-    "prChangedFiles": 5,
+    "prAdditions": 57,
+    "prDeletions": 3,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T02:24:55Z",
+  "firstContribution": "2026-03-13T02:46:19Z",
   "lastContribution": "2026-03-13T02:46:19Z",
   "recentPRs": [
     {
@@ -62,28 +62,12 @@
       "additions": 57,
       "deletions": 3,
       "changedFiles": 3
-    },
-    {
-      "number": 35241,
-      "title": "CLI: add --session-key flag to openclaw agent",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T02:24:55Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-13": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
       "prs": 1,
       "issues": 0,
       "reviews": 0

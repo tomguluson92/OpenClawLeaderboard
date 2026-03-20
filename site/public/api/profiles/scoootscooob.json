@@ -3,55 +3,154 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/167050519?v=4",
   "githubUrl": "https://github.com/scoootscooob",
   "score": {
-    "score": 841.9,
-    "prScore": 779.9,
+    "score": 865.49,
+    "prScore": 800.99,
     "issueScore": 23,
-    "reviewScore": 20,
-    "commentScore": 19
+    "reviewScore": 18,
+    "commentScore": 23.5
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
-    "commits": 40,
-    "prs": 50,
-    "prsMerged": 13,
-    "prAdditions": 87055,
-    "prDeletions": 83278,
-    "prChangedFiles": 1870,
-    "prMergeRate": 26,
+    "commits": 47,
+    "prs": 45,
+    "prsMerged": 20,
+    "prAdditions": 87562,
+    "prDeletions": 83483,
+    "prChangedFiles": 1880,
+    "prMergeRate": 44,
     "issues": 4,
     "issuesClosed": 1,
     "reviews": 6,
-    "reviewsApproved": 2,
+    "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 38,
-    "commitAdditions": 84172,
-    "commitDeletions": 82183,
-    "commitChangedFiles": 1725
+    "comments": 47,
+    "commitAdditions": 85309,
+    "commitDeletions": 82351,
+    "commitChangedFiles": 1762
   },
   "period": {
     "weekly": {
-      "prs": 23,
+      "prs": 22,
       "issues": 0,
-      "reviews": 0,
-      "comments": 27,
-      "commitAdditions": 82452,
-      "commitDeletions": 82005,
-      "commits": 15
+      "reviews": 3,
+      "comments": 14,
+      "commitAdditions": 83405,
+      "commitDeletions": 82163,
+      "commits": 18
     },
     "monthly": {
-      "prs": 50,
+      "prs": 45,
       "issues": 4,
       "reviews": 6,
-      "comments": 38,
-      "commitAdditions": 84172,
-      "commitDeletions": 82183,
-      "commits": 40
+      "comments": 47,
+      "commitAdditions": 85309,
+      "commitDeletions": 82351,
+      "commits": 47
     }
   },
-  "firstContribution": "2026-03-04T00:10:18Z",
-  "lastContribution": "2026-03-14T21:15:38Z",
+  "firstContribution": "2026-03-06T19:25:59Z",
+  "lastContribution": "2026-03-18T17:28:27Z",
   "recentPRs": [
+    {
+      "number": 49935,
+      "title": "Slack: remove duplicate directory imports",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T17:28:27Z",
+      "mergedAt": "2026-03-18T17:28:59Z",
+      "additions": 0,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 49930,
+      "title": "Slack: fix missing directory helper import",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T16:57:01Z",
+      "mergedAt": "2026-03-18T17:24:18Z",
+      "additions": 26,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 49504,
+      "title": "Google Chat: thin runtime api seam",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T05:44:02Z",
+      "mergedAt": "2026-03-18T06:02:30Z",
+      "additions": 24,
+      "deletions": 108,
+      "changedFiles": 8
+    },
+    {
+      "number": 49492,
+      "title": "Google Chat: internalize runtime api barrel",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T05:16:21Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 105,
+      "changedFiles": 3
+    },
+    {
+      "number": 49472,
+      "title": "xAI: add web search credential metadata",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T04:51:50Z",
+      "mergedAt": "2026-03-18T05:08:19Z",
+      "additions": 13,
+      "deletions": 14,
+      "changedFiles": 7
+    },
+    {
+      "number": 49471,
+      "title": "Slack: fix runtime api directory import",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T04:51:49Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 49470,
+      "title": "Signal: fix account config type import",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T04:51:49Z",
+      "mergedAt": "2026-03-18T05:12:38Z",
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 49237,
+      "title": "Agents: improve prompt cache hit rate and add prompt composition regression tests",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T20:46:37Z",
+      "mergedAt": "2026-03-17T23:40:20Z",
+      "additions": 773,
+      "deletions": 10,
+      "changedFiles": 6
+    },
+    {
+      "number": 48753,
+      "title": "Agents: move bootstrap warnings out of system prompt",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T05:29:23Z",
+      "mergedAt": "2026-03-17T06:25:04Z",
+      "additions": 299,
+      "deletions": 34,
+      "changedFiles": 11
+    },
     {
       "number": 46581,
       "title": "Move remaining channel send-deps imports off deliver.ts",
@@ -172,105 +271,6 @@
       "additions": 2700,
       "deletions": 2657,
       "changedFiles": 54
-    },
-    {
-      "number": 45531,
-      "title": "refactor: move Signal implementation to extension",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-13T23:34:43Z",
-      "mergedAt": "2026-03-14T09:42:49Z",
-      "additions": 5476,
-      "deletions": 5398,
-      "changedFiles": 65
-    },
-    {
-      "number": 45517,
-      "title": "refactor: make OutboundSendDeps dynamic with channel-ID keys",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-13T23:03:07Z",
-      "mergedAt": "2026-03-14T09:42:21Z",
-      "additions": 399,
-      "deletions": 278,
-      "changedFiles": 41
-    },
-    {
-      "number": 44597,
-      "title": "fix(acp): preserve final assistant message snapshot before end_turn",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-13T03:21:54Z",
-      "mergedAt": "2026-03-13T03:23:57Z",
-      "additions": 150,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 44593,
-      "title": "fix(acp): preserve final assistant message snapshot before end_turn",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T03:17:44Z",
-      "mergedAt": null,
-      "additions": 167,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 42435,
-      "title": "fix(models): apply Gemini model-id normalization to google-vertex provider",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T18:24:26Z",
-      "mergedAt": "2026-03-14T03:45:34Z",
-      "additions": 40,
-      "deletions": 3,
-      "changedFiles": 5
-    },
-    {
-      "number": 40657,
-      "title": "fix(daemon): add missing enable call in restartLaunchAgent",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T06:00:23Z",
-      "mergedAt": null,
-      "additions": 262,
-      "deletions": 1,
-      "changedFiles": 4
-    },
-    {
-      "number": 40558,
-      "title": "fix(session): strip thinking blocks from loaded session history",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T04:00:15Z",
-      "mergedAt": null,
-      "additions": 237,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 40557,
-      "title": "fix(tools): recognize catalog-known tools in allowlist validation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T03:58:30Z",
-      "mergedAt": null,
-      "additions": 41,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 40482,
-      "title": "fix(telegram): accept negative group chat IDs in groupAllowFrom (#40444)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T02:52:16Z",
-      "mergedAt": null,
-      "additions": 165,
-      "deletions": 6,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [
@@ -305,6 +305,21 @@
   ],
   "recentReviews": [
     {
+      "prNumber": 49237,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T21:33:48Z"
+    },
+    {
+      "prNumber": 49237,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T21:33:48Z"
+    },
+    {
+      "prNumber": 49237,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T21:33:47Z"
+    },
+    {
       "prNumber": 39153,
       "state": "COMMENTED",
       "createdAt": "2026-03-07T20:16:30Z"
@@ -318,24 +333,19 @@
       "prNumber": 39151,
       "state": "COMMENTED",
       "createdAt": "2026-03-07T20:16:14Z"
-    },
-    {
-      "prNumber": 36684,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T21:08:37Z"
-    },
-    {
-      "prNumber": 36688,
-      "state": "APPROVED",
-      "createdAt": "2026-03-05T21:08:26Z"
-    },
-    {
-      "prNumber": 36691,
-      "state": "APPROVED",
-      "createdAt": "2026-03-05T21:08:21Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-14": {
       "prs": 10,
       "issues": 0,
@@ -365,16 +375,6 @@
       "prs": 13,
       "issues": 4,
       "reviews": 3
-    },
-    "2026-03-06": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 10,
-      "issues": 0,
-      "reviews": 3
     }
   },
   "skills": [
@@ -390,11 +390,6 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "pr-master",
-      "label": "PR Master",
-      "description": "50+ pull requests"
     },
     {
       "id": "merger",
@@ -423,6 +418,8 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-18": 5,
+    "2026-03-17": 2,
     "2026-03-14": 11,
     "2026-03-13": 2,
     "2026-03-09": 2,

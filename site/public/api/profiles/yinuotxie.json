@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/61256373?u=c2b12e519d0b0883a66f96260592a961de7e5dc8&v=4",
   "githubUrl": "https://github.com/yinuotxie",
   "score": {
-    "score": 9.31,
-    "prScore": 9.31,
+    "score": 41.54,
+    "prScore": 41.54,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 41,
-    "prDeletions": 5,
-    "prChangedFiles": 2,
+    "prAdditions": 165,
+    "prDeletions": 28,
+    "prChangedFiles": 13,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -27,13 +27,11 @@
     "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -42,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -51,33 +49,60 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-02T11:11:21Z",
-  "lastContribution": "2026-03-02T11:11:21Z",
+  "firstContribution": "2026-03-19T12:08:53Z",
+  "lastContribution": "2026-03-20T07:41:52Z",
   "recentPRs": [
     {
-      "number": 31610,
-      "title": "cron: resolve store path at call time to respect --profile",
+      "number": 50910,
+      "title": "fix(agents): resolve ollama synthetic key before provider config check",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-02T11:11:21Z",
+      "createdAt": "2026-03-20T07:41:52Z",
       "mergedAt": null,
-      "additions": 41,
-      "deletions": 5,
+      "additions": 21,
+      "deletions": 16,
       "changedFiles": 2
+    },
+    {
+      "number": 50432,
+      "title": "fix(skills): allow sensitive-pattern env vars in skills.entries.*.env to reach exec subprocesses",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T12:54:32Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 50412,
+      "title": "fix(exec): propagate skills.entries.env vars into sandbox subprocess environment",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T12:08:53Z",
+      "mergedAt": null,
+      "additions": 99,
+      "deletions": 12,
+      "changedFiles": 9
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
     "Pull Requests"
   ],
   "achievements": [],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-02": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    }
-  }
+  "recentCommitDays": {}
 }

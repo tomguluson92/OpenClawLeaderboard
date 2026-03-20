@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/14231255?u=a17d3b27414de4d4e19e358ab9ccb7a412bee99e&v=4",
   "githubUrl": "https://github.com/hddevteam",
   "score": {
-    "score": 155.71,
-    "prScore": 152.21,
+    "score": 170.06,
+    "prScore": 167.06,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3.5
+    "commentScore": 3
   },
   "tier": "regular",
   "characterClass": "Builder",
@@ -15,26 +15,26 @@
     "commits": 0,
     "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 3355,
-    "prDeletions": 71,
-    "prChangedFiles": 48,
+    "prAdditions": 6550,
+    "prDeletions": 112,
+    "prChangedFiles": 92,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 6,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -43,15 +43,26 @@
       "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T15:09:44Z",
-  "lastContribution": "2026-03-14T03:01:18Z",
+  "firstContribution": "2026-03-08T01:38:57Z",
+  "lastContribution": "2026-03-17T02:31:49Z",
   "recentPRs": [
+    {
+      "number": 48659,
+      "title": "MSTeams: harden channel integration and readable focus labels",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T02:31:49Z",
+      "mergedAt": null,
+      "additions": 3601,
+      "deletions": 54,
+      "changedFiles": 39
+    },
     {
       "number": 45677,
       "title": "fix: pass meta argument through RuntimeLogger methods in createRuntimeLogging",
@@ -59,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-14T03:01:18Z",
       "mergedAt": null,
-      "additions": 4,
-      "deletions": 4,
-      "changedFiles": 1
+      "additions": 108,
+      "deletions": 36,
+      "changedFiles": 15
     },
     {
       "number": 43190,
@@ -70,9 +81,9 @@
       "merged": false,
       "createdAt": "2026-03-11T13:03:40Z",
       "mergedAt": null,
-      "additions": 2763,
-      "deletions": 36,
-      "changedFiles": 35
+      "additions": 2394,
+      "deletions": 6,
+      "changedFiles": 28
     },
     {
       "number": 40463,
@@ -81,9 +92,9 @@
       "merged": false,
       "createdAt": "2026-03-09T02:19:18Z",
       "mergedAt": null,
-      "additions": 280,
+      "additions": 340,
       "deletions": 16,
-      "changedFiles": 7
+      "changedFiles": 8
     },
     {
       "number": 39352,
@@ -95,22 +106,16 @@
       "additions": 107,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 34581,
-      "title": "fix(msteams): handle invalid JSON escape sequences in Bot Framework activities",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T15:09:44Z",
-      "mergedAt": null,
-      "additions": 201,
-      "deletions": 15,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -130,16 +135,12 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [],
   "recentCommitDays": {}

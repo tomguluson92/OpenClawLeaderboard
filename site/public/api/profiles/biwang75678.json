@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/193558718?v=4",
   "githubUrl": "https://github.com/biwang75678",
   "score": {
-    "score": 22.07,
-    "prScore": 21.07,
+    "score": 10.88,
+    "prScore": 10.38,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 324,
-    "prDeletions": 36,
-    "prChangedFiles": 4,
+    "prAdditions": 256,
+    "prDeletions": 21,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -34,22 +34,22 @@
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T11:05:23Z",
+  "firstContribution": "2026-03-07T05:41:16Z",
   "lastContribution": "2026-03-08T07:16:57Z",
   "recentPRs": [
     {
@@ -62,28 +62,12 @@
       "additions": 256,
       "deletions": 21,
       "changedFiles": 2
-    },
-    {
-      "number": 35973,
-      "title": "feat(feishu): support form_value in card action handler",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T11:05:23Z",
-      "mergedAt": null,
-      "additions": 68,
-      "deletions": 15,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
       "prs": 1,
       "issues": 0,
       "reviews": 0

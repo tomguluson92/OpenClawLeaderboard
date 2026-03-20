@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/25416941?u=37f6268a5ff66712fc32d053e9a6d24c953e5d70&v=4",
   "githubUrl": "https://github.com/FuzzyFade",
   "score": {
-    "score": 41.92,
+    "score": 26.92,
     "prScore": 20.42,
-    "issueScore": 15,
+    "issueScore": 0,
     "reviewScore": 6,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,7 +19,7 @@
     "prDeletions": 30,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
@@ -31,9 +31,9 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 1,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 2,
-      "issues": 3,
+      "issues": 0,
       "reviews": 2,
       "comments": 1,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-06T06:56:00Z",
+  "firstContribution": "2026-03-06T07:37:51Z",
   "lastContribution": "2026-03-12T12:38:30Z",
   "recentPRs": [
     {
@@ -75,29 +75,7 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 37733,
-      "title": "[Feature]: Prompt caching does not work for custom providers using anthropic-messages API",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T11:44:32Z",
-      "closedAt": null
-    },
-    {
-      "number": 37571,
-      "title": "[Bug]: Custom anthropic-messages providers fail when proxy omits SSE event: field",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T09:41:23Z",
-      "closedAt": null
-    },
-    {
-      "number": 37325,
-      "title": "[Feature]: Support prompt caching for custom providers using anthropic-messages API",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T06:56:00Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 44027,
@@ -118,22 +96,15 @@
     },
     "2026-03-06": {
       "prs": 1,
-      "issues": 3,
+      "issues": 0,
       "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {}
 }

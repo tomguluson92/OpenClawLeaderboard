@@ -1,0 +1,222 @@
+{
+  "username": "Chenglin97",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/95840377?u=4697e6d12c0834ab656e0342f58206f721ec7894&v=4",
+  "githubUrl": "https://github.com/Chenglin97",
+  "score": {
+    "score": 116.95,
+    "prScore": 32.95,
+    "issueScore": 0,
+    "reviewScore": 84,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 49,
+    "prDeletions": 12,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 28,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 28,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 28,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-18T08:53:27Z",
+  "lastContribution": "2026-03-18T16:02:35Z",
+  "recentPRs": [
+    {
+      "number": 49675,
+      "title": "fix(ui): add .catch() handler to createLazy — prevents permanent blank Control UI views",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T08:56:15Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 49673,
+      "title": "fix(installer): load nvm before Node.js version check",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T08:55:15Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 49671,
+      "title": "fix(heartbeat): non-default agents now inherit agents.defaults.heartbeat",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T08:53:53Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 49669,
+      "title": "fix(ui): add .catch() to createLazy() to prevent silent blank views",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T08:53:27Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 5,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 49903,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T16:02:35Z"
+    },
+    {
+      "prNumber": 49902,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T16:02:15Z"
+    },
+    {
+      "prNumber": 49901,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T16:02:14Z"
+    },
+    {
+      "prNumber": 49785,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T15:03:09Z"
+    },
+    {
+      "prNumber": 49840,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T15:02:45Z"
+    },
+    {
+      "prNumber": 49863,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T15:02:44Z"
+    },
+    {
+      "prNumber": 49733,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T14:02:42Z"
+    },
+    {
+      "prNumber": 49779,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T14:02:20Z"
+    },
+    {
+      "prNumber": 49800,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T14:02:19Z"
+    },
+    {
+      "prNumber": 49796,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T13:02:34Z"
+    },
+    {
+      "prNumber": 49795,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T13:02:05Z"
+    },
+    {
+      "prNumber": 49807,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T13:02:04Z"
+    },
+    {
+      "prNumber": 49731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T12:02:55Z"
+    },
+    {
+      "prNumber": 49770,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T12:02:31Z"
+    },
+    {
+      "prNumber": 49773,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T12:02:11Z"
+    },
+    {
+      "prNumber": 49691,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T11:03:42Z"
+    },
+    {
+      "prNumber": 49749,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T11:03:00Z"
+    },
+    {
+      "prNumber": 49750,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T11:02:33Z"
+    },
+    {
+      "prNumber": 49660,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T10:03:16Z"
+    },
+    {
+      "prNumber": 49680,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T10:03:12Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 28
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ],
+  "recentCommitDays": {}
+}

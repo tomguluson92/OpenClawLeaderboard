@@ -1,12 +1,12 @@
 {
   "username": "yeyanle6",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/163436251?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/163436251?u=fad19e35aa0bc936acce143615a964686ec3c303&v=4",
   "githubUrl": "https://github.com/yeyanle6",
   "score": {
-    "score": 57.15,
-    "prScore": 44.65,
+    "score": 63.4,
+    "prScore": 44.9,
     "issueScore": 0,
-    "reviewScore": 12,
+    "reviewScore": 18,
     "commentScore": 0.5
   },
   "tier": "regular",
@@ -15,13 +15,13 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1039,
-    "prDeletions": 27,
+    "prAdditions": 1081,
+    "prDeletions": 35,
     "prChangedFiles": 18,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 4,
+    "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 1,
@@ -33,7 +33,7 @@
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 4,
+      "reviews": 6,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -42,7 +42,7 @@
     "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 4,
+      "reviews": 6,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-13T08:50:43Z",
-  "lastContribution": "2026-03-13T09:29:00Z",
+  "lastContribution": "2026-03-15T23:29:49Z",
   "recentPRs": [
     {
       "number": 44884,
@@ -59,13 +59,23 @@
       "merged": false,
       "createdAt": "2026-03-13T08:50:43Z",
       "mergedAt": null,
-      "additions": 1039,
-      "deletions": 27,
+      "additions": 1081,
+      "deletions": 35,
       "changedFiles": 18
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 44884,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T23:29:49Z"
+    },
+    {
+      "prNumber": 44884,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T23:29:46Z"
+    },
     {
       "prNumber": 44884,
       "state": "COMMENTED",
@@ -92,6 +102,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 4
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
     }
   },
   "skills": [

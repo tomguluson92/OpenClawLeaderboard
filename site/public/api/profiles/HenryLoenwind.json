@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1485873?v=4",
   "githubUrl": "https://github.com/HenryLoenwind",
   "score": {
-    "score": 227.62,
+    "score": 233.12,
     "prScore": 97.12,
-    "issueScore": 115,
+    "issueScore": 120,
     "reviewScore": 3,
-    "commentScore": 12.5
+    "commentScore": 13
   },
   "tier": "active",
   "characterClass": "Hunter",
@@ -19,12 +19,12 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 20,
+    "issues": 21,
     "issuesClosed": 5,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 25,
+    "comments": 26,
     "commitAdditions": 1657,
     "commitDeletions": 1293,
     "commitChangedFiles": 28
@@ -34,25 +34,32 @@
       "prs": 0,
       "issues": 20,
       "reviews": 1,
-      "comments": 24,
+      "comments": 25,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 0,
-      "issues": 20,
+      "issues": 21,
       "reviews": 1,
-      "comments": 25,
-      "commitAdditions": 1657,
-      "commitDeletions": 1293,
-      "commits": 6
+      "comments": 26,
+      "commitAdditions": 32,
+      "commitDeletions": 18,
+      "commits": 5
     }
   },
-  "firstContribution": "2026-03-07T07:25:44Z",
-  "lastContribution": "2026-03-14T12:41:11Z",
+  "firstContribution": "2026-03-08T20:50:21Z",
+  "lastContribution": "2026-03-16T01:54:49Z",
   "recentPRs": [],
   "recentIssues": [
+    {
+      "number": 47266,
+      "title": "[Bug]: Logfile rotation ineffective",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T11:59:02Z",
+      "closedAt": null
+    },
     {
       "number": 45848,
       "title": "[Bug]: Health status missing (UI v2)",
@@ -185,13 +192,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-13T22:11:32Z",
       "closedAt": null
-    },
-    {
-      "number": 40255,
-      "title": "[Bug]: Regression: User-configured heartbeat prompt no longer respected",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T20:50:21Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [
@@ -202,6 +202,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 0,
       "issues": 18,

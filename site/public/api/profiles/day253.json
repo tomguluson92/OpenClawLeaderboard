@@ -1,27 +1,27 @@
 {
   "username": "day253",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/9634619?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9634619?u=00f731913365d562abb5fd37f67f5c17fb883d34&v=4",
   "githubUrl": "https://github.com/day253",
   "score": {
-    "score": 178.42,
-    "prScore": 144.92,
+    "score": 199.59,
+    "prScore": 160.09,
     "issueScore": 0,
-    "reviewScore": 30,
+    "reviewScore": 36,
     "commentScore": 3.5
   },
   "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 6,
     "prsMerged": 1,
-    "prAdditions": 1739,
+    "prAdditions": 1936,
     "prDeletions": 399,
-    "prChangedFiles": 43,
-    "prMergeRate": 20,
+    "prChangedFiles": 46,
+    "prMergeRate": 17,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 10,
+    "reviews": 12,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 7,
@@ -31,18 +31,18 @@
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 4,
       "issues": 0,
-      "reviews": 10,
-      "comments": 7,
+      "reviews": 7,
+      "comments": 4,
       "commitAdditions": 168,
       "commitDeletions": 9,
       "commits": 1
     },
     "monthly": {
-      "prs": 5,
+      "prs": 6,
       "issues": 0,
-      "reviews": 10,
+      "reviews": 12,
       "comments": 7,
       "commitAdditions": 168,
       "commitDeletions": 9,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-09T16:32:36Z",
-  "lastContribution": "2026-03-14T15:44:50Z",
+  "lastContribution": "2026-03-15T12:08:10Z",
   "recentPRs": [
+    {
+      "number": 47257,
+      "title": "feat(feishu): add tool/compaction status callbacks to streaming cards",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T11:50:46Z",
+      "mergedAt": null,
+      "additions": 197,
+      "deletions": 0,
+      "changedFiles": 3
+    },
     {
       "number": 46272,
       "title": "refactor: introduce dedicated AsrEngine provider abstraction for ASR/STT",
@@ -111,6 +122,16 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 47257,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T12:08:10Z"
+    },
+    {
+      "prNumber": 47257,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T12:00:42Z"
+    },
+    {
       "prNumber": 46272,
       "state": "COMMENTED",
       "createdAt": "2026-03-14T15:44:50Z"
@@ -162,6 +183,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-14": {
       "prs": 3,
       "issues": 0,

@@ -1,0 +1,164 @@
+{
+  "username": "SnowSky1",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/126348592?v=4",
+  "githubUrl": "https://github.com/SnowSky1",
+  "score": {
+    "score": 100.69,
+    "prScore": 89.69,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 11
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 434,
+    "prDeletions": 41,
+    "prChangedFiles": 22,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 22,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 22,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 22,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-17T16:16:24Z",
+  "lastContribution": "2026-03-20T08:34:16Z",
+  "recentPRs": [
+    {
+      "number": 50924,
+      "title": "docs: format plugins tool reference table",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T07:58:30Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 7,
+      "changedFiles": 1
+    },
+    {
+      "number": 50741,
+      "title": "fix(ollama): send think=false when thinking is off",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T01:34:24Z",
+      "mergedAt": null,
+      "additions": 123,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 50512,
+      "title": "test(gateway): cover CLI caller scope routing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T16:08:56Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 50336,
+      "title": "fix(ui): use gateway model keys for selector values",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T08:48:05Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 13,
+      "changedFiles": 7
+    },
+    {
+      "number": 50316,
+      "title": "fix(ui): keep chat delete confirm inside viewport",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T08:01:41Z",
+      "mergedAt": null,
+      "additions": 123,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 50108,
+      "title": "fix(ui): preserve sub-cent usage costs in dashboard",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T01:14:46Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 49694,
+      "title": "test(ui): cover provider-qualified OpenRouter chat model refs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T09:20:17Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {}
+}

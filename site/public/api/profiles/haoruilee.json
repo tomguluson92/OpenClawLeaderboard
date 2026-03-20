@@ -3,25 +3,25 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/60883781?u=75681057d29b7a707a25d642c735778ca41b3254&v=4",
   "githubUrl": "https://github.com/haoruilee",
   "score": {
-    "score": 160.38,
-    "prScore": 155.38,
+    "score": 166.84,
+    "prScore": 152.84,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 9,
     "commentScore": 5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 7,
-    "prsMerged": 1,
-    "prAdditions": 1327,
-    "prDeletions": 42,
-    "prChangedFiles": 42,
-    "prMergeRate": 14,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 2130,
+    "prDeletions": 41,
+    "prChangedFiles": 43,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 10,
@@ -31,37 +31,59 @@
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 3,
       "issues": 0,
-      "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 413,
-      "commitDeletions": 10,
-      "commits": 1
+      "reviews": 3,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 6,
       "issues": 0,
-      "reviews": 0,
+      "reviews": 3,
       "comments": 10,
       "commitAdditions": 413,
       "commitDeletions": 10,
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-05T06:10:25Z",
-  "lastContribution": "2026-03-13T16:28:54Z",
+  "firstContribution": "2026-03-13T04:49:26Z",
+  "lastContribution": "2026-03-19T02:14:43Z",
   "recentPRs": [
     {
+      "number": 48326,
+      "title": "fix(cron): fix ms/s timestamp confusion, sessionTarget conflict logging, and observability gaps",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T15:55:07Z",
+      "mergedAt": null,
+      "additions": 161,
+      "deletions": 4,
+      "changedFiles": 6
+    },
+    {
+      "number": 47388,
+      "title": "fix(gateway): handshake timeout + token-only scope grant (#47103, #48167)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:21:13Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 15,
+      "changedFiles": 5
+    },
+    {
       "number": 45282,
-      "title": "fix(ui): add context-notice component and refresh token stats after every chat turn, solve #45230, #45034, #45192",
+      "title": "fix(ui): add context-notice component and refresh token stats after every chat turn, solve #45230, #45034, #45192, #45794",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-13T16:28:54Z",
       "mergedAt": null,
-      "additions": 54,
-      "deletions": 8,
-      "changedFiles": 4
+      "additions": 1753,
+      "deletions": 9,
+      "changedFiles": 26
     },
     {
       "number": 44740,
@@ -81,7 +103,7 @@
       "merged": false,
       "createdAt": "2026-03-13T06:21:56Z",
       "mergedAt": null,
-      "additions": 19,
+      "additions": 27,
       "deletions": 2,
       "changedFiles": 1
     },
@@ -95,57 +117,51 @@
       "additions": 134,
       "deletions": 11,
       "changedFiles": 3
-    },
-    {
-      "number": 36389,
-      "title": "fix(status): resolve context window by provider-qualified key, prefer max on bare-id collision, solve #35976",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T15:56:36Z",
-      "mergedAt": "2026-03-12T14:00:36Z",
-      "additions": 413,
-      "deletions": 10,
-      "changedFiles": 4
-    },
-    {
-      "number": 36327,
-      "title": "fix(memory): enable WAL journal mode on SQLite index to prevent corruption on restart #36035 ",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T15:11:50Z",
-      "mergedAt": null,
-      "additions": 79,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 35558,
-      "title": "Providers: add built-in AIPing provider support",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T06:10:25Z",
-      "mergedAt": null,
-      "additions": 623,
-      "deletions": 11,
-      "changedFiles": 26
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 44736,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T02:14:43Z"
+    },
+    {
+      "prNumber": 45282,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T16:16:55Z"
+    },
+    {
+      "prNumber": 45282,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T16:16:33Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-13": {
       "prs": 4,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-05": {
-      "prs": 3,
+    "2026-03-19": {
+      "prs": 0,
       "issues": 0,
-      "reviews": 0
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion"
   ],
   "achievements": [],

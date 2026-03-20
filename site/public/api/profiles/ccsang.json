@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3917184?u=7388890a8bbc29dcff8584c85eaf827be575ff42&v=4",
   "githubUrl": "https://github.com/ccsang",
   "score": {
-    "score": 197.19,
-    "prScore": 192.69,
+    "score": 207.34,
+    "prScore": 199.84,
     "issueScore": 0,
     "reviewScore": 3,
-    "commentScore": 1.5
+    "commentScore": 4.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 11,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 2089,
-    "prDeletions": 146,
-    "prChangedFiles": 53,
+    "prAdditions": 2122,
+    "prDeletions": 136,
+    "prChangedFiles": 54,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 9,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 11,
+      "prs": 2,
       "issues": 0,
-      "reviews": 1,
-      "comments": 3,
+      "reviews": 0,
+      "comments": 6,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 11,
+      "prs": 12,
       "issues": 0,
       "reviews": 1,
-      "comments": 3,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-10T07:57:08Z",
-  "lastContribution": "2026-03-13T13:17:37Z",
+  "lastContribution": "2026-03-19T08:15:08Z",
   "recentPRs": [
+    {
+      "number": 47735,
+      "title": "fix(daemon): handle both 'Last Run Result' and 'Last Result' keys in schtasks output",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T01:26:10Z",
+      "mergedAt": null,
+      "additions": 272,
+      "deletions": 1,
+      "changedFiles": 3
+    },
     {
       "number": 45117,
       "title": "fix(test): disable color output in loader tests for cross-platform consistency",
@@ -88,7 +99,7 @@
     {
       "number": 43916,
       "title": "fix(feishu): decode URL-encoded filenames when receiving files",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T09:54:24Z",
       "mergedAt": null,
@@ -99,7 +110,7 @@
     {
       "number": 43525,
       "title": "fix(ui): show full command/args in tool card sidebar (#43153)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T23:50:08Z",
       "mergedAt": null,
@@ -110,7 +121,7 @@
     {
       "number": 43115,
       "title": "fix(cron): avoid manual cron.run deadlock with re-entrant lane detection (#43008)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T10:53:20Z",
       "mergedAt": null,
@@ -132,7 +143,7 @@
     {
       "number": 42689,
       "title": "fix: honor proxy env during codex oauth token exchange",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T02:33:08Z",
       "mergedAt": null,
@@ -143,7 +154,7 @@
     {
       "number": 42070,
       "title": "fix: add missing zh-CN cron jobs labels",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T11:02:28Z",
       "mergedAt": null,
@@ -154,7 +165,7 @@
     {
       "number": 42018,
       "title": "Fix/issue 41993 ssrf mixed dns",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T09:53:40Z",
       "mergedAt": null,
@@ -165,13 +176,13 @@
     {
       "number": 41917,
       "title": "Fix/issue 41845 start recover",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T07:57:08Z",
       "mergedAt": null,
-      "additions": 239,
-      "deletions": 11,
-      "changedFiles": 2
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
     }
   ],
   "recentIssues": [],
@@ -183,6 +194,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,

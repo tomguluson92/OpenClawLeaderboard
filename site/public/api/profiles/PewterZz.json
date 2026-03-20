@@ -1,0 +1,91 @@
+{
+  "username": "PewterZz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/88394243?u=b9b3cf476b3b02c5543d48f42a9427a99612b692&v=4",
+  "githubUrl": "https://github.com/PewterZz",
+  "score": {
+    "score": 16.46,
+    "prScore": 10.96,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 20,
+    "prDeletions": 6,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-17T10:27:04Z",
+  "lastContribution": "2026-03-17T11:33:24Z",
+  "recentPRs": [
+    {
+      "number": 48929,
+      "title": "fix(android): read bootstrapToken from setup code and support Android 11",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T10:28:55Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 6,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 48926,
+      "title": "Android app: setup code pairing broken — reads \"token\" but gateway emits \"bootstrapToken\"",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T10:27:04Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

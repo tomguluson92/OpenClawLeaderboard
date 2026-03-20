@@ -3,22 +3,22 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/114364448?u=c07cca8ec656a34d96f84657528e272f1d032f6c&v=4",
   "githubUrl": "https://github.com/rstar327",
   "score": {
-    "score": 186.21,
-    "prScore": 185.71,
+    "score": 200.94,
+    "prScore": 200.44,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 11,
+    "prs": 13,
     "prsMerged": 1,
-    "prAdditions": 635,
-    "prDeletions": 76,
-    "prChangedFiles": 53,
-    "prMergeRate": 9,
+    "prAdditions": 684,
+    "prDeletions": 84,
+    "prChangedFiles": 56,
+    "prMergeRate": 8,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -31,16 +31,16 @@
   },
   "period": {
     "weekly": {
-      "prs": 11,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 418,
       "commitDeletions": 20,
       "commits": 1
     },
     "monthly": {
-      "prs": 11,
+      "prs": 13,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -50,8 +50,30 @@
     }
   },
   "firstContribution": "2026-03-09T22:20:59Z",
-  "lastContribution": "2026-03-11T02:05:24Z",
+  "lastContribution": "2026-03-17T13:33:58Z",
   "recentPRs": [
+    {
+      "number": 49034,
+      "title": "fix(webchat): guard against marked.parse freeze on many unclosed code fences",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T13:33:58Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 47700,
+      "title": "Fix logfile rotation: resolve file path at write time",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T00:06:57Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 8,
+      "changedFiles": 1
+    },
     {
       "number": 42670,
       "title": "fix(deps): bump tar override from 7.5.10 to 7.5.11",
@@ -177,6 +199,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 5,
       "issues": 0,

@@ -1,0 +1,119 @@
+{
+  "username": "futhgar",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51002668?u=b8198db3fc606f3f40ffecd13cfbf68233c41479&v=4",
+  "githubUrl": "https://github.com/futhgar",
+  "score": {
+    "score": 42.12,
+    "prScore": 27.12,
+    "issueScore": 0,
+    "reviewScore": 15,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 510,
+    "prDeletions": 7,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-19T02:27:19Z",
+  "lastContribution": "2026-03-19T03:07:51Z",
+  "recentPRs": [
+    {
+      "number": 50152,
+      "title": "fix: normalize text-only content arrays to strings for OpenAI-compatible providers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T02:43:19Z",
+      "mergedAt": null,
+      "additions": 341,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 50141,
+      "title": "fix(ui): preserve provider prefix in model toggle for non-Anthropic models",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T02:27:19Z",
+      "mergedAt": null,
+      "additions": 169,
+      "deletions": 7,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 50152,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T03:07:51Z"
+    },
+    {
+      "prNumber": 50152,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T02:57:18Z"
+    },
+    {
+      "prNumber": 50152,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T02:57:17Z"
+    },
+    {
+      "prNumber": 50152,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T02:57:16Z"
+    },
+    {
+      "prNumber": 50141,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T02:49:28Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

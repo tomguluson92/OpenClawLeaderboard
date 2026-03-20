@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6587734?u=235617e39a5bee890ee278790f51b946b715a0f2&v=4",
   "githubUrl": "https://github.com/AntiMoron",
   "score": {
-    "score": 58.04,
+    "score": 47.54,
     "prScore": 26.04,
-    "issueScore": 20,
+    "issueScore": 10,
     "reviewScore": 6,
-    "commentScore": 6
+    "commentScore": 5.5
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
@@ -19,37 +19,37 @@
     "prDeletions": 16,
     "prChangedFiles": 10,
     "prMergeRate": 0,
-    "issues": 4,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 12,
+    "comments": 11,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 2,
-      "comments": 12,
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 4,
+      "issues": 2,
       "reviews": 2,
-      "comments": 12,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-07T18:38:31Z",
+  "firstContribution": "2026-03-08T07:10:31Z",
   "lastContribution": "2026-03-14T16:01:43Z",
   "recentPRs": [
     {
@@ -77,20 +77,6 @@
       "title": "[Bug]: Memory management is in chaos",
       "state": "OPEN",
       "createdAt": "2026-03-12T06:21:16Z",
-      "closedAt": null
-    },
-    {
-      "number": 39107,
-      "title": "[Feature]: add interface on CLI and nodejs/python. so that openclaw can leverage itself to give some AI completions.",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T19:08:28Z",
-      "closedAt": null
-    },
-    {
-      "number": 39093,
-      "title": "[Bug]: Compact context can be timeout during long-time-span tasks, also those long tasks just stuck without any retry.",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T18:38:31Z",
       "closedAt": null
     }
   ],
@@ -120,11 +106,6 @@
     "2026-03-12": {
       "prs": 0,
       "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 2,
       "reviews": 0
     },
     "2026-03-09": {

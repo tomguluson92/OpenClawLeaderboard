@@ -31,13 +31,13 @@
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
-      "reviews": 7,
-      "comments": 9,
-      "commitAdditions": 17,
-      "commitDeletions": 7,
-      "commits": 1
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
       "prs": 3,
@@ -55,7 +55,7 @@
     {
       "number": 43430,
       "title": "fix(web-search): unblock freshness and date filters for Brave llm-context",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T19:35:30Z",
       "mergedAt": null,

@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5925937?v=4",
   "githubUrl": "https://github.com/joeykrug",
   "score": {
-    "score": 233.1,
-    "prScore": 207.1,
-    "issueScore": 23,
-    "reviewScore": 0,
+    "score": 271.33,
+    "prScore": 230.33,
+    "issueScore": 26,
+    "reviewScore": 12,
     "commentScore": 3
   },
   "tier": "active",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
-    "commits": 3,
+    "commits": 7,
     "prs": 8,
-    "prsMerged": 0,
-    "prAdditions": 7198,
-    "prDeletions": 427,
-    "prChangedFiles": 103,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 6430,
+    "prDeletions": 366,
+    "prChangedFiles": 85,
+    "prMergeRate": 13,
     "issues": 4,
-    "issuesClosed": 1,
-    "reviews": 0,
+    "issuesClosed": 2,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 6,
-    "commitAdditions": 1041,
-    "commitDeletions": 51,
-    "commitChangedFiles": 20
+    "commitAdditions": 1962,
+    "commitDeletions": 94,
+    "commitChangedFiles": 36
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 6,
       "issues": 3,
-      "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 4,
+      "comments": 6,
+      "commitAdditions": 921,
+      "commitDeletions": 43,
+      "commits": 4
     },
     "monthly": {
       "prs": 8,
       "issues": 4,
-      "reviews": 0,
+      "reviews": 4,
       "comments": 6,
-      "commitAdditions": 572,
-      "commitDeletions": 20,
-      "commits": 1
+      "commitAdditions": 921,
+      "commitDeletions": 43,
+      "commits": 4
     }
   },
-  "firstContribution": "2026-03-05T19:33:35Z",
-  "lastContribution": "2026-03-15T02:17:36Z",
+  "firstContribution": "2026-03-07T21:37:50Z",
+  "lastContribution": "2026-03-16T03:38:28Z",
   "recentPRs": [
+    {
+      "number": 47719,
+      "title": "fix: resume orphaned subagent sessions after SIGUSR1 reload",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-16T01:05:18Z",
+      "mergedAt": "2026-03-16T05:32:36Z",
+      "additions": 959,
+      "deletions": 10,
+      "changedFiles": 15
+    },
     {
       "number": 46741,
       "title": "fix: defer sessions_yield announce until concurrent tool executions settle",
@@ -59,7 +70,7 @@
       "merged": false,
       "createdAt": "2026-03-15T02:17:36Z",
       "mergedAt": null,
-      "additions": 481,
+      "additions": 484,
       "deletions": 18,
       "changedFiles": 7
     },
@@ -70,9 +81,9 @@
       "merged": false,
       "createdAt": "2026-03-14T17:47:10Z",
       "mergedAt": null,
-      "additions": 2153,
-      "deletions": 117,
-      "changedFiles": 16
+      "additions": 2710,
+      "deletions": 119,
+      "changedFiles": 19
     },
     {
       "number": 46417,
@@ -103,9 +114,9 @@
       "merged": false,
       "createdAt": "2026-03-14T15:54:45Z",
       "mergedAt": null,
-      "additions": 1121,
-      "deletions": 104,
-      "changedFiles": 26
+      "additions": 1114,
+      "deletions": 103,
+      "changedFiles": 27
     },
     {
       "number": 39212,
@@ -128,20 +139,16 @@
       "additions": 458,
       "deletions": 41,
       "changedFiles": 10
-    },
-    {
-      "number": 36630,
-      "title": "fix(signal): complete bidirectional quote-reply support",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T19:36:35Z",
-      "mergedAt": null,
-      "additions": 2280,
-      "deletions": 72,
-      "changedFiles": 37
     }
   ],
   "recentIssues": [
+    {
+      "number": 47711,
+      "title": "[Bug] SIGUSR1 config reload aborts in-flight subagent LLM calls, leaving sessions orphaned with no retry",
+      "state": "CLOSED",
+      "createdAt": "2026-03-16T00:38:21Z",
+      "closedAt": "2026-03-16T05:32:38Z"
+    },
     {
       "number": 46719,
       "title": "sessions_yield with pending child subagents can be announced upstream as 'completed successfully'",
@@ -162,17 +169,36 @@
       "state": "OPEN",
       "createdAt": "2026-03-13T05:23:53Z",
       "closedAt": null
-    },
-    {
-      "number": 36628,
-      "title": "[Signal] Native quote-reply support missing — replyTo tag stripped but not translated to signal-cli quote params",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T19:33:35Z",
-      "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 47719,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T01:53:32Z"
+    },
+    {
+      "prNumber": 47719,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T01:24:47Z"
+    },
+    {
+      "prNumber": 47719,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T01:24:39Z"
+    },
+    {
+      "prNumber": 47719,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T01:24:33Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4
+    },
     "2026-03-15": {
       "prs": 1,
       "issues": 1,
@@ -188,11 +214,6 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
     "2026-03-13": {
       "prs": 0,
       "issues": 2,
@@ -201,13 +222,21 @@
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {
+    "2026-03-16": 4,
     "2026-02-13": 2,
     "2026-02-12": 1
   }

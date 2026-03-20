@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/264528530?v=4",
   "githubUrl": "https://github.com/antipinky4ever-hue",
   "score": {
-    "score": 25.98,
-    "prScore": 24.48,
+    "score": 40.3,
+    "prScore": 38.8,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 601,
-    "prDeletions": 46,
-    "prChangedFiles": 9,
+    "prAdditions": 924,
+    "prDeletions": 56,
+    "prChangedFiles": 12,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -34,13 +34,13 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 3,
@@ -50,12 +50,23 @@
     }
   },
   "firstContribution": "2026-03-10T11:08:50Z",
-  "lastContribution": "2026-03-11T00:16:30Z",
+  "lastContribution": "2026-03-19T00:03:25Z",
   "recentPRs": [
+    {
+      "number": 50084,
+      "title": "fix(acpx): stabilize bound completion feedback routing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T00:03:25Z",
+      "mergedAt": null,
+      "additions": 323,
+      "deletions": 10,
+      "changedFiles": 3
+    },
     {
       "number": 42077,
       "title": "fix(telegram): allow DM /set_context in native slash commands",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T11:08:50Z",
       "mergedAt": null,
@@ -67,6 +78,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,

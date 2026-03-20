@@ -1,0 +1,170 @@
+{
+  "username": "ShaunTsai",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13811075?u=1a78c2d2adc9a0eea33a92daa65b0493460d6343&v=4",
+  "githubUrl": "https://github.com/ShaunTsai",
+  "score": {
+    "score": 79.93,
+    "prScore": 56.93,
+    "issueScore": 0,
+    "reviewScore": 21,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 1,
+    "prAdditions": 205,
+    "prDeletions": 3,
+    "prChangedFiles": 8,
+    "prMergeRate": 20,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 7,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 100,
+    "commitDeletions": 1,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 7,
+      "comments": 4,
+      "commitAdditions": 100,
+      "commitDeletions": 1,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 7,
+      "comments": 4,
+      "commitAdditions": 100,
+      "commitDeletions": 1,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-16T08:45:34Z",
+  "lastContribution": "2026-03-18T15:23:38Z",
+  "recentPRs": [
+    {
+      "number": 49877,
+      "title": "fix: strip prompt_cache_key for non-OpenAI openai-responses endpoints",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T15:23:38Z",
+      "mergedAt": "2026-03-19T07:12:30Z",
+      "additions": 100,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 49727,
+      "title": "fix: strip prompt_cache_key for providers that reject unknown fields",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T10:11:35Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 49723,
+      "title": "fix(gateway): remove .unref() from reconnect timer to keep node-host alive",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T10:03:00Z",
+      "mergedAt": null,
+      "additions": 70,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 48210,
+      "title": "fix(feishu): close active connections before server.close() in monitor cleanup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T12:56:09Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 48057,
+      "title": "fix(gateway): remove .unref() from reconnect timer to prevent node-host exit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T08:45:34Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 49727,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T13:37:16Z"
+    },
+    {
+      "prNumber": 49727,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T13:37:07Z"
+    },
+    {
+      "prNumber": 49727,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T13:37:00Z"
+    },
+    {
+      "prNumber": 48210,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T10:05:38Z"
+    },
+    {
+      "prNumber": 48057,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T11:14:40Z"
+    },
+    {
+      "prNumber": 48057,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T09:18:17Z"
+    },
+    {
+      "prNumber": 48057,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T09:18:15Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-19": 1
+  }
+}

@@ -3,31 +3,31 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/266572148?v=4",
   "githubUrl": "https://github.com/lakshyaag-tavily",
   "score": {
-    "score": 47.07,
-    "prScore": 47.07,
+    "score": 141.89,
+    "prScore": 141.89,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 1081,
-    "prDeletions": 48,
-    "prChangedFiles": 19,
-    "prMergeRate": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 2457,
+    "prDeletions": 169,
+    "prChangedFiles": 57,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "commitAdditions": 1378,
+    "commitDeletions": 124,
+    "commitChangedFiles": 37
   },
   "period": {
     "weekly": {
@@ -35,38 +35,54 @@
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 1378,
+      "commitDeletions": 124,
+      "commits": 1
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 1378,
+      "commitDeletions": 124,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-12T19:29:46Z",
-  "lastContribution": "2026-03-12T19:29:46Z",
+  "lastContribution": "2026-03-17T19:06:02Z",
   "recentPRs": [
+    {
+      "number": 49200,
+      "title": "feat: add Tavily as a bundled web search plugin with search and extract tools",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T19:06:02Z",
+      "mergedAt": "2026-03-20T05:06:27Z",
+      "additions": 1378,
+      "deletions": 124,
+      "changedFiles": 37
+    },
     {
       "number": 44343,
       "title": "feat: add Tavily as a `web_search` provider",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T19:29:46Z",
       "mergedAt": null,
-      "additions": 1081,
-      "deletions": 48,
-      "changedFiles": 19
+      "additions": 1079,
+      "deletions": 45,
+      "changedFiles": 20
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -77,5 +93,7 @@
     "Pull Requests"
   ],
   "achievements": [],
-  "recentCommitDays": {}
+  "recentCommitDays": {
+    "2026-03-20": 1
+  }
 }

@@ -1,0 +1,130 @@
+{
+  "username": "usertlm",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/65894219?v=4",
+  "githubUrl": "https://github.com/usertlm",
+  "score": {
+    "score": 103.89,
+    "prScore": 103.89,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 452,
+    "prDeletions": 43,
+    "prChangedFiles": 37,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-18T14:50:11Z",
+  "lastContribution": "2026-03-19T10:07:02Z",
+  "recentPRs": [
+    {
+      "number": 50365,
+      "title": "fix(server-chat): prevent NO_REPLY token leakage during streaming",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T10:07:02Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 12,
+      "changedFiles": 8
+    },
+    {
+      "number": 50233,
+      "title": "fix: trustedNetworks end-to-end, test update, and postinstall error handling",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T05:16:15Z",
+      "mergedAt": null,
+      "additions": 95,
+      "deletions": 9,
+      "changedFiles": 7
+    },
+    {
+      "number": 50225,
+      "title": "fix(sessions): use Date.now() for session header timestamp instead of toISOString()",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T05:04:50Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 8,
+      "changedFiles": 8
+    },
+    {
+      "number": 49859,
+      "title": "fix(ui): include group identifier in Telegram group chat display name",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T14:50:59Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 7,
+      "changedFiles": 7
+    },
+    {
+      "number": 49857,
+      "title": "fix: correctly infer provider for full model refs in model selector",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T14:50:11Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 7,
+      "changedFiles": 7
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

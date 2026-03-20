@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6374260?u=926c5e60ee2a635bd8e35ea74d0b78ccfd08dedb&v=4",
   "githubUrl": "https://github.com/ArielleTolome",
   "score": {
-    "score": 12.66,
+    "score": 7.66,
     "prScore": 7.66,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 0,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-06T05:19:07Z",
-  "lastContribution": "2026-03-07T04:38:41Z",
+  "lastContribution": "2026-03-06T05:19:07Z",
   "recentPRs": [
     {
       "number": 37224,
@@ -64,31 +64,17 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38571,
-      "title": "openclaw-mem0 OSS mode: enableGraph not passed to Memory constructor, graph writes always skipped",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T04:38:41Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

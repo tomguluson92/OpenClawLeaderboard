@@ -3,59 +3,81 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7773610?u=cbe7e0d1833afa515d535462c3eb769530bbe7a5&v=4",
   "githubUrl": "https://github.com/keylimesoda",
   "score": {
-    "score": 179.97,
-    "prScore": 155.97,
-    "issueScore": 0,
-    "reviewScore": 21,
-    "commentScore": 3
+    "score": 230.62,
+    "prScore": 176.12,
+    "issueScore": 10,
+    "reviewScore": 39,
+    "commentScore": 5.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 4996,
-    "prDeletions": 75,
-    "prChangedFiles": 72,
+    "prAdditions": 7539,
+    "prDeletions": 100,
+    "prChangedFiles": 105,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 2,
     "issuesClosed": 0,
-    "reviews": 7,
+    "reviews": 13,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
+    "comments": 11,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 7,
-      "comments": 4,
+      "prs": 3,
+      "issues": 2,
+      "reviews": 8,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 7,
-      "comments": 6,
+      "prs": 6,
+      "issues": 2,
+      "reviews": 13,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-07T05:52:23Z",
-  "lastContribution": "2026-03-15T01:53:47Z",
+  "lastContribution": "2026-03-19T09:45:21Z",
   "recentPRs": [
+    {
+      "number": 47696,
+      "title": "feat: add /trust and /untrust commands for temporary exec security elevation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T23:50:12Z",
+      "mergedAt": null,
+      "additions": 463,
+      "deletions": 0,
+      "changedFiles": 7
+    },
+    {
+      "number": 46956,
+      "title": "feat(cli): add trust windows for time-bounded exec approval",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T06:09:39Z",
+      "mergedAt": null,
+      "additions": 2080,
+      "deletions": 25,
+      "changedFiles": 26
+    },
     {
       "number": 46657,
       "title": "feat(exec): add Trust Windows for time-bounded exec approvals",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T23:41:40Z",
       "mergedAt": null,
@@ -97,8 +119,53 @@
       "changedFiles": 6
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 47695,
+      "title": "[Feature]: Temporary time-bound exec security escalation via /trust and /untrust",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T23:48:47Z",
+      "closedAt": null
+    },
+    {
+      "number": 47666,
+      "title": "feat: notify active channel during compaction (typing indicator / status)",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T22:25:33Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 47696,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T00:52:35Z"
+    },
+    {
+      "prNumber": 47696,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T00:24:53Z"
+    },
+    {
+      "prNumber": 47696,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T00:18:07Z"
+    },
+    {
+      "prNumber": 47696,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T00:08:45Z"
+    },
+    {
+      "prNumber": 47696,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T00:02:33Z"
+    },
+    {
+      "prNumber": 46956,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T06:28:17Z"
+    },
     {
       "prNumber": 46657,
       "state": "COMMENTED",
@@ -136,6 +203,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 3
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -146,10 +218,10 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-15": {
+    "2026-03-16": {
       "prs": 0,
       "issues": 0,
-      "reviews": 2
+      "reviews": 5
     },
     "2026-03-08": {
       "prs": 0,
@@ -160,9 +232,21 @@
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion",
     "Large-Scale Changes"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

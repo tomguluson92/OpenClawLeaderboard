@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/14227866?u=5497fb9833af3be2724616d4f29bb5dc399284cf&v=4",
   "githubUrl": "https://github.com/yelog",
   "score": {
-    "score": 223.86,
-    "prScore": 223.36,
+    "score": 219.67,
+    "prScore": 215.17,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 4.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 17,
+    "prs": 16,
     "prsMerged": 0,
-    "prAdditions": 955,
-    "prDeletions": 95,
-    "prChangedFiles": 52,
+    "prAdditions": 896,
+    "prDeletions": 74,
+    "prChangedFiles": 50,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 9,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 17,
+      "prs": 16,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T05:45:51Z",
-  "lastContribution": "2026-03-12T12:32:10Z",
+  "firstContribution": "2026-03-06T06:30:20Z",
+  "lastContribution": "2026-03-17T09:52:27Z",
   "recentPRs": [
+    {
+      "number": 48804,
+      "title": "fix(security): respect top-level restriction for Telegram group allowFrom wildcard",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T07:05:26Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 2,
+      "changedFiles": 2
+    },
     {
       "number": 43968,
       "title": "feat(errors): enrich rate limit error messages with provider/model/retry context",
@@ -143,7 +154,7 @@
     {
       "number": 39390,
       "title": "feat(doctor): warn when peer bindings omit accountId",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T02:27:15Z",
       "mergedAt": null,
@@ -154,7 +165,7 @@
     {
       "number": 39387,
       "title": "fix(security): include top-level channels.discord.allowFrom in audit check",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T02:23:05Z",
       "mergedAt": null,
@@ -165,7 +176,7 @@
     {
       "number": 38718,
       "title": "fix: add current date to system prompt + feat: add lastModel to cron + getpinned + acp timeout",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-07T09:32:18Z",
       "mergedAt": null,
@@ -198,7 +209,7 @@
     {
       "number": 37317,
       "title": "feat(browser): support per-profile headless mode",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T06:47:38Z",
       "mergedAt": null,
@@ -209,40 +220,23 @@
     {
       "number": 37294,
       "title": "fix(telegram): skip empty messages instead of throwing error",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T06:30:20Z",
       "mergedAt": null,
       "additions": 30,
       "deletions": 20,
       "changedFiles": 3
-    },
-    {
-      "number": 35548,
-      "title": "fix: always delete Telegram commands before registering to prevent duplicates (#35285)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T05:59:51Z",
-      "mergedAt": null,
-      "additions": 24,
-      "deletions": 11,
-      "changedFiles": 1
-    },
-    {
-      "number": 35530,
-      "title": "fix: prevent heartbeat messages from inheriting stale channel context (#35300)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T05:45:51Z",
-      "mergedAt": null,
-      "additions": 132,
-      "deletions": 12,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 2,
       "issues": 0,
@@ -265,11 +259,6 @@
     },
     "2026-03-06": {
       "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 2,
       "issues": 0,
       "reviews": 0
     }

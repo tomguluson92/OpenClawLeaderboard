@@ -1,0 +1,102 @@
+{
+  "username": "hsiong",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37357447?u=e21da3be7f36f545dac9daf6a1c4fd0109ba9ae3&v=4",
+  "githubUrl": "https://github.com/hsiong",
+  "score": {
+    "score": 17.97,
+    "prScore": 7.97,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 4,
+    "prDeletions": 0,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-19T08:36:08Z",
+  "lastContribution": "2026-03-20T03:38:00Z",
+  "recentPRs": [
+    {
+      "number": 50807,
+      "title": "fix: #50800 (fails to start with ERR_MODULE_NOT_FOUND for axios)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T03:38:00Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 50800,
+      "title": "[Bug]: Self-built Docker runtime image fails to start with `ERR_MODULE_NOT_FOUND` for `axios`",
+      "state": "OPEN",
+      "createdAt": "2026-03-20T03:27:31Z",
+      "closedAt": null
+    },
+    {
+      "number": 50329,
+      "title": "[Bug]: WebChat \"New messages\" scroll pill intermittently renders as a large black triangle",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T08:36:08Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

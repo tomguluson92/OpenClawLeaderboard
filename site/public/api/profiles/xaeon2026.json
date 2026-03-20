@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/264572156?u=f19fe231ee45db81f6cf81370d8f972e7a6f99b9&v=4",
   "githubUrl": "https://github.com/xaeon2026",
   "score": {
-    "score": 261.42,
-    "prScore": 235.92,
+    "score": 265.54,
+    "prScore": 240.04,
     "issueScore": 18,
     "reviewScore": 0,
     "commentScore": 7.5
@@ -14,29 +14,29 @@
   "stats": {
     "commits": 0,
     "prs": 16,
-    "prsMerged": 1,
-    "prAdditions": 2767,
+    "prsMerged": 2,
+    "prAdditions": 2768,
     "prDeletions": 364,
-    "prChangedFiles": 68,
-    "prMergeRate": 6,
+    "prChangedFiles": 69,
+    "prMergeRate": 13,
     "issues": 3,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 15,
-    "commitAdditions": 33,
-    "commitDeletions": 4,
-    "commitChangedFiles": 3
+    "commitAdditions": 249,
+    "commitDeletions": 33,
+    "commitChangedFiles": 10
   },
   "period": {
     "weekly": {
-      "prs": 15,
-      "issues": 2,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 15,
-      "commitAdditions": 33,
-      "commitDeletions": 4,
+      "comments": 3,
+      "commitAdditions": 216,
+      "commitDeletions": 29,
       "commits": 1
     },
     "monthly": {
@@ -44,9 +44,9 @@
       "issues": 3,
       "reviews": 0,
       "comments": 15,
-      "commitAdditions": 33,
-      "commitDeletions": 4,
-      "commits": 1
+      "commitAdditions": 249,
+      "commitDeletions": 33,
+      "commits": 2
     }
   },
   "firstContribution": "2026-03-07T21:42:33Z",
@@ -132,7 +132,7 @@
     {
       "number": 41055,
       "title": "Accept web fetch Firecrawl config in the runtime schema",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T13:31:01Z",
       "mergedAt": null,
@@ -154,13 +154,13 @@
     {
       "number": 40996,
       "title": "Deduplicate repeated tool call IDs for OpenAI-compatible APIs",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-09T12:50:33Z",
-      "mergedAt": null,
-      "additions": 215,
+      "mergedAt": "2026-03-15T11:46:07Z",
+      "additions": 216,
       "deletions": 29,
-      "changedFiles": 6
+      "changedFiles": 7
     },
     {
       "number": 40995,
@@ -288,6 +288,7 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-15": 1,
     "2026-03-09": 1
   }
 }

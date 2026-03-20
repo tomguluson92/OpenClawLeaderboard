@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17141683?v=4",
   "githubUrl": "https://github.com/cflev",
   "score": {
-    "score": 15.71,
+    "score": 10.71,
     "prScore": 7.21,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 1,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 1,
       "comments": 1,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-07T11:18:07Z",
+  "firstContribution": "2026-03-07T11:22:52Z",
   "lastContribution": "2026-03-07T14:08:08Z",
   "recentPRs": [
     {
@@ -64,15 +64,7 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38800,
-      "title": "[Bug]: Google Chat integration crashes on startup (TypeError in ESM loader due to @nolyfill/domexception override)",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T11:18:07Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 38807,
@@ -83,22 +75,15 @@
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {}
 }

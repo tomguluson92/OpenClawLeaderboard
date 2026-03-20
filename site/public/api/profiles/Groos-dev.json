@@ -1,0 +1,114 @@
+{
+  "username": "Groos-dev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/81287043?u=af7447e858d20f2838a0157b047dc4dff128974f&v=4",
+  "githubUrl": "https://github.com/Groos-dev",
+  "score": {
+    "score": 28.8,
+    "prScore": 17.3,
+    "issueScore": 5,
+    "reviewScore": 6,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 304,
+    "prDeletions": 1,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T15:48:19Z",
+  "lastContribution": "2026-03-16T16:02:58Z",
+  "recentPRs": [
+    {
+      "number": 47531,
+      "title": "feat: relay ACP completion back to DM sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T17:40:19Z",
+      "mergedAt": null,
+      "additions": 304,
+      "deletions": 1,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 47443,
+      "title": "ACP on DM/non-thread surfaces needs first-class completion relay / proactive notification",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T15:48:19Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 45739,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T16:02:58Z"
+    },
+    {
+      "prNumber": 45739,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T16:02:56Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

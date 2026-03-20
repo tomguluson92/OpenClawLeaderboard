@@ -3,64 +3,108 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/20596261?v=4",
   "githubUrl": "https://github.com/vrknetha",
   "score": {
-    "score": 110.71,
-    "prScore": 110.71,
-    "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "score": 145.14,
+    "prScore": 130.64,
+    "issueScore": 8,
+    "reviewScore": 6,
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 5,
-    "prs": 0,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
+    "prAdditions": 231,
+    "prDeletions": 13,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
-    "issues": 0,
-    "issuesClosed": 0,
-    "reviews": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 2549,
     "commitDeletions": 246,
     "commitChangedFiles": 36
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": null,
-  "lastContribution": null,
-  "recentPRs": [],
-  "recentIssues": [],
-  "recentReviews": [],
-  "recentActivityDays": {},
+  "firstContribution": "2026-03-15T17:22:27Z",
+  "lastContribution": "2026-03-16T12:03:52Z",
+  "recentPRs": [
+    {
+      "number": 47520,
+      "title": "fix(message): make channel capability probing secret-safe",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T17:28:07Z",
+      "mergedAt": null,
+      "additions": 231,
+      "deletions": 13,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 47519,
+      "title": "message tool crashes on unrelated channel SecretRef failures during schema probing",
+      "state": "CLOSED",
+      "createdAt": "2026-03-15T17:22:27Z",
+      "closedAt": "2026-03-17T05:06:26Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 47520,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T17:37:17Z"
+    },
+    {
+      "prNumber": 47520,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T17:37:16Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    }
+  },
   "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-01-18": 1,
-    "2026-01-15": 2
-  }
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
 }

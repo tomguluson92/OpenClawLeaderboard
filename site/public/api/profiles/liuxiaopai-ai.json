@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/73659136?v=4",
   "githubUrl": "https://github.com/liuxiaopai-ai",
   "score": {
-    "score": 845.22,
-    "prScore": 835.22,
-    "issueScore": 5,
+    "score": 356.07,
+    "prScore": 355.57,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 0.5
   },
-  "tier": "veteran",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 30,
-    "prs": 78,
-    "prsMerged": 2,
-    "prAdditions": 6654,
-    "prDeletions": 542,
-    "prChangedFiles": 410,
-    "prMergeRate": 3,
-    "issues": 1,
+    "prs": 14,
+    "prsMerged": 0,
+    "prAdditions": 1104,
+    "prDeletions": 197,
+    "prChangedFiles": 58,
+    "prMergeRate": 0,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -40,17 +40,17 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 78,
-      "issues": 1,
+      "prs": 14,
+      "issues": 0,
       "reviews": 0,
-      "comments": 10,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T20:12:11Z",
-  "lastContribution": "2026-03-06T09:01:48Z",
+  "firstContribution": "2026-03-06T05:14:56Z",
+  "lastContribution": "2026-03-06T08:54:54Z",
   "recentPRs": [
     {
       "number": 37417,
@@ -205,123 +205,27 @@
       "additions": 25,
       "deletions": 2,
       "changedFiles": 3
-    },
-    {
-      "number": 36405,
-      "title": "fix(cli): stop browser service after local agent runs",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T16:09:37Z",
-      "mergedAt": null,
-      "additions": 913,
-      "deletions": 43,
-      "changedFiles": 49
-    },
-    {
-      "number": 36391,
-      "title": "fix(feishu): use probed botName for group mention checks",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T15:58:38Z",
-      "mergedAt": "2026-03-05T16:55:04Z",
-      "additions": 87,
-      "deletions": 18,
-      "changedFiles": 7
-    },
-    {
-      "number": 36373,
-      "title": "fix(gateway): normalize hook transform model overrides",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T15:44:02Z",
-      "mergedAt": null,
-      "additions": 93,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 36364,
-      "title": "fix(models): honor explicit kimi-coding baseUrl in merge mode",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T15:34:25Z",
-      "mergedAt": null,
-      "additions": 43,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 36355,
-      "title": "fix(feishu): normalize legacy groupPolicy allowall to open",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T15:28:08Z",
-      "mergedAt": null,
-      "additions": 29,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 36338,
-      "title": "fix(gateway): suppress hook fallback summary when deliver=false",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T15:19:47Z",
-      "mergedAt": null,
-      "additions": 139,
-      "deletions": 1,
-      "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 33445,
-      "title": "Slack native slash parity: /config dispatch and /debug discoverability",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T20:12:11Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 14,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 63,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
+    "Direct Commits"
   ],
   "achievements": [
     {
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "pr-master",
-      "label": "PR Master",
-      "description": "50+ pull requests"
     }
   ],
   "recentCommitDays": {}

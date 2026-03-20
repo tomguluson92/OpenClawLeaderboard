@@ -3,54 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/151105947?u=12be32400cffcc18f3b8800aa983878a16aea351&v=4",
   "githubUrl": "https://github.com/0xsline",
   "score": {
-    "score": 317.08,
-    "prScore": 205.08,
+    "score": 275.47,
+    "prScore": 131.47,
     "issueScore": 0,
-    "reviewScore": 99,
-    "commentScore": 13
+    "reviewScore": 132,
+    "commentScore": 12
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 14,
-    "prsMerged": 3,
-    "prAdditions": 1277,
-    "prDeletions": 281,
-    "prChangedFiles": 38,
-    "prMergeRate": 21,
+    "prs": 9,
+    "prsMerged": 1,
+    "prAdditions": 799,
+    "prDeletions": 214,
+    "prChangedFiles": 25,
+    "prMergeRate": 11,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 33,
+    "reviews": 44,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 26,
+    "comments": 24,
     "commitAdditions": 118,
     "commitDeletions": 9,
     "commitChangedFiles": 6
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 2,
       "issues": 0,
-      "reviews": 17,
-      "comments": 20,
-      "commitAdditions": 23,
-      "commitDeletions": 4,
-      "commits": 1
+      "reviews": 12,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 14,
+      "prs": 9,
       "issues": 0,
-      "reviews": 33,
-      "comments": 26,
+      "reviews": 44,
+      "comments": 24,
       "commitAdditions": 118,
       "commitDeletions": 9,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-04T09:03:49Z",
-  "lastContribution": "2026-03-14T18:17:17Z",
+  "firstContribution": "2026-03-07T09:49:06Z",
+  "lastContribution": "2026-03-17T01:00:17Z",
   "recentPRs": [
     {
       "number": 46455,
@@ -150,65 +150,70 @@
       "additions": 157,
       "deletions": 38,
       "changedFiles": 3
-    },
-    {
-      "number": 35873,
-      "title": "fix(bluebubbles): guard against null text in debounce flush",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T09:48:49Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 2,
-      "changedFiles": 1
-    },
-    {
-      "number": 35234,
-      "title": "fix: cron backup should preserve pre-edit snapshot (#35195)",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T02:18:39Z",
-      "mergedAt": "2026-03-05T03:46:28Z",
-      "additions": 95,
-      "deletions": 5,
-      "changedFiles": 4
-    },
-    {
-      "number": 34390,
-      "title": "fix(whatsapp): use fresh config per-message instead of stale handler-creation snapshot",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T12:01:46Z",
-      "mergedAt": null,
-      "additions": 334,
-      "deletions": 54,
-      "changedFiles": 4
-    },
-    {
-      "number": 34369,
-      "title": "fix(agents): prevent /v1beta duplication in Gemini PDF URL",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-04T11:37:56Z",
-      "mergedAt": "2026-03-10T16:52:50Z",
-      "additions": 23,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 34212,
-      "title": "fix: hide control-ui untrusted sender metadata in direct chats",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T09:03:49Z",
-      "mergedAt": null,
-      "additions": 24,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 48416,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T01:00:17Z"
+    },
+    {
+      "prNumber": 48416,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T01:00:16Z"
+    },
+    {
+      "prNumber": 48416,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T01:00:14Z"
+    },
+    {
+      "prNumber": 48416,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T01:00:13Z"
+    },
+    {
+      "prNumber": 48460,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T01:00:11Z"
+    },
+    {
+      "prNumber": 48460,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T23:48:23Z"
+    },
+    {
+      "prNumber": 48460,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T23:48:06Z"
+    },
+    {
+      "prNumber": 48460,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T23:48:04Z"
+    },
+    {
+      "prNumber": 48445,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T23:34:52Z"
+    },
+    {
+      "prNumber": 48453,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T23:33:54Z"
+    },
+    {
+      "prNumber": 48453,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T23:33:39Z"
+    },
+    {
+      "prNumber": 48453,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T23:33:25Z"
+    },
     {
       "prNumber": 43965,
       "state": "COMMENTED",
@@ -248,66 +253,6 @@
       "prNumber": 40561,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T04:37:30Z"
-    },
-    {
-      "prNumber": 40561,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T04:37:20Z"
-    },
-    {
-      "prNumber": 40522,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T04:30:21Z"
-    },
-    {
-      "prNumber": 40027,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T16:53:04Z"
-    },
-    {
-      "prNumber": 40046,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T16:52:10Z"
-    },
-    {
-      "prNumber": 40046,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T16:52:08Z"
-    },
-    {
-      "prNumber": 39463,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T05:58:15Z"
-    },
-    {
-      "prNumber": 39463,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T05:58:13Z"
-    },
-    {
-      "prNumber": 39463,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T05:58:12Z"
-    },
-    {
-      "prNumber": 39463,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T05:58:11Z"
-    },
-    {
-      "prNumber": 39360,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T02:20:48Z"
-    },
-    {
-      "prNumber": 39360,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T02:20:47Z"
-    },
-    {
-      "prNumber": 38736,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T22:45:17Z"
     }
   ],
   "recentActivityDays": {
@@ -336,15 +281,15 @@
       "issues": 0,
       "reviews": 13
     },
-    "2026-03-05": {
-      "prs": 2,
+    "2026-03-17": {
+      "prs": 0,
       "issues": 0,
-      "reviews": 0
+      "reviews": 5
     },
-    "2026-03-04": {
-      "prs": 3,
+    "2026-03-16": {
+      "prs": 0,
       "issues": 0,
-      "reviews": 1
+      "reviews": 7
     },
     "2026-03-11": {
       "prs": 0,
@@ -363,11 +308,6 @@
     "Discussion"
   ],
   "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
     {
       "id": "reviewer",
       "label": "Code Reviewer",

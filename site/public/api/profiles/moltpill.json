@@ -1,0 +1,124 @@
+{
+  "username": "moltpill",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/261749793?u=10bd31eb1fe020238e2b5999ee81cc9e78c935f2&v=4",
+  "githubUrl": "https://github.com/moltpill",
+  "score": {
+    "score": 27.96,
+    "prScore": 9.96,
+    "issueScore": 5,
+    "reviewScore": 12,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 136,
+    "prDeletions": 2,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T19:13:57Z",
+  "lastContribution": "2026-03-16T16:51:44Z",
+  "recentPRs": [
+    {
+      "number": 47589,
+      "title": "fix(reminder-guard): reduce false positives on memory-related statements",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T19:18:48Z",
+      "mergedAt": null,
+      "additions": 136,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 47586,
+      "title": "Reminder guard fires false positives on memory-related \"I'll remember\" statements",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T19:13:57Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 47589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T16:49:33Z"
+    },
+    {
+      "prNumber": 47589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T16:49:22Z"
+    },
+    {
+      "prNumber": 47589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T16:49:13Z"
+    },
+    {
+      "prNumber": 47589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T16:49:05Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 4
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

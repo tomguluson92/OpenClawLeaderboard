@@ -3,54 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/62758655?v=4",
   "githubUrl": "https://github.com/sahilsatralkar",
   "score": {
-    "score": 258.16,
-    "prScore": 190.66,
+    "score": 238.46,
+    "prScore": 168.96,
     "issueScore": 0,
-    "reviewScore": 57,
-    "commentScore": 10.5
+    "reviewScore": 66,
+    "commentScore": 3.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 6,
-    "prs": 8,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 1308,
-    "prDeletions": 113,
+    "prAdditions": 1255,
+    "prDeletions": 85,
     "prChangedFiles": 39,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 19,
+    "reviews": 22,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 21,
+    "comments": 7,
     "commitAdditions": 233,
     "commitDeletions": 19,
     "commitChangedFiles": 8
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
-      "reviews": 14,
-      "comments": 6,
+      "reviews": 11,
+      "comments": 4,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 5,
       "issues": 0,
-      "reviews": 19,
-      "comments": 21,
+      "reviews": 22,
+      "comments": 7,
       "commitAdditions": 233,
       "commitDeletions": 19,
       "commits": 6
     }
   },
-  "firstContribution": "2026-03-03T16:38:05Z",
-  "lastContribution": "2026-03-13T19:53:36Z",
+  "firstContribution": "2026-03-06T18:21:05Z",
+  "lastContribution": "2026-03-19T04:09:17Z",
   "recentPRs": [
     {
       "number": 45414,
@@ -59,8 +59,8 @@
       "merged": false,
       "createdAt": "2026-03-13T19:37:52Z",
       "mergedAt": null,
-      "additions": 69,
-      "deletions": 14,
+      "additions": 89,
+      "deletions": 36,
       "changedFiles": 2
     },
     {
@@ -70,20 +70,20 @@
       "merged": false,
       "createdAt": "2026-03-12T18:49:49Z",
       "mergedAt": null,
-      "additions": 176,
+      "additions": 285,
       "deletions": 6,
-      "changedFiles": 7
+      "changedFiles": 12
     },
     {
       "number": 41161,
       "title": "fix: Gateway- add getFallbackGatewayContext getter",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T14:57:55Z",
       "mergedAt": null,
-      "additions": 143,
-      "deletions": 0,
-      "changedFiles": 4
+      "additions": 465,
+      "deletions": 12,
+      "changedFiles": 8
     },
     {
       "number": 38904,
@@ -92,9 +92,9 @@
       "merged": false,
       "createdAt": "2026-03-07T13:54:59Z",
       "mergedAt": null,
-      "additions": 190,
-      "deletions": 13,
-      "changedFiles": 7
+      "additions": 260,
+      "deletions": 29,
+      "changedFiles": 10
     },
     {
       "number": 38255,
@@ -106,43 +106,50 @@
       "additions": 156,
       "deletions": 2,
       "changedFiles": 7
-    },
-    {
-      "number": 36517,
-      "title": "feat: add per-agent/session isolation for cron job operations, Issue 35447",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T17:44:40Z",
-      "mergedAt": null,
-      "additions": 273,
-      "deletions": 54,
-      "changedFiles": 7
-    },
-    {
-      "number": 34735,
-      "title": "fix: implement Anthropic OAuth flow and proper credential storage, Issue #34117",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T16:59:57Z",
-      "mergedAt": null,
-      "additions": 252,
-      "deletions": 7,
-      "changedFiles": 3
-    },
-    {
-      "number": 34713,
-      "title": "fix: prioritize model override over stale runtime model, Issue 33949",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T16:48:16Z",
-      "mergedAt": null,
-      "additions": 49,
-      "deletions": 17,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 38904,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:58:31Z"
+    },
+    {
+      "prNumber": 38904,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:58:23Z"
+    },
+    {
+      "prNumber": 38904,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:43:47Z"
+    },
+    {
+      "prNumber": 38904,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T17:26:13Z"
+    },
+    {
+      "prNumber": 45414,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T16:09:07Z"
+    },
+    {
+      "prNumber": 45414,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T16:09:01Z"
+    },
+    {
+      "prNumber": 45414,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T16:08:55Z"
+    },
+    {
+      "prNumber": 45414,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T15:48:15Z"
+    },
     {
       "prNumber": 45414,
       "state": "COMMENTED",
@@ -174,11 +181,6 @@
       "createdAt": "2026-03-12T19:25:06Z"
     },
     {
-      "prNumber": 36517,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T20:05:28Z"
-    },
-    {
       "prNumber": 41161,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T15:42:47Z"
@@ -207,36 +209,6 @@
       "prNumber": 41161,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T15:21:37Z"
-    },
-    {
-      "prNumber": 41161,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T15:21:18Z"
-    },
-    {
-      "prNumber": 34735,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T08:03:01Z"
-    },
-    {
-      "prNumber": 38255,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T18:36:30Z"
-    },
-    {
-      "prNumber": 36517,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T18:31:35Z"
-    },
-    {
-      "prNumber": 36517,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T18:11:27Z"
-    },
-    {
-      "prNumber": 34713,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T17:12:06Z"
     }
   ],
   "recentActivityDays": {
@@ -258,27 +230,22 @@
     "2026-03-07": {
       "prs": 1,
       "issues": 0,
-      "reviews": 1
+      "reviews": 0
     },
     "2026-03-06": {
       "prs": 1,
       "issues": 0,
       "reviews": 1
     },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-11": {
+    "2026-03-17": {
       "prs": 0,
       "issues": 0,
-      "reviews": 1
+      "reviews": 3
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
     }
   },
   "skills": [
@@ -292,11 +259,6 @@
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
     }
   ],
   "recentCommitDays": {

@@ -1,0 +1,303 @@
+{
+  "username": "rocky-d",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/116997913?u=20dfcb91d3d1cfbebdb35df07b28cecf805a6150&v=4",
+  "githubUrl": "https://github.com/rocky-d",
+  "score": {
+    "score": 354.27,
+    "prScore": 330.77,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 23.5
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 28,
+    "prsMerged": 0,
+    "prAdditions": 7913,
+    "prDeletions": 65,
+    "prChangedFiles": 67,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 47,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 28,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 47,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 28,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 47,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T10:30:25Z",
+  "lastContribution": "2026-03-18T04:53:16Z",
+  "recentPRs": [
+    {
+      "number": 47378,
+      "title": "fix(webchat): add missing operator.read and operator.write scopes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T14:11:50Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 47377,
+      "title": "fix(ui): deduplicate cumulative streaming text in webchat segments",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:11:25Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 47375,
+      "title": "fix(agents): apply skillFilter when building prompt from entries",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:10:40Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 47370,
+      "title": "fix(logging): rotate log file when date changes in rolling-path mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:06:45Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 47359,
+      "title": "fix: add operator.read and operator.write scopes to WebChat connection",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:49:19Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 47355,
+      "title": "fix(exec): add error handling for allowlist persistence failures",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:41:59Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 47353,
+      "title": "feat(tts): show provider, model, voice, and custom backend in /status command",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:40:13Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 47350,
+      "title": "fix(agents): apply skillFilter when building prompt from entries",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:33:38Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 47349,
+      "title": "fix(memory): remove QMD_CONFIG_DIR workaround, align with XDG spec",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:33:06Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 47346,
+      "title": "fix(discord): include provider prefix in model dropdown values (closes #46975)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:27:19Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 47344,
+      "title": "fix(ui): deduplicate cumulative streaming text in webchat segments",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:24:53Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 47341,
+      "title": "fix(logging): rotate log file when date changes in rolling-path mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:23:20Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 47340,
+      "title": "fix(channels/telegram): export OutboundSendDeps to plugin SDK",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:22:44Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 10,
+      "changedFiles": 5
+    },
+    {
+      "number": 47336,
+      "title": "fix(doctor): enable memory detection on macOS (darwin)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T13:19:27Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 47310,
+      "title": "fix(usage): use latest assistant message cache tokens for context display (closes #47281)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T12:43:08Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 6,
+      "changedFiles": 1
+    },
+    {
+      "number": 47301,
+      "title": "fix(openai-completions): Mistral API uses max_tokens parameter, not max_completion_tokens",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T12:36:25Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 47295,
+      "title": "fix(webchat): include provider prefix in model dropdown values (closes #47192)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T12:26:09Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 47291,
+      "title": "fix(platform): extend startup optimization hints to support macOS (darwin)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T12:20:25Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 47287,
+      "title": "fix(skills): use skill source to determine bundled status instead of name",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T12:15:17Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 47283,
+      "title": "fix(docker): copy src/ into runtime image for tsx-based extension loading",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T12:10:49Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 28,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {}
+}

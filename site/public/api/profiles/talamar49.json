@@ -1,0 +1,95 @@
+{
+  "username": "talamar49",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/114323965?v=4",
+  "githubUrl": "https://github.com/talamar49",
+  "score": {
+    "score": 13.32,
+    "prScore": 8.32,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 8,
+    "prDeletions": 0,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-13T14:07:31Z",
+  "lastContribution": "2026-03-15T23:03:17Z",
+  "recentPRs": [
+    {
+      "number": 47680,
+      "title": "fix: set Nested lane concurrency to prevent sessions_send serialization",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T23:03:17Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45165,
+      "title": "Bug: sessions_send nested lane defaults to maxConcurrent=1, serializing all inter-agent communication",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T14:07:31Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

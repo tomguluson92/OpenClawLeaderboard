@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/126378?v=4",
   "githubUrl": "https://github.com/velvet-shark",
   "score": {
-    "score": 229.9,
-    "prScore": 218.9,
+    "score": 253.07,
+    "prScore": 242.57,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 11
+    "commentScore": 10.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 9,
-    "prs": 6,
-    "prsMerged": 6,
-    "prAdditions": 867,
-    "prDeletions": 116,
-    "prChangedFiles": 36,
+    "commits": 10,
+    "prs": 7,
+    "prsMerged": 7,
+    "prAdditions": 1517,
+    "prDeletions": 242,
+    "prChangedFiles": 70,
     "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 22,
-    "commitAdditions": 881,
-    "commitDeletions": 120,
-    "commitChangedFiles": 39
+    "comments": 21,
+    "commitAdditions": 1531,
+    "commitDeletions": 246,
+    "commitChangedFiles": 73
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 22,
-      "commitAdditions": 881,
-      "commitDeletions": 120,
-      "commits": 9
+      "comments": 7,
+      "commitAdditions": 800,
+      "commitDeletions": 175,
+      "commits": 5
     },
     "monthly": {
-      "prs": 6,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 22,
-      "commitAdditions": 881,
-      "commitDeletions": 120,
-      "commits": 9
+      "comments": 21,
+      "commitAdditions": 1531,
+      "commitDeletions": 246,
+      "commits": 10
     }
   },
   "firstContribution": "2026-03-09T00:21:10Z",
-  "lastContribution": "2026-03-15T01:10:51Z",
+  "lastContribution": "2026-03-16T13:22:03Z",
   "recentPRs": [
+    {
+      "number": 48170,
+      "title": "Browser: support non-Chrome existing-session profiles via userDataDir",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-16T11:47:01Z",
+      "mergedAt": "2026-03-16T13:21:22Z",
+      "additions": 650,
+      "deletions": 126,
+      "changedFiles": 34
+    },
     {
       "number": 46695,
       "title": "Docs: fix MDX markers blocking page refreshes",
@@ -122,6 +133,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 2,
       "issues": 0,
@@ -161,6 +177,7 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-16": 1,
     "2026-03-15": 2,
     "2026-03-14": 1,
     "2026-03-13": 1,

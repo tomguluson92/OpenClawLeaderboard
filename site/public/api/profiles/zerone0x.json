@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/39543393?v=4",
   "githubUrl": "https://github.com/zerone0x",
   "score": {
-    "score": 462.14,
-    "prScore": 458.64,
+    "score": 438.52,
+    "prScore": 434.52,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3.5
+    "commentScore": 4
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 24,
-    "prs": 30,
-    "prsMerged": 2,
-    "prAdditions": 976,
-    "prDeletions": 83,
-    "prChangedFiles": 61,
-    "prMergeRate": 7,
+    "prs": 27,
+    "prsMerged": 1,
+    "prAdditions": 957,
+    "prDeletions": 75,
+    "prChangedFiles": 54,
+    "prMergeRate": 4,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 8,
     "commitAdditions": 2195,
     "commitDeletions": 299,
     "commitChangedFiles": 68
   },
   "period": {
     "weekly": {
-      "prs": 20,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 77,
-      "commitDeletions": 5,
-      "commits": 1
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 30,
+      "prs": 27,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 1137,
-      "commitDeletions": 52,
-      "commits": 16
+      "comments": 8,
+      "commitAdditions": 770,
+      "commitDeletions": 25,
+      "commits": 13
     }
   },
-  "firstContribution": "2026-03-04T20:08:46Z",
-  "lastContribution": "2026-03-10T15:58:45Z",
+  "firstContribution": "2026-03-07T17:02:45Z",
+  "lastContribution": "2026-03-17T06:41:46Z",
   "recentPRs": [
+    {
+      "number": 48792,
+      "title": "fix(tools): strip arg_value XML suffix from exec/read args",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T06:41:46Z",
+      "mergedAt": null,
+      "additions": 94,
+      "deletions": 0,
+      "changedFiles": 3
+    },
     {
       "number": 42305,
       "title": "fix(exec): switch Windows console to UTF-8 codepage for CJK support",
@@ -154,7 +165,7 @@
     {
       "number": 40629,
       "title": "fix(heartbeat): use 60s retry delay for requests-in-flight skips",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T05:21:22Z",
       "mergedAt": null,
@@ -176,7 +187,7 @@
     {
       "number": 40625,
       "title": "fix(exec): use StringDecoder to prevent Chinese text mojibake in system messages",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T05:16:45Z",
       "mergedAt": null,
@@ -260,22 +271,16 @@
       "additions": 26,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 39515,
-      "title": "fix(config): coerce commands.allowFrom array to record format (#39500)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T05:33:09Z",
-      "mergedAt": null,
-      "additions": 44,
-      "deletions": 3,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 4,
       "issues": 0,
@@ -293,16 +298,6 @@
     },
     "2026-03-07": {
       "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 2,
       "issues": 0,
       "reviews": 0
     }
@@ -332,8 +327,6 @@
     "2026-02-06": 1,
     "2026-01-25": 2,
     "2026-01-23": 1,
-    "2026-01-22": 3,
-    "2026-01-18": 1,
-    "2026-01-17": 1
+    "2026-01-22": 3
   }
 }

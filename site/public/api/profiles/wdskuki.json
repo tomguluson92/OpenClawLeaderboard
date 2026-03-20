@@ -3,55 +3,154 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3415660?u=65fc83369bc0a5a263fecf70dfc0141218acaf0e&v=4",
   "githubUrl": "https://github.com/wdskuki",
   "score": {
-    "score": 60.99,
-    "prScore": 59.99,
+    "score": 315.72,
+    "prScore": 311.22,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 4.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 14,
     "prsMerged": 0,
-    "prAdditions": 601,
-    "prDeletions": 5,
-    "prChangedFiles": 13,
+    "prAdditions": 1490429,
+    "prDeletions": 52,
+    "prChangedFiles": 1608,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 9,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 9,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 7,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 14,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-11T09:34:50Z",
-  "lastContribution": "2026-03-12T14:32:36Z",
+  "lastContribution": "2026-03-20T03:17:48Z",
   "recentPRs": [
+    {
+      "number": 48885,
+      "title": "fix: resolve temporal dead zone issues with CHANNEL_IDS on Windows",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T09:15:23Z",
+      "mergedAt": null,
+      "additions": 121,
+      "deletions": 25,
+      "changedFiles": 9
+    },
+    {
+      "number": 48715,
+      "title": "fix(models): prevent passing \"<authenticated>\" marker as apiKey for google-vertex",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T04:04:22Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 48697,
+      "title": "fix: explicitly configure EnvHttpProxyAgent with HTTP_PROXY/HTTPS_PROXY URLs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T03:26:59Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 48081,
+      "title": "fix(infra): make TMP_DIR_ACCESS_MODE lazy to avoid browser bundle crash",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T09:16:23Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 48039,
+      "title": "fix(ui): add CSS constraints for context-notice__icon to prevent overflow",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T08:29:30Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 48006,
+      "title": "fix(cron): add 'webchat' to CronMessageChannel type",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T07:47:50Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 47960,
+      "title": "fix(memory): use start_line/end_line from QMD/mcporter response",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T06:36:37Z",
+      "mergedAt": null,
+      "additions": 54,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 47896,
+      "title": "fix: update glob to v11 and add colon warning to system prompt",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T04:38:24Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 47845,
+      "title": "fix(ui): add model field support to patchSession controller",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T03:18:52Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 1,
+      "changedFiles": 3
+    },
     {
       "number": 44129,
       "title": "fix(skills): exempt managed skills from path escaping checks on WSL (#44051)",
@@ -59,8 +158,8 @@
       "merged": false,
       "createdAt": "2026-03-12T14:32:36Z",
       "mergedAt": null,
-      "additions": 33,
-      "deletions": 1,
+      "additions": 44,
+      "deletions": 6,
       "changedFiles": 3
     },
     {
@@ -70,9 +169,9 @@
       "merged": false,
       "createdAt": "2026-03-12T14:25:02Z",
       "mergedAt": null,
-      "additions": 28,
+      "additions": 1489534,
       "deletions": 1,
-      "changedFiles": 2
+      "changedFiles": 1565
     },
     {
       "number": 43862,
@@ -81,9 +180,9 @@
       "merged": false,
       "createdAt": "2026-03-12T08:37:54Z",
       "mergedAt": null,
-      "additions": 28,
-      "deletions": 1,
-      "changedFiles": 2
+      "additions": 7,
+      "deletions": 2,
+      "changedFiles": 1
     },
     {
       "number": 43056,
@@ -111,6 +210,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 3,
       "issues": 0,
@@ -124,8 +233,25 @@
   },
   "skills": [
     "Pull Requests",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ],
   "recentCommitDays": {}
 }

@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/105773686?v=4",
   "githubUrl": "https://github.com/hougangdev",
   "score": {
-    "score": 274.77,
-    "prScore": 206.77,
-    "issueScore": 0,
-    "reviewScore": 66,
-    "commentScore": 2
+    "score": 294.53,
+    "prScore": 214.53,
+    "issueScore": 5,
+    "reviewScore": 72,
+    "commentScore": 3
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 3,
-    "prs": 8,
+    "prs": 9,
     "prsMerged": 3,
-    "prAdditions": 3213,
-    "prDeletions": 144,
-    "prChangedFiles": 67,
-    "prMergeRate": 38,
-    "issues": 0,
+    "prAdditions": 3449,
+    "prDeletions": 149,
+    "prChangedFiles": 70,
+    "prMergeRate": 33,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 22,
+    "reviews": 24,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 6,
     "commitAdditions": 1198,
     "commitDeletions": 126,
     "commitChangedFiles": 26
   },
   "period": {
     "weekly": {
-      "prs": 8,
-      "issues": 0,
-      "reviews": 22,
+      "prs": 2,
+      "issues": 1,
+      "reviews": 8,
       "comments": 4,
-      "commitAdditions": 811,
-      "commitDeletions": 76,
-      "commits": 3
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 8,
-      "issues": 0,
-      "reviews": 22,
-      "comments": 4,
+      "prs": 9,
+      "issues": 1,
+      "reviews": 24,
+      "comments": 6,
       "commitAdditions": 811,
       "commitDeletions": 76,
       "commits": 3
     }
   },
   "firstContribution": "2026-03-09T09:30:42Z",
-  "lastContribution": "2026-03-14T11:47:10Z",
+  "lastContribution": "2026-03-16T16:10:30Z",
   "recentPRs": [
+    {
+      "number": 48103,
+      "title": "feat(commands): write restart sentinel on /restart slash command",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T09:47:13Z",
+      "mergedAt": null,
+      "additions": 193,
+      "deletions": 2,
+      "changedFiles": 3
+    },
     {
       "number": 46055,
       "title": "feat(telegram): show waiting reaction via per-message onQueued callback",
@@ -59,8 +70,8 @@
       "merged": false,
       "createdAt": "2026-03-14T11:47:10Z",
       "mergedAt": null,
-      "additions": 174,
-      "deletions": 4,
+      "additions": 217,
+      "deletions": 7,
       "changedFiles": 10
     },
     {
@@ -141,8 +152,26 @@
       "changedFiles": 11
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 48102,
+      "title": "No post-restart notification for `/restart` slash command",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T09:46:58Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 48103,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T11:53:57Z"
+    },
+    {
+      "prNumber": 48103,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T09:57:04Z"
+    },
     {
       "prNumber": 44855,
       "state": "COMMENTED",
@@ -232,19 +261,14 @@
       "prNumber": 40820,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T10:01:49Z"
-    },
-    {
-      "prNumber": 40820,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T10:01:41Z"
-    },
-    {
-      "prNumber": 40820,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T09:45:26Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -274,6 +298,7 @@
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion",
     "Direct Commits"
   ],
@@ -282,6 +307,11 @@
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
   ],
   "recentCommitDays": {

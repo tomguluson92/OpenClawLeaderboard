@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/103017114?u=f0725ad34673c4e872a519f49e0f6aa16ece9f33&v=4",
   "githubUrl": "https://github.com/JunJD",
   "score": {
-    "score": 9.61,
-    "prScore": 9.61,
+    "score": 20.73,
+    "prScore": 20.73,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 73,
-    "prDeletions": 4,
-    "prChangedFiles": 2,
+    "prAdditions": 266,
+    "prDeletions": 5,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-15T04:23:13Z",
-  "lastContribution": "2026-03-15T04:23:13Z",
+  "lastContribution": "2026-03-15T06:20:39Z",
   "recentPRs": [
+    {
+      "number": 46960,
+      "title": "fix(sessions): preserve origin for heartbeat system turns",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T06:20:39Z",
+      "mergedAt": null,
+      "additions": 193,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 46858,
       "title": "Merge branch 'main' of github.com:openclaw/openclaw",
@@ -68,7 +79,7 @@
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-15": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     }

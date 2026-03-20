@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/13622480?u=a053135c459381fd94bbdecb1256271125e6fdde&v=4",
   "githubUrl": "https://github.com/yqli2420",
   "score": {
-    "score": 71.97,
-    "prScore": 71.97,
+    "score": 34.24,
+    "prScore": 34.24,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 115,
-    "prDeletions": 474,
-    "prChangedFiles": 12,
+    "prAdditions": 81,
+    "prDeletions": 465,
+    "prChangedFiles": 7,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T11:08:08Z",
+  "firstContribution": "2026-03-06T10:33:17Z",
   "lastContribution": "2026-03-07T07:03:04Z",
   "recentPRs": [
     {
@@ -84,50 +84,6 @@
       "additions": 7,
       "deletions": 2,
       "changedFiles": 1
-    },
-    {
-      "number": 34578,
-      "title": "fix: recompute expired cron jobs after gateway restart",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T15:07:23Z",
-      "mergedAt": null,
-      "additions": 8,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 34550,
-      "title": "fix: include slack_channel_id in inbound metadata for DM reactions",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T14:38:59Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 34430,
-      "title": "fix: use snapshot.resolved as base for config merge to prevent accide…",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T12:45:07Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 2,
-      "changedFiles": 1
-    },
-    {
-      "number": 34340,
-      "title": "Fix: Avoid duplicate /v1beta in Gemini PDF URL",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T11:08:08Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 1,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -140,11 +96,6 @@
     },
     "2026-03-06": {
       "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 4,
       "issues": 0,
       "reviews": 0
     }

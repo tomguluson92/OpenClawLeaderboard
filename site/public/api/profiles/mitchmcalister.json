@@ -3,53 +3,53 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/209334?v=4",
   "githubUrl": "https://github.com/mitchmcalister",
   "score": {
-    "score": 265.95,
-    "prScore": 191.95,
+    "score": 246.28,
+    "prScore": 174.28,
     "issueScore": 15,
     "reviewScore": 51,
-    "commentScore": 8
+    "commentScore": 6
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 5,
-    "prs": 7,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 2166,
-    "prDeletions": 146,
-    "prChangedFiles": 41,
+    "prAdditions": 1946,
+    "prDeletions": 144,
+    "prChangedFiles": 35,
     "prMergeRate": 0,
     "issues": 3,
     "issuesClosed": 0,
     "reviews": 17,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 16,
+    "comments": 12,
     "commitAdditions": 277,
     "commitDeletions": 10,
     "commitChangedFiles": 14
   },
   "period": {
     "weekly": {
-      "prs": 5,
-      "issues": 3,
-      "reviews": 17,
-      "comments": 14,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 5,
       "issues": 3,
       "reviews": 17,
-      "comments": 16,
+      "comments": 12,
       "commitAdditions": 277,
       "commitDeletions": 10,
       "commits": 5
     }
   },
-  "firstContribution": "2026-03-05T14:40:50Z",
+  "firstContribution": "2026-03-11T15:42:01Z",
   "lastContribution": "2026-03-12T19:33:09Z",
   "recentPRs": [
     {
@@ -106,28 +106,6 @@
       "additions": 185,
       "deletions": 35,
       "changedFiles": 5
-    },
-    {
-      "number": 36273,
-      "title": "fix: preserve subagent task text on model fallback retry",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T14:41:08Z",
-      "mergedAt": null,
-      "additions": 119,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 36272,
-      "title": "fix: invalidate auth runtime snapshots on profile store save",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T14:40:50Z",
-      "mergedAt": null,
-      "additions": 101,
-      "deletions": 1,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [
@@ -250,11 +228,6 @@
       "prs": 4,
       "issues": 3,
       "reviews": 13
-    },
-    "2026-03-05": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [

@@ -3,54 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/220753637?v=4",
   "githubUrl": "https://github.com/dsantoreis",
   "score": {
-    "score": 1153.64,
-    "prScore": 706.64,
+    "score": 752.26,
+    "prScore": 431.26,
     "issueScore": 5,
-    "reviewScore": 342,
+    "reviewScore": 216,
     "commentScore": 100
   },
-  "tier": "elite",
+  "tier": "veteran",
   "characterClass": "Contributor",
   "stats": {
     "commits": 3,
-    "prs": 78,
+    "prs": 40,
     "prsMerged": 3,
-    "prAdditions": 7760,
-    "prDeletions": 608,
-    "prChangedFiles": 280,
-    "prMergeRate": 4,
+    "prAdditions": 4548,
+    "prDeletions": 289,
+    "prChangedFiles": 137,
+    "prMergeRate": 8,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 114,
+    "reviews": 72,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 577,
-    "commitAdditions": 661,
-    "commitDeletions": 9,
-    "commitChangedFiles": 17
+    "comments": 554,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 21,
+      "comments": 488,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 40,
       "issues": 1,
       "reviews": 72,
-      "comments": 552,
-      "commitAdditions": 518,
-      "commitDeletions": 2,
-      "commits": 3
-    },
-    "monthly": {
-      "prs": 78,
-      "issues": 1,
-      "reviews": 114,
-      "comments": 577,
-      "commitAdditions": 661,
-      "commitDeletions": 9,
-      "commits": 4
+      "comments": 554,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T18:54:29Z",
-  "lastContribution": "2026-03-15T04:54:18Z",
+  "firstContribution": "2026-03-08T23:36:46Z",
+  "lastContribution": "2026-03-15T05:48:54Z",
   "recentPRs": [
     {
       "number": 44887,
@@ -410,16 +410,6 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-05": {
-      "prs": 36,
-      "issues": 0,
-      "reviews": 36
-    },
-    "2026-03-04": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 6
-    },
     "2026-03-14": {
       "prs": 0,
       "issues": 0,
@@ -436,19 +426,13 @@
     "Code Review",
     "Issue Reporting",
     "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
+    "Direct Commits"
   ],
   "achievements": [
     {
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "pr-master",
-      "label": "PR Master",
-      "description": "50+ pull requests"
     },
     {
       "id": "reviewer",
@@ -461,11 +445,6 @@
       "description": "50+ reviews"
     },
     {
-      "id": "review-legend",
-      "label": "Review Legend",
-      "description": "100+ reviews"
-    },
-    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
@@ -476,9 +455,5 @@
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {
-    "2026-03-10": 1,
-    "2026-03-09": 2,
-    "2026-02-27": 1
-  }
+  "recentCommitDays": {}
 }

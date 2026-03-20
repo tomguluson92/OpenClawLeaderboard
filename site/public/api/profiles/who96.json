@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/44131846?u=d0936f57843854f3ce47f2c2c826e25a6c2d4960&v=4",
   "githubUrl": "https://github.com/who96",
   "score": {
-    "score": 192.04,
-    "prScore": 151.54,
-    "issueScore": 5,
+    "score": 207.53,
+    "prScore": 158.53,
+    "issueScore": 10,
     "reviewScore": 27,
-    "commentScore": 8.5
+    "commentScore": 12
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 1316,
-    "prDeletions": 167,
-    "prChangedFiles": 67,
+    "prAdditions": 1328,
+    "prDeletions": 154,
+    "prChangedFiles": 65,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 9,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 17,
+    "comments": 24,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -34,28 +34,39 @@
       "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 7,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
-      "issues": 1,
+      "prs": 7,
+      "issues": 2,
       "reviews": 9,
-      "comments": 17,
+      "comments": 24,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-06T11:06:02Z",
-  "lastContribution": "2026-03-14T19:40:13Z",
+  "lastContribution": "2026-03-17T08:47:19Z",
   "recentPRs": [
+    {
+      "number": 48439,
+      "title": "perf(plugins): increase discovery cache TTL to reduce redundant filesystem scans during startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T18:51:56Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 46528,
       "title": "fix(test): remove unused expectSupportsUsageInStreamingForcedOff helper",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T19:23:57Z",
       "mergedAt": null,
@@ -81,9 +92,9 @@
       "merged": false,
       "createdAt": "2026-03-06T17:42:27Z",
       "mergedAt": null,
-      "additions": 281,
-      "deletions": 27,
-      "changedFiles": 7
+      "additions": 279,
+      "deletions": 19,
+      "changedFiles": 5
     },
     {
       "number": 38173,
@@ -99,13 +110,13 @@
     {
       "number": 37940,
       "title": "fix(agents): unify Think/Reasoning defaults via shared resolveReasoningDefault helper",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T14:50:30Z",
       "mergedAt": null,
-      "additions": 334,
-      "deletions": 48,
-      "changedFiles": 22
+      "additions": 336,
+      "deletions": 42,
+      "changedFiles": 20
     },
     {
       "number": 37674,
@@ -120,6 +131,13 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 47957,
+      "title": "[Bug]: CI check/startup-memory/windows-tests globally broken after plugins refactor (2026-03-16)",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T06:27:51Z",
+      "closedAt": null
+    },
     {
       "number": 44536,
       "title": "bug(ci): loader.test.ts sanitizes control characters fails intermittently in CI",
@@ -176,6 +194,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -204,6 +227,11 @@
     "Discussion"
   ],
   "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
     {
       "id": "well-rounded",
       "label": "Well Rounded",

@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/212984?u=cd5ac3952f33d265ffb1bc3c25f6ba0e0bcfe682&v=4",
   "githubUrl": "https://github.com/happydog-intj",
   "score": {
-    "score": 181.84,
-    "prScore": 128.34,
+    "score": 210.75,
+    "prScore": 157.25,
     "issueScore": 13,
     "reviewScore": 36,
     "commentScore": 4.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 2022,
-    "prDeletions": 366,
-    "prChangedFiles": 43,
+    "prAdditions": 2170,
+    "prDeletions": 369,
+    "prChangedFiles": 49,
     "prMergeRate": 0,
     "issues": 2,
     "issuesClosed": 1,
@@ -31,16 +31,16 @@
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 2,
-      "reviews": 12,
-      "comments": 9,
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 6,
       "issues": 2,
       "reviews": 12,
       "comments": 9,
@@ -50,8 +50,30 @@
     }
   },
   "firstContribution": "2026-03-11T13:22:37Z",
-  "lastContribution": "2026-03-14T14:36:11Z",
+  "lastContribution": "2026-03-16T13:32:55Z",
   "recentPRs": [
+    {
+      "number": 48235,
+      "title": "feat(session): inject continuity hint after scheduled session reset",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T13:32:55Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 48221,
+      "title": "fix(agent): drop thinking blocks for non-native anthropic-messages proxies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T13:17:26Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 43961,
       "title": "fix(gateway): SIGKILL stale process when graceful shutdown times out on restart/stop",
@@ -81,7 +103,7 @@
       "merged": false,
       "createdAt": "2026-03-12T07:16:44Z",
       "mergedAt": null,
-      "additions": 776,
+      "additions": 777,
       "deletions": 171,
       "changedFiles": 17
     },
@@ -176,6 +198,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 3,
       "issues": 2,

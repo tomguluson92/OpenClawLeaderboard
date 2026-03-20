@@ -3,35 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12745441?v=4",
   "githubUrl": "https://github.com/lyfuci",
   "score": {
-    "score": 27.44,
-    "prScore": 21.44,
-    "issueScore": 5,
+    "score": 12.88,
+    "prScore": 12.88,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 131,
+    "prAdditions": 122,
     "prDeletions": 11,
-    "prChangedFiles": 5,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 1,
+      "prs": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T12:15:50Z",
+  "firstContribution": "2026-03-08T15:26:26Z",
   "lastContribution": "2026-03-08T15:26:26Z",
   "recentPRs": [
     {
@@ -62,45 +62,19 @@
       "additions": 122,
       "deletions": 11,
       "changedFiles": 4
-    },
-    {
-      "number": 34420,
-      "title": "fix(google-gemini-cli-auth): respect system proxy for OAuth token exchange",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T12:35:57Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 0,
-      "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 34401,
-      "title": "google-gemini-cli-auth: OAuth token exchange fails behind proxy (fetchWithSsrFGuard uses createPinnedDispatcher instead of EnvHttpProxyAgent)",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T12:15:50Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

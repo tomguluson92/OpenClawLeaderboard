@@ -3,35 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/229189334?v=4",
   "githubUrl": "https://github.com/haroldfabla2-hue",
   "score": {
-    "score": 27.43,
-    "prScore": 26.93,
+    "score": 38.47,
+    "prScore": 38.47,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 22,
-    "prDeletions": 4,
-    "prChangedFiles": 6,
+    "prAdditions": 142,
+    "prDeletions": 3,
+    "prChangedFiles": 7,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,18 +40,40 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T02:38:44Z",
-  "lastContribution": "2026-03-15T03:08:57Z",
+  "firstContribution": "2026-03-06T17:36:37Z",
+  "lastContribution": "2026-03-20T03:23:13Z",
   "recentPRs": [
+    {
+      "number": 50796,
+      "title": "fix(control-ui): hide relevant-memories scaffolding in chat output",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T03:23:13Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 47634,
+      "title": "Add common-pitfalls.md reference documentation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T21:18:08Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 0,
+      "changedFiles": 2
+    },
     {
       "number": 46782,
       "title": "fix(logs): default to local timezone display",
@@ -73,24 +95,18 @@
       "additions": 7,
       "deletions": 0,
       "changedFiles": 1
-    },
-    {
-      "number": 35259,
-      "title": "fix(skills): handle numeric skill names in bundled-context",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T02:38:44Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 2,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-15": {
+    "2026-03-20": {
       "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     },
@@ -98,16 +114,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

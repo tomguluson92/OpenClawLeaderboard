@@ -3,55 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258443621?u=b41c9220953d84d03613aaf680b32518aec0d0fc&v=4",
   "githubUrl": "https://github.com/clovericbot",
   "score": {
-    "score": 42.6,
-    "prScore": 40.1,
+    "score": 101.45,
+    "prScore": 91.95,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 2.5
+    "reviewScore": 3,
+    "commentScore": 6.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 225,
-    "prDeletions": 4,
-    "prChangedFiles": 16,
+    "prAdditions": 576,
+    "prDeletions": 27,
+    "prChangedFiles": 26,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
+    "comments": 13,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 6,
       "issues": 0,
-      "reviews": 0,
-      "comments": 5,
+      "reviews": 1,
+      "comments": 13,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 6,
       "issues": 0,
-      "reviews": 0,
-      "comments": 5,
+      "reviews": 1,
+      "comments": 13,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-14T01:25:49Z",
-  "lastContribution": "2026-03-15T04:27:07Z",
+  "lastContribution": "2026-03-18T17:15:41Z",
   "recentPRs": [
+    {
+      "number": 49807,
+      "title": "fix: exclude overloaded errors from auth profile cooldown escalation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T12:57:27Z",
+      "mergedAt": null,
+      "additions": 66,
+      "deletions": 11,
+      "changedFiles": 3
+    },
+    {
+      "number": 49800,
+      "title": "fix: retry same auth profile on transient overloaded errors before failover",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T12:45:57Z",
+      "mergedAt": null,
+      "additions": 209,
+      "deletions": 6,
+      "changedFiles": 4
+    },
+    {
+      "number": 49457,
+      "title": "fix: suppress drain error replies to prevent chat flooding",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T04:33:19Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 47384,
+      "title": "fix: continue telegram polling when webhook is already absent",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T14:17:15Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 0,
+      "changedFiles": 2
+    },
     {
       "number": 46740,
       "title": "ACP: classify silent acpx exits as backend unavailable",
@@ -59,8 +103,8 @@
       "merged": false,
       "createdAt": "2026-03-15T02:17:01Z",
       "mergedAt": null,
-      "additions": 102,
-      "deletions": 3,
+      "additions": 115,
+      "deletions": 9,
       "changedFiles": 6
     },
     {
@@ -76,10 +120,21 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 49807,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T16:33:21Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-15": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     },
@@ -91,6 +146,7 @@
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion"
   ],
   "achievements": [],

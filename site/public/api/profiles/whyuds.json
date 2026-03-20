@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6570978?u=a2586e0b28aa02dfd6f30507f49dcd615a5f37da&v=4",
   "githubUrl": "https://github.com/whyuds",
   "score": {
-    "score": 63.19,
+    "score": 57.69,
     "prScore": 57.19,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 3,
@@ -19,12 +19,12 @@
     "prDeletions": 13,
     "prChangedFiles": 19,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -41,9 +41,9 @@
     },
     "monthly": {
       "prs": 3,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -86,15 +86,7 @@
       "changedFiles": 13
     }
   ],
-  "recentIssues": [
-    {
-      "number": 37634,
-      "title": "sandbox: keep workspaceAccess none workspaces writable",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T10:26:05Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-07": {
@@ -104,13 +96,12 @@
     },
     "2026-03-06": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],

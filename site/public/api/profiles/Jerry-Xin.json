@@ -3,55 +3,110 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3401616?v=4",
   "githubUrl": "https://github.com/Jerry-Xin",
   "score": {
-    "score": 86.71,
-    "prScore": 79.21,
+    "score": 195.68,
+    "prScore": 162.18,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 7.5
+    "reviewScore": 15,
+    "commentScore": 18.5
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 1049,
-    "prDeletions": 66,
-    "prChangedFiles": 21,
+    "prAdditions": 2069,
+    "prDeletions": 98,
+    "prChangedFiles": 40,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 15,
+    "comments": 37,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 9,
       "issues": 0,
-      "reviews": 0,
-      "comments": 15,
+      "reviews": 5,
+      "comments": 35,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 10,
       "issues": 0,
-      "reviews": 0,
-      "comments": 15,
+      "reviews": 5,
+      "comments": 37,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-13T06:34:48Z",
-  "lastContribution": "2026-03-14T16:05:44Z",
+  "lastContribution": "2026-03-17T19:10:58Z",
   "recentPRs": [
+    {
+      "number": 48741,
+      "title": "fix(plugins): add timeout protection to before_agent_start hook",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T05:03:04Z",
+      "mergedAt": null,
+      "additions": 402,
+      "deletions": 28,
+      "changedFiles": 8
+    },
+    {
+      "number": 48005,
+      "title": "fix(cron): honor model override in isolated agentTurn payloads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T07:47:11Z",
+      "mergedAt": null,
+      "additions": 299,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 48000,
+      "title": "fix(memory): return relevant snippets instead of file beginning in search results",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T07:40:34Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 21,
+      "changedFiles": 2
+    },
+    {
+      "number": 47994,
+      "title": "fix(agent): prevent fallback model from permanently overwriting agent config",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T07:32:59Z",
+      "mergedAt": null,
+      "additions": 161,
+      "deletions": 3,
+      "changedFiles": 10
+    },
+    {
+      "number": 47991,
+      "title": "fix(tools): enforce agent tool profile restrictions correctly",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T07:25:56Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 4,
+      "changedFiles": 2
+    },
     {
       "number": 46133,
       "title": "fix(gateway): include agent:main:main in sessions_list RPC response",
@@ -59,9 +114,9 @@
       "merged": false,
       "createdAt": "2026-03-14T13:09:14Z",
       "mergedAt": null,
-      "additions": 214,
+      "additions": 241,
       "deletions": 0,
-      "changedFiles": 1
+      "changedFiles": 2
     },
     {
       "number": 46016,
@@ -70,7 +125,7 @@
       "merged": false,
       "createdAt": "2026-03-14T10:58:42Z",
       "mergedAt": null,
-      "additions": 118,
+      "additions": 137,
       "deletions": 3,
       "changedFiles": 4
     },
@@ -81,8 +136,8 @@
       "merged": false,
       "createdAt": "2026-03-14T10:52:41Z",
       "mergedAt": null,
-      "additions": 150,
-      "deletions": 15,
+      "additions": 149,
+      "deletions": 14,
       "changedFiles": 2
     },
     {
@@ -103,14 +158,50 @@
       "merged": false,
       "createdAt": "2026-03-13T06:34:48Z",
       "mergedAt": null,
-      "additions": 350,
-      "deletions": 33,
-      "changedFiles": 10
+      "additions": 274,
+      "deletions": 6,
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 47994,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T09:06:26Z"
+    },
+    {
+      "prNumber": 45939,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T14:06:31Z"
+    },
+    {
+      "prNumber": 44761,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T14:06:09Z"
+    },
+    {
+      "prNumber": 46133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T14:05:51Z"
+    },
+    {
+      "prNumber": 46133,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T13:07:34Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-16": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-14": {
       "prs": 4,
       "issues": 0,
@@ -120,12 +211,29 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
   "recentCommitDays": {}
 }

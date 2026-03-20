@@ -3,55 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/204437158?v=4",
   "githubUrl": "https://github.com/haiyuzhong1980",
   "score": {
-    "score": 101.37,
-    "prScore": 101.37,
+    "score": 210.36,
+    "prScore": 188.86,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 21,
+    "commentScore": 0.5
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "active",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 2561,
-    "prDeletions": 58,
-    "prChangedFiles": 37,
+    "prAdditions": 28241,
+    "prDeletions": 241,
+    "prChangedFiles": 222,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 4,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "reviews": 7,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 5,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "reviews": 7,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T12:43:42Z",
-  "lastContribution": "2026-03-13T16:34:26Z",
+  "lastContribution": "2026-03-18T16:21:26Z",
   "recentPRs": [
+    {
+      "number": 49842,
+      "title": "feat(proxy): add SOCKS proxy support for channels",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T14:26:35Z",
+      "mergedAt": null,
+      "additions": 83,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 49589,
+      "title": "feat: add smart-message-handler pre-generation classifier extension",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T07:45:59Z",
+      "mergedAt": null,
+      "additions": 7599,
+      "deletions": 22,
+      "changedFiles": 50
+    },
+    {
+      "number": 48956,
+      "title": "feat(oag): Operational Assurance Gateway — self-evolving channel health runtime",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T11:27:11Z",
+      "mergedAt": null,
+      "additions": 17998,
+      "deletions": 159,
+      "changedFiles": 134
+    },
     {
       "number": 45290,
       "title": "fix(core): harden delivery fallback and outbound recovery",
@@ -76,8 +109,54 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 49589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:21:54Z"
+    },
+    {
+      "prNumber": 49589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:21:51Z"
+    },
+    {
+      "prNumber": 49589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:21:49Z"
+    },
+    {
+      "prNumber": 49589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:21:38Z"
+    },
+    {
+      "prNumber": 49589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:21:36Z"
+    },
+    {
+      "prNumber": 49589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:21:33Z"
+    },
+    {
+      "prNumber": 49589,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T08:21:31Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
@@ -90,8 +169,17 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
   "recentCommitDays": {}
 }

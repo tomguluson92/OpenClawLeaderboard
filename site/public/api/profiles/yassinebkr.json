@@ -1,0 +1,127 @@
+{
+  "username": "yassinebkr",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50209930?v=4",
+  "githubUrl": "https://github.com/yassinebkr",
+  "score": {
+    "score": 63.96,
+    "prScore": 63.96,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 1,
+    "prAdditions": 240,
+    "prDeletions": 13,
+    "prChangedFiles": 10,
+    "prMergeRate": 20,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 62,
+    "commitDeletions": 4,
+    "commitChangedFiles": 5
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 62,
+      "commitDeletions": 4,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 62,
+      "commitDeletions": 4,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-16T14:44:25Z",
+  "lastContribution": "2026-03-16T15:21:10Z",
+  "recentPRs": [
+    {
+      "number": 48307,
+      "title": "fix(status): fall back to transcript-derived token count when provider reports zero (fixes #48206)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T15:21:10Z",
+      "mergedAt": null,
+      "additions": 87,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 48305,
+      "title": "fix(gateway): propagate meaningful restart reasons instead of none (fixes #48205)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T15:20:19Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 48303,
+      "title": "fix(agent): inherit per-agent model override in embedded/subagent runs (fixes #48255)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T15:18:38Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 48283,
+      "title": "fix(agent): discard aborted assistant messages to prevent stale content (fixes #48241)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T14:44:49Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 48282,
+      "title": "fix(telegram): persist sticky IPv4 fallback across polling restarts (fixes #48177)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-16T14:44:25Z",
+      "mergedAt": "2026-03-17T16:26:12Z",
+      "additions": 62,
+      "deletions": 4,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-17": 1
+  }
+}

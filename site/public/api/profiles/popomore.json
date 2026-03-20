@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/360661?v=4",
   "githubUrl": "https://github.com/popomore",
   "score": {
-    "score": 20.91,
-    "prScore": 20.91,
+    "score": 34.83,
+    "prScore": 34.83,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 0,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
+    "prAdditions": 69,
+    "prDeletions": 3,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,22 +40,41 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 96,
-      "commitDeletions": 41,
-      "commits": 3
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     }
   },
-  "firstContribution": null,
-  "lastContribution": null,
-  "recentPRs": [],
+  "firstContribution": "2026-03-16T10:55:46Z",
+  "lastContribution": "2026-03-16T10:55:46Z",
+  "recentPRs": [
+    {
+      "number": 48150,
+      "title": "feat(feishu): expose directory peer email fields",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T10:55:46Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 3,
+      "changedFiles": 4
+    }
+  ],
   "recentIssues": [],
   "recentReviews": [],
-  "recentActivityDays": {},
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
+    "Pull Requests",
     "Direct Commits"
   ],
   "achievements": [],

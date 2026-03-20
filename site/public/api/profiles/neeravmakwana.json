@@ -3,55 +3,132 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/261249544?v=4",
   "githubUrl": "https://github.com/neeravmakwana",
   "score": {
-    "score": 286.09,
-    "prScore": 246.09,
+    "score": 345.28,
+    "prScore": 297.28,
     "issueScore": 0,
-    "reviewScore": 27,
-    "commentScore": 13
+    "reviewScore": 33,
+    "commentScore": 15
   },
   "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 3,
-    "prs": 15,
+    "prs": 22,
     "prsMerged": 2,
-    "prAdditions": 2752,
-    "prDeletions": 207,
-    "prChangedFiles": 55,
-    "prMergeRate": 13,
+    "prAdditions": 3049,
+    "prDeletions": 381,
+    "prChangedFiles": 99,
+    "prMergeRate": 9,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 9,
+    "reviews": 11,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 26,
+    "comments": 30,
     "commitAdditions": 21,
     "commitDeletions": 18,
     "commitChangedFiles": 4
   },
   "period": {
     "weekly": {
-      "prs": 15,
+      "prs": 12,
       "issues": 0,
-      "reviews": 9,
-      "comments": 26,
-      "commitAdditions": 20,
-      "commitDeletions": 17,
-      "commits": 2
+      "reviews": 8,
+      "comments": 11,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 15,
+      "prs": 22,
       "issues": 0,
-      "reviews": 9,
-      "comments": 26,
+      "reviews": 11,
+      "comments": 30,
       "commitAdditions": 20,
       "commitDeletions": 17,
       "commits": 2
     }
   },
   "firstContribution": "2026-03-09T16:22:19Z",
-  "lastContribution": "2026-03-14T04:07:06Z",
+  "lastContribution": "2026-03-18T03:31:21Z",
   "recentPRs": [
+    {
+      "number": 49413,
+      "title": "Format: fix current oxfmt drift",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T03:31:21Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 44,
+      "changedFiles": 6
+    },
+    {
+      "number": 49402,
+      "title": "Matrix: avoid account helper import cycle",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T03:17:31Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 49378,
+      "title": "fix(ci): restore channel import guardrails",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T02:27:11Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 8,
+      "changedFiles": 9
+    },
+    {
+      "number": 49026,
+      "title": "fix(ci): unblock channel import guardrails",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T13:18:14Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 70,
+      "changedFiles": 16
+    },
+    {
+      "number": 48632,
+      "title": "fix(errors): avoid leaking raw model failures",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T01:51:39Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 8,
+      "changedFiles": 5
+    },
+    {
+      "number": 48630,
+      "title": "fix(errors): avoid leaking raw model failures",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T01:45:34Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 47753,
+      "title": "WhatsApp: quote [[reply_to_current]] replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T02:04:05Z",
+      "mergedAt": null,
+      "additions": 164,
+      "deletions": 35,
+      "changedFiles": 4
+    },
     {
       "number": 45715,
       "title": "fix(ui): restore usage tab custom header layout",
@@ -110,7 +187,7 @@
     {
       "number": 44553,
       "title": "fix(compaction): recover manual /compact in threaded sessions",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T02:30:08Z",
       "mergedAt": null,
@@ -154,7 +231,7 @@
     {
       "number": 43112,
       "title": "GoogleChat: respect replyToMode for thread replies",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T10:52:11Z",
       "mergedAt": null,
@@ -165,7 +242,7 @@
     {
       "number": 43101,
       "title": "fix(googlechat): preserve DM thread context",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T10:40:05Z",
       "mergedAt": null,
@@ -194,32 +271,20 @@
       "additions": 351,
       "deletions": 20,
       "changedFiles": 4
-    },
-    {
-      "number": 42162,
-      "title": "fix(slack): normalize route binding peer ids",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-10T13:09:05Z",
-      "mergedAt": null,
-      "additions": 271,
-      "deletions": 7,
-      "changedFiles": 7
-    },
-    {
-      "number": 41242,
-      "title": "fix(swiftformat): sync GatewayModels exclusions with OpenClawProtocol",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T16:22:19Z",
-      "mergedAt": "2026-03-10T01:42:54Z",
-      "additions": 2,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 47753,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T02:12:17Z"
+    },
+    {
+      "prNumber": 47753,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T02:12:04Z"
+    },
     {
       "prNumber": 45715,
       "state": "COMMENTED",
@@ -267,6 +332,21 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-14": {
       "prs": 5,
       "issues": 0,
@@ -309,6 +389,11 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
     },
     {
       "id": "conversationalist",

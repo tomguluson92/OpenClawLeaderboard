@@ -3,55 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/384037?v=4",
   "githubUrl": "https://github.com/rodrigouroz",
   "score": {
-    "score": 309.39,
-    "prScore": 275.89,
+    "score": 367.79,
+    "prScore": 305.79,
     "issueScore": 0,
-    "reviewScore": 30,
-    "commentScore": 3.5
+    "reviewScore": 54,
+    "commentScore": 8
   },
   "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
     "commits": 24,
-    "prs": 2,
+    "prs": 6,
     "prsMerged": 1,
-    "prAdditions": 863,
-    "prDeletions": 129,
-    "prChangedFiles": 29,
-    "prMergeRate": 50,
+    "prAdditions": 1986,
+    "prDeletions": 423,
+    "prChangedFiles": 67,
+    "prMergeRate": 17,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 10,
+    "reviews": 18,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 16,
     "commitAdditions": 8059,
     "commitDeletions": 1448,
     "commitChangedFiles": 169
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 4,
       "issues": 0,
-      "reviews": 10,
-      "comments": 7,
-      "commitAdditions": 1594,
-      "commitDeletions": 163,
-      "commits": 3
+      "reviews": 8,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 6,
       "issues": 0,
-      "reviews": 10,
-      "comments": 7,
-      "commitAdditions": 6569,
-      "commitDeletions": 1088,
-      "commits": 18
+      "reviews": 18,
+      "comments": 16,
+      "commitAdditions": 4285,
+      "commitDeletions": 274,
+      "commits": 10
     }
   },
   "firstContribution": "2026-03-10T02:09:31Z",
-  "lastContribution": "2026-03-10T18:39:53Z",
+  "lastContribution": "2026-03-17T14:57:47Z",
   "recentPRs": [
+    {
+      "number": 48472,
+      "title": "(fix) gateway restart health timeout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T20:22:37Z",
+      "mergedAt": null,
+      "additions": 416,
+      "deletions": 93,
+      "changedFiles": 13
+    },
+    {
+      "number": 48353,
+      "title": "CLI/status: bound Tailscale probes in status paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T16:33:44Z",
+      "mergedAt": null,
+      "additions": 253,
+      "deletions": 34,
+      "changedFiles": 6
+    },
+    {
+      "number": 48352,
+      "title": "CLI/status: break the session runtime import cycle",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T16:33:44Z",
+      "mergedAt": null,
+      "additions": 110,
+      "deletions": 68,
+      "changedFiles": 3
+    },
+    {
+      "number": 48274,
+      "title": "CLI/status: break session runtime import cycle",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T14:27:51Z",
+      "mergedAt": null,
+      "additions": 344,
+      "deletions": 99,
+      "changedFiles": 16
+    },
     {
       "number": 42250,
       "title": "fix(acp): strip provider auth env for child ACP processes",
@@ -77,6 +121,46 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 48472,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T14:57:47Z"
+    },
+    {
+      "prNumber": 48472,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T14:57:45Z"
+    },
+    {
+      "prNumber": 48472,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T13:13:29Z"
+    },
+    {
+      "prNumber": 48472,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T12:48:48Z"
+    },
+    {
+      "prNumber": 48472,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T12:48:46Z"
+    },
+    {
+      "prNumber": 48353,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T12:33:01Z"
+    },
+    {
+      "prNumber": 48353,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T17:15:53Z"
+    },
+    {
+      "prNumber": 48353,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T16:45:39Z"
+    },
     {
       "prNumber": 42250,
       "state": "COMMENTED",
@@ -129,10 +213,20 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-10": {
       "prs": 2,
       "issues": 0,
       "reviews": 10
+    },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 6
     }
   },
   "skills": [
@@ -163,7 +257,6 @@
     "2026-02-11": 1,
     "2026-02-09": 1,
     "2026-01-24": 1,
-    "2026-01-23": 1,
-    "2026-01-18": 1
+    "2026-01-23": 1
   }
 }

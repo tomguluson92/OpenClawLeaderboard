@@ -3,35 +3,35 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/113394381?v=4",
   "githubUrl": "https://github.com/huangkefeng-ai",
   "score": {
-    "score": 68.47,
-    "prScore": 67.47,
+    "score": 45.44,
+    "prScore": 45.44,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 436,
-    "prDeletions": 54,
-    "prChangedFiles": 25,
+    "prAdditions": 428,
+    "prDeletions": 47,
+    "prChangedFiles": 17,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,16 +40,16 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T06:26:41Z",
+  "firstContribution": "2026-03-08T13:34:25Z",
   "lastContribution": "2026-03-08T13:55:50Z",
   "recentPRs": [
     {
@@ -73,17 +73,6 @@
       "additions": 95,
       "deletions": 10,
       "changedFiles": 4
-    },
-    {
-      "number": 35574,
-      "title": "fix(onboarding): default local tools.profile to full",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T06:26:41Z",
-      "mergedAt": null,
-      "additions": 8,
-      "deletions": 7,
-      "changedFiles": 8
     }
   ],
   "recentIssues": [],
@@ -93,16 +82,10 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

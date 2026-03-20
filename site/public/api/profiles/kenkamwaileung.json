@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/266336690?v=4",
   "githubUrl": "https://github.com/kenkamwaileung",
   "score": {
-    "score": 21.66,
+    "score": 16.66,
     "prScore": 8.66,
-    "issueScore": 13,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 1,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 1,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,8 +31,8 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-07T17:50:16Z",
+  "firstContribution": "2026-03-08T12:04:22Z",
   "lastContribution": "2026-03-10T03:36:29Z",
   "recentPRs": [
     {
@@ -71,13 +71,6 @@
       "state": "CLOSED",
       "createdAt": "2026-03-10T03:36:29Z",
       "closedAt": "2026-03-13T18:21:16Z"
-    },
-    {
-      "number": 39066,
-      "title": "[BUG]: delivery-recovery races ahead of channel startup, causing permanent message loss",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T17:50:16Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
@@ -88,11 +81,6 @@
       "reviews": 0
     },
     "2026-03-10": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-07": {
       "prs": 0,
       "issues": 1,
       "reviews": 0

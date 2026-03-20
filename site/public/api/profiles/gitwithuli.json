@@ -1,0 +1,108 @@
+{
+  "username": "gitwithuli",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61683018?u=01fb1c7728347a1e0f433b4754b7a5d08d6cd915&v=4",
+  "githubUrl": "https://github.com/gitwithuli",
+  "score": {
+    "score": 41.16,
+    "prScore": 41.16,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 806,
+    "prDeletions": 23,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T22:09:50Z",
+  "lastContribution": "2026-03-16T14:52:30Z",
+  "recentPRs": [
+    {
+      "number": 48285,
+      "title": "fix(gateway): allow loopback node-role sessions without device identity",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T14:52:30Z",
+      "mergedAt": null,
+      "additions": 100,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 47664,
+      "title": "media: auto-detect transcription providers from auth-profiles.json",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T22:22:33Z",
+      "mergedAt": null,
+      "additions": 414,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 47654,
+      "title": "config: strip unknown keys with warnings instead of crash-looping",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T22:09:50Z",
+      "mergedAt": null,
+      "additions": 292,
+      "deletions": 19,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

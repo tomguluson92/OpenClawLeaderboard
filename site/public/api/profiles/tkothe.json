@@ -1,0 +1,113 @@
+{
+  "username": "tkothe",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5236566?u=db84e6ed2c975998e86de7d5dade03ec598abbb4&v=4",
+  "githubUrl": "https://github.com/tkothe",
+  "score": {
+    "score": 70.66,
+    "prScore": 62.66,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 396,
+    "prDeletions": 22,
+    "prChangedFiles": 23,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T14:38:50Z",
+  "lastContribution": "2026-03-15T19:26:50Z",
+  "recentPRs": [
+    {
+      "number": 47479,
+      "title": "docker: fix docker-setup.sh .env handling",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T16:34:58Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 47473,
+      "title": "docker: fix upsert_env losing quotes on whitespace-containing .env values",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T16:29:44Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 47471,
+      "title": "docker: fix upsert_env losing quotes on whitespace-containing .env values",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T16:22:33Z",
+      "mergedAt": null,
+      "additions": 331,
+      "deletions": 18,
+      "changedFiles": 20
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 47397,
+      "title": "billing failure on one auth profile disables entire provider for embedded agents, blocking healthy fallback profiles",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T14:38:50Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

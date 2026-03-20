@@ -1,0 +1,415 @@
+{
+  "username": "brokemac79",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/255583030?v=4",
+  "githubUrl": "https://github.com/brokemac79",
+  "score": {
+    "score": 380.47,
+    "prScore": 259.97,
+    "issueScore": 0,
+    "reviewScore": 96,
+    "commentScore": 24.5
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 19,
+    "prsMerged": 1,
+    "prAdditions": 3405,
+    "prDeletions": 347,
+    "prChangedFiles": 67,
+    "prMergeRate": 5,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 32,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 49,
+    "commitAdditions": 96,
+    "commitDeletions": 36,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 19,
+      "issues": 0,
+      "reviews": 32,
+      "comments": 49,
+      "commitAdditions": 96,
+      "commitDeletions": 36,
+      "commits": 1
+    },
+    "monthly": {
+      "prs": 19,
+      "issues": 0,
+      "reviews": 32,
+      "comments": 49,
+      "commitAdditions": 96,
+      "commitDeletions": 36,
+      "commits": 1
+    }
+  },
+  "firstContribution": "2026-03-15T17:32:16Z",
+  "lastContribution": "2026-03-18T18:33:00Z",
+  "recentPRs": [
+    {
+      "number": 49903,
+      "title": "fix(ui): preserve chatRunId during tool stream updates",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T15:59:38Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 49197,
+      "title": "fix(cron): apply caller-based filtering to jobNameById in cron.runs handler",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T18:55:21Z",
+      "mergedAt": null,
+      "additions": 135,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 49196,
+      "title": "fix: use max_completion_tokens for OpenAI models that require it",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T18:53:40Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 48460,
+      "title": "fix(models): preserve current Gemini 3.1 Google IDs (#48086) [AI-assisted]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T19:33:39Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 48453,
+      "title": "fix(openai-responses): strip prompt_cache_key for non-OpenAI endpoints (#48155)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T19:21:17Z",
+      "mergedAt": null,
+      "additions": 153,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 48445,
+      "title": "fix(tui): preserve code block tokens verbatim in sanitizeRenderableText (#48432)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T19:01:16Z",
+      "mergedAt": null,
+      "additions": 207,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 48418,
+      "title": "fix(cli): patch qrcode-terminal octal escapes for Node 25 compatibility (#48035)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T18:14:56Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 48416,
+      "title": "fix(install): retry npm install with --strict-ssl=false on TLS verification failure (Windows) (#48117)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T18:14:32Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 48392,
+      "title": "fix(ui): add missing CSS for code-block copy button states",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T17:18:08Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 48374,
+      "title": "fix(cron): enforce timeoutSeconds for script payloads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T16:57:50Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 48358,
+      "title": "fix(cron): enforce timeoutSeconds for script payloads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T16:41:37Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 47797,
+      "title": "fix(session): preserve external channel route when webchat views session (#47745)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-16T02:19:45Z",
+      "mergedAt": "2026-03-16T06:37:59Z",
+      "additions": 93,
+      "deletions": 37,
+      "changedFiles": 4
+    },
+    {
+      "number": 47665,
+      "title": "fix(failover): treat bare leading 402 assistant error strings as 402 markers (#47576)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T22:24:39Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 47655,
+      "title": "fix(ui): deduplicate chat header model picker entries for normalized model refs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T22:11:58Z",
+      "mergedAt": null,
+      "additions": 169,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 47632,
+      "title": "fix(cron): enforce timeoutSeconds for script payloads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T21:16:11Z",
+      "mergedAt": null,
+      "additions": 93,
+      "deletions": 6,
+      "changedFiles": 7
+    },
+    {
+      "number": 47626,
+      "title": "fix(discord): route DM messages to user:<userId> instead of channel:<dmChannelId>",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T20:54:00Z",
+      "mergedAt": null,
+      "additions": 167,
+      "deletions": 2,
+      "changedFiles": 5
+    },
+    {
+      "number": 47603,
+      "title": "fix(ui): send full provider/model-id from Control UI model dropdown [AI-assisted]",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T19:43:43Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 47526,
+      "title": "fix(config): add missing subagent permission keys to agent schema [AI-assisted]",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T17:34:00Z",
+      "mergedAt": null,
+      "additions": 1795,
+      "deletions": 234,
+      "changedFiles": 8
+    },
+    {
+      "number": 47522,
+      "title": "fix(ui): derive full provider/model ID from catalog in model selector [AI-assisted]",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T17:32:16Z",
+      "mergedAt": null,
+      "additions": 173,
+      "deletions": 11,
+      "changedFiles": 8
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 49903,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T17:52:39Z"
+    },
+    {
+      "prNumber": 49903,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T16:14:28Z"
+    },
+    {
+      "prNumber": 49903,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T16:14:28Z"
+    },
+    {
+      "prNumber": 49196,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:08:20Z"
+    },
+    {
+      "prNumber": 49196,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:08:19Z"
+    },
+    {
+      "prNumber": 49196,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:08:18Z"
+    },
+    {
+      "prNumber": 49196,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:08:05Z"
+    },
+    {
+      "prNumber": 49197,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:05:50Z"
+    },
+    {
+      "prNumber": 49197,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:05:43Z"
+    },
+    {
+      "prNumber": 49197,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:05:36Z"
+    },
+    {
+      "prNumber": 49197,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:05:29Z"
+    },
+    {
+      "prNumber": 49197,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:05:19Z"
+    },
+    {
+      "prNumber": 49197,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T20:05:12Z"
+    },
+    {
+      "prNumber": 49196,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T19:20:04Z"
+    },
+    {
+      "prNumber": 49196,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T19:19:54Z"
+    },
+    {
+      "prNumber": 48445,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T20:26:32Z"
+    },
+    {
+      "prNumber": 48445,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T20:26:30Z"
+    },
+    {
+      "prNumber": 48445,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T20:26:29Z"
+    },
+    {
+      "prNumber": 48445,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T20:26:28Z"
+    },
+    {
+      "prNumber": 47626,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T20:02:05Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-17": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 12
+    },
+    "2026-03-16": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-15": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 12
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-16": 1
+  }
+}

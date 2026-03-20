@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/262003297?u=06df64e21a77cb4a4f67f8134930476ac44c940e&v=4",
   "githubUrl": "https://github.com/thepagent",
   "score": {
-    "score": 102.92,
-    "prScore": 78.92,
+    "score": 208.18,
+    "prScore": 184.18,
     "issueScore": 13,
     "reviewScore": 9,
     "commentScore": 2
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 2,
     "prsMerged": 1,
-    "prAdditions": 163,
-    "prDeletions": 8,
-    "prChangedFiles": 20,
+    "prAdditions": 67499,
+    "prDeletions": 1596,
+    "prChangedFiles": 307,
     "prMergeRate": 50,
     "issues": 2,
     "issuesClosed": 1,
@@ -55,13 +55,13 @@
     {
       "number": 46119,
       "title": "fix: forward forceDocument through sendPayload path (follow-up to #45111)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T12:51:00Z",
       "mergedAt": null,
-      "additions": 34,
-      "deletions": 0,
-      "changedFiles": 4
+      "additions": 67370,
+      "deletions": 1588,
+      "changedFiles": 291
     },
     {
       "number": 45111,
@@ -124,9 +124,20 @@
     "Pull Requests",
     "Code Review",
     "Issue Reporting",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    },
     {
       "id": "well-rounded",
       "label": "Well Rounded",

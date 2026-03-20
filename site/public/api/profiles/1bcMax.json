@@ -1,0 +1,104 @@
+{
+  "username": "1bcMax",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/195689928?u=85f5178dd043e3d408b42cb5685e65806d723b1a&v=4",
+  "githubUrl": "https://github.com/1bcMax",
+  "score": {
+    "score": 35.79,
+    "prScore": 32.79,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 243,
+    "prDeletions": 30,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-16T06:53:33Z",
+  "lastContribution": "2026-03-18T15:11:55Z",
+  "recentPRs": [
+    {
+      "number": 49554,
+      "title": "fix(zalo): resolve inbound images from photo_url field with fallback to photo",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T07:09:44Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 24,
+      "changedFiles": 3
+    },
+    {
+      "number": 49552,
+      "title": "fix: classify Z.ai error codes 1311 (billing) and 1113 (auth)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T07:04:10Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 49550,
+      "title": "fix: handle MiniMax HTTP 520 and api_error body without 'internal server error'",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T07:01:48Z",
+      "mergedAt": null,
+      "additions": 112,
+      "deletions": 6,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

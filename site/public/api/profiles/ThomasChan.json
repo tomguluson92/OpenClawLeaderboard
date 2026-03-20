@@ -1,0 +1,91 @@
+{
+  "username": "ThomasChan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5715335?u=8ae9e01c78b0f82c9da0e53cbf758b1dc2353fb4&v=4",
+  "githubUrl": "https://github.com/ThomasChan",
+  "score": {
+    "score": 16.78,
+    "prScore": 11.28,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 106,
+    "prDeletions": 9,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-19T02:16:27Z",
+  "lastContribution": "2026-03-19T03:50:07Z",
+  "recentPRs": [
+    {
+      "number": 50143,
+      "title": "Fix Mattermost stale-zombie sockets by tracking lastEventAt + health policy fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T02:30:23Z",
+      "mergedAt": null,
+      "additions": 106,
+      "deletions": 9,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 50138,
+      "title": "Mattermost channel health monitor fails to detect and recover from silent WebSocket disconnection",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T02:16:27Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

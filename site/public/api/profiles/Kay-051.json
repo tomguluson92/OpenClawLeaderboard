@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/210470990?v=4",
   "githubUrl": "https://github.com/Kay-051",
   "score": {
-    "score": 115.74,
-    "prScore": 115.74,
+    "score": 36.56,
+    "prScore": 36.56,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 8,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 534,
-    "prDeletions": 24,
-    "prChangedFiles": 16,
+    "prAdditions": 108,
+    "prDeletions": 2,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -49,7 +49,7 @@
       "commits": 3
     }
   },
-  "firstContribution": "2026-03-06T02:46:17Z",
+  "firstContribution": "2026-03-06T05:53:17Z",
   "lastContribution": "2026-03-06T05:53:17Z",
   "recentPRs": [
     {
@@ -62,90 +62,13 @@
       "additions": 108,
       "deletions": 2,
       "changedFiles": 2
-    },
-    {
-      "number": 37112,
-      "title": "fix(discord): use trimmed file path consistently in ensureOggOpus",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T03:38:39Z",
-      "mergedAt": null,
-      "additions": 34,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 37099,
-      "title": "fix(telegram): prevent substring false-positive in hasBotMention text check",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T03:25:10Z",
-      "mergedAt": null,
-      "additions": 71,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 37084,
-      "title": "fix(discord): wrap reaction REST calls with retry runner for consistency",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T03:11:34Z",
-      "mergedAt": null,
-      "additions": 144,
-      "deletions": 11,
-      "changedFiles": 2
-    },
-    {
-      "number": 37062,
-      "title": "fix(auto-reply): normalize followup queue keys with trim() for consistency",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T03:02:33Z",
-      "mergedAt": null,
-      "additions": 52,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 37059,
-      "title": "fix(cli): prevent Infinity% cached in status output when totalTokens is 0",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T02:57:56Z",
-      "mergedAt": null,
-      "additions": 65,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 37050,
-      "title": "fix(telegram): add HTML parse fallback for media captions",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T02:52:45Z",
-      "mergedAt": null,
-      "additions": 50,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 37045,
-      "title": "fix(whatsapp): reject empty/non-numeric input in toWhatsappJid",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T02:46:17Z",
-      "mergedAt": null,
-      "additions": 10,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-06": {
-      "prs": 8,
+      "prs": 1,
       "issues": 0,
       "reviews": 0
     }

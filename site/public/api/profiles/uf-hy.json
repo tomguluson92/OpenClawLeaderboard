@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/41638541?u=4163ee1dbbe6656e575e64bec74b313433a6e630&v=4",
   "githubUrl": "https://github.com/uf-hy",
   "score": {
-    "score": 66.93,
+    "score": 76.93,
     "prScore": 58.93,
-    "issueScore": 8,
+    "issueScore": 18,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 219,
     "prChangedFiles": 11,
     "prMergeRate": 100,
-    "issues": 1,
+    "issues": 3,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,8 +31,8 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 2,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 610,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 3,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 610,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-11T01:28:31Z",
-  "lastContribution": "2026-03-11T01:29:25Z",
+  "lastContribution": "2026-03-15T19:33:34Z",
   "recentPRs": [
     {
       "number": 42629,
@@ -66,6 +66,20 @@
   ],
   "recentIssues": [
     {
+      "number": 47597,
+      "title": "[Feature Request] Add streamTo=\"parent\" support for runtime=\"subagent\"",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T19:33:34Z",
+      "closedAt": null
+    },
+    {
+      "number": 47596,
+      "title": "[Feature Request] Add tool call visibility to streamTo=\"parent\" for ACP runtime",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T19:33:28Z",
+      "closedAt": null
+    },
+    {
       "number": 42628,
       "title": "Bug: context-engine auto-compaction does not persist session compactionCount",
       "state": "CLOSED",
@@ -78,6 +92,11 @@
     "2026-03-11": {
       "prs": 1,
       "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 2,
       "reviews": 0
     }
   },

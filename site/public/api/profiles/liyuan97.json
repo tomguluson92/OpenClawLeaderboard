@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/33855278?u=19d4469b7686b052132f3c492b600e344f6e239c&v=4",
   "githubUrl": "https://github.com/liyuan97",
   "score": {
-    "score": 164.78,
-    "prScore": 164.28,
+    "score": 175.35,
+    "prScore": 174.85,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,45 +13,56 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
-    "prsMerged": 1,
-    "prAdditions": 9580,
-    "prDeletions": 1245,
-    "prChangedFiles": 50,
-    "prMergeRate": 33,
+    "prs": 4,
+    "prsMerged": 2,
+    "prAdditions": 9728,
+    "prDeletions": 1320,
+    "prChangedFiles": 79,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 1,
-    "commitAdditions": 266,
-    "commitDeletions": 427,
-    "commitChangedFiles": 16
+    "commitAdditions": 414,
+    "commitDeletions": 502,
+    "commitChangedFiles": 45
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 266,
-      "commitDeletions": 427,
+      "comments": 0,
+      "commitAdditions": 148,
+      "commitDeletions": 75,
       "commits": 1
     },
     "monthly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
-      "commitAdditions": 266,
-      "commitDeletions": 427,
-      "commits": 1
+      "commitAdditions": 414,
+      "commitDeletions": 502,
+      "commits": 2
     }
   },
   "firstContribution": "2026-03-12T17:05:16Z",
-  "lastContribution": "2026-03-12T18:28:37Z",
+  "lastContribution": "2026-03-18T09:19:09Z",
   "recentPRs": [
+    {
+      "number": 49691,
+      "title": "MiniMax: add M2.7 models and update default to M2.7",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T09:19:09Z",
+      "mergedAt": "2026-03-18T16:24:38Z",
+      "additions": 148,
+      "deletions": 75,
+      "changedFiles": 29
+    },
     {
       "number": 44284,
       "title": "onboard(minimax): flatten auth to 4 direct choices, unify CN/Global under single provider",
@@ -89,6 +100,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 3,
       "issues": 0,
@@ -102,6 +118,7 @@
   ],
   "achievements": [],
   "recentCommitDays": {
+    "2026-03-18": 1,
     "2026-03-12": 1
   }
 }

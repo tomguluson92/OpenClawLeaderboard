@@ -1,30 +1,30 @@
 {
   "username": "opriz",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/51957849?u=cf83dbe2b6d4f97b60dd5956e40e59c2826b0a61&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51957849?u=ac7ca95001b1bd55ee06a46963fc120d874af12c&v=4",
   "githubUrl": "https://github.com/opriz",
   "score": {
-    "score": 43.5,
-    "prScore": 40,
+    "score": 67.51,
+    "prScore": 63.01,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3.5
+    "commentScore": 4.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 1,
-    "prAdditions": 65,
-    "prDeletions": 78,
-    "prChangedFiles": 8,
-    "prMergeRate": 50,
+    "prAdditions": 181,
+    "prDeletions": 92,
+    "prChangedFiles": 16,
+    "prMergeRate": 33,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
+    "comments": 9,
     "commitAdditions": 17,
     "commitDeletions": 78,
     "commitChangedFiles": 6
@@ -34,24 +34,35 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 17,
-      "commitDeletions": 78,
-      "commits": 1
+      "comments": 4,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
+      "comments": 9,
       "commitAdditions": 17,
       "commitDeletions": 78,
       "commits": 1
     }
   },
   "firstContribution": "2026-03-08T15:34:37Z",
-  "lastContribution": "2026-03-14T00:55:23Z",
+  "lastContribution": "2026-03-15T14:05:49Z",
   "recentPRs": [
+    {
+      "number": 47272,
+      "title": "fix: add TTL garbage collection to ChatRunRegistry to prevent OOM (#47050)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T12:01:29Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 14,
+      "changedFiles": 8
+    },
     {
       "number": 44998,
       "title": "fix(cron): resolve isolated session deadlock (#44805)",
@@ -78,6 +89,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,

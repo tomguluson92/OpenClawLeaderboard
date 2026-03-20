@@ -3,54 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1436853?v=4",
   "githubUrl": "https://github.com/vignesh07",
   "score": {
-    "score": 2375.3,
-    "prScore": 2361.3,
+    "score": 2362.26,
+    "prScore": 2359.26,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 14
+    "commentScore": 3
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
-    "commits": 436,
-    "prs": 3,
+    "commits": 437,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1350,
-    "prDeletions": 65,
-    "prChangedFiles": 25,
+    "prAdditions": 938,
+    "prDeletions": 64,
+    "prChangedFiles": 17,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 28,
-    "commitAdditions": 35832,
-    "commitDeletions": 6514,
-    "commitChangedFiles": 1234
+    "comments": 6,
+    "commitAdditions": 36036,
+    "commitDeletions": 6621,
+    "commitChangedFiles": 1237
   },
   "period": {
     "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 4,
+      "commitAdditions": 204,
+      "commitDeletions": 107,
+      "commits": 1
+    },
+    "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 28,
-      "commitAdditions": 18936,
-      "commitDeletions": 2236,
-      "commits": 302
+      "comments": 6,
+      "commitAdditions": 11310,
+      "commitDeletions": 1100,
+      "commits": 118
     }
   },
-  "firstContribution": "2026-03-06T00:10:18Z",
-  "lastContribution": "2026-03-14T18:25:31Z",
+  "firstContribution": "2026-03-08T21:01:39Z",
+  "lastContribution": "2026-03-18T08:58:12Z",
   "recentPRs": [
     {
       "number": 45676,
@@ -73,17 +73,6 @@
       "additions": 75,
       "deletions": 35,
       "changedFiles": 3
-    },
-    {
-      "number": 36920,
-      "title": "fix(browser): close tracked tabs on session cleanup (#36666)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T00:37:39Z",
-      "mergedAt": null,
-      "additions": 412,
-      "deletions": 1,
-      "changedFiles": 8
     }
   ],
   "recentIssues": [],
@@ -95,11 +84,6 @@
       "reviews": 0
     },
     "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -115,14 +99,10 @@
       "id": "centurion",
       "label": "Centurion",
       "description": "100+ commits"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
     }
   ],
   "recentCommitDays": {
+    "2026-03-18": 1,
     "2026-03-06": 32,
     "2026-02-28": 9,
     "2026-02-23": 8,
@@ -150,7 +130,6 @@
     "2026-01-24": 5,
     "2026-01-22": 5,
     "2026-01-21": 8,
-    "2026-01-19": 3,
-    "2026-01-18": 10
+    "2026-01-19": 3
   }
 }

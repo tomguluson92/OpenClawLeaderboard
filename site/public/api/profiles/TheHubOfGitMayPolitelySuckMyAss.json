@@ -3,23 +3,23 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/255424812?v=4",
   "githubUrl": "https://github.com/TheHubOfGitMayPolitelySuckMyAss",
   "score": {
-    "score": 50.12,
-    "prScore": 40.12,
-    "issueScore": 10,
+    "score": 60.41,
+    "prScore": 60.41,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 807,
-    "prDeletions": 3,
-    "prChangedFiles": 13,
+    "prAdditions": 993,
+    "prDeletions": 13,
+    "prChangedFiles": 19,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,8 +40,8 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 2,
+      "prs": 3,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -49,9 +49,20 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-07T16:23:23Z",
-  "lastContribution": "2026-03-08T01:07:26Z",
+  "firstContribution": "2026-03-08T01:07:13Z",
+  "lastContribution": "2026-03-15T18:19:20Z",
   "recentPRs": [
+    {
+      "number": 47562,
+      "title": "feat(telegram): bi-directional custom emoji reactions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T18:19:20Z",
+      "mergedAt": null,
+      "additions": 176,
+      "deletions": 10,
+      "changedFiles": 5
+    },
     {
       "number": 39323,
       "title": "feat(pairing): add owner notification on new pairing requests",
@@ -59,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-08T01:07:26Z",
       "mergedAt": null,
-      "additions": 600,
+      "additions": 610,
       "deletions": 1,
-      "changedFiles": 7
+      "changedFiles": 8
     },
     {
       "number": 39322,
@@ -75,38 +86,22 @@
       "changedFiles": 6
     }
   ],
-  "recentIssues": [
-    {
-      "number": 39031,
-      "title": "Feature: Forward iMessage tapback reactions to agent",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T17:14:56Z",
-      "closedAt": null
-    },
-    {
-      "number": 38998,
-      "title": "Feature: pairing:request hook event for proactive notifications",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T16:23:23Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

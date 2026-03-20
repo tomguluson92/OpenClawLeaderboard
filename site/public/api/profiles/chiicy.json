@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12967501?v=4",
   "githubUrl": "https://github.com/chiicy",
   "score": {
-    "score": 10.61,
+    "score": 15.61,
     "prScore": 10.61,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,7 +19,7 @@
     "prDeletions": 2,
     "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -32,7 +32,7 @@
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-14T19:44:56Z",
-  "lastContribution": "2026-03-14T19:44:56Z",
+  "lastContribution": "2026-03-19T18:21:59Z",
   "recentPRs": [
     {
       "number": 46537,
@@ -64,17 +64,31 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 50580,
+      "title": "[Bug]: trusted-proxy gateway auth works for Control UI but cron/tool calls fail with 1008 unauthorized",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T18:21:59Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Issue Reporting"
   ],
   "achievements": [],
   "recentCommitDays": {}

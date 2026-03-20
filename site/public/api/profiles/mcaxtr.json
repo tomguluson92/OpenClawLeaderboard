@@ -3,54 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7562095?v=4",
   "githubUrl": "https://github.com/mcaxtr",
   "score": {
-    "score": 490.94,
-    "prScore": 428.94,
-    "issueScore": 18,
-    "reviewScore": 33,
-    "commentScore": 11
+    "score": 452.53,
+    "prScore": 420.03,
+    "issueScore": 0,
+    "reviewScore": 21,
+    "commentScore": 11.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 52,
-    "prs": 4,
+    "prs": 3,
     "prsMerged": 1,
-    "prAdditions": 1658,
-    "prDeletions": 243,
-    "prChangedFiles": 23,
-    "prMergeRate": 25,
-    "issues": 3,
-    "issuesClosed": 1,
-    "reviews": 11,
+    "prAdditions": 649,
+    "prDeletions": 73,
+    "prChangedFiles": 11,
+    "prMergeRate": 33,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 22,
+    "comments": 23,
     "commitAdditions": 7178,
     "commitDeletions": 777,
     "commitChangedFiles": 202
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 3,
-      "comments": 17,
-      "commitAdditions": 5,
+      "reviews": 0,
+      "comments": 19,
+      "commitAdditions": 0,
       "commitDeletions": 0,
-      "commits": 1
+      "commits": 0
     },
     "monthly": {
-      "prs": 4,
-      "issues": 3,
-      "reviews": 11,
-      "comments": 22,
-      "commitAdditions": 4071,
-      "commitDeletions": 310,
-      "commits": 32
+      "prs": 3,
+      "issues": 0,
+      "reviews": 7,
+      "comments": 23,
+      "commitAdditions": 1845,
+      "commitDeletions": 54,
+      "commits": 16
     }
   },
-  "firstContribution": "2026-03-05T04:17:31Z",
-  "lastContribution": "2026-03-13T20:18:01Z",
+  "firstContribution": "2026-03-08T03:47:02Z",
+  "lastContribution": "2026-03-19T03:02:19Z",
   "recentPRs": [
     {
       "number": 44307,
@@ -84,42 +84,9 @@
       "additions": 408,
       "deletions": 21,
       "changedFiles": 7
-    },
-    {
-      "number": 35451,
-      "title": "refactor: canonicalize chat.send/cron route derivation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T04:42:06Z",
-      "mergedAt": null,
-      "additions": 1009,
-      "deletions": 170,
-      "changedFiles": 12
     }
   ],
-  "recentIssues": [
-    {
-      "number": 35419,
-      "title": "[Bug]: Stop button clears unsent web chat draft input",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T04:18:57Z",
-      "closedAt": null
-    },
-    {
-      "number": 35418,
-      "title": "[Bug]: Node pairing requests from WebSocket path are not consistently actionable",
-      "state": "OPEN",
-      "createdAt": "2026-03-05T04:18:21Z",
-      "closedAt": null
-    },
-    {
-      "number": 35416,
-      "title": "[Bug]: guard missing model.input in model list/scan paths",
-      "state": "CLOSED",
-      "createdAt": "2026-03-05T04:17:31Z",
-      "closedAt": "2026-03-08T02:20:26Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 39483,
@@ -155,26 +122,6 @@
       "prNumber": 39430,
       "state": "COMMENTED",
       "createdAt": "2026-03-08T03:56:08Z"
-    },
-    {
-      "prNumber": 35451,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T05:39:11Z"
-    },
-    {
-      "prNumber": 35451,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T05:39:05Z"
-    },
-    {
-      "prNumber": 35451,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T05:22:14Z"
-    },
-    {
-      "prNumber": 35451,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T05:21:48Z"
     }
   ],
   "recentActivityDays": {
@@ -187,35 +134,19 @@
       "prs": 2,
       "issues": 0,
       "reviews": 7
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 3,
-      "reviews": 4
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion",
     "Direct Commits"
   ],
   "achievements": [
     {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    },
-    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
   ],
   "recentCommitDays": {

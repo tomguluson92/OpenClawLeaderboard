@@ -1,10 +1,10 @@
 {
   "username": "haoyu-haoyu",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/85037553?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85037553?u=212886bcb67a4690326751f5ba3ac19b2fa5d594&v=4",
   "githubUrl": "https://github.com/haoyu-haoyu",
   "score": {
-    "score": 21.31,
-    "prScore": 20.81,
+    "score": 40.62,
+    "prScore": 40.12,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 46,
-    "prDeletions": 47,
-    "prChangedFiles": 5,
+    "prAdditions": 103,
+    "prDeletions": 52,
+    "prChangedFiles": 8,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -50,8 +50,30 @@
     }
   },
   "firstContribution": "2026-03-14T01:45:13Z",
-  "lastContribution": "2026-03-14T02:05:10Z",
+  "lastContribution": "2026-03-17T14:57:08Z",
   "recentPRs": [
+    {
+      "number": 49083,
+      "title": "fix(security): use constant-time comparison for TLS fingerprint verification",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T14:57:08Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 48185,
+      "title": "fix(model): skip GLM-5 forward-compat when model is already registered",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T12:08:13Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 3,
+      "changedFiles": 2
+    },
     {
       "number": 45613,
       "title": "feat(anthropic): migrate 1M context from beta to GA",
@@ -70,7 +92,7 @@
       "merged": false,
       "createdAt": "2026-03-14T01:45:13Z",
       "mergedAt": null,
-      "additions": 20,
+      "additions": 22,
       "deletions": 3,
       "changedFiles": 3
     }
@@ -78,6 +100,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,

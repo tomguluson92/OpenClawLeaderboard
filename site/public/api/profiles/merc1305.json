@@ -3,65 +3,76 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2715765?v=4",
   "githubUrl": "https://github.com/merc1305",
   "score": {
-    "score": 62.51,
-    "prScore": 51.51,
-    "issueScore": 10,
-    "reviewScore": 0,
-    "commentScore": 1
+    "score": 115.18,
+    "prScore": 91.18,
+    "issueScore": 18,
+    "reviewScore": 3,
+    "commentScore": 3
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
-    "prsMerged": 0,
-    "prAdditions": 387,
+    "prs": 4,
+    "prsMerged": 1,
+    "prAdditions": 825,
     "prDeletions": 8,
-    "prChangedFiles": 17,
-    "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 0,
-    "reviews": 0,
+    "prChangedFiles": 26,
+    "prMergeRate": 25,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 6,
+    "commitAdditions": 167,
+    "commitDeletions": 8,
+    "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
       "prs": 3,
       "issues": 2,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 6,
+      "commitAdditions": 167,
+      "commitDeletions": 8,
+      "commits": 1
     },
     "monthly": {
-      "prs": 3,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 4,
+      "issues": 3,
+      "reviews": 1,
+      "comments": 6,
+      "commitAdditions": 167,
+      "commitDeletions": 8,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-10T14:27:57Z",
-  "lastContribution": "2026-03-14T09:51:58Z",
+  "lastContribution": "2026-03-15T16:46:53Z",
   "recentPRs": [
+    {
+      "number": 47106,
+      "title": "feat(openai): forward text verbosity",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T08:51:52Z",
+      "mergedAt": null,
+      "additions": 447,
+      "deletions": 0,
+      "changedFiles": 8
+    },
     {
       "number": 45953,
       "title": "fix(slack): harden bolt import interop",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-14T09:51:58Z",
-      "mergedAt": null,
-      "additions": 176,
+      "mergedAt": "2026-03-16T12:49:25Z",
+      "additions": 167,
       "deletions": 8,
-      "changedFiles": 2
+      "changedFiles": 3
     },
     {
       "number": 45454,
@@ -88,11 +99,18 @@
   ],
   "recentIssues": [
     {
+      "number": 47105,
+      "title": "Forward OpenAI Responses text.verbosity from model params",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T08:51:33Z",
+      "closedAt": null
+    },
+    {
       "number": 45950,
       "title": "Slack startup can still crash with `App is not a constructor` after #1208",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-14T09:50:20Z",
-      "closedAt": null
+      "closedAt": "2026-03-16T12:49:26Z"
     },
     {
       "number": 42226,
@@ -102,8 +120,19 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 47106,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T13:26:14Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 1,
@@ -122,9 +151,18 @@
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-16": 1
+  }
 }

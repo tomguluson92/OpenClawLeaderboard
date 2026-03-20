@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/265644459?u=fc5061c29455220b7dd7bf27c75d332f9382551f&v=4",
   "githubUrl": "https://github.com/mickey-hogen",
   "score": {
-    "score": 87.4,
-    "prScore": 87.4,
+    "score": 29.37,
+    "prScore": 29.37,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 498,
-    "prDeletions": 103,
-    "prChangedFiles": 20,
+    "prAdditions": 173,
+    "prDeletions": 91,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T21:29:45Z",
+  "firstContribution": "2026-03-07T21:07:47Z",
   "lastContribution": "2026-03-10T12:37:45Z",
   "recentPRs": [
     {
@@ -84,50 +84,6 @@
       "additions": 140,
       "deletions": 17,
       "changedFiles": 1
-    },
-    {
-      "number": 35009,
-      "title": "cron: add postToMainMode=\"off\" to suppress main-session summaries",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T21:38:13Z",
-      "mergedAt": null,
-      "additions": 47,
-      "deletions": 1,
-      "changedFiles": 6
-    },
-    {
-      "number": 35007,
-      "title": "config: fall back to .bak when primary config fails validation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T21:37:43Z",
-      "mergedAt": null,
-      "additions": 127,
-      "deletions": 5,
-      "changedFiles": 2
-    },
-    {
-      "number": 35004,
-      "title": "cron: add postToMainMode=\"off\" to suppress main-session summaries",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T21:31:56Z",
-      "mergedAt": null,
-      "additions": 42,
-      "deletions": 1,
-      "changedFiles": 5
-    },
-    {
-      "number": 35003,
-      "title": "config: fall back to .bak when primary config fails validation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T21:29:45Z",
-      "mergedAt": null,
-      "additions": 109,
-      "deletions": 5,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -145,11 +101,6 @@
     },
     "2026-03-07": {
       "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 4,
       "issues": 0,
       "reviews": 0
     }

@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/262266039?v=4",
   "githubUrl": "https://github.com/ql-wade",
   "score": {
-    "score": 412.76,
-    "prScore": 407.76,
+    "score": 420.83,
+    "prScore": 414.83,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 6
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 34,
+    "prs": 35,
     "prsMerged": 2,
-    "prAdditions": 46610,
-    "prDeletions": 8145,
-    "prChangedFiles": 850,
+    "prAdditions": 46838,
+    "prDeletions": 8173,
+    "prChangedFiles": 852,
     "prMergeRate": 6,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
+    "comments": 12,
     "commitAdditions": 347,
     "commitDeletions": 25,
     "commitChangedFiles": 9
   },
   "period": {
     "weekly": {
-      "prs": 21,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 8,
+      "comments": 3,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 34,
+      "prs": 35,
       "issues": 0,
       "reviews": 0,
-      "comments": 10,
+      "comments": 12,
       "commitAdditions": 347,
       "commitDeletions": 25,
       "commits": 2
     }
   },
   "firstContribution": "2026-03-06T16:56:46Z",
-  "lastContribution": "2026-03-15T04:04:07Z",
+  "lastContribution": "2026-03-17T23:34:57Z",
   "recentPRs": [
+    {
+      "number": 48960,
+      "title": "fix(skills): add detailed loading diagnostics for silent failures",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T11:32:01Z",
+      "mergedAt": null,
+      "additions": 228,
+      "deletions": 28,
+      "changedFiles": 2
+    },
     {
       "number": 45257,
       "title": "fix(ui): disable auto-open sidebar for long tool output",
@@ -260,22 +271,16 @@
       "additions": 41,
       "deletions": 10,
       "changedFiles": 6
-    },
-    {
-      "number": 39773,
-      "title": "fix(session): correct totalTokensFresh flag for fallback path",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T11:35:32Z",
-      "mergedAt": null,
-      "additions": 3,
-      "deletions": 2,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/257345905?u=9e44137cb8e18fe1d3debbb443a60e11d96376ca&v=4",
   "githubUrl": "https://github.com/issacthekaylon",
   "score": {
-    "score": 39.19,
+    "score": 21.69,
     "prScore": 21.69,
-    "issueScore": 16,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,19 +19,19 @@
     "prDeletions": 0,
     "prChangedFiles": 5,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 2,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -41,15 +41,15 @@
     },
     "monthly": {
       "prs": 2,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 3,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T14:56:28Z",
+  "firstContribution": "2026-03-11T12:36:30Z",
   "lastContribution": "2026-03-11T13:42:17Z",
   "recentPRs": [
     {
@@ -75,39 +75,17 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 34722,
-      "title": "bug: Ollama native API stream reader checks message.reasoning but field is message.thinking",
-      "state": "CLOSED",
-      "createdAt": "2026-03-04T16:51:37Z",
-      "closedAt": "2026-03-08T00:53:03Z"
-    },
-    {
-      "number": 34567,
-      "title": "Feature request: per-provider timeoutMs for graceful failure on slow models",
-      "state": "CLOSED",
-      "createdAt": "2026-03-04T14:56:28Z",
-      "closedAt": "2026-03-04T20:12:28Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Pull Requests"
   ],
   "achievements": [],
   "recentCommitDays": {}

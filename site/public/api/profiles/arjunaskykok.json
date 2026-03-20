@@ -3,34 +3,43 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/32124593?u=7fdcaafc99cd7c68bafa5f20cb24654f69300b28&v=4",
   "githubUrl": "https://github.com/arjunaskykok",
   "score": {
-    "score": 83.18,
-    "prScore": 49.18,
-    "issueScore": 18,
-    "reviewScore": 12,
-    "commentScore": 4
+    "score": 51.93,
+    "prScore": 35.93,
+    "issueScore": 8,
+    "reviewScore": 6,
+    "commentScore": 2
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 354,
+    "prAdditions": 247,
     "prDeletions": 4,
-    "prChangedFiles": 12,
+    "prChangedFiles": 9,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 1,
     "issuesClosed": 1,
-    "reviews": 4,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
+    "comments": 4,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 3,
       "issues": 1,
       "reviews": 2,
@@ -38,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 4,
-      "issues": 3,
-      "reviews": 4,
-      "comments": 8,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T04:43:50Z",
+  "firstContribution": "2026-03-09T09:20:25Z",
   "lastContribution": "2026-03-11T08:19:25Z",
   "recentPRs": [
     {
@@ -84,17 +84,6 @@
       "additions": 222,
       "deletions": 0,
       "changedFiles": 4
-    },
-    {
-      "number": 37171,
-      "title": "Telegram: prevent self-message reply loops",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T04:18:05Z",
-      "mergedAt": null,
-      "additions": 107,
-      "deletions": 0,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [
@@ -104,20 +93,6 @@
       "state": "CLOSED",
       "createdAt": "2026-03-11T07:29:39Z",
       "closedAt": "2026-03-11T08:19:25Z"
-    },
-    {
-      "number": 37672,
-      "title": "[Feature]: Add Next Run Time to Editing Cron Tasks Output in Human-Readable Date Time Format",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T11:03:32Z",
-      "closedAt": null
-    },
-    {
-      "number": 33940,
-      "title": "[Bug]: Executing a Daily Cron Task Manually Changes the Timing of the Execution of the Cron Task",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T04:43:50Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [
@@ -130,16 +105,6 @@
       "prNumber": 40810,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T10:48:37Z"
-    },
-    {
-      "prNumber": 37171,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T04:51:51Z"
-    },
-    {
-      "prNumber": 37171,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T04:47:04Z"
     }
   ],
   "recentActivityDays": {
@@ -152,16 +117,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 2
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 2
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [

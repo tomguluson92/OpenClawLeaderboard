@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17561857?v=4",
   "githubUrl": "https://github.com/gejifeng",
   "score": {
-    "score": 182.15,
+    "score": 187.15,
     "prScore": 167.15,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 15,
     "commentScore": 0
   },
@@ -19,7 +19,7 @@
     "prDeletions": 60,
     "prChangedFiles": 35,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
@@ -31,9 +31,9 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 5,
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -41,16 +41,16 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 5,
       "comments": 0,
-      "commitAdditions": 606,
-      "commitDeletions": 25,
-      "commits": 8
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     }
   },
   "firstContribution": "2026-03-10T04:28:09Z",
-  "lastContribution": "2026-03-10T12:30:25Z",
+  "lastContribution": "2026-03-15T17:12:20Z",
   "recentPRs": [
     {
       "number": 41737,
@@ -64,7 +64,15 @@
       "changedFiles": 35
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 47512,
+      "title": "[Bug]: `nodes run` with arguments always denied on Linux node host: `SYSTEM_RUN_DENIED: approval requires a stable executable path`",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T17:12:20Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
     {
       "prNumber": 41737,
@@ -97,14 +105,26 @@
       "prs": 1,
       "issues": 0,
       "reviews": 5
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Direct Commits"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {
     "2026-02-13": 8
   }

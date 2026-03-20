@@ -1,0 +1,227 @@
+{
+  "username": "semiok",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1728693?u=97c158cc2c3e22ae7176b472f37d17404423116b&v=4",
+  "githubUrl": "https://github.com/semiok",
+  "score": {
+    "score": 111.49,
+    "prScore": 47.99,
+    "issueScore": 49,
+    "reviewScore": 12,
+    "commentScore": 2.5
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 99,
+    "prDeletions": 23,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 8,
+    "issuesClosed": 3,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 8,
+      "reviews": 4,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 8,
+      "reviews": 4,
+      "comments": 5,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-16T02:59:24Z",
+  "lastContribution": "2026-03-19T10:11:15Z",
+  "recentPRs": [
+    {
+      "number": 50358,
+      "title": "fix: apply default timeout to subagent runs (#25992)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T10:01:37Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 50349,
+      "title": "fix: refresh skillsSnapshot when snapshotVersion changes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T09:19:58Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 50226,
+      "title": "fix: surface skill parse diagnostics instead of silently dropping them",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T05:08:13Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 9,
+      "changedFiles": 1
+    },
+    {
+      "number": 49593,
+      "title": "feat: accept optional tools.allow/deny in route bindings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T07:52:08Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 49586,
+      "title": "fix: regenerate models.json on config hot reload",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T07:44:10Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 50230,
+      "title": "[Bug]: Telegram polling silently dies on Node 22+ (IPv6 Happy Eyeballs) — gateway alive but unresponsive",
+      "state": "CLOSED",
+      "createdAt": "2026-03-19T05:11:10Z",
+      "closedAt": "2026-03-19T05:13:31Z"
+    },
+    {
+      "number": 49568,
+      "title": "[Bug] Adding new model to openclaw.json requires full gateway restart — hot reload only updates provider config, not models.json",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T07:27:25Z",
+      "closedAt": null
+    },
+    {
+      "number": 49567,
+      "title": "[Feature] Allow per-binding tool restrictions (tools.deny) in route/ACP bindings",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T07:26:39Z",
+      "closedAt": null
+    },
+    {
+      "number": 49565,
+      "title": "[Bug] lossless-claw: afterTurn path missing providerApi and baseUrl — AI summaries silently fall back to truncation",
+      "state": "CLOSED",
+      "createdAt": "2026-03-18T07:26:13Z",
+      "closedAt": "2026-03-19T09:12:20Z"
+    },
+    {
+      "number": 49564,
+      "title": "[Bug] lossless-claw: afterTurn never triggers compaction — tokenBudget is undefined",
+      "state": "CLOSED",
+      "createdAt": "2026-03-18T07:25:40Z",
+      "closedAt": "2026-03-18T18:54:04Z"
+    },
+    {
+      "number": 47913,
+      "title": "Thinking content leaks into text for MiniMax/Kimi — need per-model thinking control",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T05:09:14Z",
+      "closedAt": null
+    },
+    {
+      "number": 47857,
+      "title": "Gemini API: function_response.name empty causes 400 INVALID_ARGUMENT",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T03:47:55Z",
+      "closedAt": null
+    },
+    {
+      "number": 47832,
+      "title": "skillsSnapshot not refreshed on /new or gateway restart for existing sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T02:59:24Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 49586,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T09:54:53Z"
+    },
+    {
+      "prNumber": 49586,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T09:54:08Z"
+    },
+    {
+      "prNumber": 49593,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T09:53:46Z"
+    },
+    {
+      "prNumber": 49593,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T09:53:37Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 4
+    },
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 4,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {}
+}

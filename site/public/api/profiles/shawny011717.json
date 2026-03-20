@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/222604378?u=9419d426f80f1bb0649a56e292f4a170fcc70268&v=4",
   "githubUrl": "https://github.com/shawny011717",
   "score": {
-    "score": 212.1,
-    "prScore": 173.1,
-    "issueScore": 38,
+    "score": 200.23,
+    "prScore": 189.73,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "active",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 12,
+    "prs": 13,
     "prsMerged": 0,
-    "prAdditions": 1045,
-    "prDeletions": 132,
-    "prChangedFiles": 42,
+    "prAdditions": 1146,
+    "prDeletions": 133,
+    "prChangedFiles": 46,
     "prMergeRate": 0,
-    "issues": 7,
-    "issuesClosed": 1,
+    "issues": 2,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 13,
       "issues": 2,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 12,
-      "issues": 7,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
   "firstContribution": "2026-03-06T13:32:29Z",
-  "lastContribution": "2026-03-12T10:25:32Z",
+  "lastContribution": "2026-03-17T05:16:12Z",
   "recentPRs": [
+    {
+      "number": 48746,
+      "title": "fix: suppress heartbeat re-entry from exec-event wakes + add interval floor",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T05:16:12Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 1,
+      "changedFiles": 4
+    },
     {
       "number": 43934,
       "title": "fix(msteams): persist conversation reference during DM pairing",
@@ -110,7 +121,7 @@
     {
       "number": 38359,
       "title": "fix(auth): mirror onboarding credential writes to provisioned store",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T21:59:00Z",
       "mergedAt": null,
@@ -121,7 +132,7 @@
     {
       "number": 38358,
       "title": "fix(gateway): restart on provider transport reload changes",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T21:59:00Z",
       "mergedAt": null,
@@ -132,7 +143,7 @@
     {
       "number": 38320,
       "title": "fix(agents): repair structurally complete interrupted tool calls",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T20:25:47Z",
       "mergedAt": null,
@@ -143,7 +154,7 @@
     {
       "number": 38293,
       "title": "fix: sanitize API error messages to prevent leaking raw details to users",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T19:42:27Z",
       "mergedAt": null,
@@ -154,7 +165,7 @@
     {
       "number": 37866,
       "title": "feat: add human-readable cron state fields to cli output",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T13:47:13Z",
       "mergedAt": null,
@@ -165,7 +176,7 @@
     {
       "number": 37861,
       "title": "fix: preserve text after malformed think tags",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T13:43:37Z",
       "mergedAt": null,
@@ -176,7 +187,7 @@
     {
       "number": 37851,
       "title": "docs: sync sub-agent bootstrap file allowlist",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T13:32:29Z",
       "mergedAt": null,
@@ -199,45 +210,15 @@
       "state": "OPEN",
       "createdAt": "2026-03-08T06:10:24Z",
       "closedAt": null
-    },
-    {
-      "number": 38355,
-      "title": "Auth credential writers need first-class live/provisioned mirror semantics",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T21:52:11Z",
-      "closedAt": null
-    },
-    {
-      "number": 38354,
-      "title": "ACP per-agent runtime defaults are not first-class outside binding resolution",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T21:52:10Z",
-      "closedAt": null
-    },
-    {
-      "number": 38347,
-      "title": "RFC: turn capability contract for fallback planning (skip incompatible models before execution)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-06T21:39:21Z",
-      "closedAt": "2026-03-09T08:30:47Z"
-    },
-    {
-      "number": 38249,
-      "title": "Feature: `openclaw doctor --config-diff` for upgrade-safe config migration",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T18:14:42Z",
-      "closedAt": null
-    },
-    {
-      "number": 38248,
-      "title": "Feature: Per-hour spending ceiling to prevent runaway failover costs",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T18:14:04Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -255,7 +236,7 @@
     },
     "2026-03-06": {
       "prs": 7,
-      "issues": 5,
+      "issues": 0,
       "reviews": 0
     }
   },
@@ -269,11 +250,6 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
     }
   ],
   "recentCommitDays": {}

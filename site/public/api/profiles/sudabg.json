@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/143158885?v=4",
   "githubUrl": "https://github.com/sudabg",
   "score": {
-    "score": 49.4,
-    "prScore": 49.4,
+    "score": 66.72,
+    "prScore": 66.72,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 8,
     "prsMerged": 0,
-    "prAdditions": 43,
+    "prAdditions": 69,
     "prDeletions": 17,
-    "prChangedFiles": 6,
+    "prChangedFiles": 8,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 8,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 8,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,30 @@
     }
   },
   "firstContribution": "2026-03-14T07:46:16Z",
-  "lastContribution": "2026-03-14T15:34:22Z",
+  "lastContribution": "2026-03-16T12:42:56Z",
   "recentPRs": [
+    {
+      "number": 48201,
+      "title": "docs: add self-improvement infrastructure overview",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T12:42:56Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 48199,
+      "title": "docs: add self-improvement infrastructure overview",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T12:40:30Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 46292,
       "title": "fix(bluebubbles): preserve intra-word underscores in stripMarkdown",
@@ -122,6 +144,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 6,
       "issues": 0,

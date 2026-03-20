@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/886771?u=68eb1be1793a7cc953d3a49c9376234de49dcaea&v=4",
   "githubUrl": "https://github.com/karmafeast",
   "score": {
-    "score": 164.29,
+    "score": 145.79,
     "prScore": 145.79,
-    "issueScore": 18,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,12 +19,12 @@
     "prDeletions": 959,
     "prChangedFiles": 57,
     "prMergeRate": 0,
-    "issues": 3,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -41,15 +41,15 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T07:31:20Z",
+  "firstContribution": "2026-03-07T10:53:06Z",
   "lastContribution": "2026-03-07T10:53:06Z",
   "recentPRs": [
     {
@@ -64,51 +64,17 @@
       "changedFiles": 57
     }
   ],
-  "recentIssues": [
-    {
-      "number": 35240,
-      "title": "filed in error",
-      "state": "CLOSED",
-      "createdAt": "2026-03-05T02:24:41Z",
-      "closedAt": "2026-03-05T02:24:51Z"
-    },
-    {
-      "number": 32891,
-      "title": "Sub-agent completion coalescing: batch rapid completions into single parent turn",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T10:31:26Z",
-      "closedAt": null
-    },
-    {
-      "number": 32701,
-      "title": "feat: Agent self-elected turn continuation (CONTINUE_WORK signal)",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T07:31:20Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
-    "Discussion",
     "Large-Scale Changes"
   ],
   "achievements": [],

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10645929?u=7aa6eac245cae68ab74ff8236c368315162529f1&v=4",
   "githubUrl": "https://github.com/XhinLiang",
   "score": {
-    "score": 8.76,
-    "prScore": 8.26,
+    "score": 23.46,
+    "prScore": 22.96,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 66,
+    "prAdditions": 144,
     "prDeletions": 0,
-    "prChangedFiles": 1,
+    "prChangedFiles": 6,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,16 +31,16 @@
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 1,
@@ -50,23 +50,39 @@
     }
   },
   "firstContribution": "2026-03-07T03:04:53Z",
-  "lastContribution": "2026-03-09T10:28:09Z",
+  "lastContribution": "2026-03-15T22:16:01Z",
   "recentPRs": [
     {
-      "number": 38512,
+      "number": 47658,
       "title": "feat(skills): add `openclaw skills install <name>` CLI command",
       "state": "OPEN",
       "merged": false,
+      "createdAt": "2026-03-15T22:16:01Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 38512,
+      "title": "feat(skills): add `openclaw skills install <name>` CLI command",
+      "state": "CLOSED",
+      "merged": false,
       "createdAt": "2026-03-07T03:04:53Z",
       "mergedAt": null,
-      "additions": 66,
+      "additions": 72,
       "deletions": 0,
-      "changedFiles": 1
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-07": {
       "prs": 1,
       "issues": 0,

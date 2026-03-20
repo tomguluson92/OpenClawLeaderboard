@@ -3,22 +3,22 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/87079793?v=4",
   "githubUrl": "https://github.com/alexyyyander",
   "score": {
-    "score": 263.28,
-    "prScore": 263.28,
+    "score": 68.31,
+    "prScore": 68.31,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 21,
-    "prsMerged": 1,
-    "prAdditions": 1492,
-    "prDeletions": 224,
-    "prChangedFiles": 111,
-    "prMergeRate": 5,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 136,
+    "prDeletions": 21,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 21,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -49,7 +49,7 @@
       "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T10:38:15Z",
+  "firstContribution": "2026-03-06T05:13:21Z",
   "lastContribution": "2026-03-07T18:03:55Z",
   "recentPRs": [
     {
@@ -117,160 +117,6 @@
       "additions": 45,
       "deletions": 4,
       "changedFiles": 3
-    },
-    {
-      "number": 36819,
-      "title": "fix: allow negative group IDs in groupAllowFrom",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T22:48:11Z",
-      "mergedAt": null,
-      "additions": 73,
-      "deletions": 24,
-      "changedFiles": 13
-    },
-    {
-      "number": 36633,
-      "title": "fix: remove baseUrl preservation in mergeWithExistingProviderSecrets",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T19:43:37Z",
-      "mergedAt": null,
-      "additions": 71,
-      "deletions": 22,
-      "changedFiles": 12
-    },
-    {
-      "number": 36544,
-      "title": "fix: use SHA256 hash for schema cache key to prevent RangeError",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T18:07:32Z",
-      "mergedAt": null,
-      "additions": 70,
-      "deletions": 18,
-      "changedFiles": 10
-    },
-    {
-      "number": 36447,
-      "title": "fix: respect user-configured baseUrl for kimi-coding provider",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T16:38:02Z",
-      "mergedAt": null,
-      "additions": 70,
-      "deletions": 18,
-      "changedFiles": 10
-    },
-    {
-      "number": 36288,
-      "title": "Gateway: fix chat.inject to create transcript file if missing",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T14:48:31Z",
-      "mergedAt": null,
-      "additions": 56,
-      "deletions": 16,
-      "changedFiles": 8
-    },
-    {
-      "number": 36186,
-      "title": "fix(agents): add forward-compat for gemini-3.1-flash-lite models",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T13:25:32Z",
-      "mergedAt": null,
-      "additions": 55,
-      "deletions": 15,
-      "changedFiles": 7
-    },
-    {
-      "number": 35640,
-      "title": "WhatsApp: fix misleading error when target not in allowFrom policy",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-05T07:04:43Z",
-      "mergedAt": null,
-      "additions": 14,
-      "deletions": 11,
-      "changedFiles": 4
-    },
-    {
-      "number": 35374,
-      "title": "cron: fix backup created after modification instead of before",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T03:51:08Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 8,
-      "changedFiles": 2
-    },
-    {
-      "number": 35321,
-      "title": "Fix: TUI messages routed to Discord DM instead of TUI",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T03:19:49Z",
-      "mergedAt": "2026-03-05T05:57:35Z",
-      "additions": 173,
-      "deletions": 15,
-      "changedFiles": 3
-    },
-    {
-      "number": 35100,
-      "title": "plugins: fix native bindings resolution in Jiti loader",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T00:29:16Z",
-      "mergedAt": null,
-      "additions": 34,
-      "deletions": 12,
-      "changedFiles": 4
-    },
-    {
-      "number": 35001,
-      "title": "Security: fix prototype pollution in hasExplicitProviderAccountConfig (#34926)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-04T21:25:17Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 34828,
-      "title": "fix: TUI not displaying responses when model output lacks <final> tag",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T18:11:54Z",
-      "mergedAt": null,
-      "additions": 38,
-      "deletions": 11,
-      "changedFiles": 5
-    },
-    {
-      "number": 34780,
-      "title": "fix: remove Minimax from enforceFinalTag to fix TUI output",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T17:42:26Z",
-      "mergedAt": null,
-      "additions": 153,
-      "deletions": 7,
-      "changedFiles": 4
-    },
-    {
-      "number": 34334,
-      "title": "Agents: add fuzzy matching for toolCallId parsing (#34294)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-04T11:00:47Z",
-      "mergedAt": null,
-      "additions": 281,
-      "deletions": 18,
-      "changedFiles": 7
     }
   ],
   "recentIssues": [],
@@ -285,28 +131,12 @@
       "prs": 4,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 10,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {
     "2026-03-05": 1
   }

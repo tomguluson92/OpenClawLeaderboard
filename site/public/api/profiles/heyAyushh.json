@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17379963?u=78d3f59034ab1ec67f7fbf2828d7a5c8e61ac834&v=4",
   "githubUrl": "https://github.com/heyAyushh",
   "score": {
-    "score": 53.11,
+    "score": 48.11,
     "prScore": 43.11,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 2
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
@@ -19,7 +19,7 @@
     "prDeletions": 97,
     "prChangedFiles": 16,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 1,
       "comments": 4,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-06T13:09:29Z",
+  "firstContribution": "2026-03-06T14:12:05Z",
   "lastContribution": "2026-03-08T02:59:34Z",
   "recentPRs": [
     {
@@ -75,15 +75,7 @@
       "changedFiles": 11
     }
   ],
-  "recentIssues": [
-    {
-      "number": 37832,
-      "title": "WhatsApp/web-outbound: message tool media from workspace-<agentId> rejected (path-not-allowed)",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T13:09:29Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 38322,
@@ -94,22 +86,15 @@
   "recentActivityDays": {
     "2026-03-06": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {}
 }

@@ -1,0 +1,105 @@
+{
+  "username": "krrrke",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/194141785?v=4",
+  "githubUrl": "https://github.com/krrrke",
+  "score": {
+    "score": 65.74,
+    "prScore": 62.24,
+    "issueScore": 0,
+    "reviewScore": 3,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 1042,
+    "prDeletions": 44,
+    "prChangedFiles": 23,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-16T05:56:27Z",
+  "lastContribution": "2026-03-17T05:39:04Z",
+  "recentPRs": [
+    {
+      "number": 48014,
+      "title": "feat(msteams): add DefaultAzureCredential auth type for passwordless Teams auth",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T08:02:53Z",
+      "mergedAt": null,
+      "additions": 682,
+      "deletions": 27,
+      "changedFiles": 15
+    },
+    {
+      "number": 47934,
+      "title": "fix(msteams): address review feedback on #40884 — schema, types, env validation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T05:56:27Z",
+      "mergedAt": null,
+      "additions": 360,
+      "deletions": 17,
+      "changedFiles": 8
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 48014,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T05:39:04Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

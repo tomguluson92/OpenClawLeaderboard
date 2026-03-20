@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/23422?u=8b151d8c4016b2352599e2d3e4186eeac6781f13&v=4",
   "githubUrl": "https://github.com/zeroasterisk",
   "score": {
-    "score": 35.87,
+    "score": 30.87,
     "prScore": 19.87,
-    "issueScore": 13,
+    "issueScore": 8,
     "reviewScore": 3,
     "commentScore": 0
   },
@@ -19,7 +19,7 @@
     "prDeletions": 1,
     "prChangedFiles": 4,
     "prMergeRate": 100,
-    "issues": 2,
+    "issues": 1,
     "issuesClosed": 1,
     "reviews": 1,
     "reviewsApproved": 0,
@@ -31,6 +31,15 @@
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 1,
@@ -38,18 +47,9 @@
       "commitAdditions": 29,
       "commitDeletions": 1,
       "commits": 1
-    },
-    "monthly": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 29,
-      "commitDeletions": 1,
-      "commits": 1
     }
   },
-  "firstContribution": "2026-03-04T03:12:44Z",
+  "firstContribution": "2026-03-09T21:55:43Z",
   "lastContribution": "2026-03-09T22:32:36Z",
   "recentPRs": [
     {
@@ -71,13 +71,6 @@
       "state": "CLOSED",
       "createdAt": "2026-03-09T21:55:43Z",
       "closedAt": "2026-03-09T22:55:12Z"
-    },
-    {
-      "number": 33837,
-      "title": "[Feature]: A2UI v0.9 message support",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T03:12:44Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [
@@ -92,11 +85,6 @@
       "prs": 1,
       "issues": 1,
       "reviews": 1
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [

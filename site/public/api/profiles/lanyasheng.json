@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/22570800?u=8c32b4bc5f137c5a28382066999cc61af7a1c7ca&v=4",
   "githubUrl": "https://github.com/lanyasheng",
   "score": {
-    "score": 64.21,
-    "prScore": 36.71,
+    "score": 86.19,
+    "prScore": 58.69,
     "issueScore": 0,
     "reviewScore": 24,
     "commentScore": 3.5
@@ -13,11 +13,11 @@
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 665,
-    "prDeletions": 29,
-    "prChangedFiles": 8,
+    "prAdditions": 1265,
+    "prDeletions": 44,
+    "prChangedFiles": 11,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,16 +31,16 @@
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
       "reviews": 8,
-      "comments": 7,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 5,
       "issues": 0,
       "reviews": 8,
       "comments": 7,
@@ -49,9 +49,31 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-12T16:41:45Z",
-  "lastContribution": "2026-03-14T16:31:17Z",
+  "firstContribution": "2026-03-12T18:40:54Z",
+  "lastContribution": "2026-03-15T06:17:29Z",
   "recentPRs": [
+    {
+      "number": 46952,
+      "title": "fix(gateway): enable global undici proxy dispatcher at startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T06:02:59Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 46949,
+      "title": "fix(acp): release dormant oneshot runtimes under pressure",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T06:00:52Z",
+      "mergedAt": null,
+      "additions": 598,
+      "deletions": 15,
+      "changedFiles": 2
+    },
     {
       "number": 46308,
       "title": "fix(agents): register ACP runs in subagent registry for lifecycle tracking",
@@ -130,6 +152,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,

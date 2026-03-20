@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/99234509?u=6ae23571039131d8134372af89a3b3aba361184c&v=4",
   "githubUrl": "https://github.com/katoue",
   "score": {
-    "score": 73.41,
+    "score": 75.91,
     "prScore": 9.91,
-    "issueScore": 5,
+    "issueScore": 8,
     "reviewScore": 0,
-    "commentScore": 58.5
+    "commentScore": 58
   },
   "tier": "regular",
   "characterClass": "Contributor",
@@ -20,21 +20,21 @@
     "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 117,
+    "comments": 116,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 117,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -43,7 +43,7 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 117,
+      "comments": 116,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -68,9 +68,9 @@
     {
       "number": 43468,
       "title": "[Bug]: @buape/carbon dependency needs to be removed entirely",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-11T20:59:07Z",
-      "closedAt": null
+      "closedAt": "2026-03-15T19:48:28Z"
     }
   ],
   "recentReviews": [],

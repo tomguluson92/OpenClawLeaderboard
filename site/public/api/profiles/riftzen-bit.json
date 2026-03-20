@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/139470135?u=a6cbc2c7a7f14a5fafaeff72d8abcbe823e52c5d&v=4",
   "githubUrl": "https://github.com/riftzen-bit",
   "score": {
-    "score": 257.02,
+    "score": 252.02,
     "prScore": 184.02,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 66,
     "commentScore": 2
   },
@@ -19,7 +19,7 @@
     "prDeletions": 143,
     "prChangedFiles": 40,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 22,
     "reviewsApproved": 0,
@@ -31,17 +31,17 @@
   },
   "period": {
     "weekly": {
-      "prs": 10,
+      "prs": 0,
       "issues": 0,
-      "reviews": 22,
-      "comments": 4,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 12,
-      "issues": 1,
+      "issues": 0,
       "reviews": 22,
       "comments": 4,
       "commitAdditions": 13,
@@ -49,7 +49,7 @@
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-03T05:58:28Z",
+  "firstContribution": "2026-03-07T21:41:16Z",
   "lastContribution": "2026-03-09T16:36:31Z",
   "recentPRs": [
     {
@@ -185,15 +185,7 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 32620,
-      "title": "gateway restart always times out (60s) on systems without lsof",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T05:58:28Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 41248,
@@ -311,17 +303,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
@@ -334,11 +320,6 @@
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
   ],
   "recentCommitDays": {

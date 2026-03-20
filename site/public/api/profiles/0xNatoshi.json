@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/155581707?u=538c1e833c583c90d70d9b7db79b044d542f468f&v=4",
   "githubUrl": "https://github.com/0xNatoshi",
   "score": {
-    "score": 13.23,
-    "prScore": 8.23,
+    "score": 23.05,
+    "prScore": 18.05,
     "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 59,
-    "prDeletions": 1,
-    "prChangedFiles": 1,
+    "prAdditions": 772,
+    "prDeletions": 79,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-14T10:46:27Z",
-  "lastContribution": "2026-03-14T11:07:36Z",
+  "lastContribution": "2026-03-18T16:48:47Z",
   "recentPRs": [
+    {
+      "number": 49923,
+      "title": "feat: add 21 missing tools to tool-display registry",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T16:48:47Z",
+      "mergedAt": null,
+      "additions": 713,
+      "deletions": 78,
+      "changedFiles": 1
+    },
     {
       "number": 46028,
       "title": "fix: strip trailing orphaned user messages on retry to prevent duplicates",
@@ -75,6 +86,11 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 1,

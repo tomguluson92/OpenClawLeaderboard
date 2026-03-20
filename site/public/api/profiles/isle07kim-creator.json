@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/264604395?v=4",
   "githubUrl": "https://github.com/isle07kim-creator",
   "score": {
-    "score": 10.5,
-    "prScore": 10.5,
+    "score": 23.31,
+    "prScore": 23.31,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 30,
-    "prDeletions": 18,
-    "prChangedFiles": 3,
+    "prAdditions": 161,
+    "prDeletions": 14,
+    "prChangedFiles": 6,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-12T02:55:20Z",
-  "lastContribution": "2026-03-12T02:55:20Z",
+  "lastContribution": "2026-03-16T03:00:12Z",
   "recentPRs": [
+    {
+      "number": 47833,
+      "title": "Fix/tailscale control UI pairing v2",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T03:00:12Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 4,
+      "changedFiles": 3
+    },
     {
       "number": 43613,
       "title": "fix: skip device pairing when authenticated via Tailscale identity",
@@ -59,14 +70,19 @@
       "merged": false,
       "createdAt": "2026-03-12T02:55:20Z",
       "mergedAt": null,
-      "additions": 30,
-      "deletions": 18,
+      "additions": 141,
+      "deletions": 10,
       "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,

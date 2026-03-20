@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/49885?v=4",
   "githubUrl": "https://github.com/aaajiao",
   "score": {
-    "score": 44.57,
+    "score": 39.07,
     "prScore": 11.57,
-    "issueScore": 15,
+    "issueScore": 10,
     "reviewScore": 15,
-    "commentScore": 3
+    "commentScore": 2.5
   },
   "tier": "beginner",
   "characterClass": "Reviewer",
@@ -19,37 +19,37 @@
     "prDeletions": 10,
     "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
+    "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 5,
-      "comments": 6,
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 2,
       "reviews": 5,
-      "comments": 6,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T10:44:14Z",
+  "firstContribution": "2026-03-08T10:16:12Z",
   "lastContribution": "2026-03-14T08:38:18Z",
   "recentPRs": [
     {
@@ -77,13 +77,6 @@
       "title": "Edit tool silently wipes file to 0 bytes while reporting success",
       "state": "OPEN",
       "createdAt": "2026-03-12T08:33:27Z",
-      "closedAt": null
-    },
-    {
-      "number": 32910,
-      "title": "[Feature]: Inject system event on model fallback",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T10:44:14Z",
       "closedAt": null
     }
   ],
@@ -126,11 +119,6 @@
       "reviews": 0
     },
     "2026-03-12": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-03": {
       "prs": 0,
       "issues": 1,
       "reviews": 0

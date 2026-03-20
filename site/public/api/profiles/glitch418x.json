@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/189487110?u=d7f1e533285dc7c49031796c3c90b1f9d5cee30d&v=4",
   "githubUrl": "https://github.com/glitch418x",
   "score": {
-    "score": 139.72,
+    "score": 141.22,
     "prScore": 123.22,
-    "issueScore": 16,
+    "issueScore": 18,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Pathfinder",
@@ -19,38 +19,38 @@
     "prDeletions": 170,
     "prChangedFiles": 37,
     "prMergeRate": 33,
-    "issues": 2,
-    "issuesClosed": 2,
+    "issues": 3,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 0,
     "commitAdditions": 178,
     "commitDeletions": 11,
     "commitChangedFiles": 10
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 1,
+      "prs": 1,
+      "issues": 2,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 66,
-      "commitDeletions": 3,
-      "commits": 1
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
       "prs": 3,
-      "issues": 2,
+      "issues": 3,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 178,
       "commitDeletions": 11,
       "commits": 2
     }
   },
-  "firstContribution": "2026-03-04T19:01:38Z",
-  "lastContribution": "2026-03-13T15:09:04Z",
+  "firstContribution": "2026-03-08T16:21:20Z",
+  "lastContribution": "2026-03-17T15:21:48Z",
   "recentPRs": [
     {
       "number": 45223,
@@ -77,7 +77,7 @@
     {
       "number": 40053,
       "title": "fix: preserve selected session model during fallback",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-08T16:21:20Z",
       "mergedAt": null,
@@ -88,18 +88,25 @@
   ],
   "recentIssues": [
     {
+      "number": 49096,
+      "title": "Slack: deduplicate when reply tag text matches remaining body",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T15:21:48Z",
+      "closedAt": null
+    },
+    {
+      "number": 48171,
+      "title": "fix(slack): 'App is not a constructor' after plugin SDK refactor on Node 24",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T11:47:18Z",
+      "closedAt": null
+    },
+    {
       "number": 42919,
       "title": "System events don't route to active session when dmScope is per-channel-peer",
       "state": "CLOSED",
       "createdAt": "2026-03-11T06:59:00Z",
       "closedAt": "2026-03-11T06:59:25Z"
-    },
-    {
-      "number": 34886,
-      "title": "ACP stream delivery: no way to fully suppress output to originating chat",
-      "state": "CLOSED",
-      "createdAt": "2026-03-04T19:01:38Z",
-      "closedAt": "2026-03-04T19:02:03Z"
     }
   ],
   "recentReviews": [],
@@ -119,12 +126,17 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-11": {
+    "2026-03-17": {
       "prs": 0,
       "issues": 1,
       "reviews": 0
     },
-    "2026-03-04": {
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-11": {
       "prs": 0,
       "issues": 1,
       "reviews": 0
@@ -132,8 +144,7 @@
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Issue Reporting"
   ],
   "achievements": [],
   "recentCommitDays": {

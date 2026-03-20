@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/57132813?u=d3d4b375855cabb35943fa7bce83402132156be4&v=4",
   "githubUrl": "https://github.com/Alex-wuhu",
   "score": {
-    "score": 65.82,
-    "prScore": 65.82,
+    "score": 108.32,
+    "prScore": 107.82,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 846,
+    "prAdditions": 1135,
     "prDeletions": 577,
-    "prChangedFiles": 27,
+    "prChangedFiles": 42,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -34,24 +34,35 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-08T09:34:30Z",
-  "lastContribution": "2026-03-08T09:34:30Z",
+  "lastContribution": "2026-03-18T11:07:56Z",
   "recentPRs": [
+    {
+      "number": 49749,
+      "title": "feat: add Novita AI as a bundled LLM provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T10:58:47Z",
+      "mergedAt": null,
+      "additions": 289,
+      "deletions": 0,
+      "changedFiles": 15
+    },
     {
       "number": 39675,
       "title": "feat: add Novita AI provider support with dynamic model discovery",
@@ -67,6 +78,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-08": {
       "prs": 1,
       "issues": 0,
@@ -74,7 +90,8 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Discussion"
   ],
   "achievements": [],
   "recentCommitDays": {}

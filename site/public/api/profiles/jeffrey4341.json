@@ -3,55 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/77844634?v=4",
   "githubUrl": "https://github.com/jeffrey4341",
   "score": {
-    "score": 65.79,
-    "prScore": 49.29,
-    "issueScore": 15,
+    "score": 125.91,
+    "prScore": 110.41,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 5.5
   },
   "tier": "regular",
-  "characterClass": "Hunter",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 8457,
-    "prDeletions": 41,
-    "prChangedFiles": 13,
+    "prAdditions": 1153,
+    "prDeletions": 90,
+    "prChangedFiles": 32,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
+    "comments": 11,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 5,
+      "issues": 2,
       "reviews": 0,
-      "comments": 1,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 3,
+      "prs": 6,
+      "issues": 2,
       "reviews": 0,
-      "comments": 3,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T09:45:14Z",
-  "lastContribution": "2026-03-14T20:29:17Z",
+  "firstContribution": "2026-03-06T07:55:56Z",
+  "lastContribution": "2026-03-19T12:34:43Z",
   "recentPRs": [
+    {
+      "number": 50409,
+      "title": "fix(whatsapp): stabilize proactive sends across reconnects and gateway sends",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T12:04:20Z",
+      "mergedAt": null,
+      "additions": 542,
+      "deletions": 31,
+      "changedFiles": 10
+    },
+    {
+      "number": 48112,
+      "title": "memory: preserve keyword fallback hits after merge-time scoring",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T09:55:06Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 47513,
+      "title": "fix: stop treating idle WhatsApp sessions as stale sockets",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T17:14:28Z",
+      "mergedAt": null,
+      "additions": 120,
+      "deletions": 12,
+      "changedFiles": 5
+    },
+    {
+      "number": 46933,
+      "title": "Fix last heartbeat status rendering",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T05:46:28Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 4,
+      "changedFiles": 3
+    },
     {
       "number": 46556,
       "title": "Fix local gateway detail probes on loopback",
@@ -59,47 +103,55 @@
       "merged": false,
       "createdAt": "2026-03-14T20:26:49Z",
       "mergedAt": null,
-      "additions": 31,
-      "deletions": 37,
-      "changedFiles": 8
+      "additions": 161,
+      "deletions": 27,
+      "changedFiles": 7
     },
     {
       "number": 37429,
       "title": "Defer WhatsApp startup readiness errors in delivery recovery",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-06T07:55:56Z",
       "mergedAt": null,
-      "additions": 8426,
+      "additions": 210,
       "deletions": 4,
       "changedFiles": 5
     }
   ],
   "recentIssues": [
     {
+      "number": 46932,
+      "title": "status --deep renders last heartbeat as \"ago ago\" and falls back to misleading \"unknown\"",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T05:46:27Z",
+      "closedAt": null
+    },
+    {
       "number": 46557,
       "title": "CLI local gateway detail probes drop device auth on localhost and localLoopback probe budget is too low",
       "state": "OPEN",
       "createdAt": "2026-03-14T20:28:48Z",
       "closedAt": null
-    },
-    {
-      "number": 37428,
-      "title": "delivery-recovery burns retries before WhatsApp listener is ready after restart",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T07:55:46Z",
-      "closedAt": null
-    },
-    {
-      "number": 34255,
-      "title": "Control UI Chat: allow pinning a default session (avoid auto-selecting agent:guest:main)",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T09:45:14Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 1,
@@ -107,20 +159,14 @@
     },
     "2026-03-06": {
       "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
-    "Discussion",
-    "Large-Scale Changes"
+    "Discussion"
   ],
   "achievements": [],
   "recentCommitDays": {}

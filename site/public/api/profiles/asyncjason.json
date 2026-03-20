@@ -1,67 +1,67 @@
 {
   "username": "asyncjason",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/4665758?u=ffad0fdaebbe9d0d4ffa0018b2d2553deb877a13&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4665758?v=4",
   "githubUrl": "https://github.com/asyncjason",
   "score": {
-    "score": 104.11,
-    "prScore": 56.61,
-    "issueScore": 31,
+    "score": 169.34,
+    "prScore": 132.34,
+    "issueScore": 21,
     "reviewScore": 9,
-    "commentScore": 7.5
+    "commentScore": 7
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
-    "commits": 0,
+    "commits": 2,
     "prs": 4,
-    "prsMerged": 0,
-    "prAdditions": 553,
-    "prDeletions": 23,
-    "prChangedFiles": 15,
-    "prMergeRate": 0,
-    "issues": 5,
+    "prsMerged": 1,
+    "prAdditions": 799,
+    "prDeletions": 50,
+    "prChangedFiles": 22,
+    "prMergeRate": 25,
+    "issues": 3,
     "issuesClosed": 2,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 15,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 14,
+    "commitAdditions": 507,
+    "commitDeletions": 50,
+    "commitChangedFiles": 20
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 3,
-      "reviews": 3,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 6,
+      "commitAdditions": 507,
+      "commitDeletions": 50,
+      "commits": 2
     },
     "monthly": {
       "prs": 4,
-      "issues": 5,
+      "issues": 3,
       "reviews": 3,
-      "comments": 15,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 14,
+      "commitAdditions": 507,
+      "commitDeletions": 50,
+      "commits": 2
     }
   },
-  "firstContribution": "2026-03-04T05:08:42Z",
-  "lastContribution": "2026-03-15T04:54:35Z",
+  "firstContribution": "2026-03-07T00:03:33Z",
+  "lastContribution": "2026-03-15T05:36:46Z",
   "recentPRs": [
     {
       "number": 46889,
       "title": "feat: make compaction timeout configurable via agents.defaults.compaction.timeoutSeconds",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-15T04:54:35Z",
-      "mergedAt": null,
-      "additions": 84,
-      "deletions": 5,
-      "changedFiles": 6
+      "mergedAt": "2026-03-15T06:34:49Z",
+      "additions": 330,
+      "deletions": 32,
+      "changedFiles": 13
     },
     {
       "number": 44865,
@@ -118,20 +118,6 @@
       "state": "CLOSED",
       "createdAt": "2026-03-09T03:14:12Z",
       "closedAt": "2026-03-10T03:57:04Z"
-    },
-    {
-      "number": 33974,
-      "title": "[Bug]: WhatsApp group config changes (requireMention, group policy) silently ignored until channel restart — on-message handler holds stale config reference",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T05:18:31Z",
-      "closedAt": null
-    },
-    {
-      "number": 33961,
-      "title": "[Bug]: WhatsApp QR pairing fails 100% on Baileys v7 — getStatusCode() never unwraps lastDisconnect wrapper, 515 restart path is dead code",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T05:08:42Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [
@@ -166,30 +152,23 @@
       "prs": 2,
       "issues": 2,
       "reviews": 3
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
     "Issue Reporting",
-    "Discussion"
+    "Discussion",
+    "Direct Commits"
   ],
   "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    },
     {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
   ],
-  "recentCommitDays": {}
+  "recentCommitDays": {
+    "2026-03-15": 2
+  }
 }

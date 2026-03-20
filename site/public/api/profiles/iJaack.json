@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6631681?u=54dc1e9bed556a4078a3fcd13d347cdbcab89652&v=4",
   "githubUrl": "https://github.com/iJaack",
   "score": {
-    "score": 37.88,
+    "score": 32.88,
     "prScore": 25.88,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 6,
     "commentScore": 1
   },
@@ -19,7 +19,7 @@
     "prDeletions": 61,
     "prChangedFiles": 11,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
@@ -31,6 +31,15 @@
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 2,
@@ -38,18 +47,9 @@
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
-    },
-    "monthly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 2,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
     }
   },
-  "firstContribution": "2026-03-07T13:31:54Z",
+  "firstContribution": "2026-03-11T11:23:03Z",
   "lastContribution": "2026-03-11T11:39:10Z",
   "recentPRs": [
     {
@@ -64,15 +64,7 @@
       "changedFiles": 11
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38887,
-      "title": "Telegram multi-account: stale-socket restarts kill idle bot connections",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T13:31:54Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 43129,
@@ -90,25 +82,13 @@
       "prs": 1,
       "issues": 0,
       "reviews": 2
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {}
 }

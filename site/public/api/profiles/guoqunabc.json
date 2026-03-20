@@ -3,25 +3,25 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9532020?v=4",
   "githubUrl": "https://github.com/guoqunabc",
   "score": {
-    "score": 171.35,
-    "prScore": 164.85,
+    "score": 195.09,
+    "prScore": 179.59,
     "issueScore": 0,
-    "reviewScore": 3,
+    "reviewScore": 12,
     "commentScore": 3.5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 2,
-    "prs": 6,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 2060,
-    "prDeletions": 642,
-    "prChangedFiles": 35,
+    "prAdditions": 2136,
+    "prDeletions": 661,
+    "prChangedFiles": 38,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 7,
@@ -31,18 +31,18 @@
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 1,
       "issues": 0,
-      "reviews": 1,
-      "comments": 7,
+      "reviews": 4,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 7,
       "issues": 0,
-      "reviews": 1,
+      "reviews": 4,
       "comments": 7,
       "commitAdditions": 792,
       "commitDeletions": 64,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-06T10:52:28Z",
-  "lastContribution": "2026-03-14T01:14:41Z",
+  "lastContribution": "2026-03-15T13:50:58Z",
   "recentPRs": [
+    {
+      "number": 47354,
+      "title": "fix(cron): default to system timezone when --tz is omitted",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T13:40:33Z",
+      "mergedAt": null,
+      "additions": 78,
+      "deletions": 19,
+      "changedFiles": 4
+    },
     {
       "number": 42164,
       "title": "fix(feishu): skip bot mentions in mention-forward detection",
@@ -70,9 +81,9 @@
       "merged": false,
       "createdAt": "2026-03-10T12:52:06Z",
       "mergedAt": null,
-      "additions": 550,
+      "additions": 548,
       "deletions": 2,
-      "changedFiles": 9
+      "changedFiles": 8
     },
     {
       "number": 42130,
@@ -122,12 +133,32 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 47354,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T13:50:58Z"
+    },
+    {
+      "prNumber": 47354,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T13:50:51Z"
+    },
+    {
+      "prNumber": 47354,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T13:50:46Z"
+    },
+    {
       "prNumber": 44937,
       "state": "COMMENTED",
       "createdAt": "2026-03-13T15:41:31Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-10": {
       "prs": 4,
       "issues": 0,

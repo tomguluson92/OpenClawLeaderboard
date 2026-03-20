@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/256247180?u=941e2ff2b671e61d066ac59413ab6893812d4e0a&v=4",
   "githubUrl": "https://github.com/LindalyX-Lee",
   "score": {
-    "score": 63.01,
+    "score": 53.01,
     "prScore": 37.01,
-    "issueScore": 25,
+    "issueScore": 15,
     "reviewScore": 0,
     "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 4,
@@ -19,7 +19,7 @@
     "prDeletions": 5,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 5,
+    "issues": 3,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,17 +31,17 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 2,
+      "prs": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
       "prs": 4,
-      "issues": 5,
+      "issues": 3,
       "reviews": 0,
       "comments": 2,
       "commitAdditions": 0,
@@ -49,8 +49,8 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-06T05:24:57Z",
-  "lastContribution": "2026-03-08T12:21:21Z",
+  "firstContribution": "2026-03-06T05:25:34Z",
+  "lastContribution": "2026-03-18T19:06:31Z",
   "recentPRs": [
     {
       "number": 39530,
@@ -99,6 +99,13 @@
   ],
   "recentIssues": [
     {
+      "number": 49978,
+      "title": "Discord delivery reports lastDelivered: true when message actually failed (401 Unauthorized)",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T19:06:31Z",
+      "closedAt": null
+    },
+    {
       "number": 39818,
       "title": "Silent model fallback — no user notification when primary model fails",
       "state": "OPEN",
@@ -111,27 +118,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-08T12:16:00Z",
       "closedAt": null
-    },
-    {
-      "number": 38730,
-      "title": "Cron session accumulation can silently exhaust agent context window — no guardrails or warnings",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T09:44:59Z",
-      "closedAt": null
-    },
-    {
-      "number": 38682,
-      "title": "Gateway does not auto-recover after VPN reconnection (macOS LaunchAgent may not respawn gateway)",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T07:59:00Z",
-      "closedAt": null
-    },
-    {
-      "number": 37232,
-      "title": "TTL-aware status layer: prevent stale facts in USER.md/MEMORY.md from being treated as current truth",
-      "state": "OPEN",
-      "createdAt": "2026-03-06T05:24:57Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
@@ -143,11 +129,16 @@
     },
     "2026-03-07": {
       "prs": 2,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0
     },
     "2026-03-06": {
       "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 0,
       "issues": 1,
       "reviews": 0
     }
@@ -157,12 +148,6 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {}
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/58493?v=4",
   "githubUrl": "https://github.com/steipete",
   "score": {
-    "score": 63347.36,
-    "prScore": 63242.86,
+    "score": 66198.1,
+    "prScore": 66093.6,
     "issueScore": 0,
     "reviewScore": 4.5,
     "commentScore": 100
@@ -12,46 +12,68 @@
   "tier": "legend",
   "characterClass": "Founder",
   "stats": {
-    "commits": 12592,
-    "prs": 5,
-    "prsMerged": 5,
-    "prAdditions": 1038,
-    "prDeletions": 147,
-    "prChangedFiles": 41,
+    "commits": 13158,
+    "prs": 7,
+    "prsMerged": 7,
+    "prAdditions": 3405,
+    "prDeletions": 541,
+    "prChangedFiles": 82,
     "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 1,
-    "comments": 246,
-    "commitAdditions": 3234420,
-    "commitDeletions": 2284260,
-    "commitChangedFiles": 91984
+    "comments": 245,
+    "commitAdditions": 3400805,
+    "commitDeletions": 2393658,
+    "commitChangedFiles": 97980
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 2,
       "issues": 0,
-      "reviews": 1,
-      "comments": 75,
-      "commitAdditions": 93441,
-      "commitDeletions": 50132,
-      "commits": 917
+      "reviews": 0,
+      "comments": 86,
+      "commitAdditions": 217152,
+      "commitDeletions": 141061,
+      "commits": 1218
     },
     "monthly": {
-      "prs": 5,
+      "prs": 7,
       "issues": 0,
       "reviews": 1,
-      "comments": 246,
-      "commitAdditions": 626625,
-      "commitDeletions": 471560,
-      "commits": 5487
+      "comments": 245,
+      "commitAdditions": 609330,
+      "commitDeletions": 374363,
+      "commits": 4419
     }
   },
-  "firstContribution": "2026-03-03T03:42:35Z",
-  "lastContribution": "2026-03-13T21:58:02Z",
+  "firstContribution": "2026-03-07T16:41:11Z",
+  "lastContribution": "2026-03-19T01:03:10Z",
   "recentPRs": [
+    {
+      "number": 49136,
+      "title": "feat: add bundled Chutes extension",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T16:35:12Z",
+      "mergedAt": "2026-03-17T16:35:21Z",
+      "additions": 1856,
+      "deletions": 171,
+      "changedFiles": 31
+    },
+    {
+      "number": 47902,
+      "title": "fix(gateway): pin plugin webhook route registry",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-16T04:45:07Z",
+      "mergedAt": "2026-03-16T04:53:05Z",
+      "additions": 511,
+      "deletions": 223,
+      "changedFiles": 10
+    },
     {
       "number": 40543,
       "title": "fix(agents): re-expose configured tools and memory plugins",
@@ -117,6 +139,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
@@ -172,6 +204,11 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-19": 18,
+    "2026-03-18": 43,
+    "2026-03-17": 323,
+    "2026-03-16": 154,
+    "2026-03-15": 28,
     "2026-03-14": 170,
     "2026-03-13": 526,
     "2026-03-12": 42,
@@ -220,11 +257,6 @@
     "2026-01-22": 161,
     "2026-01-21": 181,
     "2026-01-20": 170,
-    "2026-01-19": 82,
-    "2026-01-18": 257,
-    "2026-01-17": 260,
-    "2026-01-16": 160,
-    "2026-01-15": 207,
-    "2026-01-14": 61
+    "2026-01-19": 82
   }
 }

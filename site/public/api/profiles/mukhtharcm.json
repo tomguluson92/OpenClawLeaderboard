@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/56378562?v=4",
   "githubUrl": "https://github.com/mukhtharcm",
   "score": {
-    "score": 384.24,
-    "prScore": 359.74,
+    "score": 412.8,
+    "prScore": 377.8,
     "issueScore": 0,
-    "reviewScore": 15,
-    "commentScore": 9.5
+    "reviewScore": 27,
+    "commentScore": 8
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 40,
-    "prs": 2,
+    "commits": 42,
+    "prs": 3,
     "prsMerged": 2,
-    "prAdditions": 2182,
-    "prDeletions": 359,
-    "prChangedFiles": 29,
-    "prMergeRate": 100,
+    "prAdditions": 2969,
+    "prDeletions": 379,
+    "prChangedFiles": 33,
+    "prMergeRate": 67,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 9,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 19,
-    "commitAdditions": 7449,
-    "commitDeletions": 1120,
-    "commitChangedFiles": 172
+    "comments": 16,
+    "commitAdditions": 7452,
+    "commitDeletions": 1127,
+    "commitChangedFiles": 176
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
-      "reviews": 0,
-      "comments": 16,
-      "commitAdditions": 19,
-      "commitDeletions": 18,
-      "commits": 2
+      "reviews": 4,
+      "comments": 2,
+      "commitAdditions": 22,
+      "commitDeletions": 25,
+      "commits": 4
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
-      "reviews": 5,
-      "comments": 19,
-      "commitAdditions": 4525,
-      "commitDeletions": 567,
-      "commits": 8
+      "reviews": 9,
+      "comments": 16,
+      "commitAdditions": 4527,
+      "commitDeletions": 387,
+      "commits": 7
     }
   },
   "firstContribution": "2026-03-06T09:14:38Z",
-  "lastContribution": "2026-03-14T07:07:06Z",
+  "lastContribution": "2026-03-18T14:35:40Z",
   "recentPRs": [
+    {
+      "number": 49481,
+      "title": "mattermost: recover slash registration after command-list 403s",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T05:01:02Z",
+      "mergedAt": null,
+      "additions": 787,
+      "deletions": 20,
+      "changedFiles": 4
+    },
     {
       "number": 38767,
       "title": "Mattermost: add interactive model picker",
@@ -77,6 +88,26 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 49481,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T05:32:46Z"
+    },
+    {
+      "prNumber": 49481,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T05:32:38Z"
+    },
+    {
+      "prNumber": 49481,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T05:14:51Z"
+    },
+    {
+      "prNumber": 49481,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T05:14:43Z"
+    },
     {
       "prNumber": 38767,
       "state": "COMMENTED",
@@ -104,6 +135,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
     "2026-03-07": {
       "prs": 1,
       "issues": 0,
@@ -123,13 +159,11 @@
   ],
   "achievements": [],
   "recentCommitDays": {
+    "2026-03-18": 2,
     "2026-03-14": 2,
     "2026-03-07": 1,
     "2026-03-06": 1,
     "2026-03-03": 1,
-    "2026-02-17": 3,
-    "2026-01-18": 4,
-    "2026-01-17": 3,
-    "2026-01-16": 4
+    "2026-02-17": 3
   }
 }

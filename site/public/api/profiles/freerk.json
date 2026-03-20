@@ -3,55 +3,99 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1837768?v=4",
   "githubUrl": "https://github.com/freerk",
   "score": {
-    "score": 27.37,
-    "prScore": 18.37,
-    "issueScore": 0,
-    "reviewScore": 9,
-    "commentScore": 0
+    "score": 114.43,
+    "prScore": 79.93,
+    "issueScore": 10,
+    "reviewScore": 24,
+    "commentScore": 0.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 100,
-    "prDeletions": 13,
-    "prChangedFiles": 8,
+    "prAdditions": 564,
+    "prDeletions": 108,
+    "prChangedFiles": 23,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 2,
     "issuesClosed": 0,
-    "reviews": 3,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 3,
-      "comments": 0,
+      "prs": 4,
+      "issues": 2,
+      "reviews": 5,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 3,
-      "comments": 0,
+      "prs": 5,
+      "issues": 2,
+      "reviews": 8,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T22:03:55Z",
-  "lastContribution": "2026-03-10T09:55:24Z",
+  "lastContribution": "2026-03-18T15:20:06Z",
   "recentPRs": [
+    {
+      "number": 49875,
+      "title": "Wire runInboundClaim into general dispatch path",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T15:20:06Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 49870,
+      "title": "Plugins: consistent conversationId and accountId across hook contexts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T15:17:32Z",
+      "mergedAt": null,
+      "additions": 209,
+      "deletions": 71,
+      "changedFiles": 7
+    },
+    {
+      "number": 48129,
+      "title": "Plugins: add conversationId to agent hook context",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T10:18:13Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 48100,
+      "title": "Plugins: add after_agent_complete hook",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T09:46:35Z",
+      "mergedAt": null,
+      "additions": 221,
+      "deletions": 24,
+      "changedFiles": 4
+    },
     {
       "number": 41473,
       "title": "Slack: expose Socket Mode ping/pong timeout config",
@@ -59,13 +103,53 @@
       "merged": false,
       "createdAt": "2026-03-09T22:03:55Z",
       "mergedAt": null,
-      "additions": 100,
+      "additions": 117,
       "deletions": 13,
       "changedFiles": 8
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 49748,
+      "title": "Broadcast inbound_claim hook for non-plugin-bound messages",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T10:58:41Z",
+      "closedAt": null
+    },
+    {
+      "number": 49746,
+      "title": "Plugin hook contexts produce inconsistent conversationId and missing accountId across phases",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T10:58:26Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 48100,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T14:57:29Z"
+    },
+    {
+      "prNumber": 48100,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T14:56:23Z"
+    },
+    {
+      "prNumber": 48100,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T14:53:58Z"
+    },
+    {
+      "prNumber": 48100,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T14:50:36Z"
+    },
+    {
+      "prNumber": 48100,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T14:48:32Z"
+    },
     {
       "prNumber": 41473,
       "state": "COMMENTED",
@@ -83,6 +167,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 5
+    },
+    "2026-03-16": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
@@ -96,8 +190,16 @@
   },
   "skills": [
     "Pull Requests",
-    "Code Review"
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
   "recentCommitDays": {}
 }

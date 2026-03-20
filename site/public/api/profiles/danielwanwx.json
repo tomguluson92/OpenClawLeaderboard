@@ -1,0 +1,152 @@
+{
+  "username": "danielwanwx",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/144515713?u=2c676a4a1b64ef599e7004c10f71266d513c73be&v=4",
+  "githubUrl": "https://github.com/danielwanwx",
+  "score": {
+    "score": 92.11,
+    "prScore": 87.11,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 753,
+    "prDeletions": 71,
+    "prChangedFiles": 18,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 101,
+    "commitDeletions": 3,
+    "commitChangedFiles": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-15T07:21:11Z",
+  "lastContribution": "2026-03-16T23:33:13Z",
+  "recentPRs": [
+    {
+      "number": 48557,
+      "title": "test: normalize Windows plugin path assertions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T23:33:13Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 23,
+      "changedFiles": 3
+    },
+    {
+      "number": 48429,
+      "title": "Refresh persisted skills snapshots when agent skill filters change",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T18:34:49Z",
+      "mergedAt": null,
+      "additions": 261,
+      "deletions": 13,
+      "changedFiles": 4
+    },
+    {
+      "number": 47819,
+      "title": "Fix stale TTS summarizeText mock for resolveModelAsync",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T02:30:54Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 47815,
+      "title": "Fix stale TTS summarizeText mock for resolveModelAsync",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T02:27:20Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 47073,
+      "title": "Refresh persisted skills snapshots when agent skill filters change",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T08:10:26Z",
+      "mergedAt": null,
+      "additions": 263,
+      "deletions": 25,
+      "changedFiles": 5
+    },
+    {
+      "number": 47058,
+      "title": "Refresh persisted skills snapshots when agent skill filters change",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T07:59:13Z",
+      "mergedAt": null,
+      "additions": 170,
+      "deletions": 2,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 47019,
+      "title": "[Bug]: Agent-level `skills` filters do not constrain injected skills prompt",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T07:21:11Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-02-12": 1
+  }
+}

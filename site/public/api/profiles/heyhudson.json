@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258693705?v=4",
   "githubUrl": "https://github.com/heyhudson",
   "score": {
-    "score": 82.5,
+    "score": 69.5,
     "prScore": 69.5,
-    "issueScore": 13,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 5,
     "prs": 0,
@@ -19,8 +19,8 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
@@ -41,43 +41,21 @@
     },
     "monthly": {
       "prs": 0,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
-      "commitAdditions": 1631,
-      "commitDeletions": 28,
-      "commits": 4
+      "commitAdditions": 8,
+      "commitDeletions": 1,
+      "commits": 1
     }
   },
-  "firstContribution": "2026-03-03T13:53:30Z",
-  "lastContribution": "2026-03-03T13:53:34Z",
+  "firstContribution": null,
+  "lastContribution": null,
   "recentPRs": [],
-  "recentIssues": [
-    {
-      "number": 33078,
-      "title": "fix(media): periodic cleanup for all inbound media files",
-      "state": "CLOSED",
-      "createdAt": "2026-03-03T13:53:34Z",
-      "closedAt": "2026-03-07T03:06:10Z"
-    },
-    {
-      "number": 33077,
-      "title": "feat(memory): per-agent QMD extra collections for cross-agent session search",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T13:53:30Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
-  "recentActivityDays": {
-    "2026-03-03": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
-    }
-  },
+  "recentActivityDays": {},
   "skills": [
-    "Issue Reporting",
     "Direct Commits"
   ],
   "achievements": [],

@@ -1,0 +1,115 @@
+{
+  "username": "RichardQidian",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/252679334?v=4",
+  "githubUrl": "https://github.com/RichardQidian",
+  "score": {
+    "score": 27.86,
+    "prScore": 12.36,
+    "issueScore": 15,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 383,
+    "prDeletions": 0,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-14T01:39:29Z",
+  "lastContribution": "2026-03-20T06:21:51Z",
+  "recentPRs": [
+    {
+      "number": 50884,
+      "title": "feat(feishu): add bot-refresh skill for identity refresh",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T06:21:51Z",
+      "mergedAt": null,
+      "additions": 383,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 46776,
+      "title": "[Bug]: Feishu group talk with openclaw agents lost messages",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T03:00:23Z",
+      "closedAt": null
+    },
+    {
+      "number": 46128,
+      "title": "[Bug]: the dashboard always break, and need to reconnect or refresh many times",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T12:57:54Z",
+      "closedAt": null
+    },
+    {
+      "number": 45603,
+      "title": "[Bug]: fro feishu plugin, always print the \"duplicate\" message, and no method to fix this issue by talk with OpenClaw itself",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T01:39:29Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

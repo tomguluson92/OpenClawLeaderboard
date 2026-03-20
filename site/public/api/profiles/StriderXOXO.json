@@ -3,38 +3,38 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/191675137?u=8b1038e488672d769ba78d2990b76b6b148dfde9&v=4",
   "githubUrl": "https://github.com/StriderXOXO",
   "score": {
-    "score": 47.68,
-    "prScore": 38.68,
+    "score": 54.34,
+    "prScore": 38.84,
     "issueScore": 0,
-    "reviewScore": 9,
-    "commentScore": 0
+    "reviewScore": 15,
+    "commentScore": 0.5
   },
-  "tier": "beginner",
-  "characterClass": "Maintainer",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 204,
-    "prDeletions": 7,
+    "prAdditions": 213,
+    "prDeletions": 9,
     "prChangedFiles": 11,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 3,
+    "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 1,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
-      "reviews": 3,
-      "comments": 0,
+      "reviews": 2,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -42,15 +42,15 @@
     "monthly": {
       "prs": 3,
       "issues": 0,
-      "reviews": 3,
-      "comments": 0,
+      "reviews": 5,
+      "comments": 1,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-09T03:32:54Z",
-  "lastContribution": "2026-03-11T13:14:07Z",
+  "lastContribution": "2026-03-19T23:56:15Z",
   "recentPRs": [
     {
       "number": 43194,
@@ -70,8 +70,8 @@
       "merged": false,
       "createdAt": "2026-03-09T03:36:13Z",
       "mergedAt": null,
-      "additions": 55,
-      "deletions": 6,
+      "additions": 61,
+      "deletions": 8,
       "changedFiles": 5
     },
     {
@@ -81,13 +81,23 @@
       "merged": false,
       "createdAt": "2026-03-09T03:32:54Z",
       "mergedAt": null,
-      "additions": 98,
+      "additions": 101,
       "deletions": 1,
       "changedFiles": 4
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 40534,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T23:56:15Z"
+    },
+    {
+      "prNumber": 40530,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T23:56:01Z"
+    },
     {
       "prNumber": 40534,
       "state": "COMMENTED",
@@ -114,11 +124,17 @@
       "prs": 2,
       "issues": 0,
       "reviews": 3
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review"
+    "Code Review",
+    "Discussion"
   ],
   "achievements": [],
   "recentCommitDays": {}

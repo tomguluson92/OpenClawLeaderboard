@@ -1,0 +1,191 @@
+{
+  "username": "xz0831",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/214744049?v=4",
+  "githubUrl": "https://github.com/xz0831",
+  "score": {
+    "score": 210.54,
+    "prScore": 205.04,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 9,
+    "prsMerged": 0,
+    "prAdditions": 12823,
+    "prDeletions": 133,
+    "prChangedFiles": 171,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 9,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 9,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-16T13:38:53Z",
+  "lastContribution": "2026-03-17T09:08:45Z",
+  "recentPRs": [
+    {
+      "number": 48883,
+      "title": "Cron: constrain main-session system events",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T09:08:45Z",
+      "mergedAt": null,
+      "additions": 332,
+      "deletions": 88,
+      "changedFiles": 12
+    },
+    {
+      "number": 48406,
+      "title": "Docs: add saturated session recovery guide",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T17:46:48Z",
+      "mergedAt": null,
+      "additions": 2783,
+      "deletions": 8,
+      "changedFiles": 30
+    },
+    {
+      "number": 48397,
+      "title": "Tests: add incident regression fixture",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T17:27:44Z",
+      "mergedAt": null,
+      "additions": 2510,
+      "deletions": 8,
+      "changedFiles": 28
+    },
+    {
+      "number": 48368,
+      "title": "Agents: add recommend-reset escalation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T16:52:04Z",
+      "mergedAt": null,
+      "additions": 2297,
+      "deletions": 8,
+      "changedFiles": 26
+    },
+    {
+      "number": 48350,
+      "title": "Agents: add post-compaction validator",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T16:30:31Z",
+      "mergedAt": null,
+      "additions": 1864,
+      "deletions": 6,
+      "changedFiles": 22
+    },
+    {
+      "number": 48335,
+      "title": "Agents: hook guard into compaction instructions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T16:05:21Z",
+      "mergedAt": null,
+      "additions": 1401,
+      "deletions": 6,
+      "changedFiles": 20
+    },
+    {
+      "number": 48312,
+      "title": "Agents: add compaction guard scorer",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T15:33:15Z",
+      "mergedAt": null,
+      "additions": 908,
+      "deletions": 3,
+      "changedFiles": 13
+    },
+    {
+      "number": 48293,
+      "title": "Agents: add transcript tail detector",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T15:04:08Z",
+      "mergedAt": null,
+      "additions": 564,
+      "deletions": 3,
+      "changedFiles": 11
+    },
+    {
+      "number": 48278,
+      "title": "Config: scaffold compaction loop guard settings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T14:32:53Z",
+      "mergedAt": null,
+      "additions": 164,
+      "deletions": 3,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 48238,
+      "title": "Add loop-aware compaction guard for saturated sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T13:38:53Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 8,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ],
+  "recentCommitDays": {}
+}

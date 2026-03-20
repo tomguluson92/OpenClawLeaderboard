@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7056?v=4",
   "githubUrl": "https://github.com/kesor",
   "score": {
-    "score": 143.58,
-    "prScore": 143.08,
+    "score": 150.19,
+    "prScore": 149.69,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -15,9 +15,9 @@
     "commits": 4,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1071,
-    "prDeletions": 75,
-    "prChangedFiles": 15,
+    "prAdditions": 1844,
+    "prDeletions": 179,
+    "prChangedFiles": 22,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,10 +31,10 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
@@ -54,14 +54,14 @@
   "recentPRs": [
     {
       "number": 41496,
-      "title": "Plugin hooks for AI provider capabilities - TTS/ASR/Embedding/Image/Video/...",
+      "title": "feat(plugins): add unified provider system with capabilities",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-09T22:46:51Z",
       "mergedAt": null,
-      "additions": 1071,
-      "deletions": 75,
-      "changedFiles": 15
+      "additions": 1844,
+      "deletions": 179,
+      "changedFiles": 22
     }
   ],
   "recentIssues": [],

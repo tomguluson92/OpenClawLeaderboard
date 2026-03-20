@@ -49,8 +49,8 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-07T14:52:07Z",
-  "lastContribution": "2026-03-08T19:38:15Z",
+  "firstContribution": "2026-03-07T15:42:38Z",
+  "lastContribution": "2026-03-15T17:47:13Z",
   "recentPRs": [
     {
       "number": 38970,
@@ -77,17 +77,17 @@
   ],
   "recentIssues": [
     {
+      "number": 47535,
+      "title": "Discord WebSocket stale-socket restart loop on v2026.3.13 — multi-account setup, VPS/Linux",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T17:44:39Z",
+      "closedAt": null
+    },
+    {
       "number": 39535,
       "title": "acpx plugin permissionMode config rejected by gateway validator",
       "state": "OPEN",
       "createdAt": "2026-03-08T06:09:43Z",
-      "closedAt": null
-    },
-    {
-      "number": 38940,
-      "title": "Discord components v2: component registry fix #30789 closed without explanation — what's the path forward?",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T14:52:07Z",
       "closedAt": null
     }
   ],
@@ -95,6 +95,11 @@
   "recentActivityDays": {
     "2026-03-07": {
       "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
       "issues": 1,
       "reviews": 0
     },

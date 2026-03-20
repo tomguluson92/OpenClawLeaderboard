@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2377291?u=80ee8b6585c1b90368535482293203fbe3e9d20a&v=4",
   "githubUrl": "https://github.com/andyliu",
   "score": {
-    "score": 143.27,
-    "prScore": 123.77,
+    "score": 158.15,
+    "prScore": 137.15,
     "issueScore": 0,
     "reviewScore": 12,
-    "commentScore": 7.5
+    "commentScore": 9
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 8,
     "prsMerged": 1,
-    "prAdditions": 634,
-    "prDeletions": 83,
-    "prChangedFiles": 32,
-    "prMergeRate": 14,
+    "prAdditions": 820,
+    "prDeletions": 77,
+    "prChangedFiles": 34,
+    "prMergeRate": 13,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 15,
+    "comments": 18,
     "commitAdditions": 47,
     "commitDeletions": 4,
     "commitChangedFiles": 4
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 2,
       "issues": 0,
-      "reviews": 4,
-      "comments": 15,
-      "commitAdditions": 47,
-      "commitDeletions": 4,
-      "commits": 1
+      "reviews": 0,
+      "comments": 3,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 8,
       "issues": 0,
       "reviews": 4,
-      "comments": 15,
+      "comments": 18,
       "commitAdditions": 47,
       "commitDeletions": 4,
       "commits": 1
     }
   },
   "firstContribution": "2026-03-10T10:31:04Z",
-  "lastContribution": "2026-03-15T04:20:39Z",
+  "lastContribution": "2026-03-18T07:27:27Z",
   "recentPRs": [
+    {
+      "number": 49569,
+      "title": "fix(telegram): retry setMyCommands on 429 rate-limit with retry_after backoff",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T07:27:27Z",
+      "mergedAt": null,
+      "additions": 166,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 46855,
       "title": "fix(tts): select a Chinese Edge voice for Han text",
@@ -59,8 +70,8 @@
       "merged": false,
       "createdAt": "2026-03-15T04:20:39Z",
       "mergedAt": null,
-      "additions": 97,
-      "deletions": 10,
+      "additions": 139,
+      "deletions": 6,
       "changedFiles": 2
     },
     {
@@ -125,8 +136,8 @@
       "merged": false,
       "createdAt": "2026-03-10T10:31:04Z",
       "mergedAt": null,
-      "additions": 96,
-      "deletions": 9,
+      "additions": 74,
+      "deletions": 6,
       "changedFiles": 2
     }
   ],
@@ -154,6 +165,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 1,
       "issues": 0,

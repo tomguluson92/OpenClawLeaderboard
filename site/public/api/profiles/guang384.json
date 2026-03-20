@@ -3,54 +3,54 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1582168?u=657d1f9f6e358c8c8ee2b9dfb8368726f7d26007&v=4",
   "githubUrl": "https://github.com/guang384",
   "score": {
-    "score": 253.28,
-    "prScore": 233.28,
+    "score": 158.12,
+    "prScore": 149.62,
     "issueScore": 0,
-    "reviewScore": 12,
-    "commentScore": 8
+    "reviewScore": 0,
+    "commentScore": 8.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 14,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 7327,
-    "prDeletions": 930,
-    "prChangedFiles": 189,
+    "prAdditions": 579,
+    "prDeletions": 42,
+    "prChangedFiles": 34,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 4,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 16,
+    "comments": 17,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 10,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 14,
+      "prs": 12,
       "issues": 0,
-      "reviews": 4,
-      "comments": 16,
+      "reviews": 0,
+      "comments": 17,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-05T21:54:14Z",
-  "lastContribution": "2026-03-13T12:45:49Z",
+  "firstContribution": "2026-03-07T04:21:26Z",
+  "lastContribution": "2026-03-17T00:40:47Z",
   "recentPRs": [
     {
       "number": 44105,
@@ -70,9 +70,9 @@
       "merged": false,
       "createdAt": "2026-03-12T12:27:23Z",
       "mergedAt": null,
-      "additions": 6,
+      "additions": 85,
       "deletions": 1,
-      "changedFiles": 1
+      "changedFiles": 2
     },
     {
       "number": 44007,
@@ -92,9 +92,9 @@
       "merged": false,
       "createdAt": "2026-03-12T11:26:55Z",
       "mergedAt": null,
-      "additions": 2,
+      "additions": 35,
       "deletions": 0,
-      "changedFiles": 1
+      "changedFiles": 2
     },
     {
       "number": 43983,
@@ -103,9 +103,9 @@
       "merged": false,
       "createdAt": "2026-03-12T11:24:24Z",
       "mergedAt": null,
-      "additions": 13,
-      "deletions": 2,
-      "changedFiles": 1
+      "additions": 73,
+      "deletions": 8,
+      "changedFiles": 3
     },
     {
       "number": 43965,
@@ -183,53 +183,10 @@
       "additions": 134,
       "deletions": 7,
       "changedFiles": 10
-    },
-    {
-      "number": 37109,
-      "title": "fix: handle symlinked plugins + escape wildcard regex + skip checks",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T03:36:15Z",
-      "mergedAt": null,
-      "additions": 131,
-      "deletions": 7,
-      "changedFiles": 10
-    },
-    {
-      "number": 36761,
-      "title": "fix(plugins): handle symlinked plugin directories",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-05T21:54:14Z",
-      "mergedAt": null,
-      "additions": 6789,
-      "deletions": 887,
-      "changedFiles": 149
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 37109,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T04:29:51Z"
-    },
-    {
-      "prNumber": 37109,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T03:51:42Z"
-    },
-    {
-      "prNumber": 37109,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T03:25:20Z"
-    },
-    {
-      "prNumber": 36761,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T01:46:17Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 8,
@@ -239,24 +196,12 @@
     "2026-03-07": {
       "prs": 4,
       "issues": 0,
-      "reviews": 3
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
-    "Discussion",
-    "Large-Scale Changes"
+    "Discussion"
   ],
   "achievements": [
     {

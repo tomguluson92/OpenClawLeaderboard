@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/266158870?v=4",
   "githubUrl": "https://github.com/sallyjones6",
   "score": {
-    "score": 10.41,
-    "prScore": 9.91,
+    "score": 25.27,
+    "prScore": 24.27,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 1
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 127,
-    "prDeletions": 0,
-    "prChangedFiles": 2,
+    "prAdditions": 292,
+    "prDeletions": 7,
+    "prChangedFiles": 6,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
+    "comments": 2,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
+      "comments": 2,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-14T04:17:43Z",
-  "lastContribution": "2026-03-14T22:57:37Z",
+  "lastContribution": "2026-03-20T04:48:40Z",
   "recentPRs": [
+    {
+      "number": 50843,
+      "title": "fix: use globalThis singletons for interactive handler map",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T04:37:14Z",
+      "mergedAt": null,
+      "additions": 165,
+      "deletions": 7,
+      "changedFiles": 4
+    },
     {
       "number": 45728,
       "title": "Fix Ollama provider to stream tokens incrementally instead of buffering entire response",
@@ -67,6 +78,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,

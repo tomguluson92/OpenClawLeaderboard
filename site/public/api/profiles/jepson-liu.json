@@ -3,59 +3,114 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/20548376?u=0cdd40748a26b5a87b016d9564304ba35f79eb6b&v=4",
   "githubUrl": "https://github.com/jepson-liu",
   "score": {
-    "score": 49.07,
-    "prScore": 49.07,
+    "score": 119.69,
+    "prScore": 111.19,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 6,
+    "commentScore": 2.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 9,
     "prsMerged": 0,
-    "prAdditions": 130,
-    "prDeletions": 91,
-    "prChangedFiles": 13,
+    "prAdditions": 704,
+    "prDeletions": 102,
+    "prChangedFiles": 24,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 5,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 5,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "reviews": 2,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 9,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
+      "reviews": 2,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-11T12:58:42Z",
-  "lastContribution": "2026-03-12T09:30:22Z",
+  "lastContribution": "2026-03-20T02:19:24Z",
   "recentPRs": [
+    {
+      "number": 50758,
+      "title": "fix(ui): preserve openrouter model prefix in chat picker",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T02:19:24Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 50729,
+      "title": "fix(ollama): deserialize tool call args for Ollama API #50713",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T01:07:37Z",
+      "mergedAt": null,
+      "additions": 137,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 50307,
+      "title": "fix(cron): clear stale runningAtMs after timeout #50280",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T07:36:00Z",
+      "mergedAt": null,
+      "additions": 153,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 50104,
+      "title": "fix(ui): Preserve small cached token costs display precision (#50083)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T01:03:23Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 49713,
+      "title": "Agents: wait for rate-limit retry lifecycle before ending embedded run",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T09:44:29Z",
+      "mergedAt": null,
+      "additions": 165,
+      "deletions": 0,
+      "changedFiles": 2
+    },
     {
       "number": 43902,
       "title": "fix: restore final response delivery when Telegram reasoning mode is \"on\"",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T09:30:22Z",
       "mergedAt": null,
@@ -77,7 +132,7 @@
     {
       "number": 43635,
       "title": "# fix(export-html): Restore template placeholders to fix session HTML export failure",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T03:32:05Z",
       "mergedAt": null,
@@ -88,7 +143,7 @@
     {
       "number": 43184,
       "title": "fix(usage): record Dashscope API usage (#42958)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T12:58:42Z",
       "mergedAt": null,
@@ -98,8 +153,34 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 50104,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T02:35:55Z"
+    },
+    {
+      "prNumber": 50104,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T01:42:54Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 3,
       "issues": 0,
@@ -112,7 +193,9 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
   ],
   "achievements": [],
   "recentCommitDays": {}

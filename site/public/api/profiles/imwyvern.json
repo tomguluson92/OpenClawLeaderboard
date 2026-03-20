@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1765672?u=d0cea991ec834895b6800055018093e425f6d153&v=4",
   "githubUrl": "https://github.com/imwyvern",
   "score": {
-    "score": 205.91,
-    "prScore": 164.41,
-    "issueScore": 25,
+    "score": 238.22,
+    "prScore": 221.72,
+    "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 13.5
   },
@@ -13,13 +13,13 @@
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 10,
+    "prs": 14,
     "prsMerged": 0,
-    "prAdditions": 3167,
-    "prDeletions": 27,
-    "prChangedFiles": 39,
+    "prAdditions": 3664,
+    "prDeletions": 154,
+    "prChangedFiles": 55,
     "prMergeRate": 0,
-    "issues": 5,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
@@ -31,17 +31,17 @@
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 4,
       "issues": 0,
-      "reviews": 1,
-      "comments": 25,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 10,
-      "issues": 5,
+      "prs": 14,
+      "issues": 0,
       "reviews": 1,
       "comments": 27,
       "commitAdditions": 0,
@@ -49,9 +49,53 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-04T02:48:41Z",
-  "lastContribution": "2026-03-11T15:32:46Z",
+  "firstContribution": "2026-03-07T11:21:04Z",
+  "lastContribution": "2026-03-16T10:46:33Z",
   "recentPRs": [
+    {
+      "number": 48144,
+      "title": "fix(ui): show current context tokens instead of cumulative in Control UI",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T10:46:33Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 48098,
+      "title": "fix(ui): show current context tokens instead of cumulative in Control UI",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T09:45:50Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 48097,
+      "title": "fix(acp): resume yielded session on ACP runtime errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T09:45:13Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 48095,
+      "title": "fix(gateway): make handshake timeout configurable and restore 10s default",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T09:44:40Z",
+      "mergedAt": null,
+      "additions": 93,
+      "deletions": 10,
+      "changedFiles": 2
+    },
     {
       "number": 42669,
       "title": "feat(skills): add skills.priority config for prompt ordering",
@@ -70,14 +114,14 @@
       "merged": false,
       "createdAt": "2026-03-11T01:36:20Z",
       "mergedAt": null,
-      "additions": 102,
+      "additions": 104,
       "deletions": 3,
       "changedFiles": 2
     },
     {
       "number": 42265,
       "title": "fix(agents): show fuzzy match suggestions when edit oldText not found",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T15:05:11Z",
       "mergedAt": null,
@@ -88,13 +132,13 @@
     {
       "number": 41939,
       "title": "fix(telegram): isolate DM sessions from agent:main:main",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T08:18:39Z",
       "mergedAt": null,
-      "additions": 263,
-      "deletions": 4,
-      "changedFiles": 4
+      "additions": 348,
+      "deletions": 96,
+      "changedFiles": 8
     },
     {
       "number": 40700,
@@ -103,9 +147,9 @@
       "merged": false,
       "createdAt": "2026-03-09T06:46:00Z",
       "mergedAt": null,
-      "additions": 270,
-      "deletions": 1,
-      "changedFiles": 2
+      "additions": 410,
+      "deletions": 9,
+      "changedFiles": 3
     },
     {
       "number": 40677,
@@ -125,8 +169,8 @@
       "merged": false,
       "createdAt": "2026-03-09T04:17:12Z",
       "mergedAt": null,
-      "additions": 522,
-      "deletions": 7,
+      "additions": 525,
+      "deletions": 11,
       "changedFiles": 5
     },
     {
@@ -147,8 +191,8 @@
       "merged": false,
       "createdAt": "2026-03-07T11:26:03Z",
       "mergedAt": null,
-      "additions": 714,
-      "deletions": 2,
+      "additions": 712,
+      "deletions": 4,
       "changedFiles": 12
     },
     {
@@ -163,43 +207,7 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38792,
-      "title": "Agent loop silently stalls: no user response after API error + long tool-call chains",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T11:13:24Z",
-      "closedAt": null
-    },
-    {
-      "number": 38791,
-      "title": "Cron: isolated job delivery defaults to 'none' instead of 'announce'",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T11:12:02Z",
-      "closedAt": null
-    },
-    {
-      "number": 33828,
-      "title": "[Feature]: Allow heartbeat results to push notifications to configured channels",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T02:57:18Z",
-      "closedAt": null
-    },
-    {
-      "number": 33827,
-      "title": "[Bug]: Sub-agent timeout returns minimal error — no partial results or diagnostic info",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T02:57:15Z",
-      "closedAt": null
-    },
-    {
-      "number": 33815,
-      "title": "[Feature]: Sub-agent completion push notification to originating channel",
-      "state": "OPEN",
-      "createdAt": "2026-03-04T02:48:41Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 40574,
@@ -208,6 +216,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 2,
       "issues": 0,
@@ -225,19 +238,13 @@
     },
     "2026-03-07": {
       "prs": 2,
-      "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-04": {
-      "prs": 0,
-      "issues": 3,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
@@ -247,19 +254,9 @@
       "description": "10+ pull requests"
     },
     {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    },
-    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
   ],
   "recentCommitDays": {}

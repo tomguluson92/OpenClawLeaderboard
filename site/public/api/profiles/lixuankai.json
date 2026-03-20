@@ -1,0 +1,168 @@
+{
+  "username": "lixuankai",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8060486?u=949cc53a2b9450449f011f9d0694120bb117521e&v=4",
+  "githubUrl": "https://github.com/lixuankai",
+  "score": {
+    "score": 168.12,
+    "prScore": 137.12,
+    "issueScore": 5,
+    "reviewScore": 24,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 2,
+    "prAdditions": 1200,
+    "prDeletions": 30,
+    "prChangedFiles": 37,
+    "prMergeRate": 100,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 8,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4,
+    "commitAdditions": 1200,
+    "commitDeletions": 30,
+    "commitChangedFiles": 37
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 5,
+      "comments": 2,
+      "commitAdditions": 1200,
+      "commitDeletions": 30,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 8,
+      "comments": 4,
+      "commitAdditions": 1200,
+      "commitDeletions": 30,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-12T13:32:09Z",
+  "lastContribution": "2026-03-16T15:51:47Z",
+  "recentPRs": [
+    {
+      "number": 48299,
+      "title": "feat(android): support android node sms.search",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-16T15:14:29Z",
+      "mergedAt": "2026-03-19T03:22:16Z",
+      "additions": 640,
+      "deletions": 28,
+      "changedFiles": 19
+    },
+    {
+      "number": 44073,
+      "title": "fix(android): support android node  `calllog.search`",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-12T13:32:09Z",
+      "mergedAt": "2026-03-15T09:24:32Z",
+      "additions": 560,
+      "deletions": 2,
+      "changedFiles": 18
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 45854,
+      "title": "[Feature]: Android Node Tools Enhancement",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T07:43:26Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 48299,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T15:51:47Z"
+    },
+    {
+      "prNumber": 48299,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T15:49:11Z"
+    },
+    {
+      "prNumber": 48299,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T15:48:53Z"
+    },
+    {
+      "prNumber": 48299,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T15:31:48Z"
+    },
+    {
+      "prNumber": 44073,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-13T11:36:44Z"
+    },
+    {
+      "prNumber": 44073,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T14:12:58Z"
+    },
+    {
+      "prNumber": 44073,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T14:12:49Z"
+    },
+    {
+      "prNumber": 44073,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T14:02:21Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-12": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ],
+  "recentCommitDays": {
+    "2026-03-19": 1,
+    "2026-03-15": 1
+  }
+}

@@ -3,65 +3,98 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3804139?u=acfe568ad8bc47eb2cac5effbc240d662d05f14a&v=4",
   "githubUrl": "https://github.com/NormallyGaussian",
   "score": {
-    "score": 67.51,
-    "prScore": 44.51,
+    "score": 208.71,
+    "prScore": 154.71,
     "issueScore": 5,
-    "reviewScore": 18,
-    "commentScore": 0
+    "reviewScore": 45,
+    "commentScore": 4
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 935,
-    "prDeletions": 629,
-    "prChangedFiles": 17,
+    "prAdditions": 4494,
+    "prDeletions": 168,
+    "prChangedFiles": 116,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 15,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
+    "comments": 8,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 6,
-      "comments": 0,
+      "prs": 3,
+      "issues": 0,
+      "reviews": 9,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 4,
       "issues": 1,
-      "reviews": 6,
-      "comments": 0,
+      "reviews": 15,
+      "comments": 8,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-10T01:40:52Z",
-  "lastContribution": "2026-03-11T18:09:05Z",
+  "lastContribution": "2026-03-19T16:12:04Z",
   "recentPRs": [
+    {
+      "number": 50503,
+      "title": "feat(web): add Parallel as web search and fetch extract provider",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-19T15:51:37Z",
+      "mergedAt": null,
+      "additions": 1149,
+      "deletions": 43,
+      "changedFiles": 30
+    },
+    {
+      "number": 50495,
+      "title": "feat(web): add Parallel as web search and fetch extract provider",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-19T15:34:07Z",
+      "mergedAt": null,
+      "additions": 1149,
+      "deletions": 43,
+      "changedFiles": 30
+    },
+    {
+      "number": 50033,
+      "title": "feat(web): add Parallel as web search and fetch extract provider",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T21:39:24Z",
+      "mergedAt": null,
+      "additions": 1094,
+      "deletions": 41,
+      "changedFiles": 28
+    },
     {
       "number": 41596,
       "title": "feat(web): add Parallel as search and fetch provider",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T01:40:52Z",
       "mergedAt": null,
-      "additions": 935,
-      "deletions": 629,
-      "changedFiles": 17
+      "additions": 1102,
+      "deletions": 41,
+      "changedFiles": 28
     }
   ],
   "recentIssues": [
@@ -74,6 +107,51 @@
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 50503,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T16:06:46Z"
+    },
+    {
+      "prNumber": 50503,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T16:02:32Z"
+    },
+    {
+      "prNumber": 50033,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T15:14:25Z"
+    },
+    {
+      "prNumber": 50033,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T15:14:23Z"
+    },
+    {
+      "prNumber": 50033,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T14:16:54Z"
+    },
+    {
+      "prNumber": 50033,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T13:47:16Z"
+    },
+    {
+      "prNumber": 50033,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-19T13:47:15Z"
+    },
+    {
+      "prNumber": 50033,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T21:48:41Z"
+    },
+    {
+      "prNumber": 50033,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T21:48:34Z"
+    },
     {
       "prNumber": 41596,
       "state": "COMMENTED",
@@ -106,6 +184,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-19": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
@@ -120,9 +208,15 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting"
+    "Issue Reporting",
+    "Discussion"
   ],
   "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
     {
       "id": "well-rounded",
       "label": "Well Rounded",

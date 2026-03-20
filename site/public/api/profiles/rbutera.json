@@ -3,55 +3,88 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6047293?v=4",
   "githubUrl": "https://github.com/rbutera",
   "score": {
-    "score": 233.96,
-    "prScore": 174.46,
-    "issueScore": 34,
-    "reviewScore": 15,
-    "commentScore": 10.5
+    "score": 273.82,
+    "prScore": 197.82,
+    "issueScore": 44,
+    "reviewScore": 18,
+    "commentScore": 14
   },
   "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 2,
-    "prs": 6,
+    "prs": 9,
     "prsMerged": 2,
-    "prAdditions": 1873,
-    "prDeletions": 55,
-    "prChangedFiles": 45,
-    "prMergeRate": 33,
-    "issues": 5,
+    "prAdditions": 2224,
+    "prDeletions": 106,
+    "prChangedFiles": 53,
+    "prMergeRate": 22,
+    "issues": 7,
     "issuesClosed": 3,
-    "reviews": 5,
+    "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 21,
+    "comments": 28,
     "commitAdditions": 399,
     "commitDeletions": 26,
     "commitChangedFiles": 16
   },
   "period": {
     "weekly": {
-      "prs": 6,
-      "issues": 5,
-      "reviews": 5,
-      "comments": 21,
-      "commitAdditions": 399,
-      "commitDeletions": 26,
-      "commits": 2
+      "prs": 4,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 9,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
     },
     "monthly": {
-      "prs": 6,
-      "issues": 5,
-      "reviews": 5,
-      "comments": 21,
+      "prs": 9,
+      "issues": 7,
+      "reviews": 6,
+      "comments": 28,
       "commitAdditions": 399,
       "commitDeletions": 26,
       "commits": 2
     }
   },
   "firstContribution": "2026-03-08T12:19:07Z",
-  "lastContribution": "2026-03-13T20:28:38Z",
+  "lastContribution": "2026-03-19T13:57:02Z",
   "recentPRs": [
+    {
+      "number": 50024,
+      "title": "Issue #43318: [Bug]: sessions_send hardcodes INTERNAL_MESSAGE_CHANNEL, causing reply routing to flip from external channel to webchat",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T21:09:01Z",
+      "mergedAt": null,
+      "additions": 105,
+      "deletions": 10,
+      "changedFiles": 4
+    },
+    {
+      "number": 49745,
+      "title": "fix(plugin-loader): disable tryNative to fix channel runtime crash on Node 22.6+",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T10:57:57Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 48559,
+      "title": "fix(sessions-send): preserve external channel routing for inter-session messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T23:36:47Z",
+      "mergedAt": null,
+      "additions": 125,
+      "deletions": 31,
+      "changedFiles": 1
+    },
     {
       "number": 45424,
       "title": "fix(memory-flush): include outputTokens in flush threshold estimate",
@@ -66,12 +99,12 @@
     {
       "number": 43353,
       "title": "fix(sessions): thread agentChannel through sessions_send instead of hardcoding INTERNAL_MESSAGE_CHANNEL",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T16:46:05Z",
       "mergedAt": null,
-      "additions": 1228,
-      "deletions": 24,
+      "additions": 1333,
+      "deletions": 27,
       "changedFiles": 22
     },
     {
@@ -121,6 +154,20 @@
   ],
   "recentIssues": [
     {
+      "number": 49744,
+      "title": "Plugin loader: channel runtimes crash on Node 22.6+ with \"Cannot find module '…manager.js'\"",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T10:55:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 48361,
+      "title": "[Bug]: Agent goes completely silent for 30+ minutes after any provider error — no reply, no error message, no fallback (reproduced on Anthropic AND OpenAI)",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T16:44:47Z",
+      "closedAt": null
+    },
+    {
       "number": 44302,
       "title": "[Feature]: Optional webchat-to-external-channel mirroring",
       "state": "OPEN",
@@ -158,6 +205,11 @@
   ],
   "recentReviews": [
     {
+      "prNumber": 49745,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T11:13:01Z"
+    },
+    {
       "prNumber": 43353,
       "state": "COMMENTED",
       "createdAt": "2026-03-11T18:43:41Z"
@@ -184,6 +236,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 1
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,

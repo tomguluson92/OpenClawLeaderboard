@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/92253590?v=4",
   "githubUrl": "https://github.com/ImLukeF",
   "score": {
-    "score": 290.11,
-    "prScore": 280.11,
+    "score": 303.37,
+    "prScore": 292.37,
     "issueScore": 0,
     "reviewScore": 9,
-    "commentScore": 1
+    "commentScore": 2
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 9,
-    "prs": 9,
+    "commits": 10,
+    "prs": 10,
     "prsMerged": 5,
-    "prAdditions": 26612,
-    "prDeletions": 6720,
-    "prChangedFiles": 662,
-    "prMergeRate": 56,
+    "prAdditions": 27111,
+    "prDeletions": 6798,
+    "prChangedFiles": 679,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 1872,
-    "commitDeletions": 180,
-    "commitChangedFiles": 71
+    "comments": 4,
+    "commitAdditions": 1904,
+    "commitDeletions": 182,
+    "commitChangedFiles": 73
   },
   "period": {
     "weekly": {
-      "prs": 9,
+      "prs": 3,
       "issues": 0,
-      "reviews": 3,
-      "comments": 2,
-      "commitAdditions": 1872,
-      "commitDeletions": 180,
-      "commits": 9
+      "reviews": 1,
+      "comments": 3,
+      "commitAdditions": 109,
+      "commitDeletions": 20,
+      "commits": 5
     },
     "monthly": {
-      "prs": 9,
+      "prs": 10,
       "issues": 0,
       "reviews": 3,
-      "comments": 2,
-      "commitAdditions": 1872,
-      "commitDeletions": 180,
-      "commits": 9
+      "comments": 4,
+      "commitAdditions": 1904,
+      "commitDeletions": 182,
+      "commits": 10
     }
   },
   "firstContribution": "2026-03-08T05:33:52Z",
-  "lastContribution": "2026-03-14T02:26:34Z",
+  "lastContribution": "2026-03-17T10:00:03Z",
   "recentPRs": [
+    {
+      "number": 47263,
+      "title": "Improve macOS onboarding UX and gateway setup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T11:56:16Z",
+      "mergedAt": null,
+      "additions": 499,
+      "deletions": 78,
+      "changedFiles": 17
+    },
     {
       "number": 45640,
       "title": "fix(macos): align minimum Node.js version with runtime guard (22.16.0)",
@@ -171,6 +182,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
@@ -211,6 +227,11 @@
   ],
   "achievements": [
     {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
       "id": "merger",
       "label": "Merger",
       "description": "5+ merged PRs"
@@ -222,6 +243,7 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-16": 1,
     "2026-03-14": 4,
     "2026-03-12": 2,
     "2026-03-11": 3

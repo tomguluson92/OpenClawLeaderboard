@@ -3,55 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5853428?v=4",
   "githubUrl": "https://github.com/BruceMacD",
   "score": {
-    "score": 201.78,
-    "prScore": 192.78,
+    "score": 229.33,
+    "prScore": 207.83,
     "issueScore": 0,
-    "reviewScore": 9,
-    "commentScore": 0
+    "reviewScore": 21,
+    "commentScore": 0.5
   },
   "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
-    "commits": 2,
-    "prs": 2,
-    "prsMerged": 1,
-    "prAdditions": 51792,
-    "prDeletions": 9943,
-    "prChangedFiles": 838,
-    "prMergeRate": 50,
+    "commits": 3,
+    "prs": 3,
+    "prsMerged": 2,
+    "prAdditions": 51954,
+    "prDeletions": 9975,
+    "prChangedFiles": 846,
+    "prMergeRate": 67,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 3,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 1245,
-    "commitDeletions": 70,
-    "commitChangedFiles": 21
+    "comments": 1,
+    "commitAdditions": 1267,
+    "commitDeletions": 93,
+    "commitChangedFiles": 25
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
-      "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 1245,
-      "commitDeletions": 70,
-      "commits": 2
+      "reviews": 4,
+      "comments": 1,
+      "commitAdditions": 22,
+      "commitDeletions": 23,
+      "commits": 1
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
-      "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 1245,
-      "commitDeletions": 70,
-      "commits": 2
+      "reviews": 7,
+      "comments": 1,
+      "commitAdditions": 1267,
+      "commitDeletions": 93,
+      "commits": 3
     }
   },
   "firstContribution": "2026-03-09T23:33:13Z",
-  "lastContribution": "2026-03-11T21:12:05Z",
+  "lastContribution": "2026-03-18T20:40:34Z",
   "recentPRs": [
+    {
+      "number": 49249,
+      "title": "fix(ollama): don't auto-pull glm-4.7-flash during Local mode onboarding",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T21:26:24Z",
+      "mergedAt": "2026-03-19T01:02:45Z",
+      "additions": 162,
+      "deletions": 32,
+      "changedFiles": 8
+    },
     {
       "number": 43473,
       "title": "docs(ollama): update onboarding flow",
@@ -78,6 +89,26 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 49249,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T20:40:34Z"
+    },
+    {
+      "prNumber": 49249,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T20:39:21Z"
+    },
+    {
+      "prNumber": 49249,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T22:53:46Z"
+    },
+    {
+      "prNumber": 49249,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T22:09:43Z"
+    },
+    {
       "prNumber": 41529,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T21:44:56Z"
@@ -94,6 +125,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -104,6 +140,11 @@
       "issues": 0,
       "reviews": 0
     },
+    "2026-03-18": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-10": {
       "prs": 0,
       "issues": 0,
@@ -113,6 +154,7 @@
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
   ],
@@ -129,6 +171,7 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-19": 1,
     "2026-03-13": 1,
     "2026-03-11": 1
   }

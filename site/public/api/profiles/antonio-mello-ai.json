@@ -1,0 +1,120 @@
+{
+  "username": "antonio-mello-ai",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/186876424?u=d5cdf0f13612d554869897e67d844ee236daa541&v=4",
+  "githubUrl": "https://github.com/antonio-mello-ai",
+  "score": {
+    "score": 82.95,
+    "prScore": 71.95,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 2181,
+    "prDeletions": 69,
+    "prChangedFiles": 22,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-17T17:01:07Z",
+  "lastContribution": "2026-03-17T23:33:14Z",
+  "recentPRs": [
+    {
+      "number": 49181,
+      "title": "feat: add `openclaw usage` CLI command for cost & usage analytics",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T18:10:44Z",
+      "mergedAt": null,
+      "additions": 1412,
+      "deletions": 32,
+      "changedFiles": 10
+    },
+    {
+      "number": 49174,
+      "title": "fix: enforce per-session isolation for cron job visibility and mutations",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T17:52:30Z",
+      "mergedAt": null,
+      "additions": 677,
+      "deletions": 35,
+      "changedFiles": 10
+    },
+    {
+      "number": 49153,
+      "title": "fix: enable token usage tracking for vLLM and SGLang providers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T17:01:07Z",
+      "mergedAt": null,
+      "additions": 92,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 49183,
+      "title": "RFC: Per-session tool policies — bridging operator scopes and agent tool access",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T18:22:03Z",
+      "closedAt": null
+    },
+    {
+      "number": 49175,
+      "title": "cron.runs with scope=all leaks job names across sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T17:52:59Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [],
+  "recentCommitDays": {}
+}

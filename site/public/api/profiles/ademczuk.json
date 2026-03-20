@@ -3,55 +3,121 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5212682?v=4",
   "githubUrl": "https://github.com/ademczuk",
   "score": {
-    "score": 1035.34,
-    "prScore": 641.34,
+    "score": 1093.32,
+    "prScore": 686.32,
     "issueScore": 0,
-    "reviewScore": 339,
-    "commentScore": 55
+    "reviewScore": 351,
+    "commentScore": 56
   },
   "tier": "elite",
   "characterClass": "Reviewer",
   "stats": {
-    "commits": 17,
-    "prs": 43,
-    "prsMerged": 14,
-    "prAdditions": 6341,
-    "prDeletions": 1494966,
-    "prChangedFiles": 8224,
-    "prMergeRate": 33,
+    "commits": 20,
+    "prs": 46,
+    "prsMerged": 17,
+    "prAdditions": 4151,
+    "prDeletions": 1494962,
+    "prChangedFiles": 8194,
+    "prMergeRate": 37,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 113,
-    "reviewsApproved": 0,
-    "reviewsChangesRequested": 0,
-    "comments": 110,
-    "commitAdditions": 1089,
-    "commitDeletions": 121,
-    "commitChangedFiles": 57
+    "reviews": 114,
+    "reviewsApproved": 6,
+    "reviewsChangesRequested": 2,
+    "comments": 112,
+    "commitAdditions": 1188,
+    "commitDeletions": 126,
+    "commitChangedFiles": 68
   },
   "period": {
     "weekly": {
-      "prs": 21,
+      "prs": 11,
       "issues": 0,
-      "reviews": 62,
-      "comments": 53,
-      "commitAdditions": 539,
-      "commitDeletions": 80,
-      "commits": 13
+      "reviews": 21,
+      "comments": 25,
+      "commitAdditions": 310,
+      "commitDeletions": 73,
+      "commits": 12
     },
     "monthly": {
-      "prs": 43,
+      "prs": 46,
       "issues": 0,
-      "reviews": 113,
-      "comments": 110,
-      "commitAdditions": 1089,
-      "commitDeletions": 121,
-      "commits": 17
+      "reviews": 114,
+      "comments": 112,
+      "commitAdditions": 1188,
+      "commitDeletions": 126,
+      "commits": 20
     }
   },
-  "firstContribution": "2026-03-05T12:53:20Z",
-  "lastContribution": "2026-03-14T23:42:12Z",
+  "firstContribution": "2026-03-06T17:36:36Z",
+  "lastContribution": "2026-03-19T06:46:28Z",
   "recentPRs": [
+    {
+      "number": 49849,
+      "title": "fix(config): change nativeSkills default from \"auto\" to false",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-18T14:36:27Z",
+      "mergedAt": null,
+      "additions": 681,
+      "deletions": 101,
+      "changedFiles": 8
+    },
+    {
+      "number": 49702,
+      "title": "fix(security): block build-tool and glibc env injection vectors in host exec sandbox",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-18T09:24:41Z",
+      "mergedAt": "2026-03-18T12:11:01Z",
+      "additions": 32,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 49025,
+      "title": "fix(security): block JVM, Python, and .NET env injection vectors in host exec sandbox",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-17T13:18:06Z",
+      "mergedAt": "2026-03-17T14:37:55Z",
+      "additions": 23,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 49022,
+      "title": "feat(tui): inline image rendering via pi-tui Image component",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T13:15:54Z",
+      "mergedAt": null,
+      "additions": 627,
+      "deletions": 12,
+      "changedFiles": 6
+    },
+    {
+      "number": 47148,
+      "title": "fix(gateway): skip Control UI pairing when auth.mode=none (closes #42931)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-15T09:37:28Z",
+      "mergedAt": "2026-03-15T12:03:39Z",
+      "additions": 44,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 47091,
+      "title": "fix(gateway): skip Control UI pairing when auth.mode=none (closes #42931)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-15T08:30:30Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 5,
+      "changedFiles": 3
+    },
     {
       "number": 46658,
       "title": "fix(gateway): remove re-introduced auth.mode=none pairing bypass",
@@ -205,76 +271,100 @@
       "additions": 192,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 40724,
-      "title": "fix(update): surface EBUSY recovery hint when gateway locks install dir on Windows",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T07:18:07Z",
-      "mergedAt": null,
-      "additions": 25,
-      "deletions": 0,
-      "changedFiles": 3
-    },
-    {
-      "number": 40409,
-      "title": "fix(agents): check billing errors before context overflow heuristics",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T00:53:05Z",
-      "mergedAt": "2026-03-11T18:08:56Z",
-      "additions": 101,
-      "deletions": 7,
-      "changedFiles": 5
-    },
-    {
-      "number": 40395,
-      "title": "fix(discord): log dropped bot messages at debug level with config hint",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T00:29:51Z",
-      "mergedAt": null,
-      "additions": 39,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 40391,
-      "title": "fix(discord): graceful fallback when ffprobe is not installed",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T00:26:04Z",
-      "mergedAt": null,
-      "additions": 42,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 40341,
-      "title": "fix(imessage): stop sending <media:image> placeholder as visible text",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T23:08:22Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 11,
-      "changedFiles": 3
-    },
-    {
-      "number": 40339,
-      "title": "fix(tui): improve colour contrast for light-background terminals",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T23:05:53Z",
-      "mergedAt": null,
-      "additions": 381,
-      "deletions": 5,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 49702,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T11:46:42Z"
+    },
+    {
+      "prNumber": 49702,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T10:00:10Z"
+    },
+    {
+      "prNumber": 49702,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T09:44:50Z"
+    },
+    {
+      "prNumber": 49702,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-18T09:44:37Z"
+    },
+    {
+      "prNumber": 49025,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T13:57:37Z"
+    },
+    {
+      "prNumber": 49025,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-17T13:57:08Z"
+    },
+    {
+      "prNumber": 48494,
+      "state": "APPROVED",
+      "createdAt": "2026-03-16T21:42:37Z"
+    },
+    {
+      "prNumber": 48494,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-16T21:42:10Z"
+    },
+    {
+      "prNumber": 45733,
+      "state": "APPROVED",
+      "createdAt": "2026-03-15T12:21:09Z"
+    },
+    {
+      "prNumber": 47148,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T11:07:27Z"
+    },
+    {
+      "prNumber": 47148,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T09:53:21Z"
+    },
+    {
+      "prNumber": 47148,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-15T09:53:03Z"
+    },
+    {
+      "prNumber": 41563,
+      "state": "APPROVED",
+      "createdAt": "2026-03-15T07:29:10Z"
+    },
+    {
+      "prNumber": 46950,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-15T07:27:04Z"
+    },
+    {
+      "prNumber": 46972,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-15T07:26:59Z"
+    },
+    {
+      "prNumber": 46969,
+      "state": "APPROVED",
+      "createdAt": "2026-03-15T07:00:51Z"
+    },
+    {
+      "prNumber": 46967,
+      "state": "APPROVED",
+      "createdAt": "2026-03-15T07:00:47Z"
+    },
+    {
+      "prNumber": 46963,
+      "state": "APPROVED",
+      "createdAt": "2026-03-15T07:00:43Z"
+    },
     {
       "prNumber": 43450,
       "state": "COMMENTED",
@@ -284,99 +374,24 @@
       "prNumber": 43450,
       "state": "COMMENTED",
       "createdAt": "2026-03-13T23:30:28Z"
-    },
-    {
-      "prNumber": 43478,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T21:22:42Z"
-    },
-    {
-      "prNumber": 44159,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T15:43:18Z"
-    },
-    {
-      "prNumber": 43983,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T11:40:00Z"
-    },
-    {
-      "prNumber": 43965,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T11:39:41Z"
-    },
-    {
-      "prNumber": 43959,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T11:39:23Z"
-    },
-    {
-      "prNumber": 43502,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T05:28:29Z"
-    },
-    {
-      "prNumber": 43478,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T21:37:57Z"
-    },
-    {
-      "prNumber": 43478,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T21:37:53Z"
-    },
-    {
-      "prNumber": 43450,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T20:55:29Z"
-    },
-    {
-      "prNumber": 43450,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T20:55:24Z"
-    },
-    {
-      "prNumber": 43450,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T20:55:20Z"
-    },
-    {
-      "prNumber": 43093,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T11:33:43Z"
-    },
-    {
-      "prNumber": 43091,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T11:33:02Z"
-    },
-    {
-      "prNumber": 43115,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T11:32:00Z"
-    },
-    {
-      "prNumber": 43118,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T11:29:56Z"
-    },
-    {
-      "prNumber": 43109,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T11:29:37Z"
-    },
-    {
-      "prNumber": 42318,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T07:05:35Z"
-    },
-    {
-      "prNumber": 42318,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T07:05:29Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-17": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-15": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 10
+    },
     "2026-03-14": {
       "prs": 5,
       "issues": 0,
@@ -417,10 +432,10 @@
       "issues": 0,
       "reviews": 5
     },
-    "2026-03-05": {
-      "prs": 3,
+    "2026-03-16": {
+      "prs": 0,
       "issues": 0,
-      "reviews": 17
+      "reviews": 2
     },
     "2026-03-13": {
       "prs": 0,
@@ -468,6 +483,9 @@
     }
   ],
   "recentCommitDays": {
+    "2026-03-18": 1,
+    "2026-03-17": 1,
+    "2026-03-15": 1,
     "2026-03-14": 9,
     "2026-03-12": 1,
     "2026-03-11": 3,

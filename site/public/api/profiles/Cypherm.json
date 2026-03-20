@@ -3,108 +3,91 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/28184436?u=580872133c27e488ac2eaaada196a6ead518ae8f&v=4",
   "githubUrl": "https://github.com/Cypherm",
   "score": {
-    "score": 74.95,
-    "prScore": 62.95,
-    "issueScore": 8,
-    "reviewScore": 3,
-    "commentScore": 1
+    "score": 72.69,
+    "prScore": 72.69,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 1,
-    "prAdditions": 169,
-    "prDeletions": 10,
-    "prChangedFiles": 15,
-    "prMergeRate": 100,
-    "issues": 1,
-    "issuesClosed": 1,
-    "reviews": 1,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 222,
+    "prDeletions": 50,
+    "prChangedFiles": 17,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
+    "comments": 0,
     "commitAdditions": 169,
     "commitDeletions": 10,
     "commitChangedFiles": 15
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
-      "reviews": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 169,
       "commitDeletions": 10,
       "commits": 1
-    },
-    "monthly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 1,
-      "comments": 2,
-      "commitAdditions": 169,
-      "commitDeletions": 10,
-      "commits": 1
     }
   },
-  "firstContribution": "2026-03-05T04:58:13Z",
-  "lastContribution": "2026-03-12T10:18:11Z",
+  "firstContribution": "2026-03-17T07:15:42Z",
+  "lastContribution": "2026-03-17T08:00:10Z",
   "recentPRs": [
     {
-      "number": 35474,
-      "title": "feat: show status reaction during context compaction",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-05T04:59:08Z",
-      "mergedAt": "2026-03-13T04:06:15Z",
-      "additions": 169,
-      "deletions": 10,
-      "changedFiles": 15
-    }
-  ],
-  "recentIssues": [
-    {
-      "number": 35545,
-      "title": "UX: no feedback during context auto-compaction (10-30s freeze)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-05T05:58:17Z",
-      "closedAt": "2026-03-13T04:06:17Z"
-    }
-  ],
-  "recentReviews": [
-    {
-      "prNumber": 35474,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T10:18:11Z"
-    }
-  ],
-  "recentActivityDays": {
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
+      "number": 48842,
+      "title": "feat(telegram): support custom apiRoot for alternative API endpoints",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T08:00:10Z",
+      "mergedAt": null,
+      "additions": 107,
+      "deletions": 29,
+      "changedFiles": 16
     },
-    "2026-03-12": {
-      "prs": 0,
+    {
+      "number": 48812,
+      "title": "fix(telegram): fallback to alternative API IP when DNS-resolved endpoint is unreachable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T07:15:42Z",
+      "mergedAt": null,
+      "additions": 115,
+      "deletions": 21,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 2,
       "issues": 0,
-      "reviews": 1
+      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
+  "achievements": [],
   "recentCommitDays": {
     "2026-03-13": 1
   }

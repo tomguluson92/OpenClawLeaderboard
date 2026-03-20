@@ -3,55 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1655200?u=164057dac9a676bb97ac1452e77ea4d18ef9b3d8&v=4",
   "githubUrl": "https://github.com/liujiaqiid",
   "score": {
-    "score": 120.44,
-    "prScore": 113.94,
+    "score": 201.56,
+    "prScore": 190.06,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 6.5
+    "commentScore": 11.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 9,
     "prsMerged": 0,
-    "prAdditions": 1709,
-    "prDeletions": 35,
-    "prChangedFiles": 29,
+    "prAdditions": 4716,
+    "prDeletions": 55,
+    "prChangedFiles": 52,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
+    "comments": 23,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 13,
+      "comments": 11,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 9,
       "issues": 0,
       "reviews": 0,
-      "comments": 13,
+      "comments": 23,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-07T04:17:14Z",
-  "lastContribution": "2026-03-15T01:04:16Z",
+  "lastContribution": "2026-03-19T01:08:13Z",
   "recentPRs": [
+    {
+      "number": 49332,
+      "title": "fix(ui): prevent duplicate chat messages from retransmitted final events",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T01:08:42Z",
+      "mergedAt": null,
+      "additions": 2868,
+      "deletions": 7,
+      "changedFiles": 19
+    },
+    {
+      "number": 48085,
+      "title": "fix(cron): handle object model format in cron list (#44084)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T09:21:28Z",
+      "mergedAt": null,
+      "additions": 139,
+      "deletions": 13,
+      "changedFiles": 4
+    },
     {
       "number": 43977,
       "title": "fix(failover): classify ZenMux subscription-quota 402 as rate_limit for fallback",
@@ -133,6 +155,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 2,
       "issues": 0,
@@ -158,6 +190,12 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ],
   "recentCommitDays": {}
 }

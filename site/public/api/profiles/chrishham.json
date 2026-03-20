@@ -1,0 +1,98 @@
+{
+  "username": "chrishham",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15249653?v=4",
+  "githubUrl": "https://github.com/chrishham",
+  "score": {
+    "score": 30.9,
+    "prScore": 25.9,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 2,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 19,
+    "prDeletions": 6,
+    "prChangedFiles": 2,
+    "prMergeRate": 100,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0,
+    "commitAdditions": 19,
+    "commitDeletions": 6,
+    "commitChangedFiles": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 19,
+      "commitDeletions": 6,
+      "commits": 2
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0,
+      "commitAdditions": 19,
+      "commitDeletions": 6,
+      "commits": 2
+    }
+  },
+  "firstContribution": "2026-03-15T18:44:46Z",
+  "lastContribution": "2026-03-16T07:37:13Z",
+  "recentPRs": [
+    {
+      "number": 47581,
+      "title": "fix: control UI model selector sends correct provider prefix",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-15T18:44:46Z",
+      "mergedAt": "2026-03-16T03:59:38Z",
+      "additions": 19,
+      "deletions": 6,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 47998,
+      "title": "[Bug]: Control UI crashes with fs.constants.W_OK undefined when built from main (v2026.3.14)",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T07:37:13Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Direct Commits"
+  ],
+  "achievements": [],
+  "recentCommitDays": {
+    "2026-03-16": 2
+  }
+}

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/229052116?u=85383543dab239828ec6349838f375881c686d25&v=4",
   "githubUrl": "https://github.com/advancingg",
   "score": {
-    "score": 7.75,
-    "prScore": 7.75,
+    "score": 16.69,
+    "prScore": 16.69,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 9,
+    "prAdditions": 86,
     "prDeletions": 2,
-    "prChangedFiles": 1,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-14T10:37:01Z",
-  "lastContribution": "2026-03-14T10:37:01Z",
+  "lastContribution": "2026-03-18T04:54:55Z",
   "recentPRs": [
+    {
+      "number": 49477,
+      "title": "feat(skill-creator): add best practices from real-world skill engineering",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T04:54:55Z",
+      "mergedAt": null,
+      "additions": 77,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 45995,
       "title": "fix(acp): sweep stale runId mappings on session removal",
@@ -67,6 +78,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,

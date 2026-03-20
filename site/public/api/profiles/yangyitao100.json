@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/115475729?v=4",
   "githubUrl": "https://github.com/yangyitao100",
   "score": {
-    "score": 149.46,
-    "prScore": 146.46,
+    "score": 163.21,
+    "prScore": 158.71,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3
+    "commentScore": 4.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 12,
+    "prs": 13,
     "prsMerged": 0,
-    "prAdditions": 785,
-    "prDeletions": 40,
-    "prChangedFiles": 31,
+    "prAdditions": 892,
+    "prDeletions": 41,
+    "prChangedFiles": 33,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
+    "comments": 9,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -34,24 +34,35 @@
       "prs": 12,
       "issues": 0,
       "reviews": 0,
-      "comments": 6,
+      "comments": 7,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 12,
+      "prs": 13,
       "issues": 0,
       "reviews": 0,
-      "comments": 6,
+      "comments": 9,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
   "firstContribution": "2026-03-13T07:33:16Z",
-  "lastContribution": "2026-03-15T03:08:21Z",
+  "lastContribution": "2026-03-16T03:46:40Z",
   "recentPRs": [
+    {
+      "number": 47854,
+      "title": "fix(models): reflect context1m config in models list contextWindow display",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T03:43:01Z",
+      "mergedAt": null,
+      "additions": 107,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 46781,
       "title": "fix(models): reflect context1m config in models list contextWindow display",
@@ -99,7 +110,7 @@
     {
       "number": 46757,
       "title": "fix(plugins): warn when extensions are auto-discovered from workspace",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T02:41:26Z",
       "mergedAt": null,
@@ -121,7 +132,7 @@
     {
       "number": 46754,
       "title": "fix(docs): align AGENTS.md template memory paths with session-memory hook",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T02:38:29Z",
       "mergedAt": null,
@@ -165,7 +176,7 @@
     {
       "number": 44974,
       "title": "feat(skills): add global env overrides shared across all skills",
-      "state": "CLOSED",
+      "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-13T10:14:30Z",
       "mergedAt": null,
@@ -188,6 +199,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 10,
       "issues": 0,

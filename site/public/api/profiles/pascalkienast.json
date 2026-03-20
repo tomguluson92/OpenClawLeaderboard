@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6682526?u=c2ded78f48bedc9c62defe6a8742f12bc3550a51&v=4",
   "githubUrl": "https://github.com/pascalkienast",
   "score": {
-    "score": 31.19,
+    "score": 36.19,
     "prScore": 23.19,
-    "issueScore": 5,
+    "issueScore": 10,
     "reviewScore": 3,
     "commentScore": 0
   },
@@ -19,7 +19,7 @@
     "prDeletions": 22,
     "prChangedFiles": 11,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
@@ -31,9 +31,9 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 1,
-      "reviews": 1,
+      "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 2,
       "reviews": 1,
       "comments": 0,
       "commitAdditions": 0,
@@ -50,7 +50,7 @@
     }
   },
   "firstContribution": "2026-03-09T16:56:07Z",
-  "lastContribution": "2026-03-09T18:31:10Z",
+  "lastContribution": "2026-03-15T15:47:46Z",
   "recentPRs": [
     {
       "number": 41347,
@@ -65,6 +65,13 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 47442,
+      "title": "[Bug]: OpenAI Codex tool continuations can resume stale backend state across top-level turns",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T15:47:46Z",
+      "closedAt": null
+    },
     {
       "number": 41282,
       "title": "[Bug]: Regression/incomplete fix: openai-codex still times out on GPT-5.4 after #38736 due to remaining non-codex transport path",
@@ -85,6 +92,11 @@
       "prs": 1,
       "issues": 1,
       "reviews": 1
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [

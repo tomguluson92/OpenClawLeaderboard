@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/233881301?v=4",
   "githubUrl": "https://github.com/r266-tech",
   "score": {
-    "score": 33.55,
-    "prScore": 32.55,
+    "score": 43,
+    "prScore": 42,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1
@@ -13,11 +13,11 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 211,
-    "prDeletions": 33,
-    "prChangedFiles": 7,
+    "prAdditions": 293,
+    "prDeletions": 47,
+    "prChangedFiles": 8,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
@@ -34,13 +34,13 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
       "comments": 2,
@@ -50,8 +50,19 @@
     }
   },
   "firstContribution": "2026-03-06T08:55:54Z",
-  "lastContribution": "2026-03-10T07:27:31Z",
+  "lastContribution": "2026-03-17T06:46:13Z",
   "recentPRs": [
+    {
+      "number": 48794,
+      "title": "fix: update test mocks for refactored plugin-sdk imports in Telegram native commands (#48707)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T06:46:13Z",
+      "mergedAt": null,
+      "additions": 82,
+      "deletions": 14,
+      "changedFiles": 1
+    },
     {
       "number": 40594,
       "title": "fix(config): surface unrecognized key names in union validation errors",
@@ -89,6 +100,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,

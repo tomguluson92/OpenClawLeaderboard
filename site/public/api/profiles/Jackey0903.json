@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/97658517?u=b50a54b5cf47608da399b2a18958c2bd545e02e8&v=4",
   "githubUrl": "https://github.com/Jackey0903",
   "score": {
-    "score": 63.6,
+    "score": 48.6,
     "prScore": 48.1,
-    "issueScore": 15,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
-  "tier": "regular",
-  "characterClass": "Pathfinder",
+  "tier": "beginner",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 4,
@@ -19,7 +19,7 @@
     "prDeletions": 2,
     "prChangedFiles": 11,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
@@ -31,7 +31,7 @@
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
       "comments": 0,
@@ -41,7 +41,7 @@
     },
     "monthly": {
       "prs": 4,
-      "issues": 3,
+      "issues": 0,
       "reviews": 0,
       "comments": 1,
       "commitAdditions": 0,
@@ -49,7 +49,7 @@
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-07T05:27:30Z",
+  "firstContribution": "2026-03-07T05:59:18Z",
   "lastContribution": "2026-03-12T14:04:01Z",
   "recentPRs": [
     {
@@ -97,29 +97,7 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 38633,
-      "title": "[Docs] 文档中 pidsLimit 示例值为 256，但代码无默认值，容易误导用户",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T06:20:25Z",
-      "closedAt": null
-    },
-    {
-      "number": 38604,
-      "title": "[Security] Sandbox containers have no default pidsLimit - vulnerable to fork bomb attacks",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T05:32:04Z",
-      "closedAt": null
-    },
-    {
-      "number": 38601,
-      "title": "[Bug] PTY silently disabled in sandbox mode without warning when pty:true is set",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T05:27:30Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
@@ -134,13 +112,12 @@
     },
     "2026-03-07": {
       "prs": 1,
-      "issues": 3,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [],

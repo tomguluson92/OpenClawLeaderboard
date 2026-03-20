@@ -3,55 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/15848762?v=4",
   "githubUrl": "https://github.com/luzhidong",
   "score": {
-    "score": 38.33,
-    "prScore": 20.33,
-    "issueScore": 16,
+    "score": 178.91,
+    "prScore": 154.91,
+    "issueScore": 21,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 3
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 1,
-    "prAdditions": 144,
-    "prDeletions": 11,
-    "prChangedFiles": 3,
-    "prMergeRate": 100,
-    "issues": 2,
+    "prAdditions": 5974,
+    "prDeletions": 39,
+    "prChangedFiles": 354,
+    "prMergeRate": 33,
+    "issues": 3,
     "issuesClosed": 2,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
+    "comments": 6,
     "commitAdditions": 144,
     "commitDeletions": 11,
     "commitChangedFiles": 3
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 2,
+      "prs": 3,
+      "issues": 3,
       "reviews": 0,
-      "comments": 4,
+      "comments": 6,
       "commitAdditions": 144,
       "commitDeletions": 11,
       "commits": 1
     },
     "monthly": {
-      "prs": 1,
-      "issues": 2,
+      "prs": 3,
+      "issues": 3,
       "reviews": 0,
-      "comments": 4,
+      "comments": 6,
       "commitAdditions": 144,
       "commitDeletions": 11,
       "commits": 1
     }
   },
   "firstContribution": "2026-03-13T13:21:41Z",
-  "lastContribution": "2026-03-14T01:30:00Z",
+  "lastContribution": "2026-03-20T07:56:31Z",
   "recentPRs": [
+    {
+      "number": 49359,
+      "title": "feat(webchat): implement cursor-based pagination for chat history",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-18T02:07:52Z",
+      "mergedAt": null,
+      "additions": 164,
+      "deletions": 16,
+      "changedFiles": 9
+    },
+    {
+      "number": 49169,
+      "title": "feat(webchat): implement cursor-based pagination for chat history",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-17T17:40:39Z",
+      "mergedAt": null,
+      "additions": 5666,
+      "deletions": 12,
+      "changedFiles": 342
+    },
     {
       "number": 45130,
       "title": "fix(ui): session dropdown shows label instead of key",
@@ -65,6 +87,13 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 48514,
+      "title": "WebChat UI freezes and becomes unresponsive with accumulated session history",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T22:03:31Z",
+      "closedAt": null
+    },
     {
       "number": 45226,
       "title": "[Bug] Web UI 新消息提示按钮巨大 (INVALID)",
@@ -82,16 +111,32 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-18": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [],
   "recentCommitDays": {

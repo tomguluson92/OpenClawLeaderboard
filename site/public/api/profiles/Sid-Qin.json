@@ -3,28 +3,28 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/201593046?v=4",
   "githubUrl": "https://github.com/Sid-Qin",
   "score": {
-    "score": 2969.66,
-    "prScore": 2863.66,
+    "score": 1108.85,
+    "prScore": 1108.85,
     "issueScore": 0,
-    "reviewScore": 6,
-    "commentScore": 100
+    "reviewScore": 0,
+    "commentScore": 0
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
     "commits": 80,
-    "prs": 325,
-    "prsMerged": 14,
-    "prAdditions": 16001,
-    "prDeletions": 1629,
-    "prChangedFiles": 891,
-    "prMergeRate": 4,
+    "prs": 83,
+    "prsMerged": 0,
+    "prAdditions": 4621,
+    "prDeletions": 408,
+    "prChangedFiles": 223,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 219,
+    "comments": 0,
     "commitAdditions": 0,
     "commitDeletions": 0,
     "commitChangedFiles": 0
@@ -40,17 +40,17 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 325,
+      "prs": 83,
       "issues": 0,
-      "reviews": 2,
-      "comments": 219,
+      "reviews": 0,
+      "comments": 0,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     }
   },
-  "firstContribution": "2026-03-03T15:04:51Z",
-  "lastContribution": "2026-03-06T17:39:26Z",
+  "firstContribution": "2026-03-06T07:02:03Z",
+  "lastContribution": "2026-03-06T17:35:37Z",
   "recentPRs": [
     {
       "number": 38226,
@@ -274,39 +274,16 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 35301,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T03:19:52Z"
-    },
-    {
-      "prNumber": 35301,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-05T03:19:44Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-06": {
-      "prs": 105,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-05": {
-      "prs": 172,
-      "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-04": {
-      "prs": 48,
+      "prs": 83,
       "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
-    "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
   ],
@@ -320,26 +297,6 @@
       "id": "pr-master",
       "label": "PR Master",
       "description": "50+ pull requests"
-    },
-    {
-      "id": "pr-legend",
-      "label": "PR Legend",
-      "description": "100+ pull requests"
-    },
-    {
-      "id": "merger",
-      "label": "Merger",
-      "description": "5+ merged PRs"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    },
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
     }
   ],
   "recentCommitDays": {}

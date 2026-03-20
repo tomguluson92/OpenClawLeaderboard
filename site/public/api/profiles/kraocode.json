@@ -1,0 +1,221 @@
+{
+  "username": "kraocode",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/216472336?v=4",
+  "githubUrl": "https://github.com/kraocode",
+  "score": {
+    "score": 192.71,
+    "prScore": 131.21,
+    "issueScore": 53,
+    "reviewScore": 0,
+    "commentScore": 8.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 2337,
+    "prDeletions": 189,
+    "prChangedFiles": 32,
+    "prMergeRate": 0,
+    "issues": 7,
+    "issuesClosed": 6,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 17,
+    "commitAdditions": 0,
+    "commitDeletions": 0,
+    "commitChangedFiles": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 7,
+      "reviews": 0,
+      "comments": 17,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 7,
+      "reviews": 0,
+      "comments": 17,
+      "commitAdditions": 0,
+      "commitDeletions": 0,
+      "commits": 0
+    }
+  },
+  "firstContribution": "2026-03-16T03:37:01Z",
+  "lastContribution": "2026-03-17T00:26:29Z",
+  "recentPRs": [
+    {
+      "number": 48585,
+      "title": "privacy: reduce human-identifying system-injected inbound metadata in LLM prompt context",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T00:26:29Z",
+      "mergedAt": null,
+      "additions": 420,
+      "deletions": 33,
+      "changedFiles": 4
+    },
+    {
+      "number": 48351,
+      "title": "privacy: reduce human-identifying inbound metadata exposure in LLM prompts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T16:33:18Z",
+      "mergedAt": null,
+      "additions": 420,
+      "deletions": 33,
+      "changedFiles": 4
+    },
+    {
+      "number": 48346,
+      "title": "privacy: reduce human-identifying inbound metadata exposure in LLM prompts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T16:21:59Z",
+      "mergedAt": null,
+      "additions": 420,
+      "deletions": 33,
+      "changedFiles": 4
+    },
+    {
+      "number": 48310,
+      "title": "feat(privacy): redact system-injected PII from LLM context",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T15:28:23Z",
+      "mergedAt": null,
+      "additions": 420,
+      "deletions": 33,
+      "changedFiles": 4
+    },
+    {
+      "number": 47970,
+      "title": "feat(privacy): redact PII from LLM context when privacy.redactPII is enabled",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T06:51:16Z",
+      "mergedAt": null,
+      "additions": 271,
+      "deletions": 15,
+      "changedFiles": 4
+    },
+    {
+      "number": 47959,
+      "title": "feat(privacy): redact PII from LLM context when privacy.redactPII is enabled",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T06:31:09Z",
+      "mergedAt": null,
+      "additions": 176,
+      "deletions": 12,
+      "changedFiles": 4
+    },
+    {
+      "number": 47929,
+      "title": "feat(privacy): strip SenderE164 (phone number) from LLM context",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T05:45:22Z",
+      "mergedAt": null,
+      "additions": 89,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 47858,
+      "title": "feat(privacy): add redactInboundPII config to strip PII from LLM context",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-16T03:50:40Z",
+      "mergedAt": null,
+      "additions": 121,
+      "deletions": 26,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 48584,
+      "title": "[Feature]: Reduce human-identifying system-injected inbound metadata in LLM prompt context",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T00:25:29Z",
+      "closedAt": null
+    },
+    {
+      "number": 47958,
+      "title": "[Feature]: Reduce human-identifying system-injected inbound metadata in LLM context",
+      "state": "CLOSED",
+      "createdAt": "2026-03-16T06:29:15Z",
+      "closedAt": "2026-03-17T01:47:59Z"
+    },
+    {
+      "number": 47955,
+      "title": "[Feature]: Redact PII (phone numbers, user IDs) from LLM context",
+      "state": "CLOSED",
+      "createdAt": "2026-03-16T06:25:58Z",
+      "closedAt": "2026-03-16T06:26:27Z"
+    },
+    {
+      "number": 47926,
+      "title": "feat(privacy): strip SenderE164 (phone number) from LLM context",
+      "state": "CLOSED",
+      "createdAt": "2026-03-16T05:39:34Z",
+      "closedAt": "2026-03-16T06:09:38Z"
+    },
+    {
+      "number": 47895,
+      "title": "feat(privacy): strip real phone numbers (SenderE164) and real names (SenderName) from LLM context",
+      "state": "CLOSED",
+      "createdAt": "2026-03-16T04:34:36Z",
+      "closedAt": "2026-03-16T05:36:04Z"
+    },
+    {
+      "number": 47872,
+      "title": "feat(privacy): pseudonymize PII in LLM context instead of sending real identifiers",
+      "state": "CLOSED",
+      "createdAt": "2026-03-16T04:07:57Z",
+      "closedAt": "2026-03-16T06:26:31Z"
+    },
+    {
+      "number": 47853,
+      "title": "Feature: allow stripping PII from inbound metadata before sending to LLM",
+      "state": "CLOSED",
+      "createdAt": "2026-03-16T03:37:01Z",
+      "closedAt": "2026-03-16T03:54:34Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 7,
+      "issues": 6,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ],
+  "recentCommitDays": {}
+}

@@ -3,55 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1186273?u=8c79b8f6b210f9a4a5100834873d5d03310b1978&v=4",
   "githubUrl": "https://github.com/yfge",
   "score": {
-    "score": 166.03,
-    "prScore": 160.53,
+    "score": 203.87,
+    "prScore": 195.87,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5.5
+    "commentScore": 8
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 9,
+    "prs": 11,
     "prsMerged": 1,
-    "prAdditions": 947,
-    "prDeletions": 70,
-    "prChangedFiles": 32,
-    "prMergeRate": 11,
+    "prAdditions": 1745,
+    "prDeletions": 247,
+    "prChangedFiles": 52,
+    "prMergeRate": 9,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
+    "comments": 16,
     "commitAdditions": 248,
     "commitDeletions": 23,
     "commitChangedFiles": 12
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 9,
+      "comments": 5,
       "commitAdditions": 0,
       "commitDeletions": 0,
       "commits": 0
     },
     "monthly": {
-      "prs": 9,
+      "prs": 11,
       "issues": 0,
       "reviews": 0,
-      "comments": 11,
+      "comments": 16,
       "commitAdditions": 248,
       "commitDeletions": 23,
       "commits": 2
     }
   },
   "firstContribution": "2026-03-06T15:24:27Z",
-  "lastContribution": "2026-03-14T09:13:02Z",
+  "lastContribution": "2026-03-17T04:52:04Z",
   "recentPRs": [
+    {
+      "number": 47969,
+      "title": "Feishu: route feishu_chat tool via session accountId",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T06:45:30Z",
+      "mergedAt": null,
+      "additions": 169,
+      "deletions": 33,
+      "changedFiles": 4
+    },
+    {
+      "number": 46907,
+      "title": "fix(cron): tolerate object-shaped delivery.channel",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-15T05:15:51Z",
+      "mergedAt": null,
+      "additions": 204,
+      "deletions": 50,
+      "changedFiles": 11
+    },
     {
       "number": 45922,
       "title": "fix(status): show gateway reachable when probe is scope-limited",
@@ -59,19 +81,19 @@
       "merged": false,
       "createdAt": "2026-03-14T09:13:02Z",
       "mergedAt": null,
-      "additions": 150,
-      "deletions": 48,
-      "changedFiles": 6
+      "additions": 511,
+      "deletions": 141,
+      "changedFiles": 11
     },
     {
       "number": 45916,
       "title": "fix(status): treat scope-limited gateway probe as reachable",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T09:04:54Z",
       "mergedAt": null,
-      "additions": 69,
-      "deletions": 2,
+      "additions": 133,
+      "deletions": 3,
       "changedFiles": 2
     },
     {
@@ -155,6 +177,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
@@ -200,7 +232,13 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ],
   "recentCommitDays": {
     "2026-03-07": 1,
     "2026-02-28": 1

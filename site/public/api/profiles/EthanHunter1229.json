@@ -3,21 +3,21 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/171121429?v=4",
   "githubUrl": "https://github.com/EthanHunter1229",
   "score": {
-    "score": 25.77,
-    "prScore": 17.77,
+    "score": 120.2,
+    "prScore": 112.2,
     "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 148,
-    "prDeletions": 20,
-    "prChangedFiles": 7,
+    "prAdditions": 1068,
+    "prDeletions": 1360,
+    "prChangedFiles": 39,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 1,
@@ -31,8 +31,8 @@
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 3,
+      "issues": 0,
       "reviews": 0,
       "comments": 0,
       "commitAdditions": 0,
@@ -40,7 +40,7 @@
       "commits": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 1,
       "reviews": 0,
       "comments": 0,
@@ -50,8 +50,30 @@
     }
   },
   "firstContribution": "2026-03-13T03:48:31Z",
-  "lastContribution": "2026-03-13T09:04:10Z",
+  "lastContribution": "2026-03-17T12:09:44Z",
   "recentPRs": [
+    {
+      "number": 48976,
+      "title": "fix(feishu): normalize @mentions in quoted message content",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-17T12:09:44Z",
+      "mergedAt": null,
+      "additions": 517,
+      "deletions": 577,
+      "changedFiles": 18
+    },
+    {
+      "number": 48236,
+      "title": "fix(sessions-patch): correctly resolve model provider when switching models (fixes #48224)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-16T13:34:59Z",
+      "mergedAt": null,
+      "additions": 403,
+      "deletions": 763,
+      "changedFiles": 14
+    },
     {
       "number": 44899,
       "title": "fix: add missing @microsoft/agents-hosting dependency for msteams extension",
@@ -75,6 +97,16 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-17": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 1,

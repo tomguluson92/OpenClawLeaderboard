@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1147451?u=91a1d5b94bd09656c3ed8f1b1294a2b5aa126e3e&v=4",
   "githubUrl": "https://github.com/pezy",
   "score": {
-    "score": 17.78,
-    "prScore": 16.78,
+    "score": 33.13,
+    "prScore": 32.13,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1
@@ -14,20 +14,20 @@
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 192,
-    "prDeletions": 36,
+    "prsMerged": 1,
+    "prAdditions": 203,
+    "prDeletions": 30,
     "prChangedFiles": 6,
-    "prMergeRate": 0,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
     "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "commitAdditions": 203,
+    "commitDeletions": 30,
+    "commitChangedFiles": 6
   },
   "period": {
     "weekly": {
@@ -35,18 +35,18 @@
       "issues": 0,
       "reviews": 0,
       "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 203,
+      "commitDeletions": 30,
+      "commits": 1
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
       "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "commitAdditions": 203,
+      "commitDeletions": 30,
+      "commits": 1
     }
   },
   "firstContribution": "2026-03-14T04:21:13Z",
@@ -55,12 +55,12 @@
     {
       "number": 45733,
       "title": "fix(models): preserve stream usage compat opt-ins",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-14T04:21:13Z",
-      "mergedAt": null,
-      "additions": 192,
-      "deletions": 36,
+      "mergedAt": "2026-03-15T19:21:12Z",
+      "additions": 203,
+      "deletions": 30,
       "changedFiles": 6
     }
   ],
@@ -78,5 +78,7 @@
     "Discussion"
   ],
   "achievements": [],
-  "recentCommitDays": {}
+  "recentCommitDays": {
+    "2026-03-15": 1
+  }
 }
