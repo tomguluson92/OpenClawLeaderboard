@@ -1,0 +1,301 @@
+{
+  "username": "ruanrrn",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43744645?u=7f36a5926ea8e08826df1866bb54c25eb2eaac9a&v=4",
+  "githubUrl": "https://github.com/ruanrrn",
+  "score": {
+    "score": 216.26,
+    "prScore": 161.76,
+    "issueScore": 0,
+    "reviewScore": 54,
+    "commentScore": 0.5
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 12,
+    "prsMerged": 0,
+    "prAdditions": 1264,
+    "prDeletions": 75,
+    "prChangedFiles": 36,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 18,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 18,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 18,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-25T02:21:39Z",
+  "lastContribution": "2026-03-26T12:44:26Z",
+  "recentPRs": [
+    {
+      "number": 55157,
+      "title": "doctor: include --fix-missing in sessions cleanup preview (AI-assisted)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T12:44:26Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 55121,
+      "title": "fix(tool-display): show file path when args use file alias",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T11:41:33Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 54904,
+      "title": "fix(feishu): enforce configured webhookPath",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T04:54:22Z",
+      "mergedAt": null,
+      "additions": 309,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 54880,
+      "title": "fix(msteams): patch Teams HttpPlugin /api* route pattern in dist",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T04:13:23Z",
+      "mergedAt": null,
+      "additions": 100,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 54847,
+      "title": "fix(gateway): detect channels stuck before reporting connected (AI-assisted)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T03:06:26Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 54774,
+      "title": "fix(gateway): ignore transient pre-hello close in one-shot calls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T00:39:21Z",
+      "mergedAt": null,
+      "additions": 186,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 54758,
+      "title": "fix(ui): propagate connect errors to pending requests",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T23:56:05Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 54646,
+      "title": "fix(cli): validate gateway-rpc --timeout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T19:14:58Z",
+      "mergedAt": null,
+      "additions": 146,
+      "deletions": 16,
+      "changedFiles": 7
+    },
+    {
+      "number": 54621,
+      "title": "fix(xai): honor plugin webSearch apiKey for grok web_search (AI-assisted)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T18:23:52Z",
+      "mergedAt": null,
+      "additions": 178,
+      "deletions": 45,
+      "changedFiles": 2
+    },
+    {
+      "number": 54593,
+      "title": "Fix getSubagentDepth for legacy subagent session keys (AI-assisted)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T17:32:08Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 54475,
+      "title": "fix(gateway): tolerate transient pre-hello closes in CLI calls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T13:05:43Z",
+      "mergedAt": null,
+      "additions": 121,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 54170,
+      "title": "fix(gateway): tolerate transient pre-hello closes in CLI calls",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T02:21:39Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 0,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 54904,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T09:23:46Z"
+    },
+    {
+      "prNumber": 54904,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T06:29:48Z"
+    },
+    {
+      "prNumber": 54904,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T06:16:40Z"
+    },
+    {
+      "prNumber": 54904,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T06:16:38Z"
+    },
+    {
+      "prNumber": 54880,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T05:06:02Z"
+    },
+    {
+      "prNumber": 54880,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T04:30:49Z"
+    },
+    {
+      "prNumber": 54880,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T04:30:37Z"
+    },
+    {
+      "prNumber": 54880,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T04:30:23Z"
+    },
+    {
+      "prNumber": 54774,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T02:02:44Z"
+    },
+    {
+      "prNumber": 54774,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T02:02:31Z"
+    },
+    {
+      "prNumber": 54646,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T22:29:08Z"
+    },
+    {
+      "prNumber": 54646,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T21:36:10Z"
+    },
+    {
+      "prNumber": 54646,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T20:18:33Z"
+    },
+    {
+      "prNumber": 54646,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T20:18:26Z"
+    },
+    {
+      "prNumber": 54621,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T18:38:17Z"
+    },
+    {
+      "prNumber": 54621,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T18:38:10Z"
+    },
+    {
+      "prNumber": 54475,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T13:34:29Z"
+    },
+    {
+      "prNumber": 54475,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T13:24:17Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 10
+    },
+    "2026-03-25": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 8
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ]
+}

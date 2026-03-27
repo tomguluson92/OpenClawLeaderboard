@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3804139?u=acfe568ad8bc47eb2cac5effbc240d662d05f14a&v=4",
   "githubUrl": "https://github.com/NormallyGaussian",
   "score": {
-    "score": 208.71,
-    "prScore": 154.71,
-    "issueScore": 5,
+    "score": 204.42,
+    "prScore": 155.42,
+    "issueScore": 0,
     "reviewScore": 45,
     "commentScore": 4
   },
@@ -15,38 +15,29 @@
     "commits": 0,
     "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 4494,
-    "prDeletions": 168,
-    "prChangedFiles": 116,
+    "prAdditions": 4724,
+    "prDeletions": 165,
+    "prChangedFiles": 122,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 15,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 8
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
-      "reviews": 9,
-      "comments": 8,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 4,
-      "issues": 1,
+      "issues": 0,
       "reviews": 15,
-      "comments": 8,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 8
     }
   },
   "firstContribution": "2026-03-10T01:40:52Z",
@@ -59,9 +50,9 @@
       "merged": false,
       "createdAt": "2026-03-19T15:51:37Z",
       "mergedAt": null,
-      "additions": 1149,
-      "deletions": 43,
-      "changedFiles": 30
+      "additions": 1379,
+      "deletions": 40,
+      "changedFiles": 36
     },
     {
       "number": 50495,
@@ -97,15 +88,7 @@
       "changedFiles": 28
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43398,
-      "title": "[Feature]: Parallel Web Search as Built-in web_search and web_fetch",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T18:09:05Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 50503,
@@ -198,17 +181,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 6
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
@@ -216,12 +193,6 @@
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

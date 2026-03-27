@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8814856?u=d9e612dd4337294a54e9955177a46019a76a1a66&v=4",
   "githubUrl": "https://github.com/hxy91819",
   "score": {
-    "score": 141.84,
-    "prScore": 123.34,
-    "issueScore": 0,
-    "reviewScore": 18,
-    "commentScore": 0.5
+    "score": 112.84,
+    "prScore": 82.84,
+    "issueScore": 8,
+    "reviewScore": 21,
+    "commentScore": 1
   },
   "tier": "regular",
   "characterClass": "Reviewer",
@@ -19,38 +19,29 @@
     "prDeletions": 115,
     "prChangedFiles": 27,
     "prMergeRate": 33,
-    "issues": 0,
-    "issuesClosed": 0,
-    "reviews": 6,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 1127,
-    "commitDeletions": 99,
-    "commitChangedFiles": 15
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 6,
-      "comments": 1,
-      "commitAdditions": 1127,
-      "commitDeletions": 99,
-      "commits": 1
+      "prs": 0,
+      "issues": 1,
+      "reviews": 1,
+      "comments": 1
     },
     "monthly": {
       "prs": 3,
-      "issues": 0,
-      "reviews": 6,
-      "comments": 1,
-      "commitAdditions": 1127,
-      "commitDeletions": 99,
-      "commits": 1
+      "issues": 1,
+      "reviews": 7,
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-13T11:04:29Z",
-  "lastContribution": "2026-03-18T04:27:30Z",
+  "lastContribution": "2026-03-26T09:51:19Z",
   "recentPRs": [
     {
       "number": 49451,
@@ -86,8 +77,21 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 52761,
+      "title": "[Feature]: Telegram: Display pairing code in a Markdown code block for easier copy/paste",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T09:36:30Z",
+      "closedAt": "2026-03-25T08:55:56Z"
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 54358,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T09:51:19Z"
+    },
     {
       "prNumber": 46763,
       "state": "COMMENTED",
@@ -134,15 +138,29 @@
       "prs": 1,
       "issues": 0,
       "reviews": 3
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-15": 1
-  }
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

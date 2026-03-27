@@ -1,57 +1,92 @@
 {
   "username": "eggyrooch-blip",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/226265806?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/226265806?u=b83e1be20c76a87685d5d039522b67e7a4a081b8&v=4",
   "githubUrl": "https://github.com/eggyrooch-blip",
   "score": {
-    "score": 164.6,
-    "prScore": 156.1,
+    "score": 201.97,
+    "prScore": 190.47,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 3.5
+    "commentScore": 6.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 1736,
-    "prDeletions": 274,
-    "prChangedFiles": 66,
+    "prAdditions": 2744,
+    "prDeletions": 331,
+    "prChangedFiles": 109,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 13
   },
   "period": {
     "weekly": {
-      "prs": 6,
-      "issues": 1,
+      "prs": 4,
+      "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 6
     },
     "monthly": {
-      "prs": 6,
+      "prs": 10,
       "issues": 1,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 13
     }
   },
   "firstContribution": "2026-03-18T06:10:28Z",
-  "lastContribution": "2026-03-19T14:01:45Z",
+  "lastContribution": "2026-03-21T07:04:41Z",
   "recentPRs": [
+    {
+      "number": 51472,
+      "title": "Export Feishu workspace artifact helpers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T07:04:22Z",
+      "mergedAt": null,
+      "additions": 253,
+      "deletions": 4,
+      "changedFiles": 6
+    },
+    {
+      "number": 51471,
+      "title": "Refresh skill prompts inside sandbox workspaces",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T06:59:49Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 12,
+      "changedFiles": 6
+    },
+    {
+      "number": 51442,
+      "title": "fix: use explicit agent workspace when writing transcript headers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T05:53:05Z",
+      "mergedAt": null,
+      "additions": 128,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 51129,
+      "title": "Export Feishu workspace artifact helpers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T16:09:10Z",
+      "mergedAt": null,
+      "additions": 560,
+      "deletions": 39,
+      "changedFiles": 29
+    },
     {
       "number": 50454,
       "title": "fix: use explicit agent workspace when writing transcript headers",
@@ -110,7 +145,7 @@
     {
       "number": 49525,
       "title": "fix: use explicit agent workspace when writing transcript headers",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T06:11:48Z",
       "mergedAt": null,
@@ -130,6 +165,16 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 2,
       "issues": 0,
@@ -146,6 +191,11 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ]
 }

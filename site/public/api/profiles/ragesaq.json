@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/11304287?u=67a876cd5e4a6b0d62239370c749ea7bcb3a691b&v=4",
   "githubUrl": "https://github.com/ragesaq",
   "score": {
-    "score": 30.8,
-    "prScore": 30.3,
-    "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0.5
+    "score": 72.07,
+    "prScore": 44.07,
+    "issueScore": 5,
+    "reviewScore": 21,
+    "commentScore": 2
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 857,
-    "prDeletions": 31,
-    "prChangedFiles": 8,
+    "prAdditions": 1045,
+    "prDeletions": 40,
+    "prChangedFiles": 11,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 1,
+      "issues": 1,
+      "reviews": 7,
+      "comments": 3
     },
     "monthly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 3,
+      "issues": 1,
+      "reviews": 7,
+      "comments": 4
     }
   },
   "firstContribution": "2026-03-11T10:05:31Z",
-  "lastContribution": "2026-03-12T08:16:41Z",
+  "lastContribution": "2026-03-23T00:21:56Z",
   "recentPRs": [
+    {
+      "number": 51934,
+      "title": "fix(auth): sync setup-token/paste-token auth profiles to sibling agent dirs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T23:38:50Z",
+      "mergedAt": null,
+      "additions": 188,
+      "deletions": 9,
+      "changedFiles": 3
+    },
     {
       "number": 43819,
       "title": "[AI-assisted] feat: add discord agent tool for full Discord API access",
@@ -75,9 +77,58 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
+  "recentIssues": [
+    {
+      "number": 51911,
+      "title": "Anthropic setup-token onboarding path has multiple failure modes (docs gap, credential propagation, multi-agent sync)",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T22:59:21Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 51934,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T00:21:56Z"
+    },
+    {
+      "prNumber": 51934,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T00:21:50Z"
+    },
+    {
+      "prNumber": 51934,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T00:21:44Z"
+    },
+    {
+      "prNumber": 51934,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T00:21:36Z"
+    },
+    {
+      "prNumber": 51934,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T00:21:30Z"
+    },
+    {
+      "prNumber": 51934,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T00:21:22Z"
+    },
+    {
+      "prNumber": 51934,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T00:21:16Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -87,12 +138,24 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 7
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

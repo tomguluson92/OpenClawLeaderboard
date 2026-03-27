@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/79142465?u=8945f0ed8f3b1070bd6e9edda8572137851f32f4&v=4",
   "githubUrl": "https://github.com/itshusky01",
   "score": {
-    "score": 12.93,
+    "score": 7.93,
     "prScore": 7.93,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 5,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-10T05:38:57Z",
+  "firstContribution": "2026-03-10T13:56:15Z",
   "lastContribution": "2026-03-10T13:56:15Z",
   "recentPRs": [
     {
@@ -64,27 +55,17 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41797,
-      "title": "[Bug]: Install script (install.ps1) forcefully exits PowerShell process on systems without winget (e.g., Windows LTSC)",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T05:38:57Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

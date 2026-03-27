@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3340049?v=4",
   "githubUrl": "https://github.com/seanyao",
   "score": {
-    "score": 15.85,
+    "score": 18.85,
     "prScore": 10.35,
-    "issueScore": 5,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -20,33 +20,24 @@
     "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-15T03:32:59Z",
@@ -68,9 +59,9 @@
     {
       "number": 46814,
       "title": "ACP child run completes but final result is not delivered back to direct chat channels",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-15T03:32:59Z",
-      "closedAt": null
+      "closedAt": "2026-03-24T17:28:35Z"
     }
   ],
   "recentReviews": [],
@@ -86,6 +77,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

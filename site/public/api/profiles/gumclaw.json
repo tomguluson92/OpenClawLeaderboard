@@ -1,0 +1,162 @@
+{
+  "username": "gumclaw",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/265388744?u=129066883fbc2419c73a26a60d84964c810bad7b&v=4",
+  "githubUrl": "https://github.com/gumclaw",
+  "score": {
+    "score": 85.17,
+    "prScore": 39.17,
+    "issueScore": 32,
+    "reviewScore": 12,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 238,
+    "prDeletions": 36,
+    "prChangedFiles": 9,
+    "prMergeRate": 33,
+    "issues": 4,
+    "issuesClosed": 4,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 4,
+      "reviews": 4,
+      "comments": 4
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 4,
+      "reviews": 4,
+      "comments": 4
+    }
+  },
+  "firstContribution": "2026-03-23T15:09:37Z",
+  "lastContribution": "2026-03-26T00:59:51Z",
+  "recentPRs": [
+    {
+      "number": 54702,
+      "title": "fix(msteams): prefer freshest personal conversation for proactive DM sends",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T21:08:26Z",
+      "mergedAt": null,
+      "additions": 109,
+      "deletions": 17,
+      "changedFiles": 4
+    },
+    {
+      "number": 54679,
+      "title": "fix: allow msteams feedback and welcome config keys",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T20:08:44Z",
+      "mergedAt": "2026-03-26T00:00:52Z",
+      "additions": 85,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 53188,
+      "title": "fix(msteams): throttle typing indicator to prevent 429 rate limit spiral",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T22:02:44Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 18,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54670,
+      "title": "[Bug]: msteams runtime supports feedback/welcome config keys but schema rejects them",
+      "state": "CLOSED",
+      "createdAt": "2026-03-25T19:55:57Z",
+      "closedAt": "2026-03-26T00:04:29Z"
+    },
+    {
+      "number": 53184,
+      "title": "msteams: typing indicator hits 429 rate limit during long agent runs",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T21:54:02Z",
+      "closedAt": "2026-03-26T00:56:27Z"
+    },
+    {
+      "number": 53038,
+      "title": "[Bug]: MSTeams plugin broken after upgrading to 2026.3.22",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T17:17:37Z",
+      "closedAt": "2026-03-24T01:41:20Z"
+    },
+    {
+      "number": 52954,
+      "title": "[Bug]: MS Teams channel thread replies post as top-level messages instead of in the thread",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T15:09:37Z",
+      "closedAt": "2026-03-25T18:55:34Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 54702,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T21:17:48Z"
+    },
+    {
+      "prNumber": 54702,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T21:14:44Z"
+    },
+    {
+      "prNumber": 53188,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T19:28:15Z"
+    },
+    {
+      "prNumber": 53188,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T19:28:08Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 2
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

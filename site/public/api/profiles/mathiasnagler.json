@@ -1,64 +1,55 @@
 {
   "username": "mathiasnagler",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/9951231?u=721b74ba917c6ecdda006fd837d20afc58c7d997&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9951231?v=4",
   "githubUrl": "https://github.com/mathiasnagler",
   "score": {
-    "score": 141.26,
-    "prScore": 131.26,
-    "issueScore": 8,
+    "score": 75.39,
+    "prScore": 73.89,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 1.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
-    "commits": 0,
-    "prs": 4,
-    "prsMerged": 1,
-    "prAdditions": 1207,
-    "prDeletions": 34,
-    "prChangedFiles": 36,
-    "prMergeRate": 25,
-    "issues": 1,
-    "issuesClosed": 1,
+    "commits": 2,
+    "prs": 3,
+    "prsMerged": 2,
+    "prAdditions": 444,
+    "prDeletions": 23,
+    "prChangedFiles": 20,
+    "prMergeRate": 67,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 182,
-    "commitDeletions": 6,
-    "commitChangedFiles": 10
+    "comments": 3
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 4,
-      "issues": 1,
+      "prs": 3,
+      "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 182,
-      "commitDeletions": 6,
-      "commits": 1
+      "comments": 3
     }
   },
-  "firstContribution": "2026-03-06T20:11:19Z",
+  "firstContribution": "2026-03-09T18:48:23Z",
   "lastContribution": "2026-03-16T17:17:25Z",
   "recentPRs": [
     {
       "number": 48347,
       "title": "fix(mattermost): thread resolved cfg through reply delivery send calls",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-16T16:21:59Z",
-      "mergedAt": null,
+      "mergedAt": "2026-03-26T01:31:12Z",
       "additions": 213,
       "deletions": 6,
       "changedFiles": 6
@@ -84,28 +75,9 @@
       "additions": 182,
       "deletions": 6,
       "changedFiles": 10
-    },
-    {
-      "number": 38310,
-      "title": "feat(secrets): support SecretRef in sandbox.docker.env",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T20:11:19Z",
-      "mergedAt": null,
-      "additions": 763,
-      "deletions": 11,
-      "changedFiles": 16
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41219,
-      "title": "Mattermost: block streaming + threading produces duplicate messages (one threaded, one top-level)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-09T16:02:28Z",
-      "closedAt": "2026-03-12T07:15:19Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-16": {
@@ -120,22 +92,14 @@
     },
     "2026-03-09": {
       "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
       "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Discussion",
+    "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-12": 1
-  }
+  "achievements": []
 }

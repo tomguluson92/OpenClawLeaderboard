@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/124798203?u=b640d6a0dd14e94f7fa7bd17a36ee1761cf55cf4&v=4",
   "githubUrl": "https://github.com/developersdigest",
   "score": {
-    "score": 36.41,
-    "prScore": 36.41,
+    "score": 53.21,
+    "prScore": 53.21,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1855,
-    "prDeletions": 26,
-    "prChangedFiles": 13,
+    "prAdditions": 2140,
+    "prDeletions": 41,
+    "prChangedFiles": 17,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-12T21:20:29Z",
-  "lastContribution": "2026-03-12T21:20:29Z",
+  "lastContribution": "2026-03-24T18:00:17Z",
   "recentPRs": [
+    {
+      "number": 53866,
+      "title": "feat(onboard): Firecrawl browser auth in web search setup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T18:00:17Z",
+      "mergedAt": null,
+      "additions": 285,
+      "deletions": 15,
+      "changedFiles": 4
+    },
     {
       "number": 44388,
       "title": "Feat/provider agnostic web tools",
@@ -67,6 +69,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -76,6 +83,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

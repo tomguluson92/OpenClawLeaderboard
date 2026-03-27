@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9395917?u=b05ae961a6b7817968209a501d4974d8e4fd86be&v=4",
   "githubUrl": "https://github.com/nashborges",
   "score": {
-    "score": 209.76,
-    "prScore": 154.76,
-    "issueScore": 45,
+    "score": 104.6,
+    "prScore": 62.1,
+    "issueScore": 35,
     "reviewScore": 3,
-    "commentScore": 7
+    "commentScore": 4.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Hunter",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 4652,
-    "prDeletions": 26,
-    "prChangedFiles": 58,
+    "prAdditions": 2003,
+    "prDeletions": 15,
+    "prChangedFiles": 18,
     "prMergeRate": 0,
-    "issues": 9,
+    "issues": 7,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 14,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 9
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 7,
-      "reviews": 1,
-      "comments": 8,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 4,
-      "issues": 9,
+      "prs": 3,
+      "issues": 7,
       "reviews": 1,
-      "comments": 14,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 9
     }
   },
-  "firstContribution": "2026-03-07T20:17:21Z",
+  "firstContribution": "2026-03-13T03:07:41Z",
   "lastContribution": "2026-03-16T22:06:40Z",
   "recentPRs": [
     {
@@ -84,17 +75,6 @@
       "additions": 493,
       "deletions": 12,
       "changedFiles": 11
-    },
-    {
-      "number": 39231,
-      "title": "feat(agents): add opt-in CaMeL prompt injection defense",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T22:17:07Z",
-      "mergedAt": null,
-      "additions": 2649,
-      "deletions": 11,
-      "changedFiles": 40
     }
   ],
   "recentIssues": [
@@ -146,20 +126,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-16T21:49:41Z",
       "closedAt": null
-    },
-    {
-      "number": 44580,
-      "title": "Bug: preserve fallback thinking signatures at replay boundary",
-      "state": "OPEN",
-      "createdAt": "2026-03-13T03:07:21Z",
-      "closedAt": null
-    },
-    {
-      "number": 39160,
-      "title": "RFC: CaMeL Prompt Injection Defense for OpenClaw",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T20:17:21Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [
@@ -177,13 +143,8 @@
     },
     "2026-03-13": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 1
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
     },
     "2026-03-16": {
       "prs": 0,
@@ -208,6 +169,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

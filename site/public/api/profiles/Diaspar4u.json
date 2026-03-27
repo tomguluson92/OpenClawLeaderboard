@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3605840?v=4",
   "githubUrl": "https://github.com/Diaspar4u",
   "score": {
-    "score": 530.16,
-    "prScore": 334.66,
-    "issueScore": 30,
-    "reviewScore": 153,
-    "commentScore": 12.5
+    "score": 422.29,
+    "prScore": 310.79,
+    "issueScore": 0,
+    "reviewScore": 105,
+    "commentScore": 6.5
   },
-  "tier": "veteran",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 2,
-    "prs": 26,
+    "prs": 23,
     "prsMerged": 0,
-    "prAdditions": 12550,
-    "prDeletions": 764,
-    "prChangedFiles": 150,
+    "prAdditions": 10490,
+    "prDeletions": 660,
+    "prChangedFiles": 137,
     "prMergeRate": 0,
-    "issues": 6,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 51,
+    "reviews": 35,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 25,
-    "commitAdditions": 182,
-    "commitDeletions": 10,
-    "commitChangedFiles": 6
+    "comments": 13
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 26,
-      "issues": 6,
-      "reviews": 51,
-      "comments": 25,
-      "commitAdditions": 128,
-      "commitDeletions": 8,
-      "commits": 1
+      "prs": 23,
+      "issues": 0,
+      "reviews": 35,
+      "comments": 13
     }
   },
-  "firstContribution": "2026-03-08T15:21:12Z",
+  "firstContribution": "2026-03-10T02:24:19Z",
   "lastContribution": "2026-03-10T21:50:19Z",
   "recentPRs": [
     {
@@ -273,50 +264,7 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42160,
-      "title": "Session store monolithic JSON with global lock causes cross-session contention",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T13:06:32Z",
-      "closedAt": null
-    },
-    {
-      "number": 42159,
-      "title": "voice-call TTS latency: entire response synthesized before streaming to Twilio",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T13:06:31Z",
-      "closedAt": null
-    },
-    {
-      "number": 42158,
-      "title": "Compaction summarization failure creates stuck-session retry loop",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T13:06:30Z",
-      "closedAt": null
-    },
-    {
-      "number": 42157,
-      "title": "Inbound Telegram webhook payloads lost on gateway restart",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T13:06:28Z",
-      "closedAt": null
-    },
-    {
-      "number": 42156,
-      "title": "Telegram callback queries time out when agent turn is queued behind sequentialize",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T13:06:27Z",
-      "closedAt": null
-    },
-    {
-      "number": 42155,
-      "title": "voice-call plugin uses main agent workspace for all response generation",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T13:06:25Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 42187,
@@ -422,19 +370,13 @@
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 23,
-      "issues": 6,
-      "reviews": 47
-    },
-    "2026-03-08": {
-      "prs": 3,
       "issues": 0,
-      "reviews": 4
+      "reviews": 35
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
@@ -446,38 +388,14 @@
       "description": "10+ pull requests"
     },
     {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    },
-    {
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
     },
     {
-      "id": "review-guru",
-      "label": "Review Guru",
-      "description": "50+ reviews"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    },
-    {
       "id": "prolific",
       "label": "Prolific Coder",
       "description": "10K+ lines added"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-02": 1,
-    "2026-02-13": 1
-  }
+  ]
 }

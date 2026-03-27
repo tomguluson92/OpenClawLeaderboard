@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/98241593?u=84c9e8528bbb71b923db1ee360fb03194941a0b0&v=4",
   "githubUrl": "https://github.com/Sathvik-Chowdary-Veerapaneni",
   "score": {
-    "score": 85.87,
-    "prScore": 85.37,
+    "score": 121.79,
+    "prScore": 120.79,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 1
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 8,
-    "prsMerged": 0,
-    "prAdditions": 280,
-    "prDeletions": 36,
-    "prChangedFiles": 17,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 1244,
+    "prDeletions": 811,
+    "prChangedFiles": 27,
+    "prMergeRate": 13,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 8,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-16T01:38:52Z",
-  "lastContribution": "2026-03-19T23:54:12Z",
+  "lastContribution": "2026-03-23T18:11:40Z",
   "recentPRs": [
     {
       "number": 50708,
@@ -70,7 +61,7 @@
       "merged": false,
       "createdAt": "2026-03-19T23:54:02Z",
       "mergedAt": null,
-      "additions": 20,
+      "additions": 39,
       "deletions": 0,
       "changedFiles": 2
     },
@@ -81,7 +72,7 @@
       "merged": false,
       "createdAt": "2026-03-19T23:45:53Z",
       "mergedAt": null,
-      "additions": 30,
+      "additions": 54,
       "deletions": 2,
       "changedFiles": 2
     },
@@ -110,13 +101,13 @@
     {
       "number": 50688,
       "title": "fix(sessions): update sessionFile after compaction rotates sessionId",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-19T23:09:25Z",
-      "mergedAt": null,
-      "additions": 56,
-      "deletions": 0,
-      "changedFiles": 3
+      "mergedAt": "2026-03-23T14:58:07Z",
+      "additions": 977,
+      "deletions": 775,
+      "changedFiles": 13
     },
     {
       "number": 47739,
@@ -159,6 +150,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

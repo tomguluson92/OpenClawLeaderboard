@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/239388517?u=5deb9934536ef3613660e00de275f286457c2a06&v=4",
   "githubUrl": "https://github.com/100yenadmin",
   "score": {
-    "score": 73.16,
+    "score": 78.66,
     "prScore": 32.16,
-    "issueScore": 18,
+    "issueScore": 23,
     "reviewScore": 21,
-    "commentScore": 2
+    "commentScore": 2.5
   },
   "tier": "regular",
   "characterClass": "Reviewer",
@@ -19,38 +19,29 @@
     "prDeletions": 12,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 4,
     "issuesClosed": 1,
     "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 5
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 3,
-      "reviews": 7,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1
     },
     "monthly": {
       "prs": 3,
-      "issues": 3,
+      "issues": 4,
       "reviews": 7,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 5
     }
   },
   "firstContribution": "2026-03-15T21:25:25Z",
-  "lastContribution": "2026-03-19T09:20:50Z",
+  "lastContribution": "2026-03-21T17:15:38Z",
   "recentPRs": [
     {
       "number": 49902,
@@ -87,6 +78,13 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 51767,
+      "title": "sessionRetention does not apply to subagent sessions — only cron-run sessions are swept",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T17:01:49Z",
+      "closedAt": null
+    },
     {
       "number": 50351,
       "title": "Bug: NO_REPLY tokens leak to webchat UI — streaming accumulator only applies to ACP sessions",
@@ -157,6 +155,11 @@
       "issues": 1,
       "reviews": 0
     },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 0,
       "issues": 1,
@@ -180,6 +183,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

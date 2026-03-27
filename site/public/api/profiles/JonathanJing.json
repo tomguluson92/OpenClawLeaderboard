@@ -1,57 +1,70 @@
 {
   "username": "JonathanJing",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/17068507?u=f57eb76c5f8df17f19cf8fecc9c720e09e961121&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17068507?v=4",
   "githubUrl": "https://github.com/JonathanJing",
   "score": {
-    "score": 166.48,
-    "prScore": 126.48,
-    "issueScore": 33,
+    "score": 169.27,
+    "prScore": 141.27,
+    "issueScore": 20,
     "reviewScore": 0,
-    "commentScore": 7
+    "commentScore": 8
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
-    "commits": 0,
-    "prs": 8,
-    "prsMerged": 1,
-    "prAdditions": 1996,
-    "prDeletions": 68,
-    "prChangedFiles": 20,
-    "prMergeRate": 13,
-    "issues": 6,
-    "issuesClosed": 1,
+    "commits": 2,
+    "prs": 10,
+    "prsMerged": 2,
+    "prAdditions": 2075,
+    "prDeletions": 80,
+    "prChangedFiles": 24,
+    "prMergeRate": 20,
+    "issues": 4,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 14,
-    "commitAdditions": 1005,
-    "commitDeletions": 13,
-    "commitChangedFiles": 8
+    "comments": 16
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 2,
       "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 1005,
-      "commitDeletions": 13,
-      "commits": 1
+      "comments": 3
     },
     "monthly": {
-      "prs": 8,
-      "issues": 6,
+      "prs": 10,
+      "issues": 4,
       "reviews": 0,
-      "comments": 14,
-      "commitAdditions": 1005,
-      "commitDeletions": 13,
-      "commits": 1
+      "comments": 16
     }
   },
-  "firstContribution": "2026-03-09T16:44:39Z",
-  "lastContribution": "2026-03-19T05:44:36Z",
+  "firstContribution": "2026-03-09T16:47:35Z",
+  "lastContribution": "2026-03-25T04:43:25Z",
   "recentPRs": [
+    {
+      "number": 54215,
+      "title": "fix(gateway): isolate channel startup failures to prevent cascade",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T03:57:56Z",
+      "mergedAt": "2026-03-25T04:52:42Z",
+      "additions": 48,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 54208,
+      "title": "fix(gateway): isolate channel startup failures to prevent cascade",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T03:46:45Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 2,
+      "changedFiles": 1
+    },
     {
       "number": 50250,
       "title": "fix(health): show gateway probe duration in text output",
@@ -88,7 +101,7 @@
     {
       "number": 44338,
       "title": "feat(security): add audit logging for command obfuscation detection",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T19:23:24Z",
       "mergedAt": null,
@@ -99,7 +112,7 @@
     {
       "number": 42483,
       "title": "test(agents): add integration tests for ACP session resume with conversation history",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T20:09:50Z",
       "mergedAt": null,
@@ -125,8 +138,8 @@
       "merged": false,
       "createdAt": "2026-03-09T23:57:28Z",
       "mergedAt": null,
-      "additions": 255,
-      "deletions": 4,
+      "additions": 264,
+      "deletions": 2,
       "changedFiles": 2
     },
     {
@@ -143,6 +156,20 @@
   ],
   "recentIssues": [
     {
+      "number": 54236,
+      "title": "PR #341: Notification Template Sharing Mock API",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T04:43:25Z",
+      "closedAt": null
+    },
+    {
+      "number": 54219,
+      "title": "Bug: Single channel plugin runtime failure blocks all other channels from starting (e.g. WhatsApp blocks Discord)",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T04:06:38Z",
+      "closedAt": null
+    },
+    {
       "number": 50245,
       "title": "health: show gateway probe duration in text output",
       "state": "OPEN",
@@ -155,38 +182,15 @@
       "state": "OPEN",
       "createdAt": "2026-03-14T00:19:06Z",
       "closedAt": null
-    },
-    {
-      "number": 44334,
-      "title": "Feature Request: Security Observability & Hardening Metrics",
-      "state": "CLOSED",
-      "createdAt": "2026-03-12T19:11:16Z",
-      "closedAt": "2026-03-12T19:14:42Z"
-    },
-    {
-      "number": 43376,
-      "title": "feat(agents): dynamic store override based on provider metadata",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T17:17:43Z",
-      "closedAt": null
-    },
-    {
-      "number": 41542,
-      "title": "feat: local OpenAI-compatible endpoints (e.g. local-dgx-spark) report zero token usage in session transcripts and cron run logs",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T23:51:03Z",
-      "closedAt": null
-    },
-    {
-      "number": 41272,
-      "title": "Bug: Cron job UI rejects timeoutSeconds: 0 (no-timeout mode)",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T16:44:39Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 1,
@@ -199,7 +203,7 @@
     },
     "2026-03-12": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     },
     "2026-03-10": {
@@ -209,28 +213,21 @@
     },
     "2026-03-09": {
       "prs": 2,
-      "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Issue Reporting",
-    "Discussion"
+    "Discussion",
+    "Direct Commits"
   ],
   "achievements": [
     {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-17": 1
-  }
+  ]
 }

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/30227294?u=dd9e9c3e7d499b332aa18f7431150b16778c769b&v=4",
   "githubUrl": "https://github.com/wuxudongxd",
   "score": {
-    "score": 16.32,
+    "score": 10.82,
     "prScore": 10.32,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 25,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-10T15:57:08Z",
+  "firstContribution": "2026-03-10T16:08:24Z",
   "lastContribution": "2026-03-11T04:47:12Z",
   "recentPRs": [
     {
@@ -64,28 +55,18 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42311,
-      "title": "openai-codex runtime requests can ignore proxy env unless NODE_USE_ENV_PROXY=1; backend-api requests also need browser-like headers in some proxy setups",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T15:57:08Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

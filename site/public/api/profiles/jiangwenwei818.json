@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/249669838?v=4",
   "githubUrl": "https://github.com/jiangwenwei818",
   "score": {
-    "score": 214.56,
-    "prScore": 209.56,
+    "score": 71.45,
+    "prScore": 70.45,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 1
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 18,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 597,
-    "prDeletions": 161,
-    "prChangedFiles": 42,
+    "prAdditions": 183,
+    "prDeletions": 10,
+    "prChangedFiles": 18,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 8,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 18,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-06T08:30:06Z",
-  "lastContribution": "2026-03-17T03:31:42Z",
+  "firstContribution": "2026-03-10T08:18:11Z",
+  "lastContribution": "2026-03-13T09:19:13Z",
   "recentPRs": [
     {
       "number": 42994,
@@ -117,138 +108,6 @@
       "additions": 123,
       "deletions": 6,
       "changedFiles": 13
-    },
-    {
-      "number": 40749,
-      "title": "fix(exec): warn when allow-always cannot persist patterns for shell builtins",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T07:53:10Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 40748,
-      "title": "fix(config): deduplicate config validation warnings to prevent log flooding",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T07:48:23Z",
-      "mergedAt": null,
-      "additions": 6,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 40704,
-      "title": "fix(cron): filter reasoning payloads and strip thinking tags from announce delivery",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T06:52:17Z",
-      "mergedAt": null,
-      "additions": 61,
-      "deletions": 8,
-      "changedFiles": 2
-    },
-    {
-      "number": 40690,
-      "title": "fix(imessage): strip reply directive tags instead of rendering as literal text",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T06:37:30Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 62,
-      "changedFiles": 2
-    },
-    {
-      "number": 40682,
-      "title": "fix(web-search): throw on unresolved SecretRef apiKey instead of silently dropping",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T06:27:39Z",
-      "mergedAt": null,
-      "additions": 30,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 40556,
-      "title": "fix(memory): migrate Ollama embeddings to /api/embed endpoint",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T03:55:22Z",
-      "mergedAt": null,
-      "additions": 49,
-      "deletions": 19,
-      "changedFiles": 2
-    },
-    {
-      "number": 40555,
-      "title": "fix(pruner): weight CJK/non-Latin characters for accurate token estimation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T03:53:07Z",
-      "mergedAt": null,
-      "additions": 56,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 40532,
-      "title": "fix(cli): close cached memory managers on exit to prevent process hang",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T03:34:32Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 40518,
-      "title": "fix(skills): expand tilde in workspace path before skill root validation",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T03:28:25Z",
-      "mergedAt": null,
-      "additions": 28,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 40499,
-      "title": "fix(heartbeat): respect custom prompt without appending path hint",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T03:06:47Z",
-      "mergedAt": null,
-      "additions": 36,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 40484,
-      "title": "fix(telegram): accept negative group/supergroup IDs in groupAllowFrom",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T02:52:59Z",
-      "mergedAt": null,
-      "additions": 38,
-      "deletions": 5,
-      "changedFiles": 2
-    },
-    {
-      "number": 37460,
-      "title": "fix(feishu): fix streaming card sequence skew, card action chat_type, and webhook cleanup",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T08:30:06Z",
-      "mergedAt": null,
-      "additions": 69,
-      "deletions": 45,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
@@ -263,28 +122,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 11,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

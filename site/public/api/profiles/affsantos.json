@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/16784199?u=071b3c68fad3734f1fef69b62c2627fc02560d03&v=4",
   "githubUrl": "https://github.com/affsantos",
   "score": {
-    "score": 44,
-    "prScore": 20.5,
+    "score": 94.6,
+    "prScore": 50.1,
     "issueScore": 0,
-    "reviewScore": 21,
+    "reviewScore": 42,
     "commentScore": 2.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
-    "prsMerged": 0,
-    "prAdditions": 70,
-    "prDeletions": 5,
-    "prChangedFiles": 5,
-    "prMergeRate": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 895,
+    "prDeletions": 511,
+    "prChangedFiles": 12,
+    "prMergeRate": 33,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 7,
+    "reviews": 14,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 5
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 7,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
-      "reviews": 7,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 14,
+      "comments": 5
     }
   },
   "firstContribution": "2026-03-14T08:16:30Z",
-  "lastContribution": "2026-03-20T08:46:32Z",
+  "lastContribution": "2026-03-24T22:49:22Z",
   "recentPRs": [
+    {
+      "number": 53944,
+      "title": "fix(gateway): pin channel registry at startup to survive registry swaps",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T20:23:43Z",
+      "mergedAt": "2026-03-25T04:33:04Z",
+      "additions": 824,
+      "deletions": 506,
+      "changedFiles": 6
+    },
     {
       "number": 50085,
       "title": "fix(logging): use globalThis for log transport registry to survive jiti plugin loading",
@@ -70,13 +72,48 @@
       "merged": false,
       "createdAt": "2026-03-14T08:16:30Z",
       "mergedAt": null,
-      "additions": 34,
+      "additions": 35,
       "deletions": 1,
-      "changedFiles": 4
+      "changedFiles": 5
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 53944,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T22:49:22Z"
+    },
+    {
+      "prNumber": 53944,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T22:40:44Z"
+    },
+    {
+      "prNumber": 53944,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T22:22:04Z"
+    },
+    {
+      "prNumber": 53944,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T20:31:31Z"
+    },
+    {
+      "prNumber": 53944,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T20:29:27Z"
+    },
+    {
+      "prNumber": 45876,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T23:23:11Z"
+    },
+    {
+      "prNumber": 45876,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T18:05:00Z"
+    },
     {
       "prNumber": 45876,
       "state": "COMMENTED",
@@ -114,6 +151,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
@@ -124,10 +166,15 @@
       "issues": 0,
       "reviews": 2
     },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-20": {
       "prs": 0,
       "issues": 0,
-      "reviews": 5
+      "reviews": 6
     }
   },
   "skills": [
@@ -135,6 +182,11 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ]
 }

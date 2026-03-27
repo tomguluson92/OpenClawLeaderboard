@@ -1,57 +1,246 @@
 {
   "username": "ernestodeoliveira",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/26804139?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26804139?u=22f2499c78af9d5c72976b80c3d097c6042cc9e2&v=4",
   "githubUrl": "https://github.com/ernestodeoliveira",
   "score": {
-    "score": 21.03,
-    "prScore": 20.03,
-    "issueScore": 0,
+    "score": 265.35,
+    "prScore": 253.35,
+    "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 7
   },
-  "tier": "beginner",
-  "characterClass": "Contributor",
+  "tier": "active",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 19,
     "prsMerged": 1,
-    "prAdditions": 130,
-    "prDeletions": 1,
-    "prChangedFiles": 3,
-    "prMergeRate": 100,
-    "issues": 0,
+    "prAdditions": 2351,
+    "prDeletions": 146,
+    "prChangedFiles": 86,
+    "prMergeRate": 5,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 130,
-    "commitDeletions": 1,
-    "commitChangedFiles": 3
+    "comments": 14
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 18,
+      "issues": 1,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 130,
-      "commitDeletions": 1,
-      "commits": 1
+      "comments": 12
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 19,
+      "issues": 1,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 130,
-      "commitDeletions": 1,
-      "commits": 1
+      "comments": 14
     }
   },
   "firstContribution": "2026-03-20T00:08:36Z",
-  "lastContribution": "2026-03-20T03:29:58Z",
+  "lastContribution": "2026-03-24T16:05:18Z",
   "recentPRs": [
+    {
+      "number": 53782,
+      "title": "fix(discord): graceful degradation when account missing Message Content Intent",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T16:05:18Z",
+      "mergedAt": null,
+      "additions": 85,
+      "deletions": 10,
+      "changedFiles": 2
+    },
+    {
+      "number": 53780,
+      "title": "fix(media): sanitize fetch errors before posting to channels",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T16:03:03Z",
+      "mergedAt": null,
+      "additions": 176,
+      "deletions": 6,
+      "changedFiles": 6
+    },
+    {
+      "number": 53779,
+      "title": "fix(models): log warning and continue when one provider fails validation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T16:01:26Z",
+      "mergedAt": null,
+      "additions": 138,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 53044,
+      "title": "fix(exec): recognize control-ui and webchat clients as valid exec approval clients",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T17:24:56Z",
+      "mergedAt": null,
+      "additions": 85,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 52303,
+      "title": "fix(exec): skip delivery channel resolution in webchat-only exec approval followup",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T14:53:37Z",
+      "mergedAt": null,
+      "additions": 167,
+      "deletions": 12,
+      "changedFiles": 10
+    },
+    {
+      "number": 52302,
+      "title": "fix(exec): recognize control-ui and webchat clients as valid exec approval clients",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T14:53:21Z",
+      "mergedAt": null,
+      "additions": 201,
+      "deletions": 14,
+      "changedFiles": 13
+    },
+    {
+      "number": 51970,
+      "title": "fix(utils): reduce maskApiKey exposure from 16 to 4 characters",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T01:06:47Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 51925,
+      "title": "fix(models): log warning and continue when one provider fails validation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T23:16:38Z",
+      "mergedAt": null,
+      "additions": 138,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51883,
+      "title": "fix(discord): gracefully handle large attachment fetch failures",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T21:24:39Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 51835,
+      "title": "fix(discord): graceful degradation when account missing Message Content Intent",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T19:19:37Z",
+      "mergedAt": null,
+      "additions": 87,
+      "deletions": 10,
+      "changedFiles": 2
+    },
+    {
+      "number": 51751,
+      "title": "fix(audio): handle missing ffprobe gracefully instead of crashing WebSocket",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T16:47:25Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 51711,
+      "title": "fix(session): sanitize orphaned tool_result API errors before posting to channels",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T16:05:52Z",
+      "mergedAt": null,
+      "additions": 89,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 51344,
+      "title": "fix(media): sanitize fetch errors before posting to channels",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T00:23:10Z",
+      "mergedAt": null,
+      "additions": 177,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 51338,
+      "title": "fix(utils): reduce maskApiKey exposure from 16 to 4 characters",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T00:06:00Z",
+      "mergedAt": null,
+      "additions": 202,
+      "deletions": 20,
+      "changedFiles": 8
+    },
+    {
+      "number": 51326,
+      "title": "fix(hooks): graceful degradation when hook entry fails to load",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T23:41:05Z",
+      "mergedAt": null,
+      "additions": 83,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 51323,
+      "title": "fix(sandbox): sanitize security errors before posting to channels",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T23:33:04Z",
+      "mergedAt": null,
+      "additions": 180,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 51315,
+      "title": "fix(utils): reduce maskApiKey exposure from 16 to 4 characters",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T23:19:54Z",
+      "mergedAt": null,
+      "additions": 127,
+      "deletions": 14,
+      "changedFiles": 6
+    },
+    {
+      "number": 51314,
+      "title": "fix(sandbox): sanitize security errors before posting to channels",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T23:06:38Z",
+      "mergedAt": null,
+      "additions": 99,
+      "deletions": 1,
+      "changedFiles": 4
+    },
     {
       "number": 50710,
       "title": "fix(telegram): warn when setup leaves dmPolicy as pairing without allowFrom",
@@ -64,21 +253,53 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 51928,
+      "title": "Feature: Transparent exec logging — show commands before/as they run (log mode without confirmation)",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T23:19:44Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-20": {
+    "2026-03-24": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
       "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 7,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 5,
       "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
+    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-20": 1
-  }
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ]
 }

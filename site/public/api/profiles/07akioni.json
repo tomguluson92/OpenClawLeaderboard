@@ -3,50 +3,41 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/18677354?u=5e9132d9388f7837be30a23b152958a24ba9232b&v=4",
   "githubUrl": "https://github.com/07akioni",
   "score": {
-    "score": 46.98,
-    "prScore": 37.98,
+    "score": 55.89,
+    "prScore": 46.89,
     "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 308,
+    "prsMerged": 1,
+    "prAdditions": 347,
     "prDeletions": 1,
-    "prChangedFiles": 18,
-    "prMergeRate": 0,
+    "prChangedFiles": 21,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-17T05:45:55Z",
@@ -55,13 +46,13 @@
     {
       "number": 48762,
       "title": "feat: add deepseek as builtin provider",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-17T05:45:55Z",
-      "mergedAt": null,
-      "additions": 308,
+      "mergedAt": "2026-03-23T12:06:07Z",
+      "additions": 347,
       "deletions": 1,
-      "changedFiles": 18
+      "changedFiles": 21
     }
   ],
   "recentIssues": [],
@@ -98,6 +89,5 @@
     "Pull Requests",
     "Code Review"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

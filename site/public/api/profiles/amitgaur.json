@@ -1,0 +1,81 @@
+{
+  "username": "amitgaur",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1043131?v=4",
+  "githubUrl": "https://github.com/amitgaur",
+  "score": {
+    "score": 16.18,
+    "prScore": 10.68,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 59,
+    "prDeletions": 0,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-24T04:39:39Z",
+  "lastContribution": "2026-03-24T15:29:16Z",
+  "recentPRs": [
+    {
+      "number": 53762,
+      "title": "fix(telegram): flush buffered final answer when reasoning delivery is skipped [AI-assisted]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T15:16:57Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 53384,
+      "title": "[Bug]:  streaming: partial drops text block when assistant turn contains [thinking, text]",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T04:39:39Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

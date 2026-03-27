@@ -3,55 +3,101 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1765672?u=d0cea991ec834895b6800055018093e425f6d153&v=4",
   "githubUrl": "https://github.com/imwyvern",
   "score": {
-    "score": 238.22,
-    "prScore": 221.72,
-    "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 13.5
+    "score": 237.34,
+    "prScore": 222.84,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 4.5
   },
   "tier": "active",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 14,
+    "prs": 13,
     "prsMerged": 0,
-    "prAdditions": 3664,
-    "prDeletions": 154,
-    "prChangedFiles": 55,
+    "prAdditions": 5321,
+    "prDeletions": 1244,
+    "prChangedFiles": 128,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 2,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 27,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 9
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 0,
+      "prs": 5,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 14,
-      "issues": 0,
-      "reviews": 1,
-      "comments": 27,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 13,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 9
     }
   },
-  "firstContribution": "2026-03-07T11:21:04Z",
-  "lastContribution": "2026-03-16T10:46:33Z",
+  "firstContribution": "2026-03-10T08:18:39Z",
+  "lastContribution": "2026-03-23T13:21:01Z",
   "recentPRs": [
+    {
+      "number": 52747,
+      "title": "fix(acp): time out stuck session lane tasks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T09:03:54Z",
+      "mergedAt": null,
+      "additions": 730,
+      "deletions": 443,
+      "changedFiles": 9
+    },
+    {
+      "number": 52628,
+      "title": "fix(acp): time out stuck session lane tasks",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T04:36:07Z",
+      "mergedAt": null,
+      "additions": 730,
+      "deletions": 443,
+      "changedFiles": 9
+    },
+    {
+      "number": 52554,
+      "title": "fix(cron): skip skills prompt in lightweight cron mode",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T01:15:34Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 52365,
+      "title": "fix(cron): stop fallback attempts when cron budget is exhausted",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T16:34:00Z",
+      "mergedAt": null,
+      "additions": 388,
+      "deletions": 21,
+      "changedFiles": 15
+    },
+    {
+      "number": 52209,
+      "title": "fix(acpx): store agent session ID when session/load fails",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T11:23:30Z",
+      "mergedAt": null,
+      "additions": 1050,
+      "deletions": 96,
+      "changedFiles": 27
+    },
     {
       "number": 48144,
       "title": "fix(ui): show current context tokens instead of cumulative in Control UI",
@@ -59,9 +105,9 @@
       "merged": false,
       "createdAt": "2026-03-16T10:46:33Z",
       "mergedAt": null,
-      "additions": 40,
-      "deletions": 4,
-      "changedFiles": 3
+      "additions": 62,
+      "deletions": 23,
+      "changedFiles": 7
     },
     {
       "number": 48098,
@@ -81,9 +127,9 @@
       "merged": false,
       "createdAt": "2026-03-16T09:45:13Z",
       "mergedAt": null,
-      "additions": 97,
-      "deletions": 3,
-      "changedFiles": 4
+      "additions": 296,
+      "deletions": 29,
+      "changedFiles": 11
     },
     {
       "number": 48095,
@@ -92,9 +138,9 @@
       "merged": false,
       "createdAt": "2026-03-16T09:44:40Z",
       "mergedAt": null,
-      "additions": 93,
-      "deletions": 10,
-      "changedFiles": 2
+      "additions": 149,
+      "deletions": 29,
+      "changedFiles": 7
     },
     {
       "number": 42669,
@@ -103,9 +149,9 @@
       "merged": false,
       "createdAt": "2026-03-11T02:02:59Z",
       "mergedAt": null,
-      "additions": 109,
-      "deletions": 2,
-      "changedFiles": 4
+      "additions": 378,
+      "deletions": 30,
+      "changedFiles": 19
     },
     {
       "number": 42637,
@@ -114,9 +160,9 @@
       "merged": false,
       "createdAt": "2026-03-11T01:36:20Z",
       "mergedAt": null,
-      "additions": 104,
-      "deletions": 3,
-      "changedFiles": 2
+      "additions": 207,
+      "deletions": 22,
+      "changedFiles": 7
     },
     {
       "number": 42265,
@@ -139,83 +185,36 @@
       "additions": 348,
       "deletions": 96,
       "changedFiles": 8
-    },
-    {
-      "number": 40700,
-      "title": "fix(subagent): include partial progress when subagent times out",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T06:46:00Z",
-      "mergedAt": null,
-      "additions": 410,
-      "deletions": 9,
-      "changedFiles": 3
-    },
-    {
-      "number": 40677,
-      "title": "fix(subagent): include partial progress when subagent times out",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T06:21:25Z",
-      "mergedAt": null,
-      "additions": 180,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 40574,
-      "title": "feat(write): add append mode to prevent silent data loss",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T04:17:12Z",
-      "mergedAt": null,
-      "additions": 525,
-      "deletions": 11,
-      "changedFiles": 5
-    },
-    {
-      "number": 40573,
-      "title": "fix(sanitize): strip GLM/DeepSeek special tokens from user-facing text",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T04:16:51Z",
-      "mergedAt": null,
-      "additions": 76,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 38812,
-      "title": "fix(agents): add safety valve for consecutive tool-only turns and API error notification",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T11:26:03Z",
-      "mergedAt": null,
-      "additions": 712,
-      "deletions": 4,
-      "changedFiles": 12
-    },
-    {
-      "number": 38804,
-      "title": "fix(cron): default delivery mode to \"announce\" for isolated agentTurn jobs",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T11:21:04Z",
-      "mergedAt": null,
-      "additions": 49,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [
+  "recentIssues": [
     {
-      "prNumber": 40574,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-11T06:20:39Z"
+      "number": 52873,
+      "title": "ClawHub publish fails: Convex pagination error after 8+ skills",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T13:21:01Z",
+      "closedAt": null
+    },
+    {
+      "number": 52182,
+      "title": "ACP: gemini CLI session/load always fails - acpx session ID not recognized by gemini",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T09:57:42Z",
+      "closedAt": null
     }
   ],
+  "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-16": {
       "prs": 4,
       "issues": 0,
@@ -224,19 +223,9 @@
     "2026-03-11": {
       "prs": 2,
       "issues": 0,
-      "reviews": 1
+      "reviews": 0
     },
     "2026-03-10": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
@@ -244,20 +233,15 @@
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
-    "Discussion"
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [
     {
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

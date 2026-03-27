@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4946739?u=8cec54b64f0c1e51f7cc82067d66bc264664a1c5&v=4",
   "githubUrl": "https://github.com/furaul",
   "score": {
-    "score": 54.6,
-    "prScore": 44.1,
+    "score": 215.08,
+    "prScore": 205.08,
     "issueScore": 0,
     "reviewScore": 9,
-    "commentScore": 1.5
+    "commentScore": 1
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 342,
-    "prDeletions": 31,
-    "prChangedFiles": 13,
+    "prAdditions": 261166,
+    "prDeletions": 79504,
+    "prChangedFiles": 3778,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 3,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 3,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-08T09:12:13Z",
+  "firstContribution": "2026-03-16T11:57:23Z",
   "lastContribution": "2026-03-18T02:31:35Z",
   "recentPRs": [
     {
@@ -66,24 +57,13 @@
     {
       "number": 48178,
       "title": "refactor: unify Gemini base URL normalization for inline-data and embeddings",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-16T11:57:23Z",
       "mergedAt": null,
-      "additions": 119,
-      "deletions": 20,
-      "changedFiles": 7
-    },
-    {
-      "number": 39656,
-      "title": "fix(gemini-url): preserve custom API version in base URLs",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T09:12:13Z",
-      "mergedAt": null,
-      "additions": 222,
-      "deletions": 11,
-      "changedFiles": 5
+      "additions": 261165,
+      "deletions": 79504,
+      "changedFiles": 3777
     }
   ],
   "recentIssues": [],
@@ -115,11 +95,6 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
     "2026-03-18": {
       "prs": 0,
       "issues": 0,
@@ -129,8 +104,19 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ]
 }

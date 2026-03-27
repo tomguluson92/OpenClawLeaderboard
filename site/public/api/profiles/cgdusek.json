@@ -3,55 +3,145 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/38732970?v=4",
   "githubUrl": "https://github.com/cgdusek",
   "score": {
-    "score": 573.29,
-    "prScore": 364.79,
+    "score": 595.84,
+    "prScore": 395.34,
     "issueScore": 0,
-    "reviewScore": 171,
-    "commentScore": 37.5
+    "reviewScore": 168,
+    "commentScore": 32.5
   },
   "tier": "veteran",
   "characterClass": "Reviewer",
   "stats": {
-    "commits": 11,
-    "prs": 23,
-    "prsMerged": 2,
-    "prAdditions": 11072,
-    "prDeletions": 1214,
-    "prChangedFiles": 206,
-    "prMergeRate": 9,
+    "commits": 16,
+    "prs": 25,
+    "prsMerged": 3,
+    "prAdditions": 5622,
+    "prDeletions": 725,
+    "prChangedFiles": 129,
+    "prMergeRate": 12,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 57,
+    "reviews": 56,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 75,
-    "commitAdditions": 1229,
-    "commitDeletions": 102,
-    "commitChangedFiles": 38
+    "comments": 65
   },
   "period": {
     "weekly": {
-      "prs": 10,
+      "prs": 9,
       "issues": 0,
-      "reviews": 10,
-      "comments": 24,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 25,
+      "comments": 20
     },
     "monthly": {
-      "prs": 23,
+      "prs": 25,
       "issues": 0,
-      "reviews": 57,
-      "comments": 75,
-      "commitAdditions": 1229,
-      "commitDeletions": 102,
-      "commits": 11
+      "reviews": 56,
+      "comments": 65
     }
   },
-  "firstContribution": "2026-03-06T06:06:48Z",
-  "lastContribution": "2026-03-19T02:46:57Z",
+  "firstContribution": "2026-03-09T21:54:07Z",
+  "lastContribution": "2026-03-27T05:43:53Z",
   "recentPRs": [
+    {
+      "number": 55582,
+      "title": "fix(discord): route REST API calls through configured proxy",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T05:38:19Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 55221,
+      "title": "perf(agents): add contextInjection option to skip workspace re-injection",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T14:51:38Z",
+      "mergedAt": null,
+      "additions": 720,
+      "deletions": 210,
+      "changedFiles": 11
+    },
+    {
+      "number": 54527,
+      "title": "fix(logging): rebuild subsystem file logger on date rollover",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T15:02:11Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 53748,
+      "title": "fix(usage): return accumulated input/cache tokens from toNormalizedUsage",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T14:52:54Z",
+      "mergedAt": null,
+      "additions": 283,
+      "deletions": 84,
+      "changedFiles": 3
+    },
+    {
+      "number": 53410,
+      "title": "fix(update): treat numeric -N suffix as calver revision, not pre-release",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T05:21:20Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 52521,
+      "title": "fix(usage): attribute per-channel stats by origin provider, not delivery channel",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T23:34:54Z",
+      "mergedAt": null,
+      "additions": 85,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 52465,
+      "title": "fix(cli): route logs to stderr in --json mode",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T20:15:15Z",
+      "mergedAt": "2026-03-22T22:43:49Z",
+      "additions": 41,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 52449,
+      "title": "fix(cli): route plugin logs to stderr during --json output",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T19:22:35Z",
+      "mergedAt": "2026-03-23T04:51:08Z",
+      "additions": 237,
+      "deletions": 43,
+      "changedFiles": 9
+    },
+    {
+      "number": 51267,
+      "title": "fix: guard against malformed text blocks in context truncation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T20:47:34Z",
+      "mergedAt": null,
+      "additions": 184,
+      "deletions": 4,
+      "changedFiles": 4
+    },
     {
       "number": 50139,
       "title": "fix: stabilize CI — stale compat assertion, matrix setup leak, AJV ESM import",
@@ -99,7 +189,7 @@
     {
       "number": 50109,
       "title": "fix(synology-chat): strip channel prefix from peer ID before numeric parse",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T01:15:53Z",
       "mergedAt": null,
@@ -121,7 +211,7 @@
     {
       "number": 49994,
       "title": "fix(memory): detect QMD pattern changes when path is absent",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T19:43:15Z",
       "mergedAt": null,
@@ -143,7 +233,7 @@
     {
       "number": 47646,
       "title": "fix(embedded): prevent requiresThinkingAsText unshift crash",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T21:49:31Z",
       "mergedAt": null,
@@ -165,218 +255,149 @@
     {
       "number": 44389,
       "title": "fix(reply): block risky smaller-context model switches",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T21:21:24Z",
       "mergedAt": null,
-      "additions": 581,
+      "additions": 595,
       "deletions": 32,
       "changedFiles": 5
-    },
-    {
-      "number": 44161,
-      "title": "fix(macos): fail fast when gateway startup already failed",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-12T15:16:24Z",
-      "mergedAt": null,
-      "additions": 206,
-      "deletions": 4,
-      "changedFiles": 4
-    },
-    {
-      "number": 43258,
-      "title": "fix(auto-reply): retry inbound debounce flush after lock contention",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-11T14:33:27Z",
-      "mergedAt": null,
-      "additions": 1582,
-      "deletions": 153,
-      "changedFiles": 21
-    },
-    {
-      "number": 42562,
-      "title": "fix(agents): fail over on streaming server_error",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-10T23:11:38Z",
-      "mergedAt": null,
-      "additions": 173,
-      "deletions": 46,
-      "changedFiles": 17
-    },
-    {
-      "number": 41711,
-      "title": "fix(agents): avoid duplicate same-provider cooldown probes in fallback runs",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T03:56:48Z",
-      "mergedAt": "2026-03-10T12:26:47Z",
-      "additions": 129,
-      "deletions": 0,
-      "changedFiles": 3
-    },
-    {
-      "number": 41466,
-      "title": "ACP: fix native thread-bound session placement",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T21:54:07Z",
-      "mergedAt": null,
-      "additions": 524,
-      "deletions": 43,
-      "changedFiles": 8
-    },
-    {
-      "number": 40457,
-      "title": "fix(kimi): recover downgraded text/XML tool calls in embedded runner",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T02:08:02Z",
-      "mergedAt": null,
-      "additions": 1408,
-      "deletions": 551,
-      "changedFiles": 13
-    },
-    {
-      "number": 40324,
-      "title": "fix(agents): bound compaction retry wait and drain embedded runs on restart",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T22:44:32Z",
-      "mergedAt": "2026-03-09T15:27:29Z",
-      "additions": 478,
-      "deletions": 19,
-      "changedFiles": 10
-    },
-    {
-      "number": 40202,
-      "title": "fix(config): auto-migrate legacy local onboarding messaging profile",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T19:38:43Z",
-      "mergedAt": null,
-      "additions": 651,
-      "deletions": 91,
-      "changedFiles": 21
-    },
-    {
-      "number": 39049,
-      "title": "Feature: add continuity context engine",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T17:35:54Z",
-      "mergedAt": null,
-      "additions": 4042,
-      "deletions": 151,
-      "changedFiles": 53
     }
   ],
   "recentIssues": [],
   "recentReviews": [
     {
-      "prNumber": 50139,
+      "prNumber": 55221,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T02:30:09Z"
+      "createdAt": "2026-03-27T04:00:49Z"
     },
     {
-      "prNumber": 50109,
+      "prNumber": 55221,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T01:20:49Z"
+      "createdAt": "2026-03-27T04:00:41Z"
     },
     {
-      "prNumber": 50034,
+      "prNumber": 55221,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T22:25:52Z"
+      "createdAt": "2026-03-27T03:52:14Z"
     },
     {
-      "prNumber": 50034,
+      "prNumber": 55221,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T22:25:45Z"
+      "createdAt": "2026-03-27T03:52:13Z"
     },
     {
-      "prNumber": 49947,
+      "prNumber": 55221,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T19:34:10Z"
+      "createdAt": "2026-03-27T03:52:01Z"
     },
     {
-      "prNumber": 49947,
+      "prNumber": 55221,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T19:07:57Z"
+      "createdAt": "2026-03-27T03:52:00Z"
     },
     {
-      "prNumber": 49947,
+      "prNumber": 54527,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T19:07:57Z"
+      "createdAt": "2026-03-25T15:33:04Z"
     },
     {
-      "prNumber": 49947,
+      "prNumber": 54527,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T19:07:57Z"
+      "createdAt": "2026-03-25T15:33:02Z"
     },
     {
-      "prNumber": 49947,
+      "prNumber": 53748,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T19:07:57Z"
-    },
-    {
-      "prNumber": 45491,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-14T14:47:32Z"
-    },
-    {
-      "prNumber": 44389,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T22:37:17Z"
-    },
-    {
-      "prNumber": 44389,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T22:37:15Z"
-    },
-    {
-      "prNumber": 44389,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T21:55:38Z"
-    },
-    {
-      "prNumber": 44389,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T21:32:40Z"
-    },
-    {
-      "prNumber": 44389,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T21:32:14Z"
+      "createdAt": "2026-03-24T15:04:04Z"
     },
     {
       "prNumber": 44161,
       "state": "COMMENTED",
-      "createdAt": "2026-03-12T19:54:44Z"
+      "createdAt": "2026-03-23T22:40:21Z"
     },
     {
       "prNumber": 44161,
       "state": "COMMENTED",
-      "createdAt": "2026-03-12T19:26:51Z"
+      "createdAt": "2026-03-23T22:40:05Z"
     },
     {
-      "prNumber": 43258,
+      "prNumber": 44161,
       "state": "COMMENTED",
-      "createdAt": "2026-03-12T14:13:14Z"
+      "createdAt": "2026-03-23T22:39:46Z"
     },
     {
-      "prNumber": 43258,
+      "prNumber": 47646,
       "state": "COMMENTED",
-      "createdAt": "2026-03-12T05:47:06Z"
+      "createdAt": "2026-03-23T22:39:24Z"
     },
     {
-      "prNumber": 43258,
+      "prNumber": 47646,
       "state": "COMMENTED",
-      "createdAt": "2026-03-12T04:48:45Z"
+      "createdAt": "2026-03-23T22:39:12Z"
+    },
+    {
+      "prNumber": 50034,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T22:38:52Z"
+    },
+    {
+      "prNumber": 50034,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T22:38:36Z"
+    },
+    {
+      "prNumber": 50034,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T22:38:23Z"
+    },
+    {
+      "prNumber": 51267,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T22:36:59Z"
+    },
+    {
+      "prNumber": 51267,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T22:36:58Z"
+    },
+    {
+      "prNumber": 51267,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T22:36:57Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-22": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 5,
       "issues": 0,
@@ -413,24 +434,14 @@
       "reviews": 6
     },
     "2026-03-09": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 9
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 8
-    },
-    "2026-03-07": {
       "prs": 1,
       "issues": 0,
-      "reviews": 6
+      "reviews": 2
     },
-    "2026-03-06": {
-      "prs": 3,
+    "2026-03-23": {
+      "prs": 0,
       "issues": 0,
-      "reviews": 5
+      "reviews": 15
     },
     "2026-03-14": {
       "prs": 0,
@@ -465,17 +476,6 @@
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
-    },
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-10": 1,
-    "2026-03-09": 1,
-    "2026-03-08": 8,
-    "2026-03-02": 1
-  }
+  ]
 }

@@ -1,0 +1,106 @@
+{
+  "username": "kevinlin-openai",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/177054202?v=4",
+  "githubUrl": "https://github.com/kevinlin-openai",
+  "score": {
+    "score": 170.29,
+    "prScore": 169.79,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 16605,
+    "prDeletions": 27,
+    "prChangedFiles": 526,
+    "prMergeRate": 33,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-26T07:05:42Z",
+  "lastContribution": "2026-03-27T07:01:39Z",
+  "recentPRs": [
+    {
+      "number": 55620,
+      "title": "feat: proof of concept for supporting connectors in claw",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T07:01:39Z",
+      "mergedAt": null,
+      "additions": 16198,
+      "deletions": 19,
+      "changedFiles": 505
+    },
+    {
+      "number": 55589,
+      "title": "docs: remove GitHub Discussion guidance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T05:52:41Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 54987,
+      "title": "feat(slack): add upload-file action",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T07:05:42Z",
+      "mergedAt": "2026-03-26T08:07:58Z",
+      "additions": 406,
+      "deletions": 7,
+      "changedFiles": 20
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ]
+}

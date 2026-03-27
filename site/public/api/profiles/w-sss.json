@@ -3,175 +3,265 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/204439273?v=4",
   "githubUrl": "https://github.com/w-sss",
   "score": {
-    "score": 158.94,
-    "prScore": 155.44,
+    "score": 524.98,
+    "prScore": 502.48,
     "issueScore": 0,
     "reviewScore": 3,
-    "commentScore": 0.5
+    "commentScore": 19.5
   },
-  "tier": "regular",
+  "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
-    "commits": 0,
-    "prs": 11,
-    "prsMerged": 0,
-    "prAdditions": 875,
-    "prDeletions": 97,
-    "prChangedFiles": 38,
-    "prMergeRate": 0,
+    "commits": 4,
+    "prs": 50,
+    "prsMerged": 4,
+    "prAdditions": 2866,
+    "prDeletions": 211,
+    "prChangedFiles": 137,
+    "prMergeRate": 8,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 39
   },
   "period": {
     "weekly": {
-      "prs": 11,
+      "prs": 39,
       "issues": 0,
-      "reviews": 1,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 38
     },
     "monthly": {
-      "prs": 11,
+      "prs": 50,
       "issues": 0,
       "reviews": 1,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 39
     }
   },
   "firstContribution": "2026-03-14T13:16:19Z",
-  "lastContribution": "2026-03-19T08:19:40Z",
+  "lastContribution": "2026-03-26T22:01:00Z",
   "recentPRs": [
     {
-      "number": 50324,
-      "title": "fix(acp): deliver final result text even when TTS is not configured",
+      "number": 55288,
+      "title": "fix(release): run pnpm install before build to trigger matrix crypto postinstall (#55100)",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-19T08:19:40Z",
+      "createdAt": "2026-03-26T16:57:32Z",
       "mergedAt": null,
-      "additions": 128,
-      "deletions": 11,
+      "additions": 6,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 55287,
+      "title": "fix(gateway): add debug logging for empty tool args (#54975)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T16:56:58Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54611,
+      "title": "fix(telegram): always return currentChannelId to prevent DM regression",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T17:54:33Z",
+      "mergedAt": null,
+      "additions": 206,
+      "deletions": 0,
       "changedFiles": 3
     },
     {
-      "number": 50133,
+      "number": 54575,
+      "title": "fix(telegram): add buildToolContext to support forum topic thread IDs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T16:53:06Z",
+      "mergedAt": null,
+      "additions": 181,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 54569,
+      "title": "fix(matrix): lazy import music-metadata to avoid ESM __dirname issue",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T16:45:39Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 54563,
+      "title": "fix(whatsapp): filter fromMe messages in self-chat mode to prevent echo loop",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T16:36:16Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 53814,
+      "title": "fix(feishu): make card field optional in message tool schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T16:54:03Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 53777,
+      "title": "fix(ui): prevent blank chat during streaming replies",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T15:59:00Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 15,
+      "changedFiles": 1
+    },
+    {
+      "number": 53773,
+      "title": "fix(markdown): preserve intra-word underscores in stripMarkdown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T15:54:02Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 53770,
+      "title": "fix(markdown): improve underscore italic regex boundaries",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T15:41:53Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 53743,
       "title": "fix(browser): add logging for silent CDP/MCP errors",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-19T02:10:34Z",
+      "createdAt": "2026-03-24T14:38:23Z",
       "mergedAt": null,
-      "additions": 26,
+      "additions": 40,
       "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 53695,
+      "title": "fix(ui): prevent blank chat during streaming replies",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T13:03:16Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 15,
+      "changedFiles": 1
+    },
+    {
+      "number": 53694,
+      "title": "fix(markdown): improve underscore italic regex boundaries",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T13:02:40Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 53693,
+      "title": "fix(i18n): add missing zh-CN translations",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T13:02:01Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 53692,
+      "title": "fix(acp): deliver final result text as fallback when no blocks routed",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T13:00:47Z",
+      "mergedAt": "2026-03-24T17:28:34Z",
+      "additions": 132,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 53688,
+      "title": "fix(browser): add logging for silent CDP/MCP errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T12:59:41Z",
+      "mergedAt": null,
+      "additions": 71,
+      "deletions": 4,
       "changedFiles": 2
     },
     {
-      "number": 48952,
+      "number": 53637,
+      "title": "fix(browser): add logging for silent CDP/MCP errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T11:07:06Z",
+      "mergedAt": null,
+      "additions": 253,
+      "deletions": 18,
+      "changedFiles": 8
+    },
+    {
+      "number": 53636,
       "title": "fix(ui): display error message when channel config save fails",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-17T11:16:37Z",
+      "createdAt": "2026-03-24T11:06:57Z",
       "mergedAt": null,
       "additions": 17,
       "deletions": 1,
       "changedFiles": 2
     },
     {
-      "number": 48937,
-      "title": "fix(ui): display error message when channel config save fails",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-17T10:47:02Z",
-      "mergedAt": null,
-      "additions": 24,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 48650,
+      "number": 53635,
       "title": "fix(telegram): improve error messages for 403 bot not member errors",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-17T02:17:11Z",
-      "mergedAt": null,
-      "additions": 14,
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T11:06:49Z",
+      "mergedAt": "2026-03-25T05:29:29Z",
+      "additions": 82,
       "deletions": 1,
-      "changedFiles": 1
+      "changedFiles": 7
     },
     {
-      "number": 48649,
-      "title": "fix(install): install gateway daemon service for fresh installs",
+      "number": 53634,
+      "title": "fix: update fast-xml-parser to 5.5.8",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-17T02:16:37Z",
+      "createdAt": "2026-03-24T11:06:40Z",
       "mergedAt": null,
       "additions": 46,
       "deletions": 1,
       "changedFiles": 1
-    },
-    {
-      "number": 48619,
-      "title": "fix(telegram): improve error messages for 403 bot not member errors",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-17T01:32:09Z",
-      "mergedAt": null,
-      "additions": 201,
-      "deletions": 25,
-      "changedFiles": 9
-    },
-    {
-      "number": 48618,
-      "title": "fix(install): install gateway daemon service for fresh installs",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-17T01:31:24Z",
-      "mergedAt": null,
-      "additions": 231,
-      "deletions": 24,
-      "changedFiles": 9
-    },
-    {
-      "number": 47939,
-      "title": "Fix/UI context notice icon overflow",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-16T06:04:34Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 46863,
-      "title": "fix(acp): deliver final result text even when TTS is not configured",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-15T04:26:30Z",
-      "mergedAt": null,
-      "additions": 133,
-      "deletions": 9,
-      "changedFiles": 3
-    },
-    {
-      "number": 46146,
-      "title": "fix(browser): add logging for silent CDP/MCP errors",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-14T13:16:19Z",
-      "mergedAt": null,
-      "additions": 54,
-      "deletions": 15,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [],
@@ -183,6 +273,26 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 30,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 2,
       "issues": 0,
@@ -212,14 +322,24 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion"
+    "Discussion",
+    "Direct Commits"
   ],
   "achievements": [
     {
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

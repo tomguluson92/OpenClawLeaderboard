@@ -3,87 +3,86 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/57132813?u=d3d4b375855cabb35943fa7bce83402132156be4&v=4",
   "githubUrl": "https://github.com/Alex-wuhu",
   "score": {
-    "score": 108.32,
-    "prScore": 107.82,
-    "issueScore": 0,
+    "score": 59.57,
+    "prScore": 54.07,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1135,
-    "prDeletions": 577,
-    "prChangedFiles": 42,
+    "prAdditions": 1128,
+    "prDeletions": 1,
+    "prChangedFiles": 19,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-08T09:34:30Z",
-  "lastContribution": "2026-03-18T11:07:56Z",
+  "firstContribution": "2026-03-18T10:58:47Z",
+  "lastContribution": "2026-03-24T13:24:58Z",
   "recentPRs": [
+    {
+      "number": 53707,
+      "title": "feat(novita): add Novita AI as bundled provider with dynamic 200+ model catalog",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T13:24:58Z",
+      "mergedAt": null,
+      "additions": 1128,
+      "deletions": 1,
+      "changedFiles": 19
+    },
     {
       "number": 49749,
       "title": "feat: add Novita AI as a bundled LLM provider",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T10:58:47Z",
       "mergedAt": null,
-      "additions": 289,
+      "additions": 0,
       "deletions": 0,
-      "changedFiles": 15
-    },
-    {
-      "number": 39675,
-      "title": "feat: add Novita AI provider support with dynamic model discovery",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T09:34:30Z",
-      "mergedAt": null,
-      "additions": 846,
-      "deletions": 577,
-      "changedFiles": 27
+      "changedFiles": 0
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 53685,
+      "title": "External plugins fail to resolve openclaw/plugin-sdk/* imports — alias map missing argv1 fallback",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T12:57:14Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-18": {
+    "2026-03-24": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0
     },
-    "2026-03-08": {
+    "2026-03-18": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -91,8 +90,8 @@
   },
   "skills": [
     "Pull Requests",
+    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

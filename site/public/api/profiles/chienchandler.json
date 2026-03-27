@@ -1,0 +1,95 @@
+{
+  "username": "chienchandler",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/123870275?u=ef1facd88786477c1d1e24018efae06cfe973e05&v=4",
+  "githubUrl": "https://github.com/chienchandler",
+  "score": {
+    "score": 24.32,
+    "prScore": 17.32,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 34,
+    "prDeletions": 5,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 2
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 2
+    }
+  },
+  "firstContribution": "2026-03-22T10:50:28Z",
+  "lastContribution": "2026-03-22T11:54:27Z",
+  "recentPRs": [
+    {
+      "number": 52215,
+      "title": "fix(podman): relax image tar directory permissions for WSL",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T11:43:39Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 52200,
+      "title": "fix(skills): normalize backslashes in compacted skill paths on Windows",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T10:50:28Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 4,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 52215,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T11:50:01Z"
+    },
+    {
+      "prNumber": 52200,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T11:39:58Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": []
+}

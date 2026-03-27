@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/69437137?u=4c890036481d9803ff5960ad1a7fff7ce966f850&v=4",
   "githubUrl": "https://github.com/kiankyars",
   "score": {
-    "score": 8.97,
+    "score": 8.47,
     "prScore": 7.97,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -24,40 +24,31 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-07T23:10:23Z",
-  "lastContribution": "2026-03-10T22:38:47Z",
+  "firstContribution": "2026-03-21T19:45:34Z",
+  "lastContribution": "2026-03-21T19:46:19Z",
   "recentPRs": [
     {
-      "number": 39256,
+      "number": 51849,
       "title": "Docs: add freeCodeCamp OpenClaw full tutorial to showcase",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-07T23:10:23Z",
+      "createdAt": "2026-03-21T19:45:34Z",
       "mergedAt": null,
       "additions": 24,
       "deletions": 0,
@@ -67,7 +58,7 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-07": {
+    "2026-03-21": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -77,6 +68,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

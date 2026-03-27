@@ -1,0 +1,188 @@
+{
+  "username": "a77ming",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/108264035?v=4",
+  "githubUrl": "https://github.com/a77ming",
+  "score": {
+    "score": 149.99,
+    "prScore": 144.99,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 11,
+    "prsMerged": 0,
+    "prAdditions": 809,
+    "prDeletions": 151,
+    "prChangedFiles": 33,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 10
+  },
+  "period": {
+    "weekly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 10
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 10
+    }
+  },
+  "firstContribution": "2026-03-26T04:00:04Z",
+  "lastContribution": "2026-03-26T05:40:03Z",
+  "recentPRs": [
+    {
+      "number": 54908,
+      "title": "fix(feishu): reject webhook requests on the wrong path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T04:56:49Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 54906,
+      "title": "fix(feishu): ignore empty card payloads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T04:56:14Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 54905,
+      "title": "fix(ui): avoid rerendering chat thread on draft changes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T04:56:09Z",
+      "mergedAt": null,
+      "additions": 247,
+      "deletions": 98,
+      "changedFiles": 3
+    },
+    {
+      "number": 54901,
+      "title": "fix(ui): hint to use #token after query-token auth failures",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T04:49:29Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 54897,
+      "title": "fix(discord): publish string-only snowflake arrays in config schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T04:43:24Z",
+      "mergedAt": null,
+      "additions": 191,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 54896,
+      "title": "fix: include --fix-missing in doctor cleanup preview",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T04:40:34Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 54893,
+      "title": "docs(web): clarify provider behavior differences",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T04:35:46Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 54891,
+      "title": "fix: show file alias paths in tool display",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T04:32:29Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 15,
+      "changedFiles": 5
+    },
+    {
+      "number": 54884,
+      "title": "fix(minimax): mark MiniMax-M2.7 as image-capable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T04:18:09Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 6,
+      "changedFiles": 7
+    },
+    {
+      "number": 54871,
+      "title": "Normalize OpenAI-compatible websocket usage fields",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T04:00:42Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 54870,
+      "title": "docs: explain owner-only tools setup",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T04:00:04Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ]
+}

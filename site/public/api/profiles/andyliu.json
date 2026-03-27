@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2377291?u=80ee8b6585c1b90368535482293203fbe3e9d20a&v=4",
   "githubUrl": "https://github.com/andyliu",
   "score": {
-    "score": 158.15,
-    "prScore": 137.15,
+    "score": 213.35,
+    "prScore": 186.85,
     "issueScore": 0,
     "reviewScore": 12,
-    "commentScore": 9
+    "commentScore": 14.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 8,
-    "prsMerged": 1,
-    "prAdditions": 820,
-    "prDeletions": 77,
-    "prChangedFiles": 34,
-    "prMergeRate": 13,
+    "prs": 10,
+    "prsMerged": 2,
+    "prAdditions": 1405,
+    "prDeletions": 214,
+    "prChangedFiles": 69,
+    "prMergeRate": 20,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 18,
-    "commitAdditions": 47,
-    "commitDeletions": 4,
-    "commitChangedFiles": 4
+    "comments": 29
   },
   "period": {
     "weekly": {
       "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 12
     },
     "monthly": {
-      "prs": 8,
+      "prs": 10,
       "issues": 0,
       "reviews": 4,
-      "comments": 18,
-      "commitAdditions": 47,
-      "commitDeletions": 4,
-      "commits": 1
+      "comments": 29
     }
   },
   "firstContribution": "2026-03-10T10:31:04Z",
-  "lastContribution": "2026-03-18T07:27:27Z",
+  "lastContribution": "2026-03-25T14:16:20Z",
   "recentPRs": [
+    {
+      "number": 54380,
+      "title": "fix(media): treat legacy .doc containers as binary",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T09:08:14Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 54336,
+      "title": "fix(cli): route telegram thread create to topic-create",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T07:37:52Z",
+      "mergedAt": "2026-03-25T08:13:10Z",
+      "additions": 112,
+      "deletions": 1,
+      "changedFiles": 3
+    },
     {
       "number": 49569,
       "title": "fix(telegram): retry setMyCommands on 429 rate-limit with retry_after backoff",
@@ -59,25 +72,25 @@
       "merged": false,
       "createdAt": "2026-03-18T07:27:27Z",
       "mergedAt": null,
-      "additions": 166,
+      "additions": 107,
       "deletions": 1,
       "changedFiles": 2
     },
     {
       "number": 46855,
       "title": "fix(tts): select a Chinese Edge voice for Han text",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T04:20:39Z",
       "mergedAt": null,
-      "additions": 139,
-      "deletions": 6,
-      "changedFiles": 2
+      "additions": 171,
+      "deletions": 39,
+      "changedFiles": 7
     },
     {
       "number": 44626,
       "title": "fix(docker): allow whitespace in OPENCLAW_CONFIG_DIR/WORKSPACE",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T03:48:28Z",
       "mergedAt": null,
@@ -88,7 +101,7 @@
     {
       "number": 44059,
       "title": "test: stabilize redirect media store permissions assertion",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T13:04:48Z",
       "mergedAt": null,
@@ -99,18 +112,18 @@
     {
       "number": 44053,
       "title": "fix(memory): prefer MEMORY.md; avoid duplicate injection on case-insensitive FS",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T13:00:10Z",
       "mergedAt": null,
-      "additions": 137,
-      "deletions": 16,
-      "changedFiles": 8
+      "additions": 397,
+      "deletions": 77,
+      "changedFiles": 21
     },
     {
       "number": 42153,
       "title": "fix(tts): propagate audio_as_voice from tool results",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T13:03:37Z",
       "mergedAt": null,
@@ -132,13 +145,13 @@
     {
       "number": 42045,
       "title": "fix(telegram): preserve whitespace when chunking",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T10:31:04Z",
       "mergedAt": null,
-      "additions": 74,
-      "deletions": 6,
-      "changedFiles": 2
+      "additions": 293,
+      "deletions": 47,
+      "changedFiles": 14
     }
   ],
   "recentIssues": [],
@@ -165,6 +178,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 0,
@@ -201,8 +219,16 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-11": 1
-  }
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ]
 }

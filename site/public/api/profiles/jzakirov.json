@@ -1,0 +1,174 @@
+{
+  "username": "jzakirov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15848838?u=33ad2bbf25489a04e793e348d359236833b3686d&v=4",
+  "githubUrl": "https://github.com/jzakirov",
+  "score": {
+    "score": 140.92,
+    "prScore": 116.42,
+    "issueScore": 0,
+    "reviewScore": 18,
+    "commentScore": 6.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 1,
+    "prAdditions": 975,
+    "prDeletions": 123,
+    "prChangedFiles": 34,
+    "prMergeRate": 17,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 13
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 9
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 6,
+      "comments": 13
+    }
+  },
+  "firstContribution": "2026-03-11T13:57:04Z",
+  "lastContribution": "2026-03-26T02:36:09Z",
+  "recentPRs": [
+    {
+      "number": 54833,
+      "title": "fix(sandbox): propagate browser.ssrfPolicy to sandbox browser bridge",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T02:36:09Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 54788,
+      "title": "fix(config): add maxResponseBytes to web fetch Zod schema",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T01:00:18Z",
+      "mergedAt": null,
+      "additions": 137,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 54603,
+      "title": "fix(telegram): preserve content type for local Bot API media files",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T17:41:45Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 53209,
+      "title": "Agents: allow skill-declared env keys in sandboxes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T22:51:29Z",
+      "mergedAt": null,
+      "additions": 612,
+      "deletions": 24,
+      "changedFiles": 14
+    },
+    {
+      "number": 53148,
+      "title": "Plugins: unify scoped web search credential wiring",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T20:52:55Z",
+      "mergedAt": null,
+      "additions": 128,
+      "deletions": 93,
+      "changedFiles": 10
+    },
+    {
+      "number": 53020,
+      "title": "Agents: fix runtime web_search provider selection",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T16:57:17Z",
+      "mergedAt": "2026-03-23T17:30:45Z",
+      "additions": 63,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 53209,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T10:12:21Z"
+    },
+    {
+      "prNumber": 53209,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T10:00:36Z"
+    },
+    {
+      "prNumber": 53209,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T23:06:18Z"
+    },
+    {
+      "prNumber": 53209,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T23:06:18Z"
+    },
+    {
+      "prNumber": 53209,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T23:06:18Z"
+    },
+    {
+      "prNumber": 53209,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T23:06:18Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": []
+}

@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/62608774?v=4",
   "githubUrl": "https://github.com/chunyuforka",
   "score": {
-    "score": 43.32,
-    "prScore": 24.32,
+    "score": 97.69,
+    "prScore": 75.19,
     "issueScore": 0,
     "reviewScore": 18,
-    "commentScore": 1
+    "commentScore": 4.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 1306,
-    "prDeletions": 57,
-    "prChangedFiles": 8,
+    "prAdditions": 3560,
+    "prDeletions": 121,
+    "prChangedFiles": 22,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 9
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 7
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 6,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 9
     }
   },
   "firstContribution": "2026-03-13T03:25:29Z",
-  "lastContribution": "2026-03-14T06:12:00Z",
+  "lastContribution": "2026-03-26T07:53:23Z",
   "recentPRs": [
+    {
+      "number": 53530,
+      "title": "fix(agents): honor direct-session tool policies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T08:00:35Z",
+      "mergedAt": null,
+      "additions": 1933,
+      "deletions": 47,
+      "changedFiles": 8
+    },
+    {
+      "number": 53496,
+      "title": "feat(feishu): support toolsBySender for group policies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T07:12:01Z",
+      "mergedAt": null,
+      "additions": 321,
+      "deletions": 17,
+      "changedFiles": 6
+    },
     {
       "number": 44602,
       "title": "feat(feishu): add sender-scoped tool policies",
@@ -98,6 +111,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
@@ -109,6 +127,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

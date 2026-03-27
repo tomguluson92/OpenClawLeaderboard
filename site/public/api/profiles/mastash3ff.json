@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3743196?u=9f035e4341a08a6c73f6d2f7e4ca32adfc2226fe&v=4",
   "githubUrl": "https://github.com/mastash3ff",
   "score": {
-    "score": 9.96,
+    "score": 14.96,
     "prScore": 9.96,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 0,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-10T22:03:19Z",
-  "lastContribution": "2026-03-10T22:03:19Z",
+  "lastContribution": "2026-03-24T14:58:23Z",
   "recentPRs": [
     {
       "number": 42531,
@@ -64,18 +55,31 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 53755,
+      "title": "[Bug]: openai-codex catalog exposes only gpt-5.4 in models list and native /models on 2026.3.13",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T14:58:23Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

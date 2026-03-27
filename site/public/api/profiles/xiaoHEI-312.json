@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/44249876?u=a28dd3ea6744bf3352012add9c212b36f285cc20&v=4",
   "githubUrl": "https://github.com/xiaoHEI-312",
   "score": {
-    "score": 92,
+    "score": 91.5,
     "prScore": 34,
     "issueScore": 26,
     "reviewScore": 27,
-    "commentScore": 5
+    "commentScore": 4.5
   },
   "tier": "regular",
   "characterClass": "Reviewer",
@@ -24,32 +24,23 @@
     "reviews": 9,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 9
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 4,
-      "reviews": 9,
-      "comments": 9,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 3,
       "issues": 4,
       "reviews": 9,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 9
     }
   },
-  "firstContribution": "2026-03-13T05:48:03Z",
+  "firstContribution": "2026-03-13T11:29:33Z",
   "lastContribution": "2026-03-19T09:20:37Z",
   "recentPRs": [
     {
@@ -192,6 +183,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

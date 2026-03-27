@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/130273415?v=4",
   "githubUrl": "https://github.com/LaskerSaw",
   "score": {
-    "score": 31.27,
-    "prScore": 10.27,
-    "issueScore": 20,
+    "score": 17.29,
+    "prScore": 11.79,
+    "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Hunter",
@@ -15,42 +15,33 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 34,
-    "prDeletions": 3,
-    "prChangedFiles": 3,
+    "prAdditions": 35,
+    "prDeletions": 18,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 4,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
-      "issues": 4,
+      "issues": 1,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-08T16:34:39Z",
-  "lastContribution": "2026-03-17T10:09:03Z",
+  "firstContribution": "2026-03-15T14:50:58Z",
+  "lastContribution": "2026-03-24T05:49:33Z",
   "recentPRs": [
     {
       "number": 48914,
@@ -59,9 +50,9 @@
       "merged": false,
       "createdAt": "2026-03-17T10:09:03Z",
       "mergedAt": null,
-      "additions": 34,
-      "deletions": 3,
-      "changedFiles": 3
+      "additions": 35,
+      "deletions": 18,
+      "changedFiles": 4
     }
   ],
   "recentIssues": [
@@ -70,27 +61,6 @@
       "title": "[Bug]: Sandbox reported as active, but exec still had host filesystem access outside workspace",
       "state": "OPEN",
       "createdAt": "2026-03-15T14:50:58Z",
-      "closedAt": null
-    },
-    {
-      "number": 43099,
-      "title": "[Feature]: Feature request: add a first-class directory listing tool for the workspace",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T10:37:02Z",
-      "closedAt": null
-    },
-    {
-      "number": 42165,
-      "title": "[Bug]: tools.profile: \"minimal\" exposes read/write/edit unless group:fs is explicitly denied",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T13:11:20Z",
-      "closedAt": null
-    },
-    {
-      "number": 40063,
-      "title": "[Bug]: Regression: async exec approval completion is persisted but not shown live in TUI or Control UI",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T16:34:39Z",
       "closedAt": null
     }
   ],
@@ -105,21 +75,6 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
@@ -127,6 +82,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

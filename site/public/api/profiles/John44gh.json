@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/36145826?u=c3702481751da87d1aeaab340efeb605e65ad490&v=4",
   "githubUrl": "https://github.com/John44gh",
   "score": {
-    "score": 63.7,
-    "prScore": 59.7,
+    "score": 14.15,
+    "prScore": 14.15,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 1
+    "reviewScore": 0,
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 842,
-    "prDeletions": 45,
-    "prChangedFiles": 19,
+    "prAdditions": 383,
+    "prDeletions": 3,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
-      "reviews": 1,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-08T15:01:57Z",
+  "firstContribution": "2026-03-11T12:39:09Z",
   "lastContribution": "2026-03-11T12:39:09Z",
   "recentPRs": [
     {
@@ -62,60 +53,19 @@
       "additions": 383,
       "deletions": 3,
       "changedFiles": 4
-    },
-    {
-      "number": 40624,
-      "title": "fix(discord): fallback to fresh identify after repeated 1005/1006 close loops",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T05:16:30Z",
-      "mergedAt": null,
-      "additions": 141,
-      "deletions": 16,
-      "changedFiles": 9
-    },
-    {
-      "number": 39970,
-      "title": "[codex] iMessage: fix audioAsVoice delivery and chunking",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T15:01:57Z",
-      "mergedAt": null,
-      "additions": 318,
-      "deletions": 26,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 39970,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T05:44:33Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-08": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

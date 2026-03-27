@@ -1,0 +1,128 @@
+{
+  "username": "tennisonchan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/719938?u=5683a85df9f7c474d3c64555856f8f649d4f5ccc&v=4",
+  "githubUrl": "https://github.com/tennisonchan",
+  "score": {
+    "score": 59.61,
+    "prScore": 36.61,
+    "issueScore": 5,
+    "reviewScore": 18,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 444,
+    "prDeletions": 33,
+    "prChangedFiles": 16,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-20T19:43:15Z",
+  "lastContribution": "2026-03-22T01:14:50Z",
+  "recentPRs": [
+    {
+      "number": 51337,
+      "title": "fix(gateway): allow hook agent runs to resume codex-cli sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T00:04:18Z",
+      "mergedAt": null,
+      "additions": 444,
+      "deletions": 33,
+      "changedFiles": 16
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 51208,
+      "title": "[Bug]: Hook-mapped agent runs never resume codex-cli sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-20T19:43:15Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 51337,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T01:14:50Z"
+    },
+    {
+      "prNumber": 51337,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T23:53:29Z"
+    },
+    {
+      "prNumber": 51337,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T00:41:27Z"
+    },
+    {
+      "prNumber": 51337,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T00:41:27Z"
+    },
+    {
+      "prNumber": 51337,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T00:41:27Z"
+    },
+    {
+      "prNumber": 51337,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T00:41:27Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-20": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

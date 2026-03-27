@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/108670147?u=923df0d7a92441cb5b81285f14e078891c7abc01&v=4",
   "githubUrl": "https://github.com/Ciward",
   "score": {
-    "score": 176.77,
-    "prScore": 161.27,
-    "issueScore": 13,
+    "score": 134.79,
+    "prScore": 134.29,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2.5
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 5474,
-    "prDeletions": 1745,
-    "prChangedFiles": 91,
+    "prAdditions": 3618,
+    "prDeletions": 1228,
+    "prChangedFiles": 57,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 4,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-08T07:48:21Z",
+  "firstContribution": "2026-03-15T11:05:45Z",
   "lastContribution": "2026-03-15T11:17:20Z",
   "recentPRs": [
     {
@@ -62,81 +53,20 @@
       "additions": 3618,
       "deletions": 1228,
       "changedFiles": 57
-    },
-    {
-      "number": 40638,
-      "title": "fix: strip Telegram @bot mention suffix from inline directives",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T05:31:39Z",
-      "mergedAt": null,
-      "additions": 90,
-      "deletions": 6,
-      "changedFiles": 6
-    },
-    {
-      "number": 39617,
-      "title": "fix: reload config in slash command routing so dmScope is respected",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T08:03:52Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 8,
-      "changedFiles": 3
-    },
-    {
-      "number": 39606,
-      "title": "fix: reload config in slash command routing so dmScope is respected",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T07:48:38Z",
-      "mergedAt": null,
-      "additions": 1751,
-      "deletions": 503,
-      "changedFiles": 25
     }
   ],
-  "recentIssues": [
-    {
-      "number": 40637,
-      "title": "Inline directives fail when Telegram appends @BotUsername suffix in groups",
-      "state": "CLOSED",
-      "createdAt": "2026-03-09T05:31:28Z",
-      "closedAt": "2026-03-09T06:42:31Z"
-    },
-    {
-      "number": 39605,
-      "title": "Discord/Telegram/Slack slash commands ignore session.dmScope routing",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T07:48:21Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
-    "Discussion",
-    "Large-Scale Changes"
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

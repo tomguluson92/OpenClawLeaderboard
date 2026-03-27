@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/240415254?v=4",
   "githubUrl": "https://github.com/KKKKane84727",
   "score": {
-    "score": 29.07,
-    "prScore": 19.57,
+    "score": 49.17,
+    "prScore": 39.67,
     "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 0.5
@@ -13,45 +13,47 @@
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 185,
-    "prDeletions": 2,
-    "prChangedFiles": 8,
+    "prAdditions": 442,
+    "prDeletions": 8,
+    "prChangedFiles": 14,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 3,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 3,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-13T17:31:55Z",
-  "lastContribution": "2026-03-13T18:10:51Z",
+  "lastContribution": "2026-03-20T10:16:55Z",
   "recentPRs": [
+    {
+      "number": 50981,
+      "title": "fix(agents): propagate sessions_send timeout to target runs and session lock waits",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T10:16:55Z",
+      "mergedAt": null,
+      "additions": 257,
+      "deletions": 6,
+      "changedFiles": 6
+    },
     {
       "number": 45335,
       "title": "fix(control-ui): use fresh totals for context usage notice",
@@ -83,6 +85,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
@@ -94,6 +101,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

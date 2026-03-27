@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/23158339?v=4",
   "githubUrl": "https://github.com/chchliang",
   "score": {
-    "score": 57.72,
-    "prScore": 53.72,
-    "issueScore": 0,
+    "score": 54.93,
+    "prScore": 42.93,
+    "issueScore": 8,
     "reviewScore": 3,
     "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 233,
-    "prDeletions": 77,
-    "prChangedFiles": 19,
+    "prAdditions": 214,
+    "prDeletions": 76,
+    "prChangedFiles": 17,
     "prMergeRate": 0,
-    "issues": 0,
-    "issuesClosed": 0,
+    "issues": 1,
+    "issuesClosed": 1,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 1,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 2
     },
     "monthly": {
-      "prs": 3,
-      "issues": 0,
+      "prs": 2,
+      "issues": 1,
       "reviews": 1,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-09T12:26:55Z",
-  "lastContribution": "2026-03-19T03:17:45Z",
+  "firstContribution": "2026-03-18T00:56:14Z",
+  "lastContribution": "2026-03-27T02:36:31Z",
   "recentPRs": [
     {
       "number": 49595,
@@ -73,20 +64,17 @@
       "additions": 29,
       "deletions": 16,
       "changedFiles": 6
-    },
-    {
-      "number": 40970,
-      "title": "logging.file configuration supports wildcard characters YYYY-MM-DD",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T12:26:55Z",
-      "mergedAt": null,
-      "additions": 19,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 50983,
+      "title": "[Security]: `code-parser` component under the LGPL",
+      "state": "CLOSED",
+      "createdAt": "2026-03-20T10:27:12Z",
+      "closedAt": "2026-03-27T02:36:36Z"
+    }
+  ],
   "recentReviews": [
     {
       "prNumber": 49595,
@@ -100,17 +88,23 @@
       "issues": 0,
       "reviews": 1
     },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
+    "2026-03-20": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

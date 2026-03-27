@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8060486?u=949cc53a2b9450449f011f9d0694120bb117521e&v=4",
   "githubUrl": "https://github.com/lixuankai",
   "score": {
-    "score": 168.12,
-    "prScore": 137.12,
+    "score": 154.66,
+    "prScore": 110.66,
     "issueScore": 5,
-    "reviewScore": 24,
-    "commentScore": 2
+    "reviewScore": 36,
+    "commentScore": 3
   },
   "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 2,
-    "prAdditions": 1200,
-    "prDeletions": 30,
-    "prChangedFiles": 37,
-    "prMergeRate": 100,
+    "prAdditions": 1236,
+    "prDeletions": 38,
+    "prChangedFiles": 39,
+    "prMergeRate": 67,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 8,
+    "reviews": 12,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 1200,
-    "commitDeletions": 30,
-    "commitChangedFiles": 37
+    "comments": 6
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 1,
-      "reviews": 5,
-      "comments": 2,
-      "commitAdditions": 1200,
-      "commitDeletions": 30,
-      "commits": 2
+      "issues": 0,
+      "reviews": 4,
+      "comments": 2
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 1,
-      "reviews": 8,
-      "comments": 4,
-      "commitAdditions": 1200,
-      "commitDeletions": 30,
-      "commits": 2
+      "reviews": 12,
+      "comments": 6
     }
   },
   "firstContribution": "2026-03-12T13:32:09Z",
-  "lastContribution": "2026-03-16T15:51:47Z",
+  "lastContribution": "2026-03-26T06:48:53Z",
   "recentPRs": [
+    {
+      "number": 53752,
+      "title": "feat(android): Multiple nodes session context isolated from each other",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T14:55:52Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 8,
+      "changedFiles": 2
+    },
     {
       "number": 48299,
       "title": "feat(android): support android node sms.search",
@@ -78,13 +80,33 @@
   "recentIssues": [
     {
       "number": 45854,
-      "title": "[Feature]: Android Node Tools Enhancement",
+      "title": "[Feature]: Android Node Tools & Session Enhancement",
       "state": "OPEN",
       "createdAt": "2026-03-14T07:43:26Z",
       "closedAt": null
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 53752,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T07:20:11Z"
+    },
+    {
+      "prNumber": 53752,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T07:08:12Z"
+    },
+    {
+      "prNumber": 53752,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T05:56:17Z"
+    },
+    {
+      "prNumber": 53752,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T15:29:25Z"
+    },
     {
       "prNumber": 48299,
       "state": "COMMENTED",
@@ -127,6 +149,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-16": {
       "prs": 1,
       "issues": 0,
@@ -142,6 +169,11 @@
       "issues": 1,
       "reviews": 0
     },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-13": {
       "prs": 0,
       "issues": 0,
@@ -156,13 +188,14 @@
   ],
   "achievements": [
     {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-19": 1,
-    "2026-03-15": 1
-  }
+  ]
 }

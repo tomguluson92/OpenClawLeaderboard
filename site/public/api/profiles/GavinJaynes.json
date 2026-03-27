@@ -1,0 +1,131 @@
+{
+  "username": "GavinJaynes",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2723362?u=93571e505be8800b19ee0b77cb49754838bc5b2a&v=4",
+  "githubUrl": "https://github.com/GavinJaynes",
+  "score": {
+    "score": 194.79,
+    "prScore": 179.79,
+    "issueScore": 0,
+    "reviewScore": 15,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 38305,
+    "prDeletions": 24794,
+    "prChangedFiles": 862,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-23T07:53:52Z",
+  "lastContribution": "2026-03-26T05:02:28Z",
+  "recentPRs": [
+    {
+      "number": 54862,
+      "title": "Adding OpenRouter support for allowedModels",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T03:46:46Z",
+      "mergedAt": null,
+      "additions": 300,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 52716,
+      "title": "feat(openrouter): add autoRouter.allowedModels support",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T07:53:52Z",
+      "mergedAt": null,
+      "additions": 38005,
+      "deletions": 24791,
+      "changedFiles": 859
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 54862,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T05:02:28Z"
+    },
+    {
+      "prNumber": 54862,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T04:34:17Z"
+    },
+    {
+      "prNumber": 54862,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T04:33:40Z"
+    },
+    {
+      "prNumber": 52716,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T13:06:43Z"
+    },
+    {
+      "prNumber": 52716,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:50:59Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ]
+}

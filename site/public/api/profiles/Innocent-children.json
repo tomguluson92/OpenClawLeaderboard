@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/55626758?u=0f72f85b08521738bea4023204014124a9060780&v=4",
   "githubUrl": "https://github.com/Innocent-children",
   "score": {
-    "score": 8.95,
-    "prScore": 8.95,
+    "score": 46.28,
+    "prScore": 27.78,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 18,
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 15,
-    "prDeletions": 10,
-    "prChangedFiles": 2,
+    "prAdditions": 164,
+    "prDeletions": 120,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 6,
+      "comments": 1
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 6,
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-12T05:45:12Z",
-  "lastContribution": "2026-03-12T05:45:12Z",
+  "lastContribution": "2026-03-23T08:02:36Z",
   "recentPRs": [
+    {
+      "number": 52687,
+      "title": "fix(kimi): align builtin $web_search flow with Moonshot official cont…",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T07:32:23Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 24,
+      "changedFiles": 1
+    },
+    {
+      "number": 52661,
+      "title": "fix(kimi): align builtin $web_search flow with Moonshot official contract",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T06:17:41Z",
+      "mergedAt": null,
+      "additions": 112,
+      "deletions": 86,
+      "changedFiles": 1
+    },
     {
       "number": 43718,
       "title": "修复kimi web_search错误问题",
@@ -65,8 +78,44 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 52687,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T08:02:36Z"
+    },
+    {
+      "prNumber": 52661,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T06:58:16Z"
+    },
+    {
+      "prNumber": 52661,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T06:41:30Z"
+    },
+    {
+      "prNumber": 52661,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T06:33:32Z"
+    },
+    {
+      "prNumber": 52661,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T06:33:28Z"
+    },
+    {
+      "prNumber": 52661,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T06:22:09Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 6
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -74,8 +123,9 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

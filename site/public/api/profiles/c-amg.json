@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/83049593?u=840cf81c34837794e890abd952f438f866bd593a&v=4",
   "githubUrl": "https://github.com/c-amg",
   "score": {
-    "score": 13.65,
+    "score": 18.65,
     "prScore": 8.15,
-    "issueScore": 5,
+    "issueScore": 10,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -19,38 +19,29 @@
     "prDeletions": 3,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 2,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-17T11:31:41Z",
-  "lastContribution": "2026-03-17T14:07:42Z",
+  "lastContribution": "2026-03-21T10:51:18Z",
   "recentPRs": [
     {
       "number": 49049,
@@ -66,6 +57,13 @@
   ],
   "recentIssues": [
     {
+      "number": 51557,
+      "title": "[Bug] Cron isolated session skill and browser compatibility issues",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T10:51:18Z",
+      "closedAt": null
+    },
+    {
       "number": 48959,
       "title": "CLI WebSocket handshake timeout - all CLI commands fail to connect gateway",
       "state": "OPEN",
@@ -79,6 +77,11 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
@@ -86,6 +89,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

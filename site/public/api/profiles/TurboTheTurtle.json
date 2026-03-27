@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/35905412?v=4",
   "githubUrl": "https://github.com/TurboTheTurtle",
   "score": {
-    "score": 9.06,
-    "prScore": 9.06,
-    "issueScore": 0,
+    "score": 23.81,
+    "prScore": 18.81,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 26,
-    "prDeletions": 4,
-    "prChangedFiles": 2,
+    "prAdditions": 49,
+    "prDeletions": 5,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 2,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-15T23:01:08Z",
-  "lastContribution": "2026-03-15T23:01:08Z",
+  "lastContribution": "2026-03-21T22:58:29Z",
   "recentPRs": [
+    {
+      "number": 51910,
+      "title": "fix(security): exclude logical OR (||) from pipe-to-shell obfuscation detector",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T22:58:29Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 47676,
       "title": "fix(plugins): preserve channel webhook routes across registry replacements",
@@ -64,9 +66,22 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 51908,
+      "title": "Obfuscation detector pipe-to-shell pattern false-positives on || (logical OR) operator",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T22:47:49Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
@@ -74,8 +89,8 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

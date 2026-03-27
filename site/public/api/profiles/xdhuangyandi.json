@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/47098952?v=4",
   "githubUrl": "https://github.com/xdhuangyandi",
   "score": {
-    "score": 32.58,
-    "prScore": 17.08,
+    "score": 80.95,
+    "prScore": 49.95,
     "issueScore": 0,
-    "reviewScore": 15,
-    "commentScore": 0.5
+    "reviewScore": 30,
+    "commentScore": 1
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 132,
-    "prDeletions": 37,
-    "prChangedFiles": 2,
+    "prAdditions": 224,
+    "prDeletions": 53,
+    "prChangedFiles": 13,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 10,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 2,
       "issues": 0,
       "reviews": 5,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
-      "prs": 2,
+      "prs": 4,
       "issues": 0,
-      "reviews": 5,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 10,
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-18T06:43:33Z",
-  "lastContribution": "2026-03-18T11:50:41Z",
+  "lastContribution": "2026-03-26T08:30:11Z",
   "recentPRs": [
+    {
+      "number": 55018,
+      "title": "fix: avoid O(N²) shallow-copy in mapSensitivePaths schema traversal",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T07:52:50Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 12,
+      "changedFiles": 1
+    },
+    {
+      "number": 54374,
+      "title": "fix(gateway): avoid duplicate pre-tool text in streaming chat deltas",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T08:55:39Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 4,
+      "changedFiles": 10
+    },
     {
       "number": 49575,
       "title": "fix: use per-client seq in gateway broadcaster to prevent false event gap warnings",
@@ -77,6 +90,31 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 54374,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T09:53:01Z"
+    },
+    {
+      "prNumber": 54374,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T09:52:56Z"
+    },
+    {
+      "prNumber": 54374,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T09:23:45Z"
+    },
+    {
+      "prNumber": 54374,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T09:22:45Z"
+    },
+    {
+      "prNumber": 54374,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T09:14:44Z"
+    },
     {
       "prNumber": 49575,
       "state": "COMMENTED",
@@ -104,6 +142,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
     "2026-03-18": {
       "prs": 2,
       "issues": 0,
@@ -115,6 +163,11 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ]
 }

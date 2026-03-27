@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/28942485?u=000a1c3f81174ea478f8cdae299530367923ff5d&v=4",
   "githubUrl": "https://github.com/leeseven1211",
   "score": {
-    "score": 20.53,
+    "score": 13.53,
     "prScore": 12.53,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3
+    "commentScore": 1
   },
   "tier": "beginner",
   "characterClass": "Contributor",
@@ -19,37 +19,28 @@
     "prDeletions": 41,
     "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-13T02:59:05Z",
+  "firstContribution": "2026-03-13T06:51:35Z",
   "lastContribution": "2026-03-18T08:45:18Z",
   "recentPRs": [
     {
@@ -64,28 +55,18 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 44575,
-      "title": "[Bug]: gateway restart misdetects system-level systemd service",
-      "state": "OPEN",
-      "createdAt": "2026-03-13T02:59:05Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-13": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

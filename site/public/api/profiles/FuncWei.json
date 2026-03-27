@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/16984724?u=95ac2058bf09c1399e51208137d987a18b3c7e78&v=4",
   "githubUrl": "https://github.com/FuncWei",
   "score": {
-    "score": 8.52,
-    "prScore": 8.02,
+    "score": 18.53,
+    "prScore": 18.03,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,45 +13,47 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 28,
-    "prDeletions": 1,
-    "prChangedFiles": 1,
+    "prAdditions": 65,
+    "prDeletions": 22,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-18T19:22:31Z",
-  "lastContribution": "2026-03-18T20:11:10Z",
+  "lastContribution": "2026-03-25T04:45:33Z",
   "recentPRs": [
+    {
+      "number": 54238,
+      "title": "fix: pass remote CDP timeouts to createTargetViaCdp",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T04:45:33Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 21,
+      "changedFiles": 2
+    },
     {
       "number": 49987,
       "title": "feat: write restart sentinel on CLI restart to notify user after gate…",
@@ -67,6 +69,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 0,
@@ -77,6 +84,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

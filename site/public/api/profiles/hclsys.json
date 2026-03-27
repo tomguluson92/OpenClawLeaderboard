@@ -3,70 +3,160 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7755017?v=4",
   "githubUrl": "https://github.com/hclsys",
   "score": {
-    "score": 395.53,
-    "prScore": 389.03,
+    "score": 546.73,
+    "prScore": 493.73,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 3.5
+    "reviewScore": 45,
+    "commentScore": 8
   },
-  "tier": "active",
+  "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
-    "commits": 4,
-    "prs": 37,
-    "prsMerged": 0,
-    "prAdditions": 945,
-    "prDeletions": 429,
-    "prChangedFiles": 53,
-    "prMergeRate": 0,
+    "commits": 10,
+    "prs": 46,
+    "prsMerged": 4,
+    "prAdditions": 1045,
+    "prDeletions": 457,
+    "prChangedFiles": 65,
+    "prMergeRate": 9,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 15,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 134,
-    "commitDeletions": 25,
-    "commitChangedFiles": 11
+    "comments": 16
   },
   "period": {
     "weekly": {
-      "prs": 18,
+      "prs": 9,
       "issues": 0,
-      "reviews": 1,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 14,
+      "comments": 9
     },
     "monthly": {
-      "prs": 37,
+      "prs": 46,
       "issues": 0,
-      "reviews": 1,
-      "comments": 7,
-      "commitAdditions": 110,
-      "commitDeletions": 23,
-      "commits": 4
+      "reviews": 15,
+      "comments": 16
     }
   },
   "firstContribution": "2026-03-09T23:27:27Z",
-  "lastContribution": "2026-03-20T05:13:51Z",
+  "lastContribution": "2026-03-27T07:50:02Z",
   "recentPRs": [
+    {
+      "number": 55643,
+      "title": "fix(acp): skip text fallback when block was already routed to originating channel",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T07:49:50Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 54787,
+      "title": "fix(matrix): remove unconditional 2-member DM fallback classification",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T00:59:09Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 54087,
+      "title": "fix(daemon): bootstrap stopped service on gateway start",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T23:39:31Z",
+      "mergedAt": "2026-03-25T05:35:09Z",
+      "additions": 34,
+      "deletions": 12,
+      "changedFiles": 1
+    },
+    {
+      "number": 53220,
+      "title": "fix(ui): resolve model provider from catalog instead of stale session default",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T23:05:36Z",
+      "mergedAt": "2026-03-24T04:54:02Z",
+      "additions": 30,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 52533,
+      "title": "fix(ui): remove --prod flag from build dependency install",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T00:19:26Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 52491,
+      "title": "fix(plugins): distinguish missing entry file from path-escape security violation",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T22:24:05Z",
+      "mergedAt": "2026-03-22T23:13:54Z",
+      "additions": 13,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 51919,
+      "title": "fix(agents): allow nodes tool describe action without explicit node param",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T23:12:37Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 51412,
+      "title": "fix(ui): use server total for cron badge count on fresh load",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T04:11:14Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51358,
+      "title": "fix(agents): add missing reasoning block downgrade in streamFn wrapper",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T00:51:27Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 2,
+      "changedFiles": 2
+    },
     {
       "number": 50853,
       "title": "fix(telegram): prevent silent wrong-bot routing when accountId not in config",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-20T05:13:19Z",
-      "mergedAt": null,
-      "additions": 29,
+      "mergedAt": "2026-03-20T17:54:40Z",
+      "additions": 30,
       "deletions": 0,
-      "changedFiles": 2
+      "changedFiles": 3
     },
     {
       "number": 50852,
       "title": "fix(azure): include azure-openai-responses in reasoning block downgrade",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-20T05:12:01Z",
       "mergedAt": null,
@@ -172,109 +262,80 @@
       "additions": 73,
       "deletions": 42,
       "changedFiles": 2
-    },
-    {
-      "number": 47860,
-      "title": "fix(msteams): add fetch timeout to Microsoft Graph API calls",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-16T03:53:43Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 6,
-      "changedFiles": 1
-    },
-    {
-      "number": 47704,
-      "title": "fix(github-copilot): add fetch timeout to device-code and token-poll requests",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-16T00:13:06Z",
-      "mergedAt": null,
-      "additions": 39,
-      "deletions": 16,
-      "changedFiles": 1
-    },
-    {
-      "number": 47703,
-      "title": "fix(minimax-vlm): add fetch timeout to VLM image analysis call",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-16T00:13:03Z",
-      "mergedAt": null,
-      "additions": 21,
-      "deletions": 12,
-      "changedFiles": 1
-    },
-    {
-      "number": 46644,
-      "title": "fix(pdf): add fetch timeout to Anthropic and Gemini PDF analysis calls",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-14T23:20:16Z",
-      "mergedAt": null,
-      "additions": 39,
-      "deletions": 21,
-      "changedFiles": 1
-    },
-    {
-      "number": 46643,
-      "title": "fix(skills): log warning when skills are truncated due to prompt limits",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-14T23:20:12Z",
-      "mergedAt": null,
-      "additions": 6,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 45534,
-      "title": "fix(voice-call): add fetch timeout to Twilio API and OpenAI TTS calls",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T23:40:08Z",
-      "mergedAt": null,
-      "additions": 56,
-      "deletions": 22,
-      "changedFiles": 2
-    },
-    {
-      "number": 45177,
-      "title": "fix(agents): avoid TDZ crash on ANTHROPIC_MODEL_ALIASES during config load",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T14:19:54Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 8,
-      "changedFiles": 1
-    },
-    {
-      "number": 44469,
-      "title": "fix(feishu): guard response.code checks against undefined in docx operations",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T00:11:38Z",
-      "mergedAt": null,
-      "additions": 33,
-      "deletions": 27,
-      "changedFiles": 3
-    },
-    {
-      "number": 44466,
-      "title": "fix(talk-voice): add fetch timeout to ElevenLabs voices API call",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T00:06:41Z",
-      "mergedAt": null,
-      "additions": 14,
-      "deletions": 5,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 54787,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T01:17:29Z"
+    },
+    {
+      "prNumber": 54087,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T00:04:53Z"
+    },
+    {
+      "prNumber": 54087,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T00:04:51Z"
+    },
+    {
+      "prNumber": 54087,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T00:04:50Z"
+    },
+    {
+      "prNumber": 53220,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T00:40:53Z"
+    },
+    {
+      "prNumber": 53220,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T00:40:52Z"
+    },
+    {
+      "prNumber": 53220,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T00:40:50Z"
+    },
+    {
+      "prNumber": 53220,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T23:14:17Z"
+    },
+    {
+      "prNumber": 53220,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T23:14:15Z"
+    },
+    {
+      "prNumber": 52533,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T14:29:22Z"
+    },
+    {
+      "prNumber": 52533,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T00:25:23Z"
+    },
+    {
+      "prNumber": 52491,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T22:41:19Z"
+    },
+    {
+      "prNumber": 51919,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T23:53:20Z"
+    },
+    {
+      "prNumber": 51358,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T01:28:33Z"
+    },
     {
       "prNumber": 49663,
       "state": "COMMENTED",
@@ -282,6 +343,36 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-21": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-20": {
       "prs": 2,
       "issues": 0,
@@ -331,6 +422,11 @@
       "prs": 5,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
     }
   },
   "skills": [
@@ -344,12 +440,11 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-03": 3,
-    "2026-02-24": 1,
-    "2026-02-02": 1,
-    "2026-02-01": 1
-  }
+  ]
 }

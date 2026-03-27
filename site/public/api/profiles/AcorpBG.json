@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10956556?v=4",
   "githubUrl": "https://github.com/AcorpBG",
   "score": {
-    "score": 97.37,
-    "prScore": 64.87,
-    "issueScore": 5,
-    "reviewScore": 24,
-    "commentScore": 3.5
+    "score": 24.34,
+    "prScore": 10.84,
+    "issueScore": 0,
+    "reviewScore": 12,
+    "commentScore": 1.5
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 2103,
-    "prDeletions": 121,
-    "prChangedFiles": 22,
+    "prAdditions": 579,
+    "prDeletions": 21,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 8,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 4,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 8,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 3
     }
   },
-  "firstContribution": "2026-03-08T23:54:47Z",
+  "firstContribution": "2026-03-15T12:48:39Z",
   "lastContribution": "2026-03-17T21:20:57Z",
   "recentPRs": [
     {
@@ -62,28 +53,9 @@
       "additions": 579,
       "deletions": 21,
       "changedFiles": 2
-    },
-    {
-      "number": 40370,
-      "title": "Fix session_spawn acp model and thinking for acpx\\codex",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T23:54:47Z",
-      "mergedAt": null,
-      "additions": 1524,
-      "deletions": 100,
-      "changedFiles": 20
     }
   ],
-  "recentIssues": [
-    {
-      "number": 40393,
-      "title": "[Bug]: Session_spawn runtime:acp accepts model and thinking but silently ignores them.",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T00:26:10Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 49198,
@@ -104,26 +76,6 @@
       "prNumber": 49198,
       "state": "COMMENTED",
       "createdAt": "2026-03-17T20:05:16Z"
-    },
-    {
-      "prNumber": 40370,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T10:26:42Z"
-    },
-    {
-      "prNumber": 40370,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T02:06:48Z"
-    },
-    {
-      "prNumber": 40370,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T02:05:26Z"
-    },
-    {
-      "prNumber": 40370,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T02:04:49Z"
     }
   ],
   "recentActivityDays": {
@@ -131,30 +83,12 @@
       "prs": 1,
       "issues": 0,
       "reviews": 4
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 4
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

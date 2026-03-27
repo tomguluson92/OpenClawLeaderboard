@@ -3,64 +3,109 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3458?v=4",
   "githubUrl": "https://github.com/kentaro",
   "score": {
-    "score": 29.47,
-    "prScore": 29.47,
+    "score": 72.71,
+    "prScore": 55.71,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 15,
+    "commentScore": 2
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 2,
-    "prs": 0,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
+    "prAdditions": 447,
+    "prDeletions": 54,
+    "prChangedFiles": 17,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 592,
-    "commitDeletions": 66,
-    "commitChangedFiles": 10
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 5,
+      "comments": 4
     },
     "monthly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 5,
+      "comments": 4
     }
   },
-  "firstContribution": null,
-  "lastContribution": null,
-  "recentPRs": [],
+  "firstContribution": "2026-03-24T02:16:14Z",
+  "lastContribution": "2026-03-24T07:46:11Z",
+  "recentPRs": [
+    {
+      "number": 53302,
+      "title": "Discord: make components v2 cross-context containers configurable",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T02:17:10Z",
+      "mergedAt": null,
+      "additions": 233,
+      "deletions": 29,
+      "changedFiles": 9
+    },
+    {
+      "number": 53300,
+      "title": "Discord: make components v2 cross-context containers configurable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T02:16:14Z",
+      "mergedAt": null,
+      "additions": 214,
+      "deletions": 25,
+      "changedFiles": 8
+    }
+  ],
   "recentIssues": [],
-  "recentReviews": [],
-  "recentActivityDays": {},
+  "recentReviews": [
+    {
+      "prNumber": 53302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T05:00:29Z"
+    },
+    {
+      "prNumber": 53302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T04:10:33Z"
+    },
+    {
+      "prNumber": 53302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:48:08Z"
+    },
+    {
+      "prNumber": 53302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:40:21Z"
+    },
+    {
+      "prNumber": 53302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:32:10Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5
+    }
+  },
   "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-02-13": 1,
-    "2026-01-26": 1
-  }
+  "achievements": []
 }

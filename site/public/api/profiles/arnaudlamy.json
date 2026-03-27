@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3582822?u=b269528656de3d62ba8c55ae2fbfe6f56404f4a6&v=4",
   "githubUrl": "https://github.com/arnaudlamy",
   "score": {
-    "score": 10.12,
-    "prScore": 10.12,
+    "score": 12.18,
+    "prScore": 12.18,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -15,38 +15,29 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 179,
+    "prAdditions": 314,
     "prDeletions": 2,
-    "prChangedFiles": 2,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-11T16:14:04Z",
@@ -55,13 +46,13 @@
     {
       "number": 43326,
       "title": "feat(msteams): fetch thread history via Graph API for channel replies",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T16:14:04Z",
       "mergedAt": null,
-      "additions": 179,
+      "additions": 314,
       "deletions": 2,
-      "changedFiles": 2
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
@@ -76,6 +67,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

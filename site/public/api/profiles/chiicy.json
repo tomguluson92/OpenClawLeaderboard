@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12967501?v=4",
   "githubUrl": "https://github.com/chiicy",
   "score": {
-    "score": 15.61,
+    "score": 18.61,
     "prScore": 10.61,
-    "issueScore": 5,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -20,33 +20,24 @@
     "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-14T19:44:56Z",
@@ -68,9 +59,9 @@
     {
       "number": 50580,
       "title": "[Bug]: trusted-proxy gateway auth works for Control UI but cron/tool calls fail with 1008 unauthorized",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-19T18:21:59Z",
-      "closedAt": null
+      "closedAt": "2026-03-25T15:39:42Z"
     }
   ],
   "recentReviews": [],
@@ -90,6 +81,5 @@
     "Pull Requests",
     "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

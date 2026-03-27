@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/14049268?u=409078a6fc5ca8ec2201f186ccb43b26fa3b28bb&v=4",
   "githubUrl": "https://github.com/panpan0000",
   "score": {
-    "score": 63.22,
+    "score": 51.72,
     "prScore": 28.72,
-    "issueScore": 10,
+    "issueScore": 0,
     "reviewScore": 21,
-    "commentScore": 3.5
+    "commentScore": 2
   },
   "tier": "regular",
   "characterClass": "Reviewer",
@@ -19,38 +19,29 @@
     "prDeletions": 19,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 3,
-      "issues": 2,
+      "issues": 0,
       "reviews": 7,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
   "firstContribution": "2026-03-10T07:28:10Z",
-  "lastContribution": "2026-03-19T07:02:05Z",
+  "lastContribution": "2026-03-19T02:05:00Z",
   "recentPRs": [
     {
       "number": 42976,
@@ -86,22 +77,7 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42982,
-      "title": "[Bug]:  redact logging not working properly",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T08:36:39Z",
-      "closedAt": null
-    },
-    {
-      "number": 42819,
-      "title": "[Bug]: browser in docker hidden in cache folder",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T05:05:28Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 42771,
@@ -142,7 +118,7 @@
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 2,
-      "issues": 2,
+      "issues": 0,
       "reviews": 4
     },
     "2026-03-10": {
@@ -159,15 +135,7 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

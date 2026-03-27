@@ -3,79 +3,84 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/114355021?u=de23229118bba537c7cd709b9ededa9d8e7b2010&v=4",
   "githubUrl": "https://github.com/soundchainio",
   "score": {
-    "score": 32.59,
-    "prScore": 32.59,
-    "issueScore": 0,
+    "score": 47.61,
+    "prScore": 37.61,
+    "issueScore": 8,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 2
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 2330,
-    "prDeletions": 0,
-    "prChangedFiles": 11,
+    "prAdditions": 2552,
+    "prDeletions": 8,
+    "prChangedFiles": 13,
     "prMergeRate": 0,
-    "issues": 0,
-    "issuesClosed": 0,
+    "issues": 1,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
   "firstContribution": "2026-03-19T08:57:14Z",
-  "lastContribution": "2026-03-19T08:57:14Z",
+  "lastContribution": "2026-03-23T17:30:31Z",
   "recentPRs": [
     {
       "number": 50339,
       "title": "feat: SoundChain extension — music streaming + agent citizenship",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T08:57:14Z",
       "mergedAt": null,
-      "additions": 2330,
-      "deletions": 0,
-      "changedFiles": 11
+      "additions": 2552,
+      "deletions": 8,
+      "changedFiles": 13
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 53049,
+      "title": "Third-party plugin tools not injected into agent session despite successful registration",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T17:30:31Z",
+      "closedAt": "2026-03-23T18:05:07Z"
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

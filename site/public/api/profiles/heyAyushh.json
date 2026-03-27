@@ -3,91 +3,102 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17379963?u=78d3f59034ab1ec67f7fbf2828d7a5c8e61ac834&v=4",
   "githubUrl": "https://github.com/heyAyushh",
   "score": {
-    "score": 48.11,
-    "prScore": 43.11,
+    "score": 80.71,
+    "prScore": 66.71,
     "issueScore": 0,
-    "reviewScore": 3,
+    "reviewScore": 12,
     "commentScore": 2
   },
-  "tier": "beginner",
-  "characterClass": "Contributor",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 332,
-    "prDeletions": 97,
-    "prChangedFiles": 16,
+    "prAdditions": 1082,
+    "prDeletions": 45,
+    "prChangedFiles": 25,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 4,
+      "comments": 4
     },
     "monthly": {
       "prs": 2,
       "issues": 0,
-      "reviews": 1,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 4,
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-06T14:12:05Z",
-  "lastContribution": "2026-03-08T02:59:34Z",
+  "firstContribution": "2026-03-20T21:54:47Z",
+  "lastContribution": "2026-03-26T12:46:32Z",
   "recentPRs": [
     {
-      "number": 38322,
-      "title": "fix: preserve requester context in outbound send paths",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T20:27:36Z",
-      "mergedAt": null,
-      "additions": 195,
-      "deletions": 72,
-      "changedFiles": 5
-    },
-    {
-      "number": 37894,
-      "title": "fix: preserve requester agent context for outbound media sends",
+      "number": 55153,
+      "title": "fix: preserve valid Kimi tool call arguments in malformed-args repair",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-06T14:12:05Z",
+      "createdAt": "2026-03-26T12:33:26Z",
       "mergedAt": null,
-      "additions": 137,
-      "deletions": 25,
-      "changedFiles": 11
+      "additions": 62,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51302,
+      "title": "fix: support quoted replies in WhatsApp web",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T21:54:47Z",
+      "mergedAt": null,
+      "additions": 1020,
+      "deletions": 44,
+      "changedFiles": 23
     }
   ],
   "recentIssues": [],
   "recentReviews": [
     {
-      "prNumber": 38322,
+      "prNumber": 51302,
       "state": "COMMENTED",
-      "createdAt": "2026-03-06T21:36:29Z"
+      "createdAt": "2026-03-20T22:20:28Z"
+    },
+    {
+      "prNumber": 51302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T22:20:25Z"
+    },
+    {
+      "prNumber": 51302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T22:20:22Z"
+    },
+    {
+      "prNumber": 51302,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T22:20:19Z"
     }
   ],
   "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 2,
+    "2026-03-26": {
+      "prs": 1,
       "issues": 0,
-      "reviews": 1
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
     }
   },
   "skills": [
@@ -95,6 +106,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

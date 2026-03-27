@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1186273?u=8c79b8f6b210f9a4a5100834873d5d03310b1978&v=4",
   "githubUrl": "https://github.com/yfge",
   "score": {
-    "score": 203.87,
-    "prScore": 195.87,
+    "score": 218.9,
+    "prScore": 212.9,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 8
+    "commentScore": 6
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 11,
-    "prsMerged": 1,
-    "prAdditions": 1745,
-    "prDeletions": 247,
-    "prChangedFiles": 52,
-    "prMergeRate": 9,
+    "prs": 9,
+    "prsMerged": 0,
+    "prAdditions": 21613,
+    "prDeletions": 270,
+    "prChangedFiles": 113,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 16,
-    "commitAdditions": 248,
-    "commitDeletions": 23,
-    "commitChangedFiles": 12
+    "comments": 12
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 11,
+      "prs": 9,
       "issues": 0,
       "reviews": 0,
-      "comments": 16,
-      "commitAdditions": 248,
-      "commitDeletions": 23,
-      "commits": 2
+      "comments": 12
     }
   },
-  "firstContribution": "2026-03-06T15:24:27Z",
-  "lastContribution": "2026-03-17T04:52:04Z",
+  "firstContribution": "2026-03-10T03:17:15Z",
+  "lastContribution": "2026-03-23T06:32:31Z",
   "recentPRs": [
+    {
+      "number": 52666,
+      "title": "fix(feishu): add supervisor reconnect loop when WebSocket retry budget is exhausted",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T06:32:31Z",
+      "mergedAt": null,
+      "additions": 20217,
+      "deletions": 27,
+      "changedFiles": 76
+    },
     {
       "number": 47969,
       "title": "Feishu: route feishu_chat tool via session accountId",
@@ -139,44 +141,16 @@
       "additions": 113,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 39547,
-      "title": "fix(gateway): circuit-break outbound duplicate sends",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T06:24:09Z",
-      "mergedAt": null,
-      "additions": 230,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 38535,
-      "title": "fix(gateway): invalidate bootstrap cache on session rollover",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T03:34:46Z",
-      "mergedAt": "2026-03-07T05:46:02Z",
-      "additions": 63,
-      "deletions": 1,
-      "changedFiles": 7
-    },
-    {
-      "number": 38026,
-      "title": "fix(openai): Enable gpt-5.4 support via Chat Completions fallback on scope error",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T15:24:27Z",
-      "mergedAt": null,
-      "additions": 56,
-      "deletions": 1,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-16": {
       "prs": 1,
       "issues": 0,
@@ -211,36 +185,18 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [
     {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-07": 1,
-    "2026-02-28": 1
-  }
+  ]
 }

@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/76851584?v=4",
   "githubUrl": "https://github.com/jamtujest",
   "score": {
-    "score": 234.69,
-    "prScore": 209.69,
+    "score": 227.06,
+    "prScore": 202.56,
     "issueScore": 0,
     "reviewScore": 21,
-    "commentScore": 4
+    "commentScore": 3.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 113414,
+    "prAdditions": 112814,
     "prDeletions": 462,
-    "prChangedFiles": 448,
+    "prChangedFiles": 442,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
-    "commitAdditions": 348,
-    "commitDeletions": 0,
-    "commitChangedFiles": 6
+    "comments": 7
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 4,
       "issues": 0,
       "reviews": 7,
-      "comments": 8,
-      "commitAdditions": 348,
-      "commitDeletions": 0,
-      "commits": 1
+      "comments": 7
     }
   },
-  "firstContribution": "2026-03-07T15:23:00Z",
+  "firstContribution": "2026-03-09T21:02:49Z",
   "lastContribution": "2026-03-12T22:05:25Z",
   "recentPRs": [
     {
@@ -95,17 +86,6 @@
       "additions": 29402,
       "deletions": 0,
       "changedFiles": 134
-    },
-    {
-      "number": 38959,
-      "title": "feat(sandbox): pluggable ISandboxProvider with auto-detection (Docker/gVisor/Firecracker)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T15:23:00Z",
-      "mergedAt": null,
-      "additions": 600,
-      "deletions": 0,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [],
@@ -161,11 +141,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -185,8 +160,5 @@
       "label": "Mega Coder",
       "description": "50K+ lines added"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-02": 1
-  }
+  ]
 }

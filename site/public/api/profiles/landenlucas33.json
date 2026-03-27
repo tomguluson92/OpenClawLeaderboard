@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/261846925?v=4",
   "githubUrl": "https://github.com/landenlucas33",
   "score": {
-    "score": 19.33,
+    "score": 24.83,
     "prScore": 14.33,
-    "issueScore": 5,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 0,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-15T16:22:21Z",
-  "lastContribution": "2026-03-15T16:41:56Z",
+  "lastContribution": "2026-03-23T21:27:28Z",
   "recentPRs": [
     {
       "number": 47486,
@@ -66,6 +57,13 @@
   ],
   "recentIssues": [
     {
+      "number": 53170,
+      "title": "Feature request: BM25 hybrid search for memory_search",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T21:27:28Z",
+      "closedAt": null
+    },
+    {
       "number": 47470,
       "title": "Feature request: sessions_broadcast — push system events to all active sessions",
       "state": "OPEN",
@@ -79,12 +77,17 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting"
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,96 +3,76 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/47147571?u=95bd39313a4dcb067e60896139ef779246848fa1&v=4",
   "githubUrl": "https://github.com/Disaster-Terminator",
   "score": {
-    "score": 52.69,
-    "prScore": 52.19,
+    "score": 41.42,
+    "prScore": 38.42,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0.5
+    "reviewScore": 3,
+    "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "beginner",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1658,
-    "prDeletions": 127,
-    "prChangedFiles": 17,
+    "prAdditions": 2970,
+    "prDeletions": 181,
+    "prChangedFiles": 13,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-07T09:44:29Z",
-  "lastContribution": "2026-03-20T07:57:47Z",
+  "firstContribution": "2026-03-20T07:57:47Z",
+  "lastContribution": "2026-03-20T10:37:23Z",
   "recentPRs": [
     {
       "number": 50923,
       "title": "Gateway: harden chat stream idempotency and effective-run cleanup",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-20T07:57:47Z",
       "mergedAt": null,
-      "additions": 1427,
-      "deletions": 112,
-      "changedFiles": 10
-    },
-    {
-      "number": 38727,
-      "title": "feat(github-copilot): support gpt-5.4 via openai-responses forward-compat",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T09:44:29Z",
-      "mergedAt": null,
-      "additions": 231,
-      "deletions": 15,
-      "changedFiles": 7
+      "additions": 2970,
+      "deletions": 181,
+      "changedFiles": 13
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 50923,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T10:37:23Z"
+    }
+  ],
   "recentActivityDays": {
     "2026-03-20": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
-    "Discussion"
+    "Code Review"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/261118124?u=f608af2c640d9e753b26865f27cf057a916a2251&v=4",
   "githubUrl": "https://github.com/chengjialu8888",
   "score": {
-    "score": 361.56,
+    "score": 300.56,
     "prScore": 282.06,
-    "issueScore": 55,
+    "issueScore": 0,
     "reviewScore": 9,
-    "commentScore": 15.5
+    "commentScore": 9.5
   },
   "tier": "active",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 26,
@@ -19,37 +19,28 @@
     "prDeletions": 18,
     "prChangedFiles": 41,
     "prMergeRate": 0,
-    "issues": 11,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 31,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 19
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 26,
-      "issues": 11,
+      "issues": 0,
       "reviews": 3,
-      "comments": 31,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 19
     }
   },
-  "firstContribution": "2026-03-11T09:02:13Z",
+  "firstContribution": "2026-03-11T10:13:30Z",
   "lastContribution": "2026-03-15T11:07:14Z",
   "recentPRs": [
     {
@@ -273,85 +264,7 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43143,
-      "title": "Discussion: 10 active PR limit may throttle batch contributors",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T11:37:44Z",
-      "closedAt": null
-    },
-    {
-      "number": 43034,
-      "title": "Docs: Multi-agent orchestration patterns and best practices",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:28:43Z",
-      "closedAt": null
-    },
-    {
-      "number": 43033,
-      "title": "Docs: Sync missing zh-CN translations for key documents",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:28:41Z",
-      "closedAt": null
-    },
-    {
-      "number": 43032,
-      "title": "Docs: Memory system deep dive guide",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:28:39Z",
-      "closedAt": null
-    },
-    {
-      "number": 43031,
-      "title": "Docs: Add security best practices guide for end users",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:28:38Z",
-      "closedAt": null
-    },
-    {
-      "number": 43006,
-      "title": "Feature: Progressive memory flush before compaction",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:03:19Z",
-      "closedAt": null
-    },
-    {
-      "number": 43005,
-      "title": "Enhancement: Allow custom safe headers in fetch-guard cross-origin redirects",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:03:17Z",
-      "closedAt": null
-    },
-    {
-      "number": 43004,
-      "title": "Feature: Cron job retry with exponential backoff",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:03:15Z",
-      "closedAt": null
-    },
-    {
-      "number": 43003,
-      "title": "Bug: memory-core plugin silently returns null on tool creation failure",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:02:49Z",
-      "closedAt": null
-    },
-    {
-      "number": 43002,
-      "title": "Feature: Memory Consolidation Mechanism (Hippocampal-Cortical Transfer)",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:02:46Z",
-      "closedAt": null
-    },
-    {
-      "number": 42999,
-      "title": "Feature: Dynamic Context Window Token Budget (Metabolic Token Management)",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:02:13Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 43546,
@@ -382,14 +295,13 @@
     },
     "2026-03-11": {
       "prs": 24,
-      "issues": 11,
+      "issues": 0,
       "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
@@ -397,22 +309,6 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

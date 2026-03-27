@@ -3,10 +3,10 @@
   "avatarUrl": "https://github.com/almassolarenrgi.png",
   "githubUrl": "https://github.com/almassolarenrgi",
   "score": {
-    "score": 4,
+    "score": 3,
     "prScore": 0,
     "issueScore": 0,
-    "reviewScore": 4,
+    "reviewScore": 3,
     "commentScore": 0
   },
   "tier": "beginner",
@@ -22,46 +22,37 @@
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
-    "reviewsApproved": 1,
+    "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 0
     },
     "monthly": {
       "prs": 0,
       "issues": 0,
       "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-04T11:26:25Z",
-  "lastContribution": "2026-03-04T11:26:25Z",
+  "firstContribution": "2026-03-24T02:34:57Z",
+  "lastContribution": "2026-03-24T02:34:57Z",
   "recentPRs": [],
   "recentIssues": [],
   "recentReviews": [
     {
-      "prNumber": 34345,
-      "state": "APPROVED",
-      "createdAt": "2026-03-04T11:26:25Z"
+      "prNumber": 53313,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T02:34:57Z"
     }
   ],
   "recentActivityDays": {
-    "2026-03-04": {
+    "2026-03-24": {
       "prs": 0,
       "issues": 0,
       "reviews": 1
@@ -70,6 +61,5 @@
   "skills": [
     "Code Review"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

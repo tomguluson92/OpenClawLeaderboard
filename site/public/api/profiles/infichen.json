@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/13826604?v=4",
   "githubUrl": "https://github.com/infichen",
   "score": {
-    "score": 15.24,
-    "prScore": 9.74,
+    "score": 27.53,
+    "prScore": 22.03,
     "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -14,39 +14,30 @@
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 89,
-    "prDeletions": 7,
-    "prChangedFiles": 2,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 294,
+    "prDeletions": 12,
+    "prChangedFiles": 7,
+    "prMergeRate": 100,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-18T08:31:26Z",
@@ -55,13 +46,13 @@
     {
       "number": 50930,
       "title": "fix: mid-turn 429 rate limit silent no-reply and context engine registration failure",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-20T08:19:01Z",
-      "mergedAt": null,
-      "additions": 89,
-      "deletions": 7,
-      "changedFiles": 2
+      "mergedAt": "2026-03-25T17:43:08Z",
+      "additions": 294,
+      "deletions": 12,
+      "changedFiles": 7
     }
   ],
   "recentIssues": [
@@ -91,6 +82,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

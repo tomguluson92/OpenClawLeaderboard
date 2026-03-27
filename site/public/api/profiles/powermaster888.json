@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7107452?u=f6c7e5aea7cc081effafe3eade4d9efe932614a1&v=4",
   "githubUrl": "https://github.com/powermaster888",
   "score": {
-    "score": 98.94,
-    "prScore": 98.94,
+    "score": 16.07,
+    "prScore": 16.07,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 10,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 313,
-    "prDeletions": 80,
-    "prChangedFiles": 14,
+    "prAdditions": 4,
+    "prDeletions": 5,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 20,
-    "commitDeletions": 1,
-    "commitChangedFiles": 2
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 10,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 20,
-      "commitDeletions": 1,
-      "commits": 1
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-06T19:18:58Z",
+  "firstContribution": "2026-03-09T20:50:36Z",
   "lastContribution": "2026-03-09T20:52:00Z",
   "recentPRs": [
     {
@@ -73,94 +64,6 @@
       "additions": 1,
       "deletions": 1,
       "changedFiles": 1
-    },
-    {
-      "number": 40193,
-      "title": "docs: remove broken navigation entries for missing install pages",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T19:24:42Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 8,
-      "changedFiles": 1
-    },
-    {
-      "number": 40191,
-      "title": "fix(loop-detection): clear stale toolCallHistory across heartbeat cycles",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T19:23:30Z",
-      "mergedAt": null,
-      "additions": 38,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 40189,
-      "title": "ci(secrets): ensure base commit is available before PR diff scan",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T19:22:14Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 39121,
-      "title": "fix(gateway): flush pending chat delta before tool start events",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T19:26:05Z",
-      "mergedAt": null,
-      "additions": 47,
-      "deletions": 32,
-      "changedFiles": 1
-    },
-    {
-      "number": 39116,
-      "title": "fix(config): sanitize validation log output to prevent control character injection",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T19:20:39Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 2,
-      "changedFiles": 1
-    },
-    {
-      "number": 39114,
-      "title": "fix(voice-call): add staleCallReaperSeconds to plugin configSchema",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T19:19:03Z",
-      "mergedAt": null,
-      "additions": 8,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 38282,
-      "title": "fix(models): extend Gemini 3.1 forward-compat to google-vertex provider",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T19:21:27Z",
-      "mergedAt": null,
-      "additions": 45,
-      "deletions": 6,
-      "changedFiles": 3
-    },
-    {
-      "number": 38281,
-      "title": "fix(venice): sync model catalog with live Venice API",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T19:18:58Z",
-      "mergedAt": null,
-      "additions": 153,
-      "deletions": 27,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -170,34 +73,10 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-05": 1
-  }
+  "achievements": []
 }

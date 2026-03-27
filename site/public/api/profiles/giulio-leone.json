@@ -1,0 +1,226 @@
+{
+  "username": "giulio-leone",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6887247?v=4",
+  "githubUrl": "https://github.com/giulio-leone",
+  "score": {
+    "score": 220.56,
+    "prScore": 194.56,
+    "issueScore": 0,
+    "reviewScore": 12,
+    "commentScore": 14
+  },
+  "tier": "active",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 4,
+    "prs": 11,
+    "prsMerged": 2,
+    "prAdditions": 2994,
+    "prDeletions": 81,
+    "prChangedFiles": 38,
+    "prMergeRate": 18,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 28
+  },
+  "period": {
+    "weekly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 28
+    },
+    "monthly": {
+      "prs": 11,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 28
+    }
+  },
+  "firstContribution": "2026-03-23T18:24:54Z",
+  "lastContribution": "2026-03-26T10:26:48Z",
+  "recentPRs": [
+    {
+      "number": 54716,
+      "title": "Fix sessions.list for literal per-agent store paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T21:45:59Z",
+      "mergedAt": null,
+      "additions": 49,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 54701,
+      "title": "Fix ACP parent completion relay",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T21:04:32Z",
+      "mergedAt": null,
+      "additions": 228,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 54653,
+      "title": "fix(doctor): repair stale bundled plugin paths",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T19:26:36Z",
+      "mergedAt": null,
+      "additions": 991,
+      "deletions": 0,
+      "changedFiles": 7
+    },
+    {
+      "number": 54652,
+      "title": "test(auth): align device auth store scopes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T19:26:33Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 54651,
+      "title": "test(extensions): lock bundled runtime API coverage",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T19:26:28Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 18,
+      "changedFiles": 2
+    },
+    {
+      "number": 54637,
+      "title": "Respect explicit bluebubbles disable during startup auto-enable",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T18:57:06Z",
+      "mergedAt": null,
+      "additions": 100,
+      "deletions": 16,
+      "changedFiles": 3
+    },
+    {
+      "number": 53611,
+      "title": "fix(auth): keep fresher Codex re-auth state",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T10:16:42Z",
+      "mergedAt": "2026-03-24T16:53:24Z",
+      "additions": 145,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 53301,
+      "title": "fix(doctor): repair stale bundled plugin paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T02:17:04Z",
+      "mergedAt": null,
+      "additions": 770,
+      "deletions": 0,
+      "changedFiles": 7
+    },
+    {
+      "number": 53197,
+      "title": "fix(doctor): honor --fix in non-interactive mode",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T22:17:03Z",
+      "mergedAt": "2026-03-24T04:48:18Z",
+      "additions": 517,
+      "deletions": 19,
+      "changedFiles": 7
+    },
+    {
+      "number": 53153,
+      "title": "test(auth): align device auth store scopes",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T20:56:40Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 53073,
+      "title": "test(extensions): lock bundled runtime API coverage",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T18:24:54Z",
+      "mergedAt": null,
+      "additions": 95,
+      "deletions": 18,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 54701,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T21:26:08Z"
+    },
+    {
+      "prNumber": 54651,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T20:25:36Z"
+    },
+    {
+      "prNumber": 54653,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T20:16:01Z"
+    },
+    {
+      "prNumber": 54653,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T20:16:00Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ]
+}

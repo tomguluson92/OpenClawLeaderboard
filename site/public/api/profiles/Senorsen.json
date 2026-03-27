@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4176091?u=bd7c537b14d3cc18262c9716cb428acf5185ab1e&v=4",
   "githubUrl": "https://github.com/Senorsen",
   "score": {
-    "score": 79.09,
+    "score": 68.59,
     "prScore": 42.59,
-    "issueScore": 20,
+    "issueScore": 10,
     "reviewScore": 15,
-    "commentScore": 1.5
+    "commentScore": 1
   },
   "tier": "regular",
   "characterClass": "Reviewer",
@@ -19,37 +19,28 @@
     "prDeletions": 31,
     "prChangedFiles": 15,
     "prMergeRate": 0,
-    "issues": 4,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 4,
+      "issues": 2,
       "reviews": 5,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-10T05:32:25Z",
+  "firstContribution": "2026-03-10T16:04:29Z",
   "lastContribution": "2026-03-18T03:43:18Z",
   "recentPRs": [
     {
@@ -89,20 +80,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-16T16:01:09Z",
       "closedAt": null
-    },
-    {
-      "number": 43200,
-      "title": "Bug / Feature Request: message tool cross-session messages not recorded in target session history (per-channel-peer)",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T13:21:21Z",
-      "closedAt": null
-    },
-    {
-      "number": 41790,
-      "title": "Feature: Allow session.mainKey to designate any channel session as the main session",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T05:32:25Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [
@@ -135,12 +112,12 @@
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 3
     },
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     },
     "2026-03-18": {
@@ -171,6 +148,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

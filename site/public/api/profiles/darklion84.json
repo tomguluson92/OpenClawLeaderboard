@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/95440896?v=4",
   "githubUrl": "https://github.com/darklion84",
   "score": {
-    "score": 94.13,
+    "score": 89.13,
     "prScore": 88.13,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1
   },
@@ -19,38 +19,29 @@
     "prDeletions": 594,
     "prChangedFiles": 30,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-09T22:55:18Z",
-  "lastContribution": "2026-03-11T12:39:31Z",
+  "lastContribution": "2026-03-10T19:46:10Z",
   "recentPRs": [
     {
       "number": 42470,
@@ -75,15 +66,7 @@
       "changedFiles": 20
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43177,
-      "title": "Cron announce may report delivered=true without actual Telegram delivery",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T12:39:31Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
@@ -95,18 +78,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

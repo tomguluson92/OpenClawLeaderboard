@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/44549046?u=ce0f22036003835521d75c14635c42605d1e2a88&v=4",
   "githubUrl": "https://github.com/bentindal",
   "score": {
-    "score": 20.08,
-    "prScore": 20.08,
+    "score": 14.83,
+    "prScore": 11.33,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 3,
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
     "prAdditions": 100,
-    "prDeletions": 26,
-    "prChangedFiles": 9,
+    "prDeletions": 22,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-12T00:29:55Z",
-  "lastContribution": "2026-03-12T00:29:55Z",
+  "lastContribution": "2026-03-23T16:39:01Z",
   "recentPRs": [
     {
       "number": 43546,
@@ -60,22 +51,34 @@
       "createdAt": "2026-03-12T00:29:55Z",
       "mergedAt": null,
       "additions": 100,
-      "deletions": 26,
-      "changedFiles": 9
+      "deletions": 22,
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 43546,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T16:38:19Z"
+    }
+  ],
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

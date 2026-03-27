@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5177159?u=5a4635ce929d1c1d9aa813053164ccc3f8889e41&v=4",
   "githubUrl": "https://github.com/lad75020",
   "score": {
-    "score": 151.52,
-    "prScore": 150.52,
+    "score": 120.6,
+    "prScore": 119.6,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 7961,
-    "prDeletions": 1006,
-    "prChangedFiles": 92,
+    "prAdditions": 4039,
+    "prDeletions": 151,
+    "prChangedFiles": 45,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-07T21:04:01Z",
+  "firstContribution": "2026-03-15T14:02:18Z",
   "lastContribution": "2026-03-15T14:09:38Z",
   "recentPRs": [
     {
@@ -62,17 +53,6 @@
       "additions": 4039,
       "deletions": 151,
       "changedFiles": 45
-    },
-    {
-      "number": 39177,
-      "title": "Openclaw main",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T21:04:01Z",
-      "mergedAt": null,
-      "additions": 3922,
-      "deletions": 855,
-      "changedFiles": 47
     }
   ],
   "recentIssues": [],
@@ -82,18 +62,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Discussion",
-    "Large-Scale Changes"
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

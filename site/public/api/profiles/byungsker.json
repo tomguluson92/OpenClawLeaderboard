@@ -3,59 +3,138 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/72309817?v=4",
   "githubUrl": "https://github.com/byungsker",
   "score": {
-    "score": 322.05,
-    "prScore": 266.05,
-    "issueScore": 0,
-    "reviewScore": 30,
-    "commentScore": 26
+    "score": 321.63,
+    "prScore": 258.13,
+    "issueScore": 5,
+    "reviewScore": 33,
+    "commentScore": 25.5
   },
   "tier": "active",
   "characterClass": "Contributor",
   "stats": {
-    "commits": 9,
-    "prs": 14,
+    "commits": 11,
+    "prs": 13,
     "prsMerged": 1,
-    "prAdditions": 1652,
-    "prDeletions": 81,
-    "prChangedFiles": 43,
-    "prMergeRate": 7,
-    "issues": 0,
+    "prAdditions": 1374,
+    "prDeletions": 69,
+    "prChangedFiles": 53,
+    "prMergeRate": 8,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 10,
+    "reviews": 11,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 52,
-    "commitAdditions": 1173,
-    "commitDeletions": 84,
-    "commitChangedFiles": 32
+    "comments": 51
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 8,
+      "issues": 1,
+      "reviews": 5,
+      "comments": 26
     },
     "monthly": {
-      "prs": 14,
-      "issues": 0,
-      "reviews": 10,
-      "comments": 52,
-      "commitAdditions": 1173,
-      "commitDeletions": 84,
-      "commits": 11
+      "prs": 13,
+      "issues": 1,
+      "reviews": 11,
+      "comments": 51
     }
   },
-  "firstContribution": "2026-03-06T15:17:10Z",
-  "lastContribution": "2026-03-19T09:29:21Z",
+  "firstContribution": "2026-03-09T13:56:42Z",
+  "lastContribution": "2026-03-27T02:29:29Z",
   "recentPRs": [
+    {
+      "number": 55427,
+      "title": "test(skills): add precedence regression tests for workspace > managed > bundled",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T00:14:56Z",
+      "mergedAt": null,
+      "additions": 130,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 55419,
+      "title": "docs(agent-loop): correct default timeoutSeconds from 600s to 172800s (48h)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T23:37:05Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 54058,
+      "title": "fix(feishu): default requireMention to false when groupPolicy is open",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T23:04:03Z",
+      "mergedAt": "2026-03-25T06:09:04Z",
+      "additions": 144,
+      "deletions": 21,
+      "changedFiles": 11
+    },
+    {
+      "number": 53741,
+      "title": "feat(discord/voice): add sessionChannelId to autoJoin for text-channel transcript routing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T14:37:20Z",
+      "mergedAt": null,
+      "additions": 260,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 53609,
+      "title": "feat(discord/voice): add sessionChannelId to autoJoin for text-channel transcript routing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T10:14:04Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 52342,
+      "title": "fix(feishu): treat OpenChat (oc_) topic groups as group chats",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T15:51:39Z",
+      "mergedAt": null,
+      "additions": 54,
+      "deletions": 8,
+      "changedFiles": 5
+    },
+    {
+      "number": 52252,
+      "title": "fix(daemon): prefer Volta shim path over version-pinned image path",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T12:51:11Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 52151,
+      "title": "fix(discord): proxy config now applies to Carbon REST client calls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T08:48:13Z",
+      "mergedAt": null,
+      "additions": 239,
+      "deletions": 3,
+      "changedFiles": 4
+    },
     {
       "number": 49831,
       "title": "fix(imessage): replace openclaw/plugin-sdk/channel-runtime import in channel.runtime.ts",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T13:45:34Z",
       "mergedAt": null,
@@ -70,9 +149,9 @@
       "merged": false,
       "createdAt": "2026-03-18T11:37:10Z",
       "mergedAt": null,
-      "additions": 101,
-      "deletions": 3,
-      "changedFiles": 4
+      "additions": 146,
+      "deletions": 4,
+      "changedFiles": 6
     },
     {
       "number": 45246,
@@ -106,109 +185,43 @@
       "additions": 69,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 39766,
-      "title": "fix(config): make models.providers.<id>.models optional to allow credential-only entries",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T11:23:05Z",
-      "mergedAt": null,
-      "additions": 278,
-      "deletions": 8,
-      "changedFiles": 8
-    },
-    {
-      "number": 39650,
-      "title": "fix(ui): use SPA navigation for session links to preserve in-memory auth token",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T09:01:16Z",
-      "mergedAt": null,
-      "additions": 163,
-      "deletions": 7,
-      "changedFiles": 5
-    },
-    {
-      "number": 39293,
-      "title": "fix(skills): use maxCandidatesPerRoot for workspace skill discovery window",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T00:34:41Z",
-      "mergedAt": null,
-      "additions": 46,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 38967,
-      "title": "fix(imessage): strip [[reply_to:...]] directive tags before delivery",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T15:39:25Z",
-      "mergedAt": null,
-      "additions": 22,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 38900,
-      "title": "fix(security): use icacls /sid for locale-independent Windows ACL audit",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T13:49:44Z",
-      "mergedAt": "2026-03-07T17:49:33Z",
-      "additions": 182,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 38408,
-      "title": "fix(gateway): chat.abort RPC now aborts Pi agent, sub-agents, and queues",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T23:54:13Z",
-      "mergedAt": null,
-      "additions": 25,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 38397,
-      "title": "fix(daemon): treat systemd bus connection failure as 'not enabled' during onboard",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T23:24:13Z",
-      "mergedAt": null,
-      "additions": 36,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 38393,
-      "title": "fix(agents): apply cache_control injection for LiteLLM-proxied Anthropic models",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T23:20:24Z",
-      "mergedAt": null,
-      "additions": 250,
-      "deletions": 18,
-      "changedFiles": 2
-    },
-    {
-      "number": 37980,
-      "title": "fix(agents): apply cache_control injection for LiteLLM-proxied Anthropic models",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T15:17:10Z",
-      "mergedAt": null,
-      "additions": 238,
-      "deletions": 18,
-      "changedFiles": 2
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 53562,
+      "title": "feat(discord/voice): add sessionChannelId to autoJoin for text-channel transcript routing",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T09:09:57Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 55369,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-27T00:28:25Z"
+    },
+    {
+      "prNumber": 55348,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-27T00:28:06Z"
+    },
+    {
+      "prNumber": 55360,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-27T00:26:05Z"
+    },
+    {
+      "prNumber": 55407,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-27T00:24:40Z"
+    },
+    {
+      "prNumber": 55428,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-27T00:24:07Z"
+    },
     {
       "prNumber": 43770,
       "state": "COMMENTED",
@@ -238,29 +251,29 @@
       "prNumber": 43751,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T07:10:22Z"
-    },
-    {
-      "prNumber": 40594,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T05:35:48Z"
-    },
-    {
-      "prNumber": 40581,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T05:12:06Z"
-    },
-    {
-      "prNumber": 40574,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T05:11:08Z"
-    },
-    {
-      "prNumber": 40574,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T05:10:56Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 2,
       "issues": 0,
@@ -275,31 +288,12 @@
       "prs": 1,
       "issues": 0,
       "reviews": 6
-    },
-    "2026-03-08": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 4
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion",
     "Direct Commits"
   ],
@@ -318,17 +312,11 @@
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-07": 1,
-    "2026-03-05": 1,
-    "2026-03-02": 1,
-    "2026-02-27": 1,
-    "2026-02-26": 3,
-    "2026-02-25": 1,
-    "2026-02-24": 1,
-    "2026-02-22": 1,
-    "2026-02-20": 1
-  }
+  ]
 }

@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1436853?v=4",
   "githubUrl": "https://github.com/vignesh07",
   "score": {
-    "score": 2362.26,
-    "prScore": 2359.26,
+    "score": 2222.54,
+    "prScore": 2220.54,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3
+    "commentScore": 2
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
     "commits": 437,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 938,
-    "prDeletions": 64,
-    "prChangedFiles": 17,
+    "prAdditions": 863,
+    "prDeletions": 29,
+    "prChangedFiles": 14,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 36036,
-    "commitDeletions": 6621,
-    "commitChangedFiles": 1237
+    "comments": 4
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 204,
-      "commitDeletions": 107,
-      "commits": 1
-    },
-    "monthly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 11310,
-      "commitDeletions": 1100,
-      "commits": 118
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-08T21:01:39Z",
+  "firstContribution": "2026-03-14T03:00:07Z",
   "lastContribution": "2026-03-18T08:58:12Z",
   "recentPRs": [
     {
@@ -62,28 +53,12 @@
       "additions": 863,
       "deletions": 29,
       "changedFiles": 14
-    },
-    {
-      "number": 40258,
-      "title": "Fix heartbeat regression: don't mutate custom prompt",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T21:01:39Z",
-      "mergedAt": null,
-      "additions": 75,
-      "deletions": 35,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-14": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -100,36 +75,5 @@
       "label": "Centurion",
       "description": "100+ commits"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-18": 1,
-    "2026-03-06": 32,
-    "2026-02-28": 9,
-    "2026-02-23": 8,
-    "2026-02-22": 47,
-    "2026-02-21": 15,
-    "2026-02-20": 4,
-    "2026-02-19": 2,
-    "2026-02-17": 5,
-    "2026-02-16": 32,
-    "2026-02-15": 135,
-    "2026-02-14": 13,
-    "2026-02-13": 4,
-    "2026-02-12": 10,
-    "2026-02-11": 2,
-    "2026-02-10": 8,
-    "2026-02-08": 6,
-    "2026-02-03": 21,
-    "2026-02-02": 3,
-    "2026-02-01": 6,
-    "2026-01-31": 3,
-    "2026-01-30": 1,
-    "2026-01-27": 26,
-    "2026-01-26": 6,
-    "2026-01-25": 7,
-    "2026-01-24": 5,
-    "2026-01-22": 5,
-    "2026-01-21": 8,
-    "2026-01-19": 3
-  }
+  ]
 }

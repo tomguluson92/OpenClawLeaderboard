@@ -1,10 +1,10 @@
 {
   "username": "johnsonshi",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/13926417?u=60136dad9c3c7beb6d923836e5945ad52c183a91&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13926417?v=4",
   "githubUrl": "https://github.com/johnsonshi",
   "score": {
-    "score": 71.82,
-    "prScore": 47.32,
+    "score": 70.52,
+    "prScore": 46.02,
     "issueScore": 0,
     "reviewScore": 21,
     "commentScore": 3.5
@@ -12,41 +12,32 @@
   "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
-    "commits": 0,
+    "commits": 2,
     "prs": 2,
-    "prsMerged": 1,
+    "prsMerged": 2,
     "prAdditions": 745,
     "prDeletions": 46,
     "prChangedFiles": 8,
-    "prMergeRate": 50,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 573,
-    "commitDeletions": 1,
-    "commitChangedFiles": 6
+    "comments": 7
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
-      "reviews": 7,
-      "comments": 7,
-      "commitAdditions": 573,
-      "commitDeletions": 1,
-      "commits": 1
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 7,
-      "comments": 7,
-      "commitAdditions": 573,
-      "commitDeletions": 1,
-      "commits": 1
+      "comments": 7
     }
   },
   "firstContribution": "2026-03-16T04:41:05Z",
@@ -55,10 +46,10 @@
     {
       "number": 50700,
       "title": "docs(azure): replace ARM template deployment with pure az CLI commands",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-19T23:38:21Z",
-      "mergedAt": null,
+      "mergedAt": "2026-03-20T14:23:21Z",
       "additions": 172,
       "deletions": 45,
       "changedFiles": 2
@@ -133,10 +124,8 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion"
+    "Discussion",
+    "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-19": 1
-  }
+  "achievements": []
 }

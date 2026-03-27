@@ -3,55 +3,90 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/13400202?u=d2069786b5ebe97fa9c2e9507e4ed8de6b1c0ca5&v=4",
   "githubUrl": "https://github.com/choiking",
   "score": {
-    "score": 86.79,
-    "prScore": 86.29,
+    "score": 102.87,
+    "prScore": 102.87,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 546,
-    "prDeletions": 3,
-    "prChangedFiles": 16,
+    "prAdditions": 416,
+    "prDeletions": 23,
+    "prChangedFiles": 18,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 10,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-07T08:14:46Z",
-  "lastContribution": "2026-03-19T02:03:22Z",
+  "firstContribution": "2026-03-14T02:05:01Z",
+  "lastContribution": "2026-03-24T06:09:39Z",
   "recentPRs": [
+    {
+      "number": 53452,
+      "title": "fix(launchd): stop embedding state-dir .env vars in service metadata",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T06:09:39Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 53289,
+      "title": "docs: clarify OpenClaw CLI subcommand usage",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T02:01:32Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 52571,
+      "title": "fix: suppress reminder guard for sweep-backed reminders",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T02:03:00Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 51989,
+      "title": "test(memory): cover voyage provider wiring for memory search",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:05:44Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 50130,
       "title": "docs(gmail): add gog to gws migration guide",
@@ -117,33 +152,26 @@
       "additions": 6,
       "deletions": 0,
       "changedFiles": 1
-    },
-    {
-      "number": 39365,
-      "title": "docs: add system events recipes page for programmatic agent wake",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T02:02:56Z",
-      "mergedAt": null,
-      "additions": 174,
-      "deletions": 0,
-      "changedFiles": 3
-    },
-    {
-      "number": 38685,
-      "title": "docs: add Telegram multi-agent group setup example",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T08:14:46Z",
-      "mergedAt": null,
-      "additions": 65,
-      "deletions": 0,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
@@ -173,22 +201,16 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ]
 }

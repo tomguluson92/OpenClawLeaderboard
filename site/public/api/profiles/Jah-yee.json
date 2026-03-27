@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/166608075?u=f64bab3157fafcc9cde6ccb077998fd1ad176f2d&v=4",
   "githubUrl": "https://github.com/Jah-yee",
   "score": {
-    "score": 18.49,
-    "prScore": 18.49,
+    "score": 7.97,
+    "prScore": 7.97,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,43 +13,34 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 13,
-    "prDeletions": 6,
-    "prChangedFiles": 5,
+    "prAdditions": 2,
+    "prDeletions": 2,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-06T16:50:18Z",
+  "firstContribution": "2026-03-10T11:38:58Z",
   "lastContribution": "2026-03-10T11:38:58Z",
   "recentPRs": [
     {
@@ -62,17 +53,6 @@
       "additions": 2,
       "deletions": 2,
       "changedFiles": 2
-    },
-    {
-      "number": 38167,
-      "title": "fix(heartbeat): deliver wake-triggered heartbeats to last active channel",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T16:50:18Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 4,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
@@ -82,16 +62,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

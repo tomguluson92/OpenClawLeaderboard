@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/233881301?v=4",
   "githubUrl": "https://github.com/r266-tech",
   "score": {
-    "score": 43,
-    "prScore": 42,
+    "score": 19.03,
+    "prScore": 18.53,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 293,
-    "prDeletions": 47,
-    "prChangedFiles": 8,
+    "prAdditions": 134,
+    "prDeletions": 18,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
-      "prs": 4,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-06T08:55:54Z",
-  "lastContribution": "2026-03-17T06:46:13Z",
+  "firstContribution": "2026-03-17T06:46:13Z",
+  "lastContribution": "2026-03-22T17:07:41Z",
   "recentPRs": [
+    {
+      "number": 52389,
+      "title": "fix(slack): strip stray HEARTBEAT_OK tokens before delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T17:07:41Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 4,
+      "changedFiles": 2
+    },
     {
       "number": 48794,
       "title": "fix: update test mocks for refactored plugin-sdk imports in Telegram native commands (#48707)",
@@ -62,60 +64,17 @@
       "additions": 82,
       "deletions": 14,
       "changedFiles": 1
-    },
-    {
-      "number": 40594,
-      "title": "fix(config): surface unrecognized key names in union validation errors",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T04:44:10Z",
-      "mergedAt": null,
-      "additions": 82,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 39174,
-      "title": "feat(bootstrap): support arbitrary workspace files in bootstrap-extra-files hook",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T20:52:36Z",
-      "mergedAt": null,
-      "additions": 46,
-      "deletions": 29,
-      "changedFiles": 3
-    },
-    {
-      "number": 37491,
-      "title": "fix(logging): rotate log file on date change",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T08:55:54Z",
-      "mergedAt": null,
-      "additions": 83,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-17": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -125,6 +84,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

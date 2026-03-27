@@ -1,0 +1,119 @@
+{
+  "username": "scottyallen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73208?u=85ac443c57cf4744e653d1201241d67c49924477&v=4",
+  "githubUrl": "https://github.com/scottyallen",
+  "score": {
+    "score": 73.4,
+    "prScore": 63.4,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 1150,
+    "prDeletions": 21,
+    "prChangedFiles": 20,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-21T19:11:59Z",
+  "lastContribution": "2026-03-25T02:18:44Z",
+  "recentPRs": [
+    {
+      "number": 54168,
+      "title": "fix(slack): skip block-path send when HEARTBEAT_OK shouldSkip is true",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T02:18:44Z",
+      "mergedAt": null,
+      "additions": 523,
+      "deletions": 9,
+      "changedFiles": 8
+    },
+    {
+      "number": 52483,
+      "title": "fix(slack): add HEARTBEAT_OK safety-net stripping to Slack delivery paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T21:56:13Z",
+      "mergedAt": null,
+      "additions": 159,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 52351,
+      "title": "fix: use isActive instead of isStreaming for steer mode message injection",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T16:03:29Z",
+      "mergedAt": null,
+      "additions": 468,
+      "deletions": 9,
+      "changedFiles": 8
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 52370,
+      "title": "HEARTBEAT_OK response leaks to Slack DM instead of being stripped",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T16:43:39Z",
+      "closedAt": null
+    },
+    {
+      "number": 51832,
+      "title": "[Bug]: Multi-agent error cascade when gateway posts error messages to shared Slack channels",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T19:11:59Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": []
+}

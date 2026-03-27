@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/58493?v=4",
   "githubUrl": "https://github.com/steipete",
   "score": {
-    "score": 66198.1,
-    "prScore": 66093.6,
+    "score": 70399.38,
+    "prScore": 70299.38,
     "issueScore": 0,
-    "reviewScore": 4.5,
+    "reviewScore": 0,
     "commentScore": 100
   },
   "tier": "legend",
   "characterClass": "Founder",
   "stats": {
-    "commits": 13158,
-    "prs": 7,
-    "prsMerged": 7,
-    "prAdditions": 3405,
-    "prDeletions": 541,
-    "prChangedFiles": 82,
+    "commits": 14028,
+    "prs": 4,
+    "prsMerged": 4,
+    "prAdditions": 2455,
+    "prDeletions": 405,
+    "prChangedFiles": 50,
     "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 0,
     "reviewsApproved": 0,
-    "reviewsChangesRequested": 1,
-    "comments": 245,
-    "commitAdditions": 3400805,
-    "commitDeletions": 2393658,
-    "commitChangedFiles": 97980
+    "reviewsChangesRequested": 0,
+    "comments": 222
   },
   "period": {
     "weekly": {
       "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 86,
-      "commitAdditions": 217152,
-      "commitDeletions": 141061,
-      "commits": 1218
+      "comments": 140
     },
     "monthly": {
-      "prs": 7,
+      "prs": 4,
       "issues": 0,
-      "reviews": 1,
-      "comments": 245,
-      "commitAdditions": 609330,
-      "commitDeletions": 374363,
-      "commits": 4419
+      "reviews": 0,
+      "comments": 222
     }
   },
-  "firstContribution": "2026-03-07T16:41:11Z",
-  "lastContribution": "2026-03-19T01:03:10Z",
+  "firstContribution": "2026-03-11T13:56:05Z",
+  "lastContribution": "2026-03-27T00:54:15Z",
   "recentPRs": [
+    {
+      "number": 55423,
+      "title": "fix: clamp copilot auth refresh overflow hot loop",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T23:43:05Z",
+      "mergedAt": "2026-03-26T23:48:06Z",
+      "additions": 67,
+      "deletions": 3,
+      "changedFiles": 6
+    },
+    {
+      "number": 54232,
+      "title": "fix(whatsapp): restore direct active-listener singleton",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T04:36:07Z",
+      "mergedAt": "2026-03-25T04:36:20Z",
+      "additions": 21,
+      "deletions": 8,
+      "changedFiles": 3
+    },
     {
       "number": 49136,
       "title": "feat: add bundled Chutes extension",
@@ -73,72 +86,21 @@
       "additions": 511,
       "deletions": 223,
       "changedFiles": 10
-    },
-    {
-      "number": 40543,
-      "title": "fix(agents): re-expose configured tools and memory plugins",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T03:41:54Z",
-      "mergedAt": "2026-03-09T03:49:50Z",
-      "additions": 158,
-      "deletions": 13,
-      "changedFiles": 7
-    },
-    {
-      "number": 39959,
-      "title": "Refactor release hardening follow-ups",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T14:48:50Z",
-      "mergedAt": "2026-03-08T14:49:58Z",
-      "additions": 425,
-      "deletions": 110,
-      "changedFiles": 13
-    },
-    {
-      "number": 39906,
-      "title": "feat(tools): add Brave llm-context mode for web_search",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T13:56:04Z",
-      "mergedAt": "2026-03-08T13:57:13Z",
-      "additions": 438,
-      "deletions": 7,
-      "changedFiles": 10
-    },
-    {
-      "number": 39902,
-      "title": "refactor(agents): tighten codex inline api fallback follow-up",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T13:54:15Z",
-      "mergedAt": "2026-03-08T13:54:21Z",
-      "additions": 5,
-      "deletions": 10,
-      "changedFiles": 2
-    },
-    {
-      "number": 39012,
-      "title": "fix: default local onboarding tools profile to coding",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T16:41:11Z",
-      "mergedAt": "2026-03-07T16:41:27Z",
-      "additions": 12,
-      "deletions": 7,
-      "changedFiles": 9
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 40234,
-      "state": "CHANGES_REQUESTED",
-      "createdAt": "2026-03-08T20:31:18Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-17": {
       "prs": 1,
       "issues": 0,
@@ -148,26 +110,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
     "Discussion",
     "Direct Commits"
   ],
@@ -188,75 +134,9 @@
       "description": "1000+ commits"
     },
     {
-      "id": "merger",
-      "label": "Merger",
-      "description": "5+ merged PRs"
-    },
-    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
-    },
-    {
-      "id": "precision",
-      "label": "Precision",
-      "description": "90%+ PR merge rate"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-19": 18,
-    "2026-03-18": 43,
-    "2026-03-17": 323,
-    "2026-03-16": 154,
-    "2026-03-15": 28,
-    "2026-03-14": 170,
-    "2026-03-13": 526,
-    "2026-03-12": 42,
-    "2026-03-11": 30,
-    "2026-03-10": 23,
-    "2026-03-09": 42,
-    "2026-03-08": 189,
-    "2026-03-07": 205,
-    "2026-03-03": 167,
-    "2026-03-02": 457,
-    "2026-03-01": 26,
-    "2026-02-27": 7,
-    "2026-02-26": 205,
-    "2026-02-25": 83,
-    "2026-02-24": 171,
-    "2026-02-23": 108,
-    "2026-02-22": 627,
-    "2026-02-21": 315,
-    "2026-02-19": 233,
-    "2026-02-18": 296,
-    "2026-02-17": 71,
-    "2026-02-16": 490,
-    "2026-02-15": 461,
-    "2026-02-14": 447,
-    "2026-02-13": 119,
-    "2026-02-12": 11,
-    "2026-02-11": 4,
-    "2026-02-10": 1,
-    "2026-02-09": 12,
-    "2026-02-07": 20,
-    "2026-02-06": 6,
-    "2026-02-05": 12,
-    "2026-02-04": 25,
-    "2026-02-03": 9,
-    "2026-02-02": 29,
-    "2026-02-01": 20,
-    "2026-01-31": 19,
-    "2026-01-30": 20,
-    "2026-01-29": 5,
-    "2026-01-28": 9,
-    "2026-01-27": 32,
-    "2026-01-26": 33,
-    "2026-01-25": 92,
-    "2026-01-24": 162,
-    "2026-01-23": 144,
-    "2026-01-22": 161,
-    "2026-01-21": 181,
-    "2026-01-20": 170,
-    "2026-01-19": 82
-  }
+  ]
 }

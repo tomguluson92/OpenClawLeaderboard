@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/70937055?u=6a8c5b90af34e0ad5cffd739163380fc615c819d&v=4",
   "githubUrl": "https://github.com/heavenlost",
   "score": {
-    "score": 19.53,
-    "prScore": 14.53,
+    "score": 58.3,
+    "prScore": 52.3,
     "issueScore": 0,
     "reviewScore": 3,
-    "commentScore": 2
+    "commentScore": 3
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 113,
-    "prDeletions": 37,
-    "prChangedFiles": 5,
-    "prMergeRate": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 582,
+    "prDeletions": 107,
+    "prChangedFiles": 18,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 6
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 1,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 4
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 1,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 6
     }
   },
-  "firstContribution": "2026-03-15T01:22:50Z",
-  "lastContribution": "2026-03-16T01:42:38Z",
+  "firstContribution": "2026-03-15T01:22:56Z",
+  "lastContribution": "2026-03-21T11:08:05Z",
   "recentPRs": [
+    {
+      "number": 51087,
+      "title": "fix(gateway): restore loopback detail probes and identity fallback",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T14:31:34Z",
+      "mergedAt": "2026-03-27T07:09:42Z",
+      "additions": 469,
+      "deletions": 70,
+      "changedFiles": 13
+    },
     {
       "number": 46713,
       "title": "fix(exec): fail closed for effective sandbox host",
@@ -73,6 +75,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
@@ -84,6 +91,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

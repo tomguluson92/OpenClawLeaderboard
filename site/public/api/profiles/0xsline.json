@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/151105947?u=12be32400cffcc18f3b8800aa983878a16aea351&v=4",
   "githubUrl": "https://github.com/0xsline",
   "score": {
-    "score": 275.47,
-    "prScore": 131.47,
+    "score": 145.59,
+    "prScore": 88.59,
     "issueScore": 0,
-    "reviewScore": 132,
-    "commentScore": 12
+    "reviewScore": 51,
+    "commentScore": 6
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 9,
-    "prsMerged": 1,
-    "prAdditions": 799,
-    "prDeletions": 214,
-    "prChangedFiles": 25,
-    "prMergeRate": 11,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 573,
+    "prDeletions": 160,
+    "prChangedFiles": 20,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 44,
+    "reviews": 17,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 24,
-    "commitAdditions": 118,
-    "commitDeletions": 9,
-    "commitChangedFiles": 6
+    "comments": 12
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
-      "reviews": 12,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 2,
+      "comments": 1
     },
     "monthly": {
-      "prs": 9,
+      "prs": 7,
       "issues": 0,
-      "reviews": 44,
-      "comments": 24,
-      "commitAdditions": 118,
-      "commitDeletions": 9,
-      "commits": 2
+      "reviews": 17,
+      "comments": 12
     }
   },
-  "firstContribution": "2026-03-07T09:49:06Z",
-  "lastContribution": "2026-03-17T01:00:17Z",
+  "firstContribution": "2026-03-11T11:00:14Z",
+  "lastContribution": "2026-03-20T15:02:11Z",
   "recentPRs": [
     {
       "number": 46455,
@@ -99,7 +90,7 @@
     {
       "number": 44407,
       "title": "test(telegram): keep resolveTelegramFetch mock default after reset",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T22:12:38Z",
       "mergedAt": null,
@@ -128,32 +119,20 @@
       "additions": 42,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 40815,
-      "title": "fix(browser): avoid restart guidance for attachOnly timeout",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T09:24:06Z",
-      "mergedAt": null,
-      "additions": 69,
-      "deletions": 16,
-      "changedFiles": 2
-    },
-    {
-      "number": 38736,
-      "title": "fix: use codex-responses transport for openai-codex gpt-5.4 fallback",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T09:49:06Z",
-      "mergedAt": "2026-03-08T23:35:21Z",
-      "additions": 157,
-      "deletions": 38,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 51089,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T15:02:11Z"
+    },
+    {
+      "prNumber": 51089,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T15:02:10Z"
+    },
     {
       "prNumber": 48416,
       "state": "COMMENTED",
@@ -228,31 +207,6 @@
       "prNumber": 43335,
       "state": "COMMENTED",
       "createdAt": "2026-03-11T19:41:29Z"
-    },
-    {
-      "prNumber": 40564,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T04:42:50Z"
-    },
-    {
-      "prNumber": 40564,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T04:42:49Z"
-    },
-    {
-      "prNumber": 40564,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T04:42:47Z"
-    },
-    {
-      "prNumber": 40564,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T04:42:46Z"
-    },
-    {
-      "prNumber": 40561,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T04:37:30Z"
     }
   ],
   "recentActivityDays": {
@@ -271,15 +225,10 @@
       "issues": 0,
       "reviews": 1
     },
-    "2026-03-09": {
-      "prs": 1,
+    "2026-03-20": {
+      "prs": 0,
       "issues": 0,
-      "reviews": 7
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 13
+      "reviews": 2
     },
     "2026-03-17": {
       "prs": 0,
@@ -295,11 +244,6 @@
       "prs": 0,
       "issues": 0,
       "reviews": 2
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 9
     }
   },
   "skills": [
@@ -312,15 +256,6 @@
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-10": 1,
-    "2026-03-05": 1
-  }
+  ]
 }

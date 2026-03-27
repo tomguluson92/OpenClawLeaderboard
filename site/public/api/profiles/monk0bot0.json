@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/269586029?v=4",
   "githubUrl": "https://github.com/monk0bot0",
   "score": {
-    "score": 22.35,
-    "prScore": 17.35,
+    "score": 49.77,
+    "prScore": 44.27,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 274,
-    "prDeletions": 39,
-    "prChangedFiles": 6,
+    "prAdditions": 584,
+    "prDeletions": 57,
+    "prChangedFiles": 12,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-19T22:49:49Z",
-  "lastContribution": "2026-03-19T22:49:50Z",
+  "lastContribution": "2026-03-20T16:04:45Z",
   "recentPRs": [
+    {
+      "number": 51124,
+      "title": "fix(ui): clean up session selector labels for Telegram sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T16:04:45Z",
+      "mergedAt": null,
+      "additions": 155,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 51115,
+      "title": "fix(ui): clean up session selector labels for Telegram DM/topic sessions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T15:49:19Z",
+      "mergedAt": null,
+      "additions": 155,
+      "deletions": 9,
+      "changedFiles": 3
+    },
     {
       "number": 50682,
       "title": "feat(telegram): handle unknown groups with warn or leave",
@@ -75,6 +88,11 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 1,
@@ -83,8 +101,8 @@
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting"
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

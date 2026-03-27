@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/14231255?u=a17d3b27414de4d4e19e358ab9ccb7a412bee99e&v=4",
   "githubUrl": "https://github.com/hddevteam",
   "score": {
-    "score": 170.06,
-    "prScore": 167.06,
+    "score": 153.48,
+    "prScore": 151.98,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3
+    "commentScore": 1.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 6550,
-    "prDeletions": 112,
-    "prChangedFiles": 92,
+    "prAdditions": 6103,
+    "prDeletions": 96,
+    "prChangedFiles": 82,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 3
     }
   },
-  "firstContribution": "2026-03-08T01:38:57Z",
+  "firstContribution": "2026-03-11T13:03:40Z",
   "lastContribution": "2026-03-17T02:31:49Z",
   "recentPRs": [
     {
@@ -84,28 +75,6 @@
       "additions": 2394,
       "deletions": 6,
       "changedFiles": 28
-    },
-    {
-      "number": 40463,
-      "title": "fix(msteams): fix image attachment download for channel and DM messages",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T02:19:18Z",
-      "mergedAt": null,
-      "additions": 340,
-      "deletions": 16,
-      "changedFiles": 8
-    },
-    {
-      "number": 39352,
-      "title": "fix(msteams): pass teamId into inbound route resolution",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T01:38:57Z",
-      "mergedAt": null,
-      "additions": 107,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -125,16 +94,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -142,6 +101,5 @@
     "Discussion",
     "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

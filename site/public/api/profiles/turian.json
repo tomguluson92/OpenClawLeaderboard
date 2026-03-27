@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/65918?u=d4b2e4d515361b64ea5a2c207acfee4c29bfc02e&v=4",
   "githubUrl": "https://github.com/turian",
   "score": {
-    "score": 55.46,
-    "prScore": 33.46,
+    "score": 43.99,
+    "prScore": 21.99,
     "issueScore": 0,
     "reviewScore": 21,
     "commentScore": 1
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 190,
+    "prAdditions": 221,
     "prDeletions": 36,
-    "prChangedFiles": 8,
+    "prChangedFiles": 9,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 291,
-    "commitDeletions": 26,
-    "commitChangedFiles": 6
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 7,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 7,
-      "comments": 2,
-      "commitAdditions": 291,
-      "commitDeletions": 26,
-      "commits": 1
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-19T16:18:43Z",
-  "lastContribution": "2026-03-19T23:58:58Z",
+  "lastContribution": "2026-03-25T20:50:50Z",
   "recentPRs": [
     {
       "number": 50567,
@@ -59,9 +50,9 @@
       "merged": false,
       "createdAt": "2026-03-19T17:51:03Z",
       "mergedAt": null,
-      "additions": 190,
+      "additions": 221,
       "deletions": 36,
-      "changedFiles": 8
+      "changedFiles": 9
     }
   ],
   "recentIssues": [],
@@ -114,8 +105,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-05": 1
-  }
+  "achievements": []
 }

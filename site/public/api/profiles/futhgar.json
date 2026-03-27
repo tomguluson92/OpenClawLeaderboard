@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/51002668?u=b8198db3fc606f3f40ffecd13cfbf68233c41479&v=4",
   "githubUrl": "https://github.com/futhgar",
   "score": {
-    "score": 42.12,
-    "prScore": 27.12,
-    "issueScore": 0,
+    "score": 73.45,
+    "prScore": 51.95,
+    "issueScore": 5,
     "reviewScore": 15,
-    "commentScore": 0
+    "commentScore": 1.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
-    "prsMerged": 0,
-    "prAdditions": 510,
-    "prDeletions": 7,
-    "prChangedFiles": 7,
-    "prMergeRate": 0,
-    "issues": 0,
+    "prs": 4,
+    "prsMerged": 1,
+    "prAdditions": 548,
+    "prDeletions": 23,
+    "prChangedFiles": 11,
+    "prMergeRate": 25,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
       "prs": 2,
-      "issues": 0,
-      "reviews": 5,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 1,
+      "reviews": 0,
+      "comments": 3
     },
     "monthly": {
-      "prs": 2,
-      "issues": 0,
+      "prs": 4,
+      "issues": 1,
       "reviews": 5,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 3
     }
   },
   "firstContribution": "2026-03-19T02:27:19Z",
-  "lastContribution": "2026-03-19T03:07:51Z",
+  "lastContribution": "2026-03-24T02:59:49Z",
   "recentPRs": [
+    {
+      "number": 53315,
+      "title": "fix(config): downgrade missing channel plugin from fatal error to warning",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T02:34:36Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 53157,
+      "title": "fix(plugins): use runtime version for plugin API compatibility check",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T21:05:48Z",
+      "mergedAt": "2026-03-24T01:41:19Z",
+      "additions": 29,
+      "deletions": 14,
+      "changedFiles": 3
+    },
     {
       "number": 50152,
       "title": "fix: normalize text-only content arrays to strings for OpenAI-compatible providers",
@@ -75,7 +88,15 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 53311,
+      "title": "Gateway crash-loops when channel plugin is configured but not installed",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T02:28:24Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
     {
       "prNumber": 50152,
@@ -104,6 +125,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 2,
       "issues": 0,
@@ -112,8 +143,15 @@
   },
   "skills": [
     "Pull Requests",
-    "Code Review"
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

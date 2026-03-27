@@ -1,0 +1,135 @@
+{
+  "username": "jlin53882",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76562059?v=4",
+  "githubUrl": "https://github.com/jlin53882",
+  "score": {
+    "score": 40.38,
+    "prScore": 8.88,
+    "issueScore": 25,
+    "reviewScore": 0,
+    "commentScore": 6.5
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 21,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 5,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 13
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 10
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 13
+    }
+  },
+  "firstContribution": "2026-03-13T16:21:32Z",
+  "lastContribution": "2026-03-27T08:19:22Z",
+  "recentPRs": [
+    {
+      "number": 53627,
+      "title": "fix(discord): allow user:<id> DM targets in message tool",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T10:56:13Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 55566,
+      "title": "Different Discord channel sessions still serialize through shared embedded global lane",
+      "state": "OPEN",
+      "createdAt": "2026-03-27T04:51:42Z",
+      "closedAt": null
+    },
+    {
+      "number": 54162,
+      "title": "Sub-agent announce timeout — investigation report (2026-03-25)",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T01:59:11Z",
+      "closedAt": null
+    },
+    {
+      "number": 53575,
+      "title": "[Bug] minimax-portal: MiniMax-M2.7/M2.7-highspeed image vision fails with Unknown model",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T09:16:06Z",
+      "closedAt": null
+    },
+    {
+      "number": 49015,
+      "title": "[Bug]: Embedded Agent timeout is hardcoded at 15 seconds and cannot be configured",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T13:02:45Z",
+      "closedAt": null
+    },
+    {
+      "number": 45277,
+      "title": "[Bug] MiniMax Vision Model (VL-01) not available in imageModel",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T16:21:32Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-27": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ]
+}

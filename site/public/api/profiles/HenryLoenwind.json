@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1485873?v=4",
   "githubUrl": "https://github.com/HenryLoenwind",
   "score": {
-    "score": 233.12,
-    "prScore": 97.12,
-    "issueScore": 120,
+    "score": 160,
+    "prScore": 30,
+    "issueScore": 115,
     "reviewScore": 3,
-    "commentScore": 13
+    "commentScore": 12
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Hunter",
   "stats": {
     "commits": 6,
@@ -19,37 +19,28 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 21,
+    "issues": 20,
     "issuesClosed": 5,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 26,
-    "commitAdditions": 1657,
-    "commitDeletions": 1293,
-    "commitChangedFiles": 28
+    "comments": 24
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 20,
-      "reviews": 1,
-      "comments": 25,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 0,
-      "issues": 21,
+      "issues": 20,
       "reviews": 1,
-      "comments": 26,
-      "commitAdditions": 32,
-      "commitDeletions": 18,
-      "commits": 5
+      "comments": 24
     }
   },
-  "firstContribution": "2026-03-08T20:50:21Z",
+  "firstContribution": "2026-03-13T22:11:32Z",
   "lastContribution": "2026-03-16T01:54:49Z",
   "recentPRs": [],
   "recentIssues": [
@@ -216,11 +207,6 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
@@ -245,11 +231,5 @@
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-03": 2,
-    "2026-02-23": 2,
-    "2026-02-21": 1,
-    "2026-02-13": 1
-  }
+  ]
 }

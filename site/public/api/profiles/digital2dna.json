@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10132512?u=92f6a483642c37ec35fe5f1a536b261daf78ded8&v=4",
   "githubUrl": "https://github.com/digital2dna",
   "score": {
-    "score": 66.06,
+    "score": 61.06,
     "prScore": 48.56,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 12,
     "commentScore": 0.5
   },
@@ -19,37 +19,28 @@
     "prDeletions": 35,
     "prChangedFiles": 23,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 4,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-09T13:33:12Z",
+  "firstContribution": "2026-03-11T01:04:46Z",
   "lastContribution": "2026-03-12T01:25:02Z",
   "recentPRs": [
     {
@@ -64,15 +55,7 @@
       "changedFiles": 23
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41058,
-      "title": "[Feature]: Configurable pairing message text to stop exposing implementation details (channels.*.pairingMessage)",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T13:33:12Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 42617,
@@ -101,11 +84,6 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
     "2026-03-12": {
       "prs": 0,
       "issues": 0,
@@ -115,15 +93,7 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/252443740?v=4",
   "githubUrl": "https://github.com/justinhuangcode",
   "score": {
-    "score": 228.57,
-    "prScore": 209.57,
+    "score": 94.56,
+    "prScore": 90.56,
     "issueScore": 0,
-    "reviewScore": 18,
+    "reviewScore": 3,
     "commentScore": 1
   },
-  "tier": "active",
-  "characterClass": "Maintainer",
+  "tier": "regular",
+  "characterClass": "Builder",
   "stats": {
     "commits": 14,
-    "prs": 5,
-    "prsMerged": 1,
-    "prAdditions": 358,
-    "prDeletions": 47,
-    "prChangedFiles": 12,
-    "prMergeRate": 20,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 231,
+    "prDeletions": 4,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 712,
-    "commitDeletions": 39,
-    "commitChangedFiles": 36
+    "comments": 2
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2
+    },
+    "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 6,
-      "comments": 2,
-      "commitAdditions": 325,
-      "commitDeletions": 22,
-      "commits": 11
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-06T10:30:50Z",
-  "lastContribution": "2026-03-13T17:54:25Z",
+  "firstContribution": "2026-03-13T16:37:57Z",
+  "lastContribution": "2026-03-23T16:55:47Z",
   "recentPRs": [
     {
       "number": 45351,
@@ -73,39 +64,6 @@
       "additions": 32,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 40889,
-      "title": "fix(agents): prevent task prompt leak in subagent error announcements",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T10:52:27Z",
-      "mergedAt": null,
-      "additions": 61,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 39753,
-      "title": "fix(agents): resolve gpt-5.4 crash when custom openai-codex config omits api",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T11:08:59Z",
-      "mergedAt": "2026-03-08T13:51:38Z",
-      "additions": 33,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 37640,
-      "title": "fix(onboard): use inspection instead of resolution for Telegram SecretRef tokens",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T10:30:50Z",
-      "mergedAt": null,
-      "additions": 33,
-      "deletions": 38,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
@@ -114,31 +72,6 @@
       "prNumber": 45293,
       "state": "COMMENTED",
       "createdAt": "2026-03-13T17:36:14Z"
-    },
-    {
-      "prNumber": 37640,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T18:32:11Z"
-    },
-    {
-      "prNumber": 37640,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T18:32:02Z"
-    },
-    {
-      "prNumber": 40889,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:14:48Z"
-    },
-    {
-      "prNumber": 40889,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:04:37Z"
-    },
-    {
-      "prNumber": 37640,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T16:46:55Z"
     }
   ],
   "recentActivityDays": {
@@ -146,26 +79,6 @@
       "prs": 2,
       "issues": 0,
       "reviews": 1
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-10": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
     }
   },
   "skills": [
@@ -174,13 +87,5 @@
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-08": 2,
-    "2026-03-02": 2,
-    "2026-02-25": 2,
-    "2026-02-24": 4,
-    "2026-02-23": 1,
-    "2026-02-02": 3
-  }
+  "achievements": []
 }

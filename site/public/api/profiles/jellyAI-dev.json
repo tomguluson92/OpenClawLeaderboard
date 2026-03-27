@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/263263160?v=4",
   "githubUrl": "https://github.com/jellyAI-dev",
   "score": {
-    "score": 54.75,
-    "prScore": 32.75,
+    "score": 32.23,
+    "prScore": 10.73,
     "issueScore": 5,
     "reviewScore": 15,
-    "commentScore": 2
+    "commentScore": 1.5
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1006,
-    "prDeletions": 30,
-    "prChangedFiles": 9,
+    "prAdditions": 484,
+    "prDeletions": 15,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 1
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 1,
       "reviews": 5,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 3
     }
   },
-  "firstContribution": "2026-03-09T00:57:17Z",
-  "lastContribution": "2026-03-20T02:01:57Z",
+  "firstContribution": "2026-03-15T06:29:59Z",
+  "lastContribution": "2026-03-22T02:05:07Z",
   "recentPRs": [
     {
       "number": 48807,
@@ -59,20 +50,9 @@
       "merged": false,
       "createdAt": "2026-03-17T07:07:55Z",
       "mergedAt": null,
-      "additions": 391,
+      "additions": 484,
       "deletions": 15,
       "changedFiles": 2
-    },
-    {
-      "number": 40413,
-      "title": "fix(discord): persist hello-stall counter and add escalation across health-monitor restarts",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T00:57:17Z",
-      "mergedAt": null,
-      "additions": 615,
-      "deletions": 15,
-      "changedFiles": 7
     }
   ],
   "recentIssues": [
@@ -86,38 +66,33 @@
   ],
   "recentReviews": [
     {
-      "prNumber": 40413,
+      "prNumber": 48807,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T06:48:45Z"
+      "createdAt": "2026-03-22T02:05:07Z"
     },
     {
-      "prNumber": 40413,
+      "prNumber": 48807,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T05:49:40Z"
+      "createdAt": "2026-03-22T02:03:50Z"
     },
     {
-      "prNumber": 40413,
+      "prNumber": 48807,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T04:49:10Z"
+      "createdAt": "2026-03-22T02:03:48Z"
     },
     {
-      "prNumber": 40413,
+      "prNumber": 48807,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T04:49:09Z"
+      "createdAt": "2026-03-21T02:03:06Z"
     },
     {
-      "prNumber": 40413,
+      "prNumber": 48807,
       "state": "COMMENTED",
-      "createdAt": "2026-03-10T01:39:34Z"
+      "createdAt": "2026-03-21T02:03:00Z"
     }
   ],
   "recentActivityDays": {
     "2026-03-17": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -127,10 +102,15 @@
       "issues": 1,
       "reviews": 0
     },
-    "2026-03-10": {
+    "2026-03-22": {
       "prs": 0,
       "issues": 0,
-      "reviews": 5
+      "reviews": 3
+    },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
     }
   },
   "skills": [
@@ -145,6 +125,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

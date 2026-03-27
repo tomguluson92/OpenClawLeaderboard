@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/51317?u=0e9251cbecc2fd1041879343d32b9f24ba122e11&v=4",
   "githubUrl": "https://github.com/aronchick",
   "score": {
-    "score": 63,
-    "prScore": 59.5,
+    "score": 38.85,
+    "prScore": 35.35,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 3.5
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "beginner",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 1664,
-    "prDeletions": 10,
-    "prChangedFiles": 11,
+    "prAdditions": 917,
+    "prDeletions": 9,
+    "prChangedFiles": 7,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 7
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 7
     }
   },
-  "firstContribution": "2026-03-06T10:21:34Z",
+  "firstContribution": "2026-03-09T15:47:00Z",
   "lastContribution": "2026-03-16T17:02:28Z",
   "recentPRs": [
     {
@@ -84,28 +75,6 @@
       "additions": 434,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 37632,
-      "title": "feat(cron): hierarchical job store — one file per cron job in cron/jobs/ directory",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T10:24:44Z",
-      "mergedAt": null,
-      "additions": 434,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 37628,
-      "title": "feat(workspace): lint and auto-fix code fences in markdown at write time",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T10:21:34Z",
-      "mergedAt": null,
-      "additions": 313,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -115,17 +84,11 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

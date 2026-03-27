@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/65108260?u=5a28bc418afa894ba0d215c38c03b599945ac304&v=4",
   "githubUrl": "https://github.com/constansino",
   "score": {
-    "score": 110.07,
-    "prScore": 77.57,
-    "issueScore": 20,
+    "score": 78,
+    "prScore": 67,
+    "issueScore": 0,
     "reviewScore": 9,
-    "commentScore": 3.5
+    "commentScore": 2
   },
   "tier": "regular",
   "characterClass": "Contributor",
@@ -19,38 +19,29 @@
     "prDeletions": 244,
     "prChangedFiles": 19,
     "prMergeRate": 0,
-    "issues": 4,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 38,
-    "commitDeletions": 3,
-    "commitChangedFiles": 5
+    "comments": 4
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 4,
-      "issues": 4,
+      "issues": 0,
       "reviews": 3,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-09T16:27:08Z",
-  "lastContribution": "2026-03-13T04:59:27Z",
+  "firstContribution": "2026-03-09T16:28:55Z",
+  "lastContribution": "2026-03-13T03:44:08Z",
   "recentPRs": [
     {
       "number": 44621,
@@ -97,36 +88,7 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 44672,
-      "title": "[Bug]: macOS app can stay stuck on generic 'pairing required' after node->operator upgrade approval",
-      "state": "OPEN",
-      "createdAt": "2026-03-13T04:59:27Z",
-      "closedAt": null
-    },
-    {
-      "number": 44618,
-      "title": "[Bug]: inline /model <provider/model> <message> is stripped but not applied as a one-shot model override",
-      "state": "OPEN",
-      "createdAt": "2026-03-13T03:42:38Z",
-      "closedAt": null
-    },
-    {
-      "number": 41815,
-      "title": "macOS LaunchAgent restart should use kickstart first and detach when invoked from the managed gateway process tree",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T05:56:14Z",
-      "closedAt": null
-    },
-    {
-      "number": 41247,
-      "title": "[Bug]: config.get breaks Control UI config editors when redaction sees empty sensitive values",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T16:27:08Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 41817,
@@ -147,34 +109,24 @@
   "recentActivityDays": {
     "2026-03-13": {
       "prs": 1,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0
     },
     "2026-03-10": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 3
     },
     "2026-03-09": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-02-11": 1
-  }
+  "achievements": []
 }

@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/255424812?v=4",
   "githubUrl": "https://github.com/TheHubOfGitMayPolitelySuckMyAss",
   "score": {
-    "score": 60.41,
-    "prScore": 60.41,
+    "score": 14.85,
+    "prScore": 14.85,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 993,
-    "prDeletions": 13,
-    "prChangedFiles": 19,
+    "prAdditions": 176,
+    "prDeletions": 10,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-08T01:07:13Z",
+  "firstContribution": "2026-03-15T18:19:20Z",
   "lastContribution": "2026-03-15T18:19:20Z",
   "recentPRs": [
     {
@@ -62,28 +53,6 @@
       "additions": 176,
       "deletions": 10,
       "changedFiles": 5
-    },
-    {
-      "number": 39323,
-      "title": "feat(pairing): add owner notification on new pairing requests",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T01:07:26Z",
-      "mergedAt": null,
-      "additions": 610,
-      "deletions": 1,
-      "changedFiles": 8
-    },
-    {
-      "number": 39322,
-      "title": "feat(imessage): add tapback reaction support as inbound agent events",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T01:07:13Z",
-      "mergedAt": null,
-      "additions": 207,
-      "deletions": 2,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [],
@@ -93,16 +62,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/58393005?u=60652c576396cb6d714ca8aedad8a5e673459d6e&v=4",
   "githubUrl": "https://github.com/hdzattain",
   "score": {
-    "score": 25.8,
-    "prScore": 17.8,
+    "score": 25.89,
+    "prScore": 17.89,
     "issueScore": 5,
     "reviewScore": 3,
     "commentScore": 0
@@ -16,7 +16,7 @@
     "prs": 1,
     "prsMerged": 0,
     "prAdditions": 169,
-    "prDeletions": 1,
+    "prDeletions": 9,
     "prChangedFiles": 7,
     "prMergeRate": 0,
     "issues": 1,
@@ -24,29 +24,20 @@
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-20T01:40:29Z",
@@ -60,7 +51,7 @@
       "createdAt": "2026-03-20T01:40:29Z",
       "mergedAt": null,
       "additions": 169,
-      "deletions": 1,
+      "deletions": 9,
       "changedFiles": 7
     }
   ],
@@ -98,6 +89,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

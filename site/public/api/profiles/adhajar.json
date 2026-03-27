@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/244052239?v=4",
   "githubUrl": "https://github.com/adhajar",
   "score": {
-    "score": 143.83,
-    "prScore": 143.83,
+    "score": 158.01,
+    "prScore": 158.01,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,45 +13,47 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 8325,
-    "prDeletions": 827,
-    "prChangedFiles": 64,
+    "prAdditions": 13821,
+    "prDeletions": 950,
+    "prChangedFiles": 106,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-11T16:38:43Z",
-  "lastContribution": "2026-03-11T16:38:43Z",
+  "lastContribution": "2026-03-25T17:26:03Z",
   "recentPRs": [
+    {
+      "number": 54590,
+      "title": "Add AgentCore memory search adapter, remove dead extensions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T17:26:03Z",
+      "mergedAt": null,
+      "additions": 5496,
+      "deletions": 123,
+      "changedFiles": 42
+    },
     {
       "number": 43347,
       "title": "fix(tests): vitest 4.x mock compatibility and type safety",
@@ -67,6 +69,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -77,6 +84,11 @@
     "Pull Requests",
     "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ]
 }

@@ -1,0 +1,98 @@
+{
+  "username": "Syysean",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/232002315?v=4",
+  "githubUrl": "https://github.com/Syysean",
+  "score": {
+    "score": 19.94,
+    "prScore": 8.44,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 105,
+    "prDeletions": 14,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 3
+    }
+  },
+  "firstContribution": "2026-03-18T05:23:39Z",
+  "lastContribution": "2026-03-27T08:16:30Z",
+  "recentPRs": [
+    {
+      "number": 55513,
+      "title": "fix(gateway): prevent OOM and socket hang up via Claim Check pattern for large attachments",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T03:01:29Z",
+      "mergedAt": null,
+      "additions": 105,
+      "deletions": 14,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 50401,
+      "title": "[Bug]: DeepSeek-V3 (SiliconFlow): 400 error when agent uses tool calls - \"messages in request are illegal\"",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T11:47:11Z",
+      "closedAt": null
+    },
+    {
+      "number": 49497,
+      "title": "[Guide] SiliconFlow provider for Chinese users — DeepSeek + Qwen smart routing proxy",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T05:23:39Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

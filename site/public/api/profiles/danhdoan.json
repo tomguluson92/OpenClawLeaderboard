@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12591333?u=0c1674e13accea10c3ffe6df36a856c0b6deb5a1&v=4",
   "githubUrl": "https://github.com/danhdoan",
   "score": {
-    "score": 71.09,
-    "prScore": 61.59,
+    "score": 79.38,
+    "prScore": 69.88,
     "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 0.5
@@ -14,39 +14,30 @@
   "stats": {
     "commits": 0,
     "prs": 2,
-    "prsMerged": 0,
-    "prAdditions": 2520,
-    "prDeletions": 263,
-    "prChangedFiles": 20,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 2718,
+    "prDeletions": 298,
+    "prChangedFiles": 22,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 1,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 3,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-12T09:58:16Z",
@@ -55,13 +46,13 @@
     {
       "number": 50848,
       "title": "feat(context-engine): pass incoming prompt to assemble",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-20T04:51:09Z",
-      "mergedAt": null,
-      "additions": 99,
-      "deletions": 0,
-      "changedFiles": 3
+      "mergedAt": "2026-03-21T00:03:21Z",
+      "additions": 297,
+      "deletions": 35,
+      "changedFiles": 5
     },
     {
       "number": 43920,
@@ -115,6 +106,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

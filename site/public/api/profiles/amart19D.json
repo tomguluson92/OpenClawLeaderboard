@@ -3,10 +3,10 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/31870173?v=4",
   "githubUrl": "https://github.com/amart19D",
   "score": {
-    "score": 32.33,
-    "prScore": 14.33,
+    "score": 35.34,
+    "prScore": 14.34,
     "issueScore": 0,
-    "reviewScore": 18,
+    "reviewScore": 21,
     "commentScore": 0
   },
   "tier": "beginner",
@@ -15,42 +15,33 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 420,
+    "prAdditions": 422,
     "prDeletions": 29,
     "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 6,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 6,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 7,
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-19T18:39:20Z",
-  "lastContribution": "2026-03-19T18:52:56Z",
+  "lastContribution": "2026-03-20T17:22:04Z",
   "recentPRs": [
     {
       "number": 50584,
@@ -59,13 +50,18 @@
       "merged": false,
       "createdAt": "2026-03-19T18:39:20Z",
       "mergedAt": null,
-      "additions": 420,
+      "additions": 422,
       "deletions": 29,
       "changedFiles": 4
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 50584,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T17:22:04Z"
+    },
     {
       "prNumber": 50584,
       "state": "COMMENTED",
@@ -102,12 +98,16 @@
       "prs": 1,
       "issues": 0,
       "reviews": 6
+    },
+    "2026-03-20": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

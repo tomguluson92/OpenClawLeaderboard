@@ -3,55 +3,101 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1388680?u=fc90f7e097f51fcf33433bbee8e6892a209c59b1&v=4",
   "githubUrl": "https://github.com/amittell",
   "score": {
-    "score": 452.94,
-    "prScore": 272.94,
-    "issueScore": 5,
-    "reviewScore": 159,
-    "commentScore": 16
+    "score": 434.71,
+    "prScore": 290.21,
+    "issueScore": 0,
+    "reviewScore": 129,
+    "commentScore": 15.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 18,
+    "prs": 20,
     "prsMerged": 0,
-    "prAdditions": 17007,
-    "prDeletions": 949,
-    "prChangedFiles": 153,
+    "prAdditions": 21403,
+    "prDeletions": 933,
+    "prChangedFiles": 168,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 53,
+    "reviews": 43,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 32,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 31
   },
   "period": {
     "weekly": {
-      "prs": 10,
+      "prs": 5,
       "issues": 0,
-      "reviews": 17,
-      "comments": 24,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 3
     },
     "monthly": {
-      "prs": 18,
-      "issues": 1,
-      "reviews": 53,
-      "comments": 32,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 20,
+      "issues": 0,
+      "reviews": 43,
+      "comments": 31
     }
   },
-  "firstContribution": "2026-03-07T21:39:35Z",
-  "lastContribution": "2026-03-20T06:16:04Z",
+  "firstContribution": "2026-03-10T01:43:56Z",
+  "lastContribution": "2026-03-25T03:13:11Z",
   "recentPRs": [
+    {
+      "number": 54171,
+      "title": "feat(auth): add `openclaw models auth clean` command to prune stale auth profiles",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T02:22:49Z",
+      "mergedAt": null,
+      "additions": 1474,
+      "deletions": 7,
+      "changedFiles": 7
+    },
+    {
+      "number": 54169,
+      "title": "feat(gateway): queue inbound messages during drain and recover interrupted turns on restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T02:20:46Z",
+      "mergedAt": null,
+      "additions": 2440,
+      "deletions": 129,
+      "changedFiles": 24
+    },
+    {
+      "number": 54167,
+      "title": "fix(telegram): silently skip empty-text sends instead of failing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T02:13:58Z",
+      "mergedAt": null,
+      "additions": 228,
+      "deletions": 53,
+      "changedFiles": 8
+    },
+    {
+      "number": 52609,
+      "title": "fix(agent): raise overload failover backoff ceiling from 1.5s to 30s and make configurable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T03:34:38Z",
+      "mergedAt": null,
+      "additions": 86,
+      "deletions": 8,
+      "changedFiles": 5
+    },
+    {
+      "number": 52030,
+      "title": "fix(agent): treat Anthropic long-context usage errors as context overflow for compact+retry",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:53:52Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 0,
+      "changedFiles": 3
+    },
     {
       "number": 49431,
       "title": "feat(gateway): pending-inbound store and active-turn tracking for lossless restarts",
@@ -59,9 +105,9 @@
       "merged": false,
       "createdAt": "2026-03-18T03:50:24Z",
       "mergedAt": null,
-      "additions": 1409,
-      "deletions": 47,
-      "changedFiles": 8
+      "additions": 1632,
+      "deletions": 51,
+      "changedFiles": 11
     },
     {
       "number": 49429,
@@ -70,8 +116,8 @@
       "merged": false,
       "createdAt": "2026-03-18T03:49:36Z",
       "mergedAt": null,
-      "additions": 1693,
-      "deletions": 158,
+      "additions": 1790,
+      "deletions": 58,
       "changedFiles": 15
     },
     {
@@ -92,9 +138,9 @@
       "merged": false,
       "createdAt": "2026-03-18T03:41:06Z",
       "mergedAt": null,
-      "additions": 885,
-      "deletions": 156,
-      "changedFiles": 6
+      "additions": 212,
+      "deletions": 34,
+      "changedFiles": 5
     },
     {
       "number": 49407,
@@ -125,9 +171,9 @@
       "merged": false,
       "createdAt": "2026-03-18T02:56:48Z",
       "mergedAt": null,
-      "additions": 1560,
-      "deletions": 91,
-      "changedFiles": 12
+      "additions": 332,
+      "deletions": 66,
+      "changedFiles": 6
     },
     {
       "number": 49220,
@@ -136,9 +182,9 @@
       "merged": false,
       "createdAt": "2026-03-17T20:00:35Z",
       "mergedAt": null,
-      "additions": 241,
-      "deletions": 2,
-      "changedFiles": 3
+      "additions": 1325,
+      "deletions": 25,
+      "changedFiles": 6
     },
     {
       "number": 48417,
@@ -147,9 +193,9 @@
       "merged": false,
       "createdAt": "2026-03-16T18:14:36Z",
       "mergedAt": null,
-      "additions": 200,
-      "deletions": 9,
-      "changedFiles": 6
+      "additions": 356,
+      "deletions": 31,
+      "changedFiles": 7
     },
     {
       "number": 47657,
@@ -158,9 +204,9 @@
       "merged": false,
       "createdAt": "2026-03-15T22:13:41Z",
       "mergedAt": null,
-      "additions": 105,
-      "deletions": 1,
-      "changedFiles": 2
+      "additions": 261,
+      "deletions": 23,
+      "changedFiles": 4
     },
     {
       "number": 43498,
@@ -169,9 +215,9 @@
       "merged": false,
       "createdAt": "2026-03-11T22:10:20Z",
       "mergedAt": null,
-      "additions": 975,
-      "deletions": 2,
-      "changedFiles": 2
+      "additions": 1210,
+      "deletions": 20,
+      "changedFiles": 5
     },
     {
       "number": 43497,
@@ -180,9 +226,9 @@
       "merged": false,
       "createdAt": "2026-03-11T22:09:24Z",
       "mergedAt": null,
-      "additions": 2029,
-      "deletions": 25,
-      "changedFiles": 5
+      "additions": 2289,
+      "deletions": 32,
+      "changedFiles": 7
     },
     {
       "number": 42485,
@@ -191,9 +237,9 @@
       "merged": false,
       "createdAt": "2026-03-10T20:16:08Z",
       "mergedAt": null,
-      "additions": 186,
-      "deletions": 58,
-      "changedFiles": 2
+      "additions": 345,
+      "deletions": 80,
+      "changedFiles": 4
     },
     {
       "number": 41640,
@@ -216,50 +262,9 @@
       "additions": 2427,
       "deletions": 126,
       "changedFiles": 22
-    },
-    {
-      "number": 40384,
-      "title": "fix(telegram): silently skip empty-text sends instead of failing",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T00:19:40Z",
-      "mergedAt": null,
-      "additions": 228,
-      "deletions": 53,
-      "changedFiles": 8
-    },
-    {
-      "number": 40383,
-      "title": "fix(telegram): restore retry behaviour for 429 rate-limit and failed-after network errors",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T00:19:16Z",
-      "mergedAt": null,
-      "additions": 89,
-      "deletions": 31,
-      "changedFiles": 31
-    },
-    {
-      "number": 39205,
-      "title": "fix(telegram): reset webhookCleared latch on 409 conflict to prevent infinite polling loop",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T21:39:35Z",
-      "mergedAt": null,
-      "additions": 41,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41634,
-      "title": "[Bug]: Legacy auth profiles accumulate indefinitely and cannot be cleaned up (profile order silently wrong, subagent sessions hang)",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T02:22:17Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 49429,
@@ -327,16 +332,6 @@
       "createdAt": "2026-03-16T18:45:42Z"
     },
     {
-      "prNumber": 40384,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-16T01:39:56Z"
-    },
-    {
-      "prNumber": 40384,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-16T01:39:55Z"
-    },
-    {
       "prNumber": 42485,
       "state": "COMMENTED",
       "createdAt": "2026-03-16T01:37:50Z"
@@ -360,9 +355,34 @@
       "prNumber": 43497,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T02:23:49Z"
+    },
+    {
+      "prNumber": 43497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:23:48Z"
+    },
+    {
+      "prNumber": 43497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-12T02:23:47Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 7,
       "issues": 0,
@@ -376,7 +396,7 @@
     "2026-03-16": {
       "prs": 1,
       "issues": 0,
-      "reviews": 8
+      "reviews": 6
     },
     "2026-03-15": {
       "prs": 1,
@@ -390,18 +410,8 @@
     },
     "2026-03-10": {
       "prs": 3,
-      "issues": 1,
+      "issues": 0,
       "reviews": 15
-    },
-    "2026-03-09": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 8
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     },
     "2026-03-19": {
       "prs": 0,
@@ -417,7 +427,6 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion",
     "Large-Scale Changes"
   ],
@@ -433,11 +442,6 @@
       "description": "10+ reviews"
     },
     {
-      "id": "review-guru",
-      "label": "Review Guru",
-      "description": "50+ reviews"
-    },
-    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
@@ -446,12 +450,6 @@
       "id": "prolific",
       "label": "Prolific Coder",
       "description": "10K+ lines added"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

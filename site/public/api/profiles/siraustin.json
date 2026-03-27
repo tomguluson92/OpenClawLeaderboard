@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3533969?v=4",
   "githubUrl": "https://github.com/siraustin",
   "score": {
-    "score": 22.33,
+    "score": 27.33,
     "prScore": 22.33,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 74,
     "prChangedFiles": 9,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-16T16:03:30Z",
-  "lastContribution": "2026-03-16T16:03:30Z",
+  "lastContribution": "2026-03-24T13:34:59Z",
   "recentPRs": [
     {
       "number": 48334,
@@ -64,18 +55,31 @@
       "changedFiles": 9
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 53712,
+      "title": "Compaction flush rewrites entire file, breaking concurrent Edit tool operations",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T13:34:59Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-16": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

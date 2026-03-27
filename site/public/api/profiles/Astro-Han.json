@@ -3,10 +3,10 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?u=d8676c546bf1ade00d68a19feb32d79780df3a98&v=4",
   "githubUrl": "https://github.com/Astro-Han",
   "score": {
-    "score": 128.49,
-    "prScore": 99.99,
-    "issueScore": 5,
-    "reviewScore": 18,
+    "score": 132.29,
+    "prScore": 105.79,
+    "issueScore": 0,
+    "reviewScore": 21,
     "commentScore": 5.5
   },
   "tier": "regular",
@@ -15,47 +15,38 @@
     "commits": 0,
     "prs": 7,
     "prsMerged": 1,
-    "prAdditions": 766,
-    "prDeletions": 15,
-    "prChangedFiles": 22,
+    "prAdditions": 1242,
+    "prDeletions": 60,
+    "prChangedFiles": 25,
     "prMergeRate": 14,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
-    "commitAdditions": 2,
-    "commitDeletions": 1,
-    "commitChangedFiles": 2
+    "comments": 11
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
-      "reviews": 4,
-      "comments": 3,
-      "commitAdditions": 2,
-      "commitDeletions": 1,
-      "commits": 1
+      "reviews": 1,
+      "comments": 2
     },
     "monthly": {
       "prs": 7,
-      "issues": 1,
-      "reviews": 6,
-      "comments": 11,
-      "commitAdditions": 2,
-      "commitDeletions": 1,
-      "commits": 1
+      "issues": 0,
+      "reviews": 7,
+      "comments": 11
     }
   },
-  "firstContribution": "2026-03-11T13:21:44Z",
-  "lastContribution": "2026-03-15T04:58:05Z",
+  "firstContribution": "2026-03-12T08:06:45Z",
+  "lastContribution": "2026-03-23T16:29:12Z",
   "recentPRs": [
     {
       "number": 46893,
       "title": "fix: doctor false API key warning for ollama memory search provider",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T04:58:05Z",
       "mergedAt": null,
@@ -70,14 +61,14 @@
       "merged": false,
       "createdAt": "2026-03-15T01:43:03Z",
       "mergedAt": null,
-      "additions": 44,
+      "additions": 150,
       "deletions": 8,
-      "changedFiles": 1
+      "changedFiles": 2
     },
     {
       "number": 45005,
       "title": "fix(discord,telegram): suppress NO_REPLY token before API call",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T10:43:42Z",
       "mergedAt": null,
@@ -103,9 +94,9 @@
       "merged": false,
       "createdAt": "2026-03-12T18:24:41Z",
       "mergedAt": null,
-      "additions": 10,
-      "deletions": 0,
-      "changedFiles": 1
+      "additions": 161,
+      "deletions": 7,
+      "changedFiles": 2
     },
     {
       "number": 44301,
@@ -125,21 +116,18 @@
       "merged": false,
       "createdAt": "2026-03-12T08:06:45Z",
       "mergedAt": null,
-      "additions": 575,
-      "deletions": 5,
-      "changedFiles": 11
+      "additions": 794,
+      "deletions": 43,
+      "changedFiles": 12
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43201,
-      "title": "Feature: one-shot thinking level via /think <level> <message>",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T13:21:44Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 44308,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T16:03:24Z"
+    },
     {
       "prNumber": 45005,
       "state": "COMMENTED",
@@ -187,26 +175,16 @@
       "issues": 0,
       "reviews": 2
     },
-    "2026-03-11": {
+    "2026-03-23": {
       "prs": 0,
-      "issues": 1,
-      "reviews": 0
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-13": 1
-  }
+  "achievements": []
 }

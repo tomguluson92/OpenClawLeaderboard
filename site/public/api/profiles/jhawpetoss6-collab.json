@@ -1,0 +1,306 @@
+{
+  "username": "jhawpetoss6-collab",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/262049557?v=4",
+  "githubUrl": "https://github.com/jhawpetoss6-collab",
+  "score": {
+    "score": 645.79,
+    "prScore": 639.29,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "veteran",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 75,
+    "prsMerged": 0,
+    "prAdditions": 1896,
+    "prDeletions": 140,
+    "prChangedFiles": 84,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 75,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 3
+    },
+    "monthly": {
+      "prs": 75,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 3
+    }
+  },
+  "firstContribution": "2026-03-24T17:24:22Z",
+  "lastContribution": "2026-03-25T01:39:29Z",
+  "recentPRs": [
+    {
+      "number": 54127,
+      "title": "feat: native Raspberry Pi 5 (ARM64) integration and installer suite",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T01:05:14Z",
+      "mergedAt": null,
+      "additions": 177,
+      "deletions": 0,
+      "changedFiles": 7
+    },
+    {
+      "number": 54113,
+      "title": "chore: sovereign formatting and cleanup overhaul",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T00:45:22Z",
+      "mergedAt": null,
+      "additions": 219,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 54083,
+      "title": "feat: implement proactive UsageGuard for API limit hardening",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:31:26Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54081,
+      "title": "feat: implement client-side API throttling to prevent 429 errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:27:31Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54079,
+      "title": "feat: implement API Usage Telemetry for proactive rate limit monitoring",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:27:06Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54078,
+      "title": "feat: implement Smart API Retry logic for rate limits and timeouts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:26:47Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54075,
+      "title": "feat: suppress inline narration when message() tool is used",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:22:07Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54072,
+      "title": "fix: close sandbox media root bypass for mediaUrl and fileUrl aliases",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:21:39Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54071,
+      "title": "fix: resolve Matrix event dispatch hangs after config hot-reload",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:21:18Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54068,
+      "title": "feat: implement instant USDC and Credit/Debit card payouts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:14:43Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54067,
+      "title": "feat: implement post-update integrity check and self-repairing update logic",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:10:38Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54065,
+      "title": "feat: implement persistent SkillManifestCache for faster discovery",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:10:12Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54064,
+      "title": "feat: implement self-diagnosing failover monitor for model routing resilience",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:09:54Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54063,
+      "title": "feat: implement Collaborative Code Review for multi-agent quality assurance",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:09:33Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54057,
+      "title": "feat: implement automated Bounty Verification for code-writing jobs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:03:34Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54056,
+      "title": "feat: implement Distributed Worker Registry for P2P task sharing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:02:13Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54055,
+      "title": "feat: implement Admin API for billing, quotas, and revenue tracking",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:00:44Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54054,
+      "title": "feat: implement Distributed Worker protocol for P2P agent labor",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T22:59:08Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54053,
+      "title": "feat: implement Billing and Payout webhooks for automated settlement",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T22:58:20Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54049,
+      "title": "feat: implement on-chain Escrow for code-writing job payouts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T22:49:18Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54108,
+      "title": "[META] Sovereign Infrastructure Overhaul: 165+ Strikes Tracking",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T00:36:59Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 73,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    }
+  ]
+}

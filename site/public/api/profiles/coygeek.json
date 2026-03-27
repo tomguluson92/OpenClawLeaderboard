@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/65363919?v=4",
   "githubUrl": "https://github.com/coygeek",
   "score": {
-    "score": 291.53,
-    "prScore": 241.03,
-    "issueScore": 50,
-    "reviewScore": 0,
-    "commentScore": 0.5
+    "score": 364.92,
+    "prScore": 242.42,
+    "issueScore": 85,
+    "reviewScore": 30,
+    "commentScore": 7.5
   },
   "tier": "active",
-  "characterClass": "Pathfinder",
+  "characterClass": "Contributor",
   "stats": {
-    "commits": 11,
-    "prs": 10,
-    "prsMerged": 0,
-    "prAdditions": 979,
-    "prDeletions": 59,
-    "prChangedFiles": 31,
-    "prMergeRate": 0,
-    "issues": 10,
-    "issuesClosed": 0,
-    "reviews": 0,
+    "commits": 12,
+    "prs": 12,
+    "prsMerged": 1,
+    "prAdditions": 1289,
+    "prDeletions": 89,
+    "prChangedFiles": 44,
+    "prMergeRate": 8,
+    "issues": 14,
+    "issuesClosed": 5,
+    "reviews": 10,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 955,
-    "commitDeletions": 294,
-    "commitChangedFiles": 58
+    "comments": 15
   },
   "period": {
     "weekly": {
-      "prs": 10,
-      "issues": 10,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 2,
+      "issues": 4,
+      "reviews": 10,
+      "comments": 14
     },
     "monthly": {
-      "prs": 10,
-      "issues": 10,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 360,
-      "commitDeletions": 69,
-      "commits": 5
+      "prs": 12,
+      "issues": 14,
+      "reviews": 10,
+      "comments": 15
     }
   },
   "firstContribution": "2026-03-19T20:09:39Z",
-  "lastContribution": "2026-03-19T21:42:23Z",
+  "lastContribution": "2026-03-24T06:00:02Z",
   "recentPRs": [
+    {
+      "number": 53418,
+      "title": "fix(config): redact browser CDP URLs in config snapshots",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T05:27:12Z",
+      "mergedAt": null,
+      "additions": 104,
+      "deletions": 13,
+      "changedFiles": 9
+    },
+    {
+      "number": 53414,
+      "title": "fix(config): redact Feishu encryptKey in config snapshots",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T05:25:24Z",
+      "mergedAt": "2026-03-26T23:58:37Z",
+      "additions": 41,
+      "deletions": 11,
+      "changedFiles": 4
+    },
     {
       "number": 50645,
       "title": "fix: gateway.auth.mode=none propagates silently to browser control...",
@@ -70,7 +83,7 @@
       "merged": false,
       "createdAt": "2026-03-19T20:56:01Z",
       "mergedAt": null,
-      "additions": 9,
+      "additions": 13,
       "deletions": 0,
       "changedFiles": 1
     },
@@ -88,7 +101,7 @@
     {
       "number": 50638,
       "title": "fix: WS handshake rate-limiter bypassed by synthetic device identity...",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T20:54:05Z",
       "mergedAt": null,
@@ -103,14 +116,14 @@
       "merged": false,
       "createdAt": "2026-03-19T20:53:56Z",
       "mergedAt": null,
-      "additions": 110,
-      "deletions": 17,
-      "changedFiles": 8
+      "additions": 105,
+      "deletions": 16,
+      "changedFiles": 7
     },
     {
       "number": 50633,
       "title": "fix: Elevated tools allowFrom accepts mutable display-name fields...",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T20:47:11Z",
       "mergedAt": null,
@@ -136,7 +149,7 @@
       "merged": false,
       "createdAt": "2026-03-19T20:46:54Z",
       "mergedAt": null,
-      "additions": 62,
+      "additions": 151,
       "deletions": 8,
       "changedFiles": 3
     },
@@ -147,9 +160,9 @@
       "merged": false,
       "createdAt": "2026-03-19T20:46:42Z",
       "mergedAt": null,
-      "additions": 151,
-      "deletions": 2,
-      "changedFiles": 2
+      "additions": 178,
+      "deletions": 6,
+      "changedFiles": 3
     },
     {
       "number": 50615,
@@ -158,12 +171,40 @@
       "merged": false,
       "createdAt": "2026-03-19T20:09:41Z",
       "mergedAt": null,
-      "additions": 35,
-      "deletions": 1,
+      "additions": 85,
+      "deletions": 4,
       "changedFiles": 2
     }
   ],
   "recentIssues": [
+    {
+      "number": 53433,
+      "title": "[Bug]: remote CDP URLs bypass config redaction and leak credentials",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T05:52:09Z",
+      "closedAt": null
+    },
+    {
+      "number": 53417,
+      "title": "[Bug]: Remote CDP URLs bypass config redaction, leaking credentials to read-scoped clients",
+      "state": "CLOSED",
+      "createdAt": "2026-03-24T05:26:51Z",
+      "closedAt": "2026-03-24T06:00:02Z"
+    },
+    {
+      "number": 53413,
+      "title": "[Bug]: Feishu encryptKey bypasses config redaction, enabling webhook forgery",
+      "state": "CLOSED",
+      "createdAt": "2026-03-24T05:25:06Z",
+      "closedAt": "2026-03-24T05:34:45Z"
+    },
+    {
+      "number": 53412,
+      "title": "[Bug]: Feishu encryptKey bypasses config redaction, enabling webhook forgery",
+      "state": "CLOSED",
+      "createdAt": "2026-03-24T05:22:24Z",
+      "closedAt": "2026-03-26T23:58:38Z"
+    },
     {
       "number": 50644,
       "title": "[Bug]: gateway.auth.mode=none propagates silently to browser control server, removing all authentication from browser automation APIs",
@@ -188,9 +229,9 @@
     {
       "number": 50637,
       "title": "[Bug]: WS handshake rate-limiter bypassed by synthetic device identity field",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-19T20:54:03Z",
-      "closedAt": null
+      "closedAt": "2026-03-23T15:13:33Z"
     },
     {
       "number": 50635,
@@ -202,9 +243,9 @@
     {
       "number": 50632,
       "title": "[Bug]: Elevated tools allowFrom accepts mutable display-name fields without spoofing protection",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-19T20:47:09Z",
-      "closedAt": null
+      "closedAt": "2026-03-23T15:13:40Z"
     },
     {
       "number": 50630,
@@ -235,16 +276,78 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 50641,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:37:00Z"
+    },
+    {
+      "prNumber": 50643,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:36:56Z"
+    },
+    {
+      "prNumber": 50643,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:36:51Z"
+    },
+    {
+      "prNumber": 50643,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:36:47Z"
+    },
+    {
+      "prNumber": 50645,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:36:40Z"
+    },
+    {
+      "prNumber": 50645,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:36:37Z"
+    },
+    {
+      "prNumber": 50645,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:36:32Z"
+    },
+    {
+      "prNumber": 50636,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:19:49Z"
+    },
+    {
+      "prNumber": 50629,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T00:58:42Z"
+    },
+    {
+      "prNumber": 50615,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T23:36:07Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 4,
+      "reviews": 9
+    },
     "2026-03-19": {
       "prs": 10,
       "issues": 10,
       "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
     "Discussion",
     "Direct Commits"
@@ -259,15 +362,16 @@
       "id": "bug-reporter",
       "label": "Bug Reporter",
       "description": "5+ issues filed"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-02-24": 1,
-    "2026-02-20": 2,
-    "2026-02-19": 2,
-    "2026-02-14": 1,
-    "2026-02-13": 1,
-    "2026-02-12": 2,
-    "2026-02-06": 2
-  }
+  ]
 }

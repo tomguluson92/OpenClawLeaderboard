@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1445620?v=4",
   "githubUrl": "https://github.com/ATran28",
   "score": {
-    "score": 27.66,
-    "prScore": 15.16,
+    "score": 59.27,
+    "prScore": 35.77,
     "issueScore": 0,
-    "reviewScore": 12,
-    "commentScore": 0.5
+    "reviewScore": 21,
+    "commentScore": 2.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 227,
-    "prDeletions": 2,
-    "prChangedFiles": 5,
+    "prAdditions": 718,
+    "prDeletions": 13,
+    "prChangedFiles": 11,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 4,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 5
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 4,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 3,
+      "comments": 4
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
-      "reviews": 4,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 7,
+      "comments": 5
     }
   },
   "firstContribution": "2026-03-16T18:16:21Z",
-  "lastContribution": "2026-03-16T19:05:14Z",
+  "lastContribution": "2026-03-23T23:39:07Z",
   "recentPRs": [
+    {
+      "number": 52534,
+      "title": "fix(delivery-queue): replace startup-only recovery with periodic timer",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T00:22:42Z",
+      "mergedAt": null,
+      "additions": 491,
+      "deletions": 11,
+      "changedFiles": 6
+    },
     {
       "number": 48421,
       "title": "fix(whatsapp): detect outbound echoes by message ID instead of body prefix",
@@ -66,6 +68,21 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 52534,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T19:23:46Z"
+    },
+    {
+      "prNumber": 52534,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T19:23:27Z"
+    },
+    {
+      "prNumber": 52534,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T18:46:37Z"
+    },
     {
       "prNumber": 48421,
       "state": "COMMENTED",
@@ -88,6 +105,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-16": {
       "prs": 1,
       "issues": 0,
@@ -99,6 +121,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

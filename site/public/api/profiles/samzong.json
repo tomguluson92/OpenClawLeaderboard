@@ -3,68 +3,87 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/13782141?u=de420671de52f9c53edc90970c261002edc52861&v=4",
   "githubUrl": "https://github.com/samzong",
   "score": {
-    "score": 23.36,
-    "prScore": 17.36,
-    "issueScore": 5,
+    "score": 49.02,
+    "prScore": 22.52,
+    "issueScore": 25,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 1.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 291,
-    "prDeletions": 24,
-    "prChangedFiles": 6,
-    "prMergeRate": 0,
-    "issues": 1,
+    "prsMerged": 1,
+    "prAdditions": 362,
+    "prDeletions": 25,
+    "prChangedFiles": 7,
+    "prMergeRate": 100,
+    "issues": 5,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 1,
+      "issues": 4,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 5,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 3
     }
   },
   "firstContribution": "2026-03-10T12:20:02Z",
-  "lastContribution": "2026-03-16T10:08:26Z",
+  "lastContribution": "2026-03-26T12:49:02Z",
   "recentPRs": [
     {
       "number": 42119,
       "title": "fix(compaction): make compaction guard content-aware to prevent false cancellations in heartbeat sessions",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-10T12:20:02Z",
-      "mergedAt": null,
-      "additions": 291,
-      "deletions": 24,
-      "changedFiles": 6
+      "mergedAt": "2026-03-21T19:27:36Z",
+      "additions": 362,
+      "deletions": 25,
+      "changedFiles": 7
     }
   ],
   "recentIssues": [
+    {
+      "number": 52928,
+      "title": "feat(gateway): add agents.setDefault RPC method",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T14:33:46Z",
+      "closedAt": null
+    },
+    {
+      "number": 52919,
+      "title": "[Feature]: Add commands.list Gateway RPC for remote clients",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T14:21:39Z",
+      "closedAt": null
+    },
+    {
+      "number": 52850,
+      "title": "[Bug]: Exec approval-pending does not block agent run loop, causing approval storm",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T12:52:03Z",
+      "closedAt": null
+    },
+    {
+      "number": 52826,
+      "title": "Add structured process events for sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T12:13:42Z",
+      "closedAt": null
+    },
     {
       "number": 48123,
       "title": "Gateway silently drops non-image attachments in chat.send",
@@ -80,6 +99,11 @@
       "issues": 0,
       "reviews": 0
     },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 4,
+      "reviews": 0
+    },
     "2026-03-16": {
       "prs": 0,
       "issues": 1,
@@ -91,6 +115,11 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ]
 }

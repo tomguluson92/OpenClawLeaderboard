@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/172346891?v=4",
   "githubUrl": "https://github.com/plabzzxx",
   "score": {
-    "score": 199.31,
-    "prScore": 192.81,
+    "score": 190.29,
+    "prScore": 185.79,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 6.5
+    "commentScore": 4.5
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 18676,
+    "prAdditions": 18644,
     "prDeletions": 4566,
-    "prChangedFiles": 456,
+    "prChangedFiles": 455,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 9
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 9
     }
   },
-  "firstContribution": "2026-03-08T08:42:18Z",
+  "firstContribution": "2026-03-10T01:31:20Z",
   "lastContribution": "2026-03-18T03:34:43Z",
   "recentPRs": [
     {
@@ -106,17 +97,6 @@
       "additions": 127,
       "deletions": 74,
       "changedFiles": 5
-    },
-    {
-      "number": 39641,
-      "title": "docs: clarify GPT OAuth multi-account rotation",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T08:42:18Z",
-      "mergedAt": null,
-      "additions": 32,
-      "deletions": 0,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -141,11 +121,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -159,6 +134,5 @@
       "label": "Prolific Coder",
       "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

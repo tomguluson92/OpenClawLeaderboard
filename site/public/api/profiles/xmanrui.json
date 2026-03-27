@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4094054?u=f68ad970a1a41b5e23d415717fe8056c2be6f5a6&v=4",
   "githubUrl": "https://github.com/xmanrui",
   "score": {
-    "score": 149.05,
-    "prScore": 149.05,
+    "score": 133.8,
+    "prScore": 133.8,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,43 +13,34 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 3806,
-    "prDeletions": 1290,
-    "prChangedFiles": 107,
+    "prAdditions": 3417,
+    "prDeletions": 1273,
+    "prChangedFiles": 96,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-08T20:35:55Z",
+  "firstContribution": "2026-03-14T16:35:29Z",
   "lastContribution": "2026-03-14T16:35:29Z",
   "recentPRs": [
     {
@@ -62,28 +53,6 @@
       "additions": 3417,
       "deletions": 1273,
       "changedFiles": 96
-    },
-    {
-      "number": 40277,
-      "title": "fix(ui): show model errors inline in web chat",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T21:29:23Z",
-      "mergedAt": null,
-      "additions": 222,
-      "deletions": 12,
-      "changedFiles": 7
-    },
-    {
-      "number": 40246,
-      "title": "Respect proxy env for WhatsApp web sockets",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T20:35:55Z",
-      "mergedAt": null,
-      "additions": 167,
-      "deletions": 5,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
@@ -93,17 +62,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Large-Scale Changes"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

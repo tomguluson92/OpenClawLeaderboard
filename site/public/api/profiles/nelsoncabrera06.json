@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/59287287?u=64134bebcc91938e9823071f937c4e09a35163da&v=4",
   "githubUrl": "https://github.com/nelsoncabrera06",
   "score": {
-    "score": 15.76,
+    "score": 9.76,
     "prScore": 9.76,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 0,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-10T10:49:41Z",
-  "lastContribution": "2026-03-10T11:31:38Z",
+  "firstContribution": "2026-03-10T11:07:50Z",
+  "lastContribution": "2026-03-10T11:07:50Z",
   "recentPRs": [
     {
       "number": 42075,
@@ -64,28 +55,17 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42060,
-      "title": "[Bug]: tts tool tag [[audio_as_voice]] not processed by Telegram sender — audio delivered as file attachment instead of voice note",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T10:49:41Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

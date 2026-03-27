@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/203121263?u=71de2627c5938435c8a4e03190072e0784de778c&v=4",
   "githubUrl": "https://github.com/nabbilkhan",
   "score": {
-    "score": 49.04,
-    "prScore": 49.04,
+    "score": 43.32,
+    "prScore": 42.82,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Builder",
@@ -15,73 +15,58 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 147,
-    "prDeletions": 2,
-    "prChangedFiles": 3,
+    "prAdditions": 507,
+    "prDeletions": 28,
+    "prChangedFiles": 19,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 1444,
-    "commitDeletions": 3,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 16
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 70,
-      "commitDeletions": 1,
-      "commits": 1
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-02T12:06:03Z",
-  "lastContribution": "2026-03-02T12:06:03Z",
+  "firstContribution": "2026-03-24T13:51:20Z",
+  "lastContribution": "2026-03-24T14:12:38Z",
   "recentPRs": [
     {
-      "number": 31654,
-      "title": "fix(sessions): surface fire-and-forget delivery failures to requester",
+      "number": 53720,
+      "title": "feat(agents): add per-agent enabled/disabled flag for non-destructive suspension",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-02T12:06:03Z",
+      "createdAt": "2026-03-24T13:51:20Z",
       "mergedAt": null,
-      "additions": 147,
-      "deletions": 2,
-      "changedFiles": 3
+      "additions": 507,
+      "deletions": 28,
+      "changedFiles": 19
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests"
-  ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-02-20": 1,
-    "2026-02-16": 2,
-    "2026-02-13": 1
-  },
   "recentActivityDays": {
-    "2026-03-02": {
+    "2026-03-24": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": []
 }

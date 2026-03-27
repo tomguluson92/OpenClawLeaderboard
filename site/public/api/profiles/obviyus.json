@@ -3,55 +3,90 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/22031114?v=4",
   "githubUrl": "https://github.com/obviyus",
   "score": {
-    "score": 2919.61,
-    "prScore": 2800.11,
+    "score": 3117.93,
+    "prScore": 2950.93,
     "issueScore": 8,
-    "reviewScore": 54.5,
-    "commentScore": 57
+    "reviewScore": 93,
+    "commentScore": 66
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
-    "commits": 462,
-    "prs": 33,
-    "prsMerged": 30,
-    "prAdditions": 10242,
-    "prDeletions": 6647,
-    "prChangedFiles": 371,
-    "prMergeRate": 91,
+    "commits": 523,
+    "prs": 21,
+    "prsMerged": 17,
+    "prAdditions": 6071,
+    "prDeletions": 3782,
+    "prChangedFiles": 155,
+    "prMergeRate": 81,
     "issues": 1,
     "issuesClosed": 1,
-    "reviews": 16,
-    "reviewsApproved": 2,
-    "reviewsChangesRequested": 3,
-    "comments": 114,
-    "commitAdditions": 45054,
-    "commitDeletions": 16821,
-    "commitChangedFiles": 1579
+    "reviews": 27,
+    "reviewsApproved": 3,
+    "reviewsChangesRequested": 6,
+    "comments": 132
   },
   "period": {
     "weekly": {
-      "prs": 11,
-      "issues": 1,
-      "reviews": 10,
-      "comments": 34,
-      "commitAdditions": 7797,
-      "commitDeletions": 4355,
-      "commits": 83
+      "prs": 4,
+      "issues": 0,
+      "reviews": 16,
+      "comments": 72
     },
     "monthly": {
-      "prs": 33,
+      "prs": 21,
       "issues": 1,
-      "reviews": 16,
-      "comments": 114,
-      "commitAdditions": 38544,
-      "commitDeletions": 13903,
-      "commits": 380
+      "reviews": 27,
+      "comments": 132
     }
   },
-  "firstContribution": "2026-03-06T05:47:38Z",
-  "lastContribution": "2026-03-20T05:42:29Z",
+  "firstContribution": "2026-03-10T02:40:02Z",
+  "lastContribution": "2026-03-27T04:06:47Z",
   "recentPRs": [
+    {
+      "number": 55173,
+      "title": "fix: avoid duplicate final ACP text on Telegram",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T13:27:03Z",
+      "mergedAt": "2026-03-26T15:07:22Z",
+      "additions": 362,
+      "deletions": 57,
+      "changedFiles": 8
+    },
+    {
+      "number": 54944,
+      "title": "fix(plugins): skip allowlist warning for configured paths",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T05:55:28Z",
+      "mergedAt": "2026-03-26T06:14:23Z",
+      "additions": 61,
+      "deletions": 28,
+      "changedFiles": 2
+    },
+    {
+      "number": 52659,
+      "title": "fix: restore Telegram DM native draft streaming",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T06:15:53Z",
+      "mergedAt": null,
+      "additions": 351,
+      "deletions": 123,
+      "changedFiles": 6
+    },
+    {
+      "number": 51648,
+      "title": "fix: keep generated media on assistant reply lane",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T14:25:24Z",
+      "mergedAt": null,
+      "additions": 995,
+      "deletions": 495,
+      "changedFiles": 22
+    },
     {
       "number": 50849,
       "title": "Android: route Talk playback through gateway synthesis",
@@ -227,50 +262,6 @@
       "additions": 82,
       "deletions": 0,
       "changedFiles": 3
-    },
-    {
-      "number": 41692,
-      "title": "ci: drop gha cache from docker release",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T03:34:54Z",
-      "mergedAt": "2026-03-10T03:44:57Z",
-      "additions": 0,
-      "deletions": 8,
-      "changedFiles": 1
-    },
-    {
-      "number": 40883,
-      "title": "Fix Telegram streamed duplicate reply bubbles",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T10:46:45Z",
-      "mergedAt": null,
-      "additions": 329,
-      "deletions": 731,
-      "changedFiles": 7
-    },
-    {
-      "number": 40575,
-      "title": "Fix cron text announce delivery for Telegram targets",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T04:17:44Z",
-      "mergedAt": "2026-03-09T04:56:18Z",
-      "additions": 513,
-      "deletions": 419,
-      "changedFiles": 9
-    },
-    {
-      "number": 40519,
-      "title": "fix: dedupe inbound Telegram DM replies per agent",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T03:28:54Z",
-      "mergedAt": "2026-03-09T04:01:05Z",
-      "additions": 79,
-      "deletions": 4,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [
@@ -284,9 +275,84 @@
   ],
   "recentReviews": [
     {
-      "prNumber": 40700,
+      "prNumber": 55173,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T14:21:50Z"
+    },
+    {
+      "prNumber": 55173,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T14:04:11Z"
+    },
+    {
+      "prNumber": 55173,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T13:51:34Z"
+    },
+    {
+      "prNumber": 55173,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T13:39:19Z"
+    },
+    {
+      "prNumber": 53702,
       "state": "CHANGES_REQUESTED",
-      "createdAt": "2026-03-20T05:42:29Z"
+      "createdAt": "2026-03-26T05:31:00Z"
+    },
+    {
+      "prNumber": 54809,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T04:33:45Z"
+    },
+    {
+      "prNumber": 52131,
+      "state": "APPROVED",
+      "createdAt": "2026-03-26T03:36:03Z"
+    },
+    {
+      "prNumber": 52131,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-25T10:13:12Z"
+    },
+    {
+      "prNumber": 50896,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-25T05:30:40Z"
+    },
+    {
+      "prNumber": 52659,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T06:33:27Z"
+    },
+    {
+      "prNumber": 52659,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T06:33:26Z"
+    },
+    {
+      "prNumber": 52659,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T06:33:26Z"
+    },
+    {
+      "prNumber": 51078,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-22T04:10:24Z"
+    },
+    {
+      "prNumber": 51648,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T14:59:30Z"
+    },
+    {
+      "prNumber": 51324,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T13:23:37Z"
+    },
+    {
+      "prNumber": 51324,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T13:08:28Z"
     },
     {
       "prNumber": 50849,
@@ -307,68 +373,28 @@
       "prNumber": 49148,
       "state": "COMMENTED",
       "createdAt": "2026-03-17T17:05:24Z"
-    },
-    {
-      "prNumber": 49148,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T17:05:24Z"
-    },
-    {
-      "prNumber": 49148,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T17:05:17Z"
-    },
-    {
-      "prNumber": 48753,
-      "state": "APPROVED",
-      "createdAt": "2026-03-17T06:13:42Z"
-    },
-    {
-      "prNumber": 48439,
-      "state": "CHANGES_REQUESTED",
-      "createdAt": "2026-03-17T02:54:48Z"
-    },
-    {
-      "prNumber": 45021,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T11:39:21Z"
-    },
-    {
-      "prNumber": 44639,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T04:30:50Z"
-    },
-    {
-      "prNumber": 44016,
-      "state": "APPROVED",
-      "createdAt": "2026-03-12T14:31:46Z"
-    },
-    {
-      "prNumber": 40883,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:19:07Z"
-    },
-    {
-      "prNumber": 40883,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:19:07Z"
-    },
-    {
-      "prNumber": 40883,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:08:38Z"
-    },
-    {
-      "prNumber": 40883,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:08:38Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-20": {
       "prs": 1,
       "issues": 0,
-      "reviews": 2
+      "reviews": 1
     },
     "2026-03-19": {
       "prs": 2,
@@ -410,25 +436,15 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-09": {
-      "prs": 3,
+    "2026-03-25": {
+      "prs": 0,
       "issues": 0,
-      "reviews": 4
+      "reviews": 2
     },
-    "2026-03-08": {
-      "prs": 5,
+    "2026-03-22": {
+      "prs": 0,
       "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
+      "reviews": 1
     },
     "2026-03-18": {
       "prs": 0,
@@ -442,13 +458,19 @@
     "Issue Reporting",
     "Discussion",
     "Direct Commits",
-    "Large-Scale Changes"
+    "Large-Scale Changes",
+    "Quality Gating"
   ],
   "achievements": [
     {
       "id": "centurion",
       "label": "Centurion",
       "description": "100+ commits"
+    },
+    {
+      "id": "marathon",
+      "label": "Marathon Coder",
+      "description": "500+ commits"
     },
     {
       "id": "pr-machine",
@@ -471,65 +493,9 @@
       "description": "20+ comments"
     },
     {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    },
-    {
-      "id": "precision",
-      "label": "Precision",
-      "description": "90%+ PR merge rate"
-    },
-    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-20": 14,
-    "2026-03-19": 9,
-    "2026-03-18": 17,
-    "2026-03-17": 2,
-    "2026-03-16": 20,
-    "2026-03-15": 3,
-    "2026-03-14": 9,
-    "2026-03-13": 14,
-    "2026-03-12": 6,
-    "2026-03-11": 3,
-    "2026-03-10": 7,
-    "2026-03-09": 3,
-    "2026-03-08": 16,
-    "2026-03-07": 17,
-    "2026-03-06": 8,
-    "2026-03-04": 8,
-    "2026-03-03": 5,
-    "2026-03-02": 4,
-    "2026-03-01": 10,
-    "2026-02-28": 39,
-    "2026-02-27": 40,
-    "2026-02-26": 45,
-    "2026-02-25": 31,
-    "2026-02-24": 27,
-    "2026-02-23": 11,
-    "2026-02-22": 3,
-    "2026-02-21": 5,
-    "2026-02-20": 1,
-    "2026-02-19": 3,
-    "2026-02-18": 1,
-    "2026-02-17": 7,
-    "2026-02-16": 5,
-    "2026-02-15": 3,
-    "2026-02-09": 5,
-    "2026-02-05": 3,
-    "2026-02-04": 3,
-    "2026-02-02": 7,
-    "2026-02-01": 5,
-    "2026-01-31": 7,
-    "2026-01-30": 6,
-    "2026-01-29": 5,
-    "2026-01-28": 3,
-    "2026-01-27": 7,
-    "2026-01-26": 1
-  }
+  ]
 }

@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/20782088?u=2c7905101e2d3f2515c700f8ca85598318449f6e&v=4",
   "githubUrl": "https://github.com/0xble",
   "score": {
-    "score": 78.42,
-    "prScore": 56.92,
+    "score": 85.18,
+    "prScore": 54.68,
     "issueScore": 5,
-    "reviewScore": 15,
+    "reviewScore": 24,
     "commentScore": 1.5
   },
   "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 559,
-    "prDeletions": 14,
-    "prChangedFiles": 11,
+    "prAdditions": 913,
+    "prDeletions": 202,
+    "prChangedFiles": 16,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 74,
-    "commitDeletions": 19,
-    "commitChangedFiles": 11
+    "comments": 3
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 5,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 1,
-      "reviews": 5,
-      "comments": 3,
-      "commitAdditions": 74,
-      "commitDeletions": 19,
-      "commits": 1
+      "reviews": 8,
+      "comments": 3
     }
   },
   "firstContribution": "2026-03-14T18:22:46Z",
-  "lastContribution": "2026-03-15T03:32:02Z",
+  "lastContribution": "2026-03-23T21:20:35Z",
   "recentPRs": [
+    {
+      "number": 53064,
+      "title": "fix(telegram): handle thinking-only empty replies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T18:02:50Z",
+      "mergedAt": null,
+      "additions": 354,
+      "deletions": 188,
+      "changedFiles": 5
+    },
     {
       "number": 46527,
       "title": "fix(health): use runtime snapshot for channel summaries",
@@ -86,6 +88,21 @@
   ],
   "recentReviews": [
     {
+      "prNumber": 53064,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T21:20:35Z"
+    },
+    {
+      "prNumber": 53064,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T21:20:34Z"
+    },
+    {
+      "prNumber": 53064,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T21:20:23Z"
+    },
+    {
       "prNumber": 46527,
       "state": "COMMENTED",
       "createdAt": "2026-03-15T03:32:02Z"
@@ -112,6 +129,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 1,
@@ -135,8 +157,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-02": 1
-  }
+  ]
 }

@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/24588751?v=4",
   "githubUrl": "https://github.com/carrotRakko",
   "score": {
-    "score": 319.2,
-    "prScore": 206.2,
+    "score": 362.64,
+    "prScore": 212.64,
     "issueScore": 18,
-    "reviewScore": 90,
-    "commentScore": 5
+    "reviewScore": 126,
+    "commentScore": 6
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 3,
-    "prs": 12,
+    "prs": 13,
     "prsMerged": 0,
-    "prAdditions": 858,
-    "prDeletions": 239,
-    "prChangedFiles": 80,
+    "prAdditions": 982,
+    "prDeletions": 240,
+    "prChangedFiles": 82,
     "prMergeRate": 0,
     "issues": 3,
     "issuesClosed": 1,
-    "reviews": 30,
+    "reviews": 42,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 166,
-    "commitDeletions": 6,
-    "commitChangedFiles": 4
+    "comments": 12
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 2,
+      "issues": 1,
+      "reviews": 13,
+      "comments": 3
     },
     "monthly": {
-      "prs": 12,
+      "prs": 13,
       "issues": 3,
-      "reviews": 30,
-      "comments": 10,
-      "commitAdditions": 129,
-      "commitDeletions": 3,
-      "commits": 2
+      "reviews": 42,
+      "comments": 12
     }
   },
-  "firstContribution": "2026-03-09T06:06:48Z",
-  "lastContribution": "2026-03-19T11:01:33Z",
+  "firstContribution": "2026-03-10T05:47:17Z",
+  "lastContribution": "2026-03-23T06:20:07Z",
   "recentPRs": [
+    {
+      "number": 50979,
+      "title": "fix(slack): add mrkdwn formatting hints to messageToolHints",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T10:13:01Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 50978,
+      "title": "fix: respect enabled: true as force-enable in shouldIncludeSkill",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T10:12:40Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 1,
+      "changedFiles": 3
+    },
     {
       "number": 42010,
       "title": "fix(line): migrate media downloads to saveMediaBuffer for sandbox access",
@@ -114,9 +127,9 @@
       "merged": false,
       "createdAt": "2026-03-10T05:50:58Z",
       "mergedAt": null,
-      "additions": 45,
-      "deletions": 3,
-      "changedFiles": 6
+      "additions": 58,
+      "deletions": 5,
+      "changedFiles": 8
     },
     {
       "number": 41808,
@@ -158,9 +171,9 @@
       "merged": false,
       "createdAt": "2026-03-10T05:48:12Z",
       "mergedAt": null,
-      "additions": 33,
-      "deletions": 9,
-      "changedFiles": 3
+      "additions": 43,
+      "deletions": 4,
+      "changedFiles": 2
     },
     {
       "number": 41802,
@@ -169,23 +182,19 @@
       "merged": false,
       "createdAt": "2026-03-10T05:47:17Z",
       "mergedAt": null,
-      "additions": 38,
-      "deletions": 12,
-      "changedFiles": 7
-    },
-    {
-      "number": 40666,
-      "title": "fix: add auto-delivery hints to browser, nodes, and canvas tool descriptions",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T06:06:48Z",
-      "mergedAt": null,
-      "additions": 3,
-      "deletions": 2,
-      "changedFiles": 3
+      "additions": 47,
+      "deletions": 13,
+      "changedFiles": 6
     }
   ],
   "recentIssues": [
+    {
+      "number": 52662,
+      "title": "[Feature]: Browser sandbox should support non-Docker backends (external CDP/noVNC endpoint)",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T06:20:07Z",
+      "closedAt": null
+    },
     {
       "number": 49808,
       "title": "[Bug]: sandbox.browser.evaluateEnabled missing from Zod validation schema — gateway crashes on startup",
@@ -199,16 +208,74 @@
       "state": "OPEN",
       "createdAt": "2026-03-18T08:17:14Z",
       "closedAt": null
-    },
-    {
-      "number": 40668,
-      "title": "[Bug]: Tools returning MEDIA: paths lack auto-delivery hint, causing agent to misreport media delivery",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T06:07:10Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 41809,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T14:30:04Z"
+    },
+    {
+      "prNumber": 41809,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T14:29:51Z"
+    },
+    {
+      "prNumber": 41803,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T14:18:37Z"
+    },
+    {
+      "prNumber": 41803,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T14:18:31Z"
+    },
+    {
+      "prNumber": 41803,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T13:59:56Z"
+    },
+    {
+      "prNumber": 50979,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T10:46:03Z"
+    },
+    {
+      "prNumber": 50979,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T10:46:01Z"
+    },
+    {
+      "prNumber": 50979,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T10:30:30Z"
+    },
+    {
+      "prNumber": 50978,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T10:26:09Z"
+    },
+    {
+      "prNumber": 50978,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T10:26:07Z"
+    },
+    {
+      "prNumber": 41811,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T10:19:05Z"
+    },
+    {
+      "prNumber": 41802,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T10:16:25Z"
+    },
+    {
+      "prNumber": 41802,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T09:46:30Z"
+    },
     {
       "prNumber": 41808,
       "state": "COMMENTED",
@@ -243,88 +310,33 @@
       "prNumber": 41812,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T08:21:18Z"
-    },
-    {
-      "prNumber": 41812,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T08:21:15Z"
-    },
-    {
-      "prNumber": 41811,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T08:14:56Z"
-    },
-    {
-      "prNumber": 41810,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T08:02:51Z"
-    },
-    {
-      "prNumber": 41809,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:57:43Z"
-    },
-    {
-      "prNumber": 41809,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:57:39Z"
-    },
-    {
-      "prNumber": 41808,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:52:30Z"
-    },
-    {
-      "prNumber": 41808,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:52:24Z"
-    },
-    {
-      "prNumber": 41808,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:52:22Z"
-    },
-    {
-      "prNumber": 41807,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:42:24Z"
-    },
-    {
-      "prNumber": 41807,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:42:20Z"
-    },
-    {
-      "prNumber": 41807,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:42:17Z"
-    },
-    {
-      "prNumber": 41806,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T07:03:51Z"
-    },
-    {
-      "prNumber": 41806,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T06:44:36Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 8
+    },
     "2026-03-10": {
       "prs": 11,
       "issues": 0,
       "reviews": 29
     },
-    "2026-03-09": {
-      "prs": 1,
+    "2026-03-23": {
+      "prs": 0,
       "issues": 1,
-      "reviews": 1
+      "reviews": 0
     },
     "2026-03-18": {
       "prs": 0,
       "issues": 2,
       "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
     }
   },
   "skills": [
@@ -350,10 +362,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-02-28": 1,
-    "2026-02-22": 1,
-    "2026-02-16": 1
-  }
+  ]
 }

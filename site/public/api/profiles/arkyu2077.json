@@ -1,237 +1,297 @@
 {
   "username": "arkyu2077",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/42494191?u=4c930f4f99ce250da2c2b4298495660be72a446e&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42494191?v=4",
   "githubUrl": "https://github.com/arkyu2077",
   "score": {
-    "score": 168.33,
-    "prScore": 168.33,
+    "score": 409.23,
+    "prScore": 406.73,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 2.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 0,
-    "prs": 16,
-    "prsMerged": 0,
-    "prAdditions": 382,
-    "prDeletions": 36,
-    "prChangedFiles": 28,
-    "prMergeRate": 0,
+    "commits": 3,
+    "prs": 41,
+    "prsMerged": 1,
+    "prAdditions": 786,
+    "prDeletions": 95,
+    "prChangedFiles": 74,
+    "prMergeRate": 2,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 8,
-    "commitDeletions": 0,
-    "commitChangedFiles": 3
+    "comments": 5
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 25,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 5
     },
     "monthly": {
-      "prs": 16,
+      "prs": 41,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 8,
-      "commitDeletions": 0,
-      "commits": 2
+      "comments": 5
     }
   },
   "firstContribution": "2026-03-12T19:16:51Z",
-  "lastContribution": "2026-03-19T01:38:04Z",
+  "lastContribution": "2026-03-27T07:06:49Z",
   "recentPRs": [
     {
-      "number": 50123,
-      "title": "fix(auth): filter pi-ai \"<authenticated>\" sentinel for google-vertex",
+      "number": 55624,
+      "title": "fix: preserve Matrix inbound media filenames and paths",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-19T01:38:04Z",
+      "createdAt": "2026-03-27T07:06:49Z",
+      "mergedAt": null,
+      "additions": 91,
+      "deletions": 8,
+      "changedFiles": 4
+    },
+    {
+      "number": 55560,
+      "title": "Handle transient network uncaught exceptions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T04:20:46Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 14,
+      "changedFiles": 4
+    },
+    {
+      "number": 55508,
+      "title": "fix: refresh persisted skills snapshots after restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T02:51:56Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 55457,
+      "title": "fix: fall back to copy when runtime file symlinks are denied",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T01:35:37Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 55023,
+      "title": "fix: prevent duplicate Feishu plugin tool registration",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T07:57:31Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 55021,
+      "title": "fix: invalidate skills snapshot on gateway restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T07:56:35Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 55020,
+      "title": "fix: let subagent runTimeoutSeconds fall through to configured default",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T07:54:40Z",
       "mergedAt": null,
       "additions": 1,
       "deletions": 1,
       "changedFiles": 1
     },
     {
-      "number": 50121,
-      "title": "fix(ui): improve cost precision for small values in usage dashboard",
+      "number": 54973,
+      "title": "fix(discord): suppress reconnect-exhausted crash during health-monitor restart",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-19T01:37:37Z",
+      "createdAt": "2026-03-26T06:45:40Z",
       "mergedAt": null,
-      "additions": 14,
+      "additions": 16,
       "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 54969,
+      "title": "fix: invalidate stale skillsSnapshot on gateway restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T06:41:34Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
       "changedFiles": 1
     },
     {
-      "number": 50119,
-      "title": "fix(whatsapp): pass Timestamp to finalizeInboundContext",
+      "number": 54968,
+      "title": "fix: use configured default when subagent runTimeoutSeconds is omitted",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-19T01:37:04Z",
+      "createdAt": "2026-03-26T06:40:23Z",
       "mergedAt": null,
-      "additions": 1,
-      "deletions": 0,
+      "additions": 3,
+      "deletions": 3,
       "changedFiles": 1
     },
     {
-      "number": 47737,
-      "title": "fix: report scope-limited gateway probes as reachable",
+      "number": 54926,
+      "title": "fix: include channel in Control UI exec approval resolve for multi-channel setups",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-16T01:35:28Z",
+      "createdAt": "2026-03-26T05:27:00Z",
       "mergedAt": null,
-      "additions": 27,
-      "deletions": 4,
+      "additions": 12,
+      "deletions": 2,
       "changedFiles": 3
     },
     {
-      "number": 47308,
-      "title": "fix(acpx): align pinned version with bundled acpx release",
+      "number": 54925,
+      "title": "fix: include --fix-missing in doctor cleanup preview suggestion",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-15T12:42:14Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 47178,
-      "title": "fix: preserve workspace skill source in Control Panel status",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-15T10:10:56Z",
-      "mergedAt": null,
-      "additions": 18,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 45646,
-      "title": "fix(telegram): use callback message_id as callback message override",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-14T02:21:33Z",
+      "createdAt": "2026-03-26T05:26:58Z",
       "mergedAt": null,
       "additions": 4,
-      "deletions": 1,
+      "deletions": 2,
       "changedFiles": 2
     },
     {
-      "number": 44809,
-      "title": "fix(doctor): avoid false cron payload-kind normalization warnings",
+      "number": 54924,
+      "title": "fix: flush draft stream before reading messageId to prevent double Slack messages",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-13T07:24:59Z",
-      "mergedAt": null,
-      "additions": 65,
-      "deletions": 5,
-      "changedFiles": 2
-    },
-    {
-      "number": 44731,
-      "title": "fix(update): hide Windows restart helper console windows",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T06:18:04Z",
+      "createdAt": "2026-03-26T05:26:55Z",
       "mergedAt": null,
       "additions": 3,
       "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 44701,
-      "title": "fix(docker-setup): allow OPENCLAW_CONFIG_DIR paths with spaces",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-13T05:49:48Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 44652,
-      "title": "fix(googlechat): honor replyToMode before forcing thread replies",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-13T04:18:52Z",
-      "mergedAt": null,
-      "additions": 63,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 44620,
-      "title": "fix(line): resolve account credentials before reporting configured status",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-13T03:43:39Z",
-      "mergedAt": null,
-      "additions": 64,
-      "deletions": 7,
-      "changedFiles": 2
-    },
-    {
-      "number": 44351,
-      "title": "fix(cron): preserve telegram direct-thread context in inferred delivery targets",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-12T19:49:38Z",
-      "mergedAt": null,
-      "additions": 30,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 44345,
-      "title": "fix(shared): narrow global singleton lookup after hasOwnProperty guard",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-12T19:31:50Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 2,
       "changedFiles": 1
     },
     {
-      "number": 44341,
-      "title": "fix(telegram): use proxy-aware fetch fallback for media downloads",
+      "number": 54923,
+      "title": "fix: include all file parameter aliases in tool display resolution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T05:26:53Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 54922,
+      "title": "fix: use normalizeUsage in buildAssistantMessageFromResponse for DashScope compatibility",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T05:26:31Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 54867,
+      "title": "fix: use normalizeUsage for DashScope usage metrics",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T03:54:50Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 54835,
+      "title": "fix: prevent duplicate plugin registration logs during CLI init",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-12T19:26:05Z",
+      "createdAt": "2026-03-26T02:38:13Z",
       "mergedAt": null,
-      "additions": 33,
+      "additions": 38,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 54831,
+      "title": "fix: validate hooks.token requirement at config.patch time",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T02:33:33Z",
+      "mergedAt": null,
+      "additions": 17,
       "deletions": 1,
       "changedFiles": 2
     },
     {
-      "number": 44336,
-      "title": "fix(telegram): suppress exact NO_REPLY payloads in outbound adapter",
+      "number": 54828,
+      "title": "fix: deduplicate Feishu plugin tool registration on MCP reconnect",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-12T19:16:51Z",
+      "createdAt": "2026-03-26T02:29:58Z",
       "mergedAt": null,
-      "additions": 40,
+      "additions": 7,
       "deletions": 0,
-      "changedFiles": 2
+      "changedFiles": 1
+    },
+    {
+      "number": 54146,
+      "title": "fix: add 60s timeout to MiniMax VLM fetch call",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T01:38:59Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 15,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 3,
       "issues": 0,
@@ -264,7 +324,9 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
   ],
   "achievements": [
     {
@@ -272,8 +334,5 @@
       "label": "PR Machine",
       "description": "10+ pull requests"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-03": 2
-  }
+  ]
 }

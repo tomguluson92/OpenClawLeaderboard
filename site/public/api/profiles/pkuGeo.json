@@ -1,0 +1,138 @@
+{
+  "username": "pkuGeo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4157921?v=4",
+  "githubUrl": "https://github.com/pkuGeo",
+  "score": {
+    "score": 59.32,
+    "prScore": 43.32,
+    "issueScore": 15,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 1,
+    "prAdditions": 313,
+    "prDeletions": 39,
+    "prChangedFiles": 7,
+    "prMergeRate": 25,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 2
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 2
+    }
+  },
+  "firstContribution": "2026-03-24T09:17:21Z",
+  "lastContribution": "2026-03-27T03:03:38Z",
+  "recentPRs": [
+    {
+      "number": 55511,
+      "title": "telegram: recover when polling startup stalls before first getUpdates",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T02:59:04Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 55407,
+      "title": "telegram: recover when polling restarts without starting getUpdates",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T22:54:31Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 55014,
+      "title": "telegram: rebuild transport after stalled polling cycles",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T07:48:19Z",
+      "mergedAt": "2026-03-26T20:11:16Z",
+      "additions": 97,
+      "deletions": 11,
+      "changedFiles": 2
+    },
+    {
+      "number": 54993,
+      "title": "telegram: improve polling stall diagnostics",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T07:13:12Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 10,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 55406,
+      "title": "telegram polling can restart into not-started state after connectivity loss",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T22:52:49Z",
+      "closedAt": null
+    },
+    {
+      "number": 54992,
+      "title": "Telegram long polling can leave getUpdates stuck far longer than expected",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T07:12:55Z",
+      "closedAt": null
+    },
+    {
+      "number": 53578,
+      "title": "[Bug]: google-gemini-cli OAuth became consistently slow per turn after upgrading to OpenClaw 2026.3.23-2",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T09:17:21Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

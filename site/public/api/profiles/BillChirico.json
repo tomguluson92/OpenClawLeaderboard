@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/13951316?v=4",
   "githubUrl": "https://github.com/BillChirico",
   "score": {
-    "score": 141.64,
-    "prScore": 133.14,
-    "issueScore": 8,
+    "score": 62.09,
+    "prScore": 56.59,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -20,37 +20,28 @@
     "prChangedFiles": 18,
     "prMergeRate": 100,
     "issues": 1,
-    "issuesClosed": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 1286,
-    "commitDeletions": 39,
-    "commitChangedFiles": 31
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 838,
-      "commitDeletions": 37,
-      "commits": 1
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-10T20:16:43Z",
-  "lastContribution": "2026-03-11T21:35:13Z",
+  "firstContribution": "2026-03-10T20:57:17Z",
+  "lastContribution": "2026-03-25T18:42:01Z",
   "recentPRs": [
     {
       "number": 42501,
@@ -66,17 +57,22 @@
   ],
   "recentIssues": [
     {
-      "number": 42487,
-      "title": "feat(memory): add gemini-embedding-2-preview as supported embedding model",
-      "state": "CLOSED",
-      "createdAt": "2026-03-10T20:16:43Z",
-      "closedAt": "2026-03-11T18:28:54Z"
+      "number": 54629,
+      "title": "[Bug]: Status slash command not displaying data",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T18:42:01Z",
+      "closedAt": null
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 0,
       "issues": 1,
       "reviews": 0
     }
@@ -87,9 +83,5 @@
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-11": 1,
-    "2026-02-11": 1
-  }
+  "achievements": []
 }

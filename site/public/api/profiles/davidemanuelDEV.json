@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/130842151?u=d70f24d53f37fc5ef26e4da577bc71de20bfb6cd&v=4",
   "githubUrl": "https://github.com/davidemanuelDEV",
   "score": {
-    "score": 150.78,
-    "prScore": 140.28,
+    "score": 91.36,
+    "prScore": 80.86,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 10.5
@@ -13,43 +13,34 @@
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 10,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 892,
-    "prDeletions": 318,
-    "prChangedFiles": 33,
+    "prAdditions": 614,
+    "prDeletions": 299,
+    "prChangedFiles": 19,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 21,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 21
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 21,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 10,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 21,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 21
     }
   },
-  "firstContribution": "2026-03-06T15:09:45Z",
+  "firstContribution": "2026-03-09T14:12:55Z",
   "lastContribution": "2026-03-19T13:21:36Z",
   "recentPRs": [
     {
@@ -117,50 +108,6 @@
       "additions": 81,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 39918,
-      "title": "fix: warn at gateway startup when default model provider has no auth configured",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T14:08:21Z",
-      "mergedAt": null,
-      "additions": 84,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 38947,
-      "title": "fix: prefer configured provider when default provider is removed from config",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T15:07:50Z",
-      "mergedAt": null,
-      "additions": 99,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 38338,
-      "title": "fix: use safe dmScope default to prevent cross-channel reply leakage",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T21:22:07Z",
-      "mergedAt": null,
-      "additions": 23,
-      "deletions": 15,
-      "changedFiles": 8
-    },
-    {
-      "number": 37971,
-      "title": "fix: suppress JSON action-object forms of NO_REPLY from reaching end users",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T15:09:45Z",
-      "mergedAt": null,
-      "additions": 72,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -180,21 +127,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -203,15 +135,9 @@
   ],
   "achievements": [
     {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

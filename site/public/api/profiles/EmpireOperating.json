@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258363005?v=4",
   "githubUrl": "https://github.com/EmpireOperating",
   "score": {
-    "score": 69.55,
-    "prScore": 35.05,
+    "score": 48.64,
+    "prScore": 21.64,
     "issueScore": 0,
-    "reviewScore": 30,
-    "commentScore": 4.5
+    "reviewScore": 24,
+    "commentScore": 3
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 772,
-    "prDeletions": 33,
-    "prChangedFiles": 7,
+    "prAdditions": 571,
+    "prDeletions": 12,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 10,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 6
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
-      "reviews": 10,
-      "comments": 9,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 8,
+      "comments": 6
     }
   },
-  "firstContribution": "2026-03-09T04:28:18Z",
+  "firstContribution": "2026-03-09T14:07:53Z",
   "lastContribution": "2026-03-12T05:05:48Z",
   "recentPRs": [
     {
@@ -73,17 +64,6 @@
       "additions": 93,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 40585,
-      "title": "fix(ws): hard-fallback when replay boundary/tool-call pairing is invalid",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T04:28:18Z",
-      "mergedAt": null,
-      "additions": 201,
-      "deletions": 21,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
@@ -127,16 +107,6 @@
       "prNumber": 41098,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T19:58:14Z"
-    },
-    {
-      "prNumber": 40585,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T08:46:39Z"
-    },
-    {
-      "prNumber": 40585,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T08:46:37Z"
     }
   ],
   "recentActivityDays": {
@@ -146,9 +116,9 @@
       "reviews": 6
     },
     "2026-03-09": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
-      "reviews": 4
+      "reviews": 2
     }
   },
   "skills": [
@@ -156,12 +126,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

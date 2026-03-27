@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1137937?u=05f741b8084d29299f78c908c147c3b3d38373c9&v=4",
   "githubUrl": "https://github.com/m0nkmaster",
   "score": {
-    "score": 12.53,
+    "score": 13.03,
     "prScore": 12.53,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Builder",
@@ -24,38 +24,29 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-11T22:18:41Z",
-  "lastContribution": "2026-03-11T22:18:41Z",
+  "lastContribution": "2026-03-20T10:18:21Z",
   "recentPRs": [
     {
       "number": 43499,
       "title": "Add Cursor CLI to ACP allowedAgents",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T22:18:41Z",
       "mergedAt": null,
@@ -74,8 +65,8 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

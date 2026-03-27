@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2715765?v=4",
   "githubUrl": "https://github.com/merc1305",
   "score": {
-    "score": 115.18,
-    "prScore": 91.18,
-    "issueScore": 18,
+    "score": 102.46,
+    "prScore": 83.46,
+    "issueScore": 13,
     "reviewScore": 3,
     "commentScore": 3
   },
@@ -19,37 +19,28 @@
     "prDeletions": 8,
     "prChangedFiles": 26,
     "prMergeRate": 25,
-    "issues": 3,
+    "issues": 2,
     "issuesClosed": 1,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 167,
-    "commitDeletions": 8,
-    "commitChangedFiles": 3
+    "comments": 6
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 2,
-      "reviews": 1,
-      "comments": 6,
-      "commitAdditions": 167,
-      "commitDeletions": 8,
-      "commits": 1
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 4,
-      "issues": 3,
+      "issues": 2,
       "reviews": 1,
-      "comments": 6,
-      "commitAdditions": 167,
-      "commitDeletions": 8,
-      "commits": 1
+      "comments": 6
     }
   },
-  "firstContribution": "2026-03-10T14:27:57Z",
+  "firstContribution": "2026-03-10T14:29:25Z",
   "lastContribution": "2026-03-15T16:46:53Z",
   "recentPRs": [
     {
@@ -111,13 +102,6 @@
       "state": "CLOSED",
       "createdAt": "2026-03-14T09:50:20Z",
       "closedAt": "2026-03-16T12:49:26Z"
-    },
-    {
-      "number": 42226,
-      "title": "Slack: double response on voice messages due to draft stream race condition",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T14:27:57Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [
@@ -145,7 +129,7 @@
     },
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
@@ -161,8 +145,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-16": 1
-  }
+  ]
 }

@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/112874572?u=454aad41bd16247a0c22739a6b0f174cb81a9343&v=4",
   "githubUrl": "https://github.com/hhhhao28",
   "score": {
-    "score": 347.2,
-    "prScore": 245.7,
+    "score": 384.1,
+    "prScore": 261.1,
     "issueScore": 5,
-    "reviewScore": 93,
-    "commentScore": 3.5
+    "reviewScore": 114,
+    "commentScore": 4
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 16,
+    "prs": 18,
     "prsMerged": 1,
-    "prAdditions": 5051,
-    "prDeletions": 636,
-    "prChangedFiles": 105,
+    "prAdditions": 5992,
+    "prDeletions": 687,
+    "prChangedFiles": 132,
     "prMergeRate": 6,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 31,
+    "reviews": 38,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 396,
-    "commitDeletions": 1,
-    "commitChangedFiles": 3
+    "comments": 8
   },
   "period": {
     "weekly": {
-      "prs": 6,
-      "issues": 1,
-      "reviews": 9,
-      "comments": 2,
-      "commitAdditions": 396,
-      "commitDeletions": 1,
-      "commits": 1
+      "prs": 2,
+      "issues": 0,
+      "reviews": 7,
+      "comments": 1
     },
     "monthly": {
-      "prs": 16,
+      "prs": 18,
       "issues": 1,
-      "reviews": 31,
-      "comments": 7,
-      "commitAdditions": 396,
-      "commitDeletions": 1,
-      "commits": 1
+      "reviews": 38,
+      "comments": 8
     }
   },
   "firstContribution": "2026-03-11T11:39:27Z",
-  "lastContribution": "2026-03-19T09:17:08Z",
+  "lastContribution": "2026-03-24T07:36:29Z",
   "recentPRs": [
+    {
+      "number": 51356,
+      "title": "fix(agents): accept model `options` in config and safely recover Ollama tool calls (#50894)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T00:44:51Z",
+      "mergedAt": null,
+      "additions": 678,
+      "deletions": 44,
+      "changedFiles": 22
+    },
+    {
+      "number": 51094,
+      "title": "fix(agents): accept model `options` in config and recover Ollama tool calls from text (#50894)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T14:45:49Z",
+      "mergedAt": null,
+      "additions": 263,
+      "deletions": 7,
+      "changedFiles": 5
+    },
     {
       "number": 50300,
       "title": "Fix session transcript timestamps to use local timezone offsets",
@@ -99,7 +112,7 @@
     {
       "number": 44954,
       "title": "fix(telegram): preserve media download transport fallback",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T09:56:56Z",
       "mergedAt": null,
@@ -154,7 +167,7 @@
     {
       "number": 43763,
       "title": "test(onboard): add Kimi Coding config regression coverage",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T06:41:16Z",
       "mergedAt": null,
@@ -220,7 +233,7 @@
     {
       "number": 43147,
       "title": "test: cover Kimi Coding onboarding config validity",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T11:39:27Z",
       "mergedAt": null,
@@ -239,6 +252,41 @@
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 51356,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T01:32:08Z"
+    },
+    {
+      "prNumber": 51356,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T01:31:56Z"
+    },
+    {
+      "prNumber": 51356,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T01:31:44Z"
+    },
+    {
+      "prNumber": 51356,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T01:31:36Z"
+    },
+    {
+      "prNumber": 51356,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T01:28:06Z"
+    },
+    {
+      "prNumber": 51356,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T01:27:56Z"
+    },
+    {
+      "prNumber": 51356,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T01:27:44Z"
+    },
     {
       "prNumber": 50300,
       "state": "COMMENTED",
@@ -303,44 +351,19 @@
       "prNumber": 44525,
       "state": "COMMENTED",
       "createdAt": "2026-03-13T03:06:28Z"
-    },
-    {
-      "prNumber": 43763,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T06:52:40Z"
-    },
-    {
-      "prNumber": 43573,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T04:23:47Z"
-    },
-    {
-      "prNumber": 43573,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T04:19:16Z"
-    },
-    {
-      "prNumber": 43573,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T03:11:53Z"
-    },
-    {
-      "prNumber": 43573,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T02:34:20Z"
-    },
-    {
-      "prNumber": 43189,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T02:12:06Z"
-    },
-    {
-      "prNumber": 43189,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T02:11:59Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 1,
@@ -400,8 +423,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-17": 1
-  }
+  ]
 }

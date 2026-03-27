@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/32583093?u=8a066a5ce94891d05878289cc9f71207ea2d6c20&v=4",
   "githubUrl": "https://github.com/bircheve",
   "score": {
-    "score": 49.1,
-    "prScore": 39.6,
+    "score": 60.03,
+    "prScore": 50.53,
     "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 0.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 398,
-    "prDeletions": 20,
-    "prChangedFiles": 18,
+    "prAdditions": 419,
+    "prDeletions": 21,
+    "prChangedFiles": 20,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 3,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 3,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-18T13:32:22Z",
-  "lastContribution": "2026-03-18T14:04:49Z",
+  "lastContribution": "2026-03-23T00:13:53Z",
   "recentPRs": [
+    {
+      "number": 52531,
+      "title": "Gateway: preserve extension-origin allowlist matching",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T00:13:53Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 49825,
       "title": "Discord: make exec approval timeout configurable",
@@ -83,6 +85,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 0,
@@ -94,6 +101,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

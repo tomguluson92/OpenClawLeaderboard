@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/48046333?u=d2fbf704bec048a1d9977ab8a5e831bb2befe15f&v=4",
   "githubUrl": "https://github.com/angrybirddd",
   "score": {
-    "score": 24.8,
-    "prScore": 23.8,
+    "score": 8.47,
+    "prScore": 7.97,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
-    "prsMerged": 1,
-    "prAdditions": 5,
-    "prDeletions": 5,
-    "prChangedFiles": 5,
-    "prMergeRate": 50,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 2,
+    "prDeletions": 2,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 3,
-    "commitDeletions": 3,
-    "commitChangedFiles": 3
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 3,
-      "commitDeletions": 3,
-      "commits": 1
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-06T15:28:19Z",
-  "lastContribution": "2026-03-10T16:07:18Z",
+  "firstContribution": "2026-03-10T15:37:59Z",
+  "lastContribution": "2026-03-10T15:57:33Z",
   "recentPRs": [
     {
       "number": 42297,
@@ -62,17 +53,6 @@
       "additions": 2,
       "deletions": 2,
       "changedFiles": 2
-    },
-    {
-      "number": 38031,
-      "title": "docs: fix broken dashboard image on i18n pages",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-06T15:28:19Z",
-      "mergedAt": "2026-03-06T21:22:20Z",
-      "additions": 3,
-      "deletions": 3,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
@@ -82,19 +62,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-06": 1
-  }
+  "achievements": []
 }

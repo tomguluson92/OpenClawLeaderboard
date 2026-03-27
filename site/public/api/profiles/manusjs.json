@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/263165539?v=4",
   "githubUrl": "https://github.com/manusjs",
   "score": {
-    "score": 123.35,
-    "prScore": 123.35,
+    "score": 65.83,
+    "prScore": 65.83,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,43 +13,34 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 11,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 790,
-    "prDeletions": 36,
-    "prChangedFiles": 23,
+    "prAdditions": 425,
+    "prDeletions": 24,
+    "prChangedFiles": 13,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 11,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-06T09:59:12Z",
+  "firstContribution": "2026-03-11T00:49:44Z",
   "lastContribution": "2026-03-14T13:56:54Z",
   "recentPRs": [
     {
@@ -117,61 +108,6 @@
       "additions": 51,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 39951,
-      "title": "fix(plugins): remove channel config entries before unregistering plugin",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T14:35:59Z",
-      "mergedAt": null,
-      "additions": 149,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 39950,
-      "title": "fix(kimi): do not transform Anthropic tool format to OpenAI for kimi-coding provider",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T14:35:57Z",
-      "mergedAt": null,
-      "additions": 144,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 37744,
-      "title": "fix(feishu): @all/@_all group broadcast should not trigger bot mention",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T11:54:57Z",
-      "mergedAt": null,
-      "additions": 22,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 37593,
-      "title": "fix(tui): use case-insensitive session key comparison for chat events",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T10:01:09Z",
-      "mergedAt": null,
-      "additions": 33,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 37592,
-      "title": "fix(windows): handle spaces in Node.js path for plugin install on Windows",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T09:59:12Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 6,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -186,27 +122,10 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

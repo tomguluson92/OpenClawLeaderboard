@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6059290?u=86a23dfc951e00f5419b24d582a2771294acb294&v=4",
   "githubUrl": "https://github.com/piaoxj",
   "score": {
-    "score": 21.9,
+    "score": 16.9,
     "prScore": 12.9,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 1
   },
@@ -19,37 +19,28 @@
     "prDeletions": 13,
     "prChangedFiles": 5,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 1,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 1,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-13T07:34:02Z",
+  "firstContribution": "2026-03-17T08:00:37Z",
   "lastContribution": "2026-03-19T04:12:04Z",
   "recentPRs": [
     {
@@ -64,15 +55,7 @@
       "changedFiles": 5
     }
   ],
-  "recentIssues": [
-    {
-      "number": 44823,
-      "title": "[Feature] ACP Thread Bindings for Feishu",
-      "state": "OPEN",
-      "createdAt": "2026-03-13T07:34:02Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 48845,
@@ -85,25 +68,12 @@
       "prs": 1,
       "issues": 0,
       "reviews": 1
-    },
-    "2026-03-13": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

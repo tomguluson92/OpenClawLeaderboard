@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/50748585?v=4",
   "githubUrl": "https://github.com/sd1114820",
   "score": {
-    "score": 51.66,
-    "prScore": 33.16,
-    "issueScore": 18,
+    "score": 15.1,
+    "prScore": 10.1,
+    "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 287,
-    "prDeletions": 39,
-    "prChangedFiles": 7,
+    "prAdditions": 161,
+    "prDeletions": 12,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 3,
-    "issuesClosed": 1,
+    "issues": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 3,
-      "issues": 3,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-08T09:42:31Z",
+  "firstContribution": "2026-03-13T09:46:20Z",
   "lastContribution": "2026-03-13T09:53:15Z",
   "recentPRs": [
     {
@@ -62,28 +53,6 @@
       "additions": 161,
       "deletions": 12,
       "changedFiles": 2
-    },
-    {
-      "number": 40052,
-      "title": "fix(ui): save default agent model changes to defaults config",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T16:20:33Z",
-      "mergedAt": null,
-      "additions": 68,
-      "deletions": 19,
-      "changedFiles": 3
-    },
-    {
-      "number": 39678,
-      "title": "fix(models): use catalog for models list --all",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T09:42:31Z",
-      "mergedAt": null,
-      "additions": 58,
-      "deletions": 8,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -93,20 +62,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-13T09:53:15Z",
       "closedAt": null
-    },
-    {
-      "number": 40068,
-      "title": "models list --all bypasses model catalog synthetic fallbacks (e.g. GPT-5.4)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-08T16:40:26Z",
-      "closedAt": "2026-03-08T23:30:59Z"
-    },
-    {
-      "number": 40065,
-      "title": "Web UI default agent model editor writes to agents.list override instead of agents.defaults.model",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T16:35:44Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
@@ -115,18 +70,11 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

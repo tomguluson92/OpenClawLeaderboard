@@ -3,77 +3,106 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/809529?u=c01672d8af82f409d22036efdfc295ff3d5072d6&v=4",
   "githubUrl": "https://github.com/ajayr",
   "score": {
-    "score": 26.98,
-    "prScore": 15.98,
-    "issueScore": 5,
-    "reviewScore": 6,
-    "commentScore": 0
+    "score": 208.8,
+    "prScore": 181.3,
+    "issueScore": 0,
+    "reviewScore": 27,
+    "commentScore": 0.5
   },
-  "tier": "beginner",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 392,
-    "prDeletions": 5,
-    "prChangedFiles": 5,
+    "prAdditions": 48424,
+    "prDeletions": 21390,
+    "prChangedFiles": 973,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 9,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
-      "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 7,
+      "comments": 1
     },
     "monthly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 2,
+      "issues": 0,
+      "reviews": 9,
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-10T22:22:05Z",
-  "lastContribution": "2026-03-15T22:59:06Z",
+  "firstContribution": "2026-03-10T22:33:51Z",
+  "lastContribution": "2026-03-26T17:20:26Z",
   "recentPRs": [
+    {
+      "number": 52770,
+      "title": "fix(gateway): guard getRuntimeSnapshot() and preserve probe intent in health refresh",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T10:03:00Z",
+      "mergedAt": null,
+      "additions": 89,
+      "deletions": 4,
+      "changedFiles": 3
+    },
     {
       "number": 42543,
       "title": "fix(gateway): merge runtime channel state into health snapshot",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T22:33:51Z",
       "mergedAt": null,
-      "additions": 392,
-      "deletions": 5,
-      "changedFiles": 5
+      "additions": 48335,
+      "deletions": 21386,
+      "changedFiles": 970
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42538,
-      "title": "Bug: health endpoint returns incorrect running=false for WhatsApp",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T22:22:05Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 52770,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T15:50:29Z"
+    },
+    {
+      "prNumber": 52770,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T12:02:05Z"
+    },
+    {
+      "prNumber": 52770,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T10:21:46Z"
+    },
+    {
+      "prNumber": 52770,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T10:20:51Z"
+    },
+    {
+      "prNumber": 52770,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T10:20:46Z"
+    },
+    {
+      "prNumber": 42543,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:20:23Z"
+    },
+    {
+      "prNumber": 42543,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:20:16Z"
+    },
     {
       "prNumber": 42543,
       "state": "COMMENTED",
@@ -86,10 +115,25 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
     },
     "2026-03-15": {
       "prs": 0,
@@ -100,14 +144,14 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting"
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [
     {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

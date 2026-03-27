@@ -3,55 +3,101 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/187550546?u=ac97cddbb25aeb9191b4ebf7bde3d7dbe75cb877&v=4",
   "githubUrl": "https://github.com/juliabush",
   "score": {
-    "score": 7.99,
-    "prScore": 7.99,
+    "score": 60.48,
+    "prScore": 60.48,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 26,
-    "prDeletions": 0,
-    "prChangedFiles": 1,
-    "prMergeRate": 0,
+    "prs": 6,
+    "prsMerged": 1,
+    "prAdditions": 115,
+    "prDeletions": 58,
+    "prChangedFiles": 10,
+    "prMergeRate": 17,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-16T16:46:36Z",
-  "lastContribution": "2026-03-16T16:46:36Z",
+  "lastContribution": "2026-03-26T20:33:03Z",
   "recentPRs": [
+    {
+      "number": 55361,
+      "title": "Fix/ for UI cannot save raw configuration closes(#55322)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T20:33:03Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 40,
+      "changedFiles": 1
+    },
+    {
+      "number": 54686,
+      "title": "Fix for hooks and bluebubbles webhook 404 (closes #52605 and others)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T20:20:15Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 52856,
+      "title": "fix: ensure control-ui is built before publish (#52808)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T13:03:36Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 52829,
+      "title": "fix: restart gateway after token change to fix CLI connection failure (#52749)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T12:22:07Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 51242,
+      "title": "fix for SIGTERM ignored closes #51100",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T19:45:09Z",
+      "mergedAt": "2026-03-23T09:31:42Z",
+      "additions": 15,
+      "deletions": 5,
+      "changedFiles": 3
+    },
     {
       "number": 48364,
       "title": "browser: add /status endpoint for browser server",
@@ -67,6 +113,26 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-16": {
       "prs": 1,
       "issues": 0,
@@ -76,6 +142,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

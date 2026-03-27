@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5331000?v=4",
   "githubUrl": "https://github.com/LumiaZkk",
   "score": {
-    "score": 146.55,
-    "prScore": 140.05,
+    "score": 30.16,
+    "prScore": 23.66,
     "issueScore": 0,
     "reviewScore": 6,
     "commentScore": 0.5
   },
-  "tier": "regular",
-  "characterClass": "Maintainer",
+  "tier": "beginner",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 4300,
-    "prDeletions": 160,
-    "prChangedFiles": 72,
+    "prAdditions": 256,
+    "prDeletions": 1,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 2,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 2,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-06T15:03:41Z",
+  "firstContribution": "2026-03-18T06:09:32Z",
   "lastContribution": "2026-03-18T06:33:57Z",
   "recentPRs": [
     {
@@ -62,17 +53,6 @@
       "additions": 256,
       "deletions": 1,
       "changedFiles": 10
-    },
-    {
-      "number": 37959,
-      "title": "fix(discord): avoid unhandled gateway registration failures",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T15:03:41Z",
-      "mergedAt": null,
-      "additions": 4044,
-      "deletions": 159,
-      "changedFiles": 62
     }
   ],
   "recentIssues": [],
@@ -93,11 +73,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 2
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -105,6 +80,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

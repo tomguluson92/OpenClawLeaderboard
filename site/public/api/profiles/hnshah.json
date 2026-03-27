@@ -1,0 +1,169 @@
+{
+  "username": "hnshah",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3155200?v=4",
+  "githubUrl": "https://github.com/hnshah",
+  "score": {
+    "score": 99.39,
+    "prScore": 92.89,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 6.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 1,
+    "prAdditions": 482,
+    "prDeletions": 49,
+    "prChangedFiles": 18,
+    "prMergeRate": 13,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 13
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 13
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 13
+    }
+  },
+  "firstContribution": "2026-03-22T19:43:27Z",
+  "lastContribution": "2026-03-26T07:19:04Z",
+  "recentPRs": [
+    {
+      "number": 54990,
+      "title": "security(54737): sanitize group metadata to prevent prompt injection",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T07:10:56Z",
+      "mergedAt": null,
+      "additions": 118,
+      "deletions": 3,
+      "changedFiles": 4
+    },
+    {
+      "number": 54962,
+      "title": "fix(telegram): add 'callback_data:' prefix to inline button callbacks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T06:29:29Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 54953,
+      "title": "fix(telegram): add 'callback_data:' prefix to inline button callbacks",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T06:17:06Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 54509,
+      "title": "fix(memory/qmd): generate embeddings regardless of searchMode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T14:21:15Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 53451,
+      "title": "fix: Suppress misleading port warning for dual-stack loopback listeners",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T06:09:28Z",
+      "mergedAt": null,
+      "additions": 121,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 52545,
+      "title": "fix(telegram): validate photo dimensions before sendPhoto",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T00:56:19Z",
+      "mergedAt": "2026-03-25T06:30:20Z",
+      "additions": 154,
+      "deletions": 9,
+      "changedFiles": 5
+    },
+    {
+      "number": 52469,
+      "title": "fix(compaction): add token-based override for safeguard (fixes #49272)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T20:22:34Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 24,
+      "changedFiles": 1
+    },
+    {
+      "number": 52455,
+      "title": "fix(ui): prevent chat crash when group.messages is undefined (fixes #51440)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T19:43:27Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 4,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": []
+}

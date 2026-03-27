@@ -3,79 +3,114 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12745441?v=4",
   "githubUrl": "https://github.com/lyfuci",
   "score": {
-    "score": 12.88,
-    "prScore": 12.88,
+    "score": 58.36,
+    "prScore": 57.86,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 122,
-    "prDeletions": 11,
-    "prChangedFiles": 4,
+    "prAdditions": 106,
+    "prDeletions": 10,
+    "prChangedFiles": 16,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
-      "prs": 1,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-08T15:26:26Z",
-  "lastContribution": "2026-03-08T15:26:26Z",
+  "firstContribution": "2026-03-26T05:48:12Z",
+  "lastContribution": "2026-03-26T07:16:42Z",
   "recentPRs": [
     {
-      "number": 39997,
-      "title": "fix(feishu): avoid voice-bubble auto routing and local-path fallback leaks",
+      "number": 54945,
+      "title": "fix(discord): catch gateway emitter errors to prevent whole-gateway crash on WebSocket failure",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-08T15:26:26Z",
+      "createdAt": "2026-03-26T05:58:28Z",
       "mergedAt": null,
-      "additions": 122,
-      "deletions": 11,
-      "changedFiles": 4
+      "additions": 11,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54941,
+      "title": "fix(ui): include sourceChannel in exec.approval.resolve from Control UI to fix multi-channel setups",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T05:51:31Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 3,
+      "changedFiles": 6
+    },
+    {
+      "number": 54940,
+      "title": "fix: normalize openai-completions usage fields for DashScope and compatible providers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T05:50:36Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 54939,
+      "title": "feat(exa): support custom baseUrl in webSearch config",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T05:50:10Z",
+      "mergedAt": null,
+      "additions": 38,
+      "deletions": 2,
+      "changedFiles": 5
+    },
+    {
+      "number": 54937,
+      "title": "fix(slack): flush draft before reading messageId to prevent double messages on fast responses",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T05:48:12Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 1,
+    "2026-03-26": {
+      "prs": 5,
       "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

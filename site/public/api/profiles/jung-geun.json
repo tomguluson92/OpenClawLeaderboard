@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/58395394?u=3ba58cfbc67e2d3bc85410a61cbe8a847b13c7fe&v=4",
   "githubUrl": "https://github.com/jung-geun",
   "score": {
-    "score": 99.54,
-    "prScore": 93.54,
-    "issueScore": 5,
+    "score": 104.17,
+    "prScore": 102.17,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 2
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 2265,
+    "prAdditions": 2113,
     "prDeletions": 171,
-    "prChangedFiles": 34,
+    "prChangedFiles": 38,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-12T14:37:45Z",
-  "lastContribution": "2026-03-15T12:59:51Z",
+  "firstContribution": "2026-03-12T16:38:12Z",
+  "lastContribution": "2026-03-22T15:04:06Z",
   "recentPRs": [
     {
       "number": 47277,
@@ -59,9 +50,9 @@
       "merged": false,
       "createdAt": "2026-03-15T12:03:57Z",
       "mergedAt": null,
-      "additions": 445,
-      "deletions": 16,
-      "changedFiles": 12
+      "additions": 296,
+      "deletions": 18,
+      "changedFiles": 16
     },
     {
       "number": 44238,
@@ -70,20 +61,12 @@
       "merged": false,
       "createdAt": "2026-03-12T16:38:12Z",
       "mergedAt": null,
-      "additions": 1820,
-      "deletions": 155,
+      "additions": 1817,
+      "deletions": 153,
       "changedFiles": 22
     }
   ],
-  "recentIssues": [
-    {
-      "number": 44132,
-      "title": "Feature Request: Automatic Config Rollback on Failed Startup",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T14:37:45Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-15": {
@@ -93,15 +76,13 @@
     },
     "2026-03-12": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -1,0 +1,113 @@
+{
+  "username": "sunshineo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1072766?u=64bbcf7ac9dba7dc28b8bbf66d862c201a4e3567&v=4",
+  "githubUrl": "https://github.com/sunshineo",
+  "score": {
+    "score": 53.5,
+    "prScore": 45.5,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 901,
+    "prDeletions": 2,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 6
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 6
+    }
+  },
+  "firstContribution": "2026-03-21T16:45:02Z",
+  "lastContribution": "2026-03-24T02:41:25Z",
+  "recentPRs": [
+    {
+      "number": 53313,
+      "title": "ci: verify exec-approvals test flake on upstream main",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T02:29:05Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
+    },
+    {
+      "number": 52480,
+      "title": "fix(discord): retry transient errors, not just 429",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T21:33:33Z",
+      "mergedAt": null,
+      "additions": 134,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51889,
+      "title": "feat: add /restore command to revive archived session transcripts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T21:53:31Z",
+      "mergedAt": null,
+      "additions": 767,
+      "deletions": 1,
+      "changedFiles": 10
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 52396,
+      "title": "Discord retry policy only covers 429 — misses 502/503/timeout/connection errors",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T17:19:17Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

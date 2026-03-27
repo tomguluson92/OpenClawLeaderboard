@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8208560?u=0cb7977029f9759df8013633a2c32fbdec924ce0&v=4",
   "githubUrl": "https://github.com/Sirius1942",
   "score": {
-    "score": 97.6,
-    "prScore": 87.1,
+    "score": 22.67,
+    "prScore": 17.17,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 5.5
+    "commentScore": 0.5
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 986,
-    "prDeletions": 16,
-    "prChangedFiles": 15,
+    "prAdditions": 10,
+    "prDeletions": 3,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 1,
+      "prs": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 11,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-06T23:52:40Z",
-  "lastContribution": "2026-03-16T12:34:00Z",
+  "firstContribution": "2026-03-10T02:13:45Z",
+  "lastContribution": "2026-03-21T05:55:51Z",
   "recentPRs": [
+    {
+      "number": 51445,
+      "title": "fix(feishu): extractPermissionError also recognizes code 99991401",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T05:55:51Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 41621,
       "title": "fix: separate filter state for Agents Skills panel and Skills tab",
@@ -62,83 +64,6 @@
       "additions": 4,
       "deletions": 2,
       "changedFiles": 3
-    },
-    {
-      "number": 40459,
-      "title": "fix(feishu): close WSClient on abort to prevent reconnect loop leaks",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T02:10:41Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 40379,
-      "title": "fix: close memory managers on CLI exit to prevent FSWatcher hang",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T00:16:27Z",
-      "mergedAt": null,
-      "additions": 12,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 40149,
-      "title": "fix: force heartbeat execution after 5min queue contention",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T18:11:22Z",
-      "mergedAt": null,
-      "additions": 153,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 39340,
-      "title": "fix(voice-call): use ?? instead of || for TTS speed config",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T01:23:52Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 39227,
-      "title": "fix: set PRAGMA busy_timeout=5000 on every SQLite connection",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T22:09:06Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 38650,
-      "title": "fix: allow symlinks in workspace files",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T06:45:46Z",
-      "mergedAt": null,
-      "additions": 8,
-      "deletions": 8,
-      "changedFiles": 1
-    },
-    {
-      "number": 38407,
-      "title": "fix: handle 'failed to connect to bus' in isSystemdServiceEnabled",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T23:52:40Z",
-      "mergedAt": null,
-      "additions": 796,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -152,27 +77,12 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-10": {
+    "2026-03-21": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-09": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
+    "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -188,6 +98,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

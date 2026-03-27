@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/212749853?v=4",
   "githubUrl": "https://github.com/druide67",
   "score": {
-    "score": 89.32,
-    "prScore": 87.32,
+    "score": 52.84,
+    "prScore": 51.84,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 1
   },
   "tier": "regular",
   "characterClass": "Builder",
@@ -15,59 +15,50 @@
     "commits": 3,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 2,
-    "prDeletions": 6,
-    "prChangedFiles": 1,
+    "prAdditions": 1139,
+    "prDeletions": 77,
+    "prChangedFiles": 14,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 2333,
-    "commitDeletions": 42,
-    "commitChangedFiles": 27
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 2333,
-      "commitDeletions": 42,
-      "commits": 3
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-06T22:02:03Z",
-  "lastContribution": "2026-03-14T20:58:59Z",
+  "firstContribution": "2026-03-14T16:45:59Z",
+  "lastContribution": "2026-03-25T00:11:29Z",
   "recentPRs": [
     {
-      "number": 38360,
-      "title": "fix(synology-chat): remove redundant 120s agent response timeout",
-      "state": "CLOSED",
+      "number": 54099,
+      "title": "feat(synology-chat): add group/channel support",
+      "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-06T22:02:03Z",
+      "createdAt": "2026-03-25T00:11:29Z",
       "mergedAt": null,
-      "additions": 2,
-      "deletions": 6,
-      "changedFiles": 1
+      "additions": 1139,
+      "deletions": 77,
+      "changedFiles": 14
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-06": {
+    "2026-03-25": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -78,9 +69,5 @@
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-02": 2,
-    "2026-02-21": 1
-  }
+  "achievements": []
 }

@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7553188?u=40fbadfe6153a314ceb5d04bffe4e6a9c8cd2bc4&v=4",
   "githubUrl": "https://github.com/Moshiii",
   "score": {
-    "score": 254.76,
-    "prScore": 229.76,
-    "issueScore": 23,
+    "score": 202.75,
+    "prScore": 201.75,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 1
   },
   "tier": "active",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 88110,
-    "prDeletions": 19238,
-    "prChangedFiles": 1700,
+    "prAdditions": 88081,
+    "prDeletions": 19232,
+    "prChangedFiles": 1695,
     "prMergeRate": 0,
-    "issues": 4,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 8,
-      "issues": 4,
+      "prs": 4,
+      "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-09T01:51:24Z",
+  "firstContribution": "2026-03-10T02:54:00Z",
   "lastContribution": "2026-03-11T02:15:04Z",
   "recentPRs": [
     {
@@ -95,98 +86,19 @@
       "additions": 4,
       "deletions": 1,
       "changedFiles": 1
-    },
-    {
-      "number": 40707,
-      "title": "Docs: add emergency invalid-config recovery steps to debugging guide",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T06:52:50Z",
-      "mergedAt": null,
-      "additions": 18,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 40706,
-      "title": "Gateway: improve invalid-config startup recovery hints",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T06:52:48Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 2,
-      "changedFiles": 1
-    },
-    {
-      "number": 40705,
-      "title": "fix(doctor): clarify best-effort wording for invalid config diagnostics",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T06:52:46Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 40447,
-      "title": "docs: fix message send flag and claude-max-api-proxy links (#10458, #…",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T01:51:24Z",
-      "mergedAt": null,
-      "additions": 3,
-      "deletions": 3,
-      "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41312,
-      "title": "[Feature]: Add cacheRead guardrails for large retained tool results in long sessions",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T17:38:48Z",
-      "closedAt": null
-    },
-    {
-      "number": 40653,
-      "title": "[Feature]: Docs: add emergency invalid-config recovery steps in debugging guide",
-      "state": "CLOSED",
-      "createdAt": "2026-03-09T05:53:15Z",
-      "closedAt": "2026-03-10T02:17:30Z"
-    },
-    {
-      "number": 40652,
-      "title": "[Bug]: Gateway invalid-config startup error should suggest --fix and .bak recovery",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T05:53:14Z",
-      "closedAt": null
-    },
-    {
-      "number": 40651,
-      "title": "[Bug]: Doctor best-effort wording should clarify startup remains blocked",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T05:53:12Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 4,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 4,
-      "issues": 4,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion",
     "Large-Scale Changes"
   ],
@@ -201,6 +113,5 @@
       "label": "Mega Coder",
       "description": "50K+ lines added"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3868701?u=157ddb39bb4a21b9e65467a261ff9216b962047b&v=4",
   "githubUrl": "https://github.com/ngmeyer",
   "score": {
-    "score": 19.42,
+    "score": 14.42,
     "prScore": 9.42,
-    "issueScore": 10,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 3,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-08T22:06:25Z",
+  "firstContribution": "2026-03-17T02:10:04Z",
   "lastContribution": "2026-03-18T02:14:23Z",
   "recentPRs": [
     {
@@ -71,13 +62,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-17T02:10:04Z",
       "closedAt": null
-    },
-    {
-      "number": 40302,
-      "title": "iMessage: reply tags (reply_to_current / reply_to:ID) render as literal text instead of being stripped",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T22:06:25Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
@@ -91,17 +75,11 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -1,72 +1,411 @@
 {
   "username": "RichardCao",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/4612401?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4612401?u=8bd76970c4593775e12731147582fafcbd86ebd9&v=4",
   "githubUrl": "https://github.com/RichardCao",
   "score": {
-    "score": 21.72,
-    "prScore": 20.72,
-    "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 1
+    "score": 499.19,
+    "prScore": 327.69,
+    "issueScore": 5,
+    "reviewScore": 135,
+    "commentScore": 31.5
   },
-  "tier": "beginner",
-  "characterClass": "Contributor",
+  "tier": "active",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 633,
-    "prDeletions": 54,
-    "prChangedFiles": 7,
-    "prMergeRate": 0,
-    "issues": 0,
+    "prs": 24,
+    "prsMerged": 3,
+    "prAdditions": 21617,
+    "prDeletions": 1440,
+    "prChangedFiles": 151,
+    "prMergeRate": 13,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 45,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 63
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 23,
+      "issues": 1,
+      "reviews": 45,
+      "comments": 61
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 24,
+      "issues": 1,
+      "reviews": 45,
+      "comments": 63
     }
   },
   "firstContribution": "2026-03-20T06:27:06Z",
-  "lastContribution": "2026-03-20T07:01:58Z",
+  "lastContribution": "2026-03-27T08:37:21Z",
   "recentPRs": [
     {
-      "number": 50889,
-      "title": "fix(cron): recompute next run after external schedule reload",
+      "number": 55607,
+      "title": "fix(hooks): enforce allowedAgentIds for implicit routing",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-20T06:27:06Z",
+      "createdAt": "2026-03-27T06:19:49Z",
       "mergedAt": null,
-      "additions": 633,
-      "deletions": 54,
+      "additions": 28,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 54290,
+      "title": "fix(ui): hydrate default agent model editor from object-shaped defaults",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T06:25:19Z",
+      "mergedAt": null,
+      "additions": 435,
+      "deletions": 59,
       "changedFiles": 7
+    },
+    {
+      "number": 53593,
+      "title": "fix(image-generation): reload providers when active registry is empty",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T09:43:22Z",
+      "mergedAt": null,
+      "additions": 74,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 53377,
+      "title": "fix(feishu): make message-tool card schema optional",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T04:21:36Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 53084,
+      "title": "test(update-cli): make default git-dir assertion platform-aware",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T18:47:34Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 53068,
+      "title": "Plugins: prefer current loader root for sdk aliases",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T18:10:53Z",
+      "mergedAt": null,
+      "additions": 213,
+      "deletions": 16,
+      "changedFiles": 5
+    },
+    {
+      "number": 53047,
+      "title": "Plugins: prefer current loader root for sdk aliases",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T17:30:01Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 53042,
+      "title": "fix(browser): refresh browser route config from disk",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T17:20:04Z",
+      "mergedAt": null,
+      "additions": 532,
+      "deletions": 11,
+      "changedFiles": 6
+    },
+    {
+      "number": 52669,
+      "title": "fix(status): treat stale cached totalTokens as unknown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T06:42:29Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 52543,
+      "title": "fix(mattermost): honor replyToMode off for threaded messages",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T00:51:10Z",
+      "mergedAt": "2026-03-23T01:42:56Z",
+      "additions": 28,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 52380,
+      "title": "chore: sync generated config and plugin-sdk baselines",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T16:55:01Z",
+      "mergedAt": null,
+      "additions": 379,
+      "deletions": 353,
+      "changedFiles": 4
+    },
+    {
+      "number": 52377,
+      "title": "chore: sync generated config and plugin-sdk baselines",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T16:52:43Z",
+      "mergedAt": null,
+      "additions": 379,
+      "deletions": 353,
+      "changedFiles": 4
+    },
+    {
+      "number": 52367,
+      "title": "fix(discord): trim dm allowlist entries after prefix removal",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T16:36:41Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 52319,
+      "title": "fix(restart): respawn via stable wrapper after self-update",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T15:25:18Z",
+      "mergedAt": null,
+      "additions": 12838,
+      "deletions": 91,
+      "changedFiles": 47
+    },
+    {
+      "number": 52232,
+      "title": "test(plugin-sdk): keep subpath smoke tests working without prebuilt dist",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T12:18:03Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 52165,
+      "title": "fix(heartbeat): keep heartbeat turns out of session transcript",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T09:20:16Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 51811,
+      "title": "fix(daemon): repair stale LaunchAgent plist after global updates",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T18:34:35Z",
+      "mergedAt": null,
+      "additions": 581,
+      "deletions": 8,
+      "changedFiles": 13
+    },
+    {
+      "number": 51801,
+      "title": "fix(cli): use local device pairing fallback for loopback closures",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T18:10:55Z",
+      "mergedAt": null,
+      "additions": 840,
+      "deletions": 197,
+      "changedFiles": 4
+    },
+    {
+      "number": 51799,
+      "title": "fix(agents): strip unsupported strict tool flags for OpenAI proxies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T18:09:10Z",
+      "mergedAt": null,
+      "additions": 1265,
+      "deletions": 12,
+      "changedFiles": 9
+    },
+    {
+      "number": 51795,
+      "title": "fix(status): recompute fallback context window",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T18:02:38Z",
+      "mergedAt": "2026-03-23T09:08:49Z",
+      "additions": 704,
+      "deletions": 24,
+      "changedFiles": 6
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
+  "recentIssues": [
+    {
+      "number": 52313,
+      "title": "gateway restart/update can fail to come back when respawn reuses unstable package-manager paths",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T15:15:52Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 55607,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-27T08:37:21Z"
+    },
+    {
+      "prNumber": 54290,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T08:10:58Z"
+    },
+    {
+      "prNumber": 54290,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T07:16:09Z"
+    },
+    {
+      "prNumber": 54290,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T06:42:32Z"
+    },
+    {
+      "prNumber": 54290,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T06:42:31Z"
+    },
+    {
+      "prNumber": 54290,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T06:42:30Z"
+    },
+    {
+      "prNumber": 53593,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T10:43:34Z"
+    },
+    {
+      "prNumber": 53593,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T10:43:34Z"
+    },
+    {
+      "prNumber": 53042,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T19:24:03Z"
+    },
+    {
+      "prNumber": 53042,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T18:46:30Z"
+    },
+    {
+      "prNumber": 53042,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T18:22:13Z"
+    },
+    {
+      "prNumber": 53042,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T18:02:10Z"
+    },
+    {
+      "prNumber": 53042,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T17:45:44Z"
+    },
+    {
+      "prNumber": 51764,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T09:31:07Z"
+    },
+    {
+      "prNumber": 51764,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T09:31:04Z"
+    },
+    {
+      "prNumber": 52319,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T01:17:08Z"
+    },
+    {
+      "prNumber": 52319,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T01:17:08Z"
+    },
+    {
+      "prNumber": 52319,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T00:47:42Z"
+    },
+    {
+      "prNumber": 52319,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:38:13Z"
+    },
+    {
+      "prNumber": 52319,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:38:13Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-23": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 10
+    },
+    "2026-03-22": {
+      "prs": 6,
+      "issues": 1,
+      "reviews": 11
+    },
+    "2026-03-21": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 16
+    },
     "2026-03-20": {
       "prs": 1,
       "issues": 0,
@@ -75,8 +414,36 @@
   },
   "skills": [
     "Pull Requests",
-    "Discussion"
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

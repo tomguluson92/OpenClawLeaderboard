@@ -3,59 +3,72 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/128285906?v=4",
   "githubUrl": "https://github.com/javery556",
   "score": {
-    "score": 165.36,
-    "prScore": 158.36,
+    "score": 198.17,
+    "prScore": 189.17,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 4
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 10,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 1785,
-    "prDeletions": 119,
-    "prChangedFiles": 39,
+    "prAdditions": 2257,
+    "prDeletions": 159,
+    "prChangedFiles": 45,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 8
   },
   "period": {
     "weekly": {
-      "prs": 10,
-      "issues": 1,
+      "prs": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     },
     "monthly": {
-      "prs": 10,
+      "prs": 12,
       "issues": 1,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 8
     }
   },
   "firstContribution": "2026-03-14T11:38:56Z",
-  "lastContribution": "2026-03-19T09:54:11Z",
+  "lastContribution": "2026-03-22T03:46:33Z",
   "recentPRs": [
+    {
+      "number": 52055,
+      "title": "fix(ui): preserve history image attachments after chat reload",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T03:46:33Z",
+      "mergedAt": null,
+      "additions": 307,
+      "deletions": 20,
+      "changedFiles": 3
+    },
+    {
+      "number": 52043,
+      "title": "fix(ui): preserve history image attachments after chat reload",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T03:27:43Z",
+      "mergedAt": null,
+      "additions": 165,
+      "deletions": 20,
+      "changedFiles": 3
+    },
     {
       "number": 50356,
       "title": "config: use channel catalog plugin ids for auto-enable",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T09:54:11Z",
       "mergedAt": null,
@@ -66,7 +79,7 @@
     {
       "number": 50209,
       "title": "ui: avoid stale provider prefixes in model picker",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T04:44:21Z",
       "mergedAt": null,
@@ -88,7 +101,7 @@
     {
       "number": 49314,
       "title": "doctor: suppress transient memory probe timeout warning [AI-assisted]",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T00:14:54Z",
       "mergedAt": null,
@@ -99,7 +112,7 @@
     {
       "number": 49312,
       "title": "fix: remove unused bootstrap imports",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T00:08:10Z",
       "mergedAt": null,
@@ -132,7 +145,7 @@
     {
       "number": 48190,
       "title": "Fix Control UI stale session dropdown entries",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-16T12:14:39Z",
       "mergedAt": null,
@@ -143,7 +156,7 @@
     {
       "number": 46136,
       "title": "Fix Control UI /model provider refs",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T13:09:39Z",
       "mergedAt": null,
@@ -154,7 +167,7 @@
     {
       "number": 46051,
       "title": "fix: bootstrap zsh completion when compinit is missing (AI-assisted)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T11:38:56Z",
       "mergedAt": null,
@@ -174,6 +187,11 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 2,
       "issues": 0,
@@ -211,6 +229,5 @@
       "label": "PR Machine",
       "description": "10+ pull requests"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

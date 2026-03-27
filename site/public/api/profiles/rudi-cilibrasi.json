@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9170568?u=5b784b12fde0d1c59b65fcd179eb77616de416e0&v=4",
   "githubUrl": "https://github.com/rudi-cilibrasi",
   "score": {
-    "score": 138.81,
-    "prScore": 124.81,
+    "score": 138.01,
+    "prScore": 124.01,
     "issueScore": 0,
     "reviewScore": 12,
     "commentScore": 2
@@ -15,8 +15,8 @@
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1358,
-    "prDeletions": 256,
+    "prAdditions": 1269,
+    "prDeletions": 262,
     "prChangedFiles": 60,
     "prMergeRate": 0,
     "issues": 0,
@@ -24,29 +24,20 @@
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
-      "reviews": 4,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 4,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
   "firstContribution": "2026-03-17T20:44:34Z",
@@ -54,13 +45,13 @@
   "recentPRs": [
     {
       "number": 49512,
-      "title": "Fix main OOM and stale openai-codex gpt-5.4 model resolution",
+      "title": "Fix stale openai-codex gpt-5.4 model resolution",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-18T05:49:54Z",
       "mergedAt": null,
-      "additions": 449,
-      "deletions": 16,
+      "additions": 360,
+      "deletions": 22,
       "changedFiles": 4
     },
     {
@@ -115,6 +106,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

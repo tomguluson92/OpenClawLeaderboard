@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/26392883?u=de01c6edce426850047426fcaf942de3858e14b4&v=4",
   "githubUrl": "https://github.com/brettdavies",
   "score": {
-    "score": 44.79,
+    "score": 30.79,
     "prScore": 29.79,
-    "issueScore": 10,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 1
   },
   "tier": "beginner",
   "characterClass": "Contributor",
@@ -19,38 +19,29 @@
     "prDeletions": 45,
     "prChangedFiles": 10,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-12T18:03:32Z",
-  "lastContribution": "2026-03-12T20:45:14Z",
+  "lastContribution": "2026-03-22T18:47:24Z",
   "recentPRs": [
     {
       "number": 44288,
@@ -64,35 +55,18 @@
       "changedFiles": 10
     }
   ],
-  "recentIssues": [
-    {
-      "number": 44362,
-      "title": "fix(backup): .backupignore permission check false-positives on Windows",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T20:13:24Z",
-      "closedAt": null
-    },
-    {
-      "number": 44361,
-      "title": "fix(backup): archive integrity cross-check fails on Windows (tar entry path mismatch)",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T20:13:02Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

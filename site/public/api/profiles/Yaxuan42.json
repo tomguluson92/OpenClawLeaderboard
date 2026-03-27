@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/184813557?u=628660e409615912fd916e38fd84198b80714aa9&v=4",
   "githubUrl": "https://github.com/Yaxuan42",
   "score": {
-    "score": 29.4,
-    "prScore": 23.9,
-    "issueScore": 5,
+    "score": 10.73,
+    "prScore": 10.23,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,34 +19,25 @@
     "prDeletions": 1,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 299,
-    "commitDeletions": 4,
-    "commitChangedFiles": 7
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 86,
-      "commitDeletions": 2,
-      "commits": 1
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-09T16:41:15Z",
@@ -64,31 +55,18 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41270,
-      "title": "Config mutation commands have inconsistent restart semantics (config.set vs config.patch)",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T16:41:49Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-09": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-02-28": 1,
-    "2026-02-13": 1
-  }
+  "achievements": []
 }

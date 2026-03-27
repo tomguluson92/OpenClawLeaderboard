@@ -3,171 +3,51 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/65822992?v=4",
   "githubUrl": "https://github.com/dunamismax",
   "score": {
-    "score": 184.47,
-    "prScore": 182.97,
+    "score": 15,
+    "prScore": 15,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 8,
+    "prs": 0,
     "prsMerged": 0,
-    "prAdditions": 1659,
-    "prDeletions": 619,
-    "prChangedFiles": 37,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 92,
-    "commitDeletions": 11,
-    "commitChangedFiles": 11
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 92,
-      "commitDeletions": 11,
-      "commits": 3
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-06T14:42:47Z",
-  "lastContribution": "2026-03-08T02:48:16Z",
-  "recentPRs": [
-    {
-      "number": 39397,
-      "title": "fix(ui): support agent config union schemas in config form analyzer",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T02:48:16Z",
-      "mergedAt": null,
-      "additions": 297,
-      "deletions": 295,
-      "changedFiles": 4
-    },
-    {
-      "number": 39384,
-      "title": "fix(gateway): remove duplicate webchat chat fanout",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T02:20:26Z",
-      "mergedAt": null,
-      "additions": 14,
-      "deletions": 22,
-      "changedFiles": 5
-    },
-    {
-      "number": 39326,
-      "title": "fix(ui): auto-create agent config entry so agents-page edits mark form dirty",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T01:10:15Z",
-      "mergedAt": null,
-      "additions": 140,
-      "deletions": 104,
-      "changedFiles": 3
-    },
-    {
-      "number": 38977,
-      "title": "fix(discord): keep native /new and /reset on bound channel session",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T15:54:30Z",
-      "mergedAt": null,
-      "additions": 825,
-      "deletions": 69,
-      "changedFiles": 13
-    },
-    {
-      "number": 38324,
-      "title": "docs: clarify NVIDIA refs with slash-containing model ids",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T20:28:57Z",
-      "mergedAt": null,
-      "additions": 53,
-      "deletions": 0,
-      "changedFiles": 3
-    },
-    {
-      "number": 38325,
-      "title": "fix: point misplaced Feishu plugin creds to channels.feishu",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T20:28:57Z",
-      "mergedAt": null,
-      "additions": 140,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 38156,
-      "title": "fix(cron): keep fallback watchdog independent from agent timeout",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T16:40:59Z",
-      "mergedAt": null,
-      "additions": 87,
-      "deletions": 101,
-      "changedFiles": 3
-    },
-    {
-      "number": 37933,
-      "title": "gateway: clear runtime model metadata on sessions.reset",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T14:42:47Z",
-      "mergedAt": null,
-      "additions": 103,
-      "deletions": 27,
-      "changedFiles": 4
-    }
-  ],
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
   "recentIssues": [],
   "recentReviews": [],
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    }
-  },
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
-    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-06": 1,
-    "2026-03-02": 2
-  }
+  "achievements": []
 }

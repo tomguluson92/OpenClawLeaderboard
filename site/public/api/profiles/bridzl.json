@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/52784198?u=5c59a1cbef4706404a0007d62768432fd762b039&v=4",
   "githubUrl": "https://github.com/bridzl",
   "score": {
-    "score": 14.54,
-    "prScore": 9.54,
-    "issueScore": 5,
+    "score": 30.05,
+    "prScore": 19.05,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 1
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 55,
-    "prDeletions": 13,
-    "prChangedFiles": 2,
+    "prAdditions": 234,
+    "prDeletions": 39,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     },
     "monthly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 2,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-20T05:34:34Z",
-  "lastContribution": "2026-03-20T06:46:56Z",
+  "lastContribution": "2026-03-24T04:55:56Z",
   "recentPRs": [
+    {
+      "number": 52623,
+      "title": "fix(feishu): add supervisor loop for WebSocket reconnection",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T04:17:27Z",
+      "mergedAt": null,
+      "additions": 179,
+      "deletions": 26,
+      "changedFiles": 1
+    },
     {
       "number": 50897,
       "title": "fix(daemon): auto-bootstrap service on `start` when not loaded",
@@ -66,6 +68,13 @@
   ],
   "recentIssues": [
     {
+      "number": 52618,
+      "title": "fix(feishu): WebSocket connection not recovered after network disruption",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T04:05:09Z",
+      "closedAt": null
+    },
+    {
       "number": 50869,
       "title": "daemon start: auto-bootstrap when service not loaded after stop",
       "state": "OPEN",
@@ -75,6 +84,11 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-20": {
       "prs": 1,
       "issues": 1,
@@ -83,8 +97,8 @@
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting"
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -1,0 +1,95 @@
+{
+  "username": "erhhung",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5808864?u=3f94b60538227066c7316ffef93085247b21ffd0&v=4",
+  "githubUrl": "https://github.com/erhhung",
+  "score": {
+    "score": 38.9,
+    "prScore": 20.4,
+    "issueScore": 18,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 45,
+    "prDeletions": 1,
+    "prChangedFiles": 9,
+    "prMergeRate": 100,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-24T05:02:24Z",
+  "lastContribution": "2026-03-24T18:32:31Z",
+  "recentPRs": [
+    {
+      "number": 53401,
+      "title": "fix(schema): tools.web.fetch.maxResponseBytes #53397",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T05:09:16Z",
+      "mergedAt": "2026-03-25T23:40:01Z",
+      "additions": 45,
+      "deletions": 1,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 53881,
+      "title": "[Bug]: Log Stream viewer scroll area in Control UI not using full window height",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T18:32:31Z",
+      "closedAt": null
+    },
+    {
+      "number": 53586,
+      "title": "[Feature]: Add support to Perplexity web search provider for LiteLLM endpoint",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T09:38:07Z",
+      "closedAt": null
+    },
+    {
+      "number": 53397,
+      "title": "[Bug]: Config schema validation fails for `tools.web.fetch.maxResponseBytes`",
+      "state": "CLOSED",
+      "createdAt": "2026-03-24T05:02:24Z",
+      "closedAt": "2026-03-25T23:40:02Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

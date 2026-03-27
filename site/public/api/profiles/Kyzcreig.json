@@ -1,0 +1,124 @@
+{
+  "username": "Kyzcreig",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9063726?v=4",
+  "githubUrl": "https://github.com/Kyzcreig",
+  "score": {
+    "score": 41.94,
+    "prScore": 31.94,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 179,
+    "prDeletions": 3,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-21T05:48:06Z",
+  "lastContribution": "2026-03-27T02:03:20Z",
+  "recentPRs": [
+    {
+      "number": 55477,
+      "title": "feat: stamp session_key, message_channel, context_limit into LiteLLM request metadata",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T02:03:20Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54872,
+      "title": "config: reject LiteLLM routing aliases in tools.media",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T04:03:04Z",
+      "mergedAt": null,
+      "additions": 133,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 54725,
+      "title": "feat: thread sessionKey/sessionId into ProviderPrepareExtraParamsContext",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T21:55:28Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54865,
+      "title": "tools.media with LiteLLM tier aliases (e.g. model=vision) is brittle / misleading",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T03:53:24Z",
+      "closedAt": null
+    },
+    {
+      "number": 51441,
+      "title": "feat: expose resolved backend model in session_status and agent runtime",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T05:48:06Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": []
+}

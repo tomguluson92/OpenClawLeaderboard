@@ -3,95 +3,134 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/82404?u=8ef1d65997595e29deb478f978b2776dee45ba42&v=4",
   "githubUrl": "https://github.com/leemgs",
   "score": {
-    "score": 83.74,
-    "prScore": 78.24,
-    "issueScore": 5,
+    "score": 180.52,
+    "prScore": 157.52,
+    "issueScore": 23,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 1146,
-    "prDeletions": 112,
-    "prChangedFiles": 30,
+    "prAdditions": 3913,
+    "prDeletions": 1710,
+    "prChangedFiles": 184,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 0,
+    "issues": 4,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
+      "prs": 4,
+      "issues": 4,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 1,
+      "prs": 4,
+      "issues": 4,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-03T08:14:52Z",
-  "lastContribution": "2026-03-05T09:38:47Z",
+  "firstContribution": "2026-03-22T11:22:48Z",
+  "lastContribution": "2026-03-24T08:03:56Z",
   "recentPRs": [
     {
-      "number": 35855,
-      "title": "feat: Support open-source based websearch and private network",
+      "number": 53532,
+      "title": "feat: add support for private network access and SearXNG search tool",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-05T09:36:45Z",
+      "createdAt": "2026-03-24T08:03:56Z",
       "mergedAt": null,
-      "additions": 573,
-      "deletions": 56,
-      "changedFiles": 15
+      "additions": 1112,
+      "deletions": 205,
+      "changedFiles": 111
     },
     {
-      "number": 35453,
-      "title": "Fix/allow private network",
+      "number": 53346,
+      "title": " feat: add Korean language support to Control UI and AI agent",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T03:20:38Z",
+      "mergedAt": null,
+      "additions": 440,
+      "deletions": 8,
+      "changedFiles": 12
+    },
+    {
+      "number": 53258,
+      "title": "feat(mattermost): enable Mattermost channel support via plugin",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-05T04:42:22Z",
+      "createdAt": "2026-03-24T00:50:35Z",
       "mergedAt": null,
-      "additions": 573,
-      "deletions": 56,
-      "changedFiles": 15
+      "additions": 468,
+      "deletions": 1429,
+      "changedFiles": 23
+    },
+    {
+      "number": 52207,
+      "title": "V2, feat(websearch): add SearXNG provider and freshness support for Tavily",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T11:22:48Z",
+      "mergedAt": null,
+      "additions": 1893,
+      "deletions": 68,
+      "changedFiles": 38
     }
   ],
   "recentIssues": [
     {
-      "number": 32756,
-      "title": "[Feature]:  Add free-based  Tavily and SearXNG as Web Search Providers",
+      "number": 53469,
+      "title": "[Feature]: Add private network access support for web tools and gateway",
       "state": "OPEN",
-      "createdAt": "2026-03-03T08:14:52Z",
+      "createdAt": "2026-03-24T06:34:25Z",
+      "closedAt": null
+    },
+    {
+      "number": 53345,
+      "title": "[Feature]: Add Korean (ko) language support to Control UI and AI agent",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T03:20:19Z",
+      "closedAt": null
+    },
+    {
+      "number": 53246,
+      "title": "[Feature]: Add official Mattermost channel support via plugin",
+      "state": "CLOSED",
+      "createdAt": "2026-03-24T00:27:00Z",
+      "closedAt": "2026-03-24T05:51:38Z"
+    },
+    {
+      "number": 53217,
+      "title": "[Feature]:  Add support for SearXNG as a self-hosted, privacy-first web search provider in OpenClaw's `webSearch` tool infrastructure.",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T23:04:22Z",
       "closedAt": null
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-05": {
-      "prs": 2,
+    "2026-03-24": {
+      "prs": 3,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-03": {
+    "2026-03-23": {
       "prs": 0,
       "issues": 1,
       "reviews": 0
@@ -100,8 +139,7 @@
   "skills": [
     "Pull Requests",
     "Issue Reporting",
-    "Discussion"
+    "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

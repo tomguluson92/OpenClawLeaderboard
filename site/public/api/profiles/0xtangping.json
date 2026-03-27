@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12505774?u=63a37b3ae46cc9fa6a55eedf40bb9883a1626e44&v=4",
   "githubUrl": "https://github.com/0xtangping",
   "score": {
-    "score": 164.02,
-    "prScore": 157.52,
+    "score": 45.65,
+    "prScore": 44.15,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 6.5
+    "commentScore": 1.5
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 14,
-    "prsMerged": 1,
-    "prAdditions": 628,
-    "prDeletions": 207,
-    "prChangedFiles": 28,
-    "prMergeRate": 7,
+    "prs": 4,
+    "prsMerged": 0,
+    "prAdditions": 200,
+    "prDeletions": 17,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 3
     },
     "monthly": {
-      "prs": 14,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 3
     }
   },
-  "firstContribution": "2026-03-06T10:36:43Z",
-  "lastContribution": "2026-03-15T01:24:32Z",
+  "firstContribution": "2026-03-14T18:54:50Z",
+  "lastContribution": "2026-03-24T00:50:38Z",
   "recentPRs": [
+    {
+      "number": 53259,
+      "title": "fix(elevated): restore Discord allowFrom fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T00:50:38Z",
+      "mergedAt": null,
+      "additions": 156,
+      "deletions": 8,
+      "changedFiles": 4
+    },
     {
       "number": 46702,
       "title": "docs(agents): read daily memory slug variants in template",
@@ -66,7 +68,7 @@
     {
       "number": 46662,
       "title": "fix(slack): use interactiveReplies in system prompt messaging guidance",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T23:53:24Z",
       "mergedAt": null,
@@ -77,139 +79,23 @@
     {
       "number": 46516,
       "title": "docs(browser): clarify existing-session setup for profile=\"user\"",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T18:54:50Z",
       "mergedAt": null,
       "additions": 8,
       "deletions": 0,
       "changedFiles": 1
-    },
-    {
-      "number": 39336,
-      "title": "fix: default codex-cli backend sandbox to workspace-write",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T01:18:42Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 39287,
-      "title": "fix(imessage): avoid leaking [[reply_to:<id>]] in outbound text",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T00:26:12Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 20,
-      "changedFiles": 2
-    },
-    {
-      "number": 39235,
-      "title": "docs(cron): document announce targeting errors and consecutiveErrors recovery",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T22:24:03Z",
-      "mergedAt": null,
-      "additions": 30,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 39128,
-      "title": "fix(gateway): flush pending chat delta before tool-start events",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T19:30:29Z",
-      "mergedAt": null,
-      "additions": 129,
-      "deletions": 28,
-      "changedFiles": 2
-    },
-    {
-      "number": 38956,
-      "title": "fix(models auth): don't persist clack cancel symbol as token",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T15:21:10Z",
-      "mergedAt": null,
-      "additions": 138,
-      "deletions": 66,
-      "changedFiles": 2
-    },
-    {
-      "number": 38841,
-      "title": "fix(message): ignore empty legacy target fields",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T12:21:04Z",
-      "mergedAt": null,
-      "additions": 18,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 38798,
-      "title": "fix(agents): preserve Azure streaming usage compat in openai-completions",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T11:17:53Z",
-      "mergedAt": null,
-      "additions": 59,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 38680,
-      "title": "fix(telegram): namespace slash SessionKey by agent",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T07:56:04Z",
-      "mergedAt": "2026-03-07T12:45:30Z",
-      "additions": 8,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 38656,
-      "title": "fix(models): include custom providers in Telegram /models catalog",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T07:03:04Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 9,
-      "changedFiles": 2
-    },
-    {
-      "number": 38511,
-      "title": "fix(errors): sanitize Codex error-prefixed provider payloads",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T03:04:37Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 37648,
-      "title": "fix(models): include config-injected entries in models list --all",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T10:36:43Z",
-      "mergedAt": null,
-      "additions": 158,
-      "deletions": 66,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
@@ -219,33 +105,11 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 8,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

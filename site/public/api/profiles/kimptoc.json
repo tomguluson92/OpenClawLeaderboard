@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/38746?v=4",
   "githubUrl": "https://github.com/kimptoc",
   "score": {
-    "score": 310.17,
-    "prScore": 226.67,
-    "issueScore": 8,
+    "score": 301.66,
+    "prScore": 226.66,
+    "issueScore": 0,
     "reviewScore": 69,
-    "commentScore": 6.5
+    "commentScore": 6
   },
   "tier": "active",
   "characterClass": "Reviewer",
@@ -19,37 +19,28 @@
     "prDeletions": 2342,
     "prChangedFiles": 283,
     "prMergeRate": 18,
-    "issues": 1,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 23,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
-    "commitAdditions": 4,
-    "commitDeletions": 1,
-    "commitChangedFiles": 2
+    "comments": 12
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 0,
       "issues": 0,
-      "reviews": 19,
-      "comments": 12,
-      "commitAdditions": 4,
-      "commitDeletions": 1,
-      "commits": 2
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 11,
-      "issues": 1,
+      "issues": 0,
       "reviews": 23,
-      "comments": 13,
-      "commitAdditions": 4,
-      "commitDeletions": 1,
-      "commits": 2
+      "comments": 12
     }
   },
-  "firstContribution": "2026-03-08T21:24:22Z",
+  "firstContribution": "2026-03-10T08:19:55Z",
   "lastContribution": "2026-03-19T09:49:01Z",
   "recentPRs": [
     {
@@ -174,15 +165,7 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 40274,
-      "title": "feat(acpx): support custom/additional ACP agent targets beyond claude and codex",
-      "state": "CLOSED",
-      "createdAt": "2026-03-08T21:24:22Z",
-      "closedAt": "2026-03-19T09:30:29Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 41945,
@@ -306,11 +289,6 @@
       "issues": 0,
       "reviews": 2
     },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
     "2026-03-16": {
       "prs": 0,
       "issues": 0,
@@ -320,7 +298,6 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
@@ -335,15 +312,6 @@
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-18": 1,
-    "2026-03-17": 1
-  }
+  ]
 }

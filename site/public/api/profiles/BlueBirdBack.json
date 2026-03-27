@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/126304167?u=505a93d23a3ba4b887ad36972fedecfc46a0ecec&v=4",
   "githubUrl": "https://github.com/BlueBirdBack",
   "score": {
-    "score": 141.52,
-    "prScore": 138.52,
+    "score": 10.5,
+    "prScore": 9.5,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3
+    "commentScore": 1
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "beginner",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 11,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1481,
-    "prDeletions": 34,
-    "prChangedFiles": 28,
+    "prAdditions": 61,
+    "prDeletions": 2,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 11,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-06T06:58:01Z",
+  "firstContribution": "2026-03-14T14:16:28Z",
   "lastContribution": "2026-03-15T12:31:02Z",
   "recentPRs": [
     {
@@ -62,116 +53,6 @@
       "additions": 61,
       "deletions": 2,
       "changedFiles": 2
-    },
-    {
-      "number": 38225,
-      "title": "fix(line): resolve tokenFile/secretFile relative paths using configFile dir (#10428)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T17:34:47Z",
-      "mergedAt": null,
-      "additions": 115,
-      "deletions": 12,
-      "changedFiles": 2
-    },
-    {
-      "number": 38115,
-      "title": "fix(telegram): entity-first detection in hasBotMention to prevent false positives (#28602)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T16:09:47Z",
-      "mergedAt": null,
-      "additions": 76,
-      "deletions": 13,
-      "changedFiles": 2
-    },
-    {
-      "number": 37952,
-      "title": "fix(gateway): allow control-ui bypass when dangerouslyDisableDeviceAuth=true (#35944)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T14:59:42Z",
-      "mergedAt": null,
-      "additions": 58,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 37888,
-      "title": "fix(agents): sanitize tool schemas for llama.cpp GBNF grammar compat (#32916)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T14:10:00Z",
-      "mergedAt": null,
-      "additions": 404,
-      "deletions": 1,
-      "changedFiles": 5
-    },
-    {
-      "number": 37860,
-      "title": "fix(tui): guard runTui against non-TTY environments (#32900)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T13:43:06Z",
-      "mergedAt": null,
-      "additions": 66,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 37665,
-      "title": "fix(infra): suppress undici TLS session resumption crash (#19168)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T10:51:59Z",
-      "mergedAt": null,
-      "additions": 99,
-      "deletions": 2,
-      "changedFiles": 4
-    },
-    {
-      "number": 37594,
-      "title": "fix(config): migrate removed acp.stream keys from v2026.3.2 (#35957)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T10:01:50Z",
-      "mergedAt": null,
-      "additions": 388,
-      "deletions": 0,
-      "changedFiles": 3
-    },
-    {
-      "number": 37556,
-      "title": "fix(config): strip deprecated gateway.controlUi device-auth keys on upgrade (#35957)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T09:31:14Z",
-      "mergedAt": null,
-      "additions": 50,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 37551,
-      "title": "fix(agents): flush pending tool results on gateway restart (#30082)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T09:24:56Z",
-      "mergedAt": null,
-      "additions": 161,
-      "deletions": 2,
-      "changedFiles": 3
-    },
-    {
-      "number": 37327,
-      "title": "fix(gateway): guard source.data with nullish coalesce in image_url byte count",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T06:58:01Z",
-      "mergedAt": null,
-      "additions": 3,
-      "deletions": 1,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -181,23 +62,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 10,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

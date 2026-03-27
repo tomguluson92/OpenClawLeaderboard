@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259807879?v=4",
   "githubUrl": "https://github.com/Bartok9",
   "score": {
-    "score": 170.26,
-    "prScore": 166.76,
+    "score": 186.32,
+    "prScore": 182.82,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 3.5
@@ -13,45 +13,91 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 13,
-    "prsMerged": 0,
-    "prAdditions": 2043,
-    "prDeletions": 63,
+    "prs": 15,
+    "prsMerged": 1,
+    "prAdditions": 1838,
+    "prDeletions": 76,
     "prChangedFiles": 33,
-    "prMergeRate": 0,
+    "prMergeRate": 7,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 7
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
-      "prs": 13,
+      "prs": 15,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 7
     }
   },
-  "firstContribution": "2026-03-06T09:37:46Z",
-  "lastContribution": "2026-03-19T08:37:25Z",
+  "firstContribution": "2026-03-10T08:38:51Z",
+  "lastContribution": "2026-03-27T08:35:36Z",
   "recentPRs": [
+    {
+      "number": 55042,
+      "title": "fix(discord): suppress intentional reconnect exception during health monitor restart",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T08:35:12Z",
+      "mergedAt": null,
+      "additions": 64,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 54364,
+      "title": "fix(ui): improve chat send button icon contrast for WCAG AA compliance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T08:37:56Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 53549,
+      "title": "fix(tools): filter MCP/LSP tools through subagent policy",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T08:35:25Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 10,
+      "changedFiles": 2
+    },
+    {
+      "number": 52734,
+      "title": "docs(feishu): fix botName to name in config examples",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T08:31:59Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 52150,
+      "title": "fix(poll-params): treat zero-valued numeric poll params as unset",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T08:34:37Z",
+      "mergedAt": "2026-03-22T10:39:31Z",
+      "additions": 89,
+      "deletions": 4,
+      "changedFiles": 5
+    },
     {
       "number": 49660,
       "title": "fix(session-lock): clean orphan self-lock files during startup cleanup",
@@ -70,8 +116,8 @@
       "merged": false,
       "createdAt": "2026-03-17T08:39:57Z",
       "mergedAt": null,
-      "additions": 69,
-      "deletions": 0,
+      "additions": 66,
+      "deletions": 3,
       "changedFiles": 2
     },
     {
@@ -158,47 +204,39 @@
       "merged": false,
       "createdAt": "2026-03-10T08:38:51Z",
       "mergedAt": null,
-      "additions": 22,
-      "deletions": 19,
-      "changedFiles": 2
-    },
-    {
-      "number": 40779,
-      "title": "fix(tui): strip <think> tags from text content when thinking is disabled",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T08:36:34Z",
-      "mergedAt": null,
-      "additions": 107,
-      "deletions": 11,
-      "changedFiles": 4
-    },
-    {
-      "number": 39636,
-      "title": "fix(messages): add suppressMutatingToolErrorWarnings config option",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T08:38:40Z",
-      "mergedAt": null,
-      "additions": 39,
-      "deletions": 1,
-      "changedFiles": 6
-    },
-    {
-      "number": 37568,
-      "title": "fix(security): redact resolved secrets from models.json",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T09:37:46Z",
-      "mergedAt": null,
-      "additions": 247,
-      "deletions": 1,
+      "additions": 23,
+      "deletions": 20,
       "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 0,
@@ -238,21 +276,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -265,6 +288,5 @@
       "label": "PR Machine",
       "description": "10+ pull requests"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5212682?v=4",
   "githubUrl": "https://github.com/ademczuk",
   "score": {
-    "score": 1093.32,
-    "prScore": 686.32,
+    "score": 540.11,
+    "prScore": 397.61,
     "issueScore": 0,
-    "reviewScore": 351,
-    "commentScore": 56
+    "reviewScore": 123,
+    "commentScore": 19.5
   },
-  "tier": "elite",
+  "tier": "veteran",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 20,
-    "prs": 46,
-    "prsMerged": 17,
-    "prAdditions": 4151,
-    "prDeletions": 1494962,
-    "prChangedFiles": 8194,
-    "prMergeRate": 37,
+    "prs": 20,
+    "prsMerged": 14,
+    "prAdditions": 2002,
+    "prDeletions": 221,
+    "prChangedFiles": 65,
+    "prMergeRate": 70,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 114,
+    "reviews": 38,
     "reviewsApproved": 6,
     "reviewsChangesRequested": 2,
-    "comments": 112,
-    "commitAdditions": 1188,
-    "commitDeletions": 126,
-    "commitChangedFiles": 68
+    "comments": 39
   },
   "period": {
     "weekly": {
-      "prs": 11,
+      "prs": 0,
       "issues": 0,
-      "reviews": 21,
-      "comments": 25,
-      "commitAdditions": 310,
-      "commitDeletions": 73,
-      "commits": 12
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 46,
+      "prs": 20,
       "issues": 0,
-      "reviews": 114,
-      "comments": 112,
-      "commitAdditions": 1188,
-      "commitDeletions": 126,
-      "commits": 20
+      "reviews": 38,
+      "comments": 39
     }
   },
-  "firstContribution": "2026-03-06T17:36:36Z",
+  "firstContribution": "2026-03-09T22:05:20Z",
   "lastContribution": "2026-03-19T06:46:28Z",
   "recentPRs": [
     {
@@ -413,24 +404,9 @@
       "reviews": 0
     },
     "2026-03-09": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 38
-    },
-    "2026-03-08": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 4
-    },
-    "2026-03-07": {
-      "prs": 17,
-      "issues": 0,
-      "reviews": 29
-    },
-    "2026-03-06": {
       "prs": 1,
       "issues": 0,
-      "reviews": 5
+      "reviews": 0
     },
     "2026-03-16": {
       "prs": 0,
@@ -447,8 +423,7 @@
     "Pull Requests",
     "Code Review",
     "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
+    "Direct Commits"
   ],
   "achievements": [
     {
@@ -467,30 +442,9 @@
       "description": "10+ reviews"
     },
     {
-      "id": "review-guru",
-      "label": "Review Guru",
-      "description": "50+ reviews"
-    },
-    {
-      "id": "review-legend",
-      "label": "Review Legend",
-      "description": "100+ reviews"
-    },
-    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-18": 1,
-    "2026-03-17": 1,
-    "2026-03-15": 1,
-    "2026-03-14": 9,
-    "2026-03-12": 1,
-    "2026-03-11": 3,
-    "2026-03-07": 1,
-    "2026-03-03": 2,
-    "2026-03-02": 1
-  }
+  ]
 }

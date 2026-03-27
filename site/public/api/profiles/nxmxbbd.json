@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/32288?v=4",
   "githubUrl": "https://github.com/nxmxbbd",
   "score": {
-    "score": 29.4,
-    "prScore": 12.4,
-    "issueScore": 5,
-    "reviewScore": 12,
-    "commentScore": 0
+    "score": 55.41,
+    "prScore": 32.41,
+    "issueScore": 0,
+    "reviewScore": 21,
+    "commentScore": 2
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 88,
-    "prDeletions": 1,
-    "prChangedFiles": 4,
+    "prAdditions": 259,
+    "prDeletions": 5,
+    "prChangedFiles": 11,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 4,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     },
     "monthly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 4,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 2,
+      "issues": 0,
+      "reviews": 7,
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-08T17:06:37Z",
-  "lastContribution": "2026-03-20T07:48:35Z",
+  "firstContribution": "2026-03-10T10:28:36Z",
+  "lastContribution": "2026-03-24T18:10:05Z",
   "recentPRs": [
+    {
+      "number": 53740,
+      "title": "fix: skip system event drain for periodic heartbeat runs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T14:29:43Z",
+      "mergedAt": null,
+      "additions": 95,
+      "deletions": 4,
+      "changedFiles": 7
+    },
     {
       "number": 42042,
       "title": "fix(memory): add watcher error handling and non-zero default intervalMinutes",
@@ -59,21 +61,28 @@
       "merged": false,
       "createdAt": "2026-03-10T10:28:36Z",
       "mergedAt": null,
-      "additions": 88,
+      "additions": 164,
       "deletions": 1,
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 40088,
-      "title": "memory_search: chokidar file watcher silently stops delivering events, index goes stale",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T17:06:37Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 53740,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T15:00:01Z"
+    },
+    {
+      "prNumber": 53740,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T14:59:52Z"
+    },
+    {
+      "prNumber": 53740,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T14:59:45Z"
+    },
     {
       "prNumber": 42042,
       "state": "COMMENTED",
@@ -96,15 +105,15 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 1
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     },
     "2026-03-20": {
       "prs": 0,
@@ -120,14 +129,7 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting"
+    "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

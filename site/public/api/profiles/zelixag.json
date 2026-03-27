@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9192601?u=588d378d5ec294c6da158f1cf65ed8f7c2f01933&v=4",
   "githubUrl": "https://github.com/zelixag",
   "score": {
-    "score": 154.23,
+    "score": 152.23,
     "prScore": 140.73,
-    "issueScore": 13,
+    "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 6.5
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 8,
@@ -19,38 +19,29 @@
     "prDeletions": 49,
     "prChangedFiles": 51,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
+    "issues": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 13
   },
   "period": {
     "weekly": {
-      "prs": 7,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 12
     },
     "monthly": {
       "prs": 8,
-      "issues": 2,
+      "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 13
     }
   },
-  "firstContribution": "2026-03-12T04:24:11Z",
-  "lastContribution": "2026-03-19T02:51:20Z",
+  "firstContribution": "2026-03-12T05:15:07Z",
+  "lastContribution": "2026-03-24T16:17:47Z",
   "recentPRs": [
     {
       "number": 50162,
@@ -148,13 +139,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-14T07:31:13Z",
       "closedAt": null
-    },
-    {
-      "number": 43668,
-      "title": "test: ???? GitHub API",
-      "state": "CLOSED",
-      "createdAt": "2026-03-12T04:24:11Z",
-      "closedAt": "2026-03-12T04:24:20Z"
     }
   ],
   "recentReviews": [],
@@ -176,7 +160,7 @@
     },
     "2026-03-12": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
@@ -185,6 +169,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

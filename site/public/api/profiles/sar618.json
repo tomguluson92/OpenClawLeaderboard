@@ -1,0 +1,119 @@
+{
+  "username": "sar618",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/214745104?u=c4acd4f2c566c29e3bb71985e57bb18238c8d0d9&v=4",
+  "githubUrl": "https://github.com/sar618",
+  "score": {
+    "score": 35.44,
+    "prScore": 11.44,
+    "issueScore": 5,
+    "reviewScore": 18,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 132,
+    "prDeletions": 6,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 2
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 2
+    }
+  },
+  "firstContribution": "2026-03-26T09:27:51Z",
+  "lastContribution": "2026-03-27T07:29:04Z",
+  "recentPRs": [
+    {
+      "number": 55113,
+      "title": "FIX (gateway): skip device pairing for authenticated CLI connections in Docker",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T11:23:20Z",
+      "mergedAt": null,
+      "additions": 132,
+      "deletions": 6,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 55067,
+      "title": "[Bug]: Device pairing has no bypass for Docker CLI or internal callGateway() operations",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T09:27:51Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 55113,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T11:57:51Z"
+    },
+    {
+      "prNumber": 55113,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T11:49:48Z"
+    },
+    {
+      "prNumber": 55113,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T11:48:09Z"
+    },
+    {
+      "prNumber": 55113,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T11:47:22Z"
+    },
+    {
+      "prNumber": 55113,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T11:46:25Z"
+    },
+    {
+      "prNumber": 55113,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T11:44:46Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

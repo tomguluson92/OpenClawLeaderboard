@@ -3,278 +3,287 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/25068?v=4",
   "githubUrl": "https://github.com/vincentkoc",
   "score": {
-    "score": 7149.23,
-    "prScore": 7056.23,
-    "issueScore": 0,
-    "reviewScore": 36,
-    "commentScore": 57
+    "score": 9209.33,
+    "prScore": 9096.83,
+    "issueScore": 8,
+    "reviewScore": 33,
+    "commentScore": 71.5
   },
   "tier": "legend",
   "characterClass": "Builder",
   "stats": {
-    "commits": 1031,
-    "prs": 181,
-    "prsMerged": 146,
-    "prAdditions": 141698,
-    "prDeletions": 29090,
-    "prChangedFiles": 2222,
-    "prMergeRate": 81,
-    "issues": 0,
-    "issuesClosed": 0,
-    "reviews": 12,
+    "commits": 1397,
+    "prs": 203,
+    "prsMerged": 169,
+    "prAdditions": 176681,
+    "prDeletions": 33450,
+    "prChangedFiles": 2340,
+    "prMergeRate": 83,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 11,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 114,
-    "commitAdditions": 221478,
-    "commitDeletions": 87854,
-    "commitChangedFiles": 5303
+    "comments": 143
   },
   "period": {
     "weekly": {
-      "prs": 77,
-      "issues": 0,
-      "reviews": 8,
-      "comments": 32,
-      "commitAdditions": 185103,
-      "commitDeletions": 77896,
-      "commits": 547
+      "prs": 82,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 98
     },
     "monthly": {
-      "prs": 181,
-      "issues": 0,
-      "reviews": 12,
-      "comments": 114,
-      "commitAdditions": 219498,
-      "commitDeletions": 87505,
-      "commits": 1028
+      "prs": 203,
+      "issues": 1,
+      "reviews": 11,
+      "comments": 143
     }
   },
-  "firstContribution": "2026-03-06T05:20:31Z",
-  "lastContribution": "2026-03-20T06:41:21Z",
+  "firstContribution": "2026-03-09T16:49:12Z",
+  "lastContribution": "2026-03-27T02:01:58Z",
   "recentPRs": [
     {
-      "number": 50055,
-      "title": "docs: fix tools nav A-Z, split plugin page, consolidate sandbox docs, add OpenShell page",
+      "number": 55476,
+      "title": "Align ACPX built-in agent registry with latest acpx",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-18T22:43:47Z",
-      "mergedAt": "2026-03-18T22:44:08Z",
-      "additions": 1798,
-      "deletions": 2364,
-      "changedFiles": 7
+      "createdAt": "2026-03-27T02:00:51Z",
+      "mergedAt": "2026-03-27T02:15:18Z",
+      "additions": 153,
+      "deletions": 26,
+      "changedFiles": 8
     },
     {
-      "number": 49570,
-      "title": "Main recovery: restore formatter and contract checks",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-18T07:29:44Z",
-      "mergedAt": "2026-03-18T07:30:01Z",
-      "additions": 475,
-      "deletions": 326,
-      "changedFiles": 78
-    },
-    {
-      "number": 49555,
-      "title": "Plugin SDK: restore read-only directory inspection seam",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-18T07:10:02Z",
-      "mergedAt": "2026-03-18T07:10:35Z",
-      "additions": 37,
-      "deletions": 36,
-      "changedFiles": 4
-    },
-    {
-      "number": 49553,
-      "title": "Plugin SDK: restore read-only directory inspection seam",
-      "state": "CLOSED",
+      "number": 54536,
+      "title": "fix(gateway/auth): local trusted-proxy fallback to require token auth",
+      "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-18T07:06:48Z",
+      "createdAt": "2026-03-25T15:31:44Z",
       "mergedAt": null,
-      "additions": 210,
-      "deletions": 28,
-      "changedFiles": 15
+      "additions": 263,
+      "deletions": 58,
+      "changedFiles": 5
     },
     {
-      "number": 49551,
-      "title": "Image generation: native provider migration and explicit capabilities",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-18T07:02:33Z",
-      "mergedAt": "2026-03-18T07:04:03Z",
-      "additions": 1056,
-      "deletions": 382,
-      "changedFiles": 19
+      "number": 54040,
+      "title": "fix(web-search): localize shared search cache",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T22:39:11Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 15,
+      "changedFiles": 2
     },
     {
-      "number": 49542,
-      "title": "Plugin SDK: guard package subpaths and fix Twitch setup export",
+      "number": 53992,
+      "title": "feat(gateway): add missing OpenAI-compatible endpoints (models and embeddings)",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-18T06:45:34Z",
-      "mergedAt": "2026-03-18T06:56:49Z",
-      "additions": 232,
-      "deletions": 51,
+      "createdAt": "2026-03-24T21:48:14Z",
+      "mergedAt": "2026-03-24T23:53:52Z",
+      "additions": 1011,
+      "deletions": 27,
       "changedFiles": 14
     },
     {
-      "number": 49533,
-      "title": "fix(plugins): add missing secret-input-schema build entry and Matrix runtime export",
+      "number": 53957,
+      "title": "fix(slack): trim DM reply overhead and restore Codex auto transport",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-18T06:25:14Z",
-      "mergedAt": "2026-03-18T06:28:24Z",
-      "additions": 10,
-      "deletions": 1,
-      "changedFiles": 3
+      "createdAt": "2026-03-24T21:02:47Z",
+      "mergedAt": "2026-03-24T22:03:40Z",
+      "additions": 684,
+      "deletions": 87,
+      "changedFiles": 15
     },
     {
-      "number": 49454,
-      "title": "Image generation: add fal provider",
+      "number": 53939,
+      "title": "perf(memory): builtin sqlite hot-path follow-ups",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-18T04:32:42Z",
-      "mergedAt": "2026-03-18T04:35:14Z",
-      "additions": 461,
-      "deletions": 0,
+      "createdAt": "2026-03-24T20:20:11Z",
+      "mergedAt": "2026-03-24T21:47:40Z",
+      "additions": 255,
+      "deletions": 80,
+      "changedFiles": 4
+    },
+    {
+      "number": 53855,
+      "title": "fix(runtime): stabilize dist runtime artifacts",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T17:42:20Z",
+      "mergedAt": "2026-03-24T18:37:39Z",
+      "additions": 192,
+      "deletions": 23,
+      "changedFiles": 5
+    },
+    {
+      "number": 53844,
+      "title": "ci: start required checks earlier",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T17:24:19Z",
+      "mergedAt": "2026-03-24T18:37:58Z",
+      "additions": 150,
+      "deletions": 52,
+      "changedFiles": 7
+    },
+    {
+      "number": 53389,
+      "title": "fix(slack): improve interactive reply parity",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T04:51:48Z",
+      "mergedAt": "2026-03-24T17:23:10Z",
+      "additions": 763,
+      "deletions": 28,
+      "changedFiles": 17
+    },
+    {
+      "number": 53211,
+      "title": "fix(auth): stop live auth store writes from reverting fresh tokens",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T22:55:37Z",
+      "mergedAt": "2026-03-23T22:56:46Z",
+      "additions": 93,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 53155,
+      "title": "test(whatsapp): stabilize login coverage in shared workers",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T21:01:44Z",
+      "mergedAt": "2026-03-23T22:50:19Z",
+      "additions": 27703,
+      "deletions": 2051,
+      "changedFiles": 15
+    },
+    {
+      "number": 53134,
+      "title": "Infra: preserve shell multiplexer wrapper path for trust checks",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T20:33:31Z",
+      "mergedAt": "2026-03-24T02:04:04Z",
+      "additions": 191,
+      "deletions": 22,
       "changedFiles": 10
     },
     {
-      "number": 49372,
-      "title": "Gateway: cover trusted-proxy scope regression",
+      "number": 53133,
+      "title": "Infra: tighten shell-wrapper positional-argv allowlist matching",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-18T02:20:57Z",
-      "mergedAt": "2026-03-18T02:59:02Z",
-      "additions": 19,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 49371,
-      "title": "Guardrails: pin runtime-api export seams",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-18T02:20:56Z",
-      "mergedAt": "2026-03-18T03:30:14Z",
-      "additions": 149,
+      "createdAt": "2026-03-23T20:33:17Z",
+      "mergedAt": "2026-03-23T21:11:38Z",
+      "additions": 136,
       "deletions": 1,
       "changedFiles": 3
     },
     {
-      "number": 49367,
-      "title": "Deps: bump fast-xml-parser audit override",
+      "number": 53127,
+      "title": "fix(subagents): recheck timed-out announce waits",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-18T02:18:06Z",
-      "mergedAt": "2026-03-18T02:43:15Z",
-      "additions": 23,
-      "deletions": 7,
+      "createdAt": "2026-03-23T20:21:52Z",
+      "mergedAt": "2026-03-23T20:36:49Z",
+      "additions": 151,
+      "deletions": 27,
       "changedFiles": 3
     },
     {
-      "number": 49364,
-      "title": "Tests: pin Telegram fallback host",
+      "number": 53055,
+      "title": "fix(gateway): guard openrouter auto pricing recursion",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-18T02:14:15Z",
-      "mergedAt": "2026-03-18T03:32:38Z",
-      "additions": 32,
-      "deletions": 0,
-      "changedFiles": 2
+      "createdAt": "2026-03-23T17:42:21Z",
+      "mergedAt": "2026-03-23T17:43:01Z",
+      "additions": 51,
+      "deletions": 2,
+      "changedFiles": 3
     },
     {
-      "number": 49289,
-      "title": "Models: add native GPT-5.4 mini and nano support",
+      "number": 53054,
+      "title": "fix(mistral): repair max-token defaults and doctor migration",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-17T22:54:01Z",
-      "mergedAt": "2026-03-17T23:21:39Z",
-      "additions": 363,
-      "deletions": 21,
-      "changedFiles": 11
+      "createdAt": "2026-03-23T17:42:01Z",
+      "mergedAt": "2026-03-23T17:57:56Z",
+      "additions": 224,
+      "deletions": 10,
+      "changedFiles": 9
     },
     {
-      "number": 48850,
-      "title": "Commands: add /plugins install support",
-      "state": "OPEN",
+      "number": 53017,
+      "title": "fix(clawhub): resolve auth token for skill browsing",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T16:52:00Z",
+      "mergedAt": "2026-03-23T16:53:41Z",
+      "additions": 147,
+      "deletions": 22,
+      "changedFiles": 5
+    },
+    {
+      "number": 53001,
+      "title": "fix(reply): preserve debounced followup ordering",
+      "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-17T08:16:38Z",
+      "createdAt": "2026-03-23T16:26:39Z",
       "mergedAt": null,
-      "additions": 638,
-      "deletions": 320,
-      "changedFiles": 16
-    },
-    {
-      "number": 48773,
-      "title": "Telegram: fix named-account DM topic session keys",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T06:11:44Z",
-      "mergedAt": "2026-03-17T07:41:45Z",
-      "additions": 137,
-      "deletions": 29,
-      "changedFiles": 6
-    },
-    {
-      "number": 48767,
-      "title": "Tests: share provider registration helpers",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T05:50:23Z",
-      "mergedAt": "2026-03-17T05:50:40Z",
-      "additions": 27,
-      "deletions": 29,
-      "changedFiles": 3
-    },
-    {
-      "number": 48765,
-      "title": "Commands: add /plugins chat command",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T05:47:49Z",
-      "mergedAt": "2026-03-17T05:57:44Z",
-      "additions": 637,
-      "deletions": 274,
-      "changedFiles": 18
-    },
-    {
-      "number": 48760,
-      "title": "Tests: dedupe contract helper plumbing",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T05:45:30Z",
-      "mergedAt": "2026-03-17T05:45:45Z",
-      "additions": 85,
-      "deletions": 127,
-      "changedFiles": 13
-    },
-    {
-      "number": 48751,
-      "title": "Tests: centralize contract coverage follow-ups",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T05:26:26Z",
-      "mergedAt": "2026-03-17T05:26:56Z",
-      "additions": 855,
-      "deletions": 793,
-      "changedFiles": 27
-    },
-    {
-      "number": 48737,
-      "title": "Agents: add OpenAI attribution headers",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T04:47:03Z",
-      "mergedAt": "2026-03-17T04:47:16Z",
-      "additions": 286,
-      "deletions": 17,
+      "additions": 187,
+      "deletions": 6,
       "changedFiles": 7
+    },
+    {
+      "number": 52991,
+      "title": "fix(plugins): unblock Discord/Slack message tool sends and Feishu media",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T16:02:34Z",
+      "mergedAt": "2026-03-23T16:04:58Z",
+      "additions": 128,
+      "deletions": 22,
+      "changedFiles": 7
+    },
+    {
+      "number": 52964,
+      "title": "fix(config): keep built-in channels out of plugin allowlists",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T15:24:06Z",
+      "mergedAt": "2026-03-23T15:26:52Z",
+      "additions": 25,
+      "deletions": 4,
+      "changedFiles": 3
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 53207,
+      "title": "Auth/OpenAI: fresh token save can revert to stale expired profile under live gateway",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T22:49:30Z",
+      "closedAt": "2026-03-23T22:56:48Z"
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 53020,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T17:29:51Z"
+    },
+    {
+      "prNumber": 53020,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T17:23:17Z"
+    },
     {
       "prNumber": 46763,
       "state": "COMMENTED",
@@ -319,24 +328,44 @@
       "prNumber": 42256,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T15:22:08Z"
-    },
-    {
-      "prNumber": 40185,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T16:36:45Z"
-    },
-    {
-      "prNumber": 38438,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T16:25:12Z"
-    },
-    {
-      "prNumber": 38418,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T01:07:31Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 21,
+      "issues": 1,
+      "reviews": 2
+    },
+    "2026-03-22": {
+      "prs": 32,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 15,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 12,
       "issues": 0,
@@ -385,27 +414,13 @@
     "2026-03-09": {
       "prs": 7,
       "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-08": {
-      "prs": 17,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 17,
-      "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-06": {
-      "prs": 26,
-      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
@@ -470,40 +485,11 @@
       "id": "mega-coder",
       "label": "Mega Coder",
       "description": "50K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-20": 23,
-    "2026-03-19": 96,
-    "2026-03-18": 137,
-    "2026-03-17": 56,
-    "2026-03-16": 177,
-    "2026-03-15": 35,
-    "2026-03-14": 13,
-    "2026-03-13": 20,
-    "2026-03-12": 37,
-    "2026-03-11": 11,
-    "2026-03-10": 6,
-    "2026-03-09": 6,
-    "2026-03-08": 95,
-    "2026-03-07": 26,
-    "2026-03-06": 55,
-    "2026-03-05": 8,
-    "2026-03-04": 9,
-    "2026-03-03": 22,
-    "2026-03-02": 29,
-    "2026-03-01": 26,
-    "2026-02-28": 16,
-    "2026-02-27": 9,
-    "2026-02-26": 6,
-    "2026-02-25": 14,
-    "2026-02-24": 7,
-    "2026-02-23": 18,
-    "2026-02-22": 14,
-    "2026-02-21": 40,
-    "2026-02-19": 17,
-    "2026-02-14": 1,
-    "2026-02-13": 1,
-    "2026-02-05": 1
-  }
+  ]
 }

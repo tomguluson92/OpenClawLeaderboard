@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3897889?u=e4f80f197f67f7a84d73ef304e0126d810c83bbe&v=4",
   "githubUrl": "https://github.com/seasonmac",
   "score": {
-    "score": 173.63,
+    "score": 168.63,
     "prScore": 163.63,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 2
   },
@@ -19,34 +19,25 @@
     "prDeletions": 16,
     "prChangedFiles": 88,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 1,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
   "firstContribution": "2026-03-11T09:12:29Z",
@@ -75,15 +66,7 @@
       "changedFiles": 44
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43991,
-      "title": "[Feature]:  Support HarmonyOS Node App for OpenClaw,Please help to review",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T11:35:55Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 43974,
@@ -94,7 +77,7 @@
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 1
     },
     "2026-03-11": {
@@ -106,7 +89,6 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion",
     "Large-Scale Changes"
   ],
@@ -115,12 +97,6 @@
       "id": "prolific",
       "label": "Prolific Coder",
       "description": "10K+ lines added"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/212682418?u=4d1dbd8e875bff95cc08890818abd4f40294959f&v=4",
   "githubUrl": "https://github.com/edubur",
   "score": {
-    "score": 13.73,
-    "prScore": 8.73,
-    "issueScore": 5,
+    "score": 38.53,
+    "prScore": 23.53,
+    "issueScore": 15,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 15,
-    "prDeletions": 2,
-    "prChangedFiles": 2,
+    "prAdditions": 46,
+    "prDeletions": 6,
+    "prChangedFiles": 8,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 3,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 2,
+      "issues": 3,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-14T15:17:08Z",
-  "lastContribution": "2026-03-14T15:38:22Z",
+  "lastContribution": "2026-03-22T16:53:09Z",
   "recentPRs": [
+    {
+      "number": 52356,
+      "title": "clarify persistent session target vs thread-bound session UX",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T16:17:46Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 4,
+      "changedFiles": 6
+    },
     {
       "number": 46294,
       "title": "fix(control-ui): request operator.read/operator.write during connect",
@@ -66,6 +68,20 @@
   ],
   "recentIssues": [
     {
+      "number": 52378,
+      "title": "Clarify intended policy for browser in the coding tool profile, especially for main interactive sessions",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T16:53:09Z",
+      "closedAt": null
+    },
+    {
+      "number": 52345,
+      "title": "[Feature]: clarify persistent lane vs thread-bound session UX",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T15:54:40Z",
+      "closedAt": null
+    },
+    {
       "number": 46276,
       "title": "Control UI may connect with incomplete operator scopes after pairing/reconnect (`missing scope: operator.read`)",
       "state": "OPEN",
@@ -75,6 +91,11 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 1,
@@ -85,6 +106,5 @@
     "Pull Requests",
     "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4345826?v=4",
   "githubUrl": "https://github.com/nusquama",
   "score": {
-    "score": 20.88,
+    "score": 12.38,
     "prScore": 12.38,
-    "issueScore": 8,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 3,
     "prChangedFiles": 5,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-11T04:53:06Z",
+  "firstContribution": "2026-03-17T01:54:52Z",
   "lastContribution": "2026-03-17T01:54:52Z",
   "recentPRs": [
     {
@@ -64,33 +55,17 @@
       "changedFiles": 5
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42800,
-      "title": "bug: Azure OpenAI Responses API — store: false regression in 2026.3.8 breaks all multi-turn cron jobs",
-      "state": "CLOSED",
-      "createdAt": "2026-03-11T04:53:06Z",
-      "closedAt": "2026-03-11T08:16:12Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-17": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -1,0 +1,134 @@
+{
+  "username": "dennis-lynch",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59386026?v=4",
+  "githubUrl": "https://github.com/dennis-lynch",
+  "score": {
+    "score": 62.56,
+    "prScore": 41.56,
+    "issueScore": 20,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 273,
+    "prDeletions": 28,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 2
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 2
+    }
+  },
+  "firstContribution": "2026-03-23T18:12:20Z",
+  "lastContribution": "2026-03-26T07:03:48Z",
+  "recentPRs": [
+    {
+      "number": 54673,
+      "title": "fix(webchat): prevent system events from overwriting main session display name",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T19:58:40Z",
+      "mergedAt": null,
+      "additions": 108,
+      "deletions": 2,
+      "changedFiles": 4
+    },
+    {
+      "number": 54655,
+      "title": "webchat: persist per-session drafts on session switch + fix stop button visibility",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T19:30:24Z",
+      "mergedAt": null,
+      "additions": 118,
+      "deletions": 5,
+      "changedFiles": 5
+    },
+    {
+      "number": 53441,
+      "title": "fix(synology-chat): handle HEAD probe and return 200 on webhook ACK",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T05:59:44Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 21,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54983,
+      "title": "feat: Add vLLM reasoning/thinking toggle support (enable_thinking parameter)",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T07:02:33Z",
+      "closedAt": null
+    },
+    {
+      "number": 54661,
+      "title": "webchat: main session display name incorrectly overwritten by system event content",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T19:46:10Z",
+      "closedAt": null
+    },
+    {
+      "number": 54649,
+      "title": "webchat: persist draft messages on session switch + add stop/cancel button for agent turns",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T19:24:29Z",
+      "closedAt": null
+    },
+    {
+      "number": 53439,
+      "title": "fix(synology-chat): respond 200+body to webhook POST; handle HEAD probe",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T05:57:33Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

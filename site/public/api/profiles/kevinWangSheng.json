@@ -3,55 +3,178 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/118158941?v=4",
   "githubUrl": "https://github.com/kevinWangSheng",
   "score": {
-    "score": 155.06,
-    "prScore": 155.06,
+    "score": 220.37,
+    "prScore": 220.37,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 4,
-    "prs": 4,
+    "prs": 14,
     "prsMerged": 0,
-    "prAdditions": 952,
-    "prDeletions": 271,
-    "prChangedFiles": 38,
+    "prAdditions": 3105,
+    "prDeletions": 270,
+    "prChangedFiles": 42,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 221,
-    "commitDeletions": 10,
-    "commitChangedFiles": 11
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 12,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 14,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 221,
-      "commitDeletions": 10,
-      "commits": 4
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-06T05:36:23Z",
-  "lastContribution": "2026-03-15T02:38:05Z",
+  "firstContribution": "2026-03-15T02:37:55Z",
+  "lastContribution": "2026-03-25T13:35:42Z",
   "recentPRs": [
+    {
+      "number": 54489,
+      "title": "fix(chunk): prevent markdown code fence chunks from exceeding size limit",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T13:35:42Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 53625,
+      "title": "fix(cron): return strictly future timestamp for every-interval schedules on exact boundaries",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T10:47:50Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 53617,
+      "title": "fix(config): apply missing compaction and context pruning defaults in config snapshot",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T10:33:07Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 53519,
+      "title": "fix(auto-reply): pass agentId and topicId in Gemini corruption transcript cleanup",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T07:44:02Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 52782,
+      "title": "fix(auto-reply): pass topicId when cleaning up transcript after session reset",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T10:30:47Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 52557,
+      "title": "fix(voice-call): resolve pending TTS entries on queue clear to prevent hanging promises",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T01:28:00Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 52192,
+      "title": "fix(feishu): prevent duplicate text send when sendMedia has no media URL",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T10:34:40Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 52135,
+      "title": "fix(agents): enforce visibility guard after sessionId resolution in session_status",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T07:31:23Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 52134,
+      "title": "fix(acp): await finishPrompt on error state to prevent hanging prompts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T07:29:16Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51763,
+      "title": "fix(plugins): correct systemPrompt priority inversion in hook merging",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T16:58:33Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51556,
+      "title": "fix(pairing): propagate non-ENOENT errors in sync allowlist reader",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T10:51:01Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 51553,
+      "title": "fix(sessions): prevent stale cache read in updateLastRoute",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T10:33:37Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 46753,
       "title": "Cap global cache maps to prevent memory leaks in long-running processes",
@@ -59,8 +182,8 @@
       "merged": false,
       "createdAt": "2026-03-15T02:38:05Z",
       "mergedAt": null,
-      "additions": 455,
-      "deletions": 130,
+      "additions": 2644,
+      "deletions": 133,
       "changedFiles": 17
     },
     {
@@ -70,42 +193,40 @@
       "merged": false,
       "createdAt": "2026-03-15T02:37:55Z",
       "mergedAt": null,
-      "additions": 411,
-      "deletions": 130,
-      "changedFiles": 13
-    },
-    {
-      "number": 37246,
-      "title": "fix(gateway): secure ws:// hostname validation when allowPrivateWs enabled",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T05:41:22Z",
-      "mergedAt": null,
-      "additions": 75,
-      "deletions": 4,
-      "changedFiles": 7
-    },
-    {
-      "number": 37242,
-      "title": "fix(telegram): validate replyToMessageId is finite positive integer",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T05:36:23Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 7,
-      "changedFiles": 1
+      "additions": 395,
+      "deletions": 118,
+      "changedFiles": 12
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-15": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-06": {
+    "2026-03-22": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-15": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
@@ -115,10 +236,11 @@
     "Pull Requests",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-03": 1,
-    "2026-03-02": 2,
-    "2026-02-28": 1
-  }
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ]
 }

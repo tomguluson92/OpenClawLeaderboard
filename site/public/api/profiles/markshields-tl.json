@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/239231357?u=3e345bb35241dfb7496e7b6fe09536433a3d4acb&v=4",
   "githubUrl": "https://github.com/markshields-tl",
   "score": {
-    "score": 190.59,
-    "prScore": 157.09,
+    "score": 121.92,
+    "prScore": 96.42,
     "issueScore": 5,
-    "reviewScore": 24,
-    "commentScore": 4.5
+    "reviewScore": 18,
+    "commentScore": 2.5
   },
   "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 5299,
-    "prDeletions": 3412,
-    "prChangedFiles": 53,
+    "prAdditions": 3724,
+    "prDeletions": 3333,
+    "prChangedFiles": 31,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 8,
+    "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 5
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 2,
       "issues": 1,
       "reviews": 6,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 3,
-      "issues": 1,
-      "reviews": 8,
-      "comments": 9,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 5
     }
   },
-  "firstContribution": "2026-03-06T19:12:43Z",
+  "firstContribution": "2026-03-13T13:34:39Z",
   "lastContribution": "2026-03-13T23:09:50Z",
   "recentPRs": [
     {
@@ -73,17 +64,6 @@
       "additions": 1785,
       "deletions": 70,
       "changedFiles": 14
-    },
-    {
-      "number": 38278,
-      "title": "feat(slack): add mux receiver for openclaw-mux WebSocket mode",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T19:12:43Z",
-      "mergedAt": null,
-      "additions": 1575,
-      "deletions": 79,
-      "changedFiles": 22
     }
   ],
   "recentIssues": [
@@ -125,16 +105,6 @@
       "prNumber": 45132,
       "state": "COMMENTED",
       "createdAt": "2026-03-13T13:52:34Z"
-    },
-    {
-      "prNumber": 38278,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T21:53:43Z"
-    },
-    {
-      "prNumber": 38278,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T21:40:30Z"
     }
   ],
   "recentActivityDays": {
@@ -142,11 +112,6 @@
       "prs": 2,
       "issues": 1,
       "reviews": 6
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 2
     }
   },
   "skills": [
@@ -162,6 +127,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

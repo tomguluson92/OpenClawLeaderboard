@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2887205?u=58886447e80368d0301af218c22ca3167dc8cc5b&v=4",
   "githubUrl": "https://github.com/jonathangu",
   "score": {
-    "score": 12.97,
-    "prScore": 7.97,
+    "score": 26.09,
+    "prScore": 21.09,
     "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,45 +13,47 @@
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 13,
-    "prDeletions": 11,
-    "prChangedFiles": 1,
+    "prAdditions": 98,
+    "prDeletions": 14,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-16T02:24:46Z",
-  "lastContribution": "2026-03-17T15:36:51Z",
+  "lastContribution": "2026-03-21T23:26:30Z",
   "recentPRs": [
+    {
+      "number": 51930,
+      "title": "fix: normalize OpenClawBrain plugin install identity",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T23:26:30Z",
+      "mergedAt": null,
+      "additions": 85,
+      "deletions": 3,
+      "changedFiles": 4
+    },
     {
       "number": 49105,
       "title": "docs(skill): default codex examples to yolo when required",
@@ -75,6 +77,11 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-17": {
       "prs": 1,
       "issues": 0,
@@ -90,6 +97,5 @@
     "Pull Requests",
     "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

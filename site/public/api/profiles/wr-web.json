@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/55612496?u=fc3082d453f879b5219224f198fd6ee772e799ce&v=4",
   "githubUrl": "https://github.com/wr-web",
   "score": {
-    "score": 23.66,
+    "score": 23.16,
     "prScore": 23.16,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Builder",
@@ -24,38 +24,29 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-20T05:59:37Z",
+  "firstContribution": "2026-03-20T07:32:11Z",
   "lastContribution": "2026-03-20T07:32:11Z",
   "recentPRs": [
     {
       "number": 50908,
       "title": "fix(memory): incremental session sync — skip re-embedding existing transcript chunks (#40919)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-20T07:32:11Z",
       "mergedAt": null,
@@ -74,9 +65,7 @@
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

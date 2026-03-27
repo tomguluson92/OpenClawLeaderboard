@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/374123?u=e93aa05ba3abb53af89c69068b92404abdaee8d8&v=4",
   "githubUrl": "https://github.com/jbold",
   "score": {
-    "score": 49.91,
+    "score": 39.91,
     "prScore": 39.91,
-    "issueScore": 10,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 26,
     "prChangedFiles": 17,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-10T01:30:22Z",
+  "firstContribution": "2026-03-12T01:51:08Z",
   "lastContribution": "2026-03-12T01:51:08Z",
   "recentPRs": [
     {
@@ -64,39 +55,17 @@
       "changedFiles": 17
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43579,
-      "title": "feat(tts): add Deepgram Aura as first-class TTS provider",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T01:50:49Z",
-      "closedAt": null
-    },
-    {
-      "number": 41588,
-      "title": "Feature: Activity-aware run timeout (wall-clock timeout kills active multi-tool runs)",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T01:30:22Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 0,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

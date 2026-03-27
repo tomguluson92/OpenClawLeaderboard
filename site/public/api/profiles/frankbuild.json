@@ -3,65 +3,56 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/266174429?u=c4a101bbf56188c4b225eb47a946c2ad9d7c1344&v=4",
   "githubUrl": "https://github.com/frankbuild",
   "score": {
-    "score": 61.85,
-    "prScore": 40.35,
-    "issueScore": 10,
+    "score": 56.29,
+    "prScore": 45.29,
+    "issueScore": 0,
     "reviewScore": 9,
-    "commentScore": 2.5
+    "commentScore": 2
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 3,
-    "prsMerged": 0,
-    "prAdditions": 564,
+    "prsMerged": 1,
+    "prAdditions": 565,
     "prDeletions": 67,
-    "prChangedFiles": 10,
-    "prMergeRate": 0,
-    "issues": 2,
+    "prChangedFiles": 11,
+    "prMergeRate": 33,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 3,
-      "issues": 2,
+      "issues": 0,
       "reviews": 3,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-10T19:21:39Z",
-  "lastContribution": "2026-03-14T10:24:28Z",
+  "firstContribution": "2026-03-10T20:07:26Z",
+  "lastContribution": "2026-03-13T11:23:24Z",
   "recentPRs": [
     {
       "number": 43236,
       "title": "fix(telegram): deliver verbose tool summaries in forum topic sessions",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T13:54:37Z",
-      "mergedAt": null,
-      "additions": 32,
+      "mergedAt": "2026-03-26T03:34:55Z",
+      "additions": 33,
       "deletions": 1,
-      "changedFiles": 2
+      "changedFiles": 3
     },
     {
       "number": 42497,
@@ -86,22 +77,7 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43206,
-      "title": "[Telegram] Verbose tool output messages not delivered in forum topic sessions",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T13:23:31Z",
-      "closedAt": null
-    },
-    {
-      "number": 42464,
-      "title": "[Bug]: Isolated cron agentTurn jobs hang until timeout — providers reachable, interactive sessions unaffected",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T19:21:39Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 43236,
@@ -122,27 +98,19 @@
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 1
     },
     "2026-03-10": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 2
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

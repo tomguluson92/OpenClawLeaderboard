@@ -1,0 +1,92 @@
+{
+  "username": "flyer103",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/829039?u=ccd4c4d0823ff6fa483bfd089461ab079f000434&v=4",
+  "githubUrl": "https://github.com/flyer103",
+  "score": {
+    "score": 23.65,
+    "prScore": 16.65,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 65,
+    "prDeletions": 17,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4
+    }
+  },
+  "firstContribution": "2026-03-25T03:47:00Z",
+  "lastContribution": "2026-03-25T08:42:41Z",
+  "recentPRs": [
+    {
+      "number": 54352,
+      "title": "test: fix flaky format.test.ts by properly resetting mock state",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T08:15:21Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 54228,
+      "title": "fix: ensure skills snapshot refreshes on first turn when version is 0",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T04:25:12Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 15,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54209,
+      "title": "User-installed skills (openclaw-managed) not injected into agent's available_skills list",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T03:47:00Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

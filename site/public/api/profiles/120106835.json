@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/57889251?v=4",
   "githubUrl": "https://github.com/120106835",
   "score": {
-    "score": 12.48,
+    "score": 17.48,
     "prScore": 7.48,
-    "issueScore": 5,
+    "issueScore": 10,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 0,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-14T17:56:20Z",
-  "lastContribution": "2026-03-15T01:45:03Z",
+  "lastContribution": "2026-03-22T14:25:29Z",
   "recentPRs": [
     {
       "number": 46472,
@@ -66,6 +57,13 @@
   ],
   "recentIssues": [
     {
+      "number": 52289,
+      "title": "feat: Auto-cleanup stale session lock files on gateway startup",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T14:25:29Z",
+      "closedAt": null
+    },
+    {
       "number": 46723,
       "title": "Feishu: text content lost when sending image+text mixed message in group chat",
       "state": "OPEN",
@@ -80,6 +78,11 @@
       "issues": 0,
       "reviews": 0
     },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 0,
       "issues": 1,
@@ -90,6 +93,5 @@
     "Pull Requests",
     "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

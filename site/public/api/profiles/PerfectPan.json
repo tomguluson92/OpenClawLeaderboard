@@ -1,0 +1,114 @@
+{
+  "username": "PerfectPan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24316656?u=87ac86b9b962e4d29693595dfc10263fb59e2cef&v=4",
+  "githubUrl": "https://github.com/PerfectPan",
+  "score": {
+    "score": 64,
+    "prScore": 50,
+    "issueScore": 5,
+    "reviewScore": 9,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 364,
+    "prDeletions": 188,
+    "prChangedFiles": 19,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-22T12:46:24Z",
+  "lastContribution": "2026-03-22T13:47:09Z",
+  "recentPRs": [
+    {
+      "number": 52264,
+      "title": "fix(gateway): normalize explicit state dir overrides at startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T13:19:49Z",
+      "mergedAt": null,
+      "additions": 210,
+      "deletions": 149,
+      "changedFiles": 7
+    },
+    {
+      "number": 52262,
+      "title": "fix(plugins): reuse active registry during tool resolution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T13:17:55Z",
+      "mergedAt": null,
+      "additions": 154,
+      "deletions": 39,
+      "changedFiles": 12
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 52250,
+      "title": "[Bug]: Plugin-backed channels can become unknown in subagent flows when OPENCLAW_STATE_DIR is relative",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T12:46:24Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 52264,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T13:47:09Z"
+    },
+    {
+      "prNumber": 52262,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T13:46:33Z"
+    },
+    {
+      "prNumber": 52262,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T13:46:20Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 3
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

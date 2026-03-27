@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5648066?u=e99c32e60aa532343789048c4aca0dfb6de68050&v=4",
   "githubUrl": "https://github.com/4ier",
   "score": {
-    "score": 36.56,
-    "prScore": 22.56,
-    "issueScore": 5,
+    "score": 36.03,
+    "prScore": 17.03,
+    "issueScore": 10,
     "reviewScore": 9,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Reviewer",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 4,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 53,
-    "commitDeletions": 2,
-    "commitChangedFiles": 3
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 1,
-      "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 2,
       "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 53,
-      "commitDeletions": 2,
-      "commits": 1
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-13T10:46:01Z",
-  "lastContribution": "2026-03-15T09:00:59Z",
+  "lastContribution": "2026-03-20T15:51:43Z",
   "recentPRs": [
     {
       "number": 45072,
@@ -65,6 +56,13 @@
     }
   ],
   "recentIssues": [
+    {
+      "number": 51117,
+      "title": "Feishu plugin hardcodes disableBlockStreaming: true, ignoring blockStreamingDefault config",
+      "state": "OPEN",
+      "createdAt": "2026-03-20T15:51:43Z",
+      "closedAt": null
+    },
     {
       "number": 45010,
       "title": "Invalid signature in thinking block: empty thinkingSignature from Bedrock causes unrecoverable session errors",
@@ -96,6 +94,11 @@
       "issues": 1,
       "reviews": 0
     },
+    "2026-03-20": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 0,
       "issues": 0,
@@ -113,8 +116,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-02-28": 1
-  }
+  ]
 }

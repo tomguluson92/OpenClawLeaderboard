@@ -24,29 +24,20 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 17,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 17
   },
   "period": {
     "weekly": {
-      "prs": 8,
-      "issues": 7,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 17,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 8,
       "issues": 7,
       "reviews": 0,
-      "comments": 17,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 17
     }
   },
   "firstContribution": "2026-03-16T03:37:01Z",
@@ -216,6 +207,5 @@
       "label": "Bug Reporter",
       "description": "5+ issues filed"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

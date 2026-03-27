@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/238404526?v=4",
   "githubUrl": "https://github.com/uninhibite-scholar",
   "score": {
-    "score": 542.88,
-    "prScore": 527.88,
+    "score": 546.06,
+    "prScore": 528.06,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 15
+    "commentScore": 18
   },
   "tier": "veteran",
   "characterClass": "Builder",
@@ -15,63 +15,54 @@
     "commits": 0,
     "prs": 58,
     "prsMerged": 0,
-    "prAdditions": 2584,
-    "prDeletions": 794,
-    "prChangedFiles": 205,
+    "prAdditions": 2622,
+    "prDeletions": 797,
+    "prChangedFiles": 206,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 30,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 36
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 6
     },
     "monthly": {
       "prs": 58,
       "issues": 0,
       "reviews": 0,
-      "comments": 30,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 36
     }
   },
   "firstContribution": "2026-03-10T05:25:48Z",
-  "lastContribution": "2026-03-20T03:33:37Z",
+  "lastContribution": "2026-03-22T15:20:19Z",
   "recentPRs": [
     {
       "number": 50805,
-      "title": "fix(ui): use totalTokens for context usage display (#50196)",
+      "title": "fix(ui): use totalTokens for context usage display (#50196) - [REBASED]",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-20T03:33:37Z",
       "mergedAt": null,
-      "additions": 4,
+      "additions": 40,
       "deletions": 1,
-      "changedFiles": 1
+      "changedFiles": 2
     },
     {
       "number": 50469,
-      "title": "fix: normalizeModelValue should preserve provider prefix for proper model switching",
+      "title": "fix: remove duplicate const matches declaration - [REBASED]",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-19T14:27:17Z",
       "mergedAt": null,
-      "additions": 53,
-      "deletions": 20,
+      "additions": 49,
+      "deletions": 23,
       "changedFiles": 5
     },
     {
@@ -81,7 +72,7 @@
       "merged": false,
       "createdAt": "2026-03-12T02:35:43Z",
       "mergedAt": null,
-      "additions": 9,
+      "additions": 15,
       "deletions": 3,
       "changedFiles": 1
     },
@@ -322,6 +313,5 @@
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

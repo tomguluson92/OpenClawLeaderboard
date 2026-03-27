@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/265483407?u=e66080df7cd22937921bed604fb37bdc44266145&v=4",
   "githubUrl": "https://github.com/X-AlexBin",
   "score": {
-    "score": 113.51,
-    "prScore": 113.01,
+    "score": 19.34,
+    "prScore": 19.34,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 5555,
-    "prDeletions": 259,
-    "prChangedFiles": 30,
+    "prAdditions": 325,
+    "prDeletions": 31,
+    "prChangedFiles": 7,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-06T08:54:12Z",
-  "lastContribution": "2026-03-10T13:10:46Z",
+  "firstContribution": "2026-03-10T11:37:10Z",
+  "lastContribution": "2026-03-10T11:37:10Z",
   "recentPRs": [
     {
       "number": 42091,
@@ -62,50 +53,6 @@
       "additions": 325,
       "deletions": 31,
       "changedFiles": 7
-    },
-    {
-      "number": 41015,
-      "title": "fix(terminal): fallback to ASCII borders on legacy Windows consoles",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T13:07:00Z",
-      "mergedAt": null,
-      "additions": 22,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 40655,
-      "title": "fix(ui): language selector sync and locale restore on Overview tab",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T05:57:57Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 4,
-      "changedFiles": 1
-    },
-    {
-      "number": 40495,
-      "title": "[feature] Skills: migrate Anthropic skill-creator (agents, eval viewer, references, scripts) into repo-managed skills/skill-creator",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T03:04:20Z",
-      "mergedAt": null,
-      "additions": 5097,
-      "deletions": 222,
-      "changedFiles": 16
-    },
-    {
-      "number": 37490,
-      "title": "UI: label dashboard vs feishu message source",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T08:54:12Z",
-      "mergedAt": null,
-      "additions": 104,
-      "deletions": 1,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [],
@@ -115,23 +62,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion",
-    "Large-Scale Changes"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

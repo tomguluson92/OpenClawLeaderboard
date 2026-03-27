@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/37019497?u=4f6196888b98418ca46ac2d895c7da62a5f8871e&v=4",
   "githubUrl": "https://github.com/jared596",
   "score": {
-    "score": 19.31,
-    "prScore": 19.31,
+    "score": 30.62,
+    "prScore": 30.62,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -14,39 +14,30 @@
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 347,
-    "prDeletions": 4,
-    "prChangedFiles": 7,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 508,
+    "prDeletions": 9,
+    "prChangedFiles": 11,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-18T05:00:12Z",
@@ -55,13 +46,13 @@
     {
       "number": 49479,
       "title": "Trigger preflight compaction from transcript estimates when usage is stale",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-18T05:00:12Z",
-      "mergedAt": null,
-      "additions": 347,
-      "deletions": 4,
-      "changedFiles": 7
+      "mergedAt": "2026-03-25T20:22:16Z",
+      "additions": 508,
+      "deletions": 9,
+      "changedFiles": 11
     }
   ],
   "recentIssues": [],
@@ -76,6 +67,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

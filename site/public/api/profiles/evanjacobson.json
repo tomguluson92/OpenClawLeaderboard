@@ -1,0 +1,120 @@
+{
+  "username": "evanjacobson",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17690748?u=94e7bfbe16df3b84f39fb12aff88bd35c3657548&v=4",
+  "githubUrl": "https://github.com/evanjacobson",
+  "score": {
+    "score": 72.47,
+    "prScore": 72.47,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 5,
+    "prsMerged": 0,
+    "prAdditions": 660,
+    "prDeletions": 55,
+    "prChangedFiles": 19,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-20T23:23:40Z",
+  "lastContribution": "2026-03-24T23:32:38Z",
+  "recentPRs": [
+    {
+      "number": 54086,
+      "title": "perf(cli): defer plugin loading in pairing CLI to action time",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T23:32:38Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 17,
+      "changedFiles": 3
+    },
+    {
+      "number": 54085,
+      "title": "perf(cli): skip process respawn for short-lived CLI commands",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T23:31:56Z",
+      "mergedAt": null,
+      "additions": 135,
+      "deletions": 18,
+      "changedFiles": 3
+    },
+    {
+      "number": 54084,
+      "title": "perf(cli): add fast route for pairing list",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T23:31:52Z",
+      "mergedAt": null,
+      "additions": 348,
+      "deletions": 2,
+      "changedFiles": 7
+    },
+    {
+      "number": 54082,
+      "title": "perf(cli): eliminate extra process spawn in dev runner",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T23:30:21Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 16,
+      "changedFiles": 2
+    },
+    {
+      "number": 51318,
+      "title": "feat(agents): add --skip-bootstrap flag to agents add",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T23:23:40Z",
+      "mergedAt": null,
+      "additions": 101,
+      "deletions": 2,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": []
+}

@@ -1,0 +1,160 @@
+{
+  "username": "amzzzzzzz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/154392693?u=df1599ac33c59276d7633f3a13bd8f7f14e3ada2&v=4",
+  "githubUrl": "https://github.com/amzzzzzzz",
+  "score": {
+    "score": 153.42,
+    "prScore": 118.92,
+    "issueScore": 15,
+    "reviewScore": 18,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 7787,
+    "prDeletions": 58,
+    "prChangedFiles": 39,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 6,
+      "comments": 2
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 6,
+      "comments": 3
+    }
+  },
+  "firstContribution": "2026-03-13T18:11:02Z",
+  "lastContribution": "2026-03-25T04:55:22Z",
+  "recentPRs": [
+    {
+      "number": 53260,
+      "title": "feat(diagnostics): add tool.call and tool.result events",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T00:55:20Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 6,
+      "changedFiles": 4
+    },
+    {
+      "number": 51823,
+      "title": "feat(infra): session health lifecycle visibility + remediation groundwork",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T18:59:53Z",
+      "mergedAt": null,
+      "additions": 7730,
+      "deletions": 52,
+      "changedFiles": 35
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54243,
+      "title": "[Bug]: `backup create --no-include-workspace` still includes workspace contents via `~/.openclaw` state asset",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T04:55:22Z",
+      "closedAt": null
+    },
+    {
+      "number": 54242,
+      "title": "[Bug]: backup archives can contain hardlink targets with '..' that fail broad extraction on macOS tar",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T04:55:04Z",
+      "closedAt": null
+    },
+    {
+      "number": 46090,
+      "title": "[Bug]: built-in browser profile \"user\" (existing-session / Chrome MCP) fails to attach on macOS even after enabling remote debugging",
+      "state": "OPEN",
+      "createdAt": "2026-03-14T12:17:56Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 51823,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T21:23:37Z"
+    },
+    {
+      "prNumber": 51823,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T21:23:36Z"
+    },
+    {
+      "prNumber": 51823,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T21:04:10Z"
+    },
+    {
+      "prNumber": 51823,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T21:04:09Z"
+    },
+    {
+      "prNumber": 51823,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T21:04:08Z"
+    },
+    {
+      "prNumber": 51823,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T21:04:07Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-14": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

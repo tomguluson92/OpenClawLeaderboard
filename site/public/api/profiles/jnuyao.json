@@ -3,55 +3,101 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2928523?u=3ceceed3638a3a4f2663336fce784aeb10657bca&v=4",
   "githubUrl": "https://github.com/jnuyao",
   "score": {
-    "score": 93.24,
-    "prScore": 85.24,
+    "score": 201.47,
+    "prScore": 147.47,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 5
+    "reviewScore": 45,
+    "commentScore": 9
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "active",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 13,
     "prsMerged": 1,
-    "prAdditions": 485,
-    "prDeletions": 31,
-    "prChangedFiles": 14,
-    "prMergeRate": 13,
+    "prAdditions": 1603,
+    "prDeletions": 717,
+    "prChangedFiles": 23,
+    "prMergeRate": 8,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 15,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 18
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 5,
       "issues": 0,
-      "reviews": 1,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 14,
+      "comments": 8
     },
     "monthly": {
-      "prs": 8,
+      "prs": 13,
       "issues": 0,
-      "reviews": 1,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 15,
+      "comments": 18
     }
   },
   "firstContribution": "2026-03-13T09:02:33Z",
-  "lastContribution": "2026-03-16T17:59:17Z",
+  "lastContribution": "2026-03-20T13:03:16Z",
   "recentPRs": [
+    {
+      "number": 51032,
+      "title": "feat(feishu): display group name instead of chat_id in session labels",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T12:20:45Z",
+      "mergedAt": null,
+      "additions": 205,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51015,
+      "title": "feat(feishu): display group name instead of chat_id in session labels",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T11:52:25Z",
+      "mergedAt": null,
+      "additions": 224,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51009,
+      "title": "feat(feishu): display group name instead of chat_id in session labels",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T11:43:47Z",
+      "mergedAt": null,
+      "additions": 179,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51003,
+      "title": "feat(feishu): display group name instead of chat_id in session dropdown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T11:25:35Z",
+      "mergedAt": null,
+      "additions": 185,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 50995,
+      "title": "feat(feishu): auto-populate session label with group chat name",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T10:56:10Z",
+      "mergedAt": null,
+      "additions": 325,
+      "deletions": 682,
+      "changedFiles": 1
+    },
     {
       "number": 48410,
       "title": "fix(ui): prevent marked from auto-linking adjacent CJK characters",
@@ -144,12 +190,87 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 51032,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:36:45Z"
+    },
+    {
+      "prNumber": 51032,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:36:43Z"
+    },
+    {
+      "prNumber": 51032,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:28:19Z"
+    },
+    {
+      "prNumber": 51032,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:28:18Z"
+    },
+    {
+      "prNumber": 51032,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:28:16Z"
+    },
+    {
+      "prNumber": 51032,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:28:15Z"
+    },
+    {
+      "prNumber": 51015,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:11:42Z"
+    },
+    {
+      "prNumber": 51015,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:01:41Z"
+    },
+    {
+      "prNumber": 51015,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:01:40Z"
+    },
+    {
+      "prNumber": 51015,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:01:39Z"
+    },
+    {
+      "prNumber": 51003,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T11:39:51Z"
+    },
+    {
+      "prNumber": 51003,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T11:33:02Z"
+    },
+    {
+      "prNumber": 51003,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T11:33:01Z"
+    },
+    {
+      "prNumber": 51003,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T11:32:59Z"
+    },
+    {
       "prNumber": 48394,
       "state": "COMMENTED",
       "createdAt": "2026-03-16T17:38:07Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 14
+    },
     "2026-03-16": {
       "prs": 2,
       "issues": 0,
@@ -171,6 +292,16 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ]
 }

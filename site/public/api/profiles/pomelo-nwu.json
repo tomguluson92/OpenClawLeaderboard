@@ -3,79 +3,70 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10703060?u=357d9e781c1dbc88b494a6425fc1536250d99883&v=4",
   "githubUrl": "https://github.com/pomelo-nwu",
   "score": {
-    "score": 109.33,
-    "prScore": 103.33,
-    "issueScore": 5,
+    "score": 128.49,
+    "prScore": 120.49,
+    "issueScore": 8,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 1,
-    "prAdditions": 532,
-    "prDeletions": 1,
-    "prChangedFiles": 21,
+    "prAdditions": 127,
+    "prDeletions": 1453,
+    "prChangedFiles": 65,
     "prMergeRate": 100,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 503,
-    "commitDeletions": 140,
-    "commitChangedFiles": 23
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 1,
+      "prs": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 503,
-      "commitDeletions": 140,
-      "commits": 2
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-09T05:27:35Z",
-  "lastContribution": "2026-03-18T07:15:21Z",
+  "firstContribution": "2026-03-18T07:15:21Z",
+  "lastContribution": "2026-03-23T07:44:48Z",
   "recentPRs": [
     {
-      "number": 40634,
-      "title": "feat: integrate Alibaba Cloud Model Studio Coding Plan into onboarding wizard",
+      "number": 52709,
+      "title": "Remove Qwen OAuth integration (qwen-portal-auth)",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-09T05:27:35Z",
-      "mergedAt": "2026-03-10T19:58:44Z",
-      "additions": 532,
-      "deletions": 1,
-      "changedFiles": 21
+      "createdAt": "2026-03-23T07:44:48Z",
+      "mergedAt": "2026-03-26T08:32:34Z",
+      "additions": 127,
+      "deletions": 1453,
+      "changedFiles": 65
     }
   ],
   "recentIssues": [
     {
       "number": 49557,
       "title": "[Announcement] Deprecation Notice: Qwen OAuth Integration",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-18T07:15:21Z",
-      "closedAt": null
+      "closedAt": "2026-03-26T08:32:37Z"
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-09": {
+    "2026-03-23": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -88,11 +79,7 @@
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-10": 2
-  }
+  "achievements": []
 }

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/42547246?v=4",
   "githubUrl": "https://github.com/minupla",
   "score": {
-    "score": 22.96,
-    "prScore": 17.96,
-    "issueScore": 5,
+    "score": 25,
+    "prScore": 10,
+    "issueScore": 15,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 2,
     "prs": 0,
@@ -19,40 +19,45 @@
     "prDeletions": 0,
     "prChangedFiles": 0,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 3,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 194,
-    "commitDeletions": 7,
-    "commitChangedFiles": 5
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 1,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 0,
-      "issues": 1,
+      "issues": 3,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 194,
-      "commitDeletions": 7,
-      "commits": 2
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-16T20:40:07Z",
-  "lastContribution": "2026-03-16T20:40:07Z",
+  "lastContribution": "2026-03-24T02:27:34Z",
   "recentPRs": [],
   "recentIssues": [
+    {
+      "number": 53308,
+      "title": "Signal groups: messages dropped due to groupAllowFrom sender mismatch and requireMention defaulting to true",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T02:27:34Z",
+      "closedAt": null
+    },
+    {
+      "number": 53040,
+      "title": "Signal SSE stream fails on Node.js v25 (macOS, npm install)",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T17:18:08Z",
+      "closedAt": null
+    },
     {
       "number": 48478,
       "title": "feat: Cancel and restart generation on new inbound message during active response (interrupt mode)",
@@ -63,6 +68,16 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-16": {
       "prs": 0,
       "issues": 1,
@@ -73,9 +88,5 @@
     "Issue Reporting",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-02": 1,
-    "2026-02-20": 1
-  }
+  "achievements": []
 }

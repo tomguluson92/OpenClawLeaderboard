@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/247890377?u=012a68f3888974a76249d5acd8cecf86a39565ee&v=4",
   "githubUrl": "https://github.com/TechFath3r",
   "score": {
-    "score": 32.87,
-    "prScore": 9.87,
+    "score": 74.06,
+    "prScore": 51.06,
     "issueScore": 5,
     "reviewScore": 18,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 119,
-    "prDeletions": 0,
-    "prChangedFiles": 2,
+    "prAdditions": 2224,
+    "prDeletions": 27362,
+    "prChangedFiles": 12,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 1,
-      "reviews": 6,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 6,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-19T12:30:18Z",
-  "lastContribution": "2026-03-19T12:58:13Z",
+  "lastContribution": "2026-03-24T14:19:23Z",
   "recentPRs": [
+    {
+      "number": 53736,
+      "title": "feat: add tools.exec.denyPatterns config for blocking commands by regex",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T14:19:23Z",
+      "mergedAt": null,
+      "additions": 2104,
+      "deletions": 27362,
+      "changedFiles": 10
+    },
     {
       "number": 50426,
       "title": "fix(agents): throw FailoverError at retry limit when fallback is configured",
@@ -59,7 +61,7 @@
       "merged": false,
       "createdAt": "2026-03-19T12:45:16Z",
       "mergedAt": null,
-      "additions": 119,
+      "additions": 120,
       "deletions": 0,
       "changedFiles": 2
     }
@@ -106,6 +108,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 1,
@@ -115,7 +122,8 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting"
+    "Issue Reporting",
+    "Large-Scale Changes"
   ],
   "achievements": [
     {
@@ -123,6 +131,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

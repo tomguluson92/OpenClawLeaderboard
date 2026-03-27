@@ -3,55 +3,101 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/830519?v=4",
   "githubUrl": "https://github.com/joshavant",
   "score": {
-    "score": 1169.76,
-    "prScore": 1035.76,
+    "score": 1190.33,
+    "prScore": 1052.33,
     "issueScore": 5,
-    "reviewScore": 99,
-    "commentScore": 30
+    "reviewScore": 114,
+    "commentScore": 19
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
-    "commits": 113,
-    "prs": 31,
-    "prsMerged": 26,
-    "prAdditions": 35305,
-    "prDeletions": 8814,
-    "prChangedFiles": 992,
-    "prMergeRate": 84,
+    "commits": 117,
+    "prs": 33,
+    "prsMerged": 28,
+    "prAdditions": 23534,
+    "prDeletions": 2198,
+    "prChangedFiles": 509,
+    "prMergeRate": 85,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 33,
+    "reviews": 38,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 60,
-    "commitAdditions": 66914,
-    "commitDeletions": 11624,
-    "commitChangedFiles": 1482
+    "comments": 38
   },
   "period": {
     "weekly": {
-      "prs": 20,
-      "issues": 1,
-      "reviews": 20,
-      "comments": 31,
-      "commitAdditions": 9441,
-      "commitDeletions": 1199,
-      "commits": 20
+      "prs": 5,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 4
     },
     "monthly": {
-      "prs": 31,
+      "prs": 33,
       "issues": 1,
-      "reviews": 33,
-      "comments": 60,
-      "commitAdditions": 66616,
-      "commitDeletions": 11535,
-      "commits": 111
+      "reviews": 38,
+      "comments": 38
     }
   },
-  "firstContribution": "2026-03-07T02:10:04Z",
-  "lastContribution": "2026-03-20T02:49:38Z",
+  "firstContribution": "2026-03-10T01:47:26Z",
+  "lastContribution": "2026-03-26T19:15:17Z",
   "recentPRs": [
+    {
+      "number": 55339,
+      "title": "feat(hooks): add async requireApproval to before_tool_call",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T19:15:17Z",
+      "mergedAt": null,
+      "additions": 4510,
+      "deletions": 252,
+      "changedFiles": 59
+    },
+    {
+      "number": 54241,
+      "title": "Plugins: enforce terminal hook decision semantics for tool/message guards",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T04:51:27Z",
+      "mergedAt": "2026-03-25T05:11:14Z",
+      "additions": 435,
+      "deletions": 27,
+      "changedFiles": 10
+    },
+    {
+      "number": 51500,
+      "title": "Voice Call: enforce spoken-output contract and fix stream TTS silence regression",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T08:00:52Z",
+      "mergedAt": "2026-03-21T09:15:16Z",
+      "additions": 1558,
+      "deletions": 146,
+      "changedFiles": 20
+    },
+    {
+      "number": 51207,
+      "title": "Exec: harden host env override handling across gateway and node",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T19:42:37Z",
+      "mergedAt": "2026-03-20T20:44:15Z",
+      "additions": 507,
+      "deletions": 44,
+      "changedFiles": 14
+    },
+    {
+      "number": 51202,
+      "title": "LINE: harden Express webhook parsing to verified raw body",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T19:32:58Z",
+      "mergedAt": "2026-03-20T20:32:55Z",
+      "additions": 91,
+      "deletions": 5,
+      "changedFiles": 4
+    },
     {
       "number": 50782,
       "title": "Gateway: harden OpenResponses file-context escaping",
@@ -216,61 +262,6 @@
       "additions": 86,
       "deletions": 7,
       "changedFiles": 2
-    },
-    {
-      "number": 49296,
-      "title": "CLI: expand config set with SecretRef/provider builders and dry-run",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T23:14:02Z",
-      "mergedAt": "2026-03-17T23:15:49Z",
-      "additions": 2102,
-      "deletions": 32,
-      "changedFiles": 14
-    },
-    {
-      "number": 49240,
-      "title": "Tests: stabilize extension-fast inferable lane harnesses",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-17T20:50:04Z",
-      "mergedAt": null,
-      "additions": 116,
-      "deletions": 84,
-      "changedFiles": 6
-    },
-    {
-      "number": 48728,
-      "title": "fix(secrets): scope message SecretRef resolution and harden doctor/status paths",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T04:18:31Z",
-      "mergedAt": "2026-03-17T05:01:34Z",
-      "additions": 854,
-      "deletions": 76,
-      "changedFiles": 27
-    },
-    {
-      "number": 47794,
-      "title": "secrets: harden read-only SecretRef command paths and diagnostics",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-16T02:19:21Z",
-      "mergedAt": "2026-03-16T02:55:24Z",
-      "additions": 1368,
-      "deletions": 103,
-      "changedFiles": 40
-    },
-    {
-      "number": 45622,
-      "title": "Gateway: treat scope-limited probe RPC as degraded reachability",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-14T01:59:29Z",
-      "mergedAt": "2026-03-14T04:13:34Z",
-      "additions": 394,
-      "deletions": 93,
-      "changedFiles": 25
     }
   ],
   "recentIssues": [
@@ -283,6 +274,31 @@
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 51207,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T20:41:28Z"
+    },
+    {
+      "prNumber": 51207,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T20:41:28Z"
+    },
+    {
+      "prNumber": 51207,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T19:58:09Z"
+    },
+    {
+      "prNumber": 51207,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T19:58:09Z"
+    },
+    {
+      "prNumber": 51207,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T19:58:09Z"
+    },
     {
       "prNumber": 50167,
       "state": "COMMENTED",
@@ -357,38 +373,28 @@
       "prNumber": 49322,
       "state": "COMMENTED",
       "createdAt": "2026-03-18T00:48:54Z"
-    },
-    {
-      "prNumber": 49322,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-18T00:48:54Z"
-    },
-    {
-      "prNumber": 48728,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T04:35:36Z"
-    },
-    {
-      "prNumber": 48728,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T04:33:21Z"
-    },
-    {
-      "prNumber": 47794,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-16T02:40:37Z"
-    },
-    {
-      "prNumber": 47794,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-16T02:40:31Z"
     }
   ],
   "recentActivityDays": {
-    "2026-03-20": {
+    "2026-03-26": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 5
     },
     "2026-03-19": {
       "prs": 4,
@@ -429,11 +435,6 @@
       "prs": 6,
       "issues": 0,
       "reviews": 9
-    },
-    "2026-03-07": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -480,25 +481,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-20": 2,
-    "2026-03-19": 6,
-    "2026-03-18": 6,
-    "2026-03-17": 4,
-    "2026-03-16": 1,
-    "2026-03-14": 1,
-    "2026-03-12": 1,
-    "2026-03-11": 1,
-    "2026-03-10": 8,
-    "2026-03-08": 1,
-    "2026-03-07": 1,
-    "2026-03-06": 3,
-    "2026-03-05": 2,
-    "2026-03-04": 2,
-    "2026-03-03": 5,
-    "2026-02-26": 65,
-    "2026-02-19": 2,
-    "2026-02-17": 2
-  }
+  ]
 }

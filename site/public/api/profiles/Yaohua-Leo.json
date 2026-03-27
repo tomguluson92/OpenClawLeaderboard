@@ -3,55 +3,189 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/243496201?u=23987ee1dde5ddf96c7110dca82bf3c98d5d8166&v=4",
   "githubUrl": "https://github.com/Yaohua-Leo",
   "score": {
-    "score": 8.53,
-    "prScore": 8.03,
-    "issueScore": 0,
+    "score": 225.4,
+    "prScore": 210.9,
+    "issueScore": 8,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 6.5
   },
-  "tier": "beginner",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 14,
     "prsMerged": 0,
-    "prAdditions": 27,
-    "prDeletions": 3,
-    "prChangedFiles": 1,
+    "prAdditions": 1372,
+    "prDeletions": 484,
+    "prChangedFiles": 90,
     "prMergeRate": 0,
-    "issues": 0,
-    "issuesClosed": 0,
+    "issues": 1,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 13
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 13,
+      "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 12
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 14,
+      "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 13
     }
   },
   "firstContribution": "2026-03-20T00:52:47Z",
-  "lastContribution": "2026-03-20T02:17:08Z",
+  "lastContribution": "2026-03-26T08:30:15Z",
   "recentPRs": [
+    {
+      "number": 55038,
+      "title": "fix(subagent): resolve subagent-specific runTimeoutSeconds from config",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T08:30:15Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 14,
+      "changedFiles": 5
+    },
+    {
+      "number": 51875,
+      "title": "fix(telegram): use openclaw/plugin-sdk subpath imports (#51815)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T20:50:50Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 51846,
+      "title": "fix(ui): resolve model alias in qualified refs for Control UI model picker",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T19:43:00Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 51834,
+      "title": "fix(ui): resolve ambiguous model IDs using current session provider (#51824)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T19:19:27Z",
+      "mergedAt": null,
+      "additions": 54,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 51826,
+      "title": "fix(google): strip empty required arrays from tool schemas (#51774)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T19:05:01Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 51784,
+      "title": "fix: Control UI model picker provider prefix + skip register on snapshot loads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T17:30:48Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 21,
+      "changedFiles": 4
+    },
+    {
+      "number": 51761,
+      "title": "fix(usage): add Google/Gemini usageMetadata field mapping (#51743)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T16:56:27Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 51680,
+      "title": "fix(docs): correct json55 to json5 syntax in IRC channel docs (#50831)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T15:25:52Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 23,
+      "changedFiles": 1
+    },
+    {
+      "number": 51548,
+      "title": "test(config): add regression test for telegram topic agentId (#50574)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T10:26:42Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 51547,
+      "title": "fix(exec): default to GBK encoding on Windows (#50519)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T10:26:18Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 3,
+      "changedFiles": 1
+    },
+    {
+      "number": 51172,
+      "title": "fix(gateway): enable device identity for loopback probes when token SecretRef is unresolved (#51016)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T17:44:32Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 51042,
+      "title": "fix(gateway): enable device identity for loopback probes when token SecretRef is unresolved (#51016)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T12:48:29Z",
+      "mergedAt": null,
+      "additions": 971,
+      "deletions": 377,
+      "changedFiles": 61
+    },
+    {
+      "number": 51027,
+      "title": "fix(gateway): reject list and status as invalid model refs (#51126)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T12:06:59Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 16,
+      "changedFiles": 3
+    },
     {
       "number": 50724,
       "title": "fix(ollama): normalize tool call arguments from string to object (#50713)",
@@ -59,24 +193,53 @@
       "merged": false,
       "createdAt": "2026-03-20T00:52:47Z",
       "mergedAt": null,
-      "additions": 27,
+      "additions": 16,
       "deletions": 3,
       "changedFiles": 1
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 53045,
+      "title": "Opened by mistake",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T17:25:28Z",
+      "closedAt": "2026-03-23T17:27:23Z"
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-20": {
+    "2026-03-26": {
       "prs": 1,
       "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
+    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ]
 }

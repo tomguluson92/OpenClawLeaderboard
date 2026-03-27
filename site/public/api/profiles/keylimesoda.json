@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7773610?u=cbe7e0d1833afa515d535462c3eb769530bbe7a5&v=4",
   "githubUrl": "https://github.com/keylimesoda",
   "score": {
-    "score": 230.62,
-    "prScore": 176.12,
+    "score": 198.31,
+    "prScore": 159.81,
     "issueScore": 10,
-    "reviewScore": 39,
-    "commentScore": 5.5
+    "reviewScore": 24,
+    "commentScore": 4.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 7539,
-    "prDeletions": 100,
-    "prChangedFiles": 105,
+    "prAdditions": 6495,
+    "prDeletions": 54,
+    "prChangedFiles": 81,
     "prMergeRate": 0,
     "issues": 2,
     "issuesClosed": 0,
-    "reviews": 13,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 9
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 2,
-      "reviews": 8,
-      "comments": 9,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 4,
       "issues": 2,
-      "reviews": 13,
-      "comments": 11,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 8,
+      "comments": 9
     }
   },
-  "firstContribution": "2026-03-07T05:52:23Z",
-  "lastContribution": "2026-03-19T09:45:21Z",
+  "firstContribution": "2026-03-14T23:41:40Z",
+  "lastContribution": "2026-03-23T16:52:58Z",
   "recentPRs": [
+    {
+      "number": 53018,
+      "title": "Upstream Sync",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T16:52:58Z",
+      "mergedAt": null,
+      "additions": 2121,
+      "deletions": 6,
+      "changedFiles": 22
+    },
     {
       "number": 47696,
       "title": "feat: add /trust and /untrust commands for temporary exec security elevation",
@@ -84,39 +86,6 @@
       "additions": 1831,
       "deletions": 23,
       "changedFiles": 26
-    },
-    {
-      "number": 39244,
-      "title": "feat(exec): add bubblewrap namespace sandbox for safeBins commands",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T22:41:49Z",
-      "mergedAt": null,
-      "additions": 1113,
-      "deletions": 11,
-      "changedFiles": 13
-    },
-    {
-      "number": 39126,
-      "title": "feat(exec): add session-based trust windows for exec approvals",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T19:30:13Z",
-      "mergedAt": null,
-      "additions": 1890,
-      "deletions": 25,
-      "changedFiles": 27
-    },
-    {
-      "number": 38616,
-      "title": "Address the thinking block failures when using Github Copilot model",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T05:52:23Z",
-      "mergedAt": null,
-      "additions": 162,
-      "deletions": 16,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [
@@ -175,34 +144,14 @@
       "prNumber": 46657,
       "state": "COMMENTED",
       "createdAt": "2026-03-15T00:26:48Z"
-    },
-    {
-      "prNumber": 39126,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T05:10:36Z"
-    },
-    {
-      "prNumber": 39126,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T05:10:31Z"
-    },
-    {
-      "prNumber": 39126,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T05:10:26Z"
-    },
-    {
-      "prNumber": 39126,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T05:10:20Z"
-    },
-    {
-      "prNumber": 39126,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T05:10:14Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 2,
       "issues": 2,
@@ -213,17 +162,7 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-07": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
     "2026-03-16": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 5
-    },
-    "2026-03-08": {
       "prs": 0,
       "issues": 0,
       "reviews": 5
@@ -238,15 +177,9 @@
   ],
   "achievements": [
     {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    },
-    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

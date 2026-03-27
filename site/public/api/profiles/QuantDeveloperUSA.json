@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/82096803?u=5573ef56e309c0d5f3ce8cba30fc98878b156ca7&v=4",
   "githubUrl": "https://github.com/QuantDeveloperUSA",
   "score": {
-    "score": 31.59,
-    "prScore": 11.09,
-    "issueScore": 5,
+    "score": 25.19,
+    "prScore": 9.69,
+    "issueScore": 0,
     "reviewScore": 15,
     "commentScore": 0.5
   },
@@ -19,37 +19,28 @@
     "prDeletions": 1,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 3,
-    "commitDeletions": 2,
-    "commitChangedFiles": 1
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 5,
-      "comments": 1,
-      "commitAdditions": 3,
-      "commitDeletions": 2,
-      "commits": 1
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-10T12:09:02Z",
+  "firstContribution": "2026-03-10T12:09:15Z",
   "lastContribution": "2026-03-10T13:22:09Z",
   "recentPRs": [
     {
@@ -64,15 +55,7 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42113,
-      "title": "voice-call: media stream killed by race condition on outbound conversation calls",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T12:09:02Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 42114,
@@ -103,24 +86,14 @@
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 5
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-06": 1
-  }
+  "achievements": []
 }

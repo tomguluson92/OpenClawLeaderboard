@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/255839838?v=4",
   "githubUrl": "https://github.com/CarSol66",
   "score": {
-    "score": 20.1,
+    "score": 13.1,
     "prScore": 13.1,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 54,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-10T15:29:28Z",
-  "lastContribution": "2026-03-11T18:15:03Z",
+  "firstContribution": "2026-03-11T05:34:10Z",
+  "lastContribution": "2026-03-11T05:34:10Z",
   "recentPRs": [
     {
       "number": 42843,
@@ -64,33 +55,17 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42287,
-      "title": "macOS app crash in MacNodeBrowserProxy.makeRequest (JSON serialization, beta 2026.3.8)",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T15:29:28Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

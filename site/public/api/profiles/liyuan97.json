@@ -1,57 +1,70 @@
 {
   "username": "liyuan97",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/33855278?u=19d4469b7686b052132f3c492b600e344f6e239c&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33855278?v=4",
   "githubUrl": "https://github.com/liyuan97",
   "score": {
-    "score": 175.35,
-    "prScore": 174.85,
+    "score": 207.03,
+    "prScore": 206.53,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 0,
-    "prs": 4,
-    "prsMerged": 2,
-    "prAdditions": 9728,
-    "prDeletions": 1320,
-    "prChangedFiles": 79,
+    "commits": 3,
+    "prs": 6,
+    "prsMerged": 3,
+    "prAdditions": 10032,
+    "prDeletions": 1683,
+    "prChangedFiles": 114,
     "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 414,
-    "commitDeletions": 502,
-    "commitChangedFiles": 45
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 148,
-      "commitDeletions": 75,
-      "commits": 1
+      "comments": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 414,
-      "commitDeletions": 502,
-      "commits": 2
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-12T17:05:16Z",
-  "lastContribution": "2026-03-18T09:19:09Z",
+  "lastContribution": "2026-03-25T13:32:39Z",
   "recentPRs": [
+    {
+      "number": 54487,
+      "title": "feat(minimax): add image generation provider and trim model catalog to M2.7",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T13:32:39Z",
+      "mergedAt": "2026-03-25T16:29:36Z",
+      "additions": 247,
+      "deletions": 192,
+      "changedFiles": 21
+    },
+    {
+      "number": 53655,
+      "title": "feat(minimax): trim legacy model catalog to M2.7 only",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T12:12:04Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 171,
+      "changedFiles": 14
+    },
     {
       "number": 49691,
       "title": "MiniMax: add M2.7 models and update default to M2.7",
@@ -100,6 +113,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 0,
@@ -114,11 +137,14 @@
   "skills": [
     "Pull Requests",
     "Discussion",
+    "Direct Commits",
     "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-18": 1,
-    "2026-03-12": 1
-  }
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ]
 }

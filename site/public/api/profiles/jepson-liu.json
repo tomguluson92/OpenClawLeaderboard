@@ -3,55 +3,79 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/20548376?u=0cdd40748a26b5a87b016d9564304ba35f79eb6b&v=4",
   "githubUrl": "https://github.com/jepson-liu",
   "score": {
-    "score": 119.69,
-    "prScore": 111.19,
+    "score": 189.76,
+    "prScore": 178.26,
     "issueScore": 0,
-    "reviewScore": 6,
+    "reviewScore": 9,
     "commentScore": 2.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 9,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 704,
-    "prDeletions": 102,
-    "prChangedFiles": 24,
+    "prAdditions": 936,
+    "prDeletions": 140,
+    "prChangedFiles": 45,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 5
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 3,
       "issues": 0,
-      "reviews": 2,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 1
     },
     "monthly": {
-      "prs": 9,
+      "prs": 12,
       "issues": 0,
-      "reviews": 2,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 3,
+      "comments": 5
     }
   },
   "firstContribution": "2026-03-11T12:58:42Z",
-  "lastContribution": "2026-03-20T02:19:24Z",
+  "lastContribution": "2026-03-26T12:19:02Z",
   "recentPRs": [
+    {
+      "number": 55144,
+      "title": "fix(extensions): align MIMO_API_KEY for Xiaomi extensions across plug…",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T12:19:02Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 13,
+      "changedFiles": 10
+    },
+    {
+      "number": 51582,
+      "title": "fix(extensions): align MIMO_API_KEY for Xiaomi extensions across plugin, usage, tests and docs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T11:56:06Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 13,
+      "changedFiles": 9
+    },
+    {
+      "number": 51374,
+      "title": "fix(feishu): fail fast on local media allowlist violations #51347",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T02:04:35Z",
+      "mergedAt": null,
+      "additions": 168,
+      "deletions": 12,
+      "changedFiles": 2
+    },
     {
       "number": 50758,
       "title": "fix(ui): preserve openrouter model prefix in chat picker",
@@ -155,6 +179,11 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 51582,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T12:23:21Z"
+    },
+    {
       "prNumber": 50104,
       "state": "COMMENTED",
       "createdAt": "2026-03-19T02:35:55Z"
@@ -166,6 +195,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-20": {
       "prs": 2,
       "issues": 0,
@@ -197,6 +236,11 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ]
 }

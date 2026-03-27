@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/31285242?v=4",
   "githubUrl": "https://github.com/jakepresent",
   "score": {
-    "score": 107.14,
-    "prScore": 90.64,
+    "score": 36,
+    "prScore": 19,
     "issueScore": 10,
     "reviewScore": 6,
-    "commentScore": 0.5
+    "commentScore": 1
   },
-  "tier": "regular",
-  "characterClass": "Maintainer",
+  "tier": "beginner",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 218,
-    "prDeletions": 57,
-    "prChangedFiles": 33,
+    "prAdditions": 21,
+    "prDeletions": 6,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
     "issues": 2,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 1,
-      "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 2
     },
     "monthly": {
-      "prs": 5,
+      "prs": 2,
       "issues": 2,
       "reviews": 2,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-07T17:21:53Z",
-  "lastContribution": "2026-03-19T03:16:03Z",
+  "firstContribution": "2026-03-18T16:32:53Z",
+  "lastContribution": "2026-03-26T21:28:30Z",
   "recentPRs": [
     {
       "number": 50168,
@@ -59,9 +50,9 @@
       "merged": false,
       "createdAt": "2026-03-19T03:16:03Z",
       "mergedAt": null,
-      "additions": 6,
+      "additions": 10,
       "deletions": 4,
-      "changedFiles": 4
+      "changedFiles": 3
     },
     {
       "number": 49917,
@@ -70,57 +61,24 @@
       "merged": false,
       "createdAt": "2026-03-18T16:32:53Z",
       "mergedAt": null,
-      "additions": 15,
-      "deletions": 3,
-      "changedFiles": 3
-    },
-    {
-      "number": 40329,
-      "title": "feat: send channel notice when auto-compaction starts",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T22:53:43Z",
-      "mergedAt": null,
-      "additions": 68,
-      "deletions": 11,
-      "changedFiles": 13
-    },
-    {
-      "number": 39104,
-      "title": "fix(ui): live tool call streaming in Control UI webchat",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T18:54:05Z",
-      "mergedAt": null,
-      "additions": 81,
-      "deletions": 20,
-      "changedFiles": 8
-    },
-    {
-      "number": 39036,
-      "title": "fix(ui): enable live tool call streaming in Control UI webchat",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T17:21:53Z",
-      "mergedAt": null,
-      "additions": 48,
-      "deletions": 19,
-      "changedFiles": 5
+      "additions": 11,
+      "deletions": 2,
+      "changedFiles": 2
     }
   ],
   "recentIssues": [
+    {
+      "number": 55326,
+      "title": "github-copilot provider: gpt-5.4 missing xhigh thinking support",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T18:28:49Z",
+      "closedAt": null
+    },
     {
       "number": 49931,
       "title": "feat(exec): configurable shell override (tools.exec.shell)",
       "state": "OPEN",
       "createdAt": "2026-03-18T17:02:42Z",
-      "closedAt": null
-    },
-    {
-      "number": 40343,
-      "title": "Auto-compaction can delete an already-delivered message on Telegram",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T23:09:52Z",
       "closedAt": null
     }
   ],
@@ -147,14 +105,9 @@
       "issues": 1,
       "reviews": 2
     },
-    "2026-03-08": {
-      "prs": 1,
+    "2026-03-26": {
+      "prs": 0,
       "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
       "reviews": 0
     }
   },
@@ -170,6 +123,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

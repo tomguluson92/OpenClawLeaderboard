@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1445636?v=4",
   "githubUrl": "https://github.com/Taskle",
   "score": {
-    "score": 160.55,
-    "prScore": 160.05,
+    "score": 24.54,
+    "prScore": 24.04,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 13401,
-    "prDeletions": 3519,
-    "prChangedFiles": 395,
+    "prAdditions": 251,
+    "prDeletions": 41,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 10,
-    "commitDeletions": 1,
-    "commitChangedFiles": 1
+    "comments": 1
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 10,
-      "commitDeletions": 1,
-      "commits": 1
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-06T23:56:48Z",
+  "firstContribution": "2026-03-14T03:10:51Z",
   "lastContribution": "2026-03-14T04:25:32Z",
   "recentPRs": [
     {
@@ -62,17 +53,6 @@
       "additions": 251,
       "deletions": 41,
       "changedFiles": 10
-    },
-    {
-      "number": 38410,
-      "title": "fix(slack): DM thread attachments stay in thread when sent via message tool",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T23:56:48Z",
-      "mergedAt": null,
-      "additions": 13150,
-      "deletions": 3478,
-      "changedFiles": 385
     }
   ],
   "recentIssues": [],
@@ -82,26 +62,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Discussion",
-    "Large-Scale Changes"
+    "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-02-24": 1
-  }
+  "achievements": []
 }

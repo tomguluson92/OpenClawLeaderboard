@@ -3,59 +3,149 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258555668?u=d20af525c007ad24665237499e17f7879757b6b1&v=4",
   "githubUrl": "https://github.com/wd041216-bit",
   "score": {
-    "score": 56.85,
-    "prScore": 43.85,
+    "score": 222.6,
+    "prScore": 205.6,
     "issueScore": 5,
     "reviewScore": 3,
-    "commentScore": 5
+    "commentScore": 9
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 1933,
-    "prDeletions": 95,
-    "prChangedFiles": 10,
+    "prAdditions": 3794,
+    "prDeletions": 118,
+    "prChangedFiles": 49,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 18
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 1,
-      "reviews": 1,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 8
     },
     "monthly": {
-      "prs": 3,
+      "prs": 12,
       "issues": 1,
       "reviews": 1,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 18
     }
   },
   "firstContribution": "2026-03-17T18:04:50Z",
-  "lastContribution": "2026-03-19T04:18:04Z",
+  "lastContribution": "2026-03-24T09:59:55Z",
   "recentPRs": [
+    {
+      "number": 53601,
+      "title": "fix: confirm saved model selections conservatively",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T09:59:55Z",
+      "mergedAt": null,
+      "additions": 60,
+      "deletions": 16,
+      "changedFiles": 7
+    },
+    {
+      "number": 53508,
+      "title": "docs: update ollama reasoning heuristic guidance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T07:29:54Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 53503,
+      "title": "docs: clarify community plugin review guidance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T07:28:11Z",
+      "mergedAt": null,
+      "additions": 166,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 53502,
+      "title": "docs: add plugin manifest example for bundled skills",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T07:25:19Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 53352,
+      "title": "feat: broaden Ollama reasoning-model heuristics",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T03:32:58Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 53350,
+      "title": "test: add Ollama stream replay fixtures",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T03:28:18Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 53349,
+      "title": "docs: expand Ollama and local model tool-calling guidance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T03:25:45Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 53344,
+      "title": "feat: recover Ollama markdown tool calls",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T03:18:24Z",
+      "mergedAt": null,
+      "additions": 221,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 53337,
+      "title": "feat: add bundled OpenStream plugin for Ollama-heavy deployments",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T03:05:39Z",
+      "mergedAt": null,
+      "additions": 1147,
+      "deletions": 0,
+      "changedFiles": 16
+    },
     {
       "number": 50182,
       "title": "feat: Introduce OpenStream - Enterprise-grade Ollama Streaming Enhancement",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T03:47:35Z",
       "mergedAt": null,
@@ -66,7 +156,7 @@
     {
       "number": 49771,
       "title": "fix: Complete Manusilized bug fixes and enhancements",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T11:42:59Z",
       "mergedAt": null,
@@ -103,6 +193,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
@@ -127,10 +222,14 @@
   ],
   "achievements": [
     {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

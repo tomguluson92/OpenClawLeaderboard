@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/167171060?u=ab9cddcdf25992a1b490bb3c00653e945b654b0a&v=4",
   "githubUrl": "https://github.com/jkyotnfjfbjnknh",
   "score": {
-    "score": 31.41,
+    "score": 18.41,
     "prScore": 17.91,
-    "issueScore": 13,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 2,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-12T15:45:06Z",
+  "firstContribution": "2026-03-13T08:33:55Z",
   "lastContribution": "2026-03-14T07:50:11Z",
   "recentPRs": [
     {
@@ -64,40 +55,18 @@
       "changedFiles": 6
     }
   ],
-  "recentIssues": [
-    {
-      "number": 44186,
-      "title": "bug: normalizePayloadKind reports false-positive mutation on correctly-cased payload kinds",
-      "state": "CLOSED",
-      "createdAt": "2026-03-12T15:45:15Z",
-      "closedAt": "2026-03-13T03:12:55Z"
-    },
-    {
-      "number": 44185,
-      "title": "bug: doctor --repair ineffective in non-interactive mode (confirmDefault checks nonInteractive before shouldRepair)",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T15:45:06Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-12": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

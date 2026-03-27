@@ -1,57 +1,213 @@
 {
   "username": "bugkill3r",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/2924124?u=499632732c508c316f277950a62de202e42acaa6&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2924124?v=4",
   "githubUrl": "https://github.com/bugkill3r",
   "score": {
-    "score": 225.57,
-    "prScore": 215.57,
+    "score": 444.2,
+    "prScore": 426.7,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 12.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 0,
-    "prs": 16,
-    "prsMerged": 1,
-    "prAdditions": 651,
-    "prDeletions": 109,
-    "prChangedFiles": 59,
-    "prMergeRate": 6,
+    "commits": 7,
+    "prs": 31,
+    "prsMerged": 4,
+    "prAdditions": 30159,
+    "prDeletions": 21203,
+    "prChangedFiles": 1085,
+    "prMergeRate": 13,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 30,
-    "commitDeletions": 25,
-    "commitChangedFiles": 17
+    "comments": 25
   },
   "period": {
     "weekly": {
-      "prs": 16,
-      "issues": 1,
+      "prs": 15,
+      "issues": 0,
       "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 25,
-      "commitDeletions": 25,
-      "commits": 1
+      "comments": 15
     },
     "monthly": {
-      "prs": 16,
+      "prs": 31,
       "issues": 1,
       "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 30,
-      "commitDeletions": 25,
-      "commits": 2
+      "comments": 25
     }
   },
   "firstContribution": "2026-03-17T15:28:42Z",
-  "lastContribution": "2026-03-20T08:37:56Z",
+  "lastContribution": "2026-03-27T07:33:32Z",
   "recentPRs": [
+    {
+      "number": 55550,
+      "title": "fix: report correct Telegram bot health status (#55482)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T04:01:02Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 55548,
+      "title": "fix: include message_id in Telegram callback_query data (#55462)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T03:56:05Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 1,
+      "changedFiles": 6
+    },
+    {
+      "number": 55543,
+      "title": "fix: suppress duplicate verbose session notice when reset already notified (#55515)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T03:51:37Z",
+      "mergedAt": null,
+      "additions": 128,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 55527,
+      "title": "fix: format Ollama HTTP errors for failover classification (#55178)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T03:31:46Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 55214,
+      "title": "fix: trigger model fallback on HTTP 503 Service Unavailable (#55178)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T14:34:56Z",
+      "mergedAt": null,
+      "additions": 28343,
+      "deletions": 20271,
+      "changedFiles": 990
+    },
+    {
+      "number": 55212,
+      "title": "fix(discord): honor guild entries in native command allowFrom",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T14:34:33Z",
+      "mergedAt": "2026-03-26T23:56:59Z",
+      "additions": 43,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 55209,
+      "title": "fix: filter outbound messages in WhatsApp self-chat mode (#55174)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T14:30:23Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54610,
+      "title": "fix: use systemctl --user for user-level gateway service commands (#54517)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T17:53:59Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 54602,
+      "title": "fix: write correct openrouter/free model string in config wizard (#54581)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T17:40:36Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 54600,
+      "title": "fix: extract message string from cron agentTurn payload (#54579)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T17:37:14Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 54597,
+      "title": "fix: include workspace templates in npm package (#54514)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T17:33:10Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54596,
+      "title": "fix: resolve xAI web search API key from correct config path (#54555)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T17:32:32Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 54516,
+      "title": "fix: extract usage data from openai-completions adapter response (#54420)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T14:40:15Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 54512,
+      "title": "fix: surface provider-specific rate limit error message (#54433)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T14:34:12Z",
+      "mergedAt": "2026-03-26T12:16:07Z",
+      "additions": 97,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 54511,
+      "title": "fix: reject empty card objects in Feishu message tool (#54430)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T14:30:44Z",
+      "mergedAt": null,
+      "additions": 19,
+      "deletions": 2,
+      "changedFiles": 2
+    },
     {
       "number": 50919,
       "title": "fix: resolve duplicate property definition in Matrix plugin",
@@ -59,14 +215,14 @@
       "merged": false,
       "createdAt": "2026-03-20T07:54:00Z",
       "mergedAt": null,
-      "additions": 23,
+      "additions": 29,
       "deletions": 2,
       "changedFiles": 1
     },
     {
       "number": 50918,
       "title": "fix: trigger session-memory hook on idle and daily session resets",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-20T07:53:57Z",
       "mergedAt": null,
@@ -77,13 +233,13 @@
     {
       "number": 50917,
       "title": "fix: emit message:sent hook on Telegram streaming preview finalization",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-20T07:53:53Z",
-      "mergedAt": null,
-      "additions": 134,
-      "deletions": 12,
-      "changedFiles": 5
+      "mergedAt": "2026-03-20T17:12:04Z",
+      "additions": 207,
+      "deletions": 67,
+      "changedFiles": 6
     },
     {
       "number": 50915,
@@ -106,127 +262,6 @@
       "additions": 36,
       "deletions": 2,
       "changedFiles": 1
-    },
-    {
-      "number": 50909,
-      "title": "fix: handle UTF-8 multi-byte boundaries in streaming assembly",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-20T07:33:06Z",
-      "mergedAt": null,
-      "additions": 69,
-      "deletions": 6,
-      "changedFiles": 5
-    },
-    {
-      "number": 50902,
-      "title": "fix: trigger session-memory hook on idle and daily session resets",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-20T06:50:45Z",
-      "mergedAt": null,
-      "additions": 35,
-      "deletions": 12,
-      "changedFiles": 3
-    },
-    {
-      "number": 50901,
-      "title": "fix: emit message:sent hook on Telegram streaming preview finalization",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-20T06:50:35Z",
-      "mergedAt": null,
-      "additions": 91,
-      "deletions": 3,
-      "changedFiles": 5
-    },
-    {
-      "number": 50896,
-      "title": "fix: correct broken internal links across documentation",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-20T06:43:45Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 12,
-      "changedFiles": 10
-    },
-    {
-      "number": 50863,
-      "title": "fix: standardize 'MS Teams' to 'Microsoft Teams' across docs",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-20T05:28:22Z",
-      "mergedAt": "2026-03-20T06:54:47Z",
-      "additions": 25,
-      "deletions": 25,
-      "changedFiles": 15
-    },
-    {
-      "number": 50862,
-      "title": "fix: default to secure TLS in Synology Chat transport",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-20T05:27:38Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 5,
-      "changedFiles": 1
-    },
-    {
-      "number": 50861,
-      "title": "fix: replace personal device names with generic placeholders in docs",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-20T05:27:38Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 50860,
-      "title": "fix: correct alphabetical ordering in channel and provider docs",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-20T05:27:36Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 50858,
-      "title": "fix: remove stale 'unreleased' version references in docs",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-20T05:27:02Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 50857,
-      "title": "fix: correct json55 typo to json5 in IRC channel docs",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-20T05:26:49Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 5,
-      "changedFiles": 1
-    },
-    {
-      "number": 49103,
-      "title": "feat(whatsapp): extract GIF/media metadata from externalAdReply",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-17T15:35:16Z",
-      "mergedAt": null,
-      "additions": 131,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -240,6 +275,21 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-20": {
       "prs": 15,
       "issues": 0,
@@ -254,17 +304,25 @@
   "skills": [
     "Pull Requests",
     "Issue Reporting",
-    "Discussion"
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
   ],
   "achievements": [
     {
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-20": 1,
-    "2026-03-02": 1
-  }
+  ]
 }

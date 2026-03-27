@@ -3,59 +3,204 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/39320777?v=4",
   "githubUrl": "https://github.com/lml2468",
   "score": {
-    "score": 143.06,
-    "prScore": 124.56,
+    "score": 270.79,
+    "prScore": 250.29,
     "issueScore": 8,
     "reviewScore": 3,
-    "commentScore": 7.5
+    "commentScore": 9.5
   },
-  "tier": "regular",
-  "characterClass": "Contributor",
+  "tier": "active",
+  "characterClass": "Builder",
   "stats": {
-    "commits": 7,
-    "prs": 4,
-    "prsMerged": 2,
-    "prAdditions": 469,
-    "prDeletions": 12,
-    "prChangedFiles": 11,
-    "prMergeRate": 50,
+    "commits": 8,
+    "prs": 17,
+    "prsMerged": 1,
+    "prAdditions": 1832,
+    "prDeletions": 61,
+    "prChangedFiles": 39,
+    "prMergeRate": 6,
     "issues": 1,
     "issuesClosed": 1,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 15,
-    "commitAdditions": 725,
-    "commitDeletions": 34,
-    "commitChangedFiles": 15
+    "comments": 19
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 1,
-      "comments": 9,
-      "commitAdditions": 155,
-      "commitDeletions": 6,
-      "commits": 1
+      "prs": 14,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 8
     },
     "monthly": {
-      "prs": 4,
+      "prs": 17,
       "issues": 1,
       "reviews": 1,
-      "comments": 15,
-      "commitAdditions": 725,
-      "commitDeletions": 34,
-      "commits": 8
+      "comments": 19
     }
   },
-  "firstContribution": "2026-03-07T08:46:10Z",
-  "lastContribution": "2026-03-18T07:19:09Z",
+  "firstContribution": "2026-03-10T14:14:13Z",
+  "lastContribution": "2026-03-27T01:20:39Z",
   "recentPRs": [
+    {
+      "number": 55446,
+      "title": "fix(plugins): deduplicate tool registration on startup",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T01:18:12Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 55444,
+      "title": "fix: suppress write/edit failed warning for response timeout errors",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T01:15:53Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 55443,
+      "title": "fix(discord): treat reconnect-exhausted as graceful stop, not crash",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T01:15:08Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 22,
+      "changedFiles": 2
+    },
+    {
+      "number": 55440,
+      "title": "fix(msteams): prevent path-to-regexp crash with express 5 (#55161)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T01:12:30Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 55439,
+      "title": "fix(msteams): prevent path-to-regexp crash with express 5",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T01:10:23Z",
+      "mergedAt": null,
+      "additions": 80,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 55189,
+      "title": "fix(plugins): skip auto-enable for plugins already in plugins.allow (#55163)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T13:44:14Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 55177,
+      "title": "fix(discord): suppress shutdown errors with persistent listener to prevent crash (#55116)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T13:29:16Z",
+      "mergedAt": null,
+      "additions": 102,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 55167,
+      "title": "fix(plugins): skip auto-enable for plugins already in plugins.allow",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T13:13:18Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 55040,
+      "title": "fix: sanitize leaked directive tags before outbound delivery",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T08:32:39Z",
+      "mergedAt": null,
+      "additions": 76,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 53465,
+      "title": "fix(whatsapp): resolve active listener in cron delivery path",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T06:31:31Z",
+      "mergedAt": null,
+      "additions": 198,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 53446,
+      "title": "fix(discord): pass proxy-aware fetch to RequestClient (#30221)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T06:03:17Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 53444,
+      "title": "fix(cron): allow cron-triggered heartbeat runs when heartbeat.every=\"0m\" (#46046)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T06:02:31Z",
+      "mergedAt": null,
+      "additions": 105,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 53292,
+      "title": "fix(security): detect UFW in sbin paths when not on PATH",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T02:02:23Z",
+      "mergedAt": null,
+      "additions": 786,
+      "deletions": 1,
+      "changedFiles": 5
+    },
+    {
+      "number": 52715,
+      "title": "fix(sessions): route sessions_send target to subagent lane to prevent nested lane deadlock",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T07:53:41Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 6,
+      "changedFiles": 3
+    },
     {
       "number": 45625,
       "title": "fix(failover): classify api_error internal server errors as overloaded for proper cooldown",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T02:04:58Z",
       "mergedAt": null,
@@ -84,17 +229,6 @@
       "additions": 155,
       "deletions": 6,
       "changedFiles": 4
-    },
-    {
-      "number": 38699,
-      "title": "fix(gateway): validate config before restart + run loop crash guard (#35862)",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T08:46:10Z",
-      "mergedAt": "2026-03-09T05:53:52Z",
-      "additions": 280,
-      "deletions": 2,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [
@@ -114,6 +248,26 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -125,11 +279,6 @@
       "reviews": 0
     },
     "2026-03-10": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -149,14 +298,14 @@
   ],
   "achievements": [
     {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-17": 1,
-    "2026-03-09": 6,
-    "2026-02-28": 1
-  }
+  ]
 }

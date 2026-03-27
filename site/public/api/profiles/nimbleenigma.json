@@ -1,81 +1,72 @@
 {
   "username": "nimbleenigma",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/129692390?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/129692390?u=91b7f939c0458d65d957398a85f47dfb1abee747&v=4",
   "githubUrl": "https://github.com/nimbleenigma",
   "score": {
-    "score": 35.16,
-    "prScore": 35.16,
+    "score": 14.26,
+    "prScore": 13.76,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 1324,
-    "prDeletions": 42,
-    "prChangedFiles": 13,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 60,
+    "prDeletions": 4,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-08T18:58:24Z",
-  "lastContribution": "2026-03-08T18:58:24Z",
+  "firstContribution": "2026-03-23T21:48:19Z",
+  "lastContribution": "2026-03-24T16:13:44Z",
   "recentPRs": [
     {
-      "number": 40175,
-      "title": "android: finalize notification forwarding controls and picker UX",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T18:58:24Z",
-      "mergedAt": null,
-      "additions": 1324,
-      "deletions": 42,
-      "changedFiles": 13
+      "number": 53179,
+      "title": "fix(telegram): use runtime snapshot for native commands",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T21:48:19Z",
+      "mergedAt": "2026-03-25T05:48:55Z",
+      "additions": 60,
+      "deletions": 4,
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-08": {
+    "2026-03-23": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

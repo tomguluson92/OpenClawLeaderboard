@@ -3,55 +3,211 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/167050519?v=4",
   "githubUrl": "https://github.com/scoootscooob",
   "score": {
-    "score": 865.49,
-    "prScore": 800.99,
-    "issueScore": 23,
-    "reviewScore": 18,
-    "commentScore": 23.5
+    "score": 952.23,
+    "prScore": 932.73,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 10.5
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
-    "commits": 47,
-    "prs": 45,
-    "prsMerged": 20,
-    "prAdditions": 87562,
-    "prDeletions": 83483,
-    "prChangedFiles": 1880,
-    "prMergeRate": 44,
-    "issues": 4,
-    "issuesClosed": 1,
-    "reviews": 6,
+    "commits": 74,
+    "prs": 40,
+    "prsMerged": 34,
+    "prAdditions": 87300,
+    "prDeletions": 83541,
+    "prChangedFiles": 1882,
+    "prMergeRate": 85,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 47,
-    "commitAdditions": 85309,
-    "commitDeletions": 82351,
-    "commitChangedFiles": 1762
+    "comments": 21
   },
   "period": {
     "weekly": {
-      "prs": 22,
+      "prs": 15,
       "issues": 0,
-      "reviews": 3,
-      "comments": 14,
-      "commitAdditions": 83405,
-      "commitDeletions": 82163,
-      "commits": 18
+      "reviews": 0,
+      "comments": 6
     },
     "monthly": {
-      "prs": 45,
-      "issues": 4,
-      "reviews": 6,
-      "comments": 47,
-      "commitAdditions": 85309,
-      "commitDeletions": 82351,
-      "commits": 47
+      "prs": 40,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 21
     }
   },
-  "firstContribution": "2026-03-06T19:25:59Z",
-  "lastContribution": "2026-03-18T17:28:27Z",
+  "firstContribution": "2026-03-10T18:24:26Z",
+  "lastContribution": "2026-03-27T00:49:25Z",
   "recentPRs": [
+    {
+      "number": 55425,
+      "title": "fix: use runtime model and per-agent thinking defaults in status (thanks @scoootscooob, @xaeon2026, @ysfbsf)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T23:49:58Z",
+      "mergedAt": "2026-03-27T00:49:21Z",
+      "additions": 218,
+      "deletions": 7,
+      "changedFiles": 5
+    },
+    {
+      "number": 53875,
+      "title": "fix: allow compact retry after failed session compaction",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T18:18:13Z",
+      "mergedAt": "2026-03-24T18:23:42Z",
+      "additions": 51,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 53843,
+      "title": "Webchat: handle bare /compact as session compaction",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T17:23:56Z",
+      "mergedAt": "2026-03-24T17:58:10Z",
+      "additions": 185,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 53834,
+      "title": "Plugins: resolve sdk aliases from the running CLI",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T17:22:23Z",
+      "mergedAt": "2026-03-24T17:58:07Z",
+      "additions": 93,
+      "deletions": 13,
+      "changedFiles": 2
+    },
+    {
+      "number": 53830,
+      "title": "Providers: fix kimi-coding thinking normalization",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T17:19:23Z",
+      "mergedAt": "2026-03-24T17:58:03Z",
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 53072,
+      "title": "fix(discord): return explicit auth replies for native commands",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T18:19:47Z",
+      "mergedAt": "2026-03-23T18:20:58Z",
+      "additions": 55,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 53034,
+      "title": "fix(clawhub): honor macOS auth config path",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T17:12:38Z",
+      "mergedAt": "2026-03-23T17:14:23Z",
+      "additions": 51,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 52489,
+      "title": "Reply: fix generated image delivery to Discord",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T22:13:51Z",
+      "mergedAt": "2026-03-22T22:18:17Z",
+      "additions": 242,
+      "deletions": 4,
+      "changedFiles": 10
+    },
+    {
+      "number": 51772,
+      "title": "refactor(plugins): route Telegram runtime through plugin sdk",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T17:13:20Z",
+      "mergedAt": "2026-03-21T17:24:56Z",
+      "additions": 4,
+      "deletions": 29,
+      "changedFiles": 3
+    },
+    {
+      "number": 51770,
+      "title": "refactor(plugins): route iMessage runtime through plugin sdk",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T17:08:24Z",
+      "mergedAt": "2026-03-21T17:21:20Z",
+      "additions": 1,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 51766,
+      "title": "refactor(plugins): route Slack runtime through plugin sdk",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T17:01:09Z",
+      "mergedAt": "2026-03-21T17:11:17Z",
+      "additions": 1,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 51444,
+      "title": "refactor(plugins): route Discord runtime through plugin sdk",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T05:55:14Z",
+      "mergedAt": "2026-03-21T14:40:52Z",
+      "additions": 3,
+      "deletions": 27,
+      "changedFiles": 3
+    },
+    {
+      "number": 51434,
+      "title": "test: refresh plugin import boundary baseline",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T05:35:10Z",
+      "mergedAt": "2026-03-21T05:36:11Z",
+      "additions": 0,
+      "deletions": 8,
+      "changedFiles": 1
+    },
+    {
+      "number": 51425,
+      "title": "fix(discord): clarify startup readiness log",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T04:55:09Z",
+      "mergedAt": "2026-03-21T05:00:10Z",
+      "additions": 48,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 51419,
+      "title": "fix(agent): clarify embedded transport errors",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T04:36:51Z",
+      "mergedAt": "2026-03-21T04:47:47Z",
+      "additions": 99,
+      "deletions": 5,
+      "changedFiles": 6
+    },
     {
       "number": 49935,
       "title": "Slack: remove duplicate directory imports",
@@ -106,203 +262,9 @@
       "additions": 13,
       "deletions": 14,
       "changedFiles": 7
-    },
-    {
-      "number": 49471,
-      "title": "Slack: fix runtime api directory import",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-18T04:51:49Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 49470,
-      "title": "Signal: fix account config type import",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-18T04:51:49Z",
-      "mergedAt": "2026-03-18T05:12:38Z",
-      "additions": 2,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 49237,
-      "title": "Agents: improve prompt cache hit rate and add prompt composition regression tests",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T20:46:37Z",
-      "mergedAt": "2026-03-17T23:40:20Z",
-      "additions": 773,
-      "deletions": 10,
-      "changedFiles": 6
-    },
-    {
-      "number": 48753,
-      "title": "Agents: move bootstrap warnings out of system prompt",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T05:29:23Z",
-      "mergedAt": "2026-03-17T06:25:04Z",
-      "additions": 299,
-      "deletions": 34,
-      "changedFiles": 11
-    },
-    {
-      "number": 46581,
-      "title": "Move remaining channel send-deps imports off deliver.ts",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-14T21:15:38Z",
-      "mergedAt": null,
-      "additions": 10,
-      "deletions": 8,
-      "changedFiles": 9
-    },
-    {
-      "number": 46575,
-      "title": "Fix lazy channel startup and onboarding imports",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-14T21:07:18Z",
-      "mergedAt": null,
-      "additions": 1218,
-      "deletions": 561,
-      "changedFiles": 57
-    },
-    {
-      "number": 46574,
-      "title": "Fix lazy channel startup and onboarding imports",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-14T21:06:34Z",
-      "mergedAt": null,
-      "additions": 1279,
-      "deletions": 574,
-      "changedFiles": 61
-    },
-    {
-      "number": 46301,
-      "title": "Fix configure startup stalls from outbound send-deps imports",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-14T15:50:26Z",
-      "mergedAt": "2026-03-14T16:58:04Z",
-      "additions": 65,
-      "deletions": 57,
-      "changedFiles": 18
-    },
-    {
-      "number": 46066,
-      "title": "fix(ci): update vitest configs after channel move to extensions/",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-14T11:55:11Z",
-      "mergedAt": "2026-03-14T18:23:25Z",
-      "additions": 218,
-      "deletions": 183,
-      "changedFiles": 19
-    },
-    {
-      "number": 45967,
-      "title": "refactor: remove channel shim directories, point all imports to extensions",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-14T10:10:04Z",
-      "mergedAt": "2026-03-14T10:43:07Z",
-      "additions": 524,
-      "deletions": 1088,
-      "changedFiles": 534
-    },
-    {
-      "number": 45725,
-      "title": "refactor: move WhatsApp channel implementation to extensions/",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-14T04:12:59Z",
-      "mergedAt": "2026-03-14T09:44:56Z",
-      "additions": 6960,
-      "deletions": 6826,
-      "changedFiles": 155
-    },
-    {
-      "number": 45660,
-      "title": "refactor: move Discord channel implementation to extensions/",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-14T02:36:41Z",
-      "mergedAt": "2026-03-14T09:53:57Z",
-      "additions": 26180,
-      "deletions": 26016,
-      "changedFiles": 283
-    },
-    {
-      "number": 45635,
-      "title": "refactor: move Telegram channel implementation to extensions/",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-14T02:12:28Z",
-      "mergedAt": "2026-03-14T09:50:17Z",
-      "additions": 19157,
-      "deletions": 19204,
-      "changedFiles": 230
-    },
-    {
-      "number": 45621,
-      "title": "refactor: move Slack channel implementation to extensions/",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-14T01:58:31Z",
-      "mergedAt": "2026-03-14T09:47:04Z",
-      "additions": 20551,
-      "deletions": 20287,
-      "changedFiles": 252
-    },
-    {
-      "number": 45539,
-      "title": "refactor: move iMessage implementation to extension",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-13T23:47:09Z",
-      "mergedAt": "2026-03-14T09:44:23Z",
-      "additions": 2700,
-      "deletions": 2657,
-      "changedFiles": 54
     }
   ],
-  "recentIssues": [
-    {
-      "number": 39192,
-      "title": "bug: OpenAI TTS plugin schema missing speed and instructions (additionalProperties: false)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-07T21:24:47Z",
-      "closedAt": "2026-03-11T17:45:50Z"
-    },
-    {
-      "number": 39191,
-      "title": "bug: synology-chat ignores SYNOLOGY_RATE_LIMIT=0 (parseInt || 30 truthy check)",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T21:24:41Z",
-      "closedAt": null
-    },
-    {
-      "number": 39190,
-      "title": "bug: voice-call STT vadThreshold: 0 and silenceDurationMs: 0 silently ignored",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T21:24:35Z",
-      "closedAt": null
-    },
-    {
-      "number": 39188,
-      "title": "bug: parseLaunchctlPrint accepts PID 0 (inconsistent with systemd parser)",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T21:24:24Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 49237,
@@ -318,24 +280,34 @@
       "prNumber": 49237,
       "state": "COMMENTED",
       "createdAt": "2026-03-17T21:33:47Z"
-    },
-    {
-      "prNumber": 39153,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T20:16:30Z"
-    },
-    {
-      "prNumber": 39151,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T20:16:23Z"
-    },
-    {
-      "prNumber": 39151,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-07T20:16:14Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 7,
       "issues": 0,
@@ -360,27 +332,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 13,
-      "issues": 4,
-      "reviews": 3
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
@@ -410,20 +366,6 @@
       "id": "mega-coder",
       "label": "Mega Coder",
       "description": "50K+ lines added"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-18": 5,
-    "2026-03-17": 2,
-    "2026-03-14": 11,
-    "2026-03-13": 2,
-    "2026-03-09": 2,
-    "2026-03-03": 4,
-    "2026-03-02": 21
-  }
+  ]
 }

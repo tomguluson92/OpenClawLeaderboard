@@ -3,55 +3,123 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1540134?v=4",
   "githubUrl": "https://github.com/ngutman",
   "score": {
-    "score": 784.58,
-    "prScore": 723.08,
+    "score": 830.05,
+    "prScore": 768.55,
     "issueScore": 0,
-    "reviewScore": 36,
-    "commentScore": 25.5
+    "reviewScore": 42,
+    "commentScore": 19.5
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
-    "commits": 67,
-    "prs": 24,
-    "prsMerged": 21,
-    "prAdditions": 14661,
-    "prDeletions": 1887,
-    "prChangedFiles": 262,
+    "commits": 74,
+    "prs": 26,
+    "prsMerged": 23,
+    "prAdditions": 16345,
+    "prDeletions": 2357,
+    "prChangedFiles": 244,
     "prMergeRate": 88,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 12,
+    "reviews": 14,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 51,
-    "commitAdditions": 15973,
-    "commitDeletions": 2801,
-    "commitChangedFiles": 442
+    "comments": 39
   },
   "period": {
     "weekly": {
-      "prs": 14,
+      "prs": 7,
       "issues": 0,
-      "reviews": 9,
-      "comments": 20,
-      "commitAdditions": 5542,
-      "commitDeletions": 464,
-      "commits": 11
+      "reviews": 2,
+      "comments": 8
     },
     "monthly": {
-      "prs": 24,
+      "prs": 26,
       "issues": 0,
-      "reviews": 12,
-      "comments": 51,
-      "commitAdditions": 14404,
-      "commitDeletions": 1747,
-      "commits": 50
+      "reviews": 14,
+      "comments": 39
     }
   },
-  "firstContribution": "2026-03-07T14:46:23Z",
-  "lastContribution": "2026-03-19T13:21:28Z",
+  "firstContribution": "2026-03-10T18:54:39Z",
+  "lastContribution": "2026-03-26T08:15:41Z",
   "recentPRs": [
+    {
+      "number": 54697,
+      "title": "fix(discord): force fresh gateway reconnects",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T20:46:52Z",
+      "mergedAt": "2026-03-26T10:05:01Z",
+      "additions": 473,
+      "deletions": 45,
+      "changedFiles": 3
+    },
+    {
+      "number": 54684,
+      "title": "refactor(sandbox): remove tool policy facade",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T20:18:35Z",
+      "mergedAt": "2026-03-25T21:03:24Z",
+      "additions": 427,
+      "deletions": 425,
+      "changedFiles": 10
+    },
+    {
+      "number": 54492,
+      "title": "fix(sandbox): honor sandbox alsoAllow and explicit re-allows",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T13:49:19Z",
+      "mergedAt": "2026-03-25T14:51:13Z",
+      "additions": 815,
+      "deletions": 113,
+      "changedFiles": 12
+    },
+    {
+      "number": 53111,
+      "title": "fix(memory): bootstrap lancedb runtime on demand",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T19:47:53Z",
+      "mergedAt": "2026-03-23T20:07:24Z",
+      "additions": 459,
+      "deletions": 23,
+      "changedFiles": 6
+    },
+    {
+      "number": 53059,
+      "title": "docs(changelog): add channel catalog override note",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T17:52:23Z",
+      "mergedAt": "2026-03-23T17:52:32Z",
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 52988,
+      "title": "fix(channels): preserve external catalog overrides",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T15:55:18Z",
+      "mergedAt": "2026-03-23T16:08:17Z",
+      "additions": 260,
+      "deletions": 16,
+      "changedFiles": 5
+    },
+    {
+      "number": 52913,
+      "title": "fix(release): preserve shipped channel surfaces in npm tar",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T14:08:43Z",
+      "mergedAt": "2026-03-23T15:39:22Z",
+      "additions": 483,
+      "deletions": 23,
+      "changedFiles": 14
+    },
     {
       "number": 50431,
       "title": "fix(plugins): share command registry across module graphs",
@@ -194,87 +262,20 @@
       "additions": 4254,
       "deletions": 143,
       "changedFiles": 41
-    },
-    {
-      "number": 45054,
-      "title": "feat(ios): add onboarding welcome pager",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-13T11:47:25Z",
-      "mergedAt": "2026-03-13T12:24:16Z",
-      "additions": 172,
-      "deletions": 14,
-      "changedFiles": 6
-    },
-    {
-      "number": 43882,
-      "title": "fix(doctor): canonicalize gateway service entrypoint paths",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-12T09:12:38Z",
-      "mergedAt": "2026-03-12T10:39:22Z",
-      "additions": 186,
-      "deletions": 18,
-      "changedFiles": 4
-    },
-    {
-      "number": 43369,
-      "title": "feat(push): add iOS APNs relay gateway",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-11T17:12:27Z",
-      "mergedAt": "2026-03-12T16:15:35Z",
-      "additions": 3242,
-      "deletions": 196,
-      "changedFiles": 36
-    },
-    {
-      "number": 43100,
-      "title": "macOS/onboarding: prompt for remote gateway auth tokens",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-11T10:37:32Z",
-      "mergedAt": "2026-03-11T11:53:20Z",
-      "additions": 868,
-      "deletions": 194,
-      "changedFiles": 12
-    },
-    {
-      "number": 42991,
-      "title": "feat(ios): add local beta release flow",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-11T08:55:46Z",
-      "mergedAt": "2026-03-11T10:32:29Z",
-      "additions": 569,
-      "deletions": 79,
-      "changedFiles": 21
-    },
-    {
-      "number": 42456,
-      "title": "feat(ios): refresh home canvas toolbar and scaffold",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-10T18:54:39Z",
-      "mergedAt": "2026-03-10T19:44:00Z",
-      "additions": 1076,
-      "deletions": 258,
-      "changedFiles": 13
-    },
-    {
-      "number": 40228,
-      "title": "fix(ci): restore branch-scoped secrets scans",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T20:12:28Z",
-      "mergedAt": "2026-03-08T20:21:49Z",
-      "additions": 25,
-      "deletions": 16,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 54684,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T20:32:15Z"
+    },
+    {
+      "prNumber": 54492,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T14:36:17Z"
+    },
     {
       "prNumber": 50416,
       "state": "COMMENTED",
@@ -337,6 +338,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-23": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 3,
       "issues": 0,
@@ -381,16 +392,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -426,32 +427,5 @@
       "label": "Prolific Coder",
       "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-19": 1,
-    "2026-03-17": 1,
-    "2026-03-16": 1,
-    "2026-03-15": 4,
-    "2026-03-14": 3,
-    "2026-03-13": 1,
-    "2026-03-12": 3,
-    "2026-03-11": 2,
-    "2026-03-10": 2,
-    "2026-03-08": 5,
-    "2026-03-07": 3,
-    "2026-03-03": 1,
-    "2026-02-26": 3,
-    "2026-02-25": 4,
-    "2026-02-24": 2,
-    "2026-02-23": 3,
-    "2026-02-21": 4,
-    "2026-02-20": 4,
-    "2026-02-19": 1,
-    "2026-02-18": 2,
-    "2026-02-17": 7,
-    "2026-02-16": 1,
-    "2026-01-25": 2,
-    "2026-01-24": 1,
-    "2026-01-22": 1
-  }
+  ]
 }

@@ -3,65 +3,56 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/15571697?u=3f46c23db58aece2d61c1642ffcfbb0a8b49be7d&v=4",
   "githubUrl": "https://github.com/fmercurio",
   "score": {
-    "score": 9.33,
-    "prScore": 7.83,
+    "score": 14.15,
+    "prScore": 14.15,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 13,
+    "prsMerged": 1,
+    "prAdditions": 98,
     "prDeletions": 2,
-    "prChangedFiles": 1,
-    "prMergeRate": 0,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-07T19:30:31Z",
+  "firstContribution": "2026-03-12T00:08:56Z",
   "lastContribution": "2026-03-12T00:08:56Z",
   "recentPRs": [
     {
       "number": 43540,
       "title": "fix(android): use scheme default port for gateway setup URLs",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-12T00:08:56Z",
-      "mergedAt": null,
-      "additions": 13,
+      "mergedAt": "2026-03-22T04:51:39Z",
+      "additions": 98,
       "deletions": 2,
-      "changedFiles": 1
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
@@ -74,9 +65,7 @@
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -24,29 +24,20 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 6
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 6
     }
   },
   "firstContribution": "2026-03-16T06:53:33Z",
@@ -55,7 +46,7 @@
     {
       "number": 49554,
       "title": "fix(zalo): resolve inbound images from photo_url field with fallback to photo",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T07:09:44Z",
       "mergedAt": null,
@@ -99,6 +90,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

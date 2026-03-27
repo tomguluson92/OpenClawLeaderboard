@@ -3,67 +3,46 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/35580099?v=4",
   "githubUrl": "https://github.com/thewilloftheshadow",
   "score": {
-    "score": 1758.33,
-    "prScore": 1751.33,
+    "score": 1570.5,
+    "prScore": 1565,
     "issueScore": 0,
     "reviewScore": 4,
-    "commentScore": 3
+    "commentScore": 1.5
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
     "commits": 313,
-    "prs": 1,
-    "prsMerged": 1,
-    "prAdditions": 1,
+    "prs": 0,
+    "prsMerged": 0,
+    "prAdditions": 0,
     "prDeletions": 0,
-    "prChangedFiles": 1,
-    "prMergeRate": 100,
+    "prChangedFiles": 0,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 1,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 81650,
-    "commitDeletions": 45800,
-    "commitChangedFiles": 1964
+    "comments": 3
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 1,
-      "comments": 6,
-      "commitAdditions": 14269,
-      "commitDeletions": 3386,
-      "commits": 67
+      "comments": 3
     }
   },
-  "firstContribution": "2026-03-06T21:53:01Z",
-  "lastContribution": "2026-03-15T14:31:37Z",
-  "recentPRs": [
-    {
-      "number": 38356,
-      "title": "docs: add changelog entry for Feishu timeout cleanup",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-06T21:53:01Z",
-      "mergedAt": "2026-03-06T21:53:10Z",
-      "additions": 1,
-      "deletions": 0,
-      "changedFiles": 1
-    }
-  ],
+  "firstContribution": "2026-03-09T21:11:43Z",
+  "lastContribution": "2026-03-20T17:49:48Z",
+  "recentPRs": [],
   "recentIssues": [],
   "recentReviews": [
     {
@@ -73,11 +52,6 @@
     }
   ],
   "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
     "2026-03-10": {
       "prs": 0,
       "issues": 0,
@@ -85,7 +59,6 @@
     }
   },
   "skills": [
-    "Pull Requests",
     "Code Review",
     "Discussion",
     "Direct Commits"
@@ -96,36 +69,5 @@
       "label": "Centurion",
       "description": "100+ commits"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-11": 1,
-    "2026-03-10": 4,
-    "2026-03-08": 1,
-    "2026-03-06": 7,
-    "2026-03-03": 20,
-    "2026-03-01": 2,
-    "2026-02-28": 2,
-    "2026-02-26": 1,
-    "2026-02-25": 1,
-    "2026-02-21": 10,
-    "2026-02-20": 17,
-    "2026-02-19": 1,
-    "2026-02-17": 5,
-    "2026-02-16": 8,
-    "2026-02-15": 7,
-    "2026-02-14": 6,
-    "2026-02-13": 22,
-    "2026-02-12": 12,
-    "2026-02-11": 3,
-    "2026-02-10": 11,
-    "2026-02-02": 1,
-    "2026-02-01": 4,
-    "2026-01-28": 14,
-    "2026-01-27": 16,
-    "2026-01-26": 50,
-    "2026-01-25": 1,
-    "2026-01-21": 1,
-    "2026-01-20": 1,
-    "2026-01-19": 1
-  }
+  ]
 }

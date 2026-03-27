@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1996768?u=3e42d5bd458000486d71728af96deafb290b5a81&v=4",
   "githubUrl": "https://github.com/raw34",
   "score": {
-    "score": 49.05,
+    "score": 39.05,
     "prScore": 27.05,
-    "issueScore": 10,
+    "issueScore": 0,
     "reviewScore": 12,
     "commentScore": 0
   },
@@ -19,37 +19,28 @@
     "prDeletions": 15,
     "prChangedFiles": 8,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 2,
+      "issues": 0,
       "reviews": 4,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-12T02:12:24Z",
+  "firstContribution": "2026-03-12T02:12:56Z",
   "lastContribution": "2026-03-14T00:07:33Z",
   "recentPRs": [
     {
@@ -75,22 +66,7 @@
       "changedFiles": 6
     }
   ],
-  "recentIssues": [
-    {
-      "number": 44524,
-      "title": "[Bug]: Discord mention detection fails when mentionedUsers array is empty",
-      "state": "OPEN",
-      "createdAt": "2026-03-13T01:50:18Z",
-      "closedAt": null
-    },
-    {
-      "number": 43587,
-      "title": "[Feature]: Slack allowBots: \"mentions\" mode (parity with Discord)",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T02:12:24Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 44526,
@@ -116,12 +92,12 @@
   "recentActivityDays": {
     "2026-03-13": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 2
     },
     "2026-03-12": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 1
     },
     "2026-03-14": {
@@ -132,15 +108,7 @@
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
-    "Issue Reporting"
+    "Code Review"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

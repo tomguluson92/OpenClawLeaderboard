@@ -3,55 +3,112 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/201650844?u=efe0efa5071d0e91feaddd8ebb7239f921785dae&v=4",
   "githubUrl": "https://github.com/artemgetmann",
   "score": {
-    "score": 321.68,
-    "prScore": 305.18,
+    "score": 374.55,
+    "prScore": 356.05,
     "issueScore": 0,
     "reviewScore": 9,
-    "commentScore": 7.5
+    "commentScore": 9.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 21,
+    "prs": 25,
     "prsMerged": 0,
-    "prAdditions": 36079,
-    "prDeletions": 1926,
-    "prChangedFiles": 674,
+    "prAdditions": 162258,
+    "prDeletions": 12344,
+    "prChangedFiles": 2442,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 15,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 19
   },
   "period": {
     "weekly": {
-      "prs": 14,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     },
     "monthly": {
-      "prs": 21,
+      "prs": 25,
       "issues": 0,
       "reviews": 3,
-      "comments": 15,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 19
     }
   },
-  "firstContribution": "2026-03-09T08:06:58Z",
-  "lastContribution": "2026-03-17T08:40:31Z",
+  "firstContribution": "2026-03-10T07:11:38Z",
+  "lastContribution": "2026-03-27T07:32:31Z",
   "recentPRs": [
+    {
+      "number": 55635,
+      "title": "fix(telegram): preserve dm-topic callback routing",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T07:32:07Z",
+      "mergedAt": null,
+      "additions": 26769,
+      "deletions": 2429,
+      "changedFiles": 393
+    },
+    {
+      "number": 53396,
+      "title": "fix(browser): port upstream existing-session readiness and profile targeting [AI-assisted]",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T05:01:29Z",
+      "mergedAt": null,
+      "additions": 23007,
+      "deletions": 1863,
+      "changedFiles": 327
+    },
+    {
+      "number": 53290,
+      "title": "fix(browser): keep browser lanes sticky and reconcile opened tabs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T02:01:56Z",
+      "mergedAt": null,
+      "additions": 21821,
+      "deletions": 1718,
+      "changedFiles": 308
+    },
+    {
+      "number": 52907,
+      "title": "fix: warn on nested .openclaw state root causing memory_search zero results",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T13:59:54Z",
+      "mergedAt": null,
+      "additions": 21748,
+      "deletions": 1782,
+      "changedFiles": 313
+    },
+    {
+      "number": 52594,
+      "title": "feat(scripts): add worktree GC and mac dev launch helpers",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T03:05:00Z",
+      "mergedAt": null,
+      "additions": 17076,
+      "deletions": 1333,
+      "changedFiles": 223
+    },
+    {
+      "number": 52083,
+      "title": "fix(agents): recover masked provider errors in threaded runs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T04:45:02Z",
+      "mergedAt": null,
+      "additions": 16011,
+      "deletions": 1302,
+      "changedFiles": 211
+    },
     {
       "number": 48865,
       "title": "docs(gateway): add silent-exit recovery guide and AGENTS.md pointer",
@@ -205,72 +262,6 @@
       "additions": 109,
       "deletions": 4,
       "changedFiles": 4
-    },
-    {
-      "number": 43428,
-      "title": "fix(browser): harden extension relay auth-redirect tab continuity",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-11T19:34:12Z",
-      "mergedAt": null,
-      "additions": 1191,
-      "deletions": 91,
-      "changedFiles": 9
-    },
-    {
-      "number": 42055,
-      "title": "fix(auth,voice-call): clean oauth duplicates and guard webhooks",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-10T10:40:30Z",
-      "mergedAt": null,
-      "additions": 606,
-      "deletions": 1,
-      "changedFiles": 7
-    },
-    {
-      "number": 41957,
-      "title": "fix(auto-reply): split typing-timeout stability fix from #41883",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-10T08:29:44Z",
-      "mergedAt": null,
-      "additions": 214,
-      "deletions": 4,
-      "changedFiles": 5
-    },
-    {
-      "number": 41956,
-      "title": "fix(telegram): split watchdog stability fixes from #41883",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-10T08:29:25Z",
-      "mergedAt": null,
-      "additions": 128,
-      "deletions": 3,
-      "changedFiles": 4
-    },
-    {
-      "number": 41883,
-      "title": "fix(telegram,auto-reply): reduce false stall and timeout churn",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-10T07:11:38Z",
-      "mergedAt": null,
-      "additions": 340,
-      "deletions": 6,
-      "changedFiles": 9
-    },
-    {
-      "number": 41011,
-      "title": "fix(telegram): harden poll stall watchdog threshold",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T13:03:04Z",
-      "mergedAt": null,
-      "additions": 39,
-      "deletions": 5,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -292,6 +283,26 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-17": {
       "prs": 4,
       "issues": 0,
@@ -316,11 +327,6 @@
       "prs": 4,
       "issues": 0,
       "reviews": 3
-    },
-    "2026-03-09": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -339,7 +345,11 @@
       "id": "prolific",
       "label": "Prolific Coder",
       "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

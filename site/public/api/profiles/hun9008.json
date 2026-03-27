@@ -1,0 +1,149 @@
+{
+  "username": "hun9008",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/79917152?u=9d396fa342856fdd2cef353e0cdb11b018d50911&v=4",
+  "githubUrl": "https://github.com/hun9008",
+  "score": {
+    "score": 102.83,
+    "prScore": 102.33,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 8,
+    "prsMerged": 0,
+    "prAdditions": 611,
+    "prDeletions": 212,
+    "prChangedFiles": 23,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-24T05:56:03Z",
+  "lastContribution": "2026-03-24T12:44:29Z",
+  "recentPRs": [
+    {
+      "number": 53677,
+      "title": "perf(memory): stream line-window reads for memory files",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T12:44:29Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 53670,
+      "title": "perf(health): probe channel accounts in parallel",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T12:35:48Z",
+      "mergedAt": null,
+      "additions": 139,
+      "deletions": 82,
+      "changedFiles": 3
+    },
+    {
+      "number": 53665,
+      "title": "perf(memory): avoid full sort in vector fallback search",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T12:29:38Z",
+      "mergedAt": null,
+      "additions": 143,
+      "deletions": 18,
+      "changedFiles": 2
+    },
+    {
+      "number": 53660,
+      "title": "perf(memory): reuse parsed session entries for append-only sync",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T12:20:22Z",
+      "mergedAt": null,
+      "additions": 120,
+      "deletions": 44,
+      "changedFiles": 3
+    },
+    {
+      "number": 53557,
+      "title": "improve memory search status visibility",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T09:00:27Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 53473,
+      "title": "improve local embeddings doctor guidance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T06:42:00Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 19,
+      "changedFiles": 4
+    },
+    {
+      "number": 53460,
+      "title": "fix(agents): normalize llama.cpp and Ollama context usage aliases",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T06:22:52Z",
+      "mergedAt": null,
+      "additions": 79,
+      "deletions": 20,
+      "changedFiles": 5
+    },
+    {
+      "number": 53437,
+      "title": "fix(ui): prevent exec approval command overflow",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T05:56:03Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 16,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": []
+}

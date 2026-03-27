@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6828924?u=0594ae777bdb9c4274c76e4d5dbe8d7308325364&v=4",
   "githubUrl": "https://github.com/vagusX",
   "score": {
-    "score": 34.98,
-    "prScore": 34.98,
+    "score": 96.45,
+    "prScore": 96.45,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 170,
-    "prDeletions": 6,
-    "prChangedFiles": 9,
+    "prAdditions": 1488,
+    "prDeletions": 14,
+    "prChangedFiles": 28,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-11T16:22:52Z",
-  "lastContribution": "2026-03-17T10:05:41Z",
+  "lastContribution": "2026-03-25T09:00:26Z",
   "recentPRs": [
+    {
+      "number": 54377,
+      "title": "CLI: support npm: prefix for plugins install",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T09:00:26Z",
+      "mergedAt": null,
+      "additions": 154,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 54354,
+      "title": "Plugins: add engine compatibility check for install and update",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T08:16:22Z",
+      "mergedAt": null,
+      "additions": 1164,
+      "deletions": 6,
+      "changedFiles": 13
+    },
     {
       "number": 48911,
       "title": "feat: add logging.dir config for custom log directory",
@@ -89,6 +102,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-17": {
       "prs": 2,
       "issues": 0,
@@ -103,6 +121,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

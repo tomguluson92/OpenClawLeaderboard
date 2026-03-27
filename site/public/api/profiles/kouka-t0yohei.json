@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/261699157?u=85e7aee37c4271d3d4975c2a2f0cc5afb0e053f7&v=4",
   "githubUrl": "https://github.com/kouka-t0yohei",
   "score": {
-    "score": 14.85,
+    "score": 9.35,
     "prScore": 8.85,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 1,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-08T12:28:00Z",
+  "firstContribution": "2026-03-12T12:19:40Z",
   "lastContribution": "2026-03-14T09:01:09Z",
   "recentPRs": [
     {
@@ -64,33 +55,18 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 39825,
-      "title": "[Bug]: Discord native /vc join fails immediately with 'The operation was aborted' and no active session",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T12:28:00Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

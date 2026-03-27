@@ -3,55 +3,90 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/220139611?u=74219e3183d76b8b6093b58a0d5b552ba32643fa&v=4",
   "githubUrl": "https://github.com/ChroniCat",
   "score": {
-    "score": 99.89,
-    "prScore": 99.89,
+    "score": 148.51,
+    "prScore": 148.01,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 8,
     "prsMerged": 1,
-    "prAdditions": 870,
-    "prDeletions": 65,
-    "prChangedFiles": 27,
-    "prMergeRate": 25,
+    "prAdditions": 1284,
+    "prDeletions": 104,
+    "prChangedFiles": 41,
+    "prMergeRate": 13,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 111,
-    "commitDeletions": 5,
-    "commitChangedFiles": 6
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 111,
-      "commitDeletions": 5,
-      "commits": 1
+      "comments": 1
     },
     "monthly": {
-      "prs": 4,
+      "prs": 8,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 111,
-      "commitDeletions": 5,
-      "commits": 1
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-18T03:45:56Z",
-  "lastContribution": "2026-03-19T10:16:38Z",
+  "lastContribution": "2026-03-21T09:45:38Z",
   "recentPRs": [
+    {
+      "number": 51531,
+      "title": "fix(discord): preserve requireMention for ACP thread sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T09:45:38Z",
+      "mergedAt": null,
+      "additions": 100,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 50993,
+      "title": "fix(ui): preserve model provider switches in chat picker",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T10:45:15Z",
+      "mergedAt": null,
+      "additions": 120,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 50980,
+      "title": "fix(ui): keep exec approval actions reachable",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T10:15:49Z",
+      "mergedAt": null,
+      "additions": 121,
+      "deletions": 21,
+      "changedFiles": 7
+    },
+    {
+      "number": 50970,
+      "title": "fix(cli): keep nodes list consistent with live paired nodes",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T09:27:59Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 14,
+      "changedFiles": 2
+    },
     {
       "number": 50369,
       "title": "test(contracts): cover matrix session binding adapters",
@@ -100,6 +135,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
@@ -112,10 +157,8 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-19": 1
-  }
+  "achievements": []
 }

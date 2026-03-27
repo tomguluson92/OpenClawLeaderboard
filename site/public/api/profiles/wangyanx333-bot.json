@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/264718576?v=4",
   "githubUrl": "https://github.com/wangyanx333-bot",
   "score": {
-    "score": 17.91,
+    "score": 9.91,
     "prScore": 9.91,
-    "issueScore": 8,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 2,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-10T16:32:17Z",
+  "firstContribution": "2026-03-10T16:32:48Z",
   "lastContribution": "2026-03-10T16:32:48Z",
   "recentPRs": [
     {
@@ -64,27 +55,17 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42348,
-      "title": "Telegram polling can be interrupted by unrelated Slack DNS errors and fail to self-recover",
-      "state": "CLOSED",
-      "createdAt": "2026-03-10T16:32:17Z",
-      "closedAt": "2026-03-12T07:44:19Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/204263091?v=4",
   "githubUrl": "https://github.com/emcc24444",
   "score": {
-    "score": 29.04,
+    "score": 24.04,
     "prScore": 23.54,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 4,
     "prChangedFiles": 8,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-08T00:50:29Z",
+  "firstContribution": "2026-03-11T09:15:32Z",
   "lastContribution": "2026-03-11T09:30:19Z",
   "recentPRs": [
     {
@@ -64,33 +55,18 @@
       "changedFiles": 8
     }
   ],
-  "recentIssues": [
-    {
-      "number": 39305,
-      "title": "Feature request: Escalating stall recovery for sub-agents (nudge → kill)",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T00:50:29Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

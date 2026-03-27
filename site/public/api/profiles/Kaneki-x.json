@@ -1,57 +1,81 @@
 {
   "username": "Kaneki-x",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/6857108?u=7c61097b3191c1b2a688f40d92e5fa0e00539aa5&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6857108?v=4",
   "githubUrl": "https://github.com/Kaneki-x",
   "score": {
-    "score": 122.78,
-    "prScore": 111.28,
+    "score": 258.5,
+    "prScore": 245.5,
     "issueScore": 0,
     "reviewScore": 3,
-    "commentScore": 8.5
+    "commentScore": 10
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 0,
-    "prs": 12,
-    "prsMerged": 1,
-    "prAdditions": 300,
-    "prDeletions": 165,
-    "prChangedFiles": 12,
-    "prMergeRate": 8,
+    "commits": 12,
+    "prs": 15,
+    "prsMerged": 11,
+    "prAdditions": 368,
+    "prDeletions": 194,
+    "prChangedFiles": 25,
+    "prMergeRate": 73,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 17,
-    "commitAdditions": 22,
-    "commitDeletions": 18,
-    "commitChangedFiles": 1
+    "comments": 20
   },
   "period": {
     "weekly": {
       "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 22,
-      "commitDeletions": 18,
-      "commits": 1
+      "comments": 3
     },
     "monthly": {
-      "prs": 12,
+      "prs": 15,
       "issues": 0,
       "reviews": 1,
-      "comments": 17,
-      "commitAdditions": 22,
-      "commitDeletions": 18,
-      "commits": 1
+      "comments": 20
     }
   },
   "firstContribution": "2026-03-10T07:18:26Z",
-  "lastContribution": "2026-03-14T07:09:20Z",
+  "lastContribution": "2026-03-22T15:25:42Z",
   "recentPRs": [
+    {
+      "number": 52318,
+      "title": "Android: make current-location callback cancellation-safe",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T15:25:15Z",
+      "mergedAt": "2026-03-22T17:10:45Z",
+      "additions": 5,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 52310,
+      "title": "Android: fix MediaPlayer double-release race in TalkModeManager",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T15:04:04Z",
+      "mergedAt": "2026-03-22T17:01:30Z",
+      "additions": 21,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 52296,
+      "title": "Android: fix AudioTrack cleanup race and backward seek crash",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T14:41:04Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 12,
+      "changedFiles": 2
+    },
     {
       "number": 45821,
       "title": "Android: make current-location callback cancellation-safe",
@@ -66,18 +90,18 @@
     {
       "number": 45817,
       "title": "Android: harden permission dialogs across activity teardown",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-14T07:06:14Z",
-      "mergedAt": null,
-      "additions": 84,
+      "mergedAt": "2026-03-22T03:04:02Z",
+      "additions": 79,
       "deletions": 21,
       "changedFiles": 1
     },
     {
       "number": 45815,
       "title": "Android: guard ElevenLabs AudioTrack cleanup races",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T07:03:22Z",
       "mergedAt": null,
@@ -88,21 +112,21 @@
     {
       "number": 43784,
       "title": "Android: fix incomplete JS string escaping in A2UI action status",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-12T07:12:03Z",
-      "mergedAt": null,
-      "additions": 12,
-      "deletions": 2,
-      "changedFiles": 1
+      "mergedAt": "2026-03-22T03:09:54Z",
+      "additions": 21,
+      "deletions": 3,
+      "changedFiles": 3
     },
     {
       "number": 43781,
       "title": "Android: fix sensor callback race condition in MotionHandler",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-12T07:10:57Z",
-      "mergedAt": null,
+      "mergedAt": "2026-03-22T03:11:02Z",
       "additions": 14,
       "deletions": 18,
       "changedFiles": 1
@@ -121,7 +145,7 @@
     {
       "number": 41904,
       "title": "Android: fix backward seek crash in StreamingMediaDataSource",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T07:30:03Z",
       "mergedAt": null,
@@ -132,57 +156,57 @@
     {
       "number": 41902,
       "title": "Android: fix Bitmap memory leaks in CameraCaptureManager.snap",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-10T07:29:15Z",
-      "mergedAt": null,
-      "additions": 36,
+      "mergedAt": "2026-03-22T03:14:07Z",
+      "additions": 37,
       "deletions": 30,
-      "changedFiles": 1
+      "changedFiles": 2
     },
     {
       "number": 41891,
       "title": "Android: escape SQL LIKE wildcards in contacts search query",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-10T07:20:10Z",
-      "mergedAt": null,
-      "additions": 5,
+      "mergedAt": "2026-03-22T03:18:29Z",
+      "additions": 6,
       "deletions": 2,
-      "changedFiles": 1
+      "changedFiles": 2
     },
     {
       "number": 41890,
       "title": "Android: fix temp file leak in CameraHandler.handleClip",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-10T07:19:33Z",
-      "mergedAt": null,
-      "additions": 5,
+      "mergedAt": "2026-03-22T03:19:50Z",
+      "additions": 6,
       "deletions": 3,
-      "changedFiles": 1
+      "changedFiles": 2
     },
     {
       "number": 41889,
       "title": "Android: fix Bitmap memory leaks in CanvasController snapshots",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-10T07:18:59Z",
-      "mergedAt": null,
-      "additions": 28,
+      "mergedAt": "2026-03-22T03:20:42Z",
+      "additions": 29,
       "deletions": 14,
-      "changedFiles": 1
+      "changedFiles": 2
     },
     {
       "number": 41888,
       "title": "Android: fix Bitmap memory leaks in PhotosHandler",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-10T07:18:26Z",
-      "mergedAt": null,
-      "additions": 49,
+      "mergedAt": "2026-03-22T03:23:26Z",
+      "additions": 50,
       "deletions": 34,
-      "changedFiles": 1
+      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -194,6 +218,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 3,
       "issues": 0,
@@ -213,16 +242,24 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion"
+    "Discussion",
+    "Direct Commits"
   ],
   "achievements": [
     {
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-13": 1
-  }
+  ]
 }

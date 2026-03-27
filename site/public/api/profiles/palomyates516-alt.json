@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/231502129?v=4",
   "githubUrl": "https://github.com/palomyates516-alt",
   "score": {
-    "score": 309.23,
-    "prScore": 303.23,
+    "score": 171.64,
+    "prScore": 169.64,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 6
+    "commentScore": 2
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 23,
+    "prs": 15,
     "prsMerged": 0,
-    "prAdditions": 757,
-    "prDeletions": 12361,
-    "prChangedFiles": 85,
+    "prAdditions": 638,
+    "prDeletions": 677,
+    "prChangedFiles": 30,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 12,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 23,
+      "prs": 15,
       "issues": 0,
       "reviews": 0,
-      "comments": 12,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-06T08:13:44Z",
+  "firstContribution": "2026-03-10T02:06:59Z",
   "lastContribution": "2026-03-16T22:14:58Z",
   "recentPRs": [
     {
@@ -216,61 +207,6 @@
       "additions": 4,
       "deletions": 0,
       "changedFiles": 1
-    },
-    {
-      "number": 39851,
-      "title": "fix(gateway): seed Control UI origins for CLI --bind override",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T13:05:10Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 3,
-      "changedFiles": 3
-    },
-    {
-      "number": 39342,
-      "title": "fix(gateway): seed Control UI origins for CLI --bind override",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T01:25:57Z",
-      "mergedAt": null,
-      "additions": 12,
-      "deletions": 2334,
-      "changedFiles": 11
-    },
-    {
-      "number": 39334,
-      "title": "fix(voice-call): use nullish coalescing for TTS speed config",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T01:16:20Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 2332,
-      "changedFiles": 9
-    },
-    {
-      "number": 38490,
-      "title": "fix(gateway): distinguish TUI from WebUI in reply routing",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T02:34:12Z",
-      "mergedAt": null,
-      "additions": 8,
-      "deletions": 2332,
-      "changedFiles": 9
-    },
-    {
-      "number": 38462,
-      "title": "fix(plugin): prefer higher-precedence origin for duplicate plugin ids",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T01:44:15Z",
-      "mergedAt": null,
-      "additions": 67,
-      "deletions": 2342,
-      "changedFiles": 10
     }
   ],
   "recentIssues": [],
@@ -295,27 +231,11 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Discussion",
-    "Large-Scale Changes"
+    "Discussion"
   ],
   "achievements": [
     {
@@ -323,6 +243,5 @@
       "label": "PR Machine",
       "description": "10+ pull requests"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

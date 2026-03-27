@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/105884230?v=4",
   "githubUrl": "https://github.com/thiagorragazzo",
   "score": {
-    "score": 19.31,
-    "prScore": 19.31,
-    "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "score": 45.67,
+    "prScore": 27.67,
+    "issueScore": 5,
+    "reviewScore": 12,
+    "commentScore": 1
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 155,
-    "prDeletions": 13,
-    "prChangedFiles": 8,
+    "prAdditions": 290,
+    "prDeletions": 21,
+    "prChangedFiles": 12,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 2
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 1,
+      "reviews": 4,
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-20T06:37:51Z",
-  "lastContribution": "2026-03-20T06:37:51Z",
+  "lastContribution": "2026-03-25T22:30:22Z",
   "recentPRs": [
     {
       "number": 50895,
@@ -59,23 +50,65 @@
       "merged": false,
       "createdAt": "2026-03-20T06:37:51Z",
       "mergedAt": null,
-      "additions": 155,
-      "deletions": 13,
-      "changedFiles": 8
+      "additions": 290,
+      "deletions": 21,
+      "changedFiles": 12
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
+  "recentIssues": [
+    {
+      "number": 54735,
+      "title": "Request iOS TestFlight Access",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T22:30:22Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 50895,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T16:55:50Z"
+    },
+    {
+      "prNumber": 50895,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T16:55:48Z"
+    },
+    {
+      "prNumber": 50895,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T16:27:38Z"
+    },
+    {
+      "prNumber": 50895,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T16:27:37Z"
+    }
+  ],
   "recentActivityDays": {
     "2026-03-20": {
       "prs": 1,
       "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

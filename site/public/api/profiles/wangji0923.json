@@ -3,55 +3,90 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/269247549?v=4",
   "githubUrl": "https://github.com/wangji0923",
   "score": {
-    "score": 21,
-    "prScore": 16,
+    "score": 106.89,
+    "prScore": 86.39,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 2
+    "reviewScore": 9,
+    "commentScore": 11.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 26,
-    "prDeletions": 1,
-    "prChangedFiles": 2,
+    "prAdditions": 743,
+    "prDeletions": 90,
+    "prChangedFiles": 22,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 23
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 4,
       "issues": 0,
-      "reviews": 1,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 2,
+      "comments": 19
     },
     "monthly": {
-      "prs": 2,
+      "prs": 6,
       "issues": 0,
-      "reviews": 1,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 3,
+      "comments": 23
     }
   },
   "firstContribution": "2026-03-19T12:33:39Z",
-  "lastContribution": "2026-03-20T02:26:15Z",
+  "lastContribution": "2026-03-26T04:02:09Z",
   "recentPRs": [
+    {
+      "number": 54314,
+      "title": "fix(gateway): isolate cron nested lane concurrency",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T06:47:57Z",
+      "mergedAt": null,
+      "additions": 218,
+      "deletions": 21,
+      "changedFiles": 11
+    },
+    {
+      "number": 52371,
+      "title": "Agents: add missing tool parameter aliases",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T16:43:50Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 24,
+      "changedFiles": 2
+    },
+    {
+      "number": 51486,
+      "title": "fix(daemon): query Windows task runtime directly",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T07:40:24Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 21,
+      "changedFiles": 4
+    },
+    {
+      "number": 51053,
+      "title": "fix(cli): align nodes list with node status",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T13:06:23Z",
+      "mergedAt": null,
+      "additions": 332,
+      "deletions": 23,
+      "changedFiles": 3
+    },
     {
       "number": 50761,
       "title": "fix(matrix): isolate credentials runtime import boundary",
@@ -66,7 +101,7 @@
     {
       "number": 50427,
       "title": "fix(synology-chat): scope webhook session keys by account",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T12:48:56Z",
       "mergedAt": null,
@@ -78,14 +113,39 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 54314,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T11:52:12Z"
+    },
+    {
+      "prNumber": 54314,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T11:52:12Z"
+    },
+    {
       "prNumber": 50427,
       "state": "COMMENTED",
       "createdAt": "2026-03-19T13:09:07Z"
     }
   ],
   "recentActivityDays": {
-    "2026-03-20": {
+    "2026-03-25": {
       "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     },
@@ -100,6 +160,11 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    }
+  ]
 }

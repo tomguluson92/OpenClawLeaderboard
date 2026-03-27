@@ -3,59 +3,72 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3330043?u=4564d3c4a22414a33aa3758ab1a35bb98b6a4697&v=4",
   "githubUrl": "https://github.com/plexodus",
   "score": {
-    "score": 24.84,
-    "prScore": 19.34,
-    "issueScore": 5,
+    "score": 51.34,
+    "prScore": 50.84,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
-  "tier": "beginner",
-  "characterClass": "Hunter",
+  "tier": "regular",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 141,
-    "prDeletions": 29,
-    "prChangedFiles": 8,
+    "prAdditions": 213,
+    "prDeletions": 37,
+    "prChangedFiles": 18,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 3,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-10T09:11:28Z",
-  "lastContribution": "2026-03-13T12:15:17Z",
+  "firstContribution": "2026-03-13T12:15:17Z",
+  "lastContribution": "2026-03-23T11:46:36Z",
   "recentPRs": [
+    {
+      "number": 52812,
+      "title": "feat(acp): support ACP bindings on any channel (plugin channels)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T11:46:36Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 51560,
+      "title": "feat(acp): support ACP bindings on any channel (plugin channels)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T11:12:43Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 4,
+      "changedFiles": 5
+    },
     {
       "number": 45068,
       "title": "feat(acp): support ACP bindings on any channel (plugin channels)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T12:15:17Z",
       "mergedAt": null,
@@ -64,33 +77,28 @@
       "changedFiles": 8
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41988,
-      "title": "Support ACP bindings for plugin channels",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T09:11:28Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-13": {
+    "2026-03-23": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-10": {
-      "prs": 0,
-      "issues": 1,
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

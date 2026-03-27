@@ -1,0 +1,97 @@
+{
+  "username": "crowneglobal",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/119068860?v=4",
+  "githubUrl": "https://github.com/crowneglobal",
+  "score": {
+    "score": 24.07,
+    "prScore": 14.07,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 362,
+    "prDeletions": 0,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-21T23:09:00Z",
+  "lastContribution": "2026-03-24T11:03:07Z",
+  "recentPRs": [
+    {
+      "number": 53629,
+      "title": "feat(telegram): add Telegram Business Chat support (business_message, business_connection)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T11:03:07Z",
+      "mergedAt": null,
+      "additions": 362,
+      "deletions": 0,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 52462,
+      "title": "Bug: WhatsApp sessions not loaded as active after gateway restart (outbound fails, inbound works)",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T20:08:20Z",
+      "closedAt": null
+    },
+    {
+      "number": 51916,
+      "title": "Feature Request: Telegram Business message support (business_connection / business_message)",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T23:09:00Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": []
+}

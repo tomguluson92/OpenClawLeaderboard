@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258413720?v=4",
   "githubUrl": "https://github.com/wiwaxia-ai",
   "score": {
-    "score": 166.17,
-    "prScore": 160.17,
-    "issueScore": 5,
+    "score": 130.99,
+    "prScore": 120.49,
+    "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 10694,
+    "prAdditions": 7139,
     "prDeletions": 4,
-    "prChangedFiles": 62,
+    "prChangedFiles": 40,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 3,
-      "issues": 1,
+      "prs": 2,
+      "issues": 2,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-09T12:20:22Z",
-  "lastContribution": "2026-03-15T00:59:12Z",
+  "firstContribution": "2026-03-09T13:55:54Z",
+  "lastContribution": "2026-03-22T02:26:14Z",
   "recentPRs": [
     {
       "number": 41149,
@@ -73,20 +64,16 @@
       "additions": 3570,
       "deletions": 4,
       "changedFiles": 20
-    },
-    {
-      "number": 40963,
-      "title": "feat(extensions): add A2A cross-network agent-to-agent extension",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T12:20:22Z",
-      "mergedAt": null,
-      "additions": 3555,
-      "deletions": 0,
-      "changedFiles": 22
     }
   ],
   "recentIssues": [
+    {
+      "number": 52015,
+      "title": "Heartbeat: overlapping runs overwrite session and cause nested session keys",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T02:26:14Z",
+      "closedAt": null
+    },
     {
       "number": 46685,
       "title": "Memory index fetch failed: createPinnedLookup incompatible with undici v7",
@@ -98,8 +85,13 @@
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-09": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     },
     "2026-03-15": {
@@ -114,12 +106,5 @@
     "Discussion",
     "Large-Scale Changes"
   ],
-  "achievements": [
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

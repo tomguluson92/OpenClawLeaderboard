@@ -3,100 +3,290 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/33149547?u=63fa3aba398795fd8d035778bd1b2d74229c2331&v=4",
   "githubUrl": "https://github.com/zhengbingxian",
   "score": {
-    "score": 23.03,
-    "prScore": 17.03,
-    "issueScore": 5,
+    "score": 377.35,
+    "prScore": 375.85,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 1.5
   },
-  "tier": "beginner",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 36,
     "prsMerged": 0,
-    "prAdditions": 22,
-    "prDeletions": 6,
-    "prChangedFiles": 3,
+    "prAdditions": 2639,
+    "prDeletions": 1214,
+    "prChangedFiles": 460,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 35,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     },
     "monthly": {
-      "prs": 2,
-      "issues": 1,
+      "prs": 36,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 3
     }
   },
-  "firstContribution": "2026-03-09T07:54:44Z",
-  "lastContribution": "2026-03-10T10:24:32Z",
+  "firstContribution": "2026-03-09T16:12:06Z",
+  "lastContribution": "2026-03-21T16:51:56Z",
   "recentPRs": [
     {
-      "number": 41228,
-      "title": "fix: skip gateway restart after update when service is not installed",
-      "state": "OPEN",
+      "number": 51756,
+      "title": "docs: alphabetize provider and service lists",
+      "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-09T16:12:06Z",
+      "createdAt": "2026-03-21T16:51:56Z",
       "mergedAt": null,
-      "additions": 5,
+      "additions": 43,
+      "deletions": 43,
+      "changedFiles": 9
+    },
+    {
+      "number": 51754,
+      "title": "fix: add missing error checks in k8s deploy script",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:50:35Z",
+      "mergedAt": null,
+      "additions": 43,
+      "deletions": 43,
+      "changedFiles": 9
+    },
+    {
+      "number": 51750,
+      "title": "docs: expand vLLM and SGLang provider plugin READMEs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:47:20Z",
+      "mergedAt": null,
+      "additions": 137,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 51748,
+      "title": "docs: fix broken link and relative image paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:45:09Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 7,
+      "changedFiles": 2
+    },
+    {
+      "number": 51747,
+      "title": "fix: use American English in feishu docx-color-text comment",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:41:21Z",
+      "mergedAt": null,
+      "additions": 1,
       "deletions": 1,
       "changedFiles": 1
     },
     {
-      "number": 40751,
-      "title": "fix(telegram): accept negative group IDs in groupAllowFrom allowlist",
+      "number": 51746,
+      "title": "fix(webchat): add clipboard fallback for Edge browser copy button",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-09T07:54:44Z",
+      "createdAt": "2026-03-21T16:40:43Z",
       "mergedAt": null,
-      "additions": 17,
-      "deletions": 5,
-      "changedFiles": 2
-    }
-  ],
-  "recentIssues": [
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
-      "number": 41194,
-      "title": "update: gateway service unexpectedly started on non-gateway nodes after update",
+      "number": 51745,
+      "title": "fix: use American English spelling in extension comments",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:39:13Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 51744,
+      "title": "feat(brave): add custom baseUrl support for Brave Search API",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:38:14Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 51741,
+      "title": "docs: expand vLLM and SGLang extension READMEs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:35:40Z",
+      "mergedAt": null,
+      "additions": 126,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 51738,
+      "title": "docs: fix broken and circular internal links",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:32:45Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 10,
+      "changedFiles": 3
+    },
+    {
+      "number": 51734,
+      "title": "fix: use American English \"behavior\" in telegram bot-native-command-menu",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:27:55Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51730,
+      "title": "docs: use American English \"summarizes\" in compaction.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:26:29Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51727,
+      "title": "docs: fix e.g. and etc. punctuation across documentation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:24:02Z",
+      "mergedAt": null,
+      "additions": 102,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 51726,
+      "title": "docs: add README for synology-chat extension",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:23:46Z",
+      "mergedAt": null,
+      "additions": 102,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 51725,
+      "title": "docs: fix e.g. and etc. punctuation across documentation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:23:40Z",
+      "mergedAt": null,
+      "additions": 102,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 51720,
+      "title": "docs: fix broken /configuration link in plugin manifest",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:14:50Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51718,
+      "title": "docs: alphabetize channel listing and fix extension spelling",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:12:39Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 51717,
+      "title": "docs: add missing language tags to fenced code blocks",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:11:44Z",
+      "mergedAt": null,
+      "additions": 148,
+      "deletions": 148,
+      "changedFiles": 69
+    },
+    {
+      "number": 51715,
+      "title": "ci: sort labeler.yml entries alphabetically within groups",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:09:18Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 51713,
+      "title": "fix: normalize open-prose description and add missing code block language tags",
       "state": "OPEN",
-      "createdAt": "2026-03-09T15:38:21Z",
-      "closedAt": null
+      "merged": false,
+      "createdAt": "2026-03-21T16:06:02Z",
+      "mergedAt": null,
+      "additions": 149,
+      "deletions": 149,
+      "changedFiles": 70
     }
   ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 35,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
-      "prs": 2,
-      "issues": 1,
+      "prs": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ]
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/16954361?u=f1ff09ba772e0dcb09bf8c8342188c237cbe38cd&v=4",
   "githubUrl": "https://github.com/distractedCoding",
   "score": {
-    "score": 11,
-    "prScore": 11,
+    "score": 25.8,
+    "prScore": 25.8,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,45 +13,47 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 83,
-    "prDeletions": 1,
-    "prChangedFiles": 3,
-    "prMergeRate": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 126,
+    "prDeletions": 6,
+    "prChangedFiles": 6,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-11T12:10:50Z",
-  "lastContribution": "2026-03-11T12:10:50Z",
+  "lastContribution": "2026-03-22T18:40:19Z",
   "recentPRs": [
+    {
+      "number": 52426,
+      "title": "fix(acp): restore inline delivery for run-mode spawns from main sessions",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T18:40:19Z",
+      "mergedAt": "2026-03-22T21:54:10Z",
+      "additions": 43,
+      "deletions": 5,
+      "changedFiles": 3
+    },
     {
       "number": 43162,
       "title": "fix: mirror ACP output to internal session transcripts",
@@ -67,6 +69,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -76,6 +83,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

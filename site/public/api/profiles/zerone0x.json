@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/39543393?v=4",
   "githubUrl": "https://github.com/zerone0x",
   "score": {
-    "score": 438.52,
-    "prScore": 434.52,
+    "score": 204.71,
+    "prScore": 203.71,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 4
+    "commentScore": 1
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 24,
-    "prs": 27,
-    "prsMerged": 1,
-    "prAdditions": 957,
-    "prDeletions": 75,
-    "prChangedFiles": 54,
-    "prMergeRate": 4,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 367,
+    "prDeletions": 251,
+    "prChangedFiles": 18,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
-    "commitAdditions": 2195,
-    "commitDeletions": 299,
-    "commitChangedFiles": 68
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 27,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 8,
-      "commitAdditions": 770,
-      "commitDeletions": 25,
-      "commits": 13
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-07T17:02:45Z",
-  "lastContribution": "2026-03-17T06:41:46Z",
+  "firstContribution": "2026-03-10T08:25:16Z",
+  "lastContribution": "2026-03-22T18:49:18Z",
   "recentPRs": [
+    {
+      "number": 52432,
+      "title": "fix: add null-guard for totalTokens in API response handling",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T18:49:18Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 129,
+      "changedFiles": 5
+    },
+    {
+      "number": 52419,
+      "title": "fix(web-search): disable thinking and replay args verbatim for Kimi $web_search",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T18:28:01Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 108,
+      "changedFiles": 3
+    },
     {
       "number": 48792,
       "title": "fix(tools): strip arg_value XML suffix from exec/read args",
@@ -106,176 +119,16 @@
       "additions": 13,
       "deletions": 2,
       "changedFiles": 1
-    },
-    {
-      "number": 41048,
-      "title": "fix(telegram): surface error when getFile() fails instead of misleading placeholder",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T13:25:36Z",
-      "mergedAt": null,
-      "additions": 27,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 41028,
-      "title": "fix(auth): reset cooldown error counters on expiry to prevent infinite escalation",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T13:12:11Z",
-      "mergedAt": "2026-03-09T20:40:11Z",
-      "additions": 77,
-      "deletions": 5,
-      "changedFiles": 4
-    },
-    {
-      "number": 40670,
-      "title": "fix(doctor): clarify best-effort config wording",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T06:10:59Z",
-      "mergedAt": null,
-      "additions": 4,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 40664,
-      "title": "fix(gateway): suggest `openclaw doctor --fix` and .bak recovery in invalid-config startup error",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T06:06:26Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 40660,
-      "title": "docs: add emergency invalid-config recovery steps in debugging guide",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T06:04:07Z",
-      "mergedAt": null,
-      "additions": 34,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 40629,
-      "title": "fix(heartbeat): use 60s retry delay for requests-in-flight skips",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T05:21:22Z",
-      "mergedAt": null,
-      "additions": 76,
-      "deletions": 20,
-      "changedFiles": 5
-    },
-    {
-      "number": 40627,
-      "title": "fix(agents): inject trigger into requester session after direct completion",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T05:18:23Z",
-      "mergedAt": null,
-      "additions": 56,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 40625,
-      "title": "fix(exec): use StringDecoder to prevent Chinese text mojibake in system messages",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T05:16:45Z",
-      "mergedAt": null,
-      "additions": 91,
-      "deletions": 5,
-      "changedFiles": 3
-    },
-    {
-      "number": 40614,
-      "title": "fix(agents): disable Photon WASM image resize in read tool",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T05:04:56Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 39553,
-      "title": "fix: preserve entity IDs wrapped in punctuation from word-wrap splitting",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T06:31:05Z",
-      "mergedAt": null,
-      "additions": 15,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 39552,
-      "title": "fix(hooks): extract correct agentId from session key in before_reset hook",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T06:30:29Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 7,
-      "changedFiles": 1
-    },
-    {
-      "number": 39548,
-      "title": "fix: correct agent_end hook agentId extraction (split index)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T06:25:33Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 39546,
-      "title": "plugins: skip npm update for private bundled plugins",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T06:23:27Z",
-      "mergedAt": null,
-      "additions": 74,
-      "deletions": 2,
-      "changedFiles": 4
-    },
-    {
-      "number": 39544,
-      "title": "fix: correct agentId extraction in agent_end hook",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T06:14:38Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 39517,
-      "title": "fix(webchat): suppress partial NO_REPLY prefix flicker in stream (#39473)",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T05:34:00Z",
-      "mergedAt": null,
-      "additions": 26,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-17": {
       "prs": 1,
       "issues": 0,
@@ -285,21 +138,6 @@
       "prs": 4,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 9,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -307,26 +145,5 @@
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-09": 1,
-    "2026-03-06": 1,
-    "2026-03-02": 2,
-    "2026-02-24": 5,
-    "2026-02-22": 2,
-    "2026-02-19": 2,
-    "2026-02-16": 2,
-    "2026-02-14": 1,
-    "2026-02-10": 1,
-    "2026-02-06": 1,
-    "2026-01-25": 2,
-    "2026-01-23": 1,
-    "2026-01-22": 3
-  }
+  "achievements": []
 }

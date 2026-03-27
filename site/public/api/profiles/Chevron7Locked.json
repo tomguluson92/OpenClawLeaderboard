@@ -1,0 +1,89 @@
+{
+  "username": "Chevron7Locked",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26398311?v=4",
+  "githubUrl": "https://github.com/Chevron7Locked",
+  "score": {
+    "score": 32.38,
+    "prScore": 31.88,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 2,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 213,
+    "prDeletions": 13,
+    "prChangedFiles": 3,
+    "prMergeRate": 50,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-22T22:24:49Z",
+  "lastContribution": "2026-03-23T05:11:43Z",
+  "recentPRs": [
+    {
+      "number": 52645,
+      "title": "fix(test): complete env isolation in buildGatewayInstallPlan tests",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T05:11:43Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 7,
+      "changedFiles": 1
+    },
+    {
+      "number": 52492,
+      "title": "fix: include .env file vars in gateway service environment on install",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T22:24:49Z",
+      "mergedAt": "2026-03-23T04:55:59Z",
+      "additions": 205,
+      "deletions": 6,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": []
+}

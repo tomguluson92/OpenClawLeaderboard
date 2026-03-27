@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1315093?v=4",
   "githubUrl": "https://github.com/ninjaa",
   "score": {
-    "score": 29.96,
+    "score": 34.96,
     "prScore": 20.96,
-    "issueScore": 0,
+    "issueScore": 5,
     "reviewScore": 9,
     "commentScore": 0
   },
@@ -19,38 +19,29 @@
     "prDeletions": 22,
     "prChangedFiles": 7,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-16T03:09:32Z",
-  "lastContribution": "2026-03-16T05:49:24Z",
+  "lastContribution": "2026-03-22T23:51:03Z",
   "recentPRs": [
     {
       "number": 47838,
@@ -64,7 +55,15 @@
       "changedFiles": 7
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 52526,
+      "title": "[Bug]: agent --json returns pre-hook assistant text instead of finalized before_message_write output",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T23:51:03Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
     {
       "prNumber": 47838,
@@ -87,12 +86,23 @@
       "prs": 1,
       "issues": 0,
       "reviews": 3
+    },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review"
+    "Code Review",
+    "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

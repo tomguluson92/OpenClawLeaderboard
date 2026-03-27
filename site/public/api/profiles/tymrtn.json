@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4305058?u=9fb9e37ad65b9ac351474dcfab96698896c61e18&v=4",
   "githubUrl": "https://github.com/tymrtn",
   "score": {
-    "score": 23.5,
+    "score": 18.5,
     "prScore": 8.5,
-    "issueScore": 15,
+    "issueScore": 10,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -19,34 +19,25 @@
     "prDeletions": 10,
     "prChangedFiles": 1,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-10T17:46:19Z",
@@ -78,13 +69,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-17T13:17:21Z",
       "closedAt": null
-    },
-    {
-      "number": 44395,
-      "title": "feat: heading-aware chunking + entity extraction for memory search",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T21:33:33Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
@@ -103,17 +87,11 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-12": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

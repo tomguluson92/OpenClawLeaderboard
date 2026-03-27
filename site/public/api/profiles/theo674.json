@@ -3,93 +3,69 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/261068216?v=4",
   "githubUrl": "https://github.com/theo674",
   "score": {
-    "score": 38.51,
-    "prScore": 33.51,
-    "issueScore": 5,
+    "score": 36.84,
+    "prScore": 36.84,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 161,
-    "prDeletions": 19,
+    "prsMerged": 1,
+    "prAdditions": 174,
+    "prDeletions": 18,
     "prChangedFiles": 17,
-    "prMergeRate": 0,
-    "issues": 1,
+    "prMergeRate": 100,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-11T02:58:17Z",
+  "firstContribution": "2026-03-13T22:12:04Z",
   "lastContribution": "2026-03-13T22:12:04Z",
   "recentPRs": [
     {
       "number": 45489,
       "title": "fix: prevent delivery-mirror re-delivery and raise Slack chunk limit",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-13T22:12:04Z",
-      "mergedAt": null,
-      "additions": 161,
-      "deletions": 19,
+      "mergedAt": "2026-03-23T21:11:19Z",
+      "additions": 174,
+      "deletions": 18,
       "changedFiles": 17
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42713,
-      "title": "Failover wrapper errors missing provider and session_id in error logging",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T02:58:17Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

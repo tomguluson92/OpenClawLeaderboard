@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/20233488?u=e8bdad7dd6ce8fadc72001782aaa660388356947&v=4",
   "githubUrl": "https://github.com/CorbinIvon",
   "score": {
-    "score": 38.08,
+    "score": 29.08,
     "prScore": 21.08,
-    "issueScore": 8,
+    "issueScore": 0,
     "reviewScore": 6,
-    "commentScore": 3
+    "commentScore": 2
   },
   "tier": "beginner",
   "characterClass": "Contributor",
@@ -19,38 +19,29 @@
     "prDeletions": 18,
     "prChangedFiles": 13,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 2,
-      "comments": 6,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-10T19:20:48Z",
-  "lastContribution": "2026-03-13T05:36:17Z",
+  "firstContribution": "2026-03-10T19:24:45Z",
+  "lastContribution": "2026-03-13T05:34:55Z",
   "recentPRs": [
     {
       "number": 42465,
@@ -64,15 +55,7 @@
       "changedFiles": 13
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42463,
-      "title": "[Bug]: Control UI settings is obscure.",
-      "state": "CLOSED",
-      "createdAt": "2026-03-10T19:20:48Z",
-      "closedAt": "2026-03-13T05:36:17Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 42465,
@@ -88,7 +71,7 @@
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     },
     "2026-03-13": {
@@ -100,15 +83,7 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

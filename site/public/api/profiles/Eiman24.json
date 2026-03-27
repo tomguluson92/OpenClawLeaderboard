@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/34124245?u=59a714c56eb3b58e1cbf62037f3b89b7fd7114be&v=4",
   "githubUrl": "https://github.com/Eiman24",
   "score": {
-    "score": 30.02,
+    "score": 25.02,
     "prScore": 25.02,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,37 +19,28 @@
     "prDeletions": 4,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-11T11:01:09Z",
+  "firstContribution": "2026-03-13T03:38:13Z",
   "lastContribution": "2026-03-16T07:28:54Z",
   "recentPRs": [
     {
@@ -75,15 +66,7 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43119,
-      "title": "[Feature]: control-ui should read per-agent identity (name + avatar) from agents.list[].identity",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T11:01:09Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-16": {
@@ -95,17 +78,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

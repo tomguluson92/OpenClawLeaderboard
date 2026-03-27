@@ -3,64 +3,66 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4555094?u=07651c213b5412f135c2228a377415a49eb568b3&v=4",
   "githubUrl": "https://github.com/haxudev",
   "score": {
-    "score": 104.41,
-    "prScore": 85.91,
+    "score": 158.01,
+    "prScore": 134.51,
     "issueScore": 0,
-    "reviewScore": 15,
-    "commentScore": 3.5
+    "reviewScore": 18,
+    "commentScore": 5.5
   },
   "tier": "regular",
-  "characterClass": "Reviewer",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
-    "prsMerged": 0,
-    "prAdditions": 4106,
-    "prDeletions": 3,
-    "prChangedFiles": 26,
-    "prMergeRate": 0,
+    "prs": 4,
+    "prsMerged": 1,
+    "prAdditions": 6952,
+    "prDeletions": 2,
+    "prChangedFiles": 39,
+    "prMergeRate": 25,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 11
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
-      "reviews": 5,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 4
     },
     "monthly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
-      "reviews": 5,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 6,
+      "comments": 11
     }
   },
   "firstContribution": "2026-03-19T07:23:37Z",
-  "lastContribution": "2026-03-19T22:38:04Z",
+  "lastContribution": "2026-03-24T07:49:59Z",
   "recentPRs": [
+    {
+      "number": 51973,
+      "title": "feat: Add Microsoft Foundry provider with Entra ID authentication",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T01:14:35Z",
+      "mergedAt": "2026-03-26T06:33:14Z",
+      "additions": 2588,
+      "deletions": 0,
+      "changedFiles": 13
+    },
     {
       "number": 50378,
       "title": "feat: Add Microsoft Foundry provider with Entra ID authentication",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T10:50:28Z",
       "mergedAt": null,
-      "additions": 1675,
-      "deletions": 1,
+      "additions": 1933,
+      "deletions": 0,
       "changedFiles": 14
     },
     {
@@ -89,6 +91,11 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 51973,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T07:49:59Z"
+    },
+    {
       "prNumber": 50378,
       "state": "COMMENTED",
       "createdAt": "2026-03-19T22:27:07Z"
@@ -115,17 +122,27 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 3,
       "issues": 0,
       "reviews": 5
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

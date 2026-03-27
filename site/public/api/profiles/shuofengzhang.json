@@ -3,148 +3,51 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/24763026?v=4",
   "githubUrl": "https://github.com/shuofengzhang",
   "score": {
-    "score": 110.9,
-    "prScore": 110.9,
+    "score": 15,
+    "prScore": 15,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 7,
+    "prs": 0,
     "prsMerged": 0,
-    "prAdditions": 307,
-    "prDeletions": 29,
-    "prChangedFiles": 15,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 290,
-    "commitDeletions": 47,
-    "commitChangedFiles": 9
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 290,
-      "commitDeletions": 47,
-      "commits": 3
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-06T05:55:17Z",
-  "lastContribution": "2026-03-06T17:56:15Z",
-  "recentPRs": [
-    {
-      "number": 38242,
-      "title": "cron: preserve sandbox docker defaults in agent override merge",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T17:56:15Z",
-      "mergedAt": null,
-      "additions": 76,
-      "deletions": 10,
-      "changedFiles": 3
-    },
-    {
-      "number": 38073,
-      "title": "skill-creator: accept case-insensitive --resources values",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T15:56:08Z",
-      "mergedAt": null,
-      "additions": 28,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 37877,
-      "title": "model-usage: parse numeric-string costs and skip non-finite values",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T13:56:39Z",
-      "mergedAt": null,
-      "additions": 59,
-      "deletions": 9,
-      "changedFiles": 2
-    },
-    {
-      "number": 37747,
-      "title": "skill-creator: make .skill archive entry order deterministic",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T11:57:24Z",
-      "mergedAt": null,
-      "additions": 24,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 37588,
-      "title": "utils: preserve message identity when no directive tags are stripped",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T09:54:29Z",
-      "mergedAt": null,
-      "additions": 41,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 37425,
-      "title": "reply: normalize Windows file paths for media dedupe",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T07:54:39Z",
-      "mergedAt": null,
-      "additions": 35,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 37251,
-      "title": "telegram: require strict numeric reply_to_message_id parsing",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T05:55:17Z",
-      "mergedAt": null,
-      "additions": 44,
-      "deletions": 3,
-      "changedFiles": 2
-    }
-  ],
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
   "recentIssues": [],
   "recentReviews": [],
-  "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 0
-    }
-  },
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-06": 3
-  }
+  "achievements": []
 }

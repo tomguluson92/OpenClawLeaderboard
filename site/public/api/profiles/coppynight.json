@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4346224?u=312987f1aca3f293bffb51b7bdde3e295fff8c1c&v=4",
   "githubUrl": "https://github.com/coppynight",
   "score": {
-    "score": 18.27,
+    "score": 13.27,
     "prScore": 12.77,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 6,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-12T10:26:09Z",
+  "firstContribution": "2026-03-12T10:26:37Z",
   "lastContribution": "2026-03-13T23:28:39Z",
   "recentPRs": [
     {
@@ -64,28 +55,18 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43935,
-      "title": "Gateway: account-scoped channel config changes restart the entire channel and can disrupt active traffic",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T10:26:09Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

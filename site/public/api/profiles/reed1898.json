@@ -3,59 +3,127 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/129141816?u=1c2b637b5f2c81f2d3adfc56bbfacbd904aae07e&v=4",
   "githubUrl": "https://github.com/reed1898",
   "score": {
-    "score": 159.56,
-    "prScore": 149.56,
-    "issueScore": 5,
+    "score": 202.3,
+    "prScore": 190.3,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 12
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "active",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 13,
+    "prs": 15,
     "prsMerged": 0,
-    "prAdditions": 756,
-    "prDeletions": 81,
-    "prChangedFiles": 29,
+    "prAdditions": 1135,
+    "prDeletions": 86,
+    "prChangedFiles": 40,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 24
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 20
     },
     "monthly": {
-      "prs": 13,
-      "issues": 1,
+      "prs": 15,
+      "issues": 0,
       "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 24
     }
   },
-  "firstContribution": "2026-03-07T20:07:21Z",
-  "lastContribution": "2026-03-19T19:22:17Z",
+  "firstContribution": "2026-03-10T19:14:10Z",
+  "lastContribution": "2026-03-26T22:27:25Z",
   "recentPRs": [
+    {
+      "number": 55397,
+      "title": "fix(outbound): bootstrap missing requested channel in outbound resolution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T22:27:25Z",
+      "mergedAt": null,
+      "additions": 58,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 54624,
+      "title": "fix(openai-completions): extract usage tokens from non-streaming response",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T18:25:14Z",
+      "mergedAt": null,
+      "additions": 79,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 54594,
+      "title": "fix(errors): surface provider-specific rate-limit message instead of generic fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T17:32:16Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 54589,
+      "title": "fix(logger): re-create file logger after midnight to use correct dated log file",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T17:25:07Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51833,
+      "title": "fix(server-maintenance): sweep orphaned chatRun buffers from stuck runs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T19:13:22Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 51831,
+      "title": "fix(session-manager-cache): evict expired entries from SESSION_MANAGER_CACHE",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T19:08:32Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51829,
+      "title": "fix(agent-events): delete seqByRun entry in clearAgentRunContext",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T19:07:39Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 0,
+      "changedFiles": 2
+    },
     {
       "number": 50598,
       "title": "feat(skills): warn when skill descriptions exceed configurable length limit",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T19:22:17Z",
       "mergedAt": null,
@@ -66,7 +134,7 @@
     {
       "number": 50593,
       "title": "fix(ollama): detect vision models and set input to text+image",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T19:16:23Z",
       "mergedAt": null,
@@ -77,7 +145,7 @@
     {
       "number": 50037,
       "title": "fix(export): restore JS placeholders in export HTML template",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T21:52:50Z",
       "mergedAt": null,
@@ -88,13 +156,13 @@
     {
       "number": 45586,
       "title": "fix(tui): block chat input during active generation to prevent message swallowing",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T01:10:11Z",
       "mergedAt": null,
-      "additions": 90,
-      "deletions": 11,
-      "changedFiles": 3
+      "additions": 246,
+      "deletions": 18,
+      "changedFiles": 4
     },
     {
       "number": 45549,
@@ -110,7 +178,7 @@
     {
       "number": 44506,
       "title": "fix(doctor): remove dead notify:true when cron.webhook is unset",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T01:22:20Z",
       "mergedAt": null,
@@ -121,7 +189,7 @@
     {
       "number": 44504,
       "title": "fix(tts): use OGG/Opus for edge-tts on Telegram to render native voice memos",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T01:18:49Z",
       "mergedAt": null,
@@ -139,74 +207,26 @@
       "additions": 164,
       "deletions": 0,
       "changedFiles": 3
-    },
-    {
-      "number": 40967,
-      "title": "feat(discord): add proxy support for REST client",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T12:23:46Z",
-      "mergedAt": null,
-      "additions": 51,
-      "deletions": 3,
-      "changedFiles": 1
-    },
-    {
-      "number": 39873,
-      "title": "fix(matrix): use main plugin-sdk export for KeyedAsyncQueue",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T13:28:06Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 39824,
-      "title": "fix(agents): prevent kimi-coding crash from re-sent thinking signatures",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T12:27:31Z",
-      "mergedAt": null,
-      "additions": 22,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 39810,
-      "title": "fix(matrix): use main plugin-sdk export for KeyedAsyncQueue import",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T12:15:49Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 39155,
-      "title": "docs: fix session-tool subagent spawn policy drift",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T20:07:21Z",
-      "mergedAt": null,
-      "additions": 2,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41262,
-      "title": "Extensions dependencies not installed during update",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T16:36:04Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 2,
       "issues": 0,
@@ -231,26 +251,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
@@ -258,7 +262,11 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
+    },
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

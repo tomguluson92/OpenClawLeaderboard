@@ -3,65 +3,100 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/238136103?v=4",
   "githubUrl": "https://github.com/srxly888-creator",
   "score": {
-    "score": 160.72,
-    "prScore": 141.22,
-    "issueScore": 10,
-    "reviewScore": 3,
-    "commentScore": 6.5
+    "score": 217.57,
+    "prScore": 184.57,
+    "issueScore": 16,
+    "reviewScore": 6,
+    "commentScore": 11
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 4007,
-    "prDeletions": 815,
-    "prChangedFiles": 154,
+    "prAdditions": 10677,
+    "prDeletions": 2744,
+    "prChangedFiles": 359,
     "prMergeRate": 0,
     "issues": 2,
-    "issuesClosed": 0,
-    "reviews": 1,
+    "issuesClosed": 2,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 22
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 2,
+      "prs": 4,
+      "issues": 0,
       "reviews": 1,
-      "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 9
     },
     "monthly": {
-      "prs": 2,
+      "prs": 6,
       "issues": 2,
-      "reviews": 1,
-      "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 2,
+      "comments": 22
     }
   },
   "firstContribution": "2026-03-17T05:24:51Z",
-  "lastContribution": "2026-03-20T06:54:06Z",
+  "lastContribution": "2026-03-24T23:16:23Z",
   "recentPRs": [
+    {
+      "number": 53400,
+      "title": "i18n(zh-CN): add 5 missing translations / 补充缺失的 5 个翻译",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T05:06:16Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 51165,
+      "title": "feat(skills): agent-scoped policy parity + reactive snapshot refresh",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T17:31:44Z",
+      "mergedAt": null,
+      "additions": 1491,
+      "deletions": 838,
+      "changedFiles": 37
+    },
+    {
+      "number": 51140,
+      "title": "feat(skills): add agent-scoped skills policy",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T16:40:05Z",
+      "mergedAt": null,
+      "additions": 1762,
+      "deletions": 921,
+      "changedFiles": 77
+    },
+    {
+      "number": 51137,
+      "title": "feat(skills): add agent-scoped skills policy",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T16:32:03Z",
+      "mergedAt": null,
+      "additions": 1981,
+      "deletions": 134,
+      "changedFiles": 56
+    },
     {
       "number": 50882,
       "title": "feat(skills): add agent-scoped skills policy",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-20T06:17:18Z",
       "mergedAt": null,
-      "additions": 1281,
-      "deletions": 98,
-      "changedFiles": 29
+      "additions": 2701,
+      "deletions": 134,
+      "changedFiles": 62
     },
     {
       "number": 48838,
@@ -79,19 +114,24 @@
     {
       "number": 48752,
       "title": "Runtime support for global skills + agent override (effective skill resolution)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-17T05:26:31Z",
-      "closedAt": null
+      "closedAt": "2026-03-24T12:41:05Z"
     },
     {
       "number": 48750,
       "title": "Runtime contract for cron agentId + delivery(channel/to) semantics",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-17T05:24:51Z",
-      "closedAt": null
+      "closedAt": "2026-03-24T12:41:14Z"
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 53400,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T23:03:17Z"
+    },
     {
       "prNumber": 48838,
       "state": "COMMENTED",
@@ -99,8 +139,13 @@
     }
   ],
   "recentActivityDays": {
-    "2026-03-20": {
+    "2026-03-24": {
       "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-20": {
+      "prs": 4,
       "issues": 0,
       "reviews": 0
     },
@@ -114,14 +159,24 @@
     "Pull Requests",
     "Code Review",
     "Issue Reporting",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
     {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

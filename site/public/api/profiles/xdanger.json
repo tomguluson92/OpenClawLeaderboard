@@ -3,138 +3,51 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7087?v=4",
   "githubUrl": "https://github.com/xdanger",
   "score": {
-    "score": 87.52,
-    "prScore": 60.52,
-    "issueScore": 13,
-    "reviewScore": 12,
-    "commentScore": 2
+    "score": 15,
+    "prScore": 15,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Contributor",
+  "tier": "beginner",
+  "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 2,
-    "prsMerged": 1,
-    "prAdditions": 326,
-    "prDeletions": 32,
-    "prChangedFiles": 7,
-    "prMergeRate": 50,
-    "issues": 2,
-    "issuesClosed": 1,
-    "reviews": 4,
+    "prs": 0,
+    "prsMerged": 0,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 200,
-    "commitDeletions": 7,
-    "commitChangedFiles": 8
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 4,
-      "comments": 4,
-      "commitAdditions": 200,
-      "commitDeletions": 7,
-      "commits": 3
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-08T13:16:32Z",
-  "lastContribution": "2026-03-08T20:35:21Z",
-  "recentPRs": [
-    {
-      "number": 39860,
-      "title": "fix: synthesize implicit openai-codex runtime provider",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T13:16:55Z",
-      "mergedAt": "2026-03-08T13:48:13Z",
-      "additions": 198,
-      "deletions": 5,
-      "changedFiles": 3
-    },
-    {
-      "number": 39859,
-      "title": "fix: cap effective session context window by known model limit",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T13:16:55Z",
-      "mergedAt": null,
-      "additions": 128,
-      "deletions": 27,
-      "changedFiles": 4
-    }
-  ],
-  "recentIssues": [
-    {
-      "number": 39858,
-      "title": "Implicit models.json generation does not synthesize an openai-codex provider from Codex OAuth",
-      "state": "CLOSED",
-      "createdAt": "2026-03-08T13:16:32Z",
-      "closedAt": "2026-03-08T13:48:14Z"
-    },
-    {
-      "number": 39857,
-      "title": "Status/session context window can over-report the selected model's actual window",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T13:16:32Z",
-      "closedAt": null
-    }
-  ],
-  "recentReviews": [
-    {
-      "prNumber": 39859,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T17:11:08Z"
-    },
-    {
-      "prNumber": 39859,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T17:11:06Z"
-    },
-    {
-      "prNumber": 39860,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T13:40:27Z"
-    },
-    {
-      "prNumber": 39860,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T13:40:26Z"
-    }
-  ],
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 4
-    }
-  },
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-08": 3
-  }
+  "achievements": []
 }

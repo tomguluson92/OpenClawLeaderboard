@@ -3,66 +3,149 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1192888?v=4",
   "githubUrl": "https://github.com/liuy",
   "score": {
-    "score": 66.8,
-    "prScore": 66.8,
-    "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "score": 123.13,
+    "prScore": 92.63,
+    "issueScore": 18,
+    "reviewScore": 9,
+    "commentScore": 3.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
-    "commits": 6,
-    "prs": 0,
-    "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
-    "prMergeRate": 0,
-    "issues": 0,
-    "issuesClosed": 0,
-    "reviews": 0,
+    "commits": 7,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 721,
+    "prDeletions": 9,
+    "prChangedFiles": 17,
+    "prMergeRate": 33,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 225,
-    "commitDeletions": 38,
-    "commitChangedFiles": 22
+    "comments": 7
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 3,
+      "issues": 3,
+      "reviews": 3,
+      "comments": 7
     },
     "monthly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 82,
-      "commitDeletions": 3,
-      "commits": 3
+      "prs": 3,
+      "issues": 3,
+      "reviews": 3,
+      "comments": 7
     }
   },
-  "firstContribution": null,
-  "lastContribution": null,
-  "recentPRs": [],
-  "recentIssues": [],
-  "recentReviews": [],
-  "recentActivityDays": {},
+  "firstContribution": "2026-03-21T07:43:22Z",
+  "lastContribution": "2026-03-27T08:24:35Z",
+  "recentPRs": [
+    {
+      "number": 55220,
+      "title": "fix: Web UI context percentage shows 0% or >100% when using LCM",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T14:48:59Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 55072,
+      "title": "feat: add LLM idle timeout for streaming responses",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T09:40:06Z",
+      "mergedAt": null,
+      "additions": 399,
+      "deletions": 0,
+      "changedFiles": 6
+    },
+    {
+      "number": 51490,
+      "title": "fix(process): auto-detect PTY cursor key mode for send-keys",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T07:45:43Z",
+      "mergedAt": "2026-03-25T10:21:27Z",
+      "additions": 321,
+      "deletions": 8,
+      "changedFiles": 10
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 55217,
+      "title": "Web UI context percentage shows 0% or >100% when using LCM",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T14:44:10Z",
+      "closedAt": null
+    },
+    {
+      "number": 55065,
+      "title": "LLM calls have no timeout control, slow model responses cause complete agent hang",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T09:22:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 51488,
+      "title": "process send-keys arrow keys not working in application cursor key mode",
+      "state": "CLOSED",
+      "createdAt": "2026-03-21T07:43:22Z",
+      "closedAt": "2026-03-25T10:21:29Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 55072,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-27T08:24:35Z"
+    },
+    {
+      "prNumber": 55072,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-27T08:07:36Z"
+    },
+    {
+      "prNumber": 51490,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T10:08:09Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    },
+    "2026-03-27": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
   "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-02": 1,
-    "2026-02-26": 2,
-    "2026-02-14": 1,
-    "2026-02-10": 2
-  }
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/15335422?u=c847ffbae804288182d9fefecc84a5f182a50674&v=4",
   "githubUrl": "https://github.com/MrGeDiao",
   "score": {
-    "score": 15.17,
+    "score": 10.17,
     "prScore": 9.67,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 0,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-12T15:22:08Z",
+  "firstContribution": "2026-03-12T15:22:19Z",
   "lastContribution": "2026-03-12T15:38:01Z",
   "recentPRs": [
     {
@@ -64,28 +55,18 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 44166,
-      "title": "memory reindex aborts on transient embedding transport errors instead of retrying or splitting the batch",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T15:22:08Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

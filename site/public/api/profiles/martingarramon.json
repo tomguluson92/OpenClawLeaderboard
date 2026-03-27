@@ -1,0 +1,170 @@
+{
+  "username": "martingarramon",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/263922628?v=4",
+  "githubUrl": "https://github.com/martingarramon",
+  "score": {
+    "score": 87.97,
+    "prScore": 73.47,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 5.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 7,
+    "prsMerged": 1,
+    "prAdditions": 1270,
+    "prDeletions": 11,
+    "prChangedFiles": 10,
+    "prMergeRate": 14,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 11
+  },
+  "period": {
+    "weekly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 11
+    },
+    "monthly": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 11
+    }
+  },
+  "firstContribution": "2026-03-21T22:50:34Z",
+  "lastContribution": "2026-03-26T22:39:52Z",
+  "recentPRs": [
+    {
+      "number": 54683,
+      "title": "test(agents): add unit tests for exec-host-shared approval logic",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T20:15:39Z",
+      "mergedAt": null,
+      "additions": 501,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 52947,
+      "title": "test(gateway): add unit tests for gateway-status output helpers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T14:57:49Z",
+      "mergedAt": null,
+      "additions": 205,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 52915,
+      "title": "test(config): add unit tests for session store-summary loader",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T14:12:34Z",
+      "mergedAt": null,
+      "additions": 69,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 52908,
+      "title": "test(gateway): add unit tests for gateway-status discovery helpers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T14:01:09Z",
+      "mergedAt": null,
+      "additions": 124,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 52865,
+      "title": "test(doctor): add unit tests for default-account-warnings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T13:12:27Z",
+      "mergedAt": null,
+      "additions": 243,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 52508,
+      "title": "fix(exec): return plain-text tool result on failure instead of raw JSON",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T23:06:52Z",
+      "mergedAt": "2026-03-23T02:19:09Z",
+      "additions": 33,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 51944,
+      "title": "fix(doctor): honor --repair in non-interactive mode",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T00:15:07Z",
+      "mergedAt": null,
+      "additions": 95,
+      "deletions": 6,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 53626,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T11:49:29Z"
+    },
+    {
+      "prNumber": 52947,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T02:07:37Z"
+    },
+    {
+      "prNumber": 52908,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T02:07:35Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": []
+}

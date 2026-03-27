@@ -24,29 +24,20 @@
     "reviews": 16,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 11
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 0,
       "issues": 0,
-      "reviews": 16,
-      "comments": 11,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 12,
       "issues": 0,
       "reviews": 16,
-      "comments": 11,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 11
     }
   },
   "firstContribution": "2026-03-12T17:20:56Z",
@@ -55,7 +46,7 @@
     {
       "number": 48648,
       "title": "fix(bluebubbles): restore TTS voice-bubble delivery",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-17T02:14:14Z",
       "mergedAt": null,
@@ -66,7 +57,7 @@
     {
       "number": 48647,
       "title": "fix(bluebubbles): preserve group messages when sender identity is missing",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-17T02:14:07Z",
       "mergedAt": null,
@@ -110,7 +101,7 @@
     {
       "number": 45295,
       "title": "fix(telegram): suppress media-fetch error reply in requireMention groups",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T16:41:06Z",
       "mergedAt": null,
@@ -316,6 +307,5 @@
       "label": "Code Reviewer",
       "description": "10+ reviews"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

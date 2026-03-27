@@ -1,0 +1,96 @@
+{
+  "username": "schumilin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2003498?v=4",
+  "githubUrl": "https://github.com/schumilin",
+  "score": {
+    "score": 54.77,
+    "prScore": 48.27,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Maintainer",
+  "stats": {
+    "commits": 3,
+    "prs": 2,
+    "prsMerged": 2,
+    "prAdditions": 237,
+    "prDeletions": 14,
+    "prChangedFiles": 8,
+    "prMergeRate": 100,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-23T11:33:45Z",
+  "lastContribution": "2026-03-23T13:08:21Z",
+  "recentPRs": [
+    {
+      "number": 52844,
+      "title": "fix(feishu): ghost WebSocket connections persist after monitor stop, causing duplicate events and resource leaks",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T12:47:03Z",
+      "mergedAt": "2026-03-25T15:32:23Z",
+      "additions": 155,
+      "deletions": 8,
+      "changedFiles": 5
+    },
+    {
+      "number": 52809,
+      "title": "fix(feishu): offline-retried messages carry wrong timestamp, causing mis-targeted agent actions",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T11:33:45Z",
+      "mergedAt": "2026-03-25T15:36:13Z",
+      "additions": 82,
+      "deletions": 6,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 52844,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T13:08:21Z"
+    },
+    {
+      "prNumber": 52809,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T12:27:24Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
+  ],
+  "achievements": []
+}

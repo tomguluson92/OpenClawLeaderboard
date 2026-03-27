@@ -1,0 +1,143 @@
+{
+  "username": "easyteacher",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23738961?u=333c0ed2b68083b2857e406fe6c6e5288b009bcc&v=4",
+  "githubUrl": "https://github.com/easyteacher",
+  "score": {
+    "score": 81.39,
+    "prScore": 63.89,
+    "issueScore": 10,
+    "reviewScore": 3,
+    "commentScore": 4.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 689,
+    "prDeletions": 215,
+    "prChangedFiles": 21,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 1,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 9
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 7
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 1,
+      "comments": 9
+    }
+  },
+  "firstContribution": "2026-03-12T16:26:06Z",
+  "lastContribution": "2026-03-27T08:35:37Z",
+  "recentPRs": [
+    {
+      "number": 52989,
+      "title": "fix: use pathToFileURL for Windows path comparison in generate-base-config-schema",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T16:00:04Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 52154,
+      "title": "feat: add `commands.shellProfile` option for custom shell profile loading",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T08:59:20Z",
+      "mergedAt": null,
+      "additions": 682,
+      "deletions": 211,
+      "changedFiles": 18
+    },
+    {
+      "number": 51769,
+      "title": "feat(exec): remove `-NoProfile` argument from PowerShell options to respect user profile",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T17:08:21Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 55672,
+      "title": "[BUG,RELEASE BLOCKER]: No API key for provider even when `openclaw models status --probe` works",
+      "state": "OPEN",
+      "createdAt": "2026-03-27T08:35:37Z",
+      "closedAt": null
+    },
+    {
+      "number": 55269,
+      "title": "[Feature]: allow command exec to specify shell profile",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T16:17:15Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 51769,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T17:15:28Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-27": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

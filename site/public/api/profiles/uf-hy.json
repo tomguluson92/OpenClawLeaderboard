@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/41638541?u=4163ee1dbbe6656e575e64bec74b313433a6e630&v=4",
   "githubUrl": "https://github.com/uf-hy",
   "score": {
-    "score": 76.93,
-    "prScore": 58.93,
-    "issueScore": 18,
+    "score": 42.18,
+    "prScore": 32.18,
+    "issueScore": 10,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Hunter",
   "stats": {
     "commits": 0,
@@ -19,37 +19,28 @@
     "prDeletions": 219,
     "prChangedFiles": 11,
     "prMergeRate": 100,
-    "issues": 3,
-    "issuesClosed": 1,
+    "issues": 2,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 610,
-    "commitDeletions": 219,
-    "commitChangedFiles": 11
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 610,
-      "commitDeletions": 219,
-      "commits": 1
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 610,
-      "commitDeletions": 219,
-      "commits": 1
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-11T01:28:31Z",
+  "firstContribution": "2026-03-11T01:29:25Z",
   "lastContribution": "2026-03-15T19:33:34Z",
   "recentPRs": [
     {
@@ -78,20 +69,13 @@
       "state": "OPEN",
       "createdAt": "2026-03-15T19:33:28Z",
       "closedAt": null
-    },
-    {
-      "number": 42628,
-      "title": "Bug: context-engine auto-compaction does not persist session compactionCount",
-      "state": "CLOSED",
-      "createdAt": "2026-03-11T01:28:31Z",
-      "closedAt": "2026-03-14T23:22:12Z"
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     },
     "2026-03-15": {
@@ -104,8 +88,5 @@
     "Pull Requests",
     "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-14": 1
-  }
+  "achievements": []
 }

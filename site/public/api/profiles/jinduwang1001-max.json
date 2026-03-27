@@ -1,0 +1,230 @@
+{
+  "username": "jinduwang1001-max",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/251753350?v=4",
+  "githubUrl": "https://github.com/jinduwang1001-max",
+  "score": {
+    "score": 185.76,
+    "prScore": 12.76,
+    "issueScore": 171,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 115,
+    "prDeletions": 6,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 30,
+    "issuesClosed": 7,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 30,
+      "reviews": 0,
+      "comments": 4
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 30,
+      "reviews": 0,
+      "comments": 4
+    }
+  },
+  "firstContribution": "2026-03-21T07:50:43Z",
+  "lastContribution": "2026-03-25T06:27:40Z",
+  "recentPRs": [
+    {
+      "number": 51492,
+      "title": "fix: deduplicate model catalog entries in UI selection (#51439)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T07:50:43Z",
+      "mergedAt": null,
+      "additions": 115,
+      "deletions": 6,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54300,
+      "title": "Low-risk: Docker Go template injection, thread-ownership URL path injection, TLS env bypass",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:27:40Z",
+      "closedAt": null
+    },
+    {
+      "number": 54299,
+      "title": "Bug: OAuth token exchange silently proceeds without client_secret + hardcoded redirect port",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:27:23Z",
+      "closedAt": null
+    },
+    {
+      "number": 54298,
+      "title": "Security: Tailscale auth trusts HTTP headers for user identity",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:27:09Z",
+      "closedAt": null
+    },
+    {
+      "number": 54297,
+      "title": "Bug: WhatsApp encrypted media temp files not cleaned up on failure",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:26:58Z",
+      "closedAt": null
+    },
+    {
+      "number": 54296,
+      "title": "Bug: Non-atomic write of exec-approvals file + unbounded transcript readFileSync",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:26:46Z",
+      "closedAt": null
+    },
+    {
+      "number": 54295,
+      "title": "Bug: TOCTOU race conditions in JSON file save, Matrix credentials migration, and GCP credentials loading",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:26:32Z",
+      "closedAt": null
+    },
+    {
+      "number": 54294,
+      "title": "Security: Predictable temp file paths enable symlink attacks in multiple modules",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:26:04Z",
+      "closedAt": null
+    },
+    {
+      "number": 54293,
+      "title": "Security: Slack OAuth state token uses Math.random() instead of crypto",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:25:44Z",
+      "closedAt": null
+    },
+    {
+      "number": 54292,
+      "title": "Security: SSRF in fal image generation provider (fetchImageBuffer)",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:25:32Z",
+      "closedAt": null
+    },
+    {
+      "number": 54291,
+      "title": "Security: Information leakage via unfiltered error object serialization",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:25:19Z",
+      "closedAt": null
+    },
+    {
+      "number": 54289,
+      "title": "Security: Unauthorized OAuth credential extraction from Gemini CLI installation",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:25:06Z",
+      "closedAt": null
+    },
+    {
+      "number": 54288,
+      "title": "Security: dangerouslyAllowNameMatching enables user impersonation via display name spoofing",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:24:46Z",
+      "closedAt": null
+    },
+    {
+      "number": 54287,
+      "title": "Security: requireAuth:false allows commands to bypass authorization checks",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:24:23Z",
+      "closedAt": null
+    },
+    {
+      "number": 54286,
+      "title": "Security: Arbitrary JS execution via Playwright evaluate with eval()/new Function()",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:24:04Z",
+      "closedAt": null
+    },
+    {
+      "number": 54285,
+      "title": "Security: Command injection via unsanitized ffmpeg exec() template literal",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:23:37Z",
+      "closedAt": null
+    },
+    {
+      "number": 54157,
+      "title": "Doubao/BytePlus model catalog: cacheRead/cacheWrite pricing set to 0, missing context caching cost",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T01:51:13Z",
+      "closedAt": null
+    },
+    {
+      "number": 54156,
+      "title": "marketplace downloadUrlToTempFile loads entire file into memory via response.arrayBuffer()",
+      "state": "CLOSED",
+      "createdAt": "2026-03-25T01:50:53Z",
+      "closedAt": "2026-03-25T04:59:23Z"
+    },
+    {
+      "number": 54154,
+      "title": "System prompt points to wrong ClawHub URL (clawhub.com instead of clawhub.ai)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-25T01:48:22Z",
+      "closedAt": "2026-03-25T04:40:38Z"
+    },
+    {
+      "number": 54153,
+      "title": "signal-cli-install: downloadToFile uses raw http.request with no timeout, no SSRF guard, no size limit",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T01:47:38Z",
+      "closedAt": null
+    },
+    {
+      "number": 54150,
+      "title": "pdf-native-providers bypasses HTTP_PROXY — direct fetch calls don't use environment proxy",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T01:44:40Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 30,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "issue-tracker",
+      "label": "Issue Tracker",
+      "description": "20+ issues filed"
+    }
+  ]
+}

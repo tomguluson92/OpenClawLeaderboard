@@ -3,55 +3,79 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9790196?v=4",
   "githubUrl": "https://github.com/altaywtf",
   "score": {
-    "score": 608.93,
-    "prScore": 512.43,
+    "score": 494.83,
+    "prScore": 425.33,
     "issueScore": 0,
-    "reviewScore": 48,
-    "commentScore": 48.5
+    "reviewScore": 28.5,
+    "commentScore": 41
   },
-  "tier": "veteran",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
-    "commits": 31,
-    "prs": 24,
-    "prsMerged": 16,
-    "prAdditions": 5928,
-    "prDeletions": 631,
-    "prChangedFiles": 247,
-    "prMergeRate": 67,
+    "commits": 33,
+    "prs": 16,
+    "prsMerged": 10,
+    "prAdditions": 2286,
+    "prDeletions": 380,
+    "prChangedFiles": 137,
+    "prMergeRate": 63,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 15,
+    "reviews": 9,
     "reviewsApproved": 0,
-    "reviewsChangesRequested": 2,
-    "comments": 97,
-    "commitAdditions": 5399,
-    "commitDeletions": 480,
-    "commitChangedFiles": 211
+    "reviewsChangesRequested": 1,
+    "comments": 82
   },
   "period": {
     "weekly": {
       "prs": 3,
       "issues": 0,
-      "reviews": 5,
-      "comments": 18,
-      "commitAdditions": 104,
-      "commitDeletions": 2,
-      "commits": 2
+      "reviews": 1,
+      "comments": 26
     },
     "monthly": {
-      "prs": 24,
+      "prs": 16,
       "issues": 0,
-      "reviews": 15,
-      "comments": 97,
-      "commitAdditions": 5399,
-      "commitDeletions": 480,
-      "commits": 31
+      "reviews": 9,
+      "comments": 82
     }
   },
-  "firstContribution": "2026-03-06T08:39:57Z",
-  "lastContribution": "2026-03-18T19:00:58Z",
+  "firstContribution": "2026-03-09T18:07:32Z",
+  "lastContribution": "2026-03-26T21:14:39Z",
   "recentPRs": [
+    {
+      "number": 55371,
+      "title": "fix(discord): avoid core stringEnum import",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T21:14:39Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 54628,
+      "title": "test: fix unrelated CI failures",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T18:40:53Z",
+      "mergedAt": null,
+      "additions": 57,
+      "deletions": 60,
+      "changedFiles": 2
+    },
+    {
+      "number": 53151,
+      "title": "test(auth): align device scope expectations",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T20:55:19Z",
+      "mergedAt": "2026-03-23T20:56:02Z",
+      "additions": 6,
+      "deletions": 2,
+      "changedFiles": 2
+    },
     {
       "number": 48480,
       "title": "test: fix configured-channel loader fixture",
@@ -194,87 +218,15 @@
       "additions": 634,
       "deletions": 11,
       "changedFiles": 9
-    },
-    {
-      "number": 41023,
-      "title": "Agents: add structured error observation logs",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T13:09:41Z",
-      "mergedAt": null,
-      "additions": 1072,
-      "deletions": 51,
-      "changedFiles": 23
-    },
-    {
-      "number": 39712,
-      "title": "CLI: include commit hash in --version output",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T10:15:09Z",
-      "mergedAt": "2026-03-08T16:10:48Z",
-      "additions": 903,
-      "deletions": 42,
-      "changedFiles": 19
-    },
-    {
-      "number": 39704,
-      "title": "docs(changelog): add #39377 failover note",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T10:07:47Z",
-      "mergedAt": "2026-03-08T10:09:26Z",
-      "additions": 1,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 39652,
-      "title": "fix: remove redundant root strip-ansi dependency",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T09:04:20Z",
-      "mergedAt": "2026-03-08T09:04:47Z",
-      "additions": 0,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 39251,
-      "title": "test(ui): reduce gateway client test mocking",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T22:57:20Z",
-      "mergedAt": "2026-03-07T22:58:44Z",
-      "additions": 67,
-      "deletions": 41,
-      "changedFiles": 1
-    },
-    {
-      "number": 39146,
-      "title": "fix(ci): restore strip-ansi and typecheck fixtures",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T19:56:32Z",
-      "mergedAt": "2026-03-07T20:13:13Z",
-      "additions": 40,
-      "deletions": 5,
-      "changedFiles": 8
-    },
-    {
-      "number": 38353,
-      "title": "fix: unblock check and secrets CI failures",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T21:47:37Z",
-      "mergedAt": null,
-      "additions": 48,
-      "deletions": 14,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 52784,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T20:17:54Z"
+    },
     {
       "prNumber": 49807,
       "state": "COMMENTED",
@@ -296,11 +248,6 @@
       "createdAt": "2026-03-13T18:03:43Z"
     },
     {
-      "prNumber": 39338,
-      "state": "CHANGES_REQUESTED",
-      "createdAt": "2026-03-13T11:13:18Z"
-    },
-    {
       "prNumber": 44016,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T13:49:56Z"
@@ -319,39 +266,24 @@
       "prNumber": 41468,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T22:17:00Z"
-    },
-    {
-      "prNumber": 39600,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T08:17:48Z"
-    },
-    {
-      "prNumber": 39600,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T08:17:24Z"
-    },
-    {
-      "prNumber": 39600,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T08:16:56Z"
-    },
-    {
-      "prNumber": 39600,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T08:15:10Z"
-    },
-    {
-      "prNumber": 38301,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T20:57:04Z"
-    },
-    {
-      "prNumber": 38301,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-06T20:49:40Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-16": {
       "prs": 2,
       "issues": 0,
@@ -360,7 +292,7 @@
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
-      "reviews": 4
+      "reviews": 3
     },
     "2026-03-12": {
       "prs": 2,
@@ -378,24 +310,9 @@
       "reviews": 0
     },
     "2026-03-09": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-08": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 4
-    },
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
       "prs": 5,
       "issues": 0,
-      "reviews": 2
+      "reviews": 1
     },
     "2026-03-18": {
       "prs": 0,
@@ -407,8 +324,7 @@
     "Pull Requests",
     "Code Review",
     "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
+    "Direct Commits"
   ],
   "achievements": [
     {
@@ -422,28 +338,9 @@
       "description": "5+ merged PRs"
     },
     {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    },
-    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-16": 2,
-    "2026-03-12": 6,
-    "2026-03-11": 1,
-    "2026-03-10": 1,
-    "2026-03-09": 5,
-    "2026-03-08": 3,
-    "2026-03-07": 2,
-    "2026-03-06": 2,
-    "2026-03-05": 3,
-    "2026-03-03": 1,
-    "2026-03-02": 4,
-    "2026-03-01": 1
-  }
+  ]
 }

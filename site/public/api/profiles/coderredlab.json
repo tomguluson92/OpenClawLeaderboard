@@ -1,0 +1,99 @@
+{
+  "username": "coderredlab",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20317399?u=1e38b79b2c622ff46d307d6b6c0b38d72b63401b&v=4",
+  "githubUrl": "https://github.com/coderredlab",
+  "score": {
+    "score": 25.48,
+    "prScore": 7.48,
+    "issueScore": 18,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 4,
+    "prDeletions": 0,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-24T00:24:08Z",
+  "lastContribution": "2026-03-26T00:58:15Z",
+  "recentPRs": [
+    {
+      "number": 54785,
+      "title": "fix(discord): detach supervisor before disconnect in onAbort to prevent uncaught exception",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T00:58:15Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 0,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54782,
+      "title": "Bug: Discord health-monitor abort sets maxAttempts=0, causing uncaught exception on WebSocket close",
+      "state": "CLOSED",
+      "createdAt": "2026-03-26T00:51:38Z",
+      "closedAt": "2026-03-26T15:57:35Z"
+    },
+    {
+      "number": 53285,
+      "title": "Bug: WhatsApp plugin still broken in 2026.3.23-1 — missing @whiskeysockets/baileys dependency",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T01:54:04Z",
+      "closedAt": null
+    },
+    {
+      "number": 53244,
+      "title": "Bug: WhatsApp plugin runtime modules missing from npm package (2026.3.22+)",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T00:24:08Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": []
+}

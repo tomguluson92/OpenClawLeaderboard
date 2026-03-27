@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/28055621?u=a9386309359afb54d8d0938852903fb657177d8e&v=4",
   "githubUrl": "https://github.com/jackjin1997",
   "score": {
-    "score": 276.27,
-    "prScore": 239.77,
+    "score": 292.47,
+    "prScore": 254.47,
     "issueScore": 10,
     "reviewScore": 3,
-    "commentScore": 23.5
+    "commentScore": 25
   },
   "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 20,
+    "prs": 22,
     "prsMerged": 0,
-    "prAdditions": 644,
-    "prDeletions": 129,
-    "prChangedFiles": 67,
+    "prAdditions": 680,
+    "prDeletions": 130,
+    "prChangedFiles": 70,
     "prMergeRate": 0,
     "issues": 2,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 47,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 50
   },
   "period": {
     "weekly": {
-      "prs": 20,
-      "issues": 2,
-      "reviews": 1,
-      "comments": 47,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 3
     },
     "monthly": {
-      "prs": 20,
+      "prs": 22,
       "issues": 2,
       "reviews": 1,
-      "comments": 47,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 50
     }
   },
   "firstContribution": "2026-03-13T12:41:56Z",
-  "lastContribution": "2026-03-19T08:58:12Z",
+  "lastContribution": "2026-03-22T13:29:31Z",
   "recentPRs": [
+    {
+      "number": 52255,
+      "title": "fix(failover): classify HTTP 500 billing errors as billing, not timeout",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T13:03:48Z",
+      "mergedAt": null,
+      "additions": 36,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 51729,
+      "title": "fix: remove unused import and fix oxfmt formatting",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T16:25:55Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 50340,
       "title": "docs(subagents): fix 6 gaps in sub-agents documentation",
@@ -249,28 +262,6 @@
       "additions": 48,
       "deletions": 1,
       "changedFiles": 4
-    },
-    {
-      "number": 45188,
-      "title": "fix(cron): refresh stale Current time timestamp on repeated heartbeat runs",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T14:39:19Z",
-      "mergedAt": null,
-      "additions": 106,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 45083,
-      "title": "fix(model): avoid ANTHROPIC_MODEL_ALIASES TDZ on Rollup bundle init",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T12:41:56Z",
-      "mergedAt": null,
-      "additions": 12,
-      "deletions": 7,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [
@@ -297,6 +288,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
@@ -345,6 +346,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

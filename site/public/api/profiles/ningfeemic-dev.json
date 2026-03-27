@@ -1,0 +1,149 @@
+{
+  "username": "ningfeemic-dev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/239259264?v=4",
+  "githubUrl": "https://github.com/ningfeemic-dev",
+  "score": {
+    "score": 51.91,
+    "prScore": 10.91,
+    "issueScore": 38,
+    "reviewScore": 0,
+    "commentScore": 3
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 71,
+    "prDeletions": 5,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 7,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 6
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 6
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 7,
+      "reviews": 0,
+      "comments": 6
+    }
+  },
+  "firstContribution": "2026-03-15T11:24:14Z",
+  "lastContribution": "2026-03-23T03:07:09Z",
+  "recentPRs": [
+    {
+      "number": 52141,
+      "title": "fix(message): ignore zero-valued poll defaults in send path",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T07:57:30Z",
+      "mergedAt": null,
+      "additions": 71,
+      "deletions": 5,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 52595,
+      "title": "/status may report 0/<context> for active sessions when usage is missing but normalized to zero",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T03:07:09Z",
+      "closedAt": null
+    },
+    {
+      "number": 52145,
+      "title": "[Bug]: openviking plugin can leak agent context via shared mutable client agentId",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T08:15:44Z",
+      "closedAt": null
+    },
+    {
+      "number": 52118,
+      "title": "[Bug]: message send attachment/file replies can fail when zero-valued poll params are present",
+      "state": "CLOSED",
+      "createdAt": "2026-03-22T06:53:46Z",
+      "closedAt": "2026-03-22T10:39:35Z"
+    },
+    {
+      "number": 52058,
+      "title": "Bug: LAN provider requests may still use proxy when NO_PROXY is CIDR-only",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T03:53:19Z",
+      "closedAt": null
+    },
+    {
+      "number": 50065,
+      "title": "[Bug]: direct session can exceed configured contextWindow without timely compaction",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T23:04:54Z",
+      "closedAt": null
+    },
+    {
+      "number": 48239,
+      "title": "Telegram exec approvals can surface in the wrong agent/chat despite agentFilter=main",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T13:39:24Z",
+      "closedAt": null
+    },
+    {
+      "number": 47235,
+      "title": "bug: `memory status --deep` embedding readiness probe can flap and disagree with actual index state",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T11:24:14Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ]
+}

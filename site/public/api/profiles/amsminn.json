@@ -1,0 +1,88 @@
+{
+  "username": "amsminn",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/66085474?v=4",
+  "githubUrl": "https://github.com/amsminn",
+  "score": {
+    "score": 22.8,
+    "prScore": 13.8,
+    "issueScore": 0,
+    "reviewScore": 9,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 53,
+    "prDeletions": 14,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-24T04:41:46Z",
+  "lastContribution": "2026-03-24T05:07:10Z",
+  "recentPRs": [
+    {
+      "number": 53385,
+      "title": "fix(docker): avoid setup CLI namespace loop before gateway startup",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T04:41:46Z",
+      "mergedAt": "2026-03-24T23:35:42Z",
+      "additions": 53,
+      "deletions": 14,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 53385,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T05:07:10Z"
+    },
+    {
+      "prNumber": 53385,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T04:54:00Z"
+    },
+    {
+      "prNumber": 53385,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T04:53:25Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": []
+}

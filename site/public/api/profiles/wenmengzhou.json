@@ -3,59 +3,61 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4771825?u=e3827755d3bebe1d0488dd23ff9b9512cff386f1&v=4",
   "githubUrl": "https://github.com/wenmengzhou",
   "score": {
-    "score": 23.12,
-    "prScore": 19.12,
+    "score": 42.71,
+    "prScore": 37.71,
     "issueScore": 0,
     "reviewScore": 3,
-    "commentScore": 1
+    "commentScore": 2
   },
   "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 145,
-    "prDeletions": 10,
-    "prChangedFiles": 8,
-    "prMergeRate": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 236,
+    "prDeletions": 78,
+    "prChangedFiles": 12,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
       "prs": 1,
       "issues": 0,
+      "reviews": 0,
+      "comments": 2
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
       "reviews": 1,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
   "firstContribution": "2026-03-12T09:07:18Z",
-  "lastContribution": "2026-03-20T08:10:40Z",
+  "lastContribution": "2026-03-25T14:43:33Z",
   "recentPRs": [
+    {
+      "number": 54407,
+      "title": "Docs: rename modelstudio.md to qwen_modelstudio.md, add Standard API endpoints",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T09:46:53Z",
+      "mergedAt": "2026-03-26T07:11:29Z",
+      "additions": 91,
+      "deletions": 68,
+      "changedFiles": 4
+    },
     {
       "number": 43878,
       "title": "feat: add standard (pay-as-you-go) endpoints for Official Qwen API",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T09:07:18Z",
       "mergedAt": null,
@@ -73,6 +75,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -84,6 +91,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

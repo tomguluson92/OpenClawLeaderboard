@@ -3,112 +3,51 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4436535?v=4",
   "githubUrl": "https://github.com/sircrumpet",
   "score": {
-    "score": 171.45,
-    "prScore": 162.45,
+    "score": 20,
+    "prScore": 20,
     "issueScore": 0,
-    "reviewScore": 6,
-    "commentScore": 3
+    "reviewScore": 0,
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 4,
-    "prs": 2,
-    "prsMerged": 1,
-    "prAdditions": 1733,
-    "prDeletions": 369,
-    "prChangedFiles": 25,
-    "prMergeRate": 50,
+    "prs": 0,
+    "prsMerged": 0,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 1808,
-    "commitDeletions": 375,
-    "commitChangedFiles": 34
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 2,
-      "comments": 6,
-      "commitAdditions": 1693,
-      "commitDeletions": 370,
-      "commits": 2
-    }
-  },
-  "firstContribution": "2026-03-09T01:36:45Z",
-  "lastContribution": "2026-03-10T02:40:16Z",
-  "recentPRs": [
-    {
-      "number": 40740,
-      "title": "fix(telegram): move network fallback to resolver-scoped dispatchers",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T07:37:11Z",
-      "mergedAt": "2026-03-10T05:58:51Z",
-      "additions": 1602,
-      "deletions": 351,
-      "changedFiles": 23
-    },
-    {
-      "number": 40435,
-      "title": "fix(telegram): use sticky IPv4 fallback on dual-stack failures",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T01:36:45Z",
-      "mergedAt": null,
-      "additions": 131,
-      "deletions": 18,
-      "changedFiles": 2
-    }
-  ],
-  "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 40740,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T02:35:04Z"
-    },
-    {
-      "prNumber": 40740,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-10T02:34:44Z"
-    }
-  ],
-  "recentActivityDays": {
-    "2026-03-09": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-10": {
       "prs": 0,
       "issues": 0,
-      "reviews": 2
+      "reviews": 0,
+      "comments": 0
     }
   },
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-10": 1,
-    "2026-03-03": 1
-  }
+  "achievements": []
 }

@@ -3,65 +3,78 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/32521398?v=4",
   "githubUrl": "https://github.com/unisone",
   "score": {
-    "score": 32.52,
-    "prScore": 32.52,
+    "score": 36.76,
+    "prScore": 33.26,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 3,
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 0,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
+    "prAdditions": 106,
+    "prDeletions": 2,
+    "prChangedFiles": 8,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 127,
-    "commitDeletions": 2,
-    "commitChangedFiles": 12
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 90,
-      "commitDeletions": 0,
-      "commits": 1
+      "reviews": 1,
+      "comments": 1
     },
     "monthly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 97,
-      "commitDeletions": 2,
-      "commits": 2
+      "reviews": 1,
+      "comments": 1
     }
   },
-  "firstContribution": null,
-  "lastContribution": null,
-  "recentPRs": [],
+  "firstContribution": "2026-03-20T17:08:14Z",
+  "lastContribution": "2026-03-26T21:22:57Z",
+  "recentPRs": [
+    {
+      "number": 51156,
+      "title": "feat(config): add enforceFinalTag option to agent defaults",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T17:08:14Z",
+      "mergedAt": null,
+      "additions": 106,
+      "deletions": 2,
+      "changedFiles": 8
+    }
+  ],
   "recentIssues": [],
-  "recentReviews": [],
-  "recentActivityDays": {},
+  "recentReviews": [
+    {
+      "prNumber": 51156,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T17:36:34Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
   "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-13": 1,
-    "2026-02-22": 1,
-    "2026-02-06": 1
-  }
+  "achievements": []
 }

@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6047293?v=4",
   "githubUrl": "https://github.com/rbutera",
   "score": {
-    "score": 273.82,
-    "prScore": 197.82,
-    "issueScore": 44,
-    "reviewScore": 18,
-    "commentScore": 14
+    "score": 167.34,
+    "prScore": 142.84,
+    "issueScore": 10,
+    "reviewScore": 9,
+    "commentScore": 5.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 2,
-    "prs": 9,
-    "prsMerged": 2,
-    "prAdditions": 2224,
-    "prDeletions": 106,
-    "prChangedFiles": 53,
-    "prMergeRate": 22,
-    "issues": 7,
-    "issuesClosed": 3,
-    "reviews": 6,
+    "prs": 7,
+    "prsMerged": 0,
+    "prAdditions": 1825,
+    "prDeletions": 80,
+    "prChangedFiles": 37,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 28,
-    "commitAdditions": 399,
-    "commitDeletions": 26,
-    "commitChangedFiles": 16
+    "comments": 11
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 2,
-      "reviews": 1,
-      "comments": 9,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 9,
-      "issues": 7,
-      "reviews": 6,
-      "comments": 28,
-      "commitAdditions": 399,
-      "commitDeletions": 26,
-      "commits": 2
+      "prs": 7,
+      "issues": 2,
+      "reviews": 3,
+      "comments": 11
     }
   },
-  "firstContribution": "2026-03-08T12:19:07Z",
+  "firstContribution": "2026-03-11T16:13:59Z",
   "lastContribution": "2026-03-19T13:57:02Z",
   "recentPRs": [
     {
@@ -128,28 +119,6 @@
       "additions": 60,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 40133,
-      "title": "fix(discord): apply effective maxLinesPerMessage in live replies",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T17:54:09Z",
-      "mergedAt": "2026-03-09T22:30:24Z",
-      "additions": 207,
-      "deletions": 10,
-      "changedFiles": 10
-    },
-    {
-      "number": 39875,
-      "title": "fix(hooks): use resolveAgentIdFromSessionKey in runBeforeReset ",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T13:31:00Z",
-      "mergedAt": "2026-03-08T16:07:28Z",
-      "additions": 192,
-      "deletions": 16,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [
@@ -166,41 +135,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-16T16:44:47Z",
       "closedAt": null
-    },
-    {
-      "number": 44302,
-      "title": "[Feature]: Optional webchat-to-external-channel mirroring",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T18:16:28Z",
-      "closedAt": null
-    },
-    {
-      "number": 43318,
-      "title": "[Bug]: sessions_send hardcodes INTERNAL_MESSAGE_CHANNEL, causing reply routing to flip from external channel to webchat",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T16:06:09Z",
-      "closedAt": null
-    },
-    {
-      "number": 41017,
-      "title": "Discord auto-replies ignore configured maxLinesPerMessage and re-split at default 17 lines",
-      "state": "CLOSED",
-      "createdAt": "2026-03-09T13:07:46Z",
-      "closedAt": "2026-03-09T22:30:26Z"
-    },
-    {
-      "number": 40128,
-      "title": "[Bug]: Discord live replies can ignore effective maxLinesPerMessage and fall back to 17",
-      "state": "CLOSED",
-      "createdAt": "2026-03-08T17:43:25Z",
-      "closedAt": "2026-03-09T22:30:25Z"
-    },
-    {
-      "number": 39816,
-      "title": "[Bug]: /new / before_reset resolves the wrong agent identity, causing session-memory to write into workspace-main instead of the bound agent workspace",
-      "state": "CLOSED",
-      "createdAt": "2026-03-08T12:19:07Z",
-      "closedAt": "2026-03-08T16:07:29Z"
     }
   ],
   "recentReviews": [
@@ -218,21 +152,6 @@
       "prNumber": 43353,
       "state": "COMMENTED",
       "createdAt": "2026-03-11T17:25:13Z"
-    },
-    {
-      "prNumber": 40133,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T20:51:21Z"
-    },
-    {
-      "prNumber": 40133,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T17:59:18Z"
-    },
-    {
-      "prNumber": 39875,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T13:42:47Z"
     }
   ],
   "recentActivityDays": {
@@ -253,23 +172,8 @@
     },
     "2026-03-11": {
       "prs": 3,
-      "issues": 1,
+      "issues": 0,
       "reviews": 2
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 2
-    },
-    "2026-03-12": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 1
     }
   },
   "skills": [
@@ -281,23 +185,9 @@
   ],
   "achievements": [
     {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    },
-    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-09": 1,
-    "2026-03-08": 1
-  }
+  ]
 }

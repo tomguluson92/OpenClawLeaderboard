@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/320556?u=dc7fcc2a4f7283669260eb5719dc6fccd68cd391&v=4",
   "githubUrl": "https://github.com/gregretkowski",
   "score": {
-    "score": 16,
-    "prScore": 10,
+    "score": 20.51,
+    "prScore": 14.51,
     "issueScore": 0,
     "reviewScore": 6,
     "commentScore": 0
@@ -14,39 +14,30 @@
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 146,
+    "prsMerged": 1,
+    "prAdditions": 147,
     "prDeletions": 2,
-    "prChangedFiles": 2,
-    "prMergeRate": 0,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-13T17:20:13Z",
@@ -55,13 +46,13 @@
     {
       "number": 45328,
       "title": "fix(daemon): tighten systemd duplicate gateway detection (#15849)",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-13T17:20:13Z",
-      "mergedAt": null,
-      "additions": 146,
+      "mergedAt": "2026-03-26T03:50:11Z",
+      "additions": 147,
       "deletions": 2,
-      "changedFiles": 2
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
@@ -93,6 +84,5 @@
     "Pull Requests",
     "Code Review"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

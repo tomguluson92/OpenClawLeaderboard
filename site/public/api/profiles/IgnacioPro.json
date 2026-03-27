@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/43138083?u=1ecb7c11a7970718ea5540a628b59a9f873d14b7&v=4",
   "githubUrl": "https://github.com/IgnacioPro",
   "score": {
-    "score": 166.97,
+    "score": 158.97,
     "prScore": 142.97,
-    "issueScore": 23,
+    "issueScore": 15,
     "reviewScore": 0,
     "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 5,
@@ -19,37 +19,28 @@
     "prDeletions": 239,
     "prChangedFiles": 60,
     "prMergeRate": 0,
-    "issues": 4,
-    "issuesClosed": 1,
+    "issues": 3,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 5,
-      "issues": 3,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 5,
-      "issues": 4,
+      "issues": 3,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-07T21:41:09Z",
+  "firstContribution": "2026-03-14T20:22:32Z",
   "lastContribution": "2026-03-14T23:03:36Z",
   "recentPRs": [
     {
@@ -129,13 +120,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-14T20:22:32Z",
       "closedAt": null
-    },
-    {
-      "number": 39208,
-      "title": "Telegram: duplicate/partial follow-up message after assistant reply",
-      "state": "CLOSED",
-      "createdAt": "2026-03-07T21:41:09Z",
-      "closedAt": "2026-03-08T01:00:26Z"
     }
   ],
   "recentReviews": [],
@@ -144,11 +128,6 @@
       "prs": 5,
       "issues": 3,
       "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
@@ -156,6 +135,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

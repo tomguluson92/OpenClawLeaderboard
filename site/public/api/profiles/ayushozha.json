@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7945279?u=45cba8d2e8b49b6568c7ae5e596f45bd20dea673&v=4",
   "githubUrl": "https://github.com/ayushozha",
   "score": {
-    "score": 519.69,
-    "prScore": 489.69,
+    "score": 537.19,
+    "prScore": 507.19,
     "issueScore": 0,
     "reviewScore": 21,
     "commentScore": 9
@@ -13,45 +13,58 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 52,
-    "prsMerged": 0,
-    "prAdditions": 4029,
-    "prDeletions": 280,
-    "prChangedFiles": 117,
-    "prMergeRate": 0,
+    "prs": 54,
+    "prsMerged": 1,
+    "prAdditions": 4221,
+    "prDeletions": 283,
+    "prChangedFiles": 129,
+    "prMergeRate": 2,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 18,
-    "commitAdditions": 41,
-    "commitDeletions": 4,
-    "commitChangedFiles": 2
+    "comments": 18
   },
   "period": {
     "weekly": {
-      "prs": 52,
+      "prs": 2,
       "issues": 0,
-      "reviews": 7,
-      "comments": 18,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 52,
+      "prs": 54,
       "issues": 0,
       "reviews": 7,
-      "comments": 18,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 18
     }
   },
   "firstContribution": "2026-03-15T05:03:29Z",
-  "lastContribution": "2026-03-19T09:15:40Z",
+  "lastContribution": "2026-03-27T08:35:15Z",
   "recentPRs": [
+    {
+      "number": 55670,
+      "title": "fix: discord OOM, OpenAI tool adjacency, subagent fallback, auth cache",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T08:35:15Z",
+      "mergedAt": null,
+      "additions": 151,
+      "deletions": 3,
+      "changedFiles": 9
+    },
+    {
+      "number": 54345,
+      "title": "fix(telegram): skip DM access check for bot's own messages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T07:55:42Z",
+      "mergedAt": null,
+      "additions": 40,
+      "deletions": 0,
+      "changedFiles": 2
+    },
     {
       "number": 49674,
       "title": "fix(discord): commit streaming draft when tool call present in same turn",
@@ -209,7 +222,7 @@
     {
       "number": 49648,
       "title": "fix: allow plugin apiKey and env in gateway config validator",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T08:32:26Z",
       "mergedAt": null,
@@ -249,28 +262,6 @@
       "additions": 58,
       "deletions": 21,
       "changedFiles": 1
-    },
-    {
-      "number": 49642,
-      "title": "fix: clear self-owned lock files on gateway boot",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-18T08:31:13Z",
-      "mergedAt": null,
-      "additions": 141,
-      "deletions": 1,
-      "changedFiles": 3
-    },
-    {
-      "number": 49641,
-      "title": "fix: preserve thinking/redacted_thinking blocks during context pruning",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-18T08:31:10Z",
-      "mergedAt": null,
-      "additions": 106,
-      "deletions": 6,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
@@ -312,6 +303,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 51,
       "issues": 0,
@@ -339,8 +340,5 @@
       "label": "PR Master",
       "description": "50+ pull requests"
     }
-  ],
-  "recentCommitDays": {
-    "2026-01-30": 1
-  }
+  ]
 }

@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/13889883?u=0bb501c3e38bf78f678a6b20e637d22eb9057183&v=4",
   "githubUrl": "https://github.com/mrdear",
   "score": {
-    "score": 16.93,
-    "prScore": 16.93,
-    "issueScore": 0,
-    "reviewScore": 0,
+    "score": 43.47,
+    "prScore": 32.47,
+    "issueScore": 5,
+    "reviewScore": 6,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 50,
-    "prDeletions": 80,
-    "prChangedFiles": 2,
+    "prAdditions": 153,
+    "prDeletions": 81,
+    "prChangedFiles": 7,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 3,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-15T02:59:36Z",
-  "lastContribution": "2026-03-15T03:40:27Z",
+  "lastContribution": "2026-03-21T11:37:49Z",
   "recentPRs": [
+    {
+      "number": 51573,
+      "title": "fix: classify openrouter json 404 model errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T11:28:27Z",
+      "mergedAt": null,
+      "additions": 103,
+      "deletions": 1,
+      "changedFiles": 5
+    },
     {
       "number": 46824,
       "title": "docs: add zh-CN Agent Bootstrapping doc",
@@ -75,9 +77,33 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [],
+  "recentIssues": [
+    {
+      "number": 51571,
+      "title": "OpenRouter JSON 404 payloads do not trigger model fallback",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T11:27:15Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 51573,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T11:37:49Z"
+    },
+    {
+      "prNumber": 51573,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T11:37:48Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 2
+    },
     "2026-03-15": {
       "prs": 2,
       "issues": 0,
@@ -85,8 +111,15 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

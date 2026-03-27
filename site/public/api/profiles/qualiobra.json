@@ -1,0 +1,90 @@
+{
+  "username": "qualiobra",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/212555527?u=bcbe45f6da82bdda0eecd27a3ac0a13163edebe8&v=4",
+  "githubUrl": "https://github.com/qualiobra",
+  "score": {
+    "score": 172.5,
+    "prScore": 171.5,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "regular",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 35673,
+    "prDeletions": 637,
+    "prChangedFiles": 218,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2
+    }
+  },
+  "firstContribution": "2026-03-20T15:33:37Z",
+  "lastContribution": "2026-03-20T16:11:00Z",
+  "recentPRs": [
+    {
+      "number": 51114,
+      "title": "fix: add TTL eviction and max-size cap to SESSION_MANAGER_CACHE",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T15:47:48Z",
+      "mergedAt": null,
+      "additions": 139,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 51108,
+      "title": "fix: add TTL eviction and max-size cap to SESSION_MANAGER_CACHE",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T15:33:37Z",
+      "mergedAt": null,
+      "additions": 35534,
+      "deletions": 635,
+      "changedFiles": 216
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ]
+}

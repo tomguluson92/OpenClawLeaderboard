@@ -1,0 +1,120 @@
+{
+  "username": "daniel-knox",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34885600?u=a5d2f570844dbb9e48b3ca30ca0095aca116f049&v=4",
+  "githubUrl": "https://github.com/daniel-knox",
+  "score": {
+    "score": 42.64,
+    "prScore": 27.64,
+    "issueScore": 15,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 370,
+    "prDeletions": 292,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-17T16:55:59Z",
+  "lastContribution": "2026-03-23T16:47:45Z",
+  "recentPRs": [
+    {
+      "number": 53014,
+      "title": "fix(heartbeat): skip heartbeat when main session is stale to allow daily reset",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T16:47:45Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 52515,
+      "title": "fix(doctor): skip cleanup hints for active gateway and downgrade exec SecretRef errors to warnings",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T23:25:34Z",
+      "mergedAt": null,
+      "additions": 333,
+      "deletions": 291,
+      "changedFiles": 6
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 52510,
+      "title": "doctor: false positive cleanup hint for active gateway LaunchAgent plist",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T23:16:11Z",
+      "closedAt": null
+    },
+    {
+      "number": 51000,
+      "title": "Isolated cron jobs with explicit sessionKey overwrite parent session's updatedAt, preventing daily reset",
+      "state": "OPEN",
+      "createdAt": "2026-03-20T11:12:24Z",
+      "closedAt": null
+    },
+    {
+      "number": 49150,
+      "title": "Request iOS TestFlight Access",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T16:55:59Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": []
+}

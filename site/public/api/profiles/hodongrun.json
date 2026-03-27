@@ -1,0 +1,87 @@
+{
+  "username": "hodongrun",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/243105689?v=4",
+  "githubUrl": "https://github.com/hodongrun",
+  "score": {
+    "score": 25.49,
+    "prScore": 25.49,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 234,
+    "prDeletions": 3,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-23T08:45:12Z",
+  "lastContribution": "2026-03-24T04:59:23Z",
+  "recentPRs": [
+    {
+      "number": 53393,
+      "title": "refactor(gateway): unify config-derived cache invalidation on hot reload",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T04:59:23Z",
+      "mergedAt": null,
+      "additions": 233,
+      "deletions": 0,
+      "changedFiles": 6
+    },
+    {
+      "number": 52741,
+      "title": "perf(gateway): parallelize channel plugin startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T08:45:12Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 3,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": []
+}

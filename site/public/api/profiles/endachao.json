@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8328651?u=d4765adf1cd4b1d9fd264db95a68a5a96650dd61&v=4",
   "githubUrl": "https://github.com/endachao",
   "score": {
-    "score": 24.61,
+    "score": 19.11,
     "prScore": 18.61,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Builder",
@@ -19,37 +19,28 @@
     "prDeletions": 0,
     "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-09T15:44:33Z",
+  "firstContribution": "2026-03-09T16:08:31Z",
   "lastContribution": "2026-03-10T12:41:16Z",
   "recentPRs": [
     {
@@ -75,15 +66,7 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41198,
-      "title": "Gateway restart from agent exec kills gateway without recovery (bootout before bootstrap)",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T15:44:33Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
@@ -93,15 +76,13 @@
     },
     "2026-03-09": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

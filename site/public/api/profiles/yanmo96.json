@@ -1,0 +1,80 @@
+{
+  "username": "yanmo96",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15720572?u=22ba999fcfbe49f8c3c48d7581e0b521a2e8e8f5&v=4",
+  "githubUrl": "https://github.com/yanmo96",
+  "score": {
+    "score": 13.54,
+    "prScore": 8.54,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 10,
+    "prDeletions": 2,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-25T07:03:44Z",
+  "lastContribution": "2026-03-25T07:15:43Z",
+  "recentPRs": [
+    {
+      "number": 54328,
+      "title": "fix(cli): increase cron run default timeout from 30s to 10min",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T07:15:43Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 2,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54320,
+      "title": "cron run: default 30s timeout kills long-running jobs even when job itself is healthy",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T07:03:44Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": []
+}

@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/209870260?v=4",
   "githubUrl": "https://github.com/PenguinMiaou",
   "score": {
-    "score": 87.74,
+    "score": 72.74,
     "prScore": 72.24,
-    "issueScore": 15,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -19,37 +19,28 @@
     "prDeletions": 109,
     "prChangedFiles": 24,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 3,
-      "issues": 3,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-12T05:01:56Z",
+  "firstContribution": "2026-03-12T05:42:35Z",
   "lastContribution": "2026-03-12T09:02:45Z",
   "recentPRs": [
     {
@@ -86,42 +77,18 @@
       "changedFiles": 8
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43696,
-      "title": "Feature request: feishu_calendar tool — create events, invite attendees, book meeting rooms",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T05:11:20Z",
-      "closedAt": null
-    },
-    {
-      "number": 43691,
-      "title": "Anthropic thinking block 'signature' field lost during session persistence — causes API rejection",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T05:02:13Z",
-      "closedAt": null
-    },
-    {
-      "number": 43690,
-      "title": "Feishu: card fails with 'table number over limit' — should fallback or render tables as images",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T05:01:56Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 3,
-      "issues": 3,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

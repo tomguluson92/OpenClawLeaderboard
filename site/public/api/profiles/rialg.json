@@ -3,65 +3,56 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/19420029?u=485fe8ab5ce6d873c1e94d16d2dae1713504ad2a&v=4",
   "githubUrl": "https://github.com/rialg",
   "score": {
-    "score": 81.02,
-    "prScore": 81.02,
+    "score": 177.53,
+    "prScore": 174.53,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 3,
     "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1682,
-    "prDeletions": 31,
-    "prChangedFiles": 30,
+    "prAdditions": 27593,
+    "prDeletions": 16847,
+    "prChangedFiles": 663,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-15T10:35:43Z",
-  "lastContribution": "2026-03-15T12:01:02Z",
+  "lastContribution": "2026-03-21T17:20:33Z",
   "recentPRs": [
     {
       "number": 47271,
       "title": "feat(tts): add MiniMax Speech as a fourth TTS provider",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T12:01:02Z",
       "mergedAt": null,
-      "additions": 790,
-      "deletions": 6,
-      "changedFiles": 15
+      "additions": 26701,
+      "deletions": 16822,
+      "changedFiles": 648
     },
     {
       "number": 47198,
@@ -76,17 +67,35 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 47271,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T17:20:33Z"
+    }
+  ],
   "recentActivityDays": {
     "2026-03-15": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ]
 }

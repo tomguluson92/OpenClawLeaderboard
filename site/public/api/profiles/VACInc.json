@@ -3,63 +3,162 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3279061?v=4",
   "githubUrl": "https://github.com/VACInc",
   "score": {
-    "score": 41.92,
-    "prScore": 41.92,
+    "score": 165.05,
+    "prScore": 138.05,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 24,
+    "commentScore": 3
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
-    "commits": 2,
-    "prs": 0,
-    "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
-    "prMergeRate": 0,
+    "commits": 4,
+    "prs": 5,
+    "prsMerged": 2,
+    "prAdditions": 1798,
+    "prDeletions": 110,
+    "prChangedFiles": 34,
+    "prMergeRate": 40,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 1092,
-    "commitDeletions": 110,
-    "commitChangedFiles": 15
+    "comments": 6
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 5,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 8,
+      "comments": 6
     },
     "monthly": {
-      "prs": 0,
+      "prs": 5,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 8,
+      "comments": 6
     }
   },
-  "firstContribution": null,
-  "lastContribution": null,
-  "recentPRs": [],
+  "firstContribution": "2026-03-23T17:39:22Z",
+  "lastContribution": "2026-03-24T21:18:25Z",
+  "recentPRs": [
+    {
+      "number": 53940,
+      "title": "fix(gateway): restart sentinel wakes the session after restart and preserves thread routing",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T20:21:07Z",
+      "mergedAt": "2026-03-25T04:47:21Z",
+      "additions": 587,
+      "deletions": 31,
+      "changedFiles": 9
+    },
+    {
+      "number": 53872,
+      "title": "fix(gateway): emit before_reset on session reset",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T18:14:05Z",
+      "mergedAt": null,
+      "additions": 286,
+      "deletions": 7,
+      "changedFiles": 4
+    },
+    {
+      "number": 53706,
+      "title": "fix(startup): avoid redundant file rereads when context is already injected",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T13:22:38Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 53083,
+      "title": "Prompt: reuse injected bootstrap context to save tokens and startup time",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T18:46:15Z",
+      "mergedAt": null,
+      "additions": 832,
+      "deletions": 36,
+      "changedFiles": 13
+    },
+    {
+      "number": 53052,
+      "title": "fix(telegram): preserve forum topic thread in last-route delivery",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T17:39:22Z",
+      "mergedAt": "2026-03-25T06:01:01Z",
+      "additions": 84,
+      "deletions": 32,
+      "changedFiles": 4
+    }
+  ],
   "recentIssues": [],
-  "recentReviews": [],
-  "recentActivityDays": {},
+  "recentReviews": [
+    {
+      "prNumber": 53940,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T21:18:25Z"
+    },
+    {
+      "prNumber": 53940,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T21:02:39Z"
+    },
+    {
+      "prNumber": 53940,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T21:02:31Z"
+    },
+    {
+      "prNumber": 53940,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T20:49:02Z"
+    },
+    {
+      "prNumber": 53940,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T20:49:02Z"
+    },
+    {
+      "prNumber": 53872,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T18:58:46Z"
+    },
+    {
+      "prNumber": 53052,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T12:17:18Z"
+    },
+    {
+      "prNumber": 53052,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T18:03:38Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
   "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-02-01": 1
-  }
+  "achievements": []
 }

@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3401616?v=4",
   "githubUrl": "https://github.com/Jerry-Xin",
   "score": {
-    "score": 195.68,
-    "prScore": 162.18,
+    "score": 253.1,
+    "prScore": 210.6,
     "issueScore": 0,
-    "reviewScore": 15,
-    "commentScore": 18.5
+    "reviewScore": 21,
+    "commentScore": 21.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 2069,
-    "prDeletions": 98,
-    "prChangedFiles": 40,
+    "prAdditions": 7215,
+    "prDeletions": 4557,
+    "prChangedFiles": 179,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 37,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 43
   },
   "period": {
     "weekly": {
-      "prs": 9,
+      "prs": 0,
       "issues": 0,
-      "reviews": 5,
-      "comments": 35,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 2,
+      "comments": 6
     },
     "monthly": {
       "prs": 10,
       "issues": 0,
-      "reviews": 5,
-      "comments": 37,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 7,
+      "comments": 43
     }
   },
   "firstContribution": "2026-03-13T06:34:48Z",
-  "lastContribution": "2026-03-17T19:10:58Z",
+  "lastContribution": "2026-03-26T18:08:40Z",
   "recentPRs": [
     {
       "number": 48741,
@@ -59,9 +50,9 @@
       "merged": false,
       "createdAt": "2026-03-17T05:03:04Z",
       "mergedAt": null,
-      "additions": 402,
-      "deletions": 28,
-      "changedFiles": 8
+      "additions": 4933,
+      "deletions": 4483,
+      "changedFiles": 145
     },
     {
       "number": 48005,
@@ -81,8 +72,8 @@
       "merged": false,
       "createdAt": "2026-03-16T07:40:34Z",
       "mergedAt": null,
-      "additions": 101,
-      "deletions": 21,
+      "additions": 149,
+      "deletions": 22,
       "changedFiles": 2
     },
     {
@@ -92,7 +83,7 @@
       "merged": false,
       "createdAt": "2026-03-16T07:32:59Z",
       "mergedAt": null,
-      "additions": 161,
+      "additions": 168,
       "deletions": 3,
       "changedFiles": 10
     },
@@ -110,33 +101,33 @@
     {
       "number": 46133,
       "title": "fix(gateway): include agent:main:main in sessions_list RPC response",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T13:09:14Z",
       "mergedAt": null,
-      "additions": 241,
+      "additions": 252,
       "deletions": 0,
       "changedFiles": 2
     },
     {
       "number": 46016,
       "title": "fix(config): prevent nested .openclaw directory when OPENCLAW_HOME is set",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T10:58:42Z",
       "mergedAt": null,
-      "additions": 137,
-      "deletions": 3,
+      "additions": 322,
+      "deletions": 4,
       "changedFiles": 4
     },
     {
       "number": 46013,
       "title": "fix(telegram): add retry logic to media file download",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T10:52:41Z",
       "mergedAt": null,
-      "additions": 149,
+      "additions": 209,
       "deletions": 14,
       "changedFiles": 2
     },
@@ -147,8 +138,8 @@
       "merged": false,
       "createdAt": "2026-03-14T09:34:52Z",
       "mergedAt": null,
-      "additions": 217,
-      "deletions": 15,
+      "additions": 216,
+      "deletions": 14,
       "changedFiles": 4
     },
     {
@@ -158,13 +149,23 @@
       "merged": false,
       "createdAt": "2026-03-13T06:34:48Z",
       "mergedAt": null,
-      "additions": 274,
-      "deletions": 6,
-      "changedFiles": 3
+      "additions": 579,
+      "deletions": 9,
+      "changedFiles": 5
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 48005,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T18:08:40Z"
+    },
+    {
+      "prNumber": 47994,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T18:08:28Z"
+    },
     {
       "prNumber": 47994,
       "state": "COMMENTED",
@@ -212,6 +213,11 @@
       "issues": 0,
       "reviews": 0
     },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-15": {
       "prs": 0,
       "issues": 0,
@@ -221,7 +227,8 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [
     {
@@ -234,6 +241,5 @@
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

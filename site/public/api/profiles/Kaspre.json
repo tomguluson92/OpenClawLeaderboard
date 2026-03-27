@@ -3,55 +3,90 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/36520309?v=4",
   "githubUrl": "https://github.com/Kaspre",
   "score": {
-    "score": 56.49,
-    "prScore": 29.99,
-    "issueScore": 20,
-    "reviewScore": 0,
-    "commentScore": 6.5
+    "score": 213.27,
+    "prScore": 154.27,
+    "issueScore": 18,
+    "reviewScore": 27,
+    "commentScore": 14
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 101,
-    "prDeletions": 25,
-    "prChangedFiles": 11,
+    "prAdditions": 1718,
+    "prDeletions": 62,
+    "prChangedFiles": 52,
     "prMergeRate": 0,
-    "issues": 4,
-    "issuesClosed": 0,
-    "reviews": 0,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 9,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 28
   },
   "period": {
     "weekly": {
-      "prs": 2,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 4,
+      "issues": 1,
+      "reviews": 9,
+      "comments": 21
     },
     "monthly": {
-      "prs": 2,
-      "issues": 4,
-      "reviews": 0,
-      "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 6,
+      "issues": 3,
+      "reviews": 9,
+      "comments": 28
     }
   },
-  "firstContribution": "2026-03-08T21:27:16Z",
-  "lastContribution": "2026-03-20T04:18:09Z",
+  "firstContribution": "2026-03-17T20:46:57Z",
+  "lastContribution": "2026-03-25T22:26:18Z",
   "recentPRs": [
+    {
+      "number": 53961,
+      "title": "fix(delivery): track and log silent delivery failures",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T21:16:42Z",
+      "mergedAt": null,
+      "additions": 306,
+      "deletions": 15,
+      "changedFiles": 2
+    },
+    {
+      "number": 52422,
+      "title": "feat(tools): add sessions_manage tool with semantic compaction and deferred self-session support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T18:29:34Z",
+      "mergedAt": null,
+      "additions": 871,
+      "deletions": 4,
+      "changedFiles": 21
+    },
+    {
+      "number": 51421,
+      "title": "fix(memory): memoryFlush fires every compaction cycle instead of every other",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T04:39:54Z",
+      "mergedAt": null,
+      "additions": 37,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 51415,
+      "title": "feat(tools): add sessions_manage tool for programmatic compact/reset",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T04:21:25Z",
+      "mergedAt": null,
+      "additions": 255,
+      "deletions": 0,
+      "changedFiles": 10
+    },
     {
       "number": 50818,
       "title": "fix(heartbeat): propagate sessionKey in exec/hooks to fix async context loss",
@@ -59,23 +94,30 @@
       "merged": false,
       "createdAt": "2026-03-20T03:53:49Z",
       "mergedAt": null,
-      "additions": 91,
-      "deletions": 23,
-      "changedFiles": 10
+      "additions": 232,
+      "deletions": 36,
+      "changedFiles": 16
     },
     {
       "number": 49238,
       "title": "fix(plugins): use process-global registry cache to prevent cross-chunk duplication",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-17T20:46:57Z",
       "mergedAt": null,
-      "additions": 10,
+      "additions": 17,
       "deletions": 2,
       "changedFiles": 1
     }
   ],
   "recentIssues": [
+    {
+      "number": 53103,
+      "title": "Security: API key logged in plaintext to cache-trace diagnostic file",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T19:33:35Z",
+      "closedAt": "2026-03-23T22:10:10Z"
+    },
     {
       "number": 50476,
       "title": "Ollama catalog: deepseek-v3.2 incorrectly marked supportsTools: false",
@@ -89,24 +131,71 @@
       "state": "OPEN",
       "createdAt": "2026-03-19T14:38:52Z",
       "closedAt": null
-    },
-    {
-      "number": 43578,
-      "title": "$schema field silently dropped on config hot-reload rewrite",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T01:49:25Z",
-      "closedAt": null
-    },
-    {
-      "number": 41152,
-      "title": "Async exec result delivery truncates output to ~400 chars and strips newlines",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T14:49:27Z",
-      "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 50818,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:21:18Z"
+    },
+    {
+      "prNumber": 50818,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:21:17Z"
+    },
+    {
+      "prNumber": 50818,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:16:00Z"
+    },
+    {
+      "prNumber": 50818,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:10:21Z"
+    },
+    {
+      "prNumber": 50818,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:10:13Z"
+    },
+    {
+      "prNumber": 51415,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T05:17:10Z"
+    },
+    {
+      "prNumber": 51415,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T05:17:00Z"
+    },
+    {
+      "prNumber": 51415,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T05:05:49Z"
+    },
+    {
+      "prNumber": 51415,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T04:41:05Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 9
+    },
+    "2026-03-21": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-20": {
       "prs": 1,
       "issues": 0,
@@ -117,27 +206,33 @@
       "issues": 0,
       "reviews": 0
     },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 0,
       "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-12": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 1,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "conversationalist",
+      "label": "Conversationalist",
+      "description": "20+ comments"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

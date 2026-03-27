@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/34933256?u=c5d22c7cacca6438c553d695116449a529ce00cf&v=4",
   "githubUrl": "https://github.com/nikhil8182",
   "score": {
-    "score": 36.51,
-    "prScore": 35.51,
+    "score": 28.93,
+    "prScore": 28.93,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Builder",
@@ -15,43 +15,56 @@
     "commits": 0,
     "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 197,
-    "prDeletions": 18,
-    "prChangedFiles": 9,
+    "prAdditions": 154,
+    "prDeletions": 43,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-09T04:38:26Z",
-  "lastContribution": "2026-03-14T20:36:01Z",
+  "firstContribution": "2026-03-14T20:36:01Z",
+  "lastContribution": "2026-03-22T12:43:47Z",
   "recentPRs": [
+    {
+      "number": 52247,
+      "title": "fix: session_status reports effective channel model override instead of default",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T12:43:47Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 40,
+      "changedFiles": 1
+    },
+    {
+      "number": 52245,
+      "title": "fix(launchd): re-bootstrap LaunchAgent when kickstart failure leaves service unloaded",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T12:42:14Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 0,
+      "changedFiles": 2
+    },
     {
       "number": 46561,
       "title": "fix(session): check daily reset staleness before route metadata updates",
@@ -62,48 +75,24 @@
       "additions": 36,
       "deletions": 3,
       "changedFiles": 2
-    },
-    {
-      "number": 40606,
-      "title": "fix(memory): close cached FSWatcher handles after one-shot CLI completion",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T04:52:44Z",
-      "mergedAt": null,
-      "additions": 137,
-      "deletions": 9,
-      "changedFiles": 5
-    },
-    {
-      "number": 40591,
-      "title": "fix(telegram): accept negative group/supergroup IDs in groupAllowFrom allowlist",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T04:38:26Z",
-      "mergedAt": null,
-      "additions": 24,
-      "deletions": 6,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-14": {
-      "prs": 1,
+    "2026-03-22": {
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-09": {
-      "prs": 2,
+    "2026-03-14": {
+      "prs": 1,
       "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

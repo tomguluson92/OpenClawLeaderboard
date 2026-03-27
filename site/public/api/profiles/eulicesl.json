@@ -3,55 +3,79 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/105620565?u=9cf4fdf28e96ff53a889b151b471f35a13336c0d&v=4",
   "githubUrl": "https://github.com/eulicesl",
   "score": {
-    "score": 284.72,
-    "prScore": 189.22,
+    "score": 166.69,
+    "prScore": 113.69,
     "issueScore": 0,
-    "reviewScore": 90,
-    "commentScore": 5.5
+    "reviewScore": 51,
+    "commentScore": 2
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 10,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 2479,
-    "prDeletions": 349,
-    "prChangedFiles": 66,
+    "prAdditions": 1253,
+    "prDeletions": 69,
+    "prChangedFiles": 30,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 30,
+    "reviews": 17,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 3,
       "issues": 0,
-      "reviews": 10,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 11,
+      "comments": 1
     },
     "monthly": {
-      "prs": 10,
+      "prs": 7,
       "issues": 0,
-      "reviews": 30,
-      "comments": 11,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 17,
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-09T10:35:24Z",
-  "lastContribution": "2026-03-19T15:29:17Z",
+  "firstContribution": "2026-03-17T16:26:28Z",
+  "lastContribution": "2026-03-24T17:38:19Z",
   "recentPRs": [
+    {
+      "number": 53841,
+      "title": "fix(doctor): preserve valid google provider shape in nano-banana migration",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T17:22:42Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 51011,
+      "title": "feat(ios): add Privacy & Access settings for contacts, calendar, and reminders",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T11:45:39Z",
+      "mergedAt": null,
+      "additions": 294,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 50998,
+      "title": "fix(ios): restore contacts/calendar permission prompts",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T11:03:14Z",
+      "mergedAt": null,
+      "additions": 139,
+      "deletions": 4,
+      "changedFiles": 5
+    },
     {
       "number": 50483,
       "title": "fix(ios): stabilize chat streaming layout and session flow",
@@ -59,8 +83,8 @@
       "merged": false,
       "createdAt": "2026-03-19T15:11:39Z",
       "mergedAt": null,
-      "additions": 374,
-      "deletions": 18,
+      "additions": 399,
+      "deletions": 17,
       "changedFiles": 6
     },
     {
@@ -92,79 +116,68 @@
       "merged": false,
       "createdAt": "2026-03-17T16:26:28Z",
       "mergedAt": null,
-      "additions": 125,
-      "deletions": 3,
+      "additions": 173,
+      "deletions": 4,
       "changedFiles": 3
-    },
-    {
-      "number": 40985,
-      "title": "fix(ios): use plain Text during streaming to eliminate markdown flicker [AI-assisted]",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T12:43:09Z",
-      "mergedAt": null,
-      "additions": 17,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 40954,
-      "title": "fix(ios): use plain Text during streaming to eliminate markdown flicker",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T12:10:35Z",
-      "mergedAt": null,
-      "additions": 668,
-      "deletions": 105,
-      "changedFiles": 18
-    },
-    {
-      "number": 40878,
-      "title": "fix(ios): picker adaptive onChange loop + OSLog string concatenation",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T10:38:24Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 40877,
-      "title": "fix(ios): resolve main-thread warnings for CLLocationManager and SFSpeechRecognizer",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T10:37:41Z",
-      "mergedAt": null,
-      "additions": 42,
-      "deletions": 19,
-      "changedFiles": 1
-    },
-    {
-      "number": 40876,
-      "title": "fix(ios): Dynamic Type scaling and accessibility improvements",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T10:37:18Z",
-      "mergedAt": null,
-      "additions": 519,
-      "deletions": 92,
-      "changedFiles": 12
-    },
-    {
-      "number": 40874,
-      "title": "feat(ios): Liquid Glass UI, Action Button & Dynamic Island",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T10:35:24Z",
-      "mergedAt": null,
-      "additions": 501,
-      "deletions": 71,
-      "changedFiles": 13
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 50483,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T22:31:09Z"
+    },
+    {
+      "prNumber": 50483,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T22:31:07Z"
+    },
+    {
+      "prNumber": 50483,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T22:31:05Z"
+    },
+    {
+      "prNumber": 50483,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T22:31:02Z"
+    },
+    {
+      "prNumber": 50998,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T22:31:00Z"
+    },
+    {
+      "prNumber": 50998,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T22:30:57Z"
+    },
+    {
+      "prNumber": 51011,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T22:30:56Z"
+    },
+    {
+      "prNumber": 51011,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T22:28:42Z"
+    },
+    {
+      "prNumber": 50998,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T11:26:24Z"
+    },
+    {
+      "prNumber": 50998,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T11:26:17Z"
+    },
+    {
+      "prNumber": 50998,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T11:26:11Z"
+    },
     {
       "prNumber": 50466,
       "state": "COMMENTED",
@@ -181,26 +194,6 @@
       "createdAt": "2026-03-19T15:25:07Z"
     },
     {
-      "prNumber": 40877,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T15:24:16Z"
-    },
-    {
-      "prNumber": 40878,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T14:43:16Z"
-    },
-    {
-      "prNumber": 40878,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T14:43:14Z"
-    },
-    {
-      "prNumber": 40877,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T14:40:24Z"
-    },
-    {
       "prNumber": 49131,
       "state": "COMMENTED",
       "createdAt": "2026-03-18T05:53:27Z"
@@ -214,73 +207,33 @@
       "prNumber": 49131,
       "state": "COMMENTED",
       "createdAt": "2026-03-17T16:44:04Z"
-    },
-    {
-      "prNumber": 40876,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:01:05Z"
-    },
-    {
-      "prNumber": 40876,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:01:03Z"
-    },
-    {
-      "prNumber": 40876,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:01:01Z"
-    },
-    {
-      "prNumber": 40876,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:00:59Z"
-    },
-    {
-      "prNumber": 40876,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:00:57Z"
-    },
-    {
-      "prNumber": 40876,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:00:55Z"
-    },
-    {
-      "prNumber": 40876,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:00:52Z"
-    },
-    {
-      "prNumber": 40878,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:00:37Z"
-    },
-    {
-      "prNumber": 40878,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:00:35Z"
-    },
-    {
-      "prNumber": 40878,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T11:00:34Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-19": {
       "prs": 2,
       "issues": 0,
-      "reviews": 7
+      "reviews": 3
     },
     "2026-03-17": {
       "prs": 2,
       "issues": 0,
       "reviews": 2
     },
-    "2026-03-09": {
-      "prs": 6,
+    "2026-03-21": {
+      "prs": 0,
       "issues": 0,
-      "reviews": 20
+      "reviews": 8
     },
     "2026-03-18": {
       "prs": 0,
@@ -295,15 +248,9 @@
   ],
   "achievements": [
     {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
-    {
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

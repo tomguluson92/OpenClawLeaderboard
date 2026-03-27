@@ -1,0 +1,120 @@
+{
+  "username": "tazmon95",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3894763?v=4",
+  "githubUrl": "https://github.com/tazmon95",
+  "score": {
+    "score": 37.7,
+    "prScore": 8.7,
+    "issueScore": 28,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 16,
+    "prDeletions": 0,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 5,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 2
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 2
+    }
+  },
+  "firstContribution": "2026-03-24T19:17:27Z",
+  "lastContribution": "2026-03-26T15:32:03Z",
+  "recentPRs": [
+    {
+      "number": 55247,
+      "title": "fix(msteams): patch path-to-regexp v8 incompatibility in @microsoft/teams.apps",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T15:25:17Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 55250,
+      "title": "[Bug]: msteams plugin crash-loops due to path-to-regexp v8 incompatibility in @microsoft/teams.apps",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T15:32:03Z",
+      "closedAt": null
+    },
+    {
+      "number": 55249,
+      "title": "Feature: Session labels / nicknames for easier identification",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T15:27:58Z",
+      "closedAt": null
+    },
+    {
+      "number": 55244,
+      "title": "msteams plugin crash-loops: path-to-regexp v8 breaks /api* route pattern",
+      "state": "CLOSED",
+      "createdAt": "2026-03-26T15:19:09Z",
+      "closedAt": "2026-03-26T15:31:35Z"
+    },
+    {
+      "number": 53911,
+      "title": "[Bug]: msteams agent unaware of message delivery failure — silently drops errors",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T19:17:48Z",
+      "closedAt": null
+    },
+    {
+      "number": 53910,
+      "title": "[Bug]: msteams typing/send errors logged as [object Object] — error not stringified",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T19:17:27Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ]
+}

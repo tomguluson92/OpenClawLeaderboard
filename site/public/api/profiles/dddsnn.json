@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/562550?u=0de0dd99e2fbcf692adf3b20b02ec6b6900543f6&v=4",
   "githubUrl": "https://github.com/dddsnn",
   "score": {
-    "score": 17.66,
+    "score": 12.66,
     "prScore": 12.66,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 19,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-11T07:55:00Z",
-  "lastContribution": "2026-03-11T11:43:15Z",
+  "lastContribution": "2026-03-11T07:55:00Z",
   "recentPRs": [
     {
       "number": 42961,
@@ -64,27 +55,17 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43148,
-      "title": "[Bug]: Changing system prompt causes cache invalidations",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T11:43:15Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

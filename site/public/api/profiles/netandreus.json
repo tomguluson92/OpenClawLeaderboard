@@ -1,0 +1,141 @@
+{
+  "username": "netandreus",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/313477?u=b74b2475ecdccc7c30767709fe554d7c42efd50b&v=4",
+  "githubUrl": "https://github.com/netandreus",
+  "score": {
+    "score": 204.24,
+    "prScore": 189.74,
+    "issueScore": 5,
+    "reviewScore": 9,
+    "commentScore": 0.5
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 83507,
+    "prDeletions": 38975,
+    "prChangedFiles": 1678,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-16T15:23:12Z",
+  "lastContribution": "2026-03-25T15:38:28Z",
+  "recentPRs": [
+    {
+      "number": 54538,
+      "title": "Fix/48308 passing message thread id",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T15:38:28Z",
+      "mergedAt": null,
+      "additions": 376,
+      "deletions": 6,
+      "changedFiles": 5
+    },
+    {
+      "number": 51783,
+      "title": "fix(telegram): inject messageThreadId for plugin tools and fix Telegram slash command binding #48308",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T17:29:06Z",
+      "mergedAt": null,
+      "additions": 83131,
+      "deletions": 38969,
+      "changedFiles": 1673
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 48308,
+      "title": "[Bug]: DevClaw cannot detect Telegram topic without explicit `topicId` parameter",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T15:23:12Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 51783,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T12:07:27Z"
+    },
+    {
+      "prNumber": 51783,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T18:48:43Z"
+    },
+    {
+      "prNumber": 51783,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T18:48:19Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

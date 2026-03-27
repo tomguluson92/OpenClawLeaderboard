@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/22462100?u=ad8bcf0f5927b052b4297d0571e51cb9070e3feb&v=4",
   "githubUrl": "https://github.com/wilsonIs",
   "score": {
-    "score": 10.54,
-    "prScore": 10.04,
+    "score": 40.41,
+    "prScore": 39.91,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,52 +13,54 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 158,
-    "prDeletions": 0,
-    "prChangedFiles": 2,
-    "prMergeRate": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 992,
+    "prDeletions": 42,
+    "prChangedFiles": 11,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-16T12:54:39Z",
-  "lastContribution": "2026-03-17T02:07:10Z",
+  "lastContribution": "2026-03-23T04:29:46Z",
   "recentPRs": [
+    {
+      "number": 52627,
+      "title": "Control UI: fix Spanish overview fallbacks",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T04:29:46Z",
+      "mergedAt": null,
+      "additions": 834,
+      "deletions": 42,
+      "changedFiles": 9
+    },
     {
       "number": 48209,
       "title": "Control UI: disambiguate duplicate agent session labels",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-16T12:54:39Z",
-      "mergedAt": null,
+      "mergedAt": "2026-03-22T02:11:15Z",
       "additions": 158,
       "deletions": 0,
       "changedFiles": 2
@@ -67,6 +69,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-16": {
       "prs": 1,
       "issues": 0,
@@ -77,6 +84,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,71 +3,62 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6984257?u=8059aba7cf8010f6cee2d01cca06005ed4ad95e5&v=4",
   "githubUrl": "https://github.com/dragonforce2010",
   "score": {
-    "score": 52.52,
-    "prScore": 52.52,
+    "score": 9.37,
+    "prScore": 9.37,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 3075,
-    "prDeletions": 1504,
-    "prChangedFiles": 18,
+    "prAdditions": 51,
+    "prDeletions": 0,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-05T05:43:42Z",
-  "lastContribution": "2026-03-05T05:43:42Z",
+  "firstContribution": "2026-03-20T13:58:55Z",
+  "lastContribution": "2026-03-20T13:58:55Z",
   "recentPRs": [
     {
-      "number": 35527,
-      "title": "feat(queue): persistent command queue with SQLite backend and crash recovery",
+      "number": 51070,
+      "title": "auth: allow local loopback connections to bypass trusted-proxy auth",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-05T05:43:42Z",
+      "createdAt": "2026-03-20T13:58:55Z",
       "mergedAt": null,
-      "additions": 3075,
-      "deletions": 1504,
-      "changedFiles": 18
+      "additions": 51,
+      "deletions": 0,
+      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-05": {
+    "2026-03-20": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -76,6 +67,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/741302?u=10fc02a994ed4f4c1bd15fccee2a18bc90c314af&v=4",
   "githubUrl": "https://github.com/hanamizuki",
   "score": {
-    "score": 18.58,
-    "prScore": 8.58,
-    "issueScore": 10,
-    "reviewScore": 0,
-    "commentScore": 0
+    "score": 41.7,
+    "prScore": 27.2,
+    "issueScore": 5,
+    "reviewScore": 9,
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 13,
-    "prDeletions": 0,
-    "prChangedFiles": 2,
+    "prAdditions": 131,
+    "prDeletions": 1,
+    "prChangedFiles": 9,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 1,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 0,
+      "reviews": 3,
+      "comments": 1
     },
     "monthly": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 2,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-13T06:29:45Z",
-  "lastContribution": "2026-03-14T02:47:34Z",
+  "firstContribution": "2026-03-14T02:42:46Z",
+  "lastContribution": "2026-03-26T15:21:20Z",
   "recentPRs": [
+    {
+      "number": 53467,
+      "title": "feat(slack): add ignoreOtherMentions channel config",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T06:32:38Z",
+      "mergedAt": null,
+      "additions": 118,
+      "deletions": 1,
+      "changedFiles": 7
+    },
     {
       "number": 45666,
       "title": "fix: classify \"Provider returned error\" as failover-eligible timeout",
@@ -71,32 +73,53 @@
       "state": "OPEN",
       "createdAt": "2026-03-14T02:42:46Z",
       "closedAt": null
-    },
-    {
-      "number": 44752,
-      "title": "Auth profile billing failure state not persisted in embedded subagent runs",
-      "state": "OPEN",
-      "createdAt": "2026-03-13T06:29:45Z",
-      "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 53467,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T15:21:20Z"
+    },
+    {
+      "prNumber": 53467,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T07:11:13Z"
+    },
+    {
+      "prNumber": 53467,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T06:54:59Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
     },
-    "2026-03-13": {
+    "2026-03-26": {
       "prs": 0,
-      "issues": 1,
-      "reviews": 0
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting"
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

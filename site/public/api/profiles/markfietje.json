@@ -3,81 +3,70 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4325889?u=3ae9d1e32cfd45208466267b344c9fd36b7367fe&v=4",
   "githubUrl": "https://github.com/markfietje",
   "score": {
-    "score": 29.13,
-    "prScore": 29.13,
+    "score": 112.25,
+    "prScore": 112.25,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 316,
-    "prDeletions": 17,
-    "prChangedFiles": 3,
+    "prAdditions": 8002,
+    "prDeletions": 68,
+    "prChangedFiles": 39,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 122,
-    "commitDeletions": 11,
-    "commitChangedFiles": 9
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 122,
-      "commitDeletions": 11,
-      "commits": 1
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-05T00:38:46Z",
-  "lastContribution": "2026-03-05T00:38:46Z",
+  "firstContribution": "2026-03-22T09:47:25Z",
+  "lastContribution": "2026-03-22T09:47:25Z",
   "recentPRs": [
     {
-      "number": 35109,
-      "title": "fix(gateway): surgical proxy-aware origin validation 🤖",
+      "number": 52179,
+      "title": "UI: expand gateway.security subsection by default in config panel",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-05T00:38:46Z",
+      "createdAt": "2026-03-22T09:47:25Z",
       "mergedAt": null,
-      "additions": 316,
-      "deletions": 17,
-      "changedFiles": 3
+      "additions": 8002,
+      "deletions": 68,
+      "changedFiles": 39
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-05": {
+    "2026-03-22": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-02": 1
-  }
+  "achievements": []
 }

@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4488090?v=4",
   "githubUrl": "https://github.com/frankekn",
   "score": {
-    "score": 491.03,
-    "prScore": 449.53,
+    "score": 460.59,
+    "prScore": 415.09,
     "issueScore": 0,
     "reviewScore": 15,
-    "commentScore": 26.5
+    "commentScore": 30.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 25,
-    "prs": 21,
+    "commits": 26,
+    "prs": 18,
     "prsMerged": 13,
-    "prAdditions": 5284,
-    "prDeletions": 418,
-    "prChangedFiles": 142,
-    "prMergeRate": 62,
+    "prAdditions": 2679,
+    "prDeletions": 319,
+    "prChangedFiles": 117,
+    "prMergeRate": 72,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 53,
-    "commitAdditions": 3964,
-    "commitDeletions": 586,
-    "commitChangedFiles": 128
+    "comments": 61
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 2,
       "issues": 0,
-      "reviews": 4,
-      "comments": 20,
-      "commitAdditions": 783,
-      "commitDeletions": 87,
-      "commits": 6
+      "reviews": 0,
+      "comments": 28
     },
     "monthly": {
-      "prs": 21,
+      "prs": 18,
       "issues": 0,
       "reviews": 5,
-      "comments": 53,
-      "commitAdditions": 3600,
-      "commitDeletions": 573,
-      "commits": 24
+      "comments": 61
     }
   },
-  "firstContribution": "2026-03-07T04:44:20Z",
-  "lastContribution": "2026-03-19T07:12:44Z",
+  "firstContribution": "2026-03-10T04:58:15Z",
+  "lastContribution": "2026-03-26T08:36:02Z",
   "recentPRs": [
+    {
+      "number": 52668,
+      "title": "fix(memory-core): register memory tools independently to prevent coupled failure",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T06:34:18Z",
+      "mergedAt": "2026-03-23T09:05:37Z",
+      "additions": 98,
+      "deletions": 21,
+      "changedFiles": 4
+    },
+    {
+      "number": 52639,
+      "title": "fix(memory-core): register memory tools independently to prevent coupled failure",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T05:01:05Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 21,
+      "changedFiles": 10
+    },
     {
       "number": 47119,
       "title": "fix: forward forceDocument through sendPayload path (follow-up to #45111)",
@@ -227,50 +240,6 @@
       "additions": 32,
       "deletions": 0,
       "changedFiles": 3
-    },
-    {
-      "number": 40381,
-      "title": "fix(agent): mirror nested ACP output to child session transcript",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T00:17:15Z",
-      "mergedAt": null,
-      "additions": 929,
-      "deletions": 3,
-      "changedFiles": 4
-    },
-    {
-      "number": 40358,
-      "title": "fix(agent): mirror nested ACP output to child session transcript",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T23:38:54Z",
-      "mergedAt": null,
-      "additions": 229,
-      "deletions": 2,
-      "changedFiles": 4
-    },
-    {
-      "number": 38598,
-      "title": "fix(acp): canonicalize aliased session keys on restart",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T05:24:27Z",
-      "mergedAt": null,
-      "additions": 997,
-      "deletions": 98,
-      "changedFiles": 12
-    },
-    {
-      "number": 38592,
-      "title": "fix(acp): canonicalize aliased session keys on restart",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T05:13:26Z",
-      "mergedAt": null,
-      "additions": 178,
-      "deletions": 23,
-      "changedFiles": 6
     }
   ],
   "recentIssues": [],
@@ -302,6 +271,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
@@ -331,29 +305,13 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
     "Discussion",
-    "Direct Commits",
-    "Large-Scale Changes"
+    "Direct Commits"
   ],
   "achievements": [
     {
@@ -371,20 +329,5 @@
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-17": 1,
-    "2026-03-15": 1,
-    "2026-03-14": 2,
-    "2026-03-13": 8,
-    "2026-03-12": 1,
-    "2026-03-11": 2,
-    "2026-03-10": 2,
-    "2026-03-06": 1,
-    "2026-03-02": 2,
-    "2026-02-26": 1,
-    "2026-02-23": 1,
-    "2026-02-22": 2,
-    "2026-01-29": 1
-  }
+  ]
 }

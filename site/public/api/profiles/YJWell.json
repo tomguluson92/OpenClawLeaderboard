@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/18249161?v=4",
   "githubUrl": "https://github.com/YJWell",
   "score": {
-    "score": 70.27,
-    "prScore": 58.77,
-    "issueScore": 5,
+    "score": 68.83,
+    "prScore": 61.83,
+    "issueScore": 0,
     "reviewScore": 6,
-    "commentScore": 0.5
+    "commentScore": 1
   },
   "tier": "regular",
   "characterClass": "Reviewer",
@@ -15,42 +15,33 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 904,
-    "prDeletions": 90,
-    "prChangedFiles": 25,
+    "prAdditions": 1035,
+    "prDeletions": 93,
+    "prChangedFiles": 26,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 2,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 2,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-12T01:27:33Z",
-  "lastContribution": "2026-03-19T08:30:19Z",
+  "firstContribution": "2026-03-12T01:35:04Z",
+  "lastContribution": "2026-03-20T16:20:04Z",
   "recentPRs": [
     {
       "number": 43565,
@@ -59,20 +50,12 @@
       "merged": false,
       "createdAt": "2026-03-12T01:35:04Z",
       "mergedAt": null,
-      "additions": 904,
-      "deletions": 90,
-      "changedFiles": 25
+      "additions": 1035,
+      "deletions": 93,
+      "changedFiles": 26
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43563,
-      "title": "[Feature]: Feishu cross-bot message broadcast — parity with Discord multi-bot support",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T01:27:33Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 43565,
@@ -88,7 +71,7 @@
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     },
     "2026-03-19": {
@@ -100,15 +83,7 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

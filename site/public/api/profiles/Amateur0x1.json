@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/157032610?u=500f5090d713017dd44637b0886383de0410a012&v=4",
   "githubUrl": "https://github.com/Amateur0x1",
   "score": {
-    "score": 77.33,
+    "score": 64.33,
     "prScore": 55.83,
-    "issueScore": 21,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 6,
@@ -19,37 +19,28 @@
     "prDeletions": 73,
     "prChangedFiles": 9,
     "prMergeRate": 0,
-    "issues": 3,
-    "issuesClosed": 2,
+    "issues": 1,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 6,
-      "issues": 3,
+      "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-10T03:31:43Z",
+  "firstContribution": "2026-03-10T03:32:40Z",
   "lastContribution": "2026-03-13T11:05:55Z",
   "recentPRs": [
     {
@@ -126,20 +117,6 @@
       "state": "CLOSED",
       "createdAt": "2026-03-13T08:21:29Z",
       "closedAt": "2026-03-19T04:28:59Z"
-    },
-    {
-      "number": 41686,
-      "title": "[Bug]: Agent directory not fully cleaned up after deletion",
-      "state": "CLOSED",
-      "createdAt": "2026-03-10T03:31:54Z",
-      "closedAt": "2026-03-18T13:15:44Z"
-    },
-    {
-      "number": 41685,
-      "title": "[Bug]: Control UI displays sessions from unregistered agents",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T03:31:43Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
@@ -151,7 +128,7 @@
     },
     "2026-03-10": {
       "prs": 5,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0
     }
   },
@@ -160,6 +137,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -1,0 +1,114 @@
+{
+  "username": "yurtzy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/263258539?v=4",
+  "githubUrl": "https://github.com/yurtzy",
+  "score": {
+    "score": 35.32,
+    "prScore": 10.32,
+    "issueScore": 25,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 48,
+    "prDeletions": 203,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 5,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-24T00:35:37Z",
+  "lastContribution": "2026-03-24T00:44:17Z",
+  "recentPRs": [
+    {
+      "number": 53257,
+      "title": "docs: add link to AGENTS.md in README quick links",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T00:44:17Z",
+      "mergedAt": null,
+      "additions": 48,
+      "deletions": 203,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 53255,
+      "title": "[UX] Control UI should auto-load gateway token from config/env",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T00:39:43Z",
+      "closedAt": null
+    },
+    {
+      "number": 53253,
+      "title": "[Docs] Clarify CLI usage: distinguish between shell commands and OpenClaw subcommands",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T00:39:29Z",
+      "closedAt": null
+    },
+    {
+      "number": 53252,
+      "title": "[Docs] Add decision guide: when to use Heartbeat vs Cron",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T00:36:34Z",
+      "closedAt": null
+    },
+    {
+      "number": 53251,
+      "title": "[Bug] Moltbook feed endpoint returns general posts even when submolt parameter is specified",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T00:35:51Z",
+      "closedAt": null
+    },
+    {
+      "number": 53250,
+      "title": "[UX] Exec approval timeout message should include Control UI link and setup hints",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T00:35:37Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 5,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ]
+}

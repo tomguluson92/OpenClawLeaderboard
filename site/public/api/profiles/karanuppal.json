@@ -3,63 +3,131 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1457892?v=4",
   "githubUrl": "https://github.com/karanuppal",
   "score": {
-    "score": 16.21,
-    "prScore": 10.71,
+    "score": 189.85,
+    "prScore": 174.35,
     "issueScore": 5,
-    "reviewScore": 0,
-    "commentScore": 0.5
+    "reviewScore": 9,
+    "commentScore": 1.5
   },
-  "tier": "beginner",
-  "characterClass": "Hunter",
+  "tier": "regular",
+  "characterClass": "Builder",
   "stats": {
-    "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 59,
-    "prDeletions": 2,
-    "prChangedFiles": 3,
-    "prMergeRate": 0,
+    "commits": 2,
+    "prs": 8,
+    "prsMerged": 2,
+    "prAdditions": 734,
+    "prDeletions": 184,
+    "prChangedFiles": 68,
+    "prMergeRate": 25,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 7,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 2
     },
     "monthly": {
-      "prs": 1,
+      "prs": 8,
       "issues": 1,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 3,
+      "comments": 3
     }
   },
   "firstContribution": "2026-03-16T03:01:03Z",
-  "lastContribution": "2026-03-18T02:49:50Z",
+  "lastContribution": "2026-03-26T13:29:04Z",
   "recentPRs": [
+    {
+      "number": 55176,
+      "title": "fix: allow RFC2544 benchmark IPs in image tool SSRF guard",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T13:29:04Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 52428,
+      "title": "fix: sweep stale chatRunState buffers for stuck runs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T18:45:49Z",
+      "mergedAt": "2026-03-22T23:56:20Z",
+      "additions": 288,
+      "deletions": 67,
+      "changedFiles": 39
+    },
+    {
+      "number": 52427,
+      "title": "fix: evict expired SESSION_MANAGER_CACHE entries on TTL miss",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T18:42:24Z",
+      "mergedAt": "2026-03-22T21:54:04Z",
+      "additions": 81,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 52425,
+      "title": "fix: clean up seqByRun entry in clearAgentRunContext()",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T18:39:59Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 52379,
+      "title": "fix: prevent unbounded memory growth in long-running gateway sessions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T16:54:48Z",
+      "mergedAt": null,
+      "additions": 59,
+      "deletions": 2,
+      "changedFiles": 8
+    },
+    {
+      "number": 51850,
+      "title": "fix: preserve Discord IDs as strings in config validation to prevent precision loss",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T19:45:59Z",
+      "mergedAt": null,
+      "additions": 176,
+      "deletions": 91,
+      "changedFiles": 6
+    },
+    {
+      "number": 51845,
+      "title": "fix: healthcheck version alert only fires when update is actually available",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T19:40:23Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 13,
+      "changedFiles": 3
+    },
     {
       "number": 49386,
       "title": "fix: normalize line endings in edit tool recovery to prevent false-positive failures",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T02:49:50Z",
       "mergedAt": null,
-      "additions": 59,
+      "additions": 55,
       "deletions": 2,
       "changedFiles": 3
     }
@@ -73,8 +141,39 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 52425,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T18:34:00Z"
+    },
+    {
+      "prNumber": 52425,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T18:34:00Z"
+    },
+    {
+      "prNumber": 52425,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T18:34:00Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 0,
@@ -84,13 +183,25 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
-    "Discussion"
+    "Discussion",
+    "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

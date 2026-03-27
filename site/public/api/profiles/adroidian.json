@@ -1,0 +1,98 @@
+{
+  "username": "adroidian",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7563431?u=67b73223e5008fc66b1883964ec299349bb9c00d&v=4",
+  "githubUrl": "https://github.com/adroidian",
+  "score": {
+    "score": 25.03,
+    "prScore": 12.53,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 2.5
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 463,
+    "prDeletions": 1,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 5
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 5
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 5
+    }
+  },
+  "firstContribution": "2026-03-19T18:00:57Z",
+  "lastContribution": "2026-03-21T17:13:17Z",
+  "recentPRs": [
+    {
+      "number": 51668,
+      "title": "feat(outbound): gateway-layer secret sanitization with named reference handles",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T15:02:48Z",
+      "mergedAt": null,
+      "additions": 463,
+      "deletions": 1,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 50718,
+      "title": "Security: outbound message secret sanitization — replace plaintext secrets with reference handles before channel delivery",
+      "state": "OPEN",
+      "createdAt": "2026-03-20T00:33:40Z",
+      "closedAt": null
+    },
+    {
+      "number": 50571,
+      "title": "Bug: Hook/subagent sessions route reply to last-active chat instead of trigger session owner",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T18:00:57Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

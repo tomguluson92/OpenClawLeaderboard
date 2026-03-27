@@ -1,0 +1,91 @@
+{
+  "username": "MeridianWorld",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58415149?v=4",
+  "githubUrl": "https://github.com/MeridianWorld",
+  "score": {
+    "score": 29.6,
+    "prScore": 24.6,
+    "issueScore": 5,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 144,
+    "prDeletions": 11,
+    "prChangedFiles": 7,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-22T01:59:11Z",
+  "lastContribution": "2026-03-22T13:57:15Z",
+  "recentPRs": [
+    {
+      "number": 52273,
+      "title": "fix(gateway): extend default connect challenge timeout for loopback clients",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T13:57:15Z",
+      "mergedAt": null,
+      "additions": 91,
+      "deletions": 7,
+      "changedFiles": 3
+    },
+    {
+      "number": 52142,
+      "title": "fix(gateway): extend websocket handshake timeout for loopback clients",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T07:59:54Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 4,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 51987,
+      "title": "Local gateway websocket handshake times out on 127.0.0.1:18789 and closes before connect",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T01:59:11Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": []
+}

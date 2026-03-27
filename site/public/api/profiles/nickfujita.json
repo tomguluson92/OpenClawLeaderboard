@@ -1,0 +1,119 @@
+{
+  "username": "nickfujita",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6342442?u=0588e6effd4b4a07e4e86d6c505e605d001e671a&v=4",
+  "githubUrl": "https://github.com/nickfujita",
+  "score": {
+    "score": 47.36,
+    "prScore": 23.86,
+    "issueScore": 5,
+    "reviewScore": 18,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 1088,
+    "prDeletions": 34,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 6,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-24T03:16:33Z",
+  "lastContribution": "2026-03-25T08:25:09Z",
+  "recentPRs": [
+    {
+      "number": 53343,
+      "title": "feat(plugins): add opt-in blocking mode for message_received hook",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T03:17:17Z",
+      "mergedAt": null,
+      "additions": 1088,
+      "deletions": 34,
+      "changedFiles": 8
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 53341,
+      "title": "[Feature]: Opt-in blocking mode for message_received plugin hook",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T03:16:33Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 53343,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T07:03:43Z"
+    },
+    {
+      "prNumber": 53343,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T07:03:34Z"
+    },
+    {
+      "prNumber": 53343,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:59:05Z"
+    },
+    {
+      "prNumber": 53343,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:59:03Z"
+    },
+    {
+      "prNumber": 53343,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:59:02Z"
+    },
+    {
+      "prNumber": 53343,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T03:58:55Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 6
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

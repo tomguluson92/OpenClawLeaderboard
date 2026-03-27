@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3812666?u=b3e5703184a0a0edbc6b113710e4574b4fc5fff5&v=4",
   "githubUrl": "https://github.com/VjiaoBlack",
   "score": {
-    "score": 97.03,
+    "score": 97.53,
     "prScore": 96.53,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 1
   },
   "tier": "regular",
   "characterClass": "Builder",
@@ -24,33 +24,24 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-15T06:44:34Z",
-  "lastContribution": "2026-03-15T08:45:58Z",
+  "lastContribution": "2026-03-22T20:15:17Z",
   "recentPRs": [
     {
       "number": 47101,
@@ -88,7 +79,7 @@
     {
       "number": 46983,
       "title": "feat: add /set_topic_name for telegram topic labels",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T06:44:34Z",
       "mergedAt": null,
@@ -110,6 +101,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

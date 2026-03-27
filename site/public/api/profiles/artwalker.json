@@ -3,70 +3,171 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/44759507?u=0c02d1ad6fb67e7e9ecbf228949b550e96635f81&v=4",
   "githubUrl": "https://github.com/artwalker",
   "score": {
-    "score": 109.28,
-    "prScore": 69.28,
-    "issueScore": 0,
-    "reviewScore": 39,
-    "commentScore": 1
+    "score": 383.59,
+    "prScore": 295.09,
+    "issueScore": 13,
+    "reviewScore": 72,
+    "commentScore": 3.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 5,
-    "prsMerged": 0,
-    "prAdditions": 385,
-    "prDeletions": 23,
-    "prChangedFiles": 19,
-    "prMergeRate": 0,
-    "issues": 0,
-    "issuesClosed": 0,
-    "reviews": 13,
+    "prs": 15,
+    "prsMerged": 1,
+    "prAdditions": 198767,
+    "prDeletions": 62361,
+    "prChangedFiles": 2960,
+    "prMergeRate": 7,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 24,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 7
   },
   "period": {
     "weekly": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 13,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 10,
+      "issues": 2,
+      "reviews": 11,
+      "comments": 5
     },
     "monthly": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 13,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 15,
+      "issues": 2,
+      "reviews": 24,
+      "comments": 7
     }
   },
   "firstContribution": "2026-03-14T17:23:04Z",
-  "lastContribution": "2026-03-19T04:27:48Z",
+  "lastContribution": "2026-03-26T01:27:54Z",
   "recentPRs": [
+    {
+      "number": 54800,
+      "title": "fix(discord): keep components schema optional in message tool",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T01:27:54Z",
+      "mergedAt": null,
+      "additions": 44,
+      "deletions": 24,
+      "changedFiles": 4
+    },
+    {
+      "number": 54486,
+      "title": "fix(gateway): prune orphaned session entries when transcript files are missing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T13:27:29Z",
+      "mergedAt": null,
+      "additions": 133,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 54141,
+      "title": "fix(secrets): stop flagging $VAR env refs as PLAINTEXT_FOUND in audit",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T01:34:24Z",
+      "mergedAt": null,
+      "additions": 152,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 53367,
+      "title": "fix(auth): invalidate stale runtime auth-profile snapshots when disk file is newer",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T03:46:48Z",
+      "mergedAt": null,
+      "additions": 31,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 53079,
+      "title": "fix(gateway): preserve scopes when dangerouslyDisableDeviceAuth bypasses device identity",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T18:35:43Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 52731,
+      "title": "fix(gateway): add TTL cleanup for 3 Maps that grow unbounded causing OOM",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T08:21:43Z",
+      "mergedAt": null,
+      "additions": 72,
+      "deletions": 13,
+      "changedFiles": 4
+    },
+    {
+      "number": 52619,
+      "title": "fix(cron): catch schedule errors in createJob to prevent Gateway crash",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T04:05:16Z",
+      "mergedAt": null,
+      "additions": 22,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 52129,
+      "title": "fix(control-ui): remove overflow:hidden that clipped slash command menu",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T07:14:22Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 52104,
+      "title": "fix(control-ui): add missing operator.read and operator.write scopes to connect params",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T05:44:22Z",
+      "mergedAt": "2026-03-22T21:49:10Z",
+      "additions": 14,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 52102,
+      "title": "fix(cli): route logs to stderr when --json flag is active",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T05:39:37Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 12,
+      "changedFiles": 3
+    },
     {
       "number": 50198,
       "title": "fix(memory-core): register memory tools independently to prevent coupled failure",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T04:27:48Z",
       "mergedAt": null,
-      "additions": 16,
-      "deletions": 11,
-      "changedFiles": 2
+      "additions": 197884,
+      "deletions": 62291,
+      "changedFiles": 2917
     },
     {
       "number": 48704,
       "title": "fix: preserve provider's original model ID format (dots vs dashes)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-17T03:39:26Z",
       "mergedAt": null,
@@ -77,7 +178,7 @@
     {
       "number": 47904,
       "title": "fix: prevent fallback model from permanently overwriting agent config",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-16T04:46:46Z",
       "mergedAt": null,
@@ -88,7 +189,7 @@
     {
       "number": 46829,
       "title": "fix(sandbox): rewrite skill paths for sandboxed sessions",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T03:48:30Z",
       "mergedAt": null,
@@ -108,8 +209,78 @@
       "changedFiles": 6
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 53077,
+      "title": "[Bug]: Control UI scopes cleared despite dangerouslyDisableDeviceAuth in v2026.3.22",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T18:32:16Z",
+      "closedAt": "2026-03-23T23:54:44Z"
+    },
+    {
+      "number": 52725,
+      "title": "[Bug]: Gateway OOM after batch agent sessions — 3 Maps grow unbounded",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T08:13:34Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 53367,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T04:23:17Z"
+    },
+    {
+      "prNumber": 53367,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T04:13:43Z"
+    },
+    {
+      "prNumber": 53367,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T04:13:42Z"
+    },
+    {
+      "prNumber": 53367,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T04:13:40Z"
+    },
+    {
+      "prNumber": 53367,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T04:13:39Z"
+    },
+    {
+      "prNumber": 52731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T10:35:21Z"
+    },
+    {
+      "prNumber": 52731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T10:35:19Z"
+    },
+    {
+      "prNumber": 52731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T09:05:47Z"
+    },
+    {
+      "prNumber": 52731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T09:05:45Z"
+    },
+    {
+      "prNumber": 52731,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T09:04:58Z"
+    },
+    {
+      "prNumber": 52619,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T08:54:37Z"
+    },
     {
       "prNumber": 48704,
       "state": "COMMENTED",
@@ -154,29 +325,34 @@
       "prNumber": 46829,
       "state": "COMMENTED",
       "createdAt": "2026-03-15T05:04:41Z"
-    },
-    {
-      "prNumber": 46829,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-15T05:04:38Z"
-    },
-    {
-      "prNumber": 46829,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-15T04:00:22Z"
-    },
-    {
-      "prNumber": 46829,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-15T04:00:19Z"
-    },
-    {
-      "prNumber": 46829,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-15T04:00:16Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-23": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 6
+    },
+    "2026-03-22": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
@@ -206,14 +382,35 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Discussion"
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
   ],
   "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
     {
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

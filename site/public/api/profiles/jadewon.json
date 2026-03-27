@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10690982?u=6fcbcf450df13dee5dab422133e297c398920a3a&v=4",
   "githubUrl": "https://github.com/jadewon",
   "score": {
-    "score": 39.27,
-    "prScore": 38.77,
+    "score": 61.34,
+    "prScore": 57.84,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 3,
     "commentScore": 0.5
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "regular",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 329,
-    "prDeletions": 34,
-    "prChangedFiles": 14,
+    "prAdditions": 425,
+    "prDeletions": 38,
+    "prChangedFiles": 20,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 1
     },
     "monthly": {
-      "prs": 2,
+      "prs": 3,
       "issues": 0,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-14T11:00:42Z",
-  "lastContribution": "2026-03-14T11:29:22Z",
+  "lastContribution": "2026-03-25T06:29:14Z",
   "recentPRs": [
+    {
+      "number": 54302,
+      "title": "fix: recognize bare \"new\" and \"reset\" as session commands",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T06:29:14Z",
+      "mergedAt": null,
+      "additions": 51,
+      "deletions": 3,
+      "changedFiles": 4
+    },
     {
       "number": 46036,
       "title": "feat(slack): add global/DM systemPrompt and built-in mrkdwn platform prompt",
@@ -59,9 +61,9 @@
       "merged": false,
       "createdAt": "2026-03-14T11:13:13Z",
       "mergedAt": null,
-      "additions": 164,
-      "deletions": 18,
-      "changedFiles": 7
+      "additions": 209,
+      "deletions": 19,
+      "changedFiles": 9
     },
     {
       "number": 46018,
@@ -76,18 +78,34 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 46036,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T09:01:57Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

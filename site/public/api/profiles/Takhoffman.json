@@ -3,300 +3,360 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/781889?v=4",
   "githubUrl": "https://github.com/Takhoffman",
   "score": {
-    "score": 1548.88,
-    "prScore": 1483.38,
-    "issueScore": 24,
-    "reviewScore": 15,
-    "commentScore": 26.5
+    "score": 2540.19,
+    "prScore": 2437.19,
+    "issueScore": 40,
+    "reviewScore": 45,
+    "commentScore": 18
   },
   "tier": "elite",
   "characterClass": "Builder",
   "stats": {
-    "commits": 193,
-    "prs": 36,
-    "prsMerged": 25,
-    "prAdditions": 41976,
-    "prDeletions": 4766,
-    "prChangedFiles": 397,
-    "prMergeRate": 69,
-    "issues": 3,
-    "issuesClosed": 3,
-    "reviews": 5,
+    "commits": 362,
+    "prs": 50,
+    "prsMerged": 36,
+    "prAdditions": 68506,
+    "prDeletions": 10661,
+    "prChangedFiles": 677,
+    "prMergeRate": 72,
+    "issues": 5,
+    "issuesClosed": 5,
+    "reviews": 15,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 53,
-    "commitAdditions": 193883,
-    "commitDeletions": 107038,
-    "commitChangedFiles": 7972
+    "comments": 36
   },
   "period": {
     "weekly": {
-      "prs": 21,
-      "issues": 0,
-      "reviews": 4,
-      "comments": 26,
-      "commitAdditions": 20653,
-      "commitDeletions": 6690,
-      "commits": 70
+      "prs": 26,
+      "issues": 5,
+      "reviews": 11,
+      "comments": 11
     },
     "monthly": {
-      "prs": 36,
-      "issues": 3,
-      "reviews": 5,
-      "comments": 53,
-      "commitAdditions": 38866,
-      "commitDeletions": 8459,
-      "commits": 135
+      "prs": 50,
+      "issues": 5,
+      "reviews": 15,
+      "comments": 36
     }
   },
-  "firstContribution": "2026-03-07T00:32:03Z",
-  "lastContribution": "2026-03-19T19:38:02Z",
+  "firstContribution": "2026-03-10T03:57:52Z",
+  "lastContribution": "2026-03-26T21:16:56Z",
   "recentPRs": [
     {
-      "number": 50602,
-      "title": "add bundled openclaw github authoring skill",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-19T19:38:02Z",
-      "mergedAt": null,
-      "additions": 505,
-      "deletions": 0,
+      "number": 55373,
+      "title": "fix(discord): guard gateway cleanup races",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T21:16:56Z",
+      "mergedAt": "2026-03-26T23:07:13Z",
+      "additions": 103,
+      "deletions": 11,
+      "changedFiles": 6
+    },
+    {
+      "number": 55261,
+      "title": "ci: optimize windows test shard fanout",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T16:03:44Z",
+      "mergedAt": "2026-03-26T18:40:28Z",
+      "additions": 10,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 55227,
+      "title": "test: improve test runner help text",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T14:55:10Z",
+      "mergedAt": "2026-03-26T15:34:14Z",
+      "additions": 101,
+      "deletions": 13,
       "changedFiles": 4
     },
     {
-      "number": 50246,
-      "title": "Fix outbound channel selection fast paths",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-19T05:38:05Z",
-      "mergedAt": null,
-      "additions": 63,
+      "number": 55199,
+      "title": "docs: add beta blocker contributor guidance",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T14:11:48Z",
+      "mergedAt": "2026-03-26T14:31:59Z",
+      "additions": 233,
       "deletions": 14,
       "changedFiles": 6
     },
     {
-      "number": 50223,
-      "title": "Fix Windows hook path containment",
+      "number": 55184,
+      "title": "test: fix portable stderr capture and env leakage",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T13:34:07Z",
+      "mergedAt": "2026-03-26T14:31:09Z",
+      "additions": 11,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 54888,
+      "title": "test: add local thread expansion policy",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-19T05:01:08Z",
+      "createdAt": "2026-03-26T04:29:15Z",
       "mergedAt": null,
-      "additions": 518,
-      "deletions": 132,
-      "changedFiles": 25
-    },
-    {
-      "number": 50008,
-      "title": "refactor: clean plugin-sdk boundaries and migrate discord ownership",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-18T20:28:56Z",
-      "mergedAt": null,
-      "additions": 1006,
-      "deletions": 320,
-      "changedFiles": 53
-    },
-    {
-      "number": 49041,
-      "title": "CI: rename startup-memory to build-smoke",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T13:58:31Z",
-      "mergedAt": "2026-03-17T14:53:51Z",
-      "additions": 2,
-      "deletions": 2,
-      "changedFiles": 1
-    },
-    {
-      "number": 48710,
-      "title": "CI: add built plugin singleton smoke",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T03:53:31Z",
-      "mergedAt": "2026-03-17T20:17:41Z",
-      "additions": 155,
-      "deletions": 0,
-      "changedFiles": 5
-    },
-    {
-      "number": 48544,
-      "title": "fix(tests): stabilize Windows CI cases",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-16T22:59:51Z",
-      "mergedAt": null,
-      "additions": 75,
-      "deletions": 56,
-      "changedFiles": 8
-    },
-    {
-      "number": 48501,
-      "title": "Fix launcher startup regressions",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-16T21:38:47Z",
-      "mergedAt": "2026-03-16T22:21:18Z",
-      "additions": 282,
-      "deletions": 37,
+      "additions": 441,
+      "deletions": 14,
       "changedFiles": 7
     },
     {
-      "number": 48462,
-      "title": "Plugins: remove public extension-api surface",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-16T19:41:43Z",
-      "mergedAt": "2026-03-16T20:51:08Z",
-      "additions": 179,
-      "deletions": 306,
-      "changedFiles": 26
-    },
-    {
-      "number": 48316,
-      "title": "CI: ratchet bundled plugin internal imports",
-      "state": "OPEN",
+      "number": 54876,
+      "title": "test: measure capability-based local thread expansion",
+      "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-16T15:43:12Z",
+      "createdAt": "2026-03-26T04:10:05Z",
       "mergedAt": null,
-      "additions": 9046,
-      "deletions": 1,
-      "changedFiles": 5
-    },
-    {
-      "number": 47968,
-      "title": "feishu: harden media support and align capability docs",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-16T06:45:13Z",
-      "mergedAt": "2026-03-16T07:02:49Z",
-      "additions": 1897,
-      "deletions": 242,
-      "changedFiles": 24
-    },
-    {
-      "number": 47873,
-      "title": "feishu: add structured card actions and interactive approval flows",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-16T04:09:49Z",
-      "mergedAt": "2026-03-16T06:07:09Z",
-      "additions": 1476,
-      "deletions": 43,
-      "changedFiles": 12
-    },
-    {
-      "number": 47506,
-      "title": "feat: add pluggable web search providers",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-15T17:07:14Z",
-      "mergedAt": null,
-      "additions": 20726,
-      "deletions": 3135,
-      "changedFiles": 99
-    },
-    {
-      "number": 46819,
-      "title": "feat(feishu): add ACP and subagent session binding",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-15T03:34:33Z",
-      "mergedAt": "2026-03-15T15:33:49Z",
-      "additions": 2988,
-      "deletions": 48,
-      "changedFiles": 21
-    },
-    {
-      "number": 46749,
-      "title": "fix(gateway): harden health monitor account gating",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-15T02:34:14Z",
-      "mergedAt": "2026-03-15T02:58:28Z",
-      "additions": 106,
-      "deletions": 34,
-      "changedFiles": 2
-    },
-    {
-      "number": 46722,
-      "title": "fix(plugins): prefer explicit installs over bundled duplicates",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-15T01:43:58Z",
-      "mergedAt": "2026-03-15T02:08:32Z",
-      "additions": 269,
-      "deletions": 7,
-      "changedFiles": 6
-    },
-    {
-      "number": 46692,
-      "title": "Add Feishu reactions and card action support",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-15T01:08:52Z",
-      "mergedAt": "2026-03-15T01:25:02Z",
-      "additions": 599,
-      "deletions": 129,
+      "additions": 460,
+      "deletions": 12,
       "changedFiles": 9
     },
     {
-      "number": 46663,
-      "title": "fix(zalouser): stop inheriting dm allowlist for groups",
+      "number": 54773,
+      "title": "ci: collapse preflight manifest routing",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-14T23:55:49Z",
-      "mergedAt": "2026-03-15T00:10:11Z",
-      "additions": 44,
-      "deletions": 3,
-      "changedFiles": 4
+      "createdAt": "2026-03-26T00:30:01Z",
+      "mergedAt": "2026-03-26T03:38:31Z",
+      "additions": 876,
+      "deletions": 359,
+      "changedFiles": 9
     },
     {
-      "number": 46651,
-      "title": "fix(feishu): keep sender-scoped thread bootstrap across id types",
+      "number": 54767,
+      "title": "ci: collapse preflight routing jobs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T00:14:53Z",
+      "mergedAt": null,
+      "additions": 6822,
+      "deletions": 2520,
+      "changedFiles": 83
+    },
+    {
+      "number": 54650,
+      "title": "test: introduce planner-backed test runner",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-14T23:32:54Z",
-      "mergedAt": "2026-03-14T23:47:05Z",
-      "additions": 92,
-      "deletions": 8,
+      "createdAt": "2026-03-25T19:25:26Z",
+      "mergedAt": "2026-03-25T23:11:59Z",
+      "additions": 3236,
+      "deletions": 1714,
+      "changedFiles": 19
+    },
+    {
+      "number": 54184,
+      "title": "fix: refresh /tools availability when the session model changes",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T02:53:17Z",
+      "mergedAt": "2026-03-25T03:07:06Z",
+      "additions": 191,
+      "deletions": 19,
+      "changedFiles": 8
+    },
+    {
+      "number": 54126,
+      "title": "feat: add first-class profile management with safe import and clone semantics",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T01:02:33Z",
+      "mergedAt": null,
+      "additions": 3074,
+      "deletions": 65,
+      "changedFiles": 26
+    },
+    {
+      "number": 54088,
+      "title": "feat: add /tools runtime availability view",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T23:40:00Z",
+      "mergedAt": "2026-03-25T02:09:51Z",
+      "additions": 3565,
+      "deletions": 989,
+      "changedFiles": 56
+    },
+    {
+      "number": 53366,
+      "title": "tests: cron coverage and NO_REPLY delivery fixes",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T03:45:56Z",
+      "mergedAt": "2026-03-24T03:52:13Z",
+      "additions": 662,
+      "deletions": 35,
+      "changedFiles": 8
+    },
+    {
+      "number": 53361,
+      "title": "tests: add boundary coverage for media delivery",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T03:40:57Z",
+      "mergedAt": "2026-03-24T04:37:34Z",
+      "additions": 757,
+      "deletions": 10,
+      "changedFiles": 14
+    },
+    {
+      "number": 53080,
+      "title": "tests: improve boundary audit coverage and safety",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T18:39:30Z",
+      "mergedAt": "2026-03-24T02:46:53Z",
+      "additions": 354,
+      "deletions": 9,
       "changedFiles": 2
     },
     {
-      "number": 45689,
-      "title": "fix(gateway): bound unanswered client requests",
+      "number": 53078,
+      "title": "fix(openai-codex): bootstrap proxy on oauth refresh",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-14T03:18:46Z",
-      "mergedAt": "2026-03-14T05:12:43Z",
-      "additions": 220,
+      "createdAt": "2026-03-23T18:34:34Z",
+      "mergedAt": "2026-03-23T19:08:05Z",
+      "additions": 61,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 52320,
+      "title": "ci: avoid full build in PR test shards",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T15:26:37Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 53,
+      "changedFiles": 12
+    },
+    {
+      "number": 52279,
+      "title": "ci: build dist before macos tests",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T14:01:46Z",
+      "mergedAt": "2026-03-22T14:10:08Z",
+      "additions": 29,
       "deletions": 4,
-      "changedFiles": 5
+      "changedFiles": 1
+    },
+    {
+      "number": 52267,
+      "title": "ci: hydrate dist before plugin-sdk test lanes",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T13:40:05Z",
+      "mergedAt": "2026-03-22T13:59:14Z",
+      "additions": 26,
+      "deletions": 4,
+      "changedFiles": 1
     }
   ],
   "recentIssues": [
     {
-      "number": 40141,
-      "title": "[Bug]: secrets PR scan falls back to full-repo scan when base SHA is unavailable",
+      "number": 51778,
+      "title": "[Bug]: MITM proxy stopped working - LLM requests fail with TLS error",
       "state": "CLOSED",
-      "createdAt": "2026-03-08T18:07:12Z",
-      "closedAt": "2026-03-08T22:16:53Z"
+      "createdAt": "2026-03-21T17:23:00Z",
+      "closedAt": "2026-03-21T17:24:01Z"
     },
     {
-      "number": 40092,
-      "title": "[Bug]: Bundled channel onboarding can install duplicate npm plugin copies",
+      "number": 51634,
+      "title": "[Bug]: mitmproxy integration broken - LLM ERROR",
       "state": "CLOSED",
-      "createdAt": "2026-03-08T17:09:43Z",
-      "closedAt": "2026-03-08T18:00:25Z"
+      "createdAt": "2026-03-21T14:02:13Z",
+      "closedAt": "2026-03-21T14:05:17Z"
     },
     {
-      "number": 39986,
-      "title": "[Bug]: bundled Feishu plugin fails to load after documented install flow",
+      "number": 51619,
+      "title": "[Bug]: mitmproxy integration broken - LLM ERROR",
       "state": "CLOSED",
-      "createdAt": "2026-03-08T15:17:51Z",
-      "closedAt": "2026-03-08T15:36:42Z"
+      "createdAt": "2026-03-21T13:05:28Z",
+      "closedAt": "2026-03-23T14:26:36Z"
+    },
+    {
+      "number": 51391,
+      "title": "[BUG] mitmproxy causes gateway LLM timeouts",
+      "state": "CLOSED",
+      "createdAt": "2026-03-21T02:58:50Z",
+      "closedAt": "2026-03-21T03:00:19Z"
+    },
+    {
+      "number": 51307,
+      "title": "[BUG] mitmproxy causes gateway LLM timeouts",
+      "state": "CLOSED",
+      "createdAt": "2026-03-20T22:23:17Z",
+      "closedAt": "2026-03-20T22:25:02Z"
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 52320,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T15:35:10Z"
+    },
+    {
+      "prNumber": 52018,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T03:55:30Z"
+    },
+    {
+      "prNumber": 52018,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T03:55:25Z"
+    },
+    {
+      "prNumber": 52018,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T03:55:19Z"
+    },
+    {
+      "prNumber": 52018,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T02:51:29Z"
+    },
+    {
+      "prNumber": 52018,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T02:51:12Z"
+    },
+    {
+      "prNumber": 51950,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T02:23:39Z"
+    },
+    {
+      "prNumber": 51950,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T01:59:49Z"
+    },
+    {
+      "prNumber": 51950,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T01:46:22Z"
+    },
+    {
+      "prNumber": 51950,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T01:42:22Z"
+    },
+    {
+      "prNumber": 51950,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T01:00:30Z"
+    },
     {
       "prNumber": 45518,
       "state": "COMMENTED",
@@ -316,14 +376,39 @@
       "prNumber": 45518,
       "state": "COMMENTED",
       "createdAt": "2026-03-13T23:33:52Z"
-    },
-    {
-      "prNumber": 39990,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T15:27:24Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 8,
+      "issues": 0,
+      "reviews": 11
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 4,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 3,
       "issues": 0,
@@ -369,19 +454,9 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 6,
-      "issues": 3,
-      "reviews": 1
-    },
-    "2026-03-07": {
-      "prs": 5,
-      "issues": 0,
+    "2026-03-20": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     }
   },
@@ -405,9 +480,24 @@
       "description": "10+ pull requests"
     },
     {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
       "id": "merger",
       "label": "Merger",
       "description": "5+ merged PRs"
+    },
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
     },
     {
       "id": "conversationalist",
@@ -420,50 +510,14 @@
       "description": "10K+ lines added"
     },
     {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    },
+    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-19": 31,
-    "2026-03-18": 21,
-    "2026-03-17": 3,
-    "2026-03-16": 5,
-    "2026-03-15": 5,
-    "2026-03-14": 4,
-    "2026-03-13": 1,
-    "2026-03-11": 2,
-    "2026-03-10": 1,
-    "2026-03-09": 1,
-    "2026-03-08": 5,
-    "2026-03-07": 3,
-    "2026-03-06": 1,
-    "2026-03-05": 7,
-    "2026-03-04": 6,
-    "2026-03-03": 3,
-    "2026-03-02": 9,
-    "2026-03-01": 2,
-    "2026-02-28": 3,
-    "2026-02-23": 11,
-    "2026-02-22": 6,
-    "2026-02-21": 2,
-    "2026-02-20": 3,
-    "2026-02-15": 3,
-    "2026-02-14": 4,
-    "2026-02-13": 4,
-    "2026-02-12": 13,
-    "2026-02-11": 2,
-    "2026-02-10": 2,
-    "2026-02-09": 3,
-    "2026-02-07": 3,
-    "2026-02-06": 5,
-    "2026-02-05": 1,
-    "2026-02-04": 2,
-    "2026-02-03": 8,
-    "2026-02-02": 1,
-    "2026-02-01": 3,
-    "2026-01-31": 3,
-    "2026-01-24": 1
-  }
+  ]
 }

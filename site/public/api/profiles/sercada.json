@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/24389792?u=1f2d1a49d2dec1a2691e34cb5a9242b9978a12ef&v=4",
   "githubUrl": "https://github.com/sercada",
   "score": {
-    "score": 109.03,
+    "score": 92.53,
     "prScore": 48.03,
-    "issueScore": 20,
+    "issueScore": 5,
     "reviewScore": 39,
-    "commentScore": 2
+    "commentScore": 0.5
   },
   "tier": "regular",
   "characterClass": "Reviewer",
@@ -19,38 +19,29 @@
     "prDeletions": 5,
     "prChangedFiles": 10,
     "prMergeRate": 0,
-    "issues": 4,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 13,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 1,
-      "reviews": 13,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1
     },
     "monthly": {
       "prs": 4,
-      "issues": 4,
+      "issues": 1,
       "reviews": 13,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-08T15:22:36Z",
-  "lastContribution": "2026-03-17T14:17:59Z",
+  "firstContribution": "2026-03-14T14:33:30Z",
+  "lastContribution": "2026-03-23T13:12:30Z",
   "recentPRs": [
     {
       "number": 47642,
@@ -103,27 +94,6 @@
       "title": "Silent delivery drop after overloaded_error recovery",
       "state": "OPEN",
       "createdAt": "2026-03-17T14:17:59Z",
-      "closedAt": null
-    },
-    {
-      "number": 42244,
-      "title": "[Bug]: Announce delivery silently suppresses message tool sends AND skips announce — zero delivery",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T14:47:16Z",
-      "closedAt": null
-    },
-    {
-      "number": 42243,
-      "title": "[Bug]: Announce delivery posts raw error JSON to channels when cron run fails",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T14:46:54Z",
-      "closedAt": null
-    },
-    {
-      "number": 39992,
-      "title": "[Feature]: openclaw doctor should warn about available-but-not-allowlisted synthetic models",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T15:22:36Z",
       "closedAt": null
     }
   ],
@@ -209,16 +179,6 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
@@ -238,6 +198,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

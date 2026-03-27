@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8746167?v=4",
   "githubUrl": "https://github.com/xydt-610",
   "score": {
-    "score": 52.04,
-    "prScore": 50.04,
+    "score": 92.94,
+    "prScore": 90.94,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 2
@@ -13,45 +13,69 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 263,
-    "prDeletions": 21,
-    "prChangedFiles": 13,
+    "prAdditions": 483,
+    "prDeletions": 91,
+    "prChangedFiles": 22,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 4,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
   "firstContribution": "2026-03-14T16:07:26Z",
-  "lastContribution": "2026-03-16T00:46:01Z",
+  "lastContribution": "2026-03-21T08:41:30Z",
   "recentPRs": [
+    {
+      "number": 51515,
+      "title": "fix(health): bound gateway health snapshots and normalize legacy cron",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T08:41:30Z",
+      "mergedAt": null,
+      "additions": 141,
+      "deletions": 68,
+      "changedFiles": 4
+    },
+    {
+      "number": 51418,
+      "title": "fix(media-understanding): auto-register image capability",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T04:35:41Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 51413,
+      "title": "fix(gateway): retain operator scopes for non-local token-auth clients",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T04:14:20Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 2,
+      "changedFiles": 3
+    },
     {
       "number": 46735,
       "title": "Agents: fix reasoning_effort normalization for NVIDIA NIM (#46622)",
@@ -100,6 +124,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 2,
       "issues": 0,
@@ -115,6 +144,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

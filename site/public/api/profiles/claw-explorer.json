@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/263387821?v=4",
   "githubUrl": "https://github.com/claw-explorer",
   "score": {
-    "score": 60.75,
+    "score": 55.75,
     "prScore": 35.75,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 18,
     "commentScore": 2
   },
@@ -19,37 +19,28 @@
     "prDeletions": 74,
     "prChangedFiles": 8,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 3,
-      "issues": 1,
+      "issues": 0,
       "reviews": 6,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-11T20:07:28Z",
+  "firstContribution": "2026-03-12T22:44:45Z",
   "lastContribution": "2026-03-12T23:45:40Z",
   "recentPRs": [
     {
@@ -86,15 +77,7 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43440,
-      "title": "imsg should not require parent node process to have Full Disk Access",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T20:07:28Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 44444,
@@ -132,25 +115,12 @@
       "prs": 3,
       "issues": 0,
       "reviews": 6
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

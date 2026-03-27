@@ -1,0 +1,80 @@
+{
+  "username": "warren618",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/127300695?u=aec91960956d2929fda4b7894454d09bef0b3a6e&v=4",
+  "githubUrl": "https://github.com/warren618",
+  "score": {
+    "score": 15.75,
+    "prScore": 7.75,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Pathfinder",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 7,
+    "prDeletions": 4,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-22T18:54:21Z",
+  "lastContribution": "2026-03-22T18:54:40Z",
+  "recentPRs": [
+    {
+      "number": 52437,
+      "title": "fix(agents): call eventStream.end() on success path in OpenAI WS stream",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T18:54:40Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 4,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 52435,
+      "title": "Bug: OpenAI WebSocket stream never terminates on success — eventStream.end() missing",
+      "state": "CLOSED",
+      "createdAt": "2026-03-22T18:54:21Z",
+      "closedAt": "2026-03-23T02:05:43Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": []
+}

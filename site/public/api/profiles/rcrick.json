@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/23069968?u=438b327efb8ddabf0bfbf3b6400a54e582199118&v=4",
   "githubUrl": "https://github.com/rcrick",
   "score": {
-    "score": 31.39,
-    "prScore": 16.39,
+    "score": 36.27,
+    "prScore": 21.27,
     "issueScore": 0,
     "reviewScore": 15,
     "commentScore": 0
@@ -14,39 +14,30 @@
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 475,
+    "prsMerged": 1,
+    "prAdditions": 476,
     "prDeletions": 48,
-    "prChangedFiles": 5,
-    "prMergeRate": 0,
+    "prChangedFiles": 6,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 5,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-11T13:34:32Z",
@@ -55,13 +46,13 @@
     {
       "number": 43215,
       "title": "Usage: include reset and deleted session archives",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-11T13:34:32Z",
-      "mergedAt": null,
-      "additions": 475,
+      "mergedAt": "2026-03-23T05:10:26Z",
+      "additions": 476,
       "deletions": 48,
-      "changedFiles": 5
+      "changedFiles": 6
     }
   ],
   "recentIssues": [],
@@ -103,6 +94,5 @@
     "Pull Requests",
     "Code Review"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,118 +3,70 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/19658300?u=1eb9733a3d6f5752d800c90a8c9bdb086e7823ce&v=4",
   "githubUrl": "https://github.com/majiayu000",
   "score": {
-    "score": 34.13,
-    "prScore": 28.13,
+    "score": 18.64,
+    "prScore": 18.14,
     "issueScore": 0,
-    "reviewScore": 6,
-    "commentScore": 0
+    "reviewScore": 0,
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Maintainer",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 102,
-    "prDeletions": 13,
-    "prChangedFiles": 5,
+    "prAdditions": 30,
+    "prDeletions": 10,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
-      "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 1
     },
     "monthly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
-      "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-06T07:53:31Z",
-  "lastContribution": "2026-03-17T04:24:14Z",
+  "firstContribution": "2026-03-21T17:14:33Z",
+  "lastContribution": "2026-03-21T18:52:13Z",
   "recentPRs": [
     {
-      "number": 37454,
-      "title": "fix(agents): exclude attachment paths from message tool fingerprint",
+      "number": 51817,
+      "title": "fix: mark googlechat appPrincipal as required in schema and type",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-06T08:16:56Z",
+      "createdAt": "2026-03-21T18:52:13Z",
       "mergedAt": null,
-      "additions": 70,
-      "deletions": 13,
-      "changedFiles": 2
-    },
-    {
-      "number": 37437,
-      "title": "fix(gateway): allow hard-linked assets in Control UI file resolution",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T08:03:15Z",
-      "mergedAt": null,
-      "additions": 24,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 37423,
-      "title": "fix(infra): treat wrapped \"fetch failed\" as transient network error",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T07:53:31Z",
-      "mergedAt": null,
-      "additions": 8,
-      "deletions": 0,
-      "changedFiles": 1
+      "additions": 30,
+      "deletions": 10,
+      "changedFiles": 10
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 37454,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T04:24:14Z"
-    },
-    {
-      "prNumber": 37454,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T04:24:04Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-06": {
-      "prs": 3,
+    "2026-03-21": {
+      "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-17": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review"
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

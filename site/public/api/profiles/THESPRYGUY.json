@@ -3,55 +3,112 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/222838284?v=4",
   "githubUrl": "https://github.com/THESPRYGUY",
   "score": {
-    "score": 160.57,
-    "prScore": 160.07,
+    "score": 212.55,
+    "prScore": 210.05,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 2.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 25354,
-    "prDeletions": 1677,
-    "prChangedFiles": 192,
+    "prAdditions": 42424,
+    "prDeletions": 3582,
+    "prChangedFiles": 398,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 5
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     },
     "monthly": {
-      "prs": 1,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 5
     }
   },
   "firstContribution": "2026-03-13T04:18:16Z",
-  "lastContribution": "2026-03-13T05:00:06Z",
+  "lastContribution": "2026-03-26T18:20:42Z",
   "recentPRs": [
+    {
+      "number": 55321,
+      "title": "CI: add canonical live benchmark scaffold",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T18:20:25Z",
+      "mergedAt": null,
+      "additions": 236,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 55314,
+      "title": "CI: activate live runtime benchmark on main",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T18:09:14Z",
+      "mergedAt": null,
+      "additions": 205,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 55306,
+      "title": "Tests: cover custom local auth marker handling",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T17:45:10Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 55278,
+      "title": "Gateway: reconcile ingress and embedded runner auth seam",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T16:42:59Z",
+      "mergedAt": null,
+      "additions": 8762,
+      "deletions": 1052,
+      "changedFiles": 107
+    },
+    {
+      "number": 55146,
+      "title": "CI: activate live runtime benchmark on main",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T12:22:13Z",
+      "mergedAt": null,
+      "additions": 205,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 54818,
+      "title": "CI: activate live runtime benchmark on main",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T02:04:12Z",
+      "mergedAt": null,
+      "additions": 7615,
+      "deletions": 853,
+      "changedFiles": 95
+    },
     {
       "number": 44651,
       "title": "chore: reconcile OpenClaw with upstream/main (pre-Mission 11 baseline)",
@@ -67,6 +124,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
@@ -84,6 +146,5 @@
       "label": "Prolific Coder",
       "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

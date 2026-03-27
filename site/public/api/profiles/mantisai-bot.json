@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259690819?u=b3e01e7f4ac1ee1dda2ac2431bf2305c5e8c5181&v=4",
   "githubUrl": "https://github.com/mantisai-bot",
   "score": {
-    "score": 49.78,
-    "prScore": 22.78,
-    "issueScore": 20,
-    "reviewScore": 6,
-    "commentScore": 1
+    "score": 22.55,
+    "prScore": 12.05,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0.5
   },
   "tier": "beginner",
   "characterClass": "Hunter",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 116,
-    "prDeletions": 14,
-    "prChangedFiles": 6,
+    "prAdditions": 58,
+    "prDeletions": 8,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 4,
+    "issues": 2,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
-      "issues": 4,
-      "reviews": 2,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-08T07:34:31Z",
+  "firstContribution": "2026-03-13T00:46:52Z",
   "lastContribution": "2026-03-17T06:28:33Z",
   "recentPRs": [
     {
@@ -62,17 +53,6 @@
       "additions": 58,
       "deletions": 8,
       "changedFiles": 4
-    },
-    {
-      "number": 39596,
-      "title": "feat: add agent:turn:end internal hook event",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T07:34:31Z",
-      "mergedAt": null,
-      "additions": 58,
-      "deletions": 6,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [
@@ -89,73 +69,25 @@
       "state": "OPEN",
       "createdAt": "2026-03-17T06:28:32Z",
       "closedAt": null
-    },
-    {
-      "number": 43738,
-      "title": "[Feature]: Adaptive session reset mode — daily reset gated by idle time (AND logic)",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T06:07:28Z",
-      "closedAt": null
-    },
-    {
-      "number": 43313,
-      "title": "fix(media): classify audio-only MP4/M4A containers as audio, not video",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T15:59:38Z",
-      "closedAt": null
     }
   ],
-  "recentReviews": [
-    {
-      "prNumber": 39596,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T13:33:25Z"
-    },
-    {
-      "prNumber": 39596,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T13:33:24Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 2
-    },
     "2026-03-17": {
       "prs": 0,
       "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-12": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

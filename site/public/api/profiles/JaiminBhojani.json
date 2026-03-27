@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/107625994?v=4",
   "githubUrl": "https://github.com/JaiminBhojani",
   "score": {
-    "score": 37.45,
-    "prScore": 34.45,
+    "score": 62.65,
+    "prScore": 56.15,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 0
+    "reviewScore": 6,
+    "commentScore": 0.5
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 621,
-    "prDeletions": 68,
-    "prChangedFiles": 14,
+    "prAdditions": 1017,
+    "prDeletions": 107,
+    "prChangedFiles": 20,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-10T18:50:22Z",
-  "lastContribution": "2026-03-11T17:34:22Z",
+  "lastContribution": "2026-03-21T05:18:25Z",
   "recentPRs": [
+    {
+      "number": 51150,
+      "title": "fix(agents): resolve imageModel 'Unknown model' for custom providers (#33185)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T17:02:35Z",
+      "mergedAt": null,
+      "additions": 396,
+      "deletions": 39,
+      "changedFiles": 6
+    },
     {
       "number": 42454,
       "title": "fix(control-ui): filter NO_REPLY lead fragments from streaming and re…",
@@ -67,16 +69,31 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 51150,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T05:18:25Z"
+    },
+    {
       "prNumber": 42454,
       "state": "COMMENTED",
       "createdAt": "2026-03-11T17:34:22Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     },
     "2026-03-11": {
       "prs": 0,
@@ -86,8 +103,8 @@
   },
   "skills": [
     "Pull Requests",
-    "Code Review"
+    "Code Review",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7056?v=4",
   "githubUrl": "https://github.com/kesor",
   "score": {
-    "score": 150.19,
-    "prScore": 149.69,
-    "issueScore": 0,
+    "score": 124.47,
+    "prScore": 115.97,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -13,75 +13,91 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 4,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1844,
-    "prDeletions": 179,
-    "prChangedFiles": 22,
+    "prAdditions": 2793,
+    "prDeletions": 297,
+    "prChangedFiles": 34,
     "prMergeRate": 0,
-    "issues": 0,
-    "issuesClosed": 0,
+    "issues": 1,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 1448,
-    "commitDeletions": 94,
-    "commitChangedFiles": 34
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
+      "prs": 1,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 2,
+      "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 1448,
-      "commitDeletions": 94,
-      "commits": 4
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-09T22:46:51Z",
-  "lastContribution": "2026-03-11T23:43:23Z",
+  "lastContribution": "2026-03-23T16:10:39Z",
   "recentPRs": [
+    {
+      "number": 52995,
+      "title": "feat(plugins): add unified provider system with capabilities",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T16:10:39Z",
+      "mergedAt": null,
+      "additions": 2793,
+      "deletions": 297,
+      "changedFiles": 34
+    },
     {
       "number": 41496,
       "title": "feat(plugins): add unified provider system with capabilities",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T22:46:51Z",
       "mergedAt": null,
-      "additions": 1844,
-      "deletions": 179,
-      "changedFiles": 22
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 51176,
+      "title": "~~xxx~~",
+      "state": "CLOSED",
+      "createdAt": "2026-03-20T17:52:40Z",
+      "closedAt": "2026-03-20T17:53:24Z"
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-09": {
       "prs": 1,
       "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
+    "Issue Reporting",
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-04": 2,
-    "2026-03-02": 1,
-    "2026-02-23": 1
-  }
+  "achievements": []
 }

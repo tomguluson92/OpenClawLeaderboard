@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9017016?u=63cc120eda1a7e8c6f0731739c6979f26f691d61&v=4",
   "githubUrl": "https://github.com/jscianna",
   "score": {
-    "score": 8.61,
-    "prScore": 8.61,
+    "score": 15.78,
+    "prScore": 15.78,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -14,39 +14,30 @@
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 5,
-    "prDeletions": 0,
-    "prChangedFiles": 3,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 42,
+    "prDeletions": 4,
+    "prChangedFiles": 5,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-15T15:38:50Z",
@@ -55,13 +46,13 @@
     {
       "number": 47437,
       "title": "feat: pass modelId to context engine assemble()",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-15T15:38:50Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 0,
-      "changedFiles": 3
+      "mergedAt": "2026-03-20T15:05:02Z",
+      "additions": 42,
+      "deletions": 4,
+      "changedFiles": 5
     }
   ],
   "recentIssues": [],
@@ -76,6 +67,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,55 +3,156 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/550978?v=4",
   "githubUrl": "https://github.com/jalehman",
   "score": {
-    "score": 674.47,
-    "prScore": 595.97,
-    "issueScore": 5,
-    "reviewScore": 62.5,
-    "commentScore": 11
+    "score": 785.84,
+    "prScore": 691.34,
+    "issueScore": 23,
+    "reviewScore": 57,
+    "commentScore": 14.5
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
-    "commits": 38,
-    "prs": 29,
-    "prsMerged": 20,
-    "prAdditions": 5212,
-    "prDeletions": 686,
-    "prChangedFiles": 257,
-    "prMergeRate": 69,
-    "issues": 1,
-    "issuesClosed": 0,
-    "reviews": 18,
-    "reviewsApproved": 1,
-    "reviewsChangesRequested": 5,
-    "comments": 22,
-    "commitAdditions": 7178,
-    "commitDeletions": 706,
-    "commitChangedFiles": 253
+    "commits": 44,
+    "prs": 37,
+    "prsMerged": 24,
+    "prAdditions": 10257,
+    "prDeletions": 1307,
+    "prChangedFiles": 360,
+    "prMergeRate": 65,
+    "issues": 4,
+    "issuesClosed": 1,
+    "reviews": 17,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 4,
+    "comments": 29
   },
   "period": {
     "weekly": {
-      "prs": 17,
-      "issues": 0,
-      "reviews": 13,
-      "comments": 7,
-      "commitAdditions": 2599,
-      "commitDeletions": 259,
-      "commits": 15
+      "prs": 10,
+      "issues": 4,
+      "reviews": 3,
+      "comments": 19
     },
     "monthly": {
-      "prs": 29,
-      "issues": 1,
-      "reviews": 18,
-      "comments": 22,
-      "commitAdditions": 6127,
-      "commitDeletions": 609,
-      "commits": 32
+      "prs": 37,
+      "issues": 4,
+      "reviews": 17,
+      "comments": 29
     }
   },
-  "firstContribution": "2026-03-06T21:24:34Z",
-  "lastContribution": "2026-03-19T21:58:55Z",
+  "firstContribution": "2026-03-10T21:02:46Z",
+  "lastContribution": "2026-03-27T03:21:14Z",
   "recentPRs": [
+    {
+      "number": 55524,
+      "title": "test: fix Codex contract refresh fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T03:21:14Z",
+      "mergedAt": null,
+      "additions": 7,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 55395,
+      "title": "fix: centralize plugin command auth requirements",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T22:18:15Z",
+      "mergedAt": null,
+      "additions": 445,
+      "deletions": 72,
+      "changedFiles": 12
+    },
+    {
+      "number": 53847,
+      "title": "fix: avoid tsx helper crash in subsystem logger",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T17:25:58Z",
+      "mergedAt": null,
+      "additions": 104,
+      "deletions": 75,
+      "changedFiles": 1
+    },
+    {
+      "number": 53808,
+      "title": "test: stabilize preaction process title assertion",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T16:40:57Z",
+      "mergedAt": "2026-03-24T16:50:12Z",
+      "additions": 22,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51946,
+      "title": "feat(sessions): add directory-backed session store",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T00:30:08Z",
+      "mergedAt": null,
+      "additions": 2342,
+      "deletions": 89,
+      "changedFiles": 24
+    },
+    {
+      "number": 51406,
+      "title": "test: align extension seam mocks",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T03:41:26Z",
+      "mergedAt": null,
+      "additions": 106,
+      "deletions": 155,
+      "changedFiles": 15
+    },
+    {
+      "number": 51289,
+      "title": "test: align extension runtime mocks with plugin-sdk",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T21:36:08Z",
+      "mergedAt": "2026-03-20T22:59:54Z",
+      "additions": 287,
+      "deletions": 96,
+      "changedFiles": 25
+    },
+    {
+      "number": 51253,
+      "title": "test: fix setup finalize web search mocks",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T20:04:11Z",
+      "mergedAt": "2026-03-20T20:07:22Z",
+      "additions": 19,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 51191,
+      "title": "feat: add context engine transcript maintenance",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T18:56:19Z",
+      "mergedAt": "2026-03-20T23:28:27Z",
+      "additions": 1305,
+      "deletions": 107,
+      "changedFiles": 20
+    },
+    {
+      "number": 51074,
+      "title": "test: mock embedded runtime setup in compact hooks harness",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T14:12:19Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 50652,
       "title": "test: reduce low-memory Vitest pressure",
@@ -77,13 +178,13 @@
     {
       "number": 50005,
       "title": "fix: sanitize malformed replay tool calls",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-18T20:21:23Z",
-      "mergedAt": null,
-      "additions": 397,
-      "deletions": 0,
-      "changedFiles": 2
+      "mergedAt": "2026-03-20T22:03:30Z",
+      "additions": 830,
+      "deletions": 25,
+      "changedFiles": 7
     },
     {
       "number": 49928,
@@ -161,128 +262,54 @@
       "additions": 213,
       "deletions": 50,
       "changedFiles": 15
-    },
-    {
-      "number": 48758,
-      "title": "chore: fix formatting drift in extension sources",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-17T05:40:52Z",
-      "mergedAt": "2026-03-17T05:43:21Z",
-      "additions": 31,
-      "deletions": 30,
-      "changedFiles": 13
-    },
-    {
-      "number": 48277,
-      "title": "fix(plugins): forward plugin subagent overrides",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-16T14:29:59Z",
-      "mergedAt": "2026-03-17T14:20:27Z",
-      "additions": 1203,
-      "deletions": 65,
-      "changedFiles": 32
-    },
-    {
-      "number": 48257,
-      "title": "fix: stabilize CI and startup-memory",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-16T14:09:05Z",
-      "mergedAt": null,
-      "additions": 545,
-      "deletions": 91,
-      "changedFiles": 25
-    },
-    {
-      "number": 46648,
-      "title": "fix(plugins): late-binding subagent runtime for non-gateway load paths",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-14T23:26:49Z",
-      "mergedAt": "2026-03-16T21:27:54Z",
-      "additions": 555,
-      "deletions": 28,
-      "changedFiles": 42
-    },
-    {
-      "number": 46598,
-      "title": "chore: regenerate config baseline",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-14T21:48:30Z",
-      "mergedAt": "2026-03-14T22:44:13Z",
-      "additions": 29,
-      "deletions": 5,
-      "changedFiles": 2
-    },
-    {
-      "number": 46409,
-      "title": "docs: add context engine documentation",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-14T17:02:44Z",
-      "mergedAt": "2026-03-17T07:15:41Z",
-      "additions": 268,
-      "deletions": 1,
-      "changedFiles": 4
-    },
-    {
-      "number": 45386,
-      "title": "test: fix stale message-channel mock in compact.hooks.test",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T18:53:12Z",
-      "mergedAt": null,
-      "additions": 12,
-      "deletions": 6,
-      "changedFiles": 3
-    },
-    {
-      "number": 44691,
-      "title": "docs: move post-release changelog entries to Unreleased",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-13T05:38:44Z",
-      "mergedAt": "2026-03-13T05:42:06Z",
-      "additions": 7,
-      "deletions": 4,
-      "changedFiles": 1
-    },
-    {
-      "number": 44689,
-      "title": "docs: move post-release changelog entries to Unreleased",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T05:32:42Z",
-      "mergedAt": null,
-      "additions": 18,
-      "deletions": 12,
-      "changedFiles": 1
-    },
-    {
-      "number": 44515,
-      "title": "fix(ci): repair main branch checks",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-13T01:28:25Z",
-      "mergedAt": null,
-      "additions": 45,
-      "deletions": 20,
-      "changedFiles": 9
     }
   ],
   "recentIssues": [
     {
-      "number": 40096,
-      "title": "Published 2026.3.7 build splits context-engine registry across bundle chunks",
+      "number": 52578,
+      "title": "Build fails on main: tsdown unresolved LINE entry modules",
       "state": "OPEN",
-      "createdAt": "2026-03-08T17:10:35Z",
+      "createdAt": "2026-03-23T02:17:08Z",
       "closedAt": null
+    },
+    {
+      "number": 52570,
+      "title": "fix: restore tsgo green after provider-entry/onboarding typing drift",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T01:59:29Z",
+      "closedAt": null
+    },
+    {
+      "number": 52558,
+      "title": "pnpm check fails on main with tsgo errors in irc/mattermost/msteams/nextcloud-talk",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T01:28:46Z",
+      "closedAt": null
+    },
+    {
+      "number": 51922,
+      "title": "build: duplicate DaemonInstallOptions import breaks pnpm build",
+      "state": "CLOSED",
+      "createdAt": "2026-03-21T23:14:39Z",
+      "closedAt": "2026-03-23T01:18:34Z"
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 55331,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-27T03:09:31Z"
+    },
+    {
+      "prNumber": 50045,
+      "state": "CHANGES_REQUESTED",
+      "createdAt": "2026-03-21T19:51:28Z"
+    },
+    {
+      "prNumber": 51289,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T22:09:43Z"
+    },
     {
       "prNumber": 50652,
       "state": "COMMENTED",
@@ -339,26 +366,11 @@
       "createdAt": "2026-03-17T15:29:41Z"
     },
     {
-      "prNumber": 41021,
-      "state": "CHANGES_REQUESTED",
-      "createdAt": "2026-03-17T15:25:02Z"
-    },
-    {
-      "prNumber": 41021,
-      "state": "CHANGES_REQUESTED",
-      "createdAt": "2026-03-17T15:24:43Z"
-    },
-    {
       "prNumber": 42215,
       "state": "CHANGES_REQUESTED",
       "createdAt": "2026-03-13T02:44:14Z"
     },
     {
-      "prNumber": 41021,
-      "state": "CHANGES_REQUESTED",
-      "createdAt": "2026-03-13T02:25:56Z"
-    },
-    {
       "prNumber": 44397,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T21:45:33Z"
@@ -367,14 +379,39 @@
       "prNumber": 44397,
       "state": "COMMENTED",
       "createdAt": "2026-03-12T21:45:33Z"
-    },
-    {
-      "prNumber": 38301,
-      "state": "APPROVED",
-      "createdAt": "2026-03-06T21:24:34Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    },
+    "2026-03-20": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-19": {
       "prs": 2,
       "issues": 0,
@@ -388,7 +425,7 @@
     "2026-03-17": {
       "prs": 4,
       "issues": 0,
-      "reviews": 3
+      "reviews": 1
     },
     "2026-03-16": {
       "prs": 2,
@@ -403,7 +440,7 @@
     "2026-03-13": {
       "prs": 4,
       "issues": 0,
-      "reviews": 2
+      "reviews": 1
     },
     "2026-03-12": {
       "prs": 6,
@@ -415,20 +452,10 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-06": {
+    "2026-03-23": {
       "prs": 0,
-      "issues": 0,
-      "reviews": 1
+      "issues": 3,
+      "reviews": 0
     }
   },
   "skills": [
@@ -461,23 +488,14 @@
       "description": "20+ comments"
     },
     {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-19": 2,
-    "2026-03-18": 4,
-    "2026-03-17": 7,
-    "2026-03-16": 1,
-    "2026-03-14": 1,
-    "2026-03-13": 2,
-    "2026-03-12": 7,
-    "2026-03-08": 1,
-    "2026-03-06": 1,
-    "2026-03-03": 1,
-    "2026-03-02": 4,
-    "2026-02-27": 1
-  }
+  ]
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/159001611?u=b01a155c9680d58f569546565b0fb474f3cf4750&v=4",
   "githubUrl": "https://github.com/Kathie-yu",
   "score": {
-    "score": 9.72,
-    "prScore": 9.72,
+    "score": 18.26,
+    "prScore": 18.26,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -14,39 +14,30 @@
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 68,
-    "prDeletions": 24,
-    "prChangedFiles": 2,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 216,
+    "prDeletions": 29,
+    "prChangedFiles": 5,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-13T10:09:44Z",
@@ -55,13 +46,13 @@
     {
       "number": 44969,
       "title": "fix: normalize baseUrl for custom Google Generative AI providers",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-13T10:09:44Z",
-      "mergedAt": null,
-      "additions": 68,
-      "deletions": 24,
-      "changedFiles": 2
+      "mergedAt": "2026-03-24T23:42:56Z",
+      "additions": 216,
+      "deletions": 29,
+      "changedFiles": 5
     }
   ],
   "recentIssues": [],
@@ -76,6 +67,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

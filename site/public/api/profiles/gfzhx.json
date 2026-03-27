@@ -3,65 +3,56 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7359794?v=4",
   "githubUrl": "https://github.com/gfzhx",
   "score": {
-    "score": 68.1,
-    "prScore": 66.1,
+    "score": 89.79,
+    "prScore": 71.79,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 2
+    "reviewScore": 15,
+    "commentScore": 3
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 2,
-    "prsMerged": 0,
-    "prAdditions": 1443,
-    "prDeletions": 458,
-    "prChangedFiles": 23,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 1524,
+    "prDeletions": 494,
+    "prChangedFiles": 24,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 6
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 5,
+      "comments": 2
     },
     "monthly": {
       "prs": 2,
       "issues": 0,
-      "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 5,
+      "comments": 6
     }
   },
   "firstContribution": "2026-03-10T16:03:59Z",
-  "lastContribution": "2026-03-19T13:27:11Z",
+  "lastContribution": "2026-03-27T06:17:45Z",
   "recentPRs": [
     {
       "number": 50444,
       "title": "Plugins: add a before-dispatch hook to the reply pipeline",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-19T13:27:11Z",
-      "mergedAt": null,
-      "additions": 190,
-      "deletions": 1,
-      "changedFiles": 4
+      "mergedAt": "2026-03-25T10:46:08Z",
+      "additions": 271,
+      "deletions": 37,
+      "changedFiles": 5
     },
     {
       "number": 42316,
@@ -76,7 +67,33 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 50444,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T13:23:49Z"
+    },
+    {
+      "prNumber": 50444,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T13:23:48Z"
+    },
+    {
+      "prNumber": 50444,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T13:23:46Z"
+    },
+    {
+      "prNumber": 50444,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T13:23:44Z"
+    },
+    {
+      "prNumber": 50444,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T13:23:43Z"
+    }
+  ],
   "recentActivityDays": {
     "2026-03-19": {
       "prs": 1,
@@ -87,12 +104,17 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

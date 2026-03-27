@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/85149081?v=4",
   "githubUrl": "https://github.com/thirumaleshp",
   "score": {
-    "score": 108.43,
-    "prScore": 91.93,
+    "score": 26.43,
+    "prScore": 26.43,
     "issueScore": 0,
-    "reviewScore": 15,
-    "commentScore": 1.5
+    "reviewScore": 0,
+    "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Maintainer",
+  "tier": "beginner",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 1137,
-    "prDeletions": 76,
-    "prChangedFiles": 17,
+    "prAdditions": 51,
+    "prDeletions": 11,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 173,
-    "commitDeletions": 2,
-    "commitChangedFiles": 6
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 6,
+      "prs": 2,
       "issues": 0,
-      "reviews": 5,
-      "comments": 3,
-      "commitAdditions": 173,
-      "commitDeletions": 2,
-      "commits": 1
+      "reviews": 0,
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-07T13:27:58Z",
-  "lastContribution": "2026-03-15T15:07:03Z",
+  "firstContribution": "2026-03-15T15:07:03Z",
+  "lastContribution": "2026-03-22T17:30:51Z",
   "recentPRs": [
+    {
+      "number": 52400,
+      "title": "feat(session): raise maxPingPongTurns ceiling from 5 to 20 (#52382)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T17:30:51Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 10,
+      "changedFiles": 9
+    },
     {
       "number": 47416,
       "title": "fix(whatsapp): use old timestamp in append test to respect grace window",
@@ -62,120 +64,24 @@
       "additions": 1,
       "deletions": 1,
       "changedFiles": 1
-    },
-    {
-      "number": 41021,
-      "title": "feat(compaction): truncate session JSONL after compaction to prevent unbounded growth",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T13:08:40Z",
-      "mergedAt": null,
-      "additions": 626,
-      "deletions": 0,
-      "changedFiles": 7
-    },
-    {
-      "number": 40112,
-      "title": "fix(agents): suppress intermediate tool failure messages when agent self-corrects",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T17:19:43Z",
-      "mergedAt": null,
-      "additions": 141,
-      "deletions": 2,
-      "changedFiles": 4
-    },
-    {
-      "number": 39982,
-      "title": "feat(config): use datetime suffix for backup rotation instead of numeric",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T15:16:40Z",
-      "mergedAt": null,
-      "additions": 236,
-      "deletions": 71,
-      "changedFiles": 2
-    },
-    {
-      "number": 39055,
-      "title": "feat(agent-runner): abort active run on priority message during steer…",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T17:39:52Z",
-      "mergedAt": null,
-      "additions": 10,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 38885,
-      "title": "fix(cron): preserve sandbox config when merging agent overrides (#38663)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T13:27:58Z",
-      "mergedAt": null,
-      "additions": 123,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 39982,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T16:15:35Z"
-    },
-    {
-      "prNumber": 39982,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T16:15:29Z"
-    },
-    {
-      "prNumber": 39982,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T16:15:25Z"
-    },
-    {
-      "prNumber": 39982,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T16:15:20Z"
-    },
-    {
-      "prNumber": 39982,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T16:15:11Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 5
-    },
-    "2026-03-07": {
-      "prs": 2,
       "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-08": 1
-  }
+  "achievements": []
 }

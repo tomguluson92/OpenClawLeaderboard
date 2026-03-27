@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/422900?u=b487aecc8bf943d64b405af2ac809318b7a24ce3&v=4",
   "githubUrl": "https://github.com/dyoung522",
   "score": {
-    "score": 35.78,
+    "score": 40.78,
     "prScore": 20.28,
-    "issueScore": 15,
+    "issueScore": 20,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -19,38 +19,29 @@
     "prDeletions": 0,
     "prChangedFiles": 9,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 4,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 2,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 4,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-10T15:33:35Z",
-  "lastContribution": "2026-03-16T22:05:16Z",
+  "firstContribution": "2026-03-13T09:46:35Z",
+  "lastContribution": "2026-03-25T07:26:47Z",
   "recentPRs": [
     {
       "number": 47574,
@@ -66,6 +57,20 @@
   ],
   "recentIssues": [
     {
+      "number": 54332,
+      "title": "WhatsApp watchdog idle counter doesn't reset on reconnect, causing 60s flap loops",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T07:26:47Z",
+      "closedAt": null
+    },
+    {
+      "number": 54263,
+      "title": "WhatsApp watchdog idle timer doesn't reset on reconnect, causes 60s flap loops",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T05:56:46Z",
+      "closedAt": null
+    },
+    {
       "number": 48516,
       "title": "Android node notification forwarding causes cross-session replies (WhatsApp duplicate sends to wrong group)",
       "state": "OPEN",
@@ -78,13 +83,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-13T09:46:35Z",
       "closedAt": null
-    },
-    {
-      "number": 42291,
-      "title": "[Bug]: `openclaw models auth login` on node host writes OAuth token locally instead of syncing to gateway",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T15:33:35Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
@@ -92,6 +90,11 @@
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 2,
       "reviews": 0
     },
     "2026-03-16": {
@@ -103,11 +106,6 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
@@ -115,6 +113,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/129350889?u=620fd6cc82a8f3d9f37d490ca32964654b7bc5ad&v=4",
   "githubUrl": "https://github.com/ZanderH-code",
   "score": {
-    "score": 73.51,
-    "prScore": 73.01,
+    "score": 82.37,
+    "prScore": 81.87,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,45 +13,47 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 8,
     "prsMerged": 0,
-    "prAdditions": 273,
-    "prDeletions": 30,
-    "prChangedFiles": 14,
+    "prAdditions": 278,
+    "prDeletions": 35,
+    "prChangedFiles": 15,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 8,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-13T11:52:35Z",
-  "lastContribution": "2026-03-13T18:26:26Z",
+  "lastContribution": "2026-03-21T06:21:11Z",
   "recentPRs": [
+    {
+      "number": 51460,
+      "title": "docs(irc): fix json5 code fence typos",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T06:21:11Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 5,
+      "changedFiles": 1
+    },
     {
       "number": 45370,
       "title": "fix(telegram): fallback to text when sendVoice upload fails",
@@ -133,6 +135,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 7,
       "issues": 0,
@@ -143,6 +150,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

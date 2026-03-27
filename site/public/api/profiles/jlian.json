@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2320572?u=3cca821f42024e5e7c6b92474210bcbd298bf303&v=4",
   "githubUrl": "https://github.com/jlian",
   "score": {
-    "score": 42.17,
+    "score": 45.17,
     "prScore": 17.17,
-    "issueScore": 5,
+    "issueScore": 8,
     "reviewScore": 18,
     "commentScore": 2
   },
@@ -20,33 +20,24 @@
     "prChangedFiles": 6,
     "prMergeRate": 0,
     "issues": 1,
-    "issuesClosed": 0,
+    "issuesClosed": 1,
     "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 6,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 6,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
   "firstContribution": "2026-03-18T22:12:17Z",
@@ -55,7 +46,7 @@
     {
       "number": 50044,
       "title": "fix(msteams): fix inline pasted image downloads",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T22:12:25Z",
       "mergedAt": null,
@@ -68,9 +59,9 @@
     {
       "number": 50043,
       "title": "MSTeams: inline pasted images not downloaded (hostedContents contentBytes missing)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "createdAt": "2026-03-18T22:12:17Z",
-      "closedAt": null
+      "closedAt": "2026-03-26T06:58:15Z"
     }
   ],
   "recentReviews": [
@@ -124,6 +115,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

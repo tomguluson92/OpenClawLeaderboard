@@ -1,10 +1,10 @@
 {
   "username": "bebule",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/50222182?u=206683d79fbc4bc1cc097e592fc3704ed1993f88&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50222182?v=4",
   "githubUrl": "https://github.com/bebule",
   "score": {
-    "score": 17.47,
-    "prScore": 14.47,
+    "score": 33.42,
+    "prScore": 30.42,
     "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 0
@@ -12,41 +12,32 @@
   "tier": "beginner",
   "characterClass": "Maintainer",
   "stats": {
-    "commits": 0,
+    "commits": 2,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 112,
+    "prsMerged": 1,
+    "prAdditions": 110,
     "prDeletions": 32,
-    "prChangedFiles": 5,
-    "prMergeRate": 0,
+    "prChangedFiles": 7,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-12T13:49:44Z",
@@ -55,13 +46,13 @@
     {
       "number": 44083,
       "title": "Gateway: parse Compose-style gateway port env values",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-12T13:49:44Z",
-      "mergedAt": null,
-      "additions": 112,
+      "mergedAt": "2026-03-24T23:51:36Z",
+      "additions": 110,
       "deletions": 32,
-      "changedFiles": 5
+      "changedFiles": 7
     }
   ],
   "recentIssues": [],
@@ -81,8 +72,8 @@
   },
   "skills": [
     "Pull Requests",
-    "Code Review"
+    "Code Review",
+    "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

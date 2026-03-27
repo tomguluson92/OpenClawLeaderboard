@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1582168?u=657d1f9f6e358c8c8ee2b9dfb8368726f7d26007&v=4",
   "githubUrl": "https://github.com/guang384",
   "score": {
-    "score": 158.12,
-    "prScore": 149.62,
+    "score": 91.62,
+    "prScore": 87.12,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 8.5
+    "commentScore": 4.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 12,
+    "prs": 8,
     "prsMerged": 0,
-    "prAdditions": 579,
-    "prDeletions": 42,
-    "prChangedFiles": 34,
+    "prAdditions": 289,
+    "prDeletions": 28,
+    "prChangedFiles": 18,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 17,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 9
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 8,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 12,
+      "prs": 8,
       "issues": 0,
       "reviews": 0,
-      "comments": 17,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 9
     }
   },
-  "firstContribution": "2026-03-07T04:21:26Z",
+  "firstContribution": "2026-03-12T08:55:22Z",
   "lastContribution": "2026-03-17T00:40:47Z",
   "recentPRs": [
     {
@@ -139,50 +130,6 @@
       "additions": 13,
       "deletions": 2,
       "changedFiles": 1
-    },
-    {
-      "number": 38615,
-      "title": "fix(plugins): handle symlinked plugin directories",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T05:51:04Z",
-      "mergedAt": null,
-      "additions": 34,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 38602,
-      "title": "feat(ui): add dismissible update banner with close button",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T05:27:45Z",
-      "mergedAt": null,
-      "additions": 40,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 38600,
-      "title": "feat(telegram): support hot-reload for group configuration changes",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T05:26:34Z",
-      "mergedAt": null,
-      "additions": 82,
-      "deletions": 3,
-      "changedFiles": 3
-    },
-    {
-      "number": 38558,
-      "title": "Guang384/fix/openclaw issues",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T04:21:26Z",
-      "mergedAt": null,
-      "additions": 134,
-      "deletions": 7,
-      "changedFiles": 10
     }
   ],
   "recentIssues": [],
@@ -192,23 +139,11 @@
       "prs": 8,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

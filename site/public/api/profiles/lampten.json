@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/50524710?u=11b4b649b451bd0f849724a00930546a4749dfbd&v=4",
   "githubUrl": "https://github.com/lampten",
   "score": {
-    "score": 161.52,
-    "prScore": 128.02,
+    "score": 11.99,
+    "prScore": 10.99,
     "issueScore": 0,
-    "reviewScore": 30,
-    "commentScore": 3.5
+    "reviewScore": 0,
+    "commentScore": 1
   },
-  "tier": "regular",
-  "characterClass": "Reviewer",
+  "tier": "beginner",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 2977,
-    "prDeletions": 1029,
-    "prChangedFiles": 43,
+    "prAdditions": 67,
+    "prDeletions": 16,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 10,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 2,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 1,
       "issues": 0,
-      "reviews": 10,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-08T00:13:34Z",
-  "lastContribution": "2026-03-14T12:02:34Z",
+  "firstContribution": "2026-03-10T01:32:30Z",
+  "lastContribution": "2026-03-10T11:35:11Z",
   "recentPRs": [
     {
       "number": 41592,
@@ -62,116 +53,20 @@
       "additions": 67,
       "deletions": 16,
       "changedFiles": 3
-    },
-    {
-      "number": 40305,
-      "title": "fix(gateway): abort timed-out local browser requests",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T22:12:08Z",
-      "mergedAt": null,
-      "additions": 1280,
-      "deletions": 465,
-      "changedFiles": 10
-    },
-    {
-      "number": 39277,
-      "title": "Fix browser timeout propagation for local actions and CLI commands",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T00:13:34Z",
-      "mergedAt": null,
-      "additions": 1630,
-      "deletions": 548,
-      "changedFiles": 30
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 40305,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-14T12:02:34Z"
-    },
-    {
-      "prNumber": 40305,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T23:47:59Z"
-    },
-    {
-      "prNumber": 40305,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T22:54:53Z"
-    },
-    {
-      "prNumber": 40305,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T22:41:05Z"
-    },
-    {
-      "prNumber": 40305,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T22:41:05Z"
-    },
-    {
-      "prNumber": 39277,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T01:15:15Z"
-    },
-    {
-      "prNumber": 39277,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T00:55:25Z"
-    },
-    {
-      "prNumber": 39277,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T00:43:36Z"
-    },
-    {
-      "prNumber": 39277,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T00:33:29Z"
-    },
-    {
-      "prNumber": 39277,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T00:33:23Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 8
-    },
-    "2026-03-14": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-13": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "reviewer",
-      "label": "Code Reviewer",
-      "description": "10+ reviews"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

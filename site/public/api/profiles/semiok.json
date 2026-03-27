@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1728693?u=97c158cc2c3e22ae7176b472f37d17404423116b&v=4",
   "githubUrl": "https://github.com/semiok",
   "score": {
-    "score": 111.49,
+    "score": 113.99,
     "prScore": 47.99,
     "issueScore": 49,
     "reviewScore": 12,
-    "commentScore": 2.5
+    "commentScore": 5
   },
   "tier": "regular",
-  "characterClass": "Hunter",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 5,
@@ -24,38 +24,29 @@
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 10
   },
   "period": {
     "weekly": {
-      "prs": 5,
-      "issues": 8,
-      "reviews": 4,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 5
     },
     "monthly": {
       "prs": 5,
       "issues": 8,
       "reviews": 4,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 10
     }
   },
   "firstContribution": "2026-03-16T02:59:24Z",
-  "lastContribution": "2026-03-19T10:11:15Z",
+  "lastContribution": "2026-03-22T06:19:41Z",
   "recentPRs": [
     {
       "number": 50358,
       "title": "fix: apply default timeout to subagent runs (#25992)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T10:01:37Z",
       "mergedAt": null,
@@ -77,7 +68,7 @@
     {
       "number": 50226,
       "title": "fix: surface skill parse diagnostics instead of silently dropping them",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T05:08:13Z",
       "mergedAt": null,
@@ -222,6 +213,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

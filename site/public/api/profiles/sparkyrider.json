@@ -3,55 +3,112 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/16215564?u=4c7e26818ae9d89afe529a130aae217fbe83e3f4&v=4",
   "githubUrl": "https://github.com/sparkyrider",
   "score": {
-    "score": 32.7,
-    "prScore": 29.7,
+    "score": 175.05,
+    "prScore": 141.55,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 0
+    "reviewScore": 27,
+    "commentScore": 6.5
   },
-  "tier": "beginner",
-  "characterClass": "Maintainer",
+  "tier": "regular",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 1,
-    "prAdditions": 47,
-    "prDeletions": 7,
-    "prChangedFiles": 7,
-    "prMergeRate": 100,
+    "prs": 7,
+    "prsMerged": 3,
+    "prAdditions": 1805,
+    "prDeletions": 52,
+    "prChangedFiles": 37,
+    "prMergeRate": 43,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 9,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 47,
-    "commitDeletions": 7,
-    "commitChangedFiles": 7
+    "comments": 13
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 6,
       "issues": 0,
-      "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 47,
-      "commitDeletions": 7,
-      "commits": 1
+      "reviews": 8,
+      "comments": 13
     },
     "monthly": {
-      "prs": 1,
+      "prs": 7,
       "issues": 0,
-      "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 47,
-      "commitDeletions": 7,
-      "commits": 1
+      "reviews": 9,
+      "comments": 13
     }
   },
   "firstContribution": "2026-03-16T21:16:05Z",
-  "lastContribution": "2026-03-16T21:31:18Z",
+  "lastContribution": "2026-03-27T06:01:13Z",
   "recentPRs": [
+    {
+      "number": 55596,
+      "title": "fix(CLI) Markdown table columns misaligned with CJK characters on Telegram and Discord",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T06:01:13Z",
+      "mergedAt": null,
+      "additions": 177,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 54619,
+      "title": "fix(onboarding): restore Kimi Code under Moonshot setup",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T18:23:46Z",
+      "mergedAt": "2026-03-26T04:16:40Z",
+      "additions": 32,
+      "deletions": 13,
+      "changedFiles": 5
+    },
+    {
+      "number": 54356,
+      "title": "fix(cron): queue main-session awareness for isolated deliveries",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T08:19:06Z",
+      "mergedAt": "2026-03-25T09:51:14Z",
+      "additions": 243,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 53501,
+      "title": "fix(cron): write delivered cron output into main session transcript",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T07:22:47Z",
+      "mergedAt": null,
+      "additions": 243,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 52170,
+      "title": "fix(cron): write delivered cron output back into main session transcript",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T09:26:16Z",
+      "mergedAt": null,
+      "additions": 1043,
+      "deletions": 18,
+      "changedFiles": 13
+    },
+    {
+      "number": 51529,
+      "title": "fix(plugins/runtime): fix api.runtime.version in bundled and npm installs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T09:32:33Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 10,
+      "changedFiles": 4
+    },
     {
       "number": 48494,
       "title": "fix(whatsapp): restore implicit reply mentions for LID identities",
@@ -67,12 +124,77 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 53501,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T08:17:22Z"
+    },
+    {
+      "prNumber": 53501,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T07:59:23Z"
+    },
+    {
+      "prNumber": 53501,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T07:57:54Z"
+    },
+    {
+      "prNumber": 52170,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T15:07:33Z"
+    },
+    {
+      "prNumber": 52170,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T15:07:26Z"
+    },
+    {
+      "prNumber": 52170,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T15:07:13Z"
+    },
+    {
+      "prNumber": 52170,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T10:11:58Z"
+    },
+    {
+      "prNumber": 52170,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T10:10:41Z"
+    },
+    {
       "prNumber": 48494,
       "state": "COMMENTED",
       "createdAt": "2026-03-16T21:31:18Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-16": {
       "prs": 1,
       "issues": 0,
@@ -81,10 +203,8 @@
   },
   "skills": [
     "Pull Requests",
-    "Code Review"
+    "Code Review",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-16": 1
-  }
+  "achievements": []
 }

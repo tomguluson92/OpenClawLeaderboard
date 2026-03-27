@@ -3,70 +3,138 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/28139727?u=1404e76a7b121976a0742ff2e995e6c29c617301&v=4",
   "githubUrl": "https://github.com/sasan1200",
   "score": {
-    "score": 23.02,
-    "prScore": 22.02,
+    "score": 289.91,
+    "prScore": 262.41,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 1
+    "reviewScore": 24,
+    "commentScore": 3.5
   },
-  "tier": "beginner",
-  "characterClass": "Builder",
+  "tier": "active",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 9,
     "prsMerged": 0,
-    "prAdditions": 199,
-    "prDeletions": 10,
-    "prChangedFiles": 5,
+    "prAdditions": 590629,
+    "prDeletions": 3126,
+    "prChangedFiles": 2129,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 7
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 7,
       "issues": 0,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 8,
+      "comments": 5
     },
     "monthly": {
-      "prs": 2,
+      "prs": 9,
       "issues": 0,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 8,
+      "comments": 7
     }
   },
   "firstContribution": "2026-03-11T23:19:42Z",
-  "lastContribution": "2026-03-18T20:05:23Z",
+  "lastContribution": "2026-03-26T16:06:17Z",
   "recentPRs": [
     {
-      "number": 49493,
+      "number": 54221,
+      "title": "Perf/sessions list result cache v2",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T04:10:05Z",
+      "mergedAt": null,
+      "additions": 1344,
+      "deletions": 38,
+      "changedFiles": 26
+    },
+    {
+      "number": 54179,
+      "title": "perf: add sessions.list result cache with hash-based change detection",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T02:40:10Z",
+      "mergedAt": null,
+      "additions": 10355,
+      "deletions": 36,
+      "changedFiles": 24
+    },
+    {
+      "number": 53822,
+      "title": "Feat/sandbox docker volumes strategies",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T17:04:24Z",
+      "mergedAt": null,
+      "additions": 242,
+      "deletions": 2,
+      "changedFiles": 8
+    },
+    {
+      "number": 53821,
+      "title": "Add per-agent sandbox session visibility override feature",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T17:04:19Z",
+      "mergedAt": null,
+      "additions": 210,
+      "deletions": 10,
+      "changedFiles": 7
+    },
+    {
+      "number": 53820,
+      "title": "Memory: cap Ollama embed batch fan-out to prevent index fetch failures",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T17:04:14Z",
+      "mergedAt": null,
+      "additions": 84,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 53819,
       "title": "Agents: enable Codex parallel tool calls",
       "state": "OPEN",
       "merged": false,
+      "createdAt": "2026-03-24T17:04:06Z",
+      "mergedAt": null,
+      "additions": 118,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 53362,
+      "title": "fix: K8s Tonya qmd SQLite + bun perms",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T03:40:58Z",
+      "mergedAt": null,
+      "additions": 578074,
+      "deletions": 3020,
+      "changedFiles": 2054
+    },
+    {
+      "number": 49493,
+      "title": "Agents: enable Codex parallel tool calls",
+      "state": "CLOSED",
+      "merged": false,
       "createdAt": "2026-03-18T05:16:28Z",
       "mergedAt": null,
-      "additions": 115,
+      "additions": 118,
       "deletions": 9,
       "changedFiles": 3
     },
     {
       "number": 43516,
       "title": "Memory: cap Ollama embed batch fan-out to prevent index fetch failures",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T23:19:42Z",
       "mergedAt": null,
@@ -76,8 +144,59 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 54221,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T16:06:17Z"
+    },
+    {
+      "prNumber": 54221,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T16:05:31Z"
+    },
+    {
+      "prNumber": 54221,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T16:35:17Z"
+    },
+    {
+      "prNumber": 54221,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T08:51:29Z"
+    },
+    {
+      "prNumber": 54179,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T03:08:33Z"
+    },
+    {
+      "prNumber": 54179,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T03:08:32Z"
+    },
+    {
+      "prNumber": 54179,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T03:08:31Z"
+    },
+    {
+      "prNumber": 54179,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T03:08:29Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-24": {
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 0,
@@ -87,12 +206,29 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
     }
   },
   "skills": [
     "Pull Requests",
-    "Discussion"
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ]
 }

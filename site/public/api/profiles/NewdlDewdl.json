@@ -3,59 +3,83 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/230946873?u=a90f00a101b89e5a4a63f93f381811207d4c831f&v=4",
   "githubUrl": "https://github.com/NewdlDewdl",
   "score": {
-    "score": 180.89,
-    "prScore": 175.89,
+    "score": 124.59,
+    "prScore": 119.09,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 5.5
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 12,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 1585,
-    "prDeletions": 115,
-    "prChangedFiles": 38,
+    "prAdditions": 7017,
+    "prDeletions": 33,
+    "prChangedFiles": 29,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 42,
-    "commitDeletions": 13,
-    "commitChangedFiles": 3
+    "comments": 11
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 5
     },
     "monthly": {
-      "prs": 12,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 42,
-      "commitDeletions": 13,
-      "commits": 1
+      "comments": 11
     }
   },
-  "firstContribution": "2026-03-06T10:39:44Z",
-  "lastContribution": "2026-03-12T09:35:24Z",
+  "firstContribution": "2026-03-09T21:46:35Z",
+  "lastContribution": "2026-03-25T23:18:30Z",
   "recentPRs": [
+    {
+      "number": 54654,
+      "title": "fix(feishu): validate card has content before sending - reject empty cards",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T19:26:55Z",
+      "mergedAt": null,
+      "additions": 16,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 52348,
+      "title": "fix(docker): reject /root/.openclaw config dir to prevent silent non-root write failures",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T15:56:56Z",
+      "mergedAt": null,
+      "additions": 1367,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 52057,
+      "title": "fix(browser): add explicit enabled check to status endpoint",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T03:52:37Z",
+      "mergedAt": null,
+      "additions": 2995,
+      "deletions": 0,
+      "changedFiles": 6
+    },
     {
       "number": 43826,
       "title": "fix: keep session model overrides from silently falling back",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T07:53:05Z",
       "mergedAt": null,
@@ -66,128 +90,39 @@
     {
       "number": 42761,
       "title": "fix(web_search): normalize Chinese locale-style search_lang variants",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T03:45:14Z",
       "mergedAt": null,
-      "additions": 163,
-      "deletions": 8,
+      "additions": 2031,
+      "deletions": 6,
       "changedFiles": 3
     },
     {
       "number": 41460,
       "title": "cron: self-heal degraded isolated runner lanes after repeated failures",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T21:46:35Z",
       "mergedAt": null,
       "additions": 568,
       "deletions": 19,
       "changedFiles": 10
-    },
-    {
-      "number": 40448,
-      "title": "fix(skills): surface tool-policy blocked skills in status output",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T01:52:16Z",
-      "mergedAt": null,
-      "additions": 329,
-      "deletions": 61,
-      "changedFiles": 8
-    },
-    {
-      "number": 40359,
-      "title": "fix(feishu): recover group peer routing on named accounts",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T23:39:40Z",
-      "mergedAt": null,
-      "additions": 98,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 40200,
-      "title": "fix(exec): prevent shell startup files from overriding daemon env",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T19:36:08Z",
-      "mergedAt": null,
-      "additions": 35,
-      "deletions": 7,
-      "changedFiles": 2
-    },
-    {
-      "number": 39872,
-      "title": "fix(macos): disable KeepAlive in app launch agent to allow proper quit",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T13:26:37Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 39463,
-      "title": "fix: improve npm install resilience on low-memory systems",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T04:36:46Z",
-      "mergedAt": null,
-      "additions": 199,
-      "deletions": 2,
-      "changedFiles": 1
-    },
-    {
-      "number": 39090,
-      "title": "fix(browser): preserve dispatcher errors instead of wrapping as 'can't reach service'",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T18:31:28Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 0,
-      "changedFiles": 1
-    },
-    {
-      "number": 38713,
-      "title": "fix(skills): resolve `skills info` name mismatches",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T09:19:25Z",
-      "mergedAt": null,
-      "additions": 69,
-      "deletions": 8,
-      "changedFiles": 2
-    },
-    {
-      "number": 38701,
-      "title": "fix(skills): resolve `skills info` name mismatches",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T08:52:44Z",
-      "mergedAt": null,
-      "additions": 73,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 37654,
-      "title": "fix(media): re-apply media file mode after writes",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T10:39:44Z",
-      "mergedAt": null,
-      "additions": 3,
-      "deletions": 0,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -199,21 +134,6 @@
       "reviews": 0
     },
     "2026-03-09": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -221,16 +141,8 @@
   },
   "skills": [
     "Pull Requests",
-    "Discussion"
+    "Discussion",
+    "Large-Scale Changes"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-02-28": 1
-  }
+  "achievements": []
 }

@@ -1,0 +1,132 @@
+{
+  "username": "upsightx",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/127651198?v=4",
+  "githubUrl": "https://github.com/upsightx",
+  "score": {
+    "score": 56.16,
+    "prScore": 18.66,
+    "issueScore": 36,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 56,
+    "prDeletions": 18,
+    "prChangedFiles": 9,
+    "prMergeRate": 0,
+    "issues": 6,
+    "issuesClosed": 2,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 3
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 6,
+      "reviews": 0,
+      "comments": 3
+    }
+  },
+  "firstContribution": "2026-03-17T11:38:08Z",
+  "lastContribution": "2026-03-27T02:23:21Z",
+  "recentPRs": [
+    {
+      "number": 52759,
+      "title": "fix: enable loop detection + graceful read offset (closes #52680)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T09:30:49Z",
+      "mergedAt": null,
+      "additions": 56,
+      "deletions": 18,
+      "changedFiles": 9
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 55493,
+      "title": "Feature request: unified background task status dashboard",
+      "state": "OPEN",
+      "createdAt": "2026-03-27T02:23:18Z",
+      "closedAt": null
+    },
+    {
+      "number": 55492,
+      "title": "Feature request: unified execution planner for task routing",
+      "state": "OPEN",
+      "createdAt": "2026-03-27T02:23:17Z",
+      "closedAt": null
+    },
+    {
+      "number": 55491,
+      "title": "Feature request: unified execution planner and background task status dashboard",
+      "state": "CLOSED",
+      "createdAt": "2026-03-27T02:21:45Z",
+      "closedAt": "2026-03-27T02:23:21Z"
+    },
+    {
+      "number": 52902,
+      "title": "2026.3.22 plugin-sdk breaking change breaks openclaw-lark plugin",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T13:55:43Z",
+      "closedAt": "2026-03-23T14:09:40Z"
+    },
+    {
+      "number": 52861,
+      "title": "perf: reduce per-turn token overhead via conditional tool/skill injection",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T13:08:03Z",
+      "closedAt": null
+    },
+    {
+      "number": 48964,
+      "title": "Feature: Sub-agent should auto-save progress on timeout",
+      "state": "OPEN",
+      "createdAt": "2026-03-17T11:38:08Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-27": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    },
+    "2026-03-17": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ]
+}

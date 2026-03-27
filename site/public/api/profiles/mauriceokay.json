@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/132470536?v=4",
   "githubUrl": "https://github.com/mauriceokay",
   "score": {
-    "score": 161.64,
-    "prScore": 161.14,
+    "score": 152.25,
+    "prScore": 151.75,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,43 +13,34 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 6977,
-    "prDeletions": 180,
-    "prChangedFiles": 88,
+    "prAdditions": 5989,
+    "prDeletions": 112,
+    "prChangedFiles": 72,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-09T12:54:45Z",
+  "firstContribution": "2026-03-13T14:26:14Z",
   "lastContribution": "2026-03-13T16:34:34Z",
   "recentPRs": [
     {
@@ -84,17 +75,6 @@
       "additions": 5764,
       "deletions": 45,
       "changedFiles": 67
-    },
-    {
-      "number": 41002,
-      "title": "Claude/this one 9 j hd z",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T12:54:45Z",
-      "mergedAt": null,
-      "additions": 988,
-      "deletions": 68,
-      "changedFiles": 16
     }
   ],
   "recentIssues": [],
@@ -104,11 +84,6 @@
       "prs": 3,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -116,6 +91,5 @@
     "Discussion",
     "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

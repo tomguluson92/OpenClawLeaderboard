@@ -3,92 +3,51 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4291901?v=4",
   "githubUrl": "https://github.com/daymade",
   "score": {
-    "score": 47.12,
-    "prScore": 37.62,
-    "issueScore": 8,
+    "score": 15,
+    "prScore": 15,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 3,
-    "prs": 1,
-    "prsMerged": 1,
-    "prAdditions": 20,
-    "prDeletions": 17,
-    "prChangedFiles": 3,
-    "prMergeRate": 100,
-    "issues": 1,
-    "issuesClosed": 1,
+    "prs": 0,
+    "prsMerged": 0,
+    "prAdditions": 0,
+    "prDeletions": 0,
+    "prChangedFiles": 0,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 36,
-    "commitDeletions": 33,
-    "commitChangedFiles": 6
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 36,
-      "commitDeletions": 33,
-      "commits": 3
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-08T11:19:35Z",
-  "lastContribution": "2026-03-08T12:06:08Z",
-  "recentPRs": [
-    {
-      "number": 39763,
-      "title": "fix(darwin): remove self-kickstart from launchd gateway restart; rely on KeepAlive",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T11:21:08Z",
-      "mergedAt": "2026-03-08T13:42:51Z",
-      "additions": 20,
-      "deletions": 17,
-      "changedFiles": 3
-    }
-  ],
-  "recentIssues": [
-    {
-      "number": 39760,
-      "title": "fix(darwin): launchd gateway self-restart permanently unloads LaunchAgent",
-      "state": "CLOSED",
-      "createdAt": "2026-03-08T11:19:35Z",
-      "closedAt": "2026-03-08T13:42:51Z"
-    }
-  ],
+  "firstContribution": null,
+  "lastContribution": null,
+  "recentPRs": [],
+  "recentIssues": [],
   "recentReviews": [],
-  "recentActivityDays": {
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    }
-  },
+  "recentActivityDays": {},
   "skills": [
-    "Pull Requests",
-    "Issue Reporting",
-    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-08": 3
-  }
+  "achievements": []
 }

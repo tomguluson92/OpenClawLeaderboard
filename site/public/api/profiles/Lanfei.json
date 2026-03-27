@@ -3,59 +3,83 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2156642?v=4",
   "githubUrl": "https://github.com/Lanfei",
   "score": {
-    "score": 194.56,
-    "prScore": 180.06,
+    "score": 250.28,
+    "prScore": 223.78,
     "issueScore": 0,
-    "reviewScore": 12,
+    "reviewScore": 24,
     "commentScore": 2.5
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "active",
+  "characterClass": "Maintainer",
   "stats": {
-    "commits": 7,
-    "prs": 6,
-    "prsMerged": 1,
-    "prAdditions": 252,
-    "prDeletions": 47,
-    "prChangedFiles": 26,
-    "prMergeRate": 17,
+    "commits": 8,
+    "prs": 9,
+    "prsMerged": 2,
+    "prAdditions": 1164,
+    "prDeletions": 940,
+    "prChangedFiles": 51,
+    "prMergeRate": 22,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 4,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 410,
-    "commitDeletions": 79,
-    "commitChangedFiles": 24
+    "comments": 5
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 69,
-      "commitDeletions": 32,
-      "commits": 2
-    },
-    "monthly": {
-      "prs": 6,
+      "prs": 3,
       "issues": 0,
       "reviews": 4,
-      "comments": 5,
-      "commitAdditions": 410,
-      "commitDeletions": 79,
-      "commits": 7
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 9,
+      "issues": 0,
+      "reviews": 8,
+      "comments": 5
     }
   },
   "firstContribution": "2026-03-11T05:38:45Z",
-  "lastContribution": "2026-03-14T02:31:57Z",
+  "lastContribution": "2026-03-26T18:49:12Z",
   "recentPRs": [
+    {
+      "number": 53778,
+      "title": "feat(web-search): add baseUrl config support for Grok and Gemini providers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T15:59:53Z",
+      "mergedAt": null,
+      "additions": 839,
+      "deletions": 844,
+      "changedFiles": 13
+    },
+    {
+      "number": 53738,
+      "title": "fix(media-tools): apply models.providers baseUrl override in image and pdf tools",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T14:21:16Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 18,
+      "changedFiles": 5
+    },
+    {
+      "number": 53529,
+      "title": "chore(tts): rename VOICE_BUBBLE identifiers to OPUS and update docs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T07:59:22Z",
+      "mergedAt": "2026-03-25T05:19:21Z",
+      "additions": 31,
+      "deletions": 31,
+      "changedFiles": 7
+    },
     {
       "number": 44800,
       "title": "fix(media-tools): apply models.provider baseUrl override in image-tool and pdf-tool",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T07:18:32Z",
       "mergedAt": null,
@@ -88,7 +112,7 @@
     {
       "number": 43785,
       "title": "feat(web-search): add baseUrl config support for proxy-compatible endpoints",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T07:12:35Z",
       "mergedAt": null,
@@ -99,7 +123,7 @@
     {
       "number": 42880,
       "title": "skill(nano-banana-pro): add --base-url / GEMINI_BASE_URL proxy support",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T06:15:30Z",
       "mergedAt": null,
@@ -122,6 +146,26 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 53778,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T18:49:12Z"
+    },
+    {
+      "prNumber": 53738,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T17:06:37Z"
+    },
+    {
+      "prNumber": 53738,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T16:48:47Z"
+    },
+    {
+      "prNumber": 53738,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T16:03:27Z"
+    },
+    {
       "prNumber": 44800,
       "state": "COMMENTED",
       "createdAt": "2026-03-13T07:31:29Z"
@@ -143,6 +187,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 3
+    },
     "2026-03-13": {
       "prs": 3,
       "issues": 0,
@@ -157,6 +206,11 @@
       "prs": 2,
       "issues": 0,
       "reviews": 1
+    },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
@@ -165,11 +219,5 @@
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-13": 4,
-    "2026-03-03": 1,
-    "2026-03-02": 1,
-    "2026-02-28": 1
-  }
+  "achievements": []
 }

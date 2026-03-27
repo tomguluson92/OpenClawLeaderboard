@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3682462?u=6c2665c772c5e56cddf3146bd0613ca17cd8210d&v=4",
   "githubUrl": "https://github.com/caiqinghua",
   "score": {
-    "score": 25.17,
+    "score": 18.67,
     "prScore": 18.17,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,38 +19,29 @@
     "prDeletions": 2,
     "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-10T04:18:50Z",
-  "lastContribution": "2026-03-10T06:07:33Z",
+  "lastContribution": "2026-03-10T06:05:27Z",
   "recentPRs": [
     {
       "number": 41822,
@@ -75,28 +66,18 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41731,
-      "title": "docs: zh-CN homepage links redirect to English pages",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T04:23:13Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

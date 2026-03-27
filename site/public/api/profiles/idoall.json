@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6040958?v=4",
   "githubUrl": "https://github.com/idoall",
   "score": {
-    "score": 7.97,
+    "score": 24.97,
     "prScore": 7.97,
-    "issueScore": 0,
+    "issueScore": 16,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 1
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 1,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 0,
-    "issuesClosed": 0,
+    "issues": 2,
+    "issuesClosed": 2,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 0,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-13T15:08:44Z",
-  "lastContribution": "2026-03-13T15:08:44Z",
+  "lastContribution": "2026-03-20T15:07:26Z",
   "recentPRs": [
     {
       "number": 45220,
@@ -64,18 +55,39 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 51103,
+      "title": "UI Bug: Chat messages in Control UI are not selectable/copyable",
+      "state": "CLOSED",
+      "createdAt": "2026-03-20T15:05:40Z",
+      "closedAt": "2026-03-20T15:07:27Z"
+    },
+    {
+      "number": 51102,
+      "title": "Feature Request: Support HarmonyOS (鸿蒙) Node Pairing via QR Code",
+      "state": "CLOSED",
+      "createdAt": "2026-03-20T15:04:10Z",
+      "closedAt": "2026-03-20T15:07:12Z"
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

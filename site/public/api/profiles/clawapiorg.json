@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/264796267?u=a94bb7355faa62663d0626341da90730d90d3be4&v=4",
   "githubUrl": "https://github.com/clawapiorg",
   "score": {
-    "score": 55.47,
-    "prScore": 36.47,
+    "score": 57.76,
+    "prScore": 38.76,
     "issueScore": 5,
     "reviewScore": 12,
     "commentScore": 2
@@ -15,38 +15,29 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 463,
+    "prAdditions": 505,
     "prDeletions": 0,
-    "prChangedFiles": 16,
+    "prChangedFiles": 17,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 4,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 4,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
   "firstContribution": "2026-03-16T01:15:03Z",
@@ -55,13 +46,13 @@
     {
       "number": 47809,
       "title": "feat: add ClawAPI as built-in provider — crypto-native multi-model gateway",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-16T02:22:20Z",
       "mergedAt": null,
-      "additions": 463,
+      "additions": 505,
       "deletions": 0,
-      "changedFiles": 16
+      "changedFiles": 17
     }
   ],
   "recentIssues": [
@@ -114,6 +105,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

@@ -3,132 +3,94 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/132033603?v=4",
   "githubUrl": "https://github.com/navendugoyal19",
   "score": {
-    "score": 53.2,
-    "prScore": 21.7,
-    "issueScore": 28,
+    "score": 27.17,
+    "prScore": 9.17,
+    "issueScore": 18,
     "reviewScore": 0,
-    "commentScore": 3.5
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 445,
-    "prDeletions": 11,
-    "prChangedFiles": 8,
+    "prAdditions": 35,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 5,
+    "issues": 3,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 3,
+      "prs": 1,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 5,
+      "issues": 3,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-03T23:58:17Z",
-  "lastContribution": "2026-03-13T07:52:37Z",
+  "firstContribution": "2026-03-13T07:52:37Z",
+  "lastContribution": "2026-03-24T00:21:57Z",
   "recentPRs": [
     {
-      "number": 35116,
-      "title": "fix(ui): prevent webchat message disappearance on loadChatHistory race condition",
+      "number": 53243,
+      "title": "Raise chat.history text cap to avoid premature truncation",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-05T00:46:42Z",
+      "createdAt": "2026-03-24T00:21:57Z",
       "mergedAt": null,
-      "additions": 445,
-      "deletions": 11,
-      "changedFiles": 8
+      "additions": 35,
+      "deletions": 1,
+      "changedFiles": 2
     }
   ],
   "recentIssues": [
+    {
+      "number": 53242,
+      "title": "Bug: chat.history truncates long assistant messages at 12k chars even when they fit the history budget",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T00:21:45Z",
+      "closedAt": null
+    },
+    {
+      "number": 47123,
+      "title": "Webchat: messages silently truncated at ~4000 chars with no config override",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T09:10:27Z",
+      "closedAt": null
+    },
     {
       "number": 44844,
       "title": "Control UI/webchat: `New messages` pill can render as huge malformed overlay",
       "state": "CLOSED",
       "createdAt": "2026-03-13T07:52:37Z",
       "closedAt": "2026-03-13T19:03:03Z"
-    },
-    {
-      "number": 43037,
-      "title": "Control UI loses gateway token when switching between agent sessions",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:30:17Z",
-      "closedAt": null
-    },
-    {
-      "number": 40945,
-      "title": "Control UI chat markdown only renders data URI images, not remote https image URLs",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T11:53:12Z",
-      "closedAt": null
-    },
-    {
-      "number": 39466,
-      "title": "[Bug] Webchat: Assistant text vanishes when tool calls follow text output in same response",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T04:40:50Z",
-      "closedAt": null
-    },
-    {
-      "number": 33641,
-      "title": "[Bug] Webchat: previous assistant message disappears when next message streams (blockStreamingDefault conflict)",
-      "state": "OPEN",
-      "createdAt": "2026-03-03T23:58:17Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-05": {
+    "2026-03-24": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     },
     "2026-03-13": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-03": {
       "prs": 0,
       "issues": 1,
       "reviews": 0
@@ -136,15 +98,7 @@
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
-    "Discussion"
+    "Issue Reporting"
   ],
-  "achievements": [
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

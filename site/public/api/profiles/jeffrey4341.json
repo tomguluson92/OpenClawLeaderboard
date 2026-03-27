@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/77844634?v=4",
   "githubUrl": "https://github.com/jeffrey4341",
   "score": {
-    "score": 125.91,
-    "prScore": 110.41,
+    "score": 105.12,
+    "prScore": 91.12,
     "issueScore": 10,
     "reviewScore": 0,
-    "commentScore": 5.5
+    "commentScore": 4
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 1153,
-    "prDeletions": 90,
-    "prChangedFiles": 32,
+    "prAdditions": 939,
+    "prDeletions": 81,
+    "prChangedFiles": 27,
     "prMergeRate": 0,
     "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 8
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 5,
       "issues": 2,
       "reviews": 0,
-      "comments": 9,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 6,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 11,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 8
     }
   },
-  "firstContribution": "2026-03-06T07:55:56Z",
+  "firstContribution": "2026-03-14T20:26:49Z",
   "lastContribution": "2026-03-19T12:34:43Z",
   "recentPRs": [
     {
@@ -59,8 +50,8 @@
       "merged": false,
       "createdAt": "2026-03-19T12:04:20Z",
       "mergedAt": null,
-      "additions": 542,
-      "deletions": 31,
+      "additions": 538,
+      "deletions": 26,
       "changedFiles": 10
     },
     {
@@ -106,17 +97,6 @@
       "additions": 161,
       "deletions": 27,
       "changedFiles": 7
-    },
-    {
-      "number": 37429,
-      "title": "Defer WhatsApp startup readiness errors in delivery recovery",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T07:55:56Z",
-      "mergedAt": null,
-      "additions": 210,
-      "deletions": 4,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [
@@ -156,11 +136,6 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -168,6 +143,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

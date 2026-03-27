@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/145587051?v=4",
   "githubUrl": "https://github.com/PabloDaVa",
   "score": {
-    "score": 23.77,
+    "score": 25.77,
     "prScore": 8.27,
     "issueScore": 15,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 2.5
   },
   "tier": "beginner",
   "characterClass": "Hunter",
@@ -15,8 +15,8 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 68,
-    "prDeletions": 1,
+    "prAdditions": 65,
+    "prDeletions": 2,
     "prChangedFiles": 1,
     "prMergeRate": 0,
     "issues": 3,
@@ -24,33 +24,24 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 5
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 3,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     },
     "monthly": {
       "prs": 1,
       "issues": 3,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 5
     }
   },
   "firstContribution": "2026-03-12T13:46:02Z",
-  "lastContribution": "2026-03-15T00:57:24Z",
+  "lastContribution": "2026-03-25T18:45:59Z",
   "recentPRs": [
     {
       "number": 44080,
@@ -59,8 +50,8 @@
       "merged": false,
       "createdAt": "2026-03-12T13:46:02Z",
       "mergedAt": null,
-      "additions": 68,
-      "deletions": 1,
+      "additions": 65,
+      "deletions": 2,
       "changedFiles": 1
     }
   ],
@@ -115,6 +106,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

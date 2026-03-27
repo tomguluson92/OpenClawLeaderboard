@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/115475729?v=4",
   "githubUrl": "https://github.com/yangyitao100",
   "score": {
-    "score": 163.21,
-    "prScore": 158.71,
+    "score": 174.9,
+    "prScore": 168.4,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 4.5
+    "commentScore": 6.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 13,
+    "prs": 14,
     "prsMerged": 0,
-    "prAdditions": 892,
-    "prDeletions": 41,
-    "prChangedFiles": 33,
+    "prAdditions": 943,
+    "prDeletions": 50,
+    "prChangedFiles": 34,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 13
   },
   "period": {
     "weekly": {
-      "prs": 12,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     },
     "monthly": {
-      "prs": 13,
+      "prs": 14,
       "issues": 0,
       "reviews": 0,
-      "comments": 9,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 13
     }
   },
   "firstContribution": "2026-03-13T07:33:16Z",
-  "lastContribution": "2026-03-16T03:46:40Z",
+  "lastContribution": "2026-03-21T03:42:35Z",
   "recentPRs": [
+    {
+      "number": 51402,
+      "title": "fix(ci): remove stale runtime-matrix.ts from plugin-extension-boundary baseline",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T03:26:37Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 8,
+      "changedFiles": 1
+    },
     {
       "number": 47854,
       "title": "fix(models): reflect context1m config in models list contextWindow display",
@@ -103,8 +105,8 @@
       "merged": false,
       "createdAt": "2026-03-15T02:45:17Z",
       "mergedAt": null,
-      "additions": 23,
-      "deletions": 0,
+      "additions": 74,
+      "deletions": 1,
       "changedFiles": 1
     },
     {
@@ -176,7 +178,7 @@
     {
       "number": 44974,
       "title": "feat(skills): add global env overrides shared across all skills",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-13T10:14:30Z",
       "mergedAt": null,
@@ -199,6 +201,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-16": {
       "prs": 1,
       "issues": 0,
@@ -225,6 +232,5 @@
       "label": "PR Machine",
       "description": "10+ pull requests"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

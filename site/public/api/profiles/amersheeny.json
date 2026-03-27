@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7223047?u=743d271f60de4b0b64539059c139016365765888&v=4",
   "githubUrl": "https://github.com/amersheeny",
   "score": {
-    "score": 16.88,
-    "prScore": 7.88,
+    "score": 57.97,
+    "prScore": 48.97,
     "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 0
   },
-  "tier": "beginner",
-  "characterClass": "Reviewer",
+  "tier": "regular",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 13,
-    "prDeletions": 5,
-    "prChangedFiles": 1,
+    "prAdditions": 110,
+    "prDeletions": 89,
+    "prChangedFiles": 22,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-15T16:49:08Z",
-  "lastContribution": "2026-03-15T17:26:59Z",
+  "lastContribution": "2026-03-22T16:23:03Z",
   "recentPRs": [
+    {
+      "number": 52364,
+      "title": "style(macos): auto-format Swift sources with swiftformat",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T16:23:03Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 42,
+      "changedFiles": 10
+    },
     {
       "number": 47493,
       "title": "fix(doctor): show per-step progress spinners during update",
@@ -59,9 +61,9 @@
       "merged": false,
       "createdAt": "2026-03-15T16:49:08Z",
       "mergedAt": null,
-      "additions": 13,
-      "deletions": 5,
-      "changedFiles": 1
+      "additions": 65,
+      "deletions": 47,
+      "changedFiles": 12
     }
   ],
   "recentIssues": [],
@@ -83,6 +85,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
@@ -93,6 +100,5 @@
     "Pull Requests",
     "Code Review"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

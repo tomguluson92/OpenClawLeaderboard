@@ -1,0 +1,176 @@
+{
+  "username": "IVY-AI-gif",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62232838?u=2a16c1a19b1400603d374a0c41d4cadcdc32316a&v=4",
+  "githubUrl": "https://github.com/IVY-AI-gif",
+  "score": {
+    "score": 67.9,
+    "prScore": 28.9,
+    "issueScore": 5,
+    "reviewScore": 30,
+    "commentScore": 4
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 184,
+    "prDeletions": 9,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 10,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 8
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 10,
+      "comments": 8
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 10,
+      "comments": 8
+    }
+  },
+  "firstContribution": "2026-03-22T15:45:23Z",
+  "lastContribution": "2026-03-24T02:00:18Z",
+  "recentPRs": [
+    {
+      "number": 53039,
+      "title": "fix(discord): prevent Identify silent-drop race in gateway startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T17:17:44Z",
+      "mergedAt": null,
+      "additions": 99,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 52395,
+      "title": "fix(usage): match streaming usage compat by baseUrl, not provider key",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T17:18:49Z",
+      "mergedAt": null,
+      "additions": 18,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 52349,
+      "title": "fix(usage): improve MiniMax coding-plan usage parsing for model_remains array",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T16:01:04Z",
+      "mergedAt": null,
+      "additions": 67,
+      "deletions": 5,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 52335,
+      "title": "[Bug]: minimax-portal OAuth usage tracker reports \"0% left\" despite full MiniMax balance — blocks Discord but CLI works",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T15:45:23Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 53039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T02:00:18Z"
+    },
+    {
+      "prNumber": 53039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T02:00:14Z"
+    },
+    {
+      "prNumber": 53039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T17:27:11Z"
+    },
+    {
+      "prNumber": 53039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T17:25:02Z"
+    },
+    {
+      "prNumber": 53039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T17:24:51Z"
+    },
+    {
+      "prNumber": 52349,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:42:40Z"
+    },
+    {
+      "prNumber": 52349,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:42:35Z"
+    },
+    {
+      "prNumber": 52349,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:42:30Z"
+    },
+    {
+      "prNumber": 52349,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:42:27Z"
+    },
+    {
+      "prNumber": 52349,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:42:24Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 5
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

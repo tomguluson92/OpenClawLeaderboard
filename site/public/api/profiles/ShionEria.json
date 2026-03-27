@@ -3,55 +3,233 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/267903315?u=12e8ec3f9ebc917fe17cd6e252bac396745a8343&v=4",
   "githubUrl": "https://github.com/ShionEria",
   "score": {
-    "score": 124.2,
-    "prScore": 111.7,
+    "score": 326.73,
+    "prScore": 311.73,
     "issueScore": 0,
     "reviewScore": 9,
-    "commentScore": 3.5
+    "commentScore": 6
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 11,
+    "prs": 28,
     "prsMerged": 0,
-    "prAdditions": 307,
-    "prDeletions": 17,
-    "prChangedFiles": 20,
+    "prAdditions": 1691,
+    "prDeletions": 550,
+    "prChangedFiles": 63,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 12
   },
   "period": {
     "weekly": {
-      "prs": 11,
+      "prs": 17,
       "issues": 0,
-      "reviews": 3,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 5
     },
     "monthly": {
-      "prs": 11,
+      "prs": 28,
       "issues": 0,
       "reviews": 3,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 12
     }
   },
   "firstContribution": "2026-03-16T10:04:36Z",
-  "lastContribution": "2026-03-19T06:38:27Z",
+  "lastContribution": "2026-03-27T06:38:13Z",
   "recentPRs": [
+    {
+      "number": 55615,
+      "title": "fix(memory): resolve provider auth targets for CLI search",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T06:38:13Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 55610,
+      "title": "fix(acp): avoid duplicate final reply after routed block",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T06:23:31Z",
+      "mergedAt": null,
+      "additions": 79,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 55591,
+      "title": "fix(daemon): avoid false 'not installed' launchagent status",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T05:54:33Z",
+      "mergedAt": null,
+      "additions": 45,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 55579,
+      "title": "fix(agents): classify nested HTTP 500 for failover",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T05:31:26Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 55567,
+      "title": "fix(browser): restore browser tabs action syntax compatibility",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T04:52:45Z",
+      "mergedAt": null,
+      "additions": 140,
+      "deletions": 36,
+      "changedFiles": 2
+    },
+    {
+      "number": 55558,
+      "title": "fix(discord): suppress expected reconnect-exhausted on stale-socket restart",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T04:17:23Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 54951,
+      "title": "fix: show file alias in tool display summaries",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T06:13:22Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 52624,
+      "title": "fix: keep unknown /status usage unknown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T04:18:59Z",
+      "mergedAt": null,
+      "additions": 27,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 52622,
+      "title": "docs: clarify web_search provider differences",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T04:13:26Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 52066,
+      "title": "fix(plugins): cache snapshot plugin registries",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T04:07:46Z",
+      "mergedAt": null,
+      "additions": 88,
+      "deletions": 24,
+      "changedFiles": 4
+    },
+    {
+      "number": 51366,
+      "title": "fix(acpx): make Claude CLI spawn robust on Windows",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T01:35:51Z",
+      "mergedAt": null,
+      "additions": 120,
+      "deletions": 31,
+      "changedFiles": 2
+    },
+    {
+      "number": 51365,
+      "title": "fix(cron): skip announce delivery for NO_REPLY",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T01:35:43Z",
+      "mergedAt": null,
+      "additions": 98,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 51364,
+      "title": "docs(browser): use wss:// for Browserless CDP URL",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T01:35:36Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 51320,
+      "title": "docs: add exec-provider secrets guide",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T23:25:37Z",
+      "mergedAt": null,
+      "additions": 201,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 51089,
+      "title": "docs: clarify Media Understanding apiKey sources",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T14:34:40Z",
+      "mergedAt": null,
+      "additions": 17,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 51019,
+      "title": "skill(gh-issues): split oversized references from SKILL.md",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T12:00:28Z",
+      "mergedAt": null,
+      "additions": 439,
+      "deletions": 394,
+      "changedFiles": 4
+    },
+    {
+      "number": 50997,
+      "title": "fix(web): stop silently rewriting /tasks route",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T11:02:26Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 50276,
       "title": "fix(slack): support [[reply_to_current]] thread replies",
@@ -77,101 +255,13 @@
     {
       "number": 49810,
       "title": "fix: add evaluateEnabled to Zod SandboxBrowserSchema",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T13:00:59Z",
       "mergedAt": null,
       "additions": 48,
       "deletions": 0,
       "changedFiles": 4
-    },
-    {
-      "number": 49724,
-      "title": "fix: trigger model failover for generic provider error messages",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-18T10:05:46Z",
-      "mergedAt": null,
-      "additions": 29,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 49697,
-      "title": "fix: add error recovery to UI lazy module loading",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-18T09:21:47Z",
-      "mergedAt": null,
-      "additions": 11,
-      "deletions": 5,
-      "changedFiles": 1
-    },
-    {
-      "number": 49462,
-      "title": "fix: trigger model fallback for all api_error responses",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-18T04:42:55Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 4,
-      "changedFiles": 2
-    },
-    {
-      "number": 48921,
-      "title": "fix: add snake_case tool call types to isRawToolCallBlock",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-17T10:17:18Z",
-      "mergedAt": null,
-      "additions": 23,
-      "deletions": 3,
-      "changedFiles": 2
-    },
-    {
-      "number": 48835,
-      "title": "feat(tui): add --theme CLI flag for light/dark theme selection",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-17T07:40:54Z",
-      "mergedAt": null,
-      "additions": 13,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 48291,
-      "title": "fix: skills list should prefer cwd-matched workspace over default agent",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-16T15:03:14Z",
-      "mergedAt": null,
-      "additions": 26,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 48193,
-      "title": "fix: increase WebSocket handshake timeout for lower-powered hardware",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-16T12:17:23Z",
-      "mergedAt": null,
-      "additions": 16,
-      "deletions": 2,
-      "changedFiles": 1
-    },
-    {
-      "number": 48119,
-      "title": "fix: wire restart sentinel for /restart slash command",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-16T10:04:36Z",
-      "mergedAt": null,
-      "additions": 35,
-      "deletions": 0,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -193,6 +283,36 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
@@ -225,6 +345,5 @@
       "label": "PR Machine",
       "description": "10+ pull requests"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

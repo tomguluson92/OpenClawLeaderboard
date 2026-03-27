@@ -3,10 +3,10 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/268376548?u=dddce305835c57b386789ad1dd860afb26d06b99&v=4",
   "githubUrl": "https://github.com/ebeuvaliers",
   "score": {
-    "score": 76.79,
-    "prScore": 58.79,
+    "score": 81.32,
+    "prScore": 57.32,
     "issueScore": 0,
-    "reviewScore": 18,
+    "reviewScore": 24,
     "commentScore": 0
   },
   "tier": "regular",
@@ -15,42 +15,33 @@
     "commits": 0,
     "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 519,
+    "prAdditions": 560,
     "prDeletions": 24,
-    "prChangedFiles": 20,
+    "prChangedFiles": 19,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
-      "reviews": 6,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 2,
+      "comments": 0
     },
     "monthly": {
       "prs": 3,
       "issues": 0,
-      "reviews": 6,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 8,
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-15T14:03:52Z",
-  "lastContribution": "2026-03-19T09:52:07Z",
+  "lastContribution": "2026-03-23T12:46:56Z",
   "recentPRs": [
     {
       "number": 49145,
@@ -59,9 +50,9 @@
       "merged": false,
       "createdAt": "2026-03-17T16:48:40Z",
       "mergedAt": null,
-      "additions": 183,
+      "additions": 224,
       "deletions": 9,
-      "changedFiles": 7
+      "changedFiles": 6
     },
     {
       "number": 49032,
@@ -88,6 +79,16 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 49145,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T12:46:56Z"
+    },
+    {
+      "prNumber": 49145,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T08:57:04Z"
+    },
     {
       "prNumber": 49145,
       "state": "COMMENTED",
@@ -130,6 +131,16 @@
       "issues": 0,
       "reviews": 3
     },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-19": {
       "prs": 0,
       "issues": 0,
@@ -140,6 +151,5 @@
     "Pull Requests",
     "Code Review"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -1,0 +1,93 @@
+{
+  "username": "Maninae",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9339187?u=1039c9fb6d8720cd76d229045c36fa94cc9ecf50&v=4",
+  "githubUrl": "https://github.com/Maninae",
+  "score": {
+    "score": 20.38,
+    "prScore": 9.38,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 8,
+    "prDeletions": 5,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 2
+    }
+  },
+  "firstContribution": "2026-03-19T00:34:25Z",
+  "lastContribution": "2026-03-21T19:39:36Z",
+  "recentPRs": [
+    {
+      "number": 51842,
+      "title": "fix: prefer Body over BodyForAgent in BodyStripped fallback chain",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T19:39:36Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 5,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 51789,
+      "title": "Feature: `workspace.extraFiles` config for injecting additional bootstrap files",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T17:42:17Z",
+      "closedAt": null
+    },
+    {
+      "number": 50098,
+      "title": "Envelope timestamps never reach the model (BodyStripped prefers BodyForAgent over Body)",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T00:34:25Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

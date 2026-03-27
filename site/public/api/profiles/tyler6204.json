@@ -3,65 +3,100 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/64381258?v=4",
   "githubUrl": "https://github.com/tyler6204",
   "score": {
-    "score": 795.33,
-    "prScore": 770.83,
-    "issueScore": 16,
+    "score": 804.06,
+    "prScore": 795.06,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 8.5
+    "commentScore": 9
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
-    "commits": 111,
-    "prs": 6,
+    "commits": 118,
+    "prs": 8,
     "prsMerged": 3,
-    "prAdditions": 9791,
-    "prDeletions": 1073,
-    "prChangedFiles": 136,
-    "prMergeRate": 50,
-    "issues": 2,
-    "issuesClosed": 2,
+    "prAdditions": 10424,
+    "prDeletions": 932,
+    "prChangedFiles": 130,
+    "prMergeRate": 38,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 17,
-    "commitAdditions": 40925,
-    "commitDeletions": 7408,
-    "commitChangedFiles": 980
+    "comments": 18
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 16,
-      "commitAdditions": 1640,
-      "commitDeletions": 168,
-      "commits": 4
+      "comments": 4
     },
     "monthly": {
-      "prs": 6,
-      "issues": 2,
+      "prs": 8,
+      "issues": 0,
       "reviews": 0,
-      "comments": 17,
-      "commitAdditions": 9733,
-      "commitDeletions": 2420,
-      "commits": 13
+      "comments": 18
     }
   },
-  "firstContribution": "2026-03-07T18:31:24Z",
-  "lastContribution": "2026-03-19T11:38:44Z",
+  "firstContribution": "2026-03-12T07:38:48Z",
+  "lastContribution": "2026-03-26T09:55:25Z",
   "recentPRs": [
+    {
+      "number": 55081,
+      "title": "Fix BlueBubbles sends that silently fail without confirmation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T09:55:25Z",
+      "mergedAt": null,
+      "additions": 717,
+      "deletions": 42,
+      "changedFiles": 7
+    },
+    {
+      "number": 54984,
+      "title": "BlueBubbles: enrich group participants with local Contacts names",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T07:03:58Z",
+      "mergedAt": "2026-03-26T09:38:37Z",
+      "additions": 730,
+      "deletions": 2,
+      "changedFiles": 11
+    },
+    {
+      "number": 54977,
+      "title": "Fix BlueBubbles slash command chunking",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T06:49:47Z",
+      "mergedAt": null,
+      "additions": 196,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 51373,
+      "title": "fix: restore inbound image embedding for CLI routed BlueBubbles turns",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T01:58:37Z",
+      "mergedAt": "2026-03-26T06:47:44Z",
+      "additions": 285,
+      "deletions": 2,
+      "changedFiles": 5
+    },
     {
       "number": 50397,
       "title": "fix: honor BlueBubbles chunk mode and envelope timezone",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T11:38:44Z",
       "mergedAt": null,
-      "additions": 141,
-      "deletions": 68,
-      "changedFiles": 10
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0
     },
     {
       "number": 50092,
@@ -95,48 +130,21 @@
       "additions": 6235,
       "deletions": 607,
       "changedFiles": 81
-    },
-    {
-      "number": 40204,
-      "title": "fix(cron): consolidate announce delivery, fire-and-forget trigger, and minimal prompt mode",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T19:40:02Z",
-      "mergedAt": "2026-03-08T21:46:34Z",
-      "additions": 534,
-      "deletions": 88,
-      "changedFiles": 16
-    },
-    {
-      "number": 39089,
-      "title": "fix(cron): eliminate double-announce and replace delivery polling with push-based flow",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-07T18:31:24Z",
-      "mergedAt": "2026-03-07T20:13:37Z",
-      "additions": 620,
-      "deletions": 33,
-      "changedFiles": 5
     }
   ],
-  "recentIssues": [
-    {
-      "number": 40192,
-      "title": "fix(cron): manual cron run trigger should be fire-and-forget",
-      "state": "CLOSED",
-      "createdAt": "2026-03-08T19:24:09Z",
-      "closedAt": "2026-03-08T21:46:35Z"
-    },
-    {
-      "number": 40178,
-      "title": "fix(cron): announce delivery + wake event cause double message delivery",
-      "state": "CLOSED",
-      "createdAt": "2026-03-08T19:07:24Z",
-      "closedAt": "2026-03-08T21:46:34Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 2,
       "issues": 0,
@@ -151,21 +159,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 2,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
@@ -175,34 +172,11 @@
       "id": "centurion",
       "label": "Centurion",
       "description": "100+ commits"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-19": 4,
-    "2026-03-08": 1,
-    "2026-03-07": 1,
-    "2026-03-06": 1,
-    "2026-03-02": 2,
-    "2026-02-20": 3,
-    "2026-02-19": 1,
-    "2026-02-17": 6,
-    "2026-02-15": 4,
-    "2026-02-14": 1,
-    "2026-02-09": 2,
-    "2026-02-08": 6,
-    "2026-02-07": 2,
-    "2026-02-06": 1,
-    "2026-02-05": 1,
-    "2026-02-04": 16,
-    "2026-02-02": 4,
-    "2026-02-01": 2,
-    "2026-01-30": 3,
-    "2026-01-29": 1,
-    "2026-01-28": 1,
-    "2026-01-26": 6,
-    "2026-01-25": 7,
-    "2026-01-24": 1,
-    "2026-01-21": 3,
-    "2026-01-20": 22
-  }
+  ]
 }

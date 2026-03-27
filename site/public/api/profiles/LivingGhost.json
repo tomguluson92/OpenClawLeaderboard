@@ -3,340 +3,432 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/14040213?v=4",
   "githubUrl": "https://github.com/livingghost",
   "score": {
-    "score": 492.81,
-    "prScore": 281.31,
-    "issueScore": 0,
-    "reviewScore": 198,
-    "commentScore": 13.5
+    "score": 1447.56,
+    "prScore": 791.56,
+    "issueScore": 15,
+    "reviewScore": 588,
+    "commentScore": 53
   },
-  "tier": "active",
+  "tier": "elite",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 16,
+    "prs": 86,
     "prsMerged": 0,
-    "prAdditions": 57359,
-    "prDeletions": 22421,
-    "prChangedFiles": 1836,
+    "prAdditions": 139607,
+    "prDeletions": 168225,
+    "prChangedFiles": 6287,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 3,
     "issuesClosed": 0,
-    "reviews": 66,
+    "reviews": 196,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 27,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 106
   },
   "period": {
     "weekly": {
-      "prs": 14,
-      "issues": 0,
-      "reviews": 59,
-      "comments": 26,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 71,
+      "issues": 3,
+      "reviews": 133,
+      "comments": 80
     },
     "monthly": {
-      "prs": 16,
-      "issues": 0,
-      "reviews": 66,
-      "comments": 27,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 86,
+      "issues": 3,
+      "reviews": 196,
+      "comments": 106
     }
   },
-  "firstContribution": "2026-03-08T15:33:43Z",
-  "lastContribution": "2026-03-19T20:58:13Z",
+  "firstContribution": "2026-03-10T05:52:27Z",
+  "lastContribution": "2026-03-26T20:32:05Z",
   "recentPRs": [
     {
-      "number": 50402,
-      "title": "Plugins: fix subagent dispatch and runtime state management",
+      "number": 55183,
+      "title": "feat(plugins): add api.runtime.agent.abort for aborting agent runs",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-19T11:52:47Z",
+      "createdAt": "2026-03-26T13:32:38Z",
       "mergedAt": null,
-      "additions": 915,
-      "deletions": 106,
-      "changedFiles": 19
+      "additions": 350,
+      "deletions": 187,
+      "changedFiles": 14
     },
     {
-      "number": 49977,
-      "title": "Plugins: add structured output support for subagents",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-18T19:05:59Z",
-      "mergedAt": null,
-      "additions": 912,
-      "deletions": 23,
-      "changedFiles": 17
-    },
-    {
-      "number": 49976,
-      "title": "Gateway: fix hook dispatch and Discord provider teardown",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-18T19:05:57Z",
-      "mergedAt": null,
-      "additions": 739,
-      "deletions": 169,
-      "changedFiles": 20
-    },
-    {
-      "number": 49975,
-      "title": "Gateway: add agent abort support with session ownership",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-18T19:05:55Z",
-      "mergedAt": null,
-      "additions": 478,
-      "deletions": 2,
-      "changedFiles": 18
-    },
-    {
-      "number": 49560,
-      "title": "Gateway: fix hook dispatch and Discord provider teardown",
+      "number": 55127,
+      "title": "feat(plugins): add api.runtime.agent.abort for aborting agent runs",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-18T07:16:03Z",
+      "createdAt": "2026-03-26T11:57:08Z",
       "mergedAt": null,
-      "additions": 13649,
-      "deletions": 6323,
-      "changedFiles": 424
+      "additions": 280,
+      "deletions": 11,
+      "changedFiles": 12
     },
     {
-      "number": 49559,
-      "title": "Plugins: fix subagent dispatch and runtime state management",
+      "number": 55086,
+      "title": "feat(plugins): add api.runtime.agent.abort for aborting agent runs",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-18T07:15:45Z",
+      "createdAt": "2026-03-26T10:02:57Z",
       "mergedAt": null,
-      "additions": 772,
-      "deletions": 95,
-      "changedFiles": 19
-    },
-    {
-      "number": 49558,
-      "title": "Gateway: add agent abort support with session ownership",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-18T07:15:29Z",
-      "mergedAt": null,
-      "additions": 13311,
-      "deletions": 6197,
-      "changedFiles": 427
-    },
-    {
-      "number": 49487,
-      "title": "Gateway: fix plugin runtime and hook dispatch handling",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-18T05:12:09Z",
-      "mergedAt": null,
-      "additions": 1899,
-      "deletions": 268,
-      "changedFiles": 54
-    },
-    {
-      "number": 49416,
-      "title": "Plugins: add structured output support for subagents",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-18T03:33:51Z",
-      "mergedAt": null,
-      "additions": 13810,
-      "deletions": 6214,
-      "changedFiles": 423
-    },
-    {
-      "number": 48231,
-      "title": "Plugins: add structured output support for subagents",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-16T13:27:41Z",
-      "mergedAt": null,
-      "additions": 5025,
-      "deletions": 2768,
-      "changedFiles": 240
-    },
-    {
-      "number": 48230,
-      "title": "Gateway: fix plugin runtime and hook dispatch handling",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-16T13:27:37Z",
-      "mergedAt": null,
-      "additions": 1828,
-      "deletions": 111,
-      "changedFiles": 53
-    },
-    {
-      "number": 47923,
-      "title": "fix: narrow reply-root dedupe to queued reruns",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-16T05:34:06Z",
-      "mergedAt": null,
-      "additions": 674,
-      "deletions": 7,
-      "changedFiles": 19
-    },
-    {
-      "number": 47920,
-      "title": "fix: narrow reply-root dedupe to queued reruns",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-16T05:23:56Z",
-      "mergedAt": null,
-      "additions": 512,
-      "deletions": 7,
-      "changedFiles": 19
-    },
-    {
-      "number": 47517,
-      "title": "Gateway: preserve arbiter subagent context and runtime",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-15T17:20:40Z",
-      "mergedAt": null,
-      "additions": 2115,
-      "deletions": 113,
-      "changedFiles": 60
-    },
-    {
-      "number": 41813,
-      "title": "feat(hooks): expose arbiter conversation and sender metadata",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-10T05:52:27Z",
-      "mergedAt": null,
-      "additions": 463,
-      "deletions": 10,
-      "changedFiles": 13
-    },
-    {
-      "number": 40007,
-      "title": "fix(plugins): expose inbound/outbound message hook metadata",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T15:33:43Z",
-      "mergedAt": null,
-      "additions": 257,
-      "deletions": 8,
+      "additions": 273,
+      "deletions": 11,
       "changedFiles": 11
+    },
+    {
+      "number": 54271,
+      "title": "fix(gateway): fix hook dispatch routing and delivery channel resolution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T05:59:39Z",
+      "mergedAt": null,
+      "additions": 138,
+      "deletions": 6,
+      "changedFiles": 5
+    },
+    {
+      "number": 54270,
+      "title": "fix(discord): fix botUserId shadowing and drain delay for managed identity teardown",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T05:59:37Z",
+      "mergedAt": null,
+      "additions": 446,
+      "deletions": 19,
+      "changedFiles": 12
+    },
+    {
+      "number": 54269,
+      "title": "perf: pre-apply sort and limit before transcript fallback in sessions.list",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T05:59:35Z",
+      "mergedAt": null,
+      "additions": 211,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 54268,
+      "title": "perf: add in-memory usage cache for session transcript reads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T05:59:32Z",
+      "mergedAt": null,
+      "additions": 230,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 54267,
+      "title": "fix(plugins): skip non-provider registrations during snapshot loads",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T05:59:30Z",
+      "mergedAt": null,
+      "additions": 186,
+      "deletions": 189,
+      "changedFiles": 10
+    },
+    {
+      "number": 54266,
+      "title": "feat(plugins): add api.runtime.agent.abort for aborting agent runs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T05:59:28Z",
+      "mergedAt": null,
+      "additions": 266,
+      "deletions": 11,
+      "changedFiles": 11
+    },
+    {
+      "number": 54265,
+      "title": "feat(plugins): expose runId in agent hook context",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T05:59:25Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 54095,
+      "title": "fix(gateway): fix hook dispatch routing and delivery channel resolution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:53:17Z",
+      "mergedAt": null,
+      "additions": 345,
+      "deletions": 7,
+      "changedFiles": 7
+    },
+    {
+      "number": 54094,
+      "title": "fix(discord): fix botUserId shadowing and drain delay for managed identity teardown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:53:15Z",
+      "mergedAt": null,
+      "additions": 440,
+      "deletions": 19,
+      "changedFiles": 12
+    },
+    {
+      "number": 54093,
+      "title": "perf: pre-apply sort and limit before transcript fallback in sessions.list",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:53:13Z",
+      "mergedAt": null,
+      "additions": 217,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 54092,
+      "title": "perf: add in-memory usage cache for session transcript reads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:53:11Z",
+      "mergedAt": null,
+      "additions": 230,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 54091,
+      "title": "fix(plugins): skip non-provider registrations during snapshot loads",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:53:09Z",
+      "mergedAt": null,
+      "additions": 207,
+      "deletions": 21,
+      "changedFiles": 8
+    },
+    {
+      "number": 54090,
+      "title": "feat(plugins): add api.runtime.agent.abort for aborting agent runs",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:53:07Z",
+      "mergedAt": null,
+      "additions": 215,
+      "deletions": 11,
+      "changedFiles": 9
+    },
+    {
+      "number": 54089,
+      "title": "feat(plugins): expose runId in agent hook context",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T23:53:05Z",
+      "mergedAt": null,
+      "additions": 28,
+      "deletions": 0,
+      "changedFiles": 5
+    },
+    {
+      "number": 53903,
+      "title": "fix(gateway): fix hook dispatch routing and delivery channel resolution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T19:03:25Z",
+      "mergedAt": null,
+      "additions": 347,
+      "deletions": 7,
+      "changedFiles": 8
+    },
+    {
+      "number": 53902,
+      "title": "fix(discord): fix botUserId shadowing and drain delay for managed identity teardown",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T19:03:22Z",
+      "mergedAt": null,
+      "additions": 440,
+      "deletions": 19,
+      "changedFiles": 12
+    },
+    {
+      "number": 53901,
+      "title": "perf: pre-apply sort and limit before transcript fallback in sessions.list",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T19:03:20Z",
+      "mergedAt": null,
+      "additions": 217,
+      "deletions": 3,
+      "changedFiles": 2
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 52412,
+      "title": "[Feature]: Plugin API for aborting agent runs (api.runtime.agent.abort)",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T18:09:57Z",
+      "closedAt": null
+    },
+    {
+      "number": 52411,
+      "title": "[Feature]: Expose runId in agent hook context (before_agent_start, before_prompt_build, agent_end)",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T18:09:30Z",
+      "closedAt": null
+    },
+    {
+      "number": 51781,
+      "title": "[Bug]: loadOpenClawPlugins calls plugin register() on activate:false snapshot loads",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T17:27:19Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
     {
-      "prNumber": 49977,
+      "prNumber": 54267,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T12:35:49Z"
+      "createdAt": "2026-03-26T20:32:05Z"
     },
     {
-      "prNumber": 50402,
+      "prNumber": 54267,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T12:03:48Z"
+      "createdAt": "2026-03-26T20:32:03Z"
     },
     {
-      "prNumber": 50402,
+      "prNumber": 55183,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T12:03:46Z"
+      "createdAt": "2026-03-26T14:11:26Z"
     },
     {
-      "prNumber": 50402,
+      "prNumber": 55183,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T12:03:45Z"
+      "createdAt": "2026-03-26T14:04:14Z"
     },
     {
-      "prNumber": 50402,
+      "prNumber": 55183,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T12:03:43Z"
+      "createdAt": "2026-03-26T13:58:54Z"
     },
     {
-      "prNumber": 49977,
+      "prNumber": 55183,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T07:29:08Z"
+      "createdAt": "2026-03-26T13:47:40Z"
     },
     {
-      "prNumber": 49975,
+      "prNumber": 55183,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T06:39:06Z"
+      "createdAt": "2026-03-26T13:41:36Z"
     },
     {
-      "prNumber": 49975,
+      "prNumber": 55127,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T06:39:05Z"
+      "createdAt": "2026-03-26T13:25:43Z"
     },
     {
-      "prNumber": 49975,
+      "prNumber": 55127,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T06:39:03Z"
+      "createdAt": "2026-03-26T13:14:26Z"
     },
     {
-      "prNumber": 49975,
+      "prNumber": 55127,
       "state": "COMMENTED",
-      "createdAt": "2026-03-19T06:39:02Z"
+      "createdAt": "2026-03-26T12:37:07Z"
     },
     {
-      "prNumber": 49977,
+      "prNumber": 55127,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T23:34:57Z"
+      "createdAt": "2026-03-26T12:37:05Z"
     },
     {
-      "prNumber": 49977,
+      "prNumber": 55127,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T20:31:08Z"
+      "createdAt": "2026-03-26T12:37:04Z"
     },
     {
-      "prNumber": 49977,
+      "prNumber": 55086,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T20:31:07Z"
+      "createdAt": "2026-03-26T11:50:25Z"
     },
     {
-      "prNumber": 49976,
+      "prNumber": 55086,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T20:31:05Z"
+      "createdAt": "2026-03-26T11:04:24Z"
     },
     {
-      "prNumber": 49976,
+      "prNumber": 55086,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T20:31:04Z"
+      "createdAt": "2026-03-26T10:45:49Z"
     },
     {
-      "prNumber": 49976,
+      "prNumber": 55086,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T20:31:02Z"
+      "createdAt": "2026-03-26T10:42:13Z"
     },
     {
-      "prNumber": 49975,
+      "prNumber": 55086,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T20:31:01Z"
+      "createdAt": "2026-03-26T10:16:36Z"
     },
     {
-      "prNumber": 49975,
+      "prNumber": 54266,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T20:31:00Z"
+      "createdAt": "2026-03-26T02:51:10Z"
     },
     {
-      "prNumber": 49558,
+      "prNumber": 54266,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T11:18:53Z"
+      "createdAt": "2026-03-25T08:52:48Z"
     },
     {
-      "prNumber": 49416,
+      "prNumber": 54266,
       "state": "COMMENTED",
-      "createdAt": "2026-03-18T10:03:38Z"
+      "createdAt": "2026-03-25T07:55:45Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 18
+    },
+    "2026-03-25": {
+      "prs": 7,
+      "issues": 0,
+      "reviews": 20
+    },
+    "2026-03-24": {
+      "prs": 41,
+      "issues": 0,
+      "reviews": 55
+    },
+    "2026-03-23": {
+      "prs": 13,
+      "issues": 0,
+      "reviews": 21
+    },
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 4
+    },
+    "2026-03-21": {
+      "prs": 4,
+      "issues": 1,
+      "reviews": 15
+    },
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
-      "reviews": 10
+      "reviews": 9
     },
     "2026-03-18": {
       "prs": 8,
@@ -358,11 +450,6 @@
       "issues": 0,
       "reviews": 2
     },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 2
-    },
     "2026-03-17": {
       "prs": 0,
       "issues": 0,
@@ -377,6 +464,7 @@
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion",
     "Large-Scale Changes"
   ],
@@ -387,6 +475,11 @@
       "description": "10+ pull requests"
     },
     {
+      "id": "pr-master",
+      "label": "PR Master",
+      "description": "50+ pull requests"
+    },
+    {
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
@@ -395,6 +488,11 @@
       "id": "review-guru",
       "label": "Review Guru",
       "description": "50+ reviews"
+    },
+    {
+      "id": "review-legend",
+      "label": "Review Legend",
+      "description": "100+ reviews"
     },
     {
       "id": "conversationalist",
@@ -410,7 +508,11 @@
       "id": "mega-coder",
       "label": "Mega Coder",
       "description": "50K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

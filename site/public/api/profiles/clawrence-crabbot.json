@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/262677836?v=4",
   "githubUrl": "https://github.com/clawrence-crabbot",
   "score": {
-    "score": 34.4,
+    "score": 25.9,
     "prScore": 14.9,
-    "issueScore": 8,
+    "issueScore": 0,
     "reviewScore": 9,
-    "commentScore": 2.5
+    "commentScore": 2
   },
   "tier": "beginner",
   "characterClass": "Reviewer",
@@ -19,38 +19,29 @@
     "prDeletions": 35,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 3,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-11T00:34:58Z",
-  "lastContribution": "2026-03-12T00:41:52Z",
+  "firstContribution": "2026-03-11T00:35:24Z",
+  "lastContribution": "2026-03-11T22:41:26Z",
   "recentPRs": [
     {
       "number": 42602,
@@ -64,15 +55,7 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42601,
-      "title": "[Bug]: Discord triage reactions can be dropped when reaction event has guild_id but no guild object",
-      "state": "CLOSED",
-      "createdAt": "2026-03-11T00:34:58Z",
-      "closedAt": "2026-03-12T00:41:53Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 42602,
@@ -93,22 +76,14 @@
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 3
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

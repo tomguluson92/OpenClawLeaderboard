@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/260345318?u=1d162fd75edeab9703ece295b8107e80e605a9db&v=4",
   "githubUrl": "https://github.com/JaneyChat",
   "score": {
-    "score": 19.66,
+    "score": 14.66,
     "prScore": 8.66,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 6,
     "commentScore": 0
   },
@@ -19,37 +19,28 @@
     "prDeletions": 5,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-10T02:01:07Z",
+  "firstContribution": "2026-03-10T02:49:01Z",
   "lastContribution": "2026-03-10T03:10:44Z",
   "recentPRs": [
     {
@@ -64,15 +55,7 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41606,
-      "title": "[Bug]: Memory/skills chokidar watcher can exhaust FDs (FSEventWrap) when watched dirs have many files",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T02:01:07Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 41655,
@@ -88,21 +71,13 @@
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 2
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
-    "Issue Reporting"
+    "Code Review"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

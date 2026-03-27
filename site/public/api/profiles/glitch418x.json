@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/189487110?u=d7f1e533285dc7c49031796c3c90b1f9d5cee30d&v=4",
   "githubUrl": "https://github.com/glitch418x",
   "score": {
-    "score": 141.22,
-    "prScore": 123.22,
-    "issueScore": 18,
+    "score": 85.56,
+    "prScore": 72.56,
+    "issueScore": 13,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -13,43 +13,34 @@
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 1,
-    "prAdditions": 778,
-    "prDeletions": 170,
-    "prChangedFiles": 37,
-    "prMergeRate": 33,
-    "issues": 3,
+    "prAdditions": 597,
+    "prDeletions": 148,
+    "prChangedFiles": 28,
+    "prMergeRate": 50,
+    "issues": 2,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 178,
-    "commitDeletions": 11,
-    "commitChangedFiles": 10
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 2,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 3,
-      "issues": 3,
+      "prs": 2,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 178,
-      "commitDeletions": 11,
-      "commits": 2
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-08T16:21:20Z",
+  "firstContribution": "2026-03-12T09:03:09Z",
   "lastContribution": "2026-03-17T15:21:48Z",
   "recentPRs": [
     {
@@ -73,17 +64,6 @@
       "additions": 66,
       "deletions": 3,
       "changedFiles": 5
-    },
-    {
-      "number": 40053,
-      "title": "fix: preserve selected session model during fallback",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T16:21:20Z",
-      "mergedAt": null,
-      "additions": 181,
-      "deletions": 22,
-      "changedFiles": 9
     }
   ],
   "recentIssues": [
@@ -97,16 +77,9 @@
     {
       "number": 48171,
       "title": "fix(slack): 'App is not a constructor' after plugin SDK refactor on Node 24",
-      "state": "OPEN",
-      "createdAt": "2026-03-16T11:47:18Z",
-      "closedAt": null
-    },
-    {
-      "number": 42919,
-      "title": "System events don't route to active session when dmScope is per-channel-peer",
       "state": "CLOSED",
-      "createdAt": "2026-03-11T06:59:00Z",
-      "closedAt": "2026-03-11T06:59:25Z"
+      "createdAt": "2026-03-16T11:47:18Z",
+      "closedAt": "2026-03-22T23:09:42Z"
     }
   ],
   "recentReviews": [],
@@ -121,11 +94,6 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
     "2026-03-17": {
       "prs": 0,
       "issues": 1,
@@ -135,20 +103,11 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-12": 1,
-    "2026-03-01": 1
-  }
+  "achievements": []
 }

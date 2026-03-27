@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8843894?v=4",
   "githubUrl": "https://github.com/voicewitness",
   "score": {
-    "score": 73.57,
-    "prScore": 34.57,
+    "score": 108.77,
+    "prScore": 60.77,
     "issueScore": 0,
-    "reviewScore": 39,
+    "reviewScore": 48,
     "commentScore": 0
   },
   "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 504,
-    "prDeletions": 4,
-    "prChangedFiles": 11,
+    "prAdditions": 608,
+    "prDeletions": 8,
+    "prChangedFiles": 17,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 13,
+    "reviews": 16,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 2,
       "issues": 0,
-      "reviews": 13,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 3,
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 4,
       "issues": 0,
-      "reviews": 13,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 16,
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-17T02:58:59Z",
-  "lastContribution": "2026-03-19T11:03:03Z",
+  "lastContribution": "2026-03-26T08:37:15Z",
   "recentPRs": [
+    {
+      "number": 55037,
+      "title": "feat(routing): support per-binding workspace override",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T08:25:00Z",
+      "mergedAt": null,
+      "additions": 41,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 54483,
+      "title": "feat(models): expand authHeader into provider headers at config load time",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T13:23:17Z",
+      "mergedAt": null,
+      "additions": 63,
+      "deletions": 0,
+      "changedFiles": 2
+    },
     {
       "number": 50302,
       "title": "feat(models): add preScript hook for dynamic provider credential resolution",
@@ -77,6 +90,21 @@
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 55037,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T08:37:15Z"
+    },
+    {
+      "prNumber": 55037,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T08:37:06Z"
+    },
+    {
+      "prNumber": 55037,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T08:36:56Z"
+    },
     {
       "prNumber": 50302,
       "state": "COMMENTED",
@@ -144,6 +172,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
@@ -165,6 +203,5 @@
       "label": "Code Reviewer",
       "description": "10+ reviews"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

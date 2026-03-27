@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/269147097?v=4",
   "githubUrl": "https://github.com/felear2022",
   "score": {
-    "score": 9.04,
-    "prScore": 9.04,
+    "score": 17.05,
+    "prScore": 17.05,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -14,39 +14,30 @@
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 26,
-    "prDeletions": 3,
-    "prChangedFiles": 2,
-    "prMergeRate": 0,
+    "prsMerged": 1,
+    "prAdditions": 105,
+    "prDeletions": 4,
+    "prChangedFiles": 5,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-18T09:23:56Z",
@@ -55,13 +46,13 @@
     {
       "number": 49698,
       "title": "fix: use stream-json output for Claude CLI backend to prevent watchdog timeouts",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-18T09:23:56Z",
-      "mergedAt": null,
-      "additions": 26,
-      "deletions": 3,
-      "changedFiles": 2
+      "mergedAt": "2026-03-26T23:39:15Z",
+      "additions": 105,
+      "deletions": 4,
+      "changedFiles": 5
     }
   ],
   "recentIssues": [],
@@ -76,6 +67,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

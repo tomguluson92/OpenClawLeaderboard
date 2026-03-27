@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/213560776?u=a51774d2a9af65c096b6d7ce2913909844730004&v=4",
   "githubUrl": "https://github.com/smartchainark",
   "score": {
-    "score": 27.54,
-    "prScore": 22.54,
-    "issueScore": 5,
+    "score": 13.92,
+    "prScore": 13.92,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 109,
-    "prDeletions": 5,
-    "prChangedFiles": 6,
+    "prAdditions": 99,
+    "prDeletions": 1,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-09T09:21:17Z",
+  "firstContribution": "2026-03-19T04:32:52Z",
   "lastContribution": "2026-03-19T04:32:52Z",
   "recentPRs": [
     {
@@ -62,45 +53,19 @@
       "additions": 99,
       "deletions": 1,
       "changedFiles": 5
-    },
-    {
-      "number": 40816,
-      "title": "fix(update): align entrypoint candidate order with program-args",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T09:28:34Z",
-      "mergedAt": null,
-      "additions": 10,
-      "deletions": 4,
-      "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 40811,
-      "title": "Gateway entrypoint mismatch after `openclaw update` — plist not reinstalled",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T09:21:17Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

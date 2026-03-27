@@ -1,0 +1,129 @@
+{
+  "username": "UGDev-Chane",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/180237537?v=4",
+  "githubUrl": "https://github.com/UGDev-Chane",
+  "score": {
+    "score": 50.84,
+    "prScore": 15.34,
+    "issueScore": 35,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "regular",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 253,
+    "prDeletions": 6,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 7,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 7,
+      "reviews": 0,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 7,
+      "reviews": 0,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-21T00:43:21Z",
+  "lastContribution": "2026-03-21T03:16:26Z",
+  "recentPRs": [
+    {
+      "number": 51400,
+      "title": "Handle Slack file-only thread starters for media inheritance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T03:13:32Z",
+      "mergedAt": null,
+      "additions": 253,
+      "deletions": 6,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 51355,
+      "title": "Document Slack attachment vision behavior and known limits",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T00:43:46Z",
+      "closedAt": null
+    },
+    {
+      "number": 51354,
+      "title": "Run live Slack verification for attachment vision workflows",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T00:43:45Z",
+      "closedAt": null
+    },
+    {
+      "number": 51353,
+      "title": "Add Slack attachment vision regression tests",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T00:43:45Z",
+      "closedAt": null
+    },
+    {
+      "number": 51352,
+      "title": "Validate Slack multi-image and forwarded attachment handling",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T00:43:44Z",
+      "closedAt": null
+    },
+    {
+      "number": 51351,
+      "title": "Stabilize Slack thread-root image inheritance",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T00:43:43Z",
+      "closedAt": null
+    },
+    {
+      "number": 51350,
+      "title": "Audit Slack media-to-model handoff",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T00:43:42Z",
+      "closedAt": null
+    },
+    {
+      "number": 51349,
+      "title": "Epic: Slack attachment vision enablement",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T00:43:21Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 7,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ]
+}

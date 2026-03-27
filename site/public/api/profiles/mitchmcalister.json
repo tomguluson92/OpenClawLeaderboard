@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/209334?v=4",
   "githubUrl": "https://github.com/mitchmcalister",
   "score": {
-    "score": 246.28,
-    "prScore": 174.28,
-    "issueScore": 15,
-    "reviewScore": 51,
-    "commentScore": 6
+    "score": 205.15,
+    "prScore": 140.65,
+    "issueScore": 5,
+    "reviewScore": 54,
+    "commentScore": 5.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
@@ -15,42 +15,33 @@
     "commits": 5,
     "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 1946,
-    "prDeletions": 144,
+    "prAdditions": 2022,
+    "prDeletions": 143,
     "prChangedFiles": 35,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 17,
+    "reviews": 18,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 12,
-    "commitAdditions": 277,
-    "commitDeletions": 10,
-    "commitChangedFiles": 14
+    "comments": 11
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 1,
+      "reviews": 1,
+      "comments": 0
     },
     "monthly": {
       "prs": 5,
-      "issues": 3,
-      "reviews": 17,
-      "comments": 12,
-      "commitAdditions": 277,
-      "commitDeletions": 10,
-      "commits": 5
+      "issues": 1,
+      "reviews": 18,
+      "comments": 11
     }
   },
   "firstContribution": "2026-03-11T15:42:01Z",
-  "lastContribution": "2026-03-12T19:33:09Z",
+  "lastContribution": "2026-03-25T03:06:46Z",
   "recentPRs": [
     {
       "number": 44188,
@@ -59,8 +50,8 @@
       "merged": false,
       "createdAt": "2026-03-12T15:49:02Z",
       "mergedAt": null,
-      "additions": 640,
-      "deletions": 41,
+      "additions": 716,
+      "deletions": 40,
       "changedFiles": 9
     },
     {
@@ -110,28 +101,19 @@
   ],
   "recentIssues": [
     {
-      "number": 43492,
-      "title": "Cross-provider fallback retry: prompt-detected images bypass resolveRetryImages guard",
+      "number": 54192,
+      "title": "CLI runner: add orphaned-user-message repair for fallback retries",
       "state": "OPEN",
-      "createdAt": "2026-03-11T21:49:58Z",
-      "closedAt": null
-    },
-    {
-      "number": 43482,
-      "title": "Fallback retry should detect partial tool execution before replaying prompt",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T21:19:06Z",
-      "closedAt": null
-    },
-    {
-      "number": 43481,
-      "title": "Cross-provider fallback should respect provider trust boundaries for images/attachments",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T21:18:53Z",
+      "createdAt": "2026-03-25T03:06:46Z",
       "closedAt": null
     }
   ],
   "recentReviews": [
+    {
+      "prNumber": 44188,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T01:46:51Z"
+    },
     {
       "prNumber": 44188,
       "state": "COMMENTED",
@@ -226,8 +208,13 @@
     },
     "2026-03-11": {
       "prs": 4,
-      "issues": 3,
+      "issues": 0,
       "reviews": 13
+    },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 1
     }
   },
   "skills": [
@@ -248,10 +235,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-03": 2,
-    "2026-03-02": 1,
-    "2026-02-24": 2
-  }
+  ]
 }

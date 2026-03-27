@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/83848714?u=24ff45427f152ecbee1dd5e777a9c73847455168&v=4",
   "githubUrl": "https://github.com/haltandcatchwater",
   "score": {
-    "score": 8.99,
-    "prScore": 8.49,
+    "score": 19.34,
+    "prScore": 18.84,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
@@ -13,49 +13,51 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 63,
-    "prDeletions": 78,
-    "prChangedFiles": 1,
+    "prAdditions": 136,
+    "prDeletions": 79,
+    "prChangedFiles": 3,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-18T21:01:37Z",
-  "lastContribution": "2026-03-18T21:11:31Z",
+  "lastContribution": "2026-03-20T21:30:35Z",
   "recentPRs": [
+    {
+      "number": 51286,
+      "title": "fix(sandbox): normalize non-agent-scoped session keys in sandbox explain",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T21:30:35Z",
+      "mergedAt": null,
+      "additions": 73,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 50023,
       "title": "refactor: extract shared stream function wrapper helpers [AI-assisted]",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T21:01:37Z",
       "mergedAt": null,
@@ -67,6 +69,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 0,
@@ -77,6 +84,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258996445?v=4",
   "githubUrl": "https://github.com/slideshow-dingo",
   "score": {
-    "score": 109.86,
-    "prScore": 84.86,
-    "issueScore": 0,
-    "reviewScore": 21,
-    "commentScore": 4
+    "score": 135.54,
+    "prScore": 94.04,
+    "issueScore": 15,
+    "reviewScore": 18,
+    "commentScore": 8.5
   },
   "tier": "regular",
-  "characterClass": "Reviewer",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 916,
+    "prAdditions": 930,
     "prDeletions": 100,
-    "prChangedFiles": 24,
+    "prChangedFiles": 25,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 3,
     "issuesClosed": 0,
-    "reviews": 7,
+    "reviews": 6,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 17
   },
   "period": {
     "weekly": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 7,
-      "comments": 8,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 13
     },
     "monthly": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 7,
-      "comments": 8,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 6,
+      "issues": 3,
+      "reviews": 6,
+      "comments": 17
     }
   },
   "firstContribution": "2026-03-15T12:39:47Z",
-  "lastContribution": "2026-03-19T10:59:06Z",
+  "lastContribution": "2026-03-26T02:51:46Z",
   "recentPRs": [
+    {
+      "number": 52906,
+      "title": "fix(ollama): register API provider in compaction safeguard extension",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T13:59:34Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 48742,
       "title": "fix(doctor): auto-remove legacy notify:true when cron.webhook is unset",
@@ -108,13 +110,30 @@
       "changedFiles": 5
     }
   ],
-  "recentIssues": [],
-  "recentReviews": [
+  "recentIssues": [
     {
-      "prNumber": 40534,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T05:08:19Z"
+      "number": 54834,
+      "title": "Cron isolated agentTurn announce delivery can complete with deliveryStatus: \"unknown\" when routing is implicit",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T02:36:44Z",
+      "closedAt": null
     },
+    {
+      "number": 54804,
+      "title": "[Schema Validation] hooks.enabled=true requires hooks.token — startup fails with unclear error",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T01:36:42Z",
+      "closedAt": null
+    },
+    {
+      "number": 54792,
+      "title": "Schema validation: config features with required dependencies should warn when enabling without them",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T01:05:52Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
     {
       "prNumber": 48683,
       "state": "COMMENTED",
@@ -147,14 +166,24 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-17": {
       "prs": 4,
       "issues": 0,
-      "reviews": 6
+      "reviews": 5
     },
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 3,
       "reviews": 0
     },
     "2026-03-16": {
@@ -166,8 +195,14 @@
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

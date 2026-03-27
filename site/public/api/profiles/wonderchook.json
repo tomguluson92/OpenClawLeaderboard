@@ -3,113 +3,200 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/67992?u=7b9230d97b020ce676f432e5ed0b452b4d4e2bda&v=4",
   "githubUrl": "https://github.com/wonderchook",
   "score": {
-    "score": 35.03,
-    "prScore": 24.03,
+    "score": 117.35,
+    "prScore": 72.35,
     "issueScore": 5,
-    "reviewScore": 6,
-    "commentScore": 0
+    "reviewScore": 39,
+    "commentScore": 1
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 177,
-    "prDeletions": 2,
-    "prChangedFiles": 7,
+    "prAdditions": 417,
+    "prDeletions": 55,
+    "prChangedFiles": 24,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 13,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 108,
-    "commitDeletions": 4,
-    "commitChangedFiles": 3
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 4,
+      "issues": 1,
+      "reviews": 13,
+      "comments": 2
     },
     "monthly": {
-      "prs": 1,
+      "prs": 4,
       "issues": 1,
-      "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 108,
-      "commitDeletions": 4,
-      "commits": 1
+      "reviews": 13,
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-05T18:49:24Z",
-  "lastContribution": "2026-03-06T05:03:19Z",
+  "firstContribution": "2026-03-21T19:21:54Z",
+  "lastContribution": "2026-03-24T16:56:47Z",
   "recentPRs": [
     {
-      "number": 36587,
-      "title": "feat(slack): per-channel replyToMode config override",
+      "number": 52315,
+      "title": "style(macos): fix SwiftFormat lint violations",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-05T18:55:28Z",
+      "createdAt": "2026-03-22T15:22:34Z",
       "mergedAt": null,
-      "additions": 177,
-      "deletions": 2,
-      "changedFiles": 7
+      "additions": 6,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 52109,
+      "title": "fix(cron): apply MIN_REFIRE_GAP_MS to every-schedule jobs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T06:11:48Z",
+      "mergedAt": null,
+      "additions": 136,
+      "deletions": 9,
+      "changedFiles": 2
+    },
+    {
+      "number": 51848,
+      "title": "feat(slack): add per-channel replyToMode config override",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T19:44:16Z",
+      "mergedAt": null,
+      "additions": 124,
+      "deletions": 9,
+      "changedFiles": 11
+    },
+    {
+      "number": 51836,
+      "title": "fix(slack): resolve cross-boundary imports breaking Docker runtime",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T19:21:54Z",
+      "mergedAt": null,
+      "additions": 151,
+      "deletions": 32,
+      "changedFiles": 9
     }
   ],
   "recentIssues": [
     {
-      "number": 36583,
-      "title": "feat(slack): per-channel replyToMode override",
+      "number": 53816,
+      "title": "[Bug]: Windows CI: channel-policy.test.ts fails due to OPENCLAW_CONTAINER_HINT env leak from lifecycle-core.test.ts",
       "state": "OPEN",
-      "createdAt": "2026-03-05T18:49:24Z",
+      "createdAt": "2026-03-24T16:56:47Z",
       "closedAt": null
     }
   ],
   "recentReviews": [
     {
-      "prNumber": 36587,
+      "prNumber": 52315,
       "state": "COMMENTED",
-      "createdAt": "2026-03-06T05:03:19Z"
+      "createdAt": "2026-03-24T15:42:18Z"
     },
     {
-      "prNumber": 36587,
+      "prNumber": 52109,
       "state": "COMMENTED",
-      "createdAt": "2026-03-06T05:03:13Z"
+      "createdAt": "2026-03-24T15:26:38Z"
+    },
+    {
+      "prNumber": 52109,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T15:26:25Z"
+    },
+    {
+      "prNumber": 52315,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T15:27:45Z"
+    },
+    {
+      "prNumber": 52109,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T14:45:29Z"
+    },
+    {
+      "prNumber": 51848,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T14:38:22Z"
+    },
+    {
+      "prNumber": 52109,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T06:25:45Z"
+    },
+    {
+      "prNumber": 52109,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T06:25:36Z"
+    },
+    {
+      "prNumber": 51848,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T20:39:55Z"
+    },
+    {
+      "prNumber": 51848,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T20:33:38Z"
+    },
+    {
+      "prNumber": 51848,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T20:33:34Z"
+    },
+    {
+      "prNumber": 51848,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T20:33:28Z"
+    },
+    {
+      "prNumber": 51836,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T20:21:07Z"
     }
   ],
   "recentActivityDays": {
-    "2026-03-05": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 0,
+    "2026-03-22": {
+      "prs": 2,
       "issues": 0,
-      "reviews": 2
+      "reviews": 5
+    },
+    "2026-03-21": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 3
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting"
+    "Issue Reporting",
+    "Discussion"
   ],
   "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
     {
       "id": "well-rounded",
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-02": 1
-  }
+  ]
 }

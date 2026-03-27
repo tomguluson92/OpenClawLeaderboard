@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/264572156?u=f19fe231ee45db81f6cf81370d8f972e7a6f99b9&v=4",
   "githubUrl": "https://github.com/xaeon2026",
   "score": {
-    "score": 265.54,
-    "prScore": 240.04,
-    "issueScore": 18,
+    "score": 178.73,
+    "prScore": 174.73,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 7.5
+    "commentScore": 4
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 16,
-    "prsMerged": 2,
-    "prAdditions": 2768,
-    "prDeletions": 364,
-    "prChangedFiles": 69,
-    "prMergeRate": 13,
-    "issues": 3,
-    "issuesClosed": 1,
+    "prs": 10,
+    "prsMerged": 0,
+    "prAdditions": 1132,
+    "prDeletions": 308,
+    "prChangedFiles": 48,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 15,
-    "commitAdditions": 249,
-    "commitDeletions": 33,
-    "commitChangedFiles": 10
+    "comments": 8
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 216,
-      "commitDeletions": 29,
-      "commits": 1
+      "comments": 0
     },
     "monthly": {
-      "prs": 16,
-      "issues": 3,
+      "prs": 10,
+      "issues": 0,
       "reviews": 0,
-      "comments": 15,
-      "commitAdditions": 249,
-      "commitDeletions": 33,
-      "commits": 2
+      "comments": 8
     }
   },
-  "firstContribution": "2026-03-07T21:42:33Z",
-  "lastContribution": "2026-03-13T22:03:19Z",
+  "firstContribution": "2026-03-09T13:31:01Z",
+  "lastContribution": "2026-03-21T12:39:07Z",
   "recentPRs": [
+    {
+      "number": 51610,
+      "title": "Fix session_status runtime model display",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T12:39:07Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 3,
+      "changedFiles": 2
+    },
     {
       "number": 42892,
       "title": "fix(agents): fail over and sanitize Codex server_error payloads",
@@ -59,9 +61,9 @@
       "merged": false,
       "createdAt": "2026-03-11T06:29:43Z",
       "mergedAt": null,
-      "additions": 181,
-      "deletions": 19,
-      "changedFiles": 7
+      "additions": 190,
+      "deletions": 13,
+      "changedFiles": 8
     },
     {
       "number": 42267,
@@ -150,110 +152,16 @@
       "additions": 35,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 40996,
-      "title": "Deduplicate repeated tool call IDs for OpenAI-compatible APIs",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T12:50:33Z",
-      "mergedAt": "2026-03-15T11:46:07Z",
-      "additions": 216,
-      "deletions": 29,
-      "changedFiles": 7
-    },
-    {
-      "number": 40995,
-      "title": "Allow ACP sessions.patch lineage fields on ACP session keys",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T12:50:33Z",
-      "mergedAt": "2026-03-09T16:08:12Z",
-      "additions": 33,
-      "deletions": 4,
-      "changedFiles": 3
-    },
-    {
-      "number": 40926,
-      "title": "Skip plugin reinstalls when npm updates are already current",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T11:32:25Z",
-      "mergedAt": null,
-      "additions": 532,
-      "deletions": 10,
-      "changedFiles": 3
-    },
-    {
-      "number": 40925,
-      "title": "Allow negative Telegram groupAllowFrom IDs",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T11:32:15Z",
-      "mergedAt": null,
-      "additions": 32,
-      "deletions": 10,
-      "changedFiles": 2
-    },
-    {
-      "number": 40885,
-      "title": "Track ACP sessions_spawn runs and emit ACP lifecycle events",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T10:48:44Z",
-      "mergedAt": null,
-      "additions": 364,
-      "deletions": 0,
-      "changedFiles": 5
-    },
-    {
-      "number": 40834,
-      "title": "Surface install hints for stable/beta bundled plugins with unresolved package dependencies",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T09:49:30Z",
-      "mergedAt": null,
-      "additions": 487,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 39229,
-      "title": "Fix macOS LaunchAgent restart path leaving gateway unloaded after bootout",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T22:15:32Z",
-      "mergedAt": null,
-      "additions": 10,
-      "deletions": 0,
-      "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42264,
-      "title": "Probe sessions can time out after a successful reply because post-run idle flush consumes the timeout budget",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T15:05:03Z",
-      "closedAt": null
-    },
-    {
-      "number": 40832,
-      "title": "Stable/beta bundled plugins can fail to load when published artifacts omit required package dependencies",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T09:44:40Z",
-      "closedAt": null
-    },
-    {
-      "number": 39211,
-      "title": "[Bug]: macOS LaunchAgent restart can leave ai.openclaw.gateway unloaded after bootout",
-      "state": "CLOSED",
-      "createdAt": "2026-03-07T21:42:33Z",
-      "closedAt": "2026-03-09T05:36:28Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
@@ -261,23 +169,17 @@
     },
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     },
     "2026-03-09": {
-      "prs": 13,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 7,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
@@ -286,9 +188,5 @@
       "label": "PR Machine",
       "description": "10+ pull requests"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-15": 1,
-    "2026-03-09": 1
-  }
+  ]
 }

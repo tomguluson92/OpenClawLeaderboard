@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/246810661?v=4",
   "githubUrl": "https://github.com/masatohoshino",
   "score": {
-    "score": 74.24,
+    "score": 73.74,
     "prScore": 39.24,
     "issueScore": 0,
     "reviewScore": 30,
-    "commentScore": 5
+    "commentScore": 4.5
   },
   "tier": "regular",
   "characterClass": "Reviewer",
@@ -24,29 +24,20 @@
     "reviews": 10,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 9
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
-      "reviews": 10,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 3,
       "issues": 0,
       "reviews": 10,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 9
     }
   },
   "firstContribution": "2026-03-13T13:52:24Z",
@@ -172,6 +163,5 @@
       "label": "Code Reviewer",
       "description": "10+ reviews"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

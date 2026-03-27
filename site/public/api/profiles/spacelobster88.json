@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259795141?v=4",
   "githubUrl": "https://github.com/spacelobster88",
   "score": {
-    "score": 264.28,
-    "prScore": 264.28,
+    "score": 495.29,
+    "prScore": 495.29,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,137 +13,265 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 41,
     "prsMerged": 0,
-    "prAdditions": 13593,
-    "prDeletions": 1058850,
-    "prChangedFiles": 5934,
+    "prAdditions": 14000,
+    "prDeletions": 1058946,
+    "prChangedFiles": 5992,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 33,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 41,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-15T00:04:50Z",
-  "lastContribution": "2026-03-15T03:02:54Z",
+  "lastContribution": "2026-03-20T19:47:58Z",
   "recentPRs": [
     {
-      "number": 46777,
-      "title": "fix(cron): apply agents.defaults.model.fallbacks to cron sessions",
-      "state": "OPEN",
+      "number": 51249,
+      "title": "fix(telegram): re-register AbortSignal listener after polling recovery restart",
+      "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-15T03:02:54Z",
+      "createdAt": "2026-03-20T19:47:58Z",
       "mergedAt": null,
-      "additions": 676,
-      "deletions": 372,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51248,
+      "title": "fix: resolve workspace paths against correct cwd on agent startup",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:47:55Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51247,
+      "title": "fix: throw FailoverError on rate-limited retry exhaustion to trigger model fallback",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:47:55Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 51246,
+      "title": "fix: use consistent timezone handling for session timestamps",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:47:52Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
       "changedFiles": 2
     },
     {
-      "number": 46771,
-      "title": "fix(daemon): prefer index.js over entry.js to fix stale systemd entrypoint",
-      "state": "OPEN",
+      "number": 51243,
+      "title": "fix(catalog): mark deepseek-v3.2 as supportsTools: true",
+      "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-15T02:56:20Z",
+      "createdAt": "2026-03-20T19:45:10Z",
       "mergedAt": null,
-      "additions": 1448,
-      "deletions": 346,
-      "changedFiles": 5
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
     },
     {
-      "number": 46766,
-      "title": "fix(ui): Chat UI shows correct token count instead of inflated cumulative value",
-      "state": "OPEN",
+      "number": 51241,
+      "title": "fix(auth): skip API key requirement for local Ollama provider",
+      "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-15T02:53:08Z",
+      "createdAt": "2026-03-20T19:45:07Z",
       "mergedAt": null,
-      "additions": 2158,
-      "deletions": 100,
-      "changedFiles": 4
+      "additions": 23,
+      "deletions": 0,
+      "changedFiles": 1
     },
     {
-      "number": 46765,
-      "title": "fix: map reasoning_effort minimal to low for NIM/vLLM",
-      "state": "OPEN",
+      "number": 51240,
+      "title": "fix(ollama): send think parameter in API request body",
+      "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-15T02:52:54Z",
+      "createdAt": "2026-03-20T19:45:05Z",
       "mergedAt": null,
-      "additions": 2608,
-      "deletions": 167,
-      "changedFiles": 2
+      "additions": 9,
+      "deletions": 0,
+      "changedFiles": 1
     },
     {
-      "number": 46759,
-      "title": "fix(modelstudio): enable streaming usage for bailian provider",
-      "state": "OPEN",
+      "number": 51239,
+      "title": "fix(ollama): deserialize string tool call arguments",
+      "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-15T02:44:59Z",
+      "createdAt": "2026-03-20T19:45:02Z",
       "mergedAt": null,
-      "additions": 3385,
+      "additions": 17,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 51238,
+      "title": "fix(onboard): use model-reported context window for LiteLLM",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:44:58Z",
+      "mergedAt": null,
+      "additions": 29,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 51237,
+      "title": "fix(ui): constrain delete confirmation dialog within viewport",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:44:57Z",
+      "mergedAt": null,
+      "additions": 20,
       "deletions": 0,
       "changedFiles": 2
     },
     {
-      "number": 46758,
-      "title": "fix: strip control characters from reasoning_content in history",
+      "number": 51236,
+      "title": "fix(providers): only send store param when supportsStore is true",
       "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-15T02:43:55Z",
+      "createdAt": "2026-03-20T19:44:55Z",
       "mergedAt": null,
-      "additions": 2252,
-      "deletions": 1054574,
-      "changedFiles": 5905
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
     },
     {
-      "number": 46746,
-      "title": "fix(cron): enforce agent tool deny list at execution time",
-      "state": "OPEN",
+      "number": 51235,
+      "title": "fix(ui): fix scroll pill triangle rendering artifact",
+      "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-15T02:31:23Z",
+      "createdAt": "2026-03-20T19:44:55Z",
       "mergedAt": null,
-      "additions": 163,
-      "deletions": 3242,
-      "changedFiles": 12
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
     },
     {
-      "number": 46666,
-      "title": "fix: check interactiveReplies instead of inlineButtons in Slack system prompt",
-      "state": "OPEN",
+      "number": 51233,
+      "title": "fix(gateway): allow microphone in Permissions-Policy for STT",
+      "state": "CLOSED",
       "merged": false,
-      "createdAt": "2026-03-15T00:04:50Z",
+      "createdAt": "2026-03-20T19:44:53Z",
       "mergedAt": null,
-      "additions": 903,
-      "deletions": 49,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51232,
+      "title": "fix(minimax): correct inverted usage percentage calculation",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:44:50Z",
+      "mergedAt": null,
+      "additions": 6,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 51231,
+      "title": "fix(ui): update context percentage and token count after compaction",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:44:48Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 51230,
+      "title": "fix(mattermost): add user: prefix for DM delivery in cron announce",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:44:48Z",
+      "mergedAt": null,
+      "additions": 13,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51229,
+      "title": "fix(ui): hide 'Copied!' text in code block copy button by default",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:44:45Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51227,
+      "title": "fix(telegram): include reply_to_message_id for replyToMode in groups",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:44:44Z",
+      "mergedAt": null,
+      "additions": 11,
+      "deletions": 1,
       "changedFiles": 2
+    },
+    {
+      "number": 51226,
+      "title": "fix(slack): gracefully handle duplicate reaction add attempts",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:44:39Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 5,
+      "changedFiles": 1
+    },
+    {
+      "number": 51224,
+      "title": "fix(feishu): respect blockStreamingDefault config instead of hardcoding",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T19:44:37Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 1,
+      "changedFiles": 1
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 33,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 8,
       "issues": 0,
@@ -156,10 +284,14 @@
   ],
   "achievements": [
     {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
       "id": "prolific",
       "label": "Prolific Coder",
       "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

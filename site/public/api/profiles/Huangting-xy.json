@@ -3,55 +3,79 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/266665499?v=4",
   "githubUrl": "https://github.com/Huangting-xy",
   "score": {
-    "score": 24.6,
-    "prScore": 24.6,
+    "score": 67.57,
+    "prScore": 67.57,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 141,
-    "prDeletions": 14,
-    "prChangedFiles": 7,
+    "prAdditions": 844,
+    "prDeletions": 40,
+    "prChangedFiles": 16,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-12T11:52:13Z",
-  "lastContribution": "2026-03-13T01:44:13Z",
+  "lastContribution": "2026-03-27T07:54:53Z",
   "recentPRs": [
+    {
+      "number": 55646,
+      "title": "fix(skills): honor OPENAI_BASE_URL in whisper api skill",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T07:54:53Z",
+      "mergedAt": null,
+      "additions": 159,
+      "deletions": 12,
+      "changedFiles": 3
+    },
+    {
+      "number": 55507,
+      "title": "Fix Issue #55126: memorySearch outputDimensionality not passed to OpenAI embeddings API (Matryoshka support)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T02:51:06Z",
+      "mergedAt": null,
+      "additions": 385,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 55428,
+      "title": "fix(openai): pass outputDimensionality to OpenAI embeddings API (Matryoshka support)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-27T00:22:32Z",
+      "mergedAt": null,
+      "additions": 159,
+      "deletions": 12,
+      "changedFiles": 3
+    },
     {
       "number": 44520,
       "title": "Gateway: add safe restart script to avoid suicide paradox",
@@ -78,6 +102,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
@@ -92,6 +121,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

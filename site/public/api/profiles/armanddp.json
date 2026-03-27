@@ -1,0 +1,108 @@
+{
+  "username": "armanddp",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6898?u=a76a7951ef1b499949b8171a002d298d51d0c253&v=4",
+  "githubUrl": "https://github.com/armanddp",
+  "score": {
+    "score": 50.96,
+    "prScore": 38.96,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 4
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 368,
+    "prDeletions": 29,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 8
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 8
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 8
+    }
+  },
+  "firstContribution": "2026-03-23T12:35:25Z",
+  "lastContribution": "2026-03-25T22:56:51Z",
+  "recentPRs": [
+    {
+      "number": 54728,
+      "title": "fix: QMD 1.1+ mcporter compatibility with legacy fallback [AI-assisted]",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T22:06:49Z",
+      "mergedAt": null,
+      "additions": 263,
+      "deletions": 27,
+      "changedFiles": 2
+    },
+    {
+      "number": 52846,
+      "title": "fix: keep whatsapp and acpx bundled, show install hint for missing channel plugins [AI-assisted]",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T12:48:09Z",
+      "mergedAt": null,
+      "additions": 100,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 52833,
+      "title": "fix: include optional bundled plugins (WhatsApp, ACPX, etc.) in npm and Docker releases",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T12:35:25Z",
+      "mergedAt": null,
+      "additions": 5,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 52838,
+      "title": "[Bug]: WhatsApp (and other optional bundled plugins) silently broken after upgrade to 2026.3.22",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T12:38:35Z",
+      "closedAt": "2026-03-23T18:09:57Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

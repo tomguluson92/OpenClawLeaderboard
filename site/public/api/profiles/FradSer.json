@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1439628?v=4",
   "githubUrl": "https://github.com/FradSer",
   "score": {
-    "score": 106.78,
-    "prScore": 93.78,
+    "score": 71.55,
+    "prScore": 59.55,
     "issueScore": 0,
     "reviewScore": 12,
-    "commentScore": 1
+    "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Maintainer",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 681,
-    "prDeletions": 177,
-    "prChangedFiles": 29,
+    "prAdditions": 458,
+    "prDeletions": 100,
+    "prChangedFiles": 24,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 4,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 4,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-06T07:21:42Z",
+  "firstContribution": "2026-03-18T11:08:22Z",
   "lastContribution": "2026-03-19T00:04:08Z",
   "recentPRs": [
     {
@@ -73,39 +64,6 @@
       "additions": 236,
       "deletions": 60,
       "changedFiles": 16
-    },
-    {
-      "number": 37740,
-      "title": "fix(daemon): add systemd system service fallback for VPS/cloud servers",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T11:49:20Z",
-      "mergedAt": null,
-      "additions": 217,
-      "deletions": 70,
-      "changedFiles": 3
-    },
-    {
-      "number": 37435,
-      "title": "fix(gateway): track stopped channels on restart",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T08:01:21Z",
-      "mergedAt": null,
-      "additions": 1,
-      "deletions": 3,
-      "changedFiles": 1
-    },
-    {
-      "number": 37382,
-      "title": "fix(ui): separate device token from shared auth token",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T07:21:42Z",
-      "mergedAt": null,
-      "additions": 5,
-      "deletions": 4,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -137,11 +95,6 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-06": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
     "2026-03-19": {
       "prs": 0,
       "issues": 0,
@@ -150,9 +103,7 @@
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
-    "Discussion"
+    "Code Review"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

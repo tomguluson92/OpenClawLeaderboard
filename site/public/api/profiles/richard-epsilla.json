@@ -1,0 +1,109 @@
+{
+  "username": "richard-epsilla",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/131846445?u=8d1065ad8e4be5587d45e2db6c500fb077d6060e&v=4",
+  "githubUrl": "https://github.com/richard-epsilla",
+  "score": {
+    "score": 44.3,
+    "prScore": 26.8,
+    "issueScore": 5,
+    "reviewScore": 12,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 401,
+    "prDeletions": 2,
+    "prChangedFiles": 11,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-26T01:38:28Z",
+  "lastContribution": "2026-03-26T02:06:15Z",
+  "recentPRs": [
+    {
+      "number": 54805,
+      "title": "feat(plugins): dispatch plugin_updated hooks during plugins update",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T01:38:28Z",
+      "mergedAt": null,
+      "additions": 401,
+      "deletions": 2,
+      "changedFiles": 11
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54813,
+      "title": "[Feature]: Plugin lifecycle hook for upgrades (plugin_updated) to support post-update migrations and skill sync",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T01:50:43Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 54805,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T01:58:13Z"
+    },
+    {
+      "prNumber": 54805,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T01:58:05Z"
+    },
+    {
+      "prNumber": 54805,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T01:58:05Z"
+    },
+    {
+      "prNumber": 54805,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T01:58:05Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 4
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

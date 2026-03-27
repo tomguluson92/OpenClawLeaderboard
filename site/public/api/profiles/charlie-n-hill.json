@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/39253519?u=dadf57fa5e57c0c4b27b246c5195ed5eb661c9cc&v=4",
   "githubUrl": "https://github.com/charlie-n-hill",
   "score": {
-    "score": 74.91,
+    "score": 68.91,
     "prScore": 66.91,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3
+    "commentScore": 2
   },
   "tier": "regular",
   "characterClass": "Contributor",
@@ -19,37 +19,28 @@
     "prDeletions": 6,
     "prChangedFiles": 28,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-11T15:16:20Z",
+  "firstContribution": "2026-03-11T16:52:49Z",
   "lastContribution": "2026-03-15T20:18:21Z",
   "recentPRs": [
     {
@@ -75,28 +66,18 @@
       "changedFiles": 15
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43286,
-      "title": "Add session.threadIsolation: false to allow shared session across Slack threads",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T15:16:20Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

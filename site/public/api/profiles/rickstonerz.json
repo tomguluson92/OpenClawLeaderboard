@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/123851024?u=d4bfc0aed57500de8c3b995ee29b2335896bb6b6&v=4",
   "githubUrl": "https://github.com/rickstonerz",
   "score": {
-    "score": 37.29,
-    "prScore": 11.79,
-    "issueScore": 5,
-    "reviewScore": 18,
-    "commentScore": 2.5
+    "score": 26.37,
+    "prScore": 10.37,
+    "issueScore": 0,
+    "reviewScore": 15,
+    "commentScore": 1
   },
   "tier": "beginner",
   "characterClass": "Reviewer",
@@ -15,127 +15,90 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 172,
-    "prDeletions": 31,
-    "prChangedFiles": 3,
+    "prAdditions": 265,
+    "prDeletions": 8,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 2,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 2
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
-      "reviews": 6,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 0,
+      "reviews": 5,
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-04T02:50:43Z",
-  "lastContribution": "2026-03-12T01:19:09Z",
+  "firstContribution": "2026-03-25T21:49:48Z",
+  "lastContribution": "2026-03-27T03:34:20Z",
   "recentPRs": [
     {
-      "number": 33819,
-      "title": "fix(gateway): production security hardening — trusted-proxy auth, shared-secret, nginx rDNS + .lan internal routing for multi-node swarm",
+      "number": 54718,
+      "title": "Pr 33819 fallback fixes",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-04T02:50:43Z",
+      "createdAt": "2026-03-25T21:49:48Z",
       "mergedAt": null,
-      "additions": 172,
-      "deletions": 31,
-      "changedFiles": 3
+      "additions": 265,
+      "deletions": 8,
+      "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43561,
-      "title": "trusted-proxy mode is broken with nginx — proxy headers are never evaluated, making production multi-node deployments insecure",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T01:16:36Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
-      "prNumber": 33819,
+      "prNumber": 54718,
       "state": "COMMENTED",
-      "createdAt": "2026-03-07T20:51:49Z"
+      "createdAt": "2026-03-26T04:20:34Z"
     },
     {
-      "prNumber": 33819,
+      "prNumber": 54718,
       "state": "COMMENTED",
-      "createdAt": "2026-03-07T20:25:03Z"
+      "createdAt": "2026-03-26T03:43:17Z"
     },
     {
-      "prNumber": 33819,
+      "prNumber": 54718,
       "state": "COMMENTED",
-      "createdAt": "2026-03-04T10:13:23Z"
+      "createdAt": "2026-03-26T03:34:12Z"
     },
     {
-      "prNumber": 33819,
+      "prNumber": 54718,
       "state": "COMMENTED",
-      "createdAt": "2026-03-04T10:12:50Z"
+      "createdAt": "2026-03-26T02:44:53Z"
     },
     {
-      "prNumber": 33819,
+      "prNumber": 54718,
       "state": "COMMENTED",
-      "createdAt": "2026-03-04T05:25:46Z"
-    },
-    {
-      "prNumber": 33819,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-04T05:24:56Z"
+      "createdAt": "2026-03-26T01:20:52Z"
     }
   ],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 5
+    }
+  },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {},
-  "recentActivityDays": {
-    "2026-03-04": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 4
-    },
-    "2026-03-12": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
-    }
-  }
+  "achievements": []
 }

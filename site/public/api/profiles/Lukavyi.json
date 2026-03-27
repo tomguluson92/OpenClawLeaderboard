@@ -3,55 +3,101 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1013690?v=4",
   "githubUrl": "https://github.com/Lukavyi",
   "score": {
-    "score": 159.07,
-    "prScore": 149.57,
-    "issueScore": 8,
-    "reviewScore": 0,
-    "commentScore": 1.5
+    "score": 250.13,
+    "prScore": 203.63,
+    "issueScore": 37,
+    "reviewScore": 3,
+    "commentScore": 6.5
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 11,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 261,
-    "prDeletions": 0,
-    "prChangedFiles": 9,
-    "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 1,
-    "reviews": 0,
+    "commits": 15,
+    "prs": 6,
+    "prsMerged": 4,
+    "prAdditions": 1468,
+    "prDeletions": 36,
+    "prChangedFiles": 34,
+    "prMergeRate": 67,
+    "issues": 5,
+    "issuesClosed": 4,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 1446,
-    "commitDeletions": 72,
-    "commitChangedFiles": 30
+    "comments": 13
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 5,
+      "issues": 4,
+      "reviews": 1,
+      "comments": 10
     },
     "monthly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 865,
-      "commitDeletions": 51,
-      "commits": 4
+      "prs": 6,
+      "issues": 5,
+      "reviews": 1,
+      "comments": 13
     }
   },
   "firstContribution": "2026-03-14T17:01:18Z",
-  "lastContribution": "2026-03-16T12:46:42Z",
+  "lastContribution": "2026-03-24T11:38:19Z",
   "recentPRs": [
+    {
+      "number": 53577,
+      "title": "fix(secrets): prevent unresolved SecretRef from crashing embedded agent runs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T09:17:08Z",
+      "mergedAt": "2026-03-24T13:22:05Z",
+      "additions": 144,
+      "deletions": 9,
+      "changedFiles": 6
+    },
+    {
+      "number": 52900,
+      "title": "fix: populate currentThreadTs in threading tool context fallback (#52217)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T13:54:46Z",
+      "mergedAt": "2026-03-24T02:57:03Z",
+      "additions": 3,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 52824,
+      "title": "fix(announce): preserve threadId in subagent announce for Telegram DM topics",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T12:11:36Z",
+      "mergedAt": null,
+      "additions": 142,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 52791,
+      "title": "fix(command-auth): handle unresolved SecretRef in resolveAllowFrom",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T10:59:23Z",
+      "mergedAt": "2026-03-24T02:51:30Z",
+      "additions": 471,
+      "deletions": 23,
+      "changedFiles": 3
+    },
+    {
+      "number": 51502,
+      "title": "feat(telegram): auto-rename DM topics on first message",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T08:10:43Z",
+      "mergedAt": "2026-03-21T11:23:31Z",
+      "additions": 447,
+      "deletions": 0,
+      "changedFiles": 12
+    },
     {
       "number": 46407,
       "title": "feat(telegram): add topic-edit action for editForumTopic API",
@@ -66,6 +112,34 @@
   ],
   "recentIssues": [
     {
+      "number": 53581,
+      "title": "[Feature]: Split cron store into definitions + runtime state files",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T09:27:35Z",
+      "closedAt": null
+    },
+    {
+      "number": 52790,
+      "title": "[Bug]: Slash commands crash with SecretRef resolution error in command authorization",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T10:59:07Z",
+      "closedAt": "2026-03-24T02:51:31Z"
+    },
+    {
+      "number": 52217,
+      "title": "[Bug]: Subagent announce delivers to wrong Telegram DM topic (stale threadId)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-22T11:46:47Z",
+      "closedAt": "2026-03-24T02:57:05Z"
+    },
+    {
+      "number": 51485,
+      "title": "Feature: Auto-rename Telegram DM topics based on conversation content",
+      "state": "CLOSED",
+      "createdAt": "2026-03-21T07:39:34Z",
+      "closedAt": "2026-03-21T11:23:33Z"
+    },
+    {
       "number": 48204,
       "title": "Phantom duplicate session key causes /status to show 0 tokens when real session has data",
       "state": "CLOSED",
@@ -73,11 +147,37 @@
       "closedAt": "2026-03-17T07:41:46Z"
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 53577,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T11:12:12Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 1
+    },
+    "2026-03-23": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 1,
       "reviews": 0
     },
     "2026-03-16": {
@@ -88,18 +188,21 @@
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-02-27": 1,
-    "2026-02-26": 1,
-    "2026-02-21": 1,
-    "2026-02-18": 1,
-    "2026-02-12": 1,
-    "2026-02-05": 3,
-    "2026-01-29": 3
-  }
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

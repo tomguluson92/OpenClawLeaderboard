@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7495165?v=4",
   "githubUrl": "https://github.com/lishuaigit",
   "score": {
-    "score": 193.76,
-    "prScore": 188.76,
+    "score": 91.01,
+    "prScore": 90.01,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 5
+    "commentScore": 1
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 12,
+    "prs": 8,
     "prsMerged": 0,
-    "prAdditions": 1060,
-    "prDeletions": 58,
-    "prChangedFiles": 28,
+    "prAdditions": 476,
+    "prDeletions": 67,
+    "prChangedFiles": 18,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 275,
-    "commitDeletions": 50,
-    "commitChangedFiles": 20
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 275,
-      "commitDeletions": 50,
-      "commits": 1
+      "comments": 0
     },
     "monthly": {
-      "prs": 12,
+      "prs": 8,
       "issues": 0,
       "reviews": 0,
-      "comments": 10,
-      "commitAdditions": 275,
-      "commitDeletions": 50,
-      "commits": 1
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-06T06:32:22Z",
+  "firstContribution": "2026-03-09T14:36:28Z",
   "lastContribution": "2026-03-20T03:30:22Z",
   "recentPRs": [
     {
@@ -59,9 +50,9 @@
       "merged": false,
       "createdAt": "2026-03-20T03:30:22Z",
       "mergedAt": null,
-      "additions": 51,
-      "deletions": 2,
-      "changedFiles": 2
+      "additions": 58,
+      "deletions": 9,
+      "changedFiles": 3
     },
     {
       "number": 50801,
@@ -70,9 +61,9 @@
       "merged": false,
       "createdAt": "2026-03-20T03:29:59Z",
       "mergedAt": null,
-      "additions": 70,
-      "deletions": 4,
-      "changedFiles": 2
+      "additions": 77,
+      "deletions": 11,
+      "changedFiles": 3
     },
     {
       "number": 50446,
@@ -103,9 +94,9 @@
       "merged": false,
       "createdAt": "2026-03-19T13:06:27Z",
       "mergedAt": null,
-      "additions": 76,
-      "deletions": 1,
-      "changedFiles": 2
+      "additions": 83,
+      "deletions": 8,
+      "changedFiles": 3
     },
     {
       "number": 50434,
@@ -114,9 +105,9 @@
       "merged": false,
       "createdAt": "2026-03-19T13:03:36Z",
       "mergedAt": null,
-      "additions": 58,
-      "deletions": 1,
-      "changedFiles": 3
+      "additions": 7,
+      "deletions": 7,
+      "changedFiles": 1
     },
     {
       "number": 50429,
@@ -125,9 +116,9 @@
       "merged": false,
       "createdAt": "2026-03-19T12:50:04Z",
       "mergedAt": null,
-      "additions": 121,
-      "deletions": 18,
-      "changedFiles": 2
+      "additions": 128,
+      "deletions": 25,
+      "changedFiles": 3
     },
     {
       "number": 41136,
@@ -139,50 +130,6 @@
       "additions": 6,
       "deletions": 1,
       "changedFiles": 1
-    },
-    {
-      "number": 38776,
-      "title": "fix(feishu): extract content from interactive card variants when quoting",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T10:45:00Z",
-      "mergedAt": null,
-      "additions": 269,
-      "deletions": 12,
-      "changedFiles": 2
-    },
-    {
-      "number": 38611,
-      "title": "fix(feishu): extract content from interactive card variants when quoting",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T05:44:29Z",
-      "mergedAt": null,
-      "additions": 233,
-      "deletions": 12,
-      "changedFiles": 2
-    },
-    {
-      "number": 37549,
-      "title": "fix(logging): subsystem loggers now follow root logger rotation",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T09:19:25Z",
-      "mergedAt": null,
-      "additions": 50,
-      "deletions": 1,
-      "changedFiles": 4
-    },
-    {
-      "number": 37296,
-      "title": "fix(discord): pass appliedTags through channel-edit action",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T06:32:22Z",
-      "mergedAt": null,
-      "additions": 9,
-      "deletions": 0,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
@@ -202,30 +149,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-17": 1
-  }
+  "achievements": []
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/217144265?v=4",
   "githubUrl": "https://github.com/Mateljan1",
   "score": {
-    "score": 189.97,
-    "prScore": 189.97,
+    "score": 84.65,
+    "prScore": 84.65,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,43 +13,34 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 28233,
-    "prDeletions": 2442,
-    "prChangedFiles": 357,
+    "prAdditions": 3634,
+    "prDeletions": 591,
+    "prChangedFiles": 31,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-07T20:41:30Z",
+  "firstContribution": "2026-03-10T14:45:52Z",
   "lastContribution": "2026-03-10T14:45:52Z",
   "recentPRs": [
     {
@@ -62,50 +53,6 @@
       "additions": 3634,
       "deletions": 591,
       "changedFiles": 31
-    },
-    {
-      "number": 41012,
-      "title": "fix: hotfix batch -- config schema, ACP sessions, duplicate tool IDs, redaction crash, usage streaming",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T13:03:26Z",
-      "mergedAt": null,
-      "additions": 266,
-      "deletions": 53,
-      "changedFiles": 14
-    },
-    {
-      "number": 40969,
-      "title": "fix(gohighlevel): extract nested Workflow payload body + misc lint fixes",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T12:26:23Z",
-      "mergedAt": null,
-      "additions": 21349,
-      "deletions": 1326,
-      "changedFiles": 287
-    },
-    {
-      "number": 39269,
-      "title": "fix: batch bug fixes — routing, delivery, errors, plugins",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T23:50:09Z",
-      "mergedAt": null,
-      "additions": 106,
-      "deletions": 17,
-      "changedFiles": 8
-    },
-    {
-      "number": 39167,
-      "title": "feat(gohighlevel): add GoHighLevel CRM channel extension",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T20:41:30Z",
-      "mergedAt": null,
-      "additions": 2878,
-      "deletions": 455,
-      "changedFiles": 17
     }
   ],
   "recentIssues": [],
@@ -115,28 +62,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Large-Scale Changes"
+    "Pull Requests"
   ],
-  "achievements": [
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/36074847?u=c75e30d8e3acb5023898d55d546093c0cc6eb58d&v=4",
   "githubUrl": "https://github.com/best",
   "score": {
-    "score": 33.96,
+    "score": 24.46,
     "prScore": 22.96,
-    "issueScore": 8,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 3
+    "commentScore": 1.5
   },
   "tier": "beginner",
-  "characterClass": "Contributor",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,37 +19,28 @@
     "prDeletions": 21,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 3
     }
   },
-  "firstContribution": "2026-03-10T07:29:06Z",
+  "firstContribution": "2026-03-10T07:29:47Z",
   "lastContribution": "2026-03-13T10:52:15Z",
   "recentPRs": [
     {
@@ -75,15 +66,7 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41901,
-      "title": "[Bug]: command-queue module-scoped state duplicated by code-splitting, maxConcurrent config ignored",
-      "state": "CLOSED",
-      "createdAt": "2026-03-10T07:29:06Z",
-      "closedAt": "2026-03-12T18:59:28Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-13": {
@@ -93,15 +76,13 @@
     },
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

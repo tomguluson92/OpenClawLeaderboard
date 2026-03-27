@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17867174?v=4",
   "githubUrl": "https://github.com/markmonkey",
   "score": {
-    "score": 40.57,
+    "score": 35.57,
     "prScore": 33.07,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 2.5
   },
@@ -19,37 +19,28 @@
     "prDeletions": 57,
     "prChangedFiles": 11,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 5
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 5
     }
   },
-  "firstContribution": "2026-03-10T09:55:35Z",
+  "firstContribution": "2026-03-10T09:56:08Z",
   "lastContribution": "2026-03-11T09:26:25Z",
   "recentPRs": [
     {
@@ -75,28 +66,18 @@
       "changedFiles": 9
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42020,
-      "title": "openai-codex OAuth token exchange can ignore proxy env in proxy/TUN setups",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T09:55:35Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

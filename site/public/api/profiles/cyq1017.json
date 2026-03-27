@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/61975706?u=870423dd0b4dd92133a4c019e402db32a6765862&v=4",
   "githubUrl": "https://github.com/cyq1017",
   "score": {
-    "score": 32.8,
+    "score": 17.8,
     "prScore": 17.8,
-    "issueScore": 15,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 2,
     "prChangedFiles": 7,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-07T21:52:33Z",
+  "firstContribution": "2026-03-10T21:33:20Z",
   "lastContribution": "2026-03-10T21:33:20Z",
   "recentPRs": [
     {
@@ -64,51 +55,17 @@
       "changedFiles": 7
     }
   ],
-  "recentIssues": [
-    {
-      "number": 40294,
-      "title": "[Feature]: Per-agent auth profile binding for multi-account setups",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T21:58:53Z",
-      "closedAt": null
-    },
-    {
-      "number": 39218,
-      "title": "[Docs] Cron delivery: document announce mode behavior and common pitfalls for multi-channel agents",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T21:55:15Z",
-      "closedAt": null
-    },
-    {
-      "number": 39217,
-      "title": "[Bug] TUI: /new session replies broadcast to all connected TUI clients for the same agent",
-      "state": "OPEN",
-      "createdAt": "2026-03-07T21:52:33Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

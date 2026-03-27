@@ -3,59 +3,72 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/62380760?v=4",
   "githubUrl": "https://github.com/chziyue",
   "score": {
-    "score": 7.33,
-    "prScore": 7.33,
+    "score": 25.96,
+    "prScore": 24.96,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 1
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 1,
-    "prDeletions": 1,
-    "prChangedFiles": 1,
+    "prAdditions": 23,
+    "prDeletions": 3,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-17T13:00:12Z",
-  "lastContribution": "2026-03-17T13:00:12Z",
+  "lastContribution": "2026-03-25T15:18:48Z",
   "recentPRs": [
+    {
+      "number": 54528,
+      "title": "fix(ui): Stop button shows Send during tool execution",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T15:03:25Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 51378,
+      "title": "Fix Stop button not showing during tool execution",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T02:18:16Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 2
+    },
     {
       "number": 49011,
       "title": "fix(ui): Stop button shows Send during tool execution",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-17T13:00:12Z",
       "mergedAt": null,
@@ -67,6 +80,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-17": {
       "prs": 1,
       "issues": 0,
@@ -74,8 +97,8 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

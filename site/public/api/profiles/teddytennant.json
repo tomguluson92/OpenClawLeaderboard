@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/192647641?u=393ea1a8074dc3d2f0fef1b73b0e19c0ec62e950&v=4",
   "githubUrl": "https://github.com/teddytennant",
   "score": {
-    "score": 70.57,
-    "prScore": 70.57,
+    "score": 73.58,
+    "prScore": 73.58,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -14,39 +14,30 @@
   "stats": {
     "commits": 0,
     "prs": 7,
-    "prsMerged": 0,
-    "prAdditions": 381,
+    "prsMerged": 1,
+    "prAdditions": 382,
     "prDeletions": 18,
     "prChangedFiles": 12,
-    "prMergeRate": 0,
+    "prMergeRate": 14,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 7,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-19T16:10:27Z",
@@ -77,11 +68,11 @@
     {
       "number": 50523,
       "title": "test: add SSRF guard coverage for URL credential bypass vectors",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-19T16:19:57Z",
-      "mergedAt": null,
-      "additions": 33,
+      "mergedAt": "2026-03-20T19:45:07Z",
+      "additions": 34,
       "deletions": 0,
       "changedFiles": 1
     },
@@ -142,6 +133,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

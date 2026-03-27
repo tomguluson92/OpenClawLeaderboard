@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/152018508?v=4",
   "githubUrl": "https://github.com/onutc",
   "score": {
-    "score": 502.86,
-    "prScore": 491.86,
+    "score": 438.61,
+    "prScore": 427.11,
     "issueScore": 0,
     "reviewScore": 7,
-    "commentScore": 4
+    "commentScore": 4.5
   },
-  "tier": "veteran",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 54,
-    "prs": 7,
-    "prsMerged": 6,
-    "prAdditions": 1170,
-    "prDeletions": 76,
-    "prChangedFiles": 23,
-    "prMergeRate": 86,
+    "commits": 56,
+    "prs": 9,
+    "prsMerged": 8,
+    "prAdditions": 1250,
+    "prDeletions": 420,
+    "prChangedFiles": 27,
+    "prMergeRate": 89,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 1,
     "reviewsChangesRequested": 0,
-    "comments": 8,
-    "commitAdditions": 23910,
-    "commitDeletions": 5304,
-    "commitChangedFiles": 304
+    "comments": 9
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 2,
       "issues": 0,
-      "reviews": 1,
-      "comments": 2,
-      "commitAdditions": 432,
-      "commitDeletions": 115,
-      "commits": 11
+      "reviews": 0,
+      "comments": 1
     },
     "monthly": {
-      "prs": 7,
+      "prs": 9,
       "issues": 0,
       "reviews": 2,
-      "comments": 8,
-      "commitAdditions": 13088,
-      "commitDeletions": 1758,
-      "commits": 14
+      "comments": 9
     }
   },
   "firstContribution": "2026-03-09T16:51:19Z",
-  "lastContribution": "2026-03-14T18:38:44Z",
+  "lastContribution": "2026-03-24T19:19:30Z",
   "recentPRs": [
+    {
+      "number": 53178,
+      "title": "Release: document manual macOS asset upload",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T21:47:02Z",
+      "mergedAt": "2026-03-23T22:19:52Z",
+      "additions": 21,
+      "deletions": 8,
+      "changedFiles": 2
+    },
+    {
+      "number": 53166,
+      "title": "Release: route macOS publish through private repo",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T21:25:55Z",
+      "mergedAt": "2026-03-23T21:35:51Z",
+      "additions": 59,
+      "deletions": 336,
+      "changedFiles": 2
+    },
     {
       "number": 46486,
       "title": "ci: allow fallback npm correction tags",
@@ -144,6 +157,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 4,
       "issues": 0,
@@ -167,14 +185,5 @@
       "label": "Merger",
       "description": "5+ merged PRs"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-18": 1,
-    "2026-03-14": 10,
-    "2026-03-10": 2,
-    "2026-02-21": 1,
-    "2026-02-17": 1,
-    "2026-02-16": 1,
-    "2026-02-10": 1
-  }
+  ]
 }

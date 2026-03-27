@@ -1,0 +1,93 @@
+{
+  "username": "mossae",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/251635538?u=3b6ec4ae7fdab62d0f5f5616e606ae8e42629234&v=4",
+  "githubUrl": "https://github.com/mossae",
+  "score": {
+    "score": 25.67,
+    "prScore": 11.67,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 4
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 47,
+    "prDeletions": 1,
+    "prChangedFiles": 4,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 8
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 8
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 8
+    }
+  },
+  "firstContribution": "2026-03-23T09:49:58Z",
+  "lastContribution": "2026-03-24T12:05:15Z",
+  "recentPRs": [
+    {
+      "number": 53528,
+      "title": "feat: watch jobs.json for external changes to invalidate store cache",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T07:55:42Z",
+      "mergedAt": null,
+      "additions": 47,
+      "deletions": 1,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 52772,
+      "title": "[Feature]: Cron scheduler should reload jobs.json after startup (fs.watch or periodic re-read)",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T10:05:26Z",
+      "closedAt": null
+    },
+    {
+      "number": 52766,
+      "title": "[Bug]: Gateway WebSocket handshake timeout on local loopback (non-systemd env) breaks all CLI RPC commands",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T09:49:58Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

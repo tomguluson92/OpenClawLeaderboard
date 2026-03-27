@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8635094?v=4",
   "githubUrl": "https://github.com/odysseus0",
   "score": {
-    "score": 305.73,
-    "prScore": 303.23,
+    "score": 333.65,
+    "prScore": 323.15,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 2.5
+    "reviewScore": 4,
+    "commentScore": 6.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
-    "commits": 10,
-    "prs": 9,
-    "prsMerged": 7,
-    "prAdditions": 69825,
-    "prDeletions": 7500,
-    "prChangedFiles": 1104,
-    "prMergeRate": 78,
+    "commits": 12,
+    "prs": 10,
+    "prsMerged": 8,
+    "prAdditions": 70066,
+    "prDeletions": 8880,
+    "prChangedFiles": 1141,
+    "prMergeRate": 80,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
-    "reviewsApproved": 0,
+    "reviews": 1,
+    "reviewsApproved": 1,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 1128,
-    "commitDeletions": 908,
-    "commitChangedFiles": 75
+    "comments": 13
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 1,
       "issues": 0,
-      "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 562,
-      "commitDeletions": 845,
-      "commits": 4
+      "reviews": 1,
+      "comments": 8
     },
     "monthly": {
-      "prs": 9,
+      "prs": 10,
       "issues": 0,
-      "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 622,
-      "commitDeletions": 847,
-      "commits": 7
+      "reviews": 1,
+      "comments": 13
     }
   },
   "firstContribution": "2026-03-10T13:25:21Z",
-  "lastContribution": "2026-03-18T16:24:58Z",
+  "lastContribution": "2026-03-26T07:11:46Z",
   "recentPRs": [
+    {
+      "number": 54943,
+      "title": "revert: remove video generation core infrastructure (#53681)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T05:54:47Z",
+      "mergedAt": "2026-03-26T06:00:14Z",
+      "additions": 241,
+      "deletions": 1380,
+      "changedFiles": 37
+    },
     {
       "number": 46634,
       "title": "Heartbeat: add isolatedSession option for fresh session per heartbeat run",
@@ -153,8 +155,19 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 53681,
+      "state": "APPROVED",
+      "createdAt": "2026-03-26T01:45:00Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-14": {
       "prs": 6,
       "issues": 0,
@@ -168,11 +181,17 @@
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion",
     "Direct Commits",
     "Large-Scale Changes"
   ],
   "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
     {
       "id": "merger",
       "label": "Merger",
@@ -188,11 +207,5 @@
       "label": "Mega Coder",
       "description": "50K+ lines added"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-14": 4,
-    "2026-03-10": 3,
-    "2026-01-23": 2,
-    "2026-01-19": 1
-  }
+  ]
 }

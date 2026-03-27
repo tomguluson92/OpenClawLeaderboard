@@ -1,0 +1,105 @@
+{
+  "username": "Proita",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/210555382?v=4",
+  "githubUrl": "https://github.com/Proita",
+  "score": {
+    "score": 26.62,
+    "prScore": 10.12,
+    "issueScore": 15,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 30,
+    "prDeletions": 1,
+    "prChangedFiles": 3,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 3
+    }
+  },
+  "firstContribution": "2026-03-18T03:21:13Z",
+  "lastContribution": "2026-03-26T05:11:20Z",
+  "recentPRs": [
+    {
+      "number": 54917,
+      "title": "fix: resolve gateway handshake race with withProgress spinner",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T05:11:20Z",
+      "mergedAt": null,
+      "additions": 30,
+      "deletions": 1,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54895,
+      "title": "Feature: Inter-session progress streaming for sessions_send (ACP/long-running session support)",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T04:39:56Z",
+      "closedAt": null
+    },
+    {
+      "number": 54193,
+      "title": "[Bug]: ACP session partial output never reaches Telegram preview streaming; reply flushes only at turn end",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T03:08:42Z",
+      "closedAt": null
+    },
+    {
+      "number": 49405,
+      "title": "[CLI] Gateway connection fails with \"gateway closed (1000)\" in non-JSON mode (Potential race condition with `withProgress` spinner)",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T03:21:13Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

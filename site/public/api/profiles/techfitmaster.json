@@ -3,55 +3,90 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/26759948?u=3148d55e949750f74012d85f674a44f3922ae895&v=4",
   "githubUrl": "https://github.com/techfitmaster",
   "score": {
-    "score": 178.29,
-    "prScore": 171.79,
+    "score": 224.27,
+    "prScore": 208.77,
     "issueScore": 0,
-    "reviewScore": 6,
+    "reviewScore": 15,
     "commentScore": 0.5
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "active",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 10,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 2893,
-    "prDeletions": 330,
-    "prChangedFiles": 42,
+    "prAdditions": 3721,
+    "prDeletions": 375,
+    "prChangedFiles": 53,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 8,
+      "prs": 4,
       "issues": 0,
-      "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 4,
+      "comments": 1
     },
     "monthly": {
-      "prs": 10,
+      "prs": 12,
       "issues": 0,
-      "reviews": 2,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 5,
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-08T03:59:34Z",
-  "lastContribution": "2026-03-20T02:31:55Z",
+  "firstContribution": "2026-03-14T02:43:29Z",
+  "lastContribution": "2026-03-26T02:18:47Z",
   "recentPRs": [
+    {
+      "number": 54827,
+      "title": "fix: update context window when switching model via /load",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-26T02:18:47Z",
+      "mergedAt": null,
+      "additions": 230,
+      "deletions": 15,
+      "changedFiles": 4
+    },
+    {
+      "number": 53306,
+      "title": "test: add regression test for WhatsApp missing light-runtime-api sidecar (fixes #53247)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T02:21:25Z",
+      "mergedAt": null,
+      "additions": 355,
+      "deletions": 15,
+      "changedFiles": 4
+    },
+    {
+      "number": 52004,
+      "title": "fix: increase websocket handshake timeout for loopback connections",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:16:09Z",
+      "mergedAt": null,
+      "additions": 243,
+      "deletions": 20,
+      "changedFiles": 5
+    },
+    {
+      "number": 51379,
+      "title": "fix: preserve provider prefix in cron model suggestions",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T02:19:00Z",
+      "mergedAt": null,
+      "additions": 232,
+      "deletions": 17,
+      "changedFiles": 4
+    },
     {
       "number": 50767,
       "title": "fix: use correct defaultProvider in buildAllowedModelSet for /model command",
@@ -139,44 +174,57 @@
       "additions": 244,
       "deletions": 26,
       "changedFiles": 5
-    },
-    {
-      "number": 39464,
-      "title": "fix(slack): handle url_verification challenge before signature verification",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T04:37:51Z",
-      "mergedAt": null,
-      "additions": 225,
-      "deletions": 15,
-      "changedFiles": 3
-    },
-    {
-      "number": 39436,
-      "title": "fix: accept both sk-ant-oat01- and sk-ant-api03- setup tokens",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T03:59:34Z",
-      "mergedAt": null,
-      "additions": 7,
-      "deletions": 7,
-      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 51348,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T02:44:49Z"
+    },
+    {
+      "prNumber": 51348,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T02:44:41Z"
+    },
+    {
+      "prNumber": 51348,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T02:44:29Z"
+    },
+    {
+      "prNumber": 51348,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T02:44:21Z"
+    },
+    {
       "prNumber": 45704,
       "state": "COMMENTED",
       "createdAt": "2026-03-14T04:33:08Z"
-    },
-    {
-      "prNumber": 39436,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-14T02:39:35Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 4
+    },
     "2026-03-20": {
       "prs": 1,
       "issues": 0,
@@ -210,12 +258,7 @@
     "2026-03-14": {
       "prs": 2,
       "issues": 0,
-      "reviews": 2
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
+      "reviews": 1
     }
   },
   "skills": [
@@ -229,6 +272,5 @@
       "label": "PR Machine",
       "description": "10+ pull requests"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/14988278?v=4",
   "githubUrl": "https://github.com/mySebbe",
   "score": {
-    "score": 57.22,
+    "score": 52.22,
     "prScore": 41.22,
-    "issueScore": 15,
+    "issueScore": 10,
     "reviewScore": 0,
     "commentScore": 1
   },
@@ -19,38 +19,29 @@
     "prDeletions": 33,
     "prChangedFiles": 15,
     "prMergeRate": 0,
-    "issues": 3,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 0,
+      "issues": 2,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 3,
+      "issues": 2,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-10T10:22:45Z",
-  "lastContribution": "2026-03-12T19:51:14Z",
+  "firstContribution": "2026-03-12T14:30:33Z",
+  "lastContribution": "2026-03-26T20:36:40Z",
   "recentPRs": [
     {
       "number": 44151,
@@ -77,24 +68,17 @@
   ],
   "recentIssues": [
     {
-      "number": 43288,
-      "title": "CLI backend: pickSessionId accepts non-UUID strings like 'rate-limited' causing resume failure",
+      "number": 55364,
+      "title": "[Bug]: WhatsApp message send sends MP3 audio as PTT voice note, breaking Android playback",
       "state": "OPEN",
-      "createdAt": "2026-03-11T15:21:35Z",
+      "createdAt": "2026-03-26T20:36:40Z",
       "closedAt": null
     },
     {
-      "number": 42541,
-      "title": "Gemini OAuth token auto-refresh silently fails — bare catch {} in dispatch swallows refresh errors",
+      "number": 55363,
+      "title": "[Bug]: WhatsApp message send drops --force-document before gateway payload",
       "state": "OPEN",
-      "createdAt": "2026-03-10T22:27:24Z",
-      "closedAt": null
-    },
-    {
-      "number": 42039,
-      "title": "Expose maxMissedJobsPerRestart and missedJobStaggerMs in cron config",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T10:22:45Z",
+      "createdAt": "2026-03-26T20:36:23Z",
       "closedAt": null
     }
   ],
@@ -105,12 +89,7 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-10": {
+    "2026-03-26": {
       "prs": 0,
       "issues": 2,
       "reviews": 0
@@ -121,6 +100,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

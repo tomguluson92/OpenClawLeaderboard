@@ -24,29 +24,20 @@
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 358,
-    "commitAdditions": 39,
-    "commitDeletions": 7,
-    "commitChangedFiles": 3
+    "comments": 358
   },
   "period": {
     "weekly": {
-      "prs": 400,
+      "prs": 0,
       "issues": 0,
-      "reviews": 1,
-      "comments": 358,
-      "commitAdditions": 39,
-      "commitDeletions": 7,
-      "commits": 1
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 400,
       "issues": 0,
       "reviews": 1,
-      "comments": 358,
-      "commitAdditions": 39,
-      "commitDeletions": 7,
-      "commits": 1
+      "comments": 358
     }
   },
   "firstContribution": "2026-03-14T09:13:48Z",
@@ -340,8 +331,5 @@
       "label": "Mega Coder",
       "description": "50K+ lines added"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-17": 1
-  }
+  ]
 }

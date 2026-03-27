@@ -1,0 +1,121 @@
+{
+  "username": "anyech",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8743351?v=4",
+  "githubUrl": "https://github.com/anyech",
+  "score": {
+    "score": 37.82,
+    "prScore": 21.82,
+    "issueScore": 15,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 178,
+    "prDeletions": 5,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 2
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 2
+    }
+  },
+  "firstContribution": "2026-03-20T08:58:11Z",
+  "lastContribution": "2026-03-26T19:36:00Z",
+  "recentPRs": [
+    {
+      "number": 51465,
+      "title": "fix(pdf): provide standardFontDataUrl for Node fallback rendering",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T06:26:33Z",
+      "mergedAt": null,
+      "additions": 78,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 51329,
+      "title": "pdf: add Codex instructions for extraction fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T23:45:35Z",
+      "mergedAt": null,
+      "additions": 100,
+      "deletions": 3,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 55028,
+      "title": "ACP diagnostics blur Gemini capacity stalls with dead-session signals",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T08:05:26Z",
+      "closedAt": null
+    },
+    {
+      "number": 52640,
+      "title": "Feature request: Persistent task-status surface for long-running channel turns",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T05:04:11Z",
+      "closedAt": null
+    },
+    {
+      "number": 51455,
+      "title": "bug: pdf extraction fallback renderer omits standardFontDataUrl and emits PDF.js warnings in Node",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T06:11:53Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

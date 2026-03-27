@@ -3,55 +3,79 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5456892?u=e618012b9e4c66c262fd81c0b01522d3aa5df8c9&v=4",
   "githubUrl": "https://github.com/goweii",
   "score": {
-    "score": 12.22,
-    "prScore": 11.72,
+    "score": 65.61,
+    "prScore": 64.61,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 1
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 41,
-    "prDeletions": 9,
-    "prChangedFiles": 4,
-    "prMergeRate": 0,
+    "prs": 4,
+    "prsMerged": 1,
+    "prAdditions": 188,
+    "prDeletions": 82,
+    "prChangedFiles": 20,
+    "prMergeRate": 25,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
-      "prs": 1,
+      "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-18T05:13:24Z",
-  "lastContribution": "2026-03-18T12:32:14Z",
+  "lastContribution": "2026-03-25T12:58:29Z",
   "recentPRs": [
+    {
+      "number": 51110,
+      "title": "Android: refactor tab screen layouts to use dynamic bottom padding",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T15:36:24Z",
+      "mergedAt": null,
+      "additions": 79,
+      "deletions": 57,
+      "changedFiles": 7
+    },
+    {
+      "number": 51098,
+      "title": "Android: update status bar appearance in OpenClawTheme",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T14:50:05Z",
+      "mergedAt": "2026-03-22T04:03:25Z",
+      "additions": 14,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 51095,
+      "title": "Fix(Android): Fix \"gateway is offline\" flashing when opening or switching chat page",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T14:46:48Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 4,
+      "changedFiles": 3
+    },
     {
       "number": 49488,
       "title": "Android: lower minSdk to 26",
@@ -59,14 +83,19 @@
       "merged": false,
       "createdAt": "2026-03-18T05:13:24Z",
       "mergedAt": null,
-      "additions": 41,
-      "deletions": 9,
-      "changedFiles": 4
+      "additions": 81,
+      "deletions": 21,
+      "changedFiles": 8
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 0,
@@ -77,6 +106,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

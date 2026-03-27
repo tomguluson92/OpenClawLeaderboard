@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/40194424?v=4",
   "githubUrl": "https://github.com/yweiii",
   "score": {
-    "score": 15.16,
+    "score": 10.16,
     "prScore": 10.16,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 6,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-11T10:05:52Z",
+  "firstContribution": "2026-03-11T10:06:29Z",
   "lastContribution": "2026-03-11T10:06:29Z",
   "recentPRs": [
     {
@@ -64,27 +55,17 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43064,
-      "title": "Heartbeat replies show literal {model} instead of interpolated model name in responsePrefix",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T10:05:52Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

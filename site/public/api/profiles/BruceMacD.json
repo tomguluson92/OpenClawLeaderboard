@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5853428?v=4",
   "githubUrl": "https://github.com/BruceMacD",
   "score": {
-    "score": 229.33,
-    "prScore": 207.83,
+    "score": 239.53,
+    "prScore": 214.53,
     "issueScore": 0,
-    "reviewScore": 21,
-    "commentScore": 0.5
+    "reviewScore": 24,
+    "commentScore": 1
   },
   "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
     "commits": 3,
-    "prs": 3,
+    "prs": 4,
     "prsMerged": 2,
-    "prAdditions": 51954,
-    "prDeletions": 9975,
-    "prChangedFiles": 846,
-    "prMergeRate": 67,
+    "prAdditions": 52064,
+    "prDeletions": 9976,
+    "prChangedFiles": 850,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 7,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 1267,
-    "commitDeletions": 93,
-    "commitChangedFiles": 25
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 4,
-      "comments": 1,
-      "commitAdditions": 22,
-      "commitDeletions": 23,
-      "commits": 1
+      "reviews": 1,
+      "comments": 1
     },
     "monthly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
-      "reviews": 7,
-      "comments": 1,
-      "commitAdditions": 1267,
-      "commitDeletions": 93,
-      "commits": 3
+      "reviews": 8,
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-09T23:33:13Z",
-  "lastContribution": "2026-03-18T20:40:34Z",
+  "lastContribution": "2026-03-26T18:07:47Z",
   "recentPRs": [
+    {
+      "number": 53200,
+      "title": "fix(ollama): send think=false for thinking models when thinking is off",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T22:30:41Z",
+      "mergedAt": null,
+      "additions": 110,
+      "deletions": 1,
+      "changedFiles": 4
+    },
     {
       "number": 49249,
       "title": "fix(ollama): don't auto-pull glm-4.7-flash during Local mode onboarding",
@@ -89,6 +91,11 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 53891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T18:26:24Z"
+    },
+    {
       "prNumber": 49249,
       "state": "COMMENTED",
       "createdAt": "2026-03-18T20:40:34Z"
@@ -125,6 +132,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-17": {
       "prs": 1,
       "issues": 0,
@@ -139,6 +151,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     },
     "2026-03-18": {
       "prs": 0,
@@ -169,10 +186,5 @@
       "label": "Mega Coder",
       "description": "50K+ lines added"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-19": 1,
-    "2026-03-13": 1,
-    "2026-03-11": 1
-  }
+  ]
 }

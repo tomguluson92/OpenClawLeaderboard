@@ -1,81 +1,159 @@
 {
   "username": "08820048",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/71597859?u=f021ec98a2ecbeb532443754289a09f82afc064d&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/71597859?u=aa92bebc8600f89a33bec622ecf8041cac4a18a9&v=4",
   "githubUrl": "https://github.com/08820048",
   "score": {
-    "score": 11.87,
-    "prScore": 11.87,
+    "score": 127.84,
+    "prScore": 124.84,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 3,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 51,
-    "prDeletions": 6,
-    "prChangedFiles": 4,
+    "prAdditions": 1008,
+    "prDeletions": 112,
+    "prChangedFiles": 36,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 7,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 7,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-05T11:03:15Z",
-  "lastContribution": "2026-03-05T11:03:15Z",
+  "firstContribution": "2026-03-21T15:29:54Z",
+  "lastContribution": "2026-03-26T07:11:36Z",
   "recentPRs": [
     {
-      "number": 35972,
-      "title": "fix(cron): enforce secure permissions for cron store and run logs",
-      "state": "CLOSED",
+      "number": 54991,
+      "title": "Media: surface empty voice-note placeholders",
+      "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-05T11:03:15Z",
+      "createdAt": "2026-03-26T07:11:36Z",
       "mergedAt": null,
-      "additions": 51,
-      "deletions": 6,
-      "changedFiles": 4
+      "additions": 94,
+      "deletions": 3,
+      "changedFiles": 3
+    },
+    {
+      "number": 54934,
+      "title": "Feishu: reject empty message cards",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T05:43:15Z",
+      "mergedAt": null,
+      "additions": 102,
+      "deletions": 5,
+      "changedFiles": 5
+    },
+    {
+      "number": 54927,
+      "title": "Skills: stop using chokidar globs for refresh",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T05:28:46Z",
+      "mergedAt": null,
+      "additions": 187,
+      "deletions": 60,
+      "changedFiles": 2
+    },
+    {
+      "number": 53522,
+      "title": "[codex] Fix web fetch schema, dual-stack status diagnosis, and Synology webhook ACKs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T07:48:22Z",
+      "mergedAt": null,
+      "additions": 303,
+      "deletions": 27,
+      "changedFiles": 16
+    },
+    {
+      "number": 52060,
+      "title": "CLI: route JSON preaction logs to stderr",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T03:58:45Z",
+      "mergedAt": null,
+      "additions": 15,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 51706,
+      "title": "Agents: show runtime model in session status",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T16:00:55Z",
+      "mergedAt": null,
+      "additions": 200,
+      "deletions": 10,
+      "changedFiles": 5
+    },
+    {
+      "number": 51683,
+      "title": "Agents: add machine-readable session status time",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T15:29:54Z",
+      "mergedAt": null,
+      "additions": 107,
+      "deletions": 5,
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 51706,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T05:41:00Z"
+    }
+  ],
   "recentActivityDays": {
-    "2026-03-05": {
+    "2026-03-26": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
       "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-21": {
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

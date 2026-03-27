@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/261743399?v=4",
   "githubUrl": "https://github.com/samshields-oc",
   "score": {
-    "score": 44.1,
+    "score": 34.1,
     "prScore": 33.6,
-    "issueScore": 10,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 3,
@@ -19,34 +19,25 @@
     "prDeletions": 55,
     "prChangedFiles": 7,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 3,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-10T11:44:02Z",
@@ -86,35 +77,18 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42282,
-      "title": "backup create should stream tar archive instead of buffering in memory",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T15:25:24Z",
-      "closedAt": null
-    },
-    {
-      "number": 42273,
-      "title": "backup create stalls on large installations (4GB+ .openclaw dir)",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T15:12:23Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-10": {
       "prs": 3,
-      "issues": 2,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

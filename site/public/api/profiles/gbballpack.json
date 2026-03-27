@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/39963341?v=4",
   "githubUrl": "https://github.com/gbballpack",
   "score": {
-    "score": 72.87,
+    "score": 73.37,
     "prScore": 61.37,
     "issueScore": 5,
     "reviewScore": 3,
-    "commentScore": 3.5
+    "commentScore": 4
   },
   "tier": "regular",
   "characterClass": "Contributor",
@@ -24,37 +24,28 @@
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 8
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     },
     "monthly": {
       "prs": 4,
       "issues": 1,
       "reviews": 1,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 8
     }
   },
   "firstContribution": "2026-03-09T16:19:14Z",
-  "lastContribution": "2026-03-17T00:32:18Z",
+  "lastContribution": "2026-03-21T03:14:09Z",
   "recentPRs": [
     {
       "number": 48523,
-      "title": "docker: fix self-build breakage after channel extension migration",
+      "title": "docker: fix self-build breakage after extension migration",
       "state": "OPEN",
       "merged": false,
       "createdAt": "2026-03-16T22:13:44Z",
@@ -100,7 +91,7 @@
   "recentIssues": [
     {
       "number": 48552,
-      "title": "[Bug]: Docker self-build from main broken — gateway fails to start after channel-to-extension migration",
+      "title": "[Bug]: Docker self-build from `main` broken — gateway fails to start after channel-to-extension migration",
       "state": "OPEN",
       "createdAt": "2026-03-16T23:20:18Z",
       "closedAt": null
@@ -152,6 +143,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

@@ -1,71 +1,326 @@
 {
   "username": "jacobtomlinson",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/1610850?u=7ddae8ab809f082f5f8d2ef1603e47a5cd0bebf8&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1610850?v=4",
   "githubUrl": "https://github.com/jacobtomlinson",
   "score": {
-    "score": 26.6,
-    "prScore": 23.6,
+    "score": 600.83,
+    "prScore": 557.83,
     "issueScore": 0,
-    "reviewScore": 3,
-    "commentScore": 0
+    "reviewScore": 36,
+    "commentScore": 7
   },
-  "tier": "beginner",
-  "characterClass": "Maintainer",
+  "tier": "veteran",
+  "characterClass": "Builder",
   "stats": {
-    "commits": 0,
-    "prs": 1,
-    "prsMerged": 1,
-    "prAdditions": 8,
-    "prDeletions": 0,
-    "prChangedFiles": 8,
-    "prMergeRate": 100,
+    "commits": 31,
+    "prs": 24,
+    "prsMerged": 22,
+    "prAdditions": 46730,
+    "prDeletions": 30564,
+    "prChangedFiles": 1088,
+    "prMergeRate": 92,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 12,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 8,
-    "commitDeletions": 0,
-    "commitChangedFiles": 8
+    "comments": 14
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 23,
       "issues": 0,
-      "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 8,
-      "commitDeletions": 0,
-      "commits": 1
+      "reviews": 11,
+      "comments": 14
     },
     "monthly": {
-      "prs": 1,
+      "prs": 24,
       "issues": 0,
-      "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 8,
-      "commitDeletions": 0,
-      "commits": 1
+      "reviews": 12,
+      "comments": 14
     }
   },
   "firstContribution": "2026-03-13T18:45:53Z",
-  "lastContribution": "2026-03-13T20:35:42Z",
+  "lastContribution": "2026-03-26T18:21:57Z",
   "recentPRs": [
     {
-      "number": 45384,
-      "title": "docker: add apt-get upgrade to all Dockerfiles",
+      "number": 55308,
+      "title": "Gateway: require requester ownership for HTTP session kills",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-13T18:45:53Z",
-      "mergedAt": "2026-03-13T23:23:02Z",
-      "additions": 8,
-      "deletions": 0,
+      "createdAt": "2026-03-26T17:55:48Z",
+      "mergedAt": "2026-03-26T18:13:36Z",
+      "additions": 26,
+      "deletions": 36,
+      "changedFiles": 2
+    },
+    {
+      "number": 55294,
+      "title": "gateway: cap concurrent pre-auth websocket upgrades",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T17:13:10Z",
+      "mergedAt": null,
+      "additions": 309,
+      "deletions": 8,
       "changedFiles": 8
+    },
+    {
+      "number": 55286,
+      "title": "gateway: require pairing for backend scope upgrades",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T16:56:00Z",
+      "mergedAt": "2026-03-26T17:36:44Z",
+      "additions": 68,
+      "deletions": 81,
+      "changedFiles": 4
+    },
+    {
+      "number": 55285,
+      "title": "Gateway: align HTTP session history scopes",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T16:55:23Z",
+      "mergedAt": "2026-03-26T17:43:58Z",
+      "additions": 101,
+      "deletions": 8,
+      "changedFiles": 3
+    },
+    {
+      "number": 55284,
+      "title": "fix: keep plugin HTTP runtime scopes least-privileged",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T16:53:51Z",
+      "mergedAt": "2026-03-26T17:28:30Z",
+      "additions": 55,
+      "deletions": 15,
+      "changedFiles": 2
+    },
+    {
+      "number": 55283,
+      "title": "bluebubbles: honor reaction mention gating",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T16:51:25Z",
+      "mergedAt": "2026-03-26T17:42:19Z",
+      "additions": 60,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 55281,
+      "title": "Gateway: require caller scope for subagent session deletion",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T16:50:47Z",
+      "mergedAt": "2026-03-26T17:34:09Z",
+      "additions": 51,
+      "deletions": 14,
+      "changedFiles": 2
+    },
+    {
+      "number": 55142,
+      "title": "telegram: throttle repeated webhook auth guesses",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T12:17:06Z",
+      "mergedAt": "2026-03-26T16:19:31Z",
+      "additions": 306,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 55141,
+      "title": "synology-chat: throttle webhook token guesses",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T12:12:57Z",
+      "mergedAt": "2026-03-26T15:30:07Z",
+      "additions": 231,
+      "deletions": 5,
+      "changedFiles": 4
+    },
+    {
+      "number": 55137,
+      "title": "ACP: sanitize terminal tool titles",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T12:06:28Z",
+      "mergedAt": "2026-03-26T14:12:24Z",
+      "additions": 76,
+      "deletions": 24,
+      "changedFiles": 9
+    },
+    {
+      "number": 55133,
+      "title": "fix(bluebubbles): throttle webhook auth guesses",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T12:02:37Z",
+      "mergedAt": "2026-03-26T14:54:04Z",
+      "additions": 243,
+      "deletions": 7,
+      "changedFiles": 10
+    },
+    {
+      "number": 55131,
+      "title": "Google Chat: require stable group ids",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T11:59:28Z",
+      "mergedAt": "2026-03-26T14:15:51Z",
+      "additions": 181,
+      "deletions": 12,
+      "changedFiles": 4
+    },
+    {
+      "number": 55130,
+      "title": "Feishu: reject legacy raw card command payloads",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T11:58:49Z",
+      "mergedAt": "2026-03-26T14:17:45Z",
+      "additions": 188,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 55122,
+      "title": "Matrix: gate verification notices on DM access",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T11:41:58Z",
+      "mergedAt": "2026-03-26T11:59:21Z",
+      "additions": 252,
+      "deletions": 0,
+      "changedFiles": 4
+    },
+    {
+      "number": 55112,
+      "title": "Telegram: enforce DM auth for callbacks",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T11:22:35Z",
+      "mergedAt": "2026-03-26T11:42:27Z",
+      "additions": 68,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 55108,
+      "title": "fix(msteams): align feedback invoke authorization",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T11:08:56Z",
+      "mergedAt": "2026-03-26T11:51:43Z",
+      "additions": 617,
+      "deletions": 90,
+      "changedFiles": 5
+    },
+    {
+      "number": 55105,
+      "title": "fix(agents): enforce session_status guard after sessionId resolution",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T11:05:09Z",
+      "mergedAt": "2026-03-26T11:34:22Z",
+      "additions": 52,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 55083,
+      "title": "Feishu: validate webhook signatures before parsing",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-26T09:58:47Z",
+      "mergedAt": "2026-03-26T10:29:22Z",
+      "additions": 82,
+      "deletions": 29,
+      "changedFiles": 4
+    },
+    {
+      "number": 54657,
+      "title": "OpenShell: exclude hooks/ from mirror sync",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T19:35:03Z",
+      "mergedAt": "2026-03-25T19:59:07Z",
+      "additions": 112,
+      "deletions": 6,
+      "changedFiles": 3
+    },
+    {
+      "number": 54627,
+      "title": "fix: apply host-env blocklist to auth-profile env refs in daemon install",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T18:37:14Z",
+      "mergedAt": "2026-03-25T19:57:22Z",
+      "additions": 126,
+      "deletions": 34,
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 55294,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T18:21:57Z"
+    },
+    {
+      "prNumber": 55285,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T17:31:54Z"
+    },
+    {
+      "prNumber": 55142,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T13:20:49Z"
+    },
+    {
+      "prNumber": 55142,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T13:20:49Z"
+    },
+    {
+      "prNumber": 55142,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T12:23:21Z"
+    },
+    {
+      "prNumber": 55083,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T10:17:54Z"
+    },
+    {
+      "prNumber": 55083,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T10:17:54Z"
+    },
+    {
+      "prNumber": 54461,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T16:53:06Z"
+    },
+    {
+      "prNumber": 54461,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T16:53:05Z"
+    },
+    {
+      "prNumber": 54500,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T16:50:42Z"
+    },
+    {
+      "prNumber": 52998,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T18:02:39Z"
+    },
     {
       "prNumber": 45384,
       "state": "COMMENTED",
@@ -73,18 +328,64 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 18,
+      "issues": 0,
+      "reviews": 7
+    },
+    "2026-03-25": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-23": {
+      "prs": 0,
       "issues": 0,
       "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review"
+    "Code Review",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-13": 1
-  }
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "merger",
+      "label": "Merger",
+      "description": "5+ merged PRs"
+    },
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "precision",
+      "label": "Precision",
+      "description": "90%+ PR merge rate"
+    }
+  ]
 }

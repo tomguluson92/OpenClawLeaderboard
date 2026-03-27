@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/39724729?u=6f5f107125c044bbc094702281cb8bdfe9515116&v=4",
   "githubUrl": "https://github.com/rnrnstar2",
   "score": {
-    "score": 197.76,
+    "score": 100.76,
     "prScore": 88.76,
     "issueScore": 0,
     "reviewScore": 9,
-    "commentScore": 100
+    "commentScore": 3
   },
   "tier": "regular",
   "characterClass": "Contributor",
@@ -24,32 +24,23 @@
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 234,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 6
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 5,
       "issues": 0,
       "reviews": 3,
-      "comments": 234,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 6
     }
   },
-  "firstContribution": "2026-03-07T21:12:16Z",
+  "firstContribution": "2026-03-09T18:06:25Z",
   "lastContribution": "2026-03-12T16:10:32Z",
   "recentPRs": [
     {
@@ -66,7 +57,7 @@
     {
       "number": 42235,
       "title": "fix(discord): fail fast when bot identity cannot be resolved",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T14:35:49Z",
       "mergedAt": null,
@@ -77,7 +68,7 @@
     {
       "number": 41543,
       "title": "fix: preserve subagent transcripts during subagent auto-archive",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T23:55:17Z",
       "mergedAt": null,
@@ -88,7 +79,7 @@
     {
       "number": 41454,
       "title": "fix: preserve Anthropic OAuth beta headers for model-header context1m",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T21:32:29Z",
       "mergedAt": null,
@@ -99,7 +90,7 @@
     {
       "number": 41333,
       "title": "fix: harden iMessage echo filtering and heartbeat payload selection",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-09T18:06:25Z",
       "mergedAt": null,
@@ -148,12 +139,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

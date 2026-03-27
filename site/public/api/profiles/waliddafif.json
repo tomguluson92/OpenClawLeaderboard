@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7280752?v=4",
   "githubUrl": "https://github.com/waliddafif",
   "score": {
-    "score": 26.81,
+    "score": 21.81,
     "prScore": 20.81,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1
   },
@@ -19,37 +19,28 @@
     "prDeletions": 36,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-11T17:08:20Z",
+  "firstContribution": "2026-03-13T10:33:27Z",
   "lastContribution": "2026-03-17T20:02:58Z",
   "recentPRs": [
     {
@@ -75,33 +66,18 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43367,
-      "title": "Multi-agent orchestration is unstable: concurrent agents add/config overwrites, session-lock failures, and detached child work",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T17:08:20Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-13": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

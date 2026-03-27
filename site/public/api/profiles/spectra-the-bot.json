@@ -3,65 +3,56 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/262214320?u=0ae6c9bb70888b1b6aabfc45c647627672c685b8&v=4",
   "githubUrl": "https://github.com/spectra-the-bot",
   "score": {
-    "score": 47.11,
-    "prScore": 14.61,
-    "issueScore": 31,
-    "reviewScore": 0,
-    "commentScore": 1.5
+    "score": 63.89,
+    "prScore": 42.39,
+    "issueScore": 13,
+    "reviewScore": 6,
+    "commentScore": 2.5
   },
-  "tier": "beginner",
-  "characterClass": "Hunter",
+  "tier": "regular",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 524,
-    "prDeletions": 43,
-    "prChangedFiles": 4,
+    "prAdditions": 1053,
+    "prDeletions": 537,
+    "prChangedFiles": 16,
     "prMergeRate": 0,
-    "issues": 5,
-    "issuesClosed": 2,
-    "reviews": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 5
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 2,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 0,
+      "reviews": 2,
+      "comments": 3
     },
     "monthly": {
       "prs": 1,
-      "issues": 5,
-      "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 2,
+      "reviews": 2,
+      "comments": 5
     }
   },
-  "firstContribution": "2026-03-08T20:21:30Z",
-  "lastContribution": "2026-03-16T04:45:28Z",
+  "firstContribution": "2026-03-11T23:32:09Z",
+  "lastContribution": "2026-03-20T20:02:57Z",
   "recentPRs": [
     {
       "number": 43552,
       "title": "fix: emit model.usage diagnostics for background agent runs and silent replies",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T00:52:52Z",
       "mergedAt": null,
-      "additions": 524,
-      "deletions": 43,
-      "changedFiles": 4
+      "additions": 1053,
+      "deletions": 537,
+      "changedFiles": 16
     }
   ],
   "recentIssues": [
@@ -78,34 +69,24 @@
       "state": "CLOSED",
       "createdAt": "2026-03-13T22:02:38Z",
       "closedAt": "2026-03-13T22:06:02Z"
-    },
-    {
-      "number": 44428,
-      "title": "[Bug]: Isolated cron with delivery.bestEffort:true blocks for full timeout when fire-and-forget subagents are active",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T23:01:09Z",
-      "closedAt": null
-    },
-    {
-      "number": 42274,
-      "title": "diagnostics-otel: openai provider not instrumented (no metrics emitted)",
-      "state": "CLOSED",
-      "createdAt": "2026-03-10T15:12:45Z",
-      "closedAt": "2026-03-10T15:17:27Z"
-    },
-    {
-      "number": 40237,
-      "title": "[Bug]: Gateway WS self-contention still unresolved — cron tool timeouts from active sessions (#5703/#6508 circular-duped)",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T20:21:30Z",
-      "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 43552,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T18:39:59Z"
+    },
+    {
+      "prNumber": 43552,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T18:39:58Z"
+    }
+  ],
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     },
     "2026-03-16": {
@@ -118,28 +99,23 @@
       "issues": 1,
       "reviews": 0
     },
-    "2026-03-10": {
+    "2026-03-20": {
       "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
+      "issues": 0,
+      "reviews": 2
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
     {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

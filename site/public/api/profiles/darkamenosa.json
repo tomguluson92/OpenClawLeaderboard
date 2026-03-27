@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6668014?v=4",
   "githubUrl": "https://github.com/darkamenosa",
   "score": {
-    "score": 222.82,
-    "prScore": 203.82,
+    "score": 193.84,
+    "prScore": 170.84,
     "issueScore": 0,
-    "reviewScore": 18,
-    "commentScore": 1
+    "reviewScore": 21,
+    "commentScore": 2
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Maintainer",
   "stats": {
-    "commits": 4,
+    "commits": 5,
     "prs": 6,
     "prsMerged": 4,
-    "prAdditions": 2686,
-    "prDeletions": 230,
-    "prChangedFiles": 42,
+    "prAdditions": 2391,
+    "prDeletions": 172,
+    "prChangedFiles": 39,
     "prMergeRate": 67,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 6,
+    "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 2597,
-    "commitDeletions": 224,
-    "commitChangedFiles": 35
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 1,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 621,
-      "commitDeletions": 123,
-      "commits": 2
+      "reviews": 2,
+      "comments": 4
     },
     "monthly": {
       "prs": 6,
       "issues": 0,
-      "reviews": 6,
-      "comments": 2,
-      "commitAdditions": 2597,
-      "commitDeletions": 224,
-      "commits": 4
+      "reviews": 7,
+      "comments": 4
     }
   },
-  "firstContribution": "2026-03-08T13:45:26Z",
-  "lastContribution": "2026-03-18T18:21:09Z",
+  "firstContribution": "2026-03-11T16:13:39Z",
+  "lastContribution": "2026-03-21T10:13:28Z",
   "recentPRs": [
+    {
+      "number": 51543,
+      "title": "zalo: use photo_url for inbound images",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T10:04:20Z",
+      "mergedAt": "2026-03-21T10:21:44Z",
+      "additions": 295,
+      "deletions": 5,
+      "changedFiles": 4
+    },
     {
       "number": 49960,
       "title": "[codex] LINE: avoid runtime lookup during onboarding",
@@ -106,21 +108,20 @@
       "additions": 1386,
       "deletions": 38,
       "changedFiles": 12
-    },
-    {
-      "number": 39892,
-      "title": "Zalo: fix provider lifecycle restarts",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T13:45:26Z",
-      "mergedAt": "2026-03-08T15:33:18Z",
-      "additions": 590,
-      "deletions": 63,
-      "changedFiles": 7
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 51543,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T10:11:06Z"
+    },
+    {
+      "prNumber": 51543,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T10:11:05Z"
+    },
     {
       "prNumber": 43324,
       "state": "COMMENTED",
@@ -145,14 +146,14 @@
       "prNumber": 43324,
       "state": "COMMENTED",
       "createdAt": "2026-03-11T16:50:18Z"
-    },
-    {
-      "prNumber": 39892,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-08T13:59:32Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-18": {
       "prs": 3,
       "issues": 0,
@@ -167,11 +168,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 5
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
     }
   },
   "skills": [
@@ -180,11 +176,5 @@
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-18": 1,
-    "2026-03-17": 1,
-    "2026-03-12": 1,
-    "2026-03-08": 1
-  }
+  "achievements": []
 }

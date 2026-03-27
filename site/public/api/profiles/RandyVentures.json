@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/149904821?u=466564a059314152775a8d7c47d06431e2414bb0&v=4",
   "githubUrl": "https://github.com/RandyVentures",
   "score": {
-    "score": 11.07,
-    "prScore": 9.07,
+    "score": 9.42,
+    "prScore": 7.42,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 2
@@ -24,29 +24,20 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 4,
-    "commitDeletions": 2,
-    "commitChangedFiles": 2
+    "comments": 4
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
   "firstContribution": "2026-03-16T21:43:28Z",
@@ -55,7 +46,7 @@
     {
       "number": 48502,
       "title": "feat(docker): improve build cache performance with enhanced mounts",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-16T21:43:28Z",
       "mergedAt": null,
@@ -77,6 +68,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

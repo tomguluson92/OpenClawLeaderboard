@@ -1,0 +1,184 @@
+{
+  "username": "Ziy1-Tan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49604965?u=3147b04f93ae050c4a40e347cab49d8bb186b67f&v=4",
+  "githubUrl": "https://github.com/Ziy1-Tan",
+  "score": {
+    "score": 113.31,
+    "prScore": 88.81,
+    "issueScore": 5,
+    "reviewScore": 15,
+    "commentScore": 4.5
+  },
+  "tier": "regular",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 6,
+    "prsMerged": 0,
+    "prAdditions": 1125,
+    "prDeletions": 77,
+    "prChangedFiles": 22,
+    "prMergeRate": 0,
+    "issues": 1,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 9
+  },
+  "period": {
+    "weekly": {
+      "prs": 6,
+      "issues": 1,
+      "reviews": 5,
+      "comments": 8
+    },
+    "monthly": {
+      "prs": 6,
+      "issues": 1,
+      "reviews": 5,
+      "comments": 9
+    }
+  },
+  "firstContribution": "2026-03-16T02:45:15Z",
+  "lastContribution": "2026-03-25T03:13:45Z",
+  "recentPRs": [
+    {
+      "number": 52740,
+      "title": "fix(agents): guard SSE stream against empty data events",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T08:43:10Z",
+      "mergedAt": null,
+      "additions": 292,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 52739,
+      "title": "fix(agents): clamp out-of-range read offset instead of aborting run",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T08:43:10Z",
+      "mergedAt": null,
+      "additions": 377,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 51613,
+      "title": "Gateway: suppress Node.js loopback log noise + fix telegram:slash:* sandbox explain",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T12:46:08Z",
+      "mergedAt": null,
+      "additions": 79,
+      "deletions": 17,
+      "changedFiles": 3
+    },
+    {
+      "number": 51127,
+      "title": "fix(feishu): honor blockStreamingDefault config instead of hardcoding disable",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T16:06:36Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51059,
+      "title": "fix(whatsapp): support quote-reply and @mention in outbound messages",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-20T13:35:43Z",
+      "mergedAt": null,
+      "additions": 245,
+      "deletions": 55,
+      "changedFiles": 11
+    },
+    {
+      "number": 50994,
+      "title": "fix(cron): preserve empty expr field instead of silently deleting",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T10:45:33Z",
+      "mergedAt": null,
+      "additions": 109,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 53368,
+      "title": "Dashboard: Exec approval command content overflows UI when command is too long",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T03:46:56Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 51127,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T00:49:15Z"
+    },
+    {
+      "prNumber": 51059,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T00:49:07Z"
+    },
+    {
+      "prNumber": 50994,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:30:53Z"
+    },
+    {
+      "prNumber": 50994,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:30:45Z"
+    },
+    {
+      "prNumber": 50994,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T12:30:34Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-20": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 3
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

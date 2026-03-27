@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/59939121?v=4",
   "githubUrl": "https://github.com/CountofGlamorgan",
   "score": {
-    "score": 32.75,
+    "score": 10.25,
     "prScore": 9.75,
-    "issueScore": 23,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 55,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 4,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
-      "issues": 4,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-09T08:57:10Z",
-  "lastContribution": "2026-03-11T07:39:11Z",
+  "firstContribution": "2026-03-11T07:39:11Z",
+  "lastContribution": "2026-03-24T08:32:52Z",
   "recentPRs": [
     {
       "number": 42950,
@@ -64,58 +55,18 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42228,
-      "title": "Feishu: slash commands (/reset, /new, /status) not intercepted in group chats",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T14:30:13Z",
-      "closedAt": null
-    },
-    {
-      "number": 41675,
-      "title": "Feishu: reply/quoted image content not downloaded in group chat",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T03:13:05Z",
-      "closedAt": null
-    },
-    {
-      "number": 41654,
-      "title": "Cron subagent API errors (e.g. thinking block rejection) leak as visible channel messages",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T02:48:42Z",
-      "closedAt": null
-    },
-    {
-      "number": 40800,
-      "title": "2026.3.8 regression: ACP sessions_spawn fails with 'spawnedBy is only supported for subagent:* sessions'",
-      "state": "CLOSED",
-      "createdAt": "2026-03-09T08:57:10Z",
-      "closedAt": "2026-03-11T23:50:20Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 0,
-      "issues": 3,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting"
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

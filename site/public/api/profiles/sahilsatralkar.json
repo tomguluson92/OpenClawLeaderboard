@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/62758655?v=4",
   "githubUrl": "https://github.com/sahilsatralkar",
   "score": {
-    "score": 238.46,
-    "prScore": 168.96,
+    "score": 248.01,
+    "prScore": 184.01,
     "issueScore": 0,
-    "reviewScore": 66,
-    "commentScore": 3.5
+    "reviewScore": 60,
+    "commentScore": 4
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 6,
-    "prs": 5,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 1255,
-    "prDeletions": 85,
-    "prChangedFiles": 39,
+    "prAdditions": 4252,
+    "prDeletions": 196,
+    "prChangedFiles": 67,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 22,
+    "reviews": 20,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 233,
-    "commitDeletions": 19,
-    "commitChangedFiles": 8
+    "comments": 8
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 11,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 3,
+      "comments": 4
     },
     "monthly": {
-      "prs": 5,
+      "prs": 4,
       "issues": 0,
-      "reviews": 22,
-      "comments": 7,
-      "commitAdditions": 233,
-      "commitDeletions": 19,
-      "commits": 6
+      "reviews": 20,
+      "comments": 8
     }
   },
-  "firstContribution": "2026-03-06T18:21:05Z",
-  "lastContribution": "2026-03-19T04:09:17Z",
+  "firstContribution": "2026-03-09T14:57:55Z",
+  "lastContribution": "2026-03-24T11:13:09Z",
   "recentPRs": [
+    {
+      "number": 51567,
+      "title": "Fix/issue 51097 session store memory tests",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T11:25:05Z",
+      "mergedAt": null,
+      "additions": 1959,
+      "deletions": 100,
+      "changedFiles": 30
+    },
     {
       "number": 45414,
       "title": "fix: doctor orphan detection to use sessionId-based path resolution",
@@ -59,7 +61,7 @@
       "merged": false,
       "createdAt": "2026-03-13T19:37:52Z",
       "mergedAt": null,
-      "additions": 89,
+      "additions": 109,
       "deletions": 36,
       "changedFiles": 2
     },
@@ -70,9 +72,9 @@
       "merged": false,
       "createdAt": "2026-03-12T18:49:49Z",
       "mergedAt": null,
-      "additions": 285,
-      "deletions": 6,
-      "changedFiles": 12
+      "additions": 1719,
+      "deletions": 48,
+      "changedFiles": 27
     },
     {
       "number": 41161,
@@ -84,51 +86,24 @@
       "additions": 465,
       "deletions": 12,
       "changedFiles": 8
-    },
-    {
-      "number": 38904,
-      "title": "fix: logging- unify timestamp format across console and file logs, Issue- 38756",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T13:54:59Z",
-      "mergedAt": null,
-      "additions": 260,
-      "deletions": 29,
-      "changedFiles": 10
-    },
-    {
-      "number": 38255,
-      "title": "feat: Telegram- expose streamThrottleMs and minInitialChars config for smoother native draft streaming",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T18:21:05Z",
-      "mergedAt": null,
-      "additions": 156,
-      "deletions": 2,
-      "changedFiles": 7
     }
   ],
   "recentIssues": [],
   "recentReviews": [
     {
-      "prNumber": 38904,
+      "prNumber": 51567,
       "state": "COMMENTED",
-      "createdAt": "2026-03-17T20:58:31Z"
+      "createdAt": "2026-03-24T11:13:09Z"
     },
     {
-      "prNumber": 38904,
+      "prNumber": 51567,
       "state": "COMMENTED",
-      "createdAt": "2026-03-17T20:58:23Z"
+      "createdAt": "2026-03-24T11:12:59Z"
     },
     {
-      "prNumber": 38904,
+      "prNumber": 51567,
       "state": "COMMENTED",
-      "createdAt": "2026-03-17T20:43:47Z"
-    },
-    {
-      "prNumber": 38904,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-15T17:26:13Z"
+      "createdAt": "2026-03-24T11:12:50Z"
     },
     {
       "prNumber": 45414,
@@ -209,9 +184,19 @@
       "prNumber": 41161,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T15:21:37Z"
+    },
+    {
+      "prNumber": 41161,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-09T15:21:18Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
@@ -227,17 +212,7 @@
       "issues": 0,
       "reviews": 7
     },
-    "2026-03-07": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 1
-    },
-    "2026-03-17": {
+    "2026-03-24": {
       "prs": 0,
       "issues": 0,
       "reviews": 3
@@ -245,7 +220,7 @@
     "2026-03-15": {
       "prs": 0,
       "issues": 0,
-      "reviews": 5
+      "reviews": 4
     }
   },
   "skills": [
@@ -260,9 +235,5 @@
       "label": "Code Reviewer",
       "description": "10+ reviews"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-02": 1,
-    "2026-02-24": 5
-  }
+  ]
 }

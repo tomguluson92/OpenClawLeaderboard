@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/87063252?v=4",
   "githubUrl": "https://github.com/xingsy97",
   "score": {
-    "score": 203.98,
-    "prScore": 173.48,
+    "score": 185.91,
+    "prScore": 154.41,
     "issueScore": 0,
     "reviewScore": 24,
-    "commentScore": 6.5
+    "commentScore": 7.5
   },
-  "tier": "active",
-  "characterClass": "Maintainer",
+  "tier": "regular",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 3,
     "prs": 12,
@@ -24,33 +24,24 @@
     "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
-    "commitAdditions": 16,
-    "commitDeletions": 8,
-    "commitChangedFiles": 10
+    "comments": 15
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 0,
       "issues": 0,
-      "reviews": 2,
-      "comments": 7,
-      "commitAdditions": 16,
-      "commitDeletions": 8,
-      "commits": 3
+      "reviews": 0,
+      "comments": 2
     },
     "monthly": {
       "prs": 12,
       "issues": 0,
       "reviews": 8,
-      "comments": 13,
-      "commitAdditions": 16,
-      "commitDeletions": 8,
-      "commits": 3
+      "comments": 15
     }
   },
   "firstContribution": "2026-03-11T17:57:25Z",
-  "lastContribution": "2026-03-14T15:41:13Z",
+  "lastContribution": "2026-03-24T10:46:42Z",
   "recentPRs": [
     {
       "number": 44999,
@@ -252,8 +243,5 @@
       "label": "PR Machine",
       "description": "10+ pull requests"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-13": 3
-  }
+  ]
 }

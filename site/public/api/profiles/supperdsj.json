@@ -3,55 +3,79 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10287320?u=65e4a71be3d8703a666c34a13a9c9bb9a46dee63&v=4",
   "githubUrl": "https://github.com/supperdsj",
   "score": {
-    "score": 14.74,
-    "prScore": 9.24,
-    "issueScore": 5,
-    "reviewScore": 0,
-    "commentScore": 0.5
+    "score": 88.56,
+    "prScore": 62.56,
+    "issueScore": 20,
+    "reviewScore": 3,
+    "commentScore": 3
   },
-  "tier": "beginner",
-  "characterClass": "Hunter",
+  "tier": "regular",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 40,
-    "prDeletions": 1,
-    "prChangedFiles": 2,
+    "prAdditions": 3747,
+    "prDeletions": 2,
+    "prChangedFiles": 14,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 4,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 6
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 3,
+      "issues": 3,
+      "reviews": 1,
+      "comments": 5
     },
     "monthly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 4,
+      "issues": 4,
+      "reviews": 1,
+      "comments": 6
     }
   },
   "firstContribution": "2026-03-18T09:28:05Z",
-  "lastContribution": "2026-03-18T09:59:46Z",
+  "lastContribution": "2026-03-26T09:39:48Z",
   "recentPRs": [
+    {
+      "number": 54495,
+      "title": "fix(image-gen): make image generation timeout configurable via AgentModelConfig",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T13:54:36Z",
+      "mergedAt": null,
+      "additions": 55,
+      "deletions": 1,
+      "changedFiles": 8
+    },
+    {
+      "number": 54353,
+      "title": "fix(discord): block unconfigured channels under groupPolicy allowlist",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T08:16:01Z",
+      "mergedAt": null,
+      "additions": 1826,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 54282,
+      "title": "fix(discord): block unconfigured channels under groupPolicy allowlist",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T06:19:02Z",
+      "mergedAt": null,
+      "additions": 1826,
+      "deletions": 0,
+      "changedFiles": 2
+    },
     {
       "number": 49710,
       "title": "fix(discord): return null for empty component specs to prevent media loss",
@@ -66,6 +90,27 @@
   ],
   "recentIssues": [
     {
+      "number": 55071,
+      "title": "Feature Request: Skill-Driven Plugin Context Visibility (activates.plugins)",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T09:39:48Z",
+      "closedAt": null
+    },
+    {
+      "number": 54494,
+      "title": "[Bug] Google image generation hardcodes 60s timeout — not configurable",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T13:50:56Z",
+      "closedAt": null
+    },
+    {
+      "number": 54277,
+      "title": "bug(discord): unconfigured channels bypass allowlist when channelAllowlistConfigured=true",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T06:12:07Z",
+      "closedAt": null
+    },
+    {
       "number": 49703,
       "title": "[Bug] Discord: empty components forces v2 path, silently drops media attachments",
       "state": "OPEN",
@@ -73,19 +118,46 @@
       "closedAt": null
     }
   ],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 49893,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T12:19:40Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 1,
       "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
 }

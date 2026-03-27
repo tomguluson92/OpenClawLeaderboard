@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/9532020?v=4",
   "githubUrl": "https://github.com/guoqunabc",
   "score": {
-    "score": 195.09,
-    "prScore": 179.59,
+    "score": 133.17,
+    "prScore": 117.67,
     "issueScore": 0,
     "reviewScore": 12,
     "commentScore": 3.5
@@ -13,49 +13,51 @@
   "characterClass": "Maintainer",
   "stats": {
     "commits": 2,
-    "prs": 7,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 2136,
-    "prDeletions": 661,
-    "prChangedFiles": 38,
+    "prAdditions": 1855,
+    "prDeletions": 628,
+    "prChangedFiles": 28,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 792,
-    "commitDeletions": 64,
-    "commitChangedFiles": 11
+    "comments": 7
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 4,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 5
     },
     "monthly": {
-      "prs": 7,
+      "prs": 6,
       "issues": 0,
       "reviews": 4,
-      "comments": 7,
-      "commitAdditions": 792,
-      "commitDeletions": 64,
-      "commits": 2
+      "comments": 7
     }
   },
-  "firstContribution": "2026-03-06T10:52:28Z",
-  "lastContribution": "2026-03-15T13:50:58Z",
+  "firstContribution": "2026-03-10T12:07:02Z",
+  "lastContribution": "2026-03-27T02:20:37Z",
   "recentPRs": [
+    {
+      "number": 55466,
+      "title": "fix(feishu): read full CardKit streaming card content via raw_card_content param",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T01:50:56Z",
+      "mergedAt": null,
+      "additions": 190,
+      "deletions": 8,
+      "changedFiles": 2
+    },
     {
       "number": 47354,
       "title": "fix(cron): default to system timezone when --tz is omitted",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T13:40:33Z",
       "mergedAt": null,
@@ -66,7 +68,7 @@
     {
       "number": 42164,
       "title": "fix(feishu): skip bot mentions in mention-forward detection",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T13:10:13Z",
       "mergedAt": null,
@@ -77,7 +79,7 @@
     {
       "number": 42145,
       "title": "fix(agents): add SSE parse error resilience with auto-retry",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-10T12:52:06Z",
       "mergedAt": null,
@@ -106,28 +108,6 @@
       "additions": 332,
       "deletions": 591,
       "changedFiles": 5
-    },
-    {
-      "number": 39339,
-      "title": "fix(feishu): support v2 card format, streaming cards, and interactive message type parsing",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T01:20:28Z",
-      "mergedAt": null,
-      "additions": 274,
-      "deletions": 17,
-      "changedFiles": 4
-    },
-    {
-      "number": 37666,
-      "title": "fix(feishu): prevent silent send failure when streaming card close fails",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T10:52:28Z",
-      "mergedAt": null,
-      "additions": 197,
-      "deletions": 24,
-      "changedFiles": 8
     }
   ],
   "recentIssues": [],
@@ -154,6 +134,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-15": {
       "prs": 1,
       "issues": 0,
@@ -161,16 +146,6 @@
     },
     "2026-03-10": {
       "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
       "issues": 0,
       "reviews": 0
     },
@@ -186,9 +161,5 @@
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-05": 1,
-    "2026-02-28": 1
-  }
+  "achievements": []
 }

@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/124482724?v=4",
   "githubUrl": "https://github.com/NickHood1984",
   "score": {
-    "score": 62.92,
-    "prScore": 60.92,
+    "score": 29.6,
+    "prScore": 29.6,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 671,
-    "prDeletions": 104,
-    "prChangedFiles": 20,
+    "prAdditions": 110,
+    "prDeletions": 70,
+    "prChangedFiles": 10,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-09T08:50:09Z",
+  "firstContribution": "2026-03-14T08:10:57Z",
   "lastContribution": "2026-03-14T08:10:57Z",
   "recentPRs": [
     {
@@ -73,17 +64,6 @@
       "additions": 40,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 40791,
-      "title": "feat: add external rescue watchdog",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T08:50:09Z",
-      "mergedAt": null,
-      "additions": 561,
-      "deletions": 34,
-      "changedFiles": 10
     }
   ],
   "recentIssues": [],
@@ -93,17 +73,10 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

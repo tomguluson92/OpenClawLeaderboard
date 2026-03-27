@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/8650830?u=39fd784225721942623288a4208f7f1407aecc3b&v=4",
   "githubUrl": "https://github.com/wufunc",
   "score": {
-    "score": 91.57,
-    "prScore": 72.07,
+    "score": 104.14,
+    "prScore": 84.14,
     "issueScore": 5,
     "reviewScore": 9,
-    "commentScore": 5.5
+    "commentScore": 6
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 4,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 1016,
-    "prDeletions": 75,
-    "prChangedFiles": 21,
+    "prAdditions": 1144,
+    "prDeletions": 93,
+    "prChangedFiles": 23,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 11,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 12
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 1,
-      "reviews": 3,
-      "comments": 11,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 1
     },
     "monthly": {
-      "prs": 4,
+      "prs": 5,
       "issues": 1,
       "reviews": 3,
-      "comments": 11,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 12
     }
   },
   "firstContribution": "2026-03-18T10:15:26Z",
-  "lastContribution": "2026-03-18T18:30:03Z",
+  "lastContribution": "2026-03-25T20:02:30Z",
   "recentPRs": [
+    {
+      "number": 54664,
+      "title": "fix: recover stale Chrome MCP selected-page sessions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T19:51:50Z",
+      "mergedAt": null,
+      "additions": 128,
+      "deletions": 18,
+      "changedFiles": 2
+    },
     {
       "number": 49797,
       "title": "fix: preserve raw WebUI model aliases",
@@ -88,7 +90,7 @@
     {
       "number": 49733,
       "title": "test(status): cover authenticated loopback probe regression in status scan",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T10:19:34Z",
       "mergedAt": null,
@@ -124,6 +126,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 4,
       "issues": 1,
@@ -142,6 +149,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

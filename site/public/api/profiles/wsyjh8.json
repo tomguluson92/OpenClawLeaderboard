@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/31175216?u=bee86d471dbcb66e693761d3c4c2d710b92335ad&v=4",
   "githubUrl": "https://github.com/wsyjh8",
   "score": {
-    "score": 86.34,
-    "prScore": 62.34,
-    "issueScore": 5,
-    "reviewScore": 15,
-    "commentScore": 4
+    "score": 102.87,
+    "prScore": 78.37,
+    "issueScore": 0,
+    "reviewScore": 24,
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Contributor",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 1116,
-    "prDeletions": 162,
-    "prChangedFiles": 16,
+    "prAdditions": 1751,
+    "prDeletions": 312,
+    "prChangedFiles": 22,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 5,
+    "reviews": 8,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 8,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 4,
+      "comments": 0
     },
     "monthly": {
       "prs": 4,
-      "issues": 1,
-      "reviews": 5,
-      "comments": 8,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 0,
+      "reviews": 8,
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-09T02:37:50Z",
-  "lastContribution": "2026-03-14T20:30:03Z",
+  "firstContribution": "2026-03-09T16:21:59Z",
+  "lastContribution": "2026-03-26T01:28:10Z",
   "recentPRs": [
+    {
+      "number": 54724,
+      "title": "fix/agents-primary-model-selection-and-catalog-loading-41344",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T21:54:11Z",
+      "mergedAt": null,
+      "additions": 862,
+      "deletions": 155,
+      "changedFiles": 12
+    },
     {
       "number": 46275,
       "title": "fix(ui): stabilize agent primary model selection on switch",
@@ -84,29 +86,30 @@
       "additions": 434,
       "deletions": 15,
       "changedFiles": 5
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 54724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T01:28:10Z"
     },
     {
-      "number": 40472,
-      "title": "fix(tui): refresh on external session reset and clear stale run state",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T02:37:50Z",
-      "mergedAt": null,
-      "additions": 227,
-      "deletions": 5,
-      "changedFiles": 6
-    }
-  ],
-  "recentIssues": [
+      "prNumber": 54724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T00:23:35Z"
+    },
     {
-      "number": 41545,
-      "title": "[Bug]: Editing WebSocket URL clears Gateway Token in Overview",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T23:58:04Z",
-      "closedAt": null
-    }
-  ],
-  "recentReviews": [
+      "prNumber": 54724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T22:19:37Z"
+    },
+    {
+      "prNumber": 54724,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T22:19:29Z"
+    },
     {
       "prNumber": 41241,
       "state": "COMMENTED",
@@ -126,37 +129,34 @@
       "prNumber": 41241,
       "state": "COMMENTED",
       "createdAt": "2026-03-09T16:57:44Z"
-    },
-    {
-      "prNumber": 40472,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T04:46:47Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
     },
     "2026-03-09": {
-      "prs": 3,
-      "issues": 1,
-      "reviews": 5
+      "prs": 2,
+      "issues": 0,
+      "reviews": 4
+    },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,55 +3,123 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/11166065?v=4",
   "githubUrl": "https://github.com/sallyom",
   "score": {
-    "score": 351.76,
-    "prScore": 240.26,
+    "score": 438.12,
+    "prScore": 321.12,
     "issueScore": 0,
-    "reviewScore": 107,
-    "commentScore": 4.5
+    "reviewScore": 108,
+    "commentScore": 9
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
-    "commits": 8,
-    "prs": 8,
-    "prsMerged": 5,
-    "prAdditions": 2860,
-    "prDeletions": 339,
-    "prChangedFiles": 83,
-    "prMergeRate": 63,
+    "commits": 14,
+    "prs": 13,
+    "prsMerged": 10,
+    "prAdditions": 5103,
+    "prDeletions": 750,
+    "prChangedFiles": 100,
+    "prMergeRate": 77,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 35,
-    "reviewsApproved": 2,
+    "reviews": 36,
+    "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
-    "commitAdditions": 2189,
-    "commitDeletions": 139,
-    "commitChangedFiles": 57
+    "comments": 18
   },
   "period": {
     "weekly": {
-      "prs": 4,
+      "prs": 7,
       "issues": 0,
-      "reviews": 19,
-      "comments": 2,
-      "commitAdditions": 1058,
-      "commitDeletions": 92,
-      "commits": 4
+      "reviews": 17,
+      "comments": 15
     },
     "monthly": {
-      "prs": 8,
+      "prs": 13,
       "issues": 0,
-      "reviews": 35,
-      "comments": 9,
-      "commitAdditions": 2189,
-      "commitDeletions": 139,
-      "commits": 8
+      "reviews": 36,
+      "comments": 18
     }
   },
-  "firstContribution": "2026-03-07T02:20:19Z",
-  "lastContribution": "2026-03-19T21:27:03Z",
+  "firstContribution": "2026-03-11T16:47:38Z",
+  "lastContribution": "2026-03-27T04:17:00Z",
   "recentPRs": [
+    {
+      "number": 55388,
+      "title": "update podman setup and docs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T21:57:00Z",
+      "mergedAt": null,
+      "additions": 917,
+      "deletions": 352,
+      "changedFiles": 6
+    },
+    {
+      "number": 54223,
+      "title": "fixes for cli-containerized",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T04:17:29Z",
+      "mergedAt": "2026-03-25T04:51:56Z",
+      "additions": 68,
+      "deletions": 131,
+      "changedFiles": 6
+    },
+    {
+      "number": 53229,
+      "title": "changelog",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T23:37:18Z",
+      "mergedAt": "2026-03-23T23:37:59Z",
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 53187,
+      "title": "Doctor: prune stale plugin allowlist and entry refs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T21:59:38Z",
+      "mergedAt": "2026-03-23T22:58:54Z",
+      "additions": 438,
+      "deletions": 2,
+      "changedFiles": 6
+    },
+    {
+      "number": 52901,
+      "title": "fix(gateway): allow localhost control-ui auth through container port-forwards",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T13:55:11Z",
+      "mergedAt": null,
+      "additions": 116,
+      "deletions": 4,
+      "changedFiles": 4
+    },
+    {
+      "number": 52651,
+      "title": "feat(cli): support containerized openclaw",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T05:41:43Z",
+      "mergedAt": "2026-03-24T14:17:17Z",
+      "additions": 1484,
+      "deletions": 39,
+      "changedFiles": 24
+    },
+    {
+      "number": 51322,
+      "title": "changelog",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-20T23:29:46Z",
+      "mergedAt": "2026-03-20T23:30:33Z",
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1
+    },
     {
       "number": 48924,
       "title": "Fix ssh identity handling for remote exec ",
@@ -110,39 +178,102 @@
     {
       "number": 43356,
       "title": "feat: add anthropic-vertex provider for Claude via GCP Vertex AI",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-11T16:47:38Z",
-      "mergedAt": null,
-      "additions": 1615,
-      "deletions": 181,
-      "changedFiles": 42
-    },
-    {
-      "number": 39092,
-      "title": "CI: fix false positive secret",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T18:35:32Z",
-      "mergedAt": null,
-      "additions": 19,
-      "deletions": 19,
-      "changedFiles": 5
-    },
-    {
-      "number": 38479,
-      "title": "reduce image size, offer slim image",
       "state": "MERGED",
       "merged": true,
-      "createdAt": "2026-03-07T02:20:19Z",
-      "mergedAt": "2026-03-07T19:26:29Z",
-      "additions": 166,
-      "deletions": 45,
-      "changedFiles": 4
+      "createdAt": "2026-03-11T16:47:38Z",
+      "mergedAt": "2026-03-20T22:48:42Z",
+      "additions": 1018,
+      "deletions": 128,
+      "changedFiles": 20
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 55388,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T22:44:21Z"
+    },
+    {
+      "prNumber": 55388,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T22:35:58Z"
+    },
+    {
+      "prNumber": 55388,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T22:34:28Z"
+    },
+    {
+      "prNumber": 55388,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T22:33:27Z"
+    },
+    {
+      "prNumber": 55388,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T22:31:58Z"
+    },
+    {
+      "prNumber": 55388,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-26T22:30:02Z"
+    },
+    {
+      "prNumber": 54223,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T04:49:13Z"
+    },
+    {
+      "prNumber": 53187,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T22:49:11Z"
+    },
+    {
+      "prNumber": 53187,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T22:13:31Z"
+    },
+    {
+      "prNumber": 53187,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T22:13:29Z"
+    },
+    {
+      "prNumber": 52651,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T19:01:30Z"
+    },
+    {
+      "prNumber": 52651,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T18:56:44Z"
+    },
+    {
+      "prNumber": 52901,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T14:33:01Z"
+    },
+    {
+      "prNumber": 52901,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T14:31:37Z"
+    },
+    {
+      "prNumber": 52901,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T14:28:04Z"
+    },
+    {
+      "prNumber": 52651,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T13:50:36Z"
+    },
+    {
+      "prNumber": 52651,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T13:50:27Z"
+    },
     {
       "prNumber": 43356,
       "state": "COMMENTED",
@@ -157,94 +288,29 @@
       "prNumber": 43356,
       "state": "COMMENTED",
       "createdAt": "2026-03-19T20:24:35Z"
-    },
-    {
-      "prNumber": 43356,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T20:24:09Z"
-    },
-    {
-      "prNumber": 43356,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T20:20:57Z"
-    },
-    {
-      "prNumber": 48924,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T10:52:50Z"
-    },
-    {
-      "prNumber": 48924,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T10:33:46Z"
-    },
-    {
-      "prNumber": 48924,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T10:33:35Z"
-    },
-    {
-      "prNumber": 48924,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T10:33:25Z"
-    },
-    {
-      "prNumber": 48924,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T10:33:17Z"
-    },
-    {
-      "prNumber": 47453,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-15T16:41:32Z"
-    },
-    {
-      "prNumber": 47453,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-15T16:39:21Z"
-    },
-    {
-      "prNumber": 47453,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-15T16:35:44Z"
-    },
-    {
-      "prNumber": 46290,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-14T16:21:29Z"
-    },
-    {
-      "prNumber": 46290,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-14T16:04:13Z"
-    },
-    {
-      "prNumber": 46290,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-14T16:03:11Z"
-    },
-    {
-      "prNumber": 46290,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-14T15:50:48Z"
-    },
-    {
-      "prNumber": 45512,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-14T00:01:30Z"
-    },
-    {
-      "prNumber": 45512,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T23:57:36Z"
-    },
-    {
-      "prNumber": 39449,
-      "state": "APPROVED",
-      "createdAt": "2026-03-08T21:53:54Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 6
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-23": {
+      "prs": 4,
+      "issues": 0,
+      "reviews": 10
+    },
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-17": {
       "prs": 1,
       "issues": 0,
@@ -270,29 +336,25 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 4
-    },
     "2026-03-19": {
       "prs": 0,
       "issues": 0,
       "reviews": 5
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 12
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
     "Discussion",
-    "Direct Commits"
+    "Direct Commits",
+    "Large-Scale Changes"
   ],
   "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
     {
       "id": "merger",
       "label": "Merger",
@@ -303,14 +365,5 @@
       "label": "Code Reviewer",
       "description": "10+ reviews"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-17": 1,
-    "2026-03-15": 1,
-    "2026-03-14": 2,
-    "2026-03-12": 1,
-    "2026-03-07": 1,
-    "2026-03-06": 1,
-    "2026-02-23": 1
-  }
+  ]
 }

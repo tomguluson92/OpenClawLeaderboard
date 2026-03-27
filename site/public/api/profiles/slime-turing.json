@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/266232641?u=c4d45ab64eeb379518acd23cb04078fe27112ca1&v=4",
   "githubUrl": "https://github.com/slime-turing",
   "score": {
-    "score": 309.04,
-    "prScore": 202.04,
+    "score": 280.31,
+    "prScore": 193.31,
     "issueScore": 0,
-    "reviewScore": 102,
-    "commentScore": 5
+    "reviewScore": 84,
+    "commentScore": 3
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 11,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 3878,
-    "prDeletions": 292,
-    "prChangedFiles": 64,
+    "prAdditions": 3490,
+    "prDeletions": 226,
+    "prChangedFiles": 60,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 34,
+    "reviews": 28,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 10,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 6
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
-      "reviews": 6,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 11,
+      "prs": 10,
       "issues": 0,
-      "reviews": 34,
-      "comments": 10,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 28,
+      "comments": 6
     }
   },
-  "firstContribution": "2026-03-07T08:17:22Z",
+  "firstContribution": "2026-03-10T22:19:50Z",
   "lastContribution": "2026-03-14T11:50:36Z",
   "recentPRs": [
     {
@@ -160,17 +151,6 @@
       "mergedAt": null,
       "additions": 38,
       "deletions": 7,
-      "changedFiles": 4
-    },
-    {
-      "number": 38687,
-      "title": "[AI-assisted] fix(media): bypass proxy for internal audio backends",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T08:17:22Z",
-      "mergedAt": null,
-      "additions": 388,
-      "deletions": 66,
       "changedFiles": 4
     }
   ],
@@ -286,15 +266,10 @@
     "2026-03-12": {
       "prs": 6,
       "issues": 0,
-      "reviews": 28
+      "reviews": 22
     },
     "2026-03-10": {
       "prs": 2,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 1,
       "issues": 0,
       "reviews": 0
     },
@@ -320,6 +295,5 @@
       "label": "Code Reviewer",
       "description": "10+ reviews"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

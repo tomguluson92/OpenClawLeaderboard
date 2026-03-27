@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/255583030?v=4",
   "githubUrl": "https://github.com/brokemac79",
   "score": {
-    "score": 380.47,
-    "prScore": 259.97,
+    "score": 394.54,
+    "prScore": 274.04,
     "issueScore": 0,
     "reviewScore": 96,
     "commentScore": 24.5
@@ -13,45 +13,58 @@
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 19,
+    "prs": 21,
     "prsMerged": 1,
-    "prAdditions": 3405,
-    "prDeletions": 347,
-    "prChangedFiles": 67,
+    "prAdditions": 3553,
+    "prDeletions": 349,
+    "prChangedFiles": 72,
     "prMergeRate": 5,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 32,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 49,
-    "commitAdditions": 96,
-    "commitDeletions": 36,
-    "commitChangedFiles": 3
+    "comments": 49
   },
   "period": {
     "weekly": {
-      "prs": 19,
+      "prs": 2,
       "issues": 0,
-      "reviews": 32,
-      "comments": 49,
-      "commitAdditions": 96,
-      "commitDeletions": 36,
-      "commits": 1
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 19,
+      "prs": 21,
       "issues": 0,
       "reviews": 32,
-      "comments": 49,
-      "commitAdditions": 96,
-      "commitDeletions": 36,
-      "commits": 1
+      "comments": 49
     }
   },
   "firstContribution": "2026-03-15T17:32:16Z",
-  "lastContribution": "2026-03-18T18:33:00Z",
+  "lastContribution": "2026-03-22T18:09:23Z",
   "recentPRs": [
+    {
+      "number": 52410,
+      "title": "fix: tavily provider rejected by config validator despite being documented as supported (AI-authored)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T18:09:23Z",
+      "mergedAt": null,
+      "additions": 140,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 52409,
+      "title": "fix: Discord retry policy only covers 429 — misses 502/503/timeout/connection errors (AI-authored)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T18:06:57Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 49903,
       "title": "fix(ui): preserve chatRunId during tool stream updates",
@@ -249,17 +262,6 @@
       "additions": 1795,
       "deletions": 234,
       "changedFiles": 8
-    },
-    {
-      "number": 47522,
-      "title": "fix(ui): derive full provider/model ID from catalog in model selector [AI-assisted]",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-15T17:32:16Z",
-      "mergedAt": null,
-      "additions": 173,
-      "deletions": 11,
-      "changedFiles": 8
     }
   ],
   "recentIssues": [],
@@ -366,6 +368,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 0,
@@ -408,8 +415,5 @@
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-16": 1
-  }
+  ]
 }

@@ -1,61 +1,118 @@
 {
   "username": "sliverp",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/38134380?u=15100c08bb1f79c85e1083aaead850bed5f16c6b&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38134380?v=4",
   "githubUrl": "https://github.com/sliverp",
   "score": {
-    "score": 20.71,
-    "prScore": 12.71,
+    "score": 247.88,
+    "prScore": 238.88,
     "issueScore": 8,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 1
   },
-  "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "tier": "active",
+  "characterClass": "Builder",
   "stats": {
-    "commits": 0,
-    "prs": 1,
+    "commits": 3,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 31,
-    "prDeletions": 2,
-    "prChangedFiles": 1,
+    "prAdditions": 108579,
+    "prDeletions": 7115,
+    "prChangedFiles": 867,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 11,
-    "commitDeletions": 0,
-    "commitChangedFiles": 4
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 6,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 11,
-      "commitDeletions": 0,
-      "commits": 2
+      "comments": 2
     },
     "monthly": {
-      "prs": 1,
+      "prs": 7,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 11,
-      "commitDeletions": 0,
-      "commits": 2
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-18T16:44:19Z",
-  "lastContribution": "2026-03-18T17:36:48Z",
+  "lastContribution": "2026-03-23T15:52:55Z",
   "recentPRs": [
+    {
+      "number": 52986,
+      "title": "Feature/add qq channel",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T15:52:55Z",
+      "mergedAt": null,
+      "additions": 15037,
+      "deletions": 15,
+      "changedFiles": 61
+    },
+    {
+      "number": 52811,
+      "title": "Feature/add qq channel",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T11:45:10Z",
+      "mergedAt": null,
+      "additions": 33066,
+      "deletions": 7061,
+      "changedFiles": 606
+    },
+    {
+      "number": 52798,
+      "title": "Feature/add qq channel",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T11:19:49Z",
+      "mergedAt": null,
+      "additions": 15086,
+      "deletions": 16,
+      "changedFiles": 51
+    },
+    {
+      "number": 52783,
+      "title": "Feature/add qq channel",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T10:31:12Z",
+      "mergedAt": null,
+      "additions": 14895,
+      "deletions": 7,
+      "changedFiles": 49
+    },
+    {
+      "number": 52756,
+      "title": "Feature/add qq channel ",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T09:14:22Z",
+      "mergedAt": null,
+      "additions": 14922,
+      "deletions": 7,
+      "changedFiles": 49
+    },
+    {
+      "number": 52721,
+      "title": "Feature/add qq channel",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T08:09:52Z",
+      "mergedAt": null,
+      "additions": 15542,
+      "deletions": 7,
+      "changedFiles": 50
+    },
     {
       "number": 49938,
       "title": "refactor(line): use setup Setup-safe config adapter",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T17:36:48Z",
       "mergedAt": null,
@@ -75,6 +132,11 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 1,
@@ -83,10 +145,21 @@
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting"
+    "Issue Reporting",
+    "Discussion",
+    "Direct Commits",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-20": 2
-  }
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ]
 }

@@ -3,59 +3,94 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3031622?u=2448b4afa647fc8b3e678da431801a71f845a86e&v=4",
   "githubUrl": "https://github.com/drvoss",
   "score": {
-    "score": 304.04,
-    "prScore": 255.54,
+    "score": 240.72,
+    "prScore": 188.72,
     "issueScore": 0,
-    "reviewScore": 45,
-    "commentScore": 3.5
+    "reviewScore": 48,
+    "commentScore": 4
   },
   "tier": "active",
   "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 19,
+    "prs": 16,
     "prsMerged": 0,
-    "prAdditions": 3125,
-    "prDeletions": 302,
-    "prChangedFiles": 73,
+    "prAdditions": 893,
+    "prDeletions": 110,
+    "prChangedFiles": 37,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 15,
+    "reviews": 16,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 7,
-    "commitAdditions": 102,
-    "commitDeletions": 1,
-    "commitChangedFiles": 2
+    "comments": 8
   },
   "period": {
     "weekly": {
-      "prs": 12,
+      "prs": 4,
       "issues": 0,
-      "reviews": 15,
-      "comments": 6,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 5
     },
     "monthly": {
-      "prs": 19,
+      "prs": 16,
       "issues": 0,
-      "reviews": 15,
-      "comments": 7,
-      "commitAdditions": 102,
-      "commitDeletions": 1,
-      "commits": 1
+      "reviews": 16,
+      "comments": 8
     }
   },
-  "firstContribution": "2026-03-06T06:22:08Z",
-  "lastContribution": "2026-03-20T07:56:51Z",
+  "firstContribution": "2026-03-16T02:41:11Z",
+  "lastContribution": "2026-03-27T00:30:18Z",
   "recentPRs": [
+    {
+      "number": 54213,
+      "title": "fix: resolveDeliveryStatus returns not-requested for mode=none cron jobs",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T03:56:23Z",
+      "mergedAt": null,
+      "additions": 25,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 54211,
+      "title": "fix: pass agentId in message CLI so send writes session transcript",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T03:50:59Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 53395,
+      "title": "feishu: fix schema 2.0 card config in interactive card UX functions",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T05:01:23Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 53394,
+      "title": "feishu: fix schema 2.0 card config - replace wide_screen_mode with enable_forward",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T04:59:29Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1
+    },
     {
       "number": 50870,
       "title": "fix(discord): proactive hello-connected poll to catch missed WS open event",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-20T05:38:01Z",
       "mergedAt": null,
@@ -77,7 +112,7 @@
     {
       "number": 50237,
       "title": "fix(ui): use totalTokens context snapshot for usage display",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T05:20:35Z",
       "mergedAt": null,
@@ -92,19 +127,19 @@
       "merged": false,
       "createdAt": "2026-03-19T04:49:47Z",
       "mergedAt": null,
-      "additions": 84,
+      "additions": 107,
       "deletions": 9,
-      "changedFiles": 5
+      "changedFiles": 6
     },
     {
       "number": 48657,
       "title": "Plugins: suppress false-positive duplicate warning for bundled plugins",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-17T02:30:48Z",
       "mergedAt": null,
-      "additions": 52,
-      "deletions": 14,
+      "additions": 76,
+      "deletions": 33,
       "changedFiles": 2
     },
     {
@@ -121,7 +156,7 @@
     {
       "number": 48642,
       "title": "Browser: add macOS LaunchServices bundle ID fallback for Edge",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-17T02:10:27Z",
       "mergedAt": null,
@@ -183,87 +218,15 @@
       "additions": 16,
       "deletions": 1,
       "changedFiles": 2
-    },
-    {
-      "number": 40386,
-      "title": "fix: batch bug fixes for discord, imessage, heartbeat, acpx and cron",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T00:22:08Z",
-      "mergedAt": null,
-      "additions": 109,
-      "deletions": 21,
-      "changedFiles": 9
-    },
-    {
-      "number": 38647,
-      "title": "fix(session): use Discord channel target as session key when From is sender-shaped",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T06:37:36Z",
-      "mergedAt": null,
-      "additions": 86,
-      "deletions": 1,
-      "changedFiles": 2
-    },
-    {
-      "number": 38646,
-      "title": "fix(gateway): use agents.list hot-reload rule for per-agent heartbeat changes",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T06:37:27Z",
-      "mergedAt": null,
-      "additions": 36,
-      "deletions": 2,
-      "changedFiles": 2
-    },
-    {
-      "number": 38620,
-      "title": "fix: deduplicate snapshot field reads and add test coverage",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T05:58:19Z",
-      "mergedAt": null,
-      "additions": 686,
-      "deletions": 66,
-      "changedFiles": 9
-    },
-    {
-      "number": 38550,
-      "title": "fix: deduplicate snapshot field reads and add test coverage",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-07T04:10:31Z",
-      "mergedAt": null,
-      "additions": 681,
-      "deletions": 61,
-      "changedFiles": 9
-    },
-    {
-      "number": 37333,
-      "title": "fix(infra): guard negative ms in formatDurationPrecise and expand duration tests",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T07:02:26Z",
-      "mergedAt": null,
-      "additions": 32,
-      "deletions": 6,
-      "changedFiles": 3
-    },
-    {
-      "number": 37285,
-      "title": "fix(infra): correct import extension, cache snapshot field reads, and add test coverage",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T06:22:08Z",
-      "mergedAt": null,
-      "additions": 681,
-      "deletions": 61,
-      "changedFiles": 9
     }
   ],
   "recentIssues": [],
   "recentReviews": [
+    {
+      "prNumber": 50215,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-27T00:30:18Z"
+    },
     {
       "prNumber": 50870,
       "state": "COMMENTED",
@@ -341,6 +304,16 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-20": {
       "prs": 2,
       "issues": 0,
@@ -361,20 +334,10 @@
       "issues": 0,
       "reviews": 0
     },
-    "2026-03-09": {
-      "prs": 1,
+    "2026-03-27": {
+      "prs": 0,
       "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
+      "reviews": 1
     }
   },
   "skills": [
@@ -393,8 +356,5 @@
       "label": "Code Reviewer",
       "description": "10+ reviews"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-03": 1
-  }
+  ]
 }

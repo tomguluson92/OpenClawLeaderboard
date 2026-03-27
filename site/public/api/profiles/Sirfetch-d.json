@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/53145664?u=6949d3731346fadf28302e88f219e0e58b01f817&v=4",
   "githubUrl": "https://github.com/Sirfetch-d",
   "score": {
-    "score": 48.07,
-    "prScore": 48.07,
+    "score": 9.18,
+    "prScore": 9.18,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,43 +13,34 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 781,
-    "prDeletions": 15,
-    "prChangedFiles": 17,
+    "prAdditions": 26,
+    "prDeletions": 11,
+    "prChangedFiles": 2,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-09T03:08:43Z",
+  "firstContribution": "2026-03-10T09:49:27Z",
   "lastContribution": "2026-03-10T09:49:27Z",
   "recentPRs": [
     {
@@ -62,17 +53,6 @@
       "additions": 26,
       "deletions": 11,
       "changedFiles": 2
-    },
-    {
-      "number": 40502,
-      "title": "Agents: lower default temperature for tool runs",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T03:08:43Z",
-      "mergedAt": null,
-      "additions": 755,
-      "deletions": 4,
-      "changedFiles": 15
     }
   ],
   "recentIssues": [],
@@ -82,16 +62,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

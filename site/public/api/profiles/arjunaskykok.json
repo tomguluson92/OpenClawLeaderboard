@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/32124593?u=7fdcaafc99cd7c68bafa5f20cb24654f69300b28&v=4",
   "githubUrl": "https://github.com/arjunaskykok",
   "score": {
-    "score": 51.93,
-    "prScore": 35.93,
-    "issueScore": 8,
-    "reviewScore": 6,
-    "commentScore": 2
+    "score": 19.1,
+    "prScore": 19.1,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
   },
-  "tier": "regular",
-  "characterClass": "Contributor",
+  "tier": "beginner",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 247,
+    "prAdditions": 25,
     "prDeletions": 4,
-    "prChangedFiles": 9,
+    "prChangedFiles": 5,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 1,
-    "reviews": 2,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 3,
-      "issues": 1,
-      "reviews": 2,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-09T09:20:25Z",
-  "lastContribution": "2026-03-11T08:19:25Z",
+  "firstContribution": "2026-03-11T05:53:25Z",
+  "lastContribution": "2026-03-11T07:37:28Z",
   "recentPRs": [
     {
       "number": 42949,
@@ -66,71 +57,26 @@
     {
       "number": 42857,
       "title": "Tests: clear inherited WSL env in wsl detection test",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-11T05:53:25Z",
       "mergedAt": null,
       "additions": 3,
       "deletions": 0,
       "changedFiles": 1
-    },
-    {
-      "number": 40810,
-      "title": "Backup: add exclude patterns to create",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T09:20:25Z",
-      "mergedAt": null,
-      "additions": 222,
-      "deletions": 0,
-      "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42944,
-      "title": "[Bug]: Telegram and chat command UI falsely advertise /subagents spawn",
-      "state": "CLOSED",
-      "createdAt": "2026-03-11T07:29:39Z",
-      "closedAt": "2026-03-11T08:19:25Z"
-    }
-  ],
-  "recentReviews": [
-    {
-      "prNumber": 40810,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T10:48:53Z"
-    },
-    {
-      "prNumber": 40810,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T10:48:37Z"
-    }
-  ],
+  "recentIssues": [],
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 2,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
       "issues": 0,
-      "reviews": 2
+      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

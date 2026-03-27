@@ -1,0 +1,160 @@
+{
+  "username": "kvokka",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15954013?u=690aabd53a2c6c0d261aa97a6c98c1018f234a5f&v=4",
+  "githubUrl": "https://github.com/kvokka",
+  "score": {
+    "score": 203.18,
+    "prScore": 176.68,
+    "issueScore": 13,
+    "reviewScore": 12,
+    "commentScore": 1.5
+  },
+  "tier": "active",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 4,
+    "prsMerged": 1,
+    "prAdditions": 10774,
+    "prDeletions": 5740,
+    "prChangedFiles": 261,
+    "prMergeRate": 25,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 4,
+      "issues": 2,
+      "reviews": 4,
+      "comments": 3
+    },
+    "monthly": {
+      "prs": 4,
+      "issues": 2,
+      "reviews": 4,
+      "comments": 3
+    }
+  },
+  "firstContribution": "2026-03-25T01:16:46Z",
+  "lastContribution": "2026-03-26T22:00:07Z",
+  "recentPRs": [
+    {
+      "number": 55390,
+      "title": "feat(cli): sync local schema artifacts on startup",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T22:00:07Z",
+      "mergedAt": null,
+      "additions": 335,
+      "deletions": 13,
+      "changedFiles": 17
+    },
+    {
+      "number": 54523,
+      "title": "feat(cli): add json schema to cli tool",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T14:56:47Z",
+      "mergedAt": "2026-03-25T23:30:33Z",
+      "additions": 674,
+      "deletions": 76,
+      "changedFiles": 18
+    },
+    {
+      "number": 54195,
+      "title": "feat(cli): add openclaw config schema subcommand",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T03:10:16Z",
+      "mergedAt": null,
+      "additions": 671,
+      "deletions": 76,
+      "changedFiles": 17
+    },
+    {
+      "number": 54130,
+      "title": "feat(cli): add openclaw config schema subcommand",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-25T01:16:46Z",
+      "mergedAt": null,
+      "additions": 9094,
+      "deletions": 5575,
+      "changedFiles": 209
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 55235,
+      "title": "[Feature]: Generate and update openclaw.json JSON schema on bootstrap/update",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T15:03:36Z",
+      "closedAt": null
+    },
+    {
+      "number": 55002,
+      "title": "[Feature]: Add public json schema via http access",
+      "state": "CLOSED",
+      "createdAt": "2026-03-26T07:32:49Z",
+      "closedAt": "2026-03-26T15:04:44Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 54523,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T15:12:26Z"
+    },
+    {
+      "prNumber": 54195,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T14:26:02Z"
+    },
+    {
+      "prNumber": 54130,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T02:25:02Z"
+    },
+    {
+      "prNumber": 54130,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T01:46:27Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 4
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

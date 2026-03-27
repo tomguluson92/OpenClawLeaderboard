@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1655200?u=164057dac9a676bb97ac1452e77ea4d18ef9b3d8&v=4",
   "githubUrl": "https://github.com/liujiaqiid",
   "score": {
-    "score": 201.56,
-    "prScore": 190.06,
+    "score": 182.74,
+    "prScore": 173.24,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 11.5
+    "commentScore": 9.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 9,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 4716,
-    "prDeletions": 55,
-    "prChangedFiles": 52,
+    "prAdditions": 4636,
+    "prDeletions": 45,
+    "prChangedFiles": 49,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 23,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 19
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 11,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     },
     "monthly": {
-      "prs": 9,
+      "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 23,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 19
     }
   },
-  "firstContribution": "2026-03-07T04:17:14Z",
-  "lastContribution": "2026-03-19T01:08:13Z",
+  "firstContribution": "2026-03-10T04:53:32Z",
+  "lastContribution": "2026-03-25T01:01:37Z",
   "recentPRs": [
     {
       "number": 49332,
@@ -128,28 +119,6 @@
       "additions": 5,
       "deletions": 4,
       "changedFiles": 1
-    },
-    {
-      "number": 38559,
-      "title": "fix(feishu): support mp4 video messages with thumbnail (#38554)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T04:23:18Z",
-      "mergedAt": null,
-      "additions": 59,
-      "deletions": 6,
-      "changedFiles": 2
-    },
-    {
-      "number": 38556,
-      "title": "fix(edit): verify file content changed in post-write recovery (#27082)",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-07T04:17:14Z",
-      "mergedAt": null,
-      "additions": 21,
-      "deletions": 4,
-      "changedFiles": 1
     }
   ],
   "recentIssues": [],
@@ -179,23 +148,11 @@
       "prs": 2,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

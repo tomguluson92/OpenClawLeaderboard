@@ -3,10 +3,10 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/103052785?v=4",
   "githubUrl": "https://github.com/xkonjin",
   "score": {
-    "score": 102,
+    "score": 54,
     "prScore": 0,
     "issueScore": 5,
-    "reviewScore": 90,
+    "reviewScore": 42,
     "commentScore": 7
   },
   "tier": "regular",
@@ -21,35 +21,26 @@
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
-    "reviews": 30,
+    "reviews": 14,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 14,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 14
   },
   "period": {
     "weekly": {
       "prs": 0,
-      "issues": 1,
-      "reviews": 12,
-      "comments": 9,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 0,
       "issues": 1,
-      "reviews": 30,
-      "comments": 14,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 14,
+      "comments": 14
     }
   },
-  "firstContribution": "2026-03-07T23:25:28Z",
+  "firstContribution": "2026-03-10T14:02:42Z",
   "lastContribution": "2026-03-16T23:04:59Z",
   "recentPRs": [],
   "recentIssues": [
@@ -131,36 +122,6 @@
       "prNumber": 42415,
       "state": "COMMENTED",
       "createdAt": "2026-03-10T18:03:09Z"
-    },
-    {
-      "prNumber": 40607,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T05:05:52Z"
-    },
-    {
-      "prNumber": 40606,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T05:05:51Z"
-    },
-    {
-      "prNumber": 40610,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T05:05:50Z"
-    },
-    {
-      "prNumber": 40492,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T03:04:02Z"
-    },
-    {
-      "prNumber": 40494,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T03:03:45Z"
-    },
-    {
-      "prNumber": 40409,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-09T01:05:52Z"
     }
   ],
   "recentActivityDays": {
@@ -193,21 +154,6 @@
       "prs": 0,
       "issues": 0,
       "reviews": 1
-    },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 6
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 9
-    },
-    "2026-03-07": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
     }
   },
   "skills": [
@@ -221,6 +167,5 @@
       "label": "Code Reviewer",
       "description": "10+ reviews"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

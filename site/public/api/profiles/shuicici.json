@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/157349610?v=4",
   "githubUrl": "https://github.com/shuicici",
   "score": {
-    "score": 295.26,
-    "prScore": 252.76,
+    "score": 304.31,
+    "prScore": 259.81,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 42.5
+    "commentScore": 44.5
   },
   "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 20,
+    "prs": 21,
     "prsMerged": 1,
-    "prAdditions": 1389,
-    "prDeletions": 105,
-    "prChangedFiles": 65,
+    "prAdditions": 1403,
+    "prDeletions": 107,
+    "prChangedFiles": 66,
     "prMergeRate": 5,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 85,
-    "commitAdditions": 5,
-    "commitDeletions": 6,
-    "commitChangedFiles": 1
+    "comments": 89
   },
   "period": {
     "weekly": {
-      "prs": 17,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 77,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 12
     },
     "monthly": {
-      "prs": 20,
+      "prs": 21,
       "issues": 0,
       "reviews": 0,
-      "comments": 85,
-      "commitAdditions": 5,
-      "commitDeletions": 6,
-      "commits": 1
+      "comments": 89
     }
   },
-  "firstContribution": "2026-03-11T08:24:59Z",
-  "lastContribution": "2026-03-20T08:46:11Z",
+  "firstContribution": "2026-03-11T13:06:40Z",
+  "lastContribution": "2026-03-22T22:52:07Z",
   "recentPRs": [
+    {
+      "number": 52505,
+      "title": "fix: sanitize reasoning content to prevent JSON parse errors (Issue #46637)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T22:52:07Z",
+      "mergedAt": null,
+      "additions": 14,
+      "deletions": 2,
+      "changedFiles": 1
+    },
     {
       "number": 50714,
       "title": "fix(gateway): allow production config of WS handshake timeout (Issue #50665)",
@@ -99,7 +101,7 @@
     {
       "number": 48848,
       "title": "fix(ui): add New Cron button to Cron Jobs UI (issue #48564)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-17T08:07:54Z",
       "mergedAt": null,
@@ -110,7 +112,7 @@
     {
       "number": 48468,
       "title": "fix(doctor): include darwin in startup optimization target detection (issue #47273)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-16T20:08:32Z",
       "mergedAt": null,
@@ -121,7 +123,7 @@
     {
       "number": 48467,
       "title": "fix(ui): prioritize source over bundled in skills grouping (issue #47139)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-16T20:08:20Z",
       "mergedAt": null,
@@ -176,7 +178,7 @@
     {
       "number": 47157,
       "title": "fix: map max token field by model compat in openai-completions",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T09:45:50Z",
       "mergedAt": null,
@@ -187,7 +189,7 @@
     {
       "number": 46668,
       "title": "fix: sanitize reasoning content to prevent JSON parse errors",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-15T00:08:28Z",
       "mergedAt": null,
@@ -220,7 +222,7 @@
     {
       "number": 45547,
       "title": "fix: skip auto-enable when third-party plugin handles same channel (issue #44722)",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T00:06:46Z",
       "mergedAt": null,
@@ -260,22 +262,16 @@
       "additions": 66,
       "deletions": 4,
       "changedFiles": 3
-    },
-    {
-      "number": 43192,
-      "title": "fix(ui): show full tool command in sidebar details",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-11T13:06:40Z",
-      "mergedAt": null,
-      "additions": 51,
-      "deletions": 7,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-20": {
       "prs": 1,
       "issues": 0,
@@ -342,8 +338,5 @@
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-13": 1
-  }
+  ]
 }

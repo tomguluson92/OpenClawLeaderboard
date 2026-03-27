@@ -1,0 +1,93 @@
+{
+  "username": "XIYBHK",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/92884515?u=e0351fda0ac81e369b6ce9d06f0c67eb30e6ff9b&v=4",
+  "githubUrl": "https://github.com/XIYBHK",
+  "score": {
+    "score": 21.29,
+    "prScore": 7.79,
+    "issueScore": 13,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 10,
+    "prDeletions": 3,
+    "prChangedFiles": 1,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-22T09:19:31Z",
+  "lastContribution": "2026-03-24T07:38:56Z",
+  "recentPRs": [
+    {
+      "number": 52191,
+      "title": "fix(memory): apply env proxy guard to withRemoteHttpResponse",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T10:31:06Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 3,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 53517,
+      "title": "[Bug]: openclaw plugins install does not install peer dependency — plugin fails to load after install",
+      "state": "CLOSED",
+      "createdAt": "2026-03-24T07:38:56Z",
+      "closedAt": "2026-03-24T17:58:09Z"
+    },
+    {
+      "number": 52162,
+      "title": "[Bug]: memory_search remote embeddings fail with ENOTFOUND when env proxy is configured — withRemoteHttpResponse skips TRUSTED_ENV_PROXY mode",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T09:19:31Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

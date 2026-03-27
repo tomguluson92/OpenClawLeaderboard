@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/18145066?u=5f9eb36fe94499d058a28c9052b340d5e6ef386d&v=4",
   "githubUrl": "https://github.com/7inspire",
   "score": {
-    "score": 78.07,
-    "prScore": 78.07,
+    "score": 71.77,
+    "prScore": 71.77,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -15,43 +15,45 @@
     "commits": 0,
     "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 205,
-    "prDeletions": 93,
-    "prChangedFiles": 17,
+    "prAdditions": 146,
+    "prDeletions": 79,
+    "prChangedFiles": 14,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 7,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-09T07:41:01Z",
-  "lastContribution": "2026-03-20T07:54:30Z",
+  "firstContribution": "2026-03-11T07:43:16Z",
+  "lastContribution": "2026-03-20T09:12:17Z",
   "recentPRs": [
+    {
+      "number": 50962,
+      "title": "Codex/fix 50833 stale doc version note clean",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T09:12:17Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 2
+    },
     {
       "number": 50920,
       "title": "fix(ui): hide assistant internal scaffolding in webchat",
@@ -117,24 +119,13 @@
       "additions": 12,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 40741,
-      "title": "fix(config): accept discord agentComponents schema",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T07:41:01Z",
-      "mergedAt": null,
-      "additions": 61,
-      "deletions": 16,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-20": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     },
@@ -147,16 +138,10 @@
       "prs": 4,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

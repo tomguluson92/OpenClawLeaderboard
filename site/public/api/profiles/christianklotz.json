@@ -3,68 +3,71 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/69443?v=4",
   "githubUrl": "https://github.com/christianklotz",
   "score": {
-    "score": 167.58,
-    "prScore": 167.58,
+    "score": 100.14,
+    "prScore": 99.64,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 11,
-    "prs": 0,
-    "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
-    "prMergeRate": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 651,
+    "prDeletions": 238,
+    "prChangedFiles": 17,
+    "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 1489,
-    "commitDeletions": 629,
-    "commitChangedFiles": 49
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": null,
-  "lastContribution": null,
-  "recentPRs": [],
+  "firstContribution": "2026-03-21T16:26:36Z",
+  "lastContribution": "2026-03-26T01:41:27Z",
+  "recentPRs": [
+    {
+      "number": 51731,
+      "title": "refactor(agents): collect-then-attach media artifacts instead of immediate delivery",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T16:26:36Z",
+      "mergedAt": "2026-03-21T23:53:14Z",
+      "additions": 651,
+      "deletions": 238,
+      "changedFiles": 17
+    }
+  ],
   "recentIssues": [],
   "recentReviews": [],
-  "recentActivityDays": {},
+  "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
   "skills": [
+    "Pull Requests",
+    "Discussion",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-02-15": 1,
-    "2026-02-14": 1,
-    "2026-02-05": 4,
-    "2026-02-04": 3,
-    "2026-02-02": 1,
-    "2026-02-01": 1
-  }
+  "achievements": []
 }

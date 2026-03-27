@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/158557918?u=3b0705f08eec9d94ca2483315cc27ad548b6ff7f&v=4",
   "githubUrl": "https://github.com/laolin5564",
   "score": {
-    "score": 24.03,
+    "score": 29.03,
     "prScore": 18.53,
-    "issueScore": 5,
+    "issueScore": 10,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,38 +19,29 @@
     "prDeletions": 15,
     "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 2,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 2,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-13T10:47:13Z",
-  "lastContribution": "2026-03-13T12:39:46Z",
+  "lastContribution": "2026-03-22T16:44:44Z",
   "recentPRs": [
     {
       "number": 45081,
@@ -77,6 +68,13 @@
   ],
   "recentIssues": [
     {
+      "number": 52372,
+      "title": "Discord WSS Gateway never sends Identify after WebSocket opened (Linux)",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T16:44:44Z",
+      "closedAt": null
+    },
+    {
       "number": 45076,
       "title": "Bug: ANTHROPIC_MODEL_ALIASES TDZ crash when contextPruning is configured (3.12)",
       "state": "OPEN",
@@ -90,6 +88,11 @@
       "prs": 2,
       "issues": 1,
       "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
@@ -97,6 +100,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/73297926?v=4",
   "githubUrl": "https://github.com/markrachapoom",
   "score": {
-    "score": 217.12,
-    "prScore": 217.12,
+    "score": 247.75,
+    "prScore": 247.75,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,45 +13,58 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 102488,
-    "prDeletions": 1109970,
-    "prChangedFiles": 6547,
+    "prAdditions": 343783,
+    "prDeletions": 3329870,
+    "prChangedFiles": 19793,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-12T20:12:12Z",
-  "lastContribution": "2026-03-12T20:12:12Z",
+  "lastContribution": "2026-03-23T19:08:19Z",
   "recentPRs": [
+    {
+      "number": 53094,
+      "title": "fix: add missing axios dependency for gateway service",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T19:08:19Z",
+      "mergedAt": null,
+      "additions": 126123,
+      "deletions": 1110015,
+      "changedFiles": 6652
+    },
+    {
+      "number": 51420,
+      "title": "fix: send image attachments to gateway and prefix attached file paths",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T04:39:21Z",
+      "mergedAt": null,
+      "additions": 115172,
+      "deletions": 1109885,
+      "changedFiles": 6594
+    },
     {
       "number": 44359,
       "title": "feat: unified left sidebar with file tree and chat history tabs",
@@ -67,6 +80,16 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -88,6 +111,5 @@
       "label": "Mega Coder",
       "description": "50K+ lines added"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

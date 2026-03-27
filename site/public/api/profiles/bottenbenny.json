@@ -1,0 +1,122 @@
+{
+  "username": "bottenbenny",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/270688955?v=4",
+  "githubUrl": "https://github.com/bottenbenny",
+  "score": {
+    "score": 35.7,
+    "prScore": 15.7,
+    "issueScore": 20,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 6,
+    "prDeletions": 10,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 4,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 4,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-24T14:59:27Z",
+  "lastContribution": "2026-03-26T09:46:32Z",
+  "recentPRs": [
+    {
+      "number": 55075,
+      "title": "fix(chat): send button should use system theme variables",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T09:46:32Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 54592,
+      "title": "fix(control-ui): chat bubbles should size to content, not full width",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T17:28:27Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 6,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54379,
+      "title": "Control-UI: heartbeat poll wipes user input mid-composition",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T09:02:42Z",
+      "closedAt": null
+    },
+    {
+      "number": 53952,
+      "title": "[control-ui] Support 24-hour time format",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T20:54:41Z",
+      "closedAt": null
+    },
+    {
+      "number": 53883,
+      "title": "[control-ui] Save fails with SecretRef validation error despite valid config",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T18:37:50Z",
+      "closedAt": null
+    },
+    {
+      "number": 53758,
+      "title": "[control-ui] Model dropdown shows duplicates and strips provider prefix on selection",
+      "state": "OPEN",
+      "createdAt": "2026-03-24T14:59:27Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": []
+}

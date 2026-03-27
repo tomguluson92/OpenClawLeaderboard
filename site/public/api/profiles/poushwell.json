@@ -1,0 +1,93 @@
+{
+  "username": "poushwell",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/214436537?u=61273bd87b0ae0ba27967a81189a245b47ae9a69&v=4",
+  "githubUrl": "https://github.com/poushwell",
+  "score": {
+    "score": 31.66,
+    "prScore": 31.66,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 368,
+    "prDeletions": 5,
+    "prChangedFiles": 6,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-22T06:57:36Z",
+  "lastContribution": "2026-03-22T09:03:33Z",
+  "recentPRs": [
+    {
+      "number": 52156,
+      "title": "fix: skip plugin-sdk subpaths runtime import test when dist/ is not built",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T09:03:33Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 2,
+      "changedFiles": 1
+    },
+    {
+      "number": 52126,
+      "title": "fix: extend loopDetection to cover exec tool calls (#34574)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T07:08:15Z",
+      "mergedAt": null,
+      "additions": 139,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 52121,
+      "title": "feat: detect conflicting exec/sandbox/elevated configs at startup (#31036)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T06:57:36Z",
+      "mergedAt": null,
+      "additions": 225,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests"
+  ],
+  "achievements": []
+}

@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/259981076?u=e8ffbad5d30b7f75957b6f89fa210617a2bdd0f4&v=4",
   "githubUrl": "https://github.com/grunt3714-lgtm",
   "score": {
-    "score": 12.35,
-    "prScore": 12.35,
+    "score": 11.3,
+    "prScore": 11.3,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -15,7 +15,7 @@
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 376,
+    "prAdditions": 113,
     "prDeletions": 5,
     "prChangedFiles": 3,
     "prMergeRate": 0,
@@ -24,42 +24,33 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-05T01:16:32Z",
-  "lastContribution": "2026-03-05T01:16:32Z",
+  "firstContribution": "2026-03-22T00:02:53Z",
+  "lastContribution": "2026-03-22T00:02:53Z",
   "recentPRs": [
     {
-      "number": 35152,
-      "title": "feat(doctor): detect duplicate openclaw installations",
+      "number": 51940,
+      "title": "fix(ui): resolve channel config forms via account path",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-05T01:16:32Z",
+      "createdAt": "2026-03-22T00:02:53Z",
       "mergedAt": null,
-      "additions": 376,
+      "additions": 113,
       "deletions": 5,
       "changedFiles": 3
     }
@@ -67,7 +58,7 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-05": {
+    "2026-03-22": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -76,6 +67,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

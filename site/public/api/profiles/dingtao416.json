@@ -3,55 +3,90 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/111725237?v=4",
   "githubUrl": "https://github.com/dingtao416",
   "score": {
-    "score": 31.67,
-    "prScore": 30.67,
+    "score": 106.24,
+    "prScore": 99.24,
     "issueScore": 0,
-    "reviewScore": 0,
+    "reviewScore": 6,
     "commentScore": 1
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 94,
-    "prDeletions": 5,
-    "prChangedFiles": 7,
+    "prAdditions": 465,
+    "prDeletions": 28,
+    "prChangedFiles": 27,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 4,
       "issues": 0,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 2,
+      "comments": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 7,
       "issues": 0,
-      "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 2,
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-18T10:50:34Z",
-  "lastContribution": "2026-03-20T02:44:06Z",
+  "lastContribution": "2026-03-26T02:44:28Z",
   "recentPRs": [
+    {
+      "number": 54838,
+      "title": "Control UI: add toggle to expand tool call output by default in webchat (fixes #54478)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T02:44:28Z",
+      "mergedAt": null,
+      "additions": 96,
+      "deletions": 7,
+      "changedFiles": 11
+    },
+    {
+      "number": 54212,
+      "title": "Control UI: display agent identity name and emoji in session list (fixes #54163)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T03:55:10Z",
+      "mergedAt": null,
+      "additions": 188,
+      "deletions": 11,
+      "changedFiles": 5
+    },
+    {
+      "number": 53445,
+      "title": "Control UI: show full date-time in session list (fixes #53088)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T06:02:53Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 52592,
+      "title": "fix(plugins): deduplicate tool registration to prevent double-register",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T02:54:02Z",
+      "mergedAt": null,
+      "additions": 26,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 50777,
       "title": "fix(ui): prevent copy button showing CopyCopied! by using hidden attr",
@@ -87,8 +122,39 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 52592,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T06:29:16Z"
+    },
+    {
+      "prNumber": 52592,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T06:28:30Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-20": {
       "prs": 1,
       "issues": 0,
@@ -102,8 +168,8 @@
   },
   "skills": [
     "Pull Requests",
+    "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

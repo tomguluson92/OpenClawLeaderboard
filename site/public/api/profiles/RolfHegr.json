@@ -1,0 +1,81 @@
+{
+  "username": "RolfHegr",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/92691215?u=18a1ceb7ba71be1c47eed6bd54352667cfe100e7&v=4",
+  "githubUrl": "https://github.com/RolfHegr",
+  "score": {
+    "score": 31.12,
+    "prScore": 22.62,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 180,
+    "prDeletions": 11,
+    "prChangedFiles": 8,
+    "prMergeRate": 100,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-23T23:04:35Z",
+  "lastContribution": "2026-03-23T23:13:57Z",
+  "recentPRs": [
+    {
+      "number": 53224,
+      "title": "fix(cron): make --tz work with --at for one-shot jobs",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-23T23:13:17Z",
+      "mergedAt": "2026-03-24T02:38:04Z",
+      "additions": 180,
+      "deletions": 11,
+      "changedFiles": 8
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 53218,
+      "title": "cron: --at ignores --tz flag, bare ISO datetimes default to UTC",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T23:04:35Z",
+      "closedAt": "2026-03-23T23:13:58Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

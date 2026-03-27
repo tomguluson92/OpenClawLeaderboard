@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/165750824?u=b53d550d48b3d1204c3e8b2eed21ad9bc803731e&v=4",
   "githubUrl": "https://github.com/AlexAnys",
   "score": {
-    "score": 91.49,
-    "prScore": 82.99,
+    "score": 59.12,
+    "prScore": 52.12,
     "issueScore": 0,
     "reviewScore": 6,
-    "commentScore": 2.5
+    "commentScore": 1
   },
   "tier": "regular",
-  "characterClass": "Builder",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 445,
-    "prDeletions": 24,
-    "prChangedFiles": 26,
+    "prAdditions": 217,
+    "prDeletions": 17,
+    "prChangedFiles": 19,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 3,
       "issues": 0,
       "reviews": 2,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 5,
-      "issues": 0,
-      "reviews": 2,
-      "comments": 5,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-06T10:11:04Z",
+  "firstContribution": "2026-03-15T04:38:20Z",
   "lastContribution": "2026-03-15T09:21:18Z",
   "recentPRs": [
     {
@@ -59,7 +50,7 @@
       "merged": false,
       "createdAt": "2026-03-15T05:13:28Z",
       "mergedAt": null,
-      "additions": 84,
+      "additions": 80,
       "deletions": 12,
       "changedFiles": 4
     },
@@ -84,28 +75,6 @@
       "additions": 47,
       "deletions": 3,
       "changedFiles": 12
-    },
-    {
-      "number": 40522,
-      "title": "fix(gateway): redirect / to control UI basePath",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-09T03:30:53Z",
-      "mergedAt": null,
-      "additions": 39,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 37608,
-      "title": "fix(discord): honor proxy for REST via carbon dispatcher",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T10:11:04Z",
-      "mergedAt": null,
-      "additions": 185,
-      "deletions": 7,
-      "changedFiles": 5
     }
   ],
   "recentIssues": [],
@@ -126,16 +95,6 @@
       "prs": 3,
       "issues": 0,
       "reviews": 2
-    },
-    "2026-03-09": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -143,6 +102,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

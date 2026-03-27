@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/55331140?u=7686d1ff8a9d2faa414bdef35ef67ca924241c45&v=4",
   "githubUrl": "https://github.com/ItsAditya-xyz",
   "score": {
-    "score": 24.02,
-    "prScore": 24.02,
-    "issueScore": 0,
+    "score": 20.98,
+    "prScore": 15.98,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 25,
     "prChangedFiles": 5,
     "prMergeRate": 100,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 28,
-    "commitDeletions": 25,
-    "commitChangedFiles": 5
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 28,
-      "commitDeletions": 25,
-      "commits": 1
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 28,
-      "commitDeletions": 25,
-      "commits": 1
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-14T19:01:28Z",
-  "lastContribution": "2026-03-14T19:01:28Z",
+  "lastContribution": "2026-03-23T12:37:34Z",
   "recentPRs": [
     {
       "number": 46522,
@@ -64,20 +55,31 @@
       "changedFiles": 5
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 52836,
+      "title": "[Bug]: Agent is not reporting back or doing actual tasks it is supposed to do.",
+      "state": "OPEN",
+      "createdAt": "2026-03-23T12:37:34Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-15": 1
-  }
+  "achievements": []
 }

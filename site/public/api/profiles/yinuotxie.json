@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/61256373?u=c2b12e519d0b0883a66f96260592a961de7e5dc8&v=4",
   "githubUrl": "https://github.com/yinuotxie",
   "score": {
-    "score": 41.54,
-    "prScore": 41.54,
+    "score": 194.07,
+    "prScore": 194.07,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 165,
-    "prDeletions": 28,
-    "prChangedFiles": 13,
+    "prAdditions": 28257,
+    "prDeletions": 12055,
+    "prChangedFiles": 559,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 5,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-19T12:08:53Z",
-  "lastContribution": "2026-03-20T07:41:52Z",
+  "lastContribution": "2026-03-22T20:01:06Z",
   "recentPRs": [
+    {
+      "number": 52459,
+      "title": "Fix swapped webchat/telegram usage statistics (#52436)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T20:01:06Z",
+      "mergedAt": null,
+      "additions": 415,
+      "deletions": 1,
+      "changedFiles": 8
+    },
+    {
+      "number": 50960,
+      "title": "fix(skills): allow sensitive-pattern env vars in skills.entries.*.env to reach exec subprocesses",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T09:03:31Z",
+      "mergedAt": null,
+      "additions": 171,
+      "deletions": 32,
+      "changedFiles": 5
+    },
     {
       "number": 50910,
       "title": "fix(agents): resolve ollama synthetic key before provider config check",
@@ -66,13 +79,13 @@
     {
       "number": 50432,
       "title": "fix(skills): allow sensitive-pattern env vars in skills.entries.*.env to reach exec subprocesses",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T12:54:32Z",
       "mergedAt": null,
-      "additions": 45,
-      "deletions": 0,
-      "changedFiles": 2
+      "additions": 27551,
+      "deletions": 11994,
+      "changedFiles": 535
     },
     {
       "number": 50412,
@@ -89,8 +102,13 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-20": {
+    "2026-03-22": {
       "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     },
@@ -101,8 +119,14 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ]
 }

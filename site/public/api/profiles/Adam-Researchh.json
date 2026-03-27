@@ -1,0 +1,135 @@
+{
+  "username": "Adam-Researchh",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/261827313?u=ecc3c6931b85b01c81a1d898f253eafef928460e&v=4",
+  "githubUrl": "https://github.com/Adam-Researchh",
+  "score": {
+    "score": 47.85,
+    "prScore": 14.85,
+    "issueScore": 25,
+    "reviewScore": 0,
+    "commentScore": 8
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 184,
+    "prDeletions": 2,
+    "prChangedFiles": 5,
+    "prMergeRate": 0,
+    "issues": 5,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 16
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 3
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 5,
+      "reviews": 0,
+      "comments": 16
+    }
+  },
+  "firstContribution": "2026-03-13T12:35:36Z",
+  "lastContribution": "2026-03-22T13:13:58Z",
+  "recentPRs": [
+    {
+      "number": 52253,
+      "title": "fix: deserialize string tool-call arguments before sending to Ollama",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T12:51:50Z",
+      "mergedAt": null,
+      "additions": 184,
+      "deletions": 2,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 51361,
+      "title": "RFC: Add Configurable Message Coalescing / Batching for Chat Channels",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T01:19:05Z",
+      "closedAt": null
+    },
+    {
+      "number": 50736,
+      "title": "Sub-agent spawns silently fail — all three providers (Opus, Sonnet, GPT 5.4) return no results",
+      "state": "OPEN",
+      "createdAt": "2026-03-20T01:19:53Z",
+      "closedAt": null
+    },
+    {
+      "number": 50526,
+      "title": "Ollama-backed sub-agents fail on large-context tasks — read input, produce no meaningful output",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T16:25:52Z",
+      "closedAt": null
+    },
+    {
+      "number": 50524,
+      "title": "Telegram /model switch confirms but doesn't take effect on active session",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T16:20:02Z",
+      "closedAt": null
+    },
+    {
+      "number": 45075,
+      "title": "[Bug] Subagent announce completion fails consistently on v2026.3.7+ — lane wait times up to 60min",
+      "state": "OPEN",
+      "createdAt": "2026-03-13T12:35:36Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-20": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    },
+    "2026-03-13": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ]
+}

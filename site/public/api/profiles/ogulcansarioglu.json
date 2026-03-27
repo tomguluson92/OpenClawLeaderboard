@@ -3,90 +3,106 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/93154247?u=4873f9a030cd8c33d3c3a05e373201f20681564d&v=4",
   "githubUrl": "https://github.com/ogulcansarioglu",
   "score": {
-    "score": 18.08,
-    "prScore": 10.08,
-    "issueScore": 8,
+    "score": 208,
+    "prScore": 203,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "beginner",
+  "tier": "active",
   "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 5,
-    "prDeletions": 7,
-    "prChangedFiles": 4,
+    "prAdditions": 69200,
+    "prDeletions": 227301,
+    "prChangedFiles": 3322,
     "prMergeRate": 0,
     "issues": 1,
-    "issuesClosed": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "weeklyCommits": 0,
-    "monthlyCommits": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-02T15:43:55Z",
-  "lastContribution": "2026-03-02T16:35:44Z",
+  "firstContribution": "2026-03-18T22:56:59Z",
+  "lastContribution": "2026-03-23T13:47:41Z",
   "recentPRs": [
     {
-      "number": 31903,
-      "title": "fix: add null safety to .includes() calls in mentions.ts",
+      "number": 52895,
+      "title": "fix: ignore non-string mention patterns during mention gating",
       "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-02T16:35:44Z",
+      "createdAt": "2026-03-23T13:47:41Z",
       "mergedAt": null,
-      "additions": 5,
-      "deletions": 7,
-      "changedFiles": 4
+      "additions": 176,
+      "deletions": 11,
+      "changedFiles": 3
+    },
+    {
+      "number": 52785,
+      "title": "fix: ignore non-string mention patterns during mention gating",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T10:42:21Z",
+      "mergedAt": null,
+      "additions": 69024,
+      "deletions": 227290,
+      "changedFiles": 3319
     }
   ],
   "recentIssues": [
     {
-      "number": 31851,
-      "title": "Slack mention causes \"Cannot read properties of undefined (reading 'includes')\" error",
-      "state": "CLOSED",
-      "createdAt": "2026-03-02T15:43:55Z",
-      "closedAt": "2026-03-02T19:00:10Z"
+      "number": 50060,
+      "title": "Slack: Cannot read properties of undefined (reading 'includes') when sending replies",
+      "state": "OPEN",
+      "createdAt": "2026-03-18T22:56:59Z",
+      "closedAt": null
     }
   ],
   "recentReviews": [],
-  "skills": [
-    "Pull Requests",
-    "Issue Reporting"
-  ],
-  "achievements": [],
-  "recentCommitDays": {},
   "recentActivityDays": {
-    "2026-03-02": {
-      "prs": 1,
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-18": {
+      "prs": 0,
       "issues": 1,
       "reviews": 0
     }
-  }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Large-Scale Changes"
+  ],
+  "achievements": [
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    },
+    {
+      "id": "mega-coder",
+      "label": "Mega Coder",
+      "description": "50K+ lines added"
+    }
+  ]
 }

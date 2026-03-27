@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10103766?u=c58ebaf6aba79b02ce3b392c3a0240af9d59df4b&v=4",
   "githubUrl": "https://github.com/SergioChan",
   "score": {
-    "score": 420.21,
-    "prScore": 398.71,
+    "score": 300.65,
+    "prScore": 295.15,
     "issueScore": 0,
-    "reviewScore": 6,
-    "commentScore": 15.5
+    "reviewScore": 0,
+    "commentScore": 5.5
   },
   "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 40,
+    "prs": 26,
     "prsMerged": 0,
-    "prAdditions": 2281,
-    "prDeletions": 453,
-    "prChangedFiles": 105,
+    "prAdditions": 1617,
+    "prDeletions": 270,
+    "prChangedFiles": 70,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 31,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 11
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 40,
+      "prs": 26,
       "issues": 0,
-      "reviews": 2,
-      "comments": 31,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 11
     }
   },
-  "firstContribution": "2026-03-07T12:37:02Z",
-  "lastContribution": "2026-03-13T23:04:14Z",
+  "firstContribution": "2026-03-11T01:04:10Z",
+  "lastContribution": "2026-03-11T20:52:50Z",
   "recentPRs": [
     {
       "number": 43463,
@@ -274,43 +265,16 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [
-    {
-      "prNumber": 39163,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T23:04:14Z"
-    },
-    {
-      "prNumber": 39163,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-13T23:03:30Z"
-    }
-  ],
+  "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 26,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 8,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-13": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
     "Discussion"
   ],
   "achievements": [
@@ -318,12 +282,6 @@
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

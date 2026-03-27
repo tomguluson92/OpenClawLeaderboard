@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/42811278?u=50f619e13dbe9f74094ef28d6bc6f45a0856551e&v=4",
   "githubUrl": "https://github.com/taw0002",
   "score": {
-    "score": 135.8,
-    "prScore": 135.3,
+    "score": 32.53,
+    "prScore": 32.53,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 8,
+    "prs": 3,
     "prsMerged": 0,
-    "prAdditions": 875,
-    "prDeletions": 22,
-    "prChangedFiles": 24,
+    "prAdditions": 227,
+    "prDeletions": 14,
+    "prChangedFiles": 7,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 136,
-    "commitDeletions": 16,
-    "commitChangedFiles": 14
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 8,
+      "prs": 3,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 120,
-      "commitDeletions": 5,
-      "commits": 3
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-06T15:10:56Z",
+  "firstContribution": "2026-03-11T14:05:00Z",
   "lastContribution": "2026-03-12T14:06:13Z",
   "recentPRs": [
     {
@@ -84,61 +75,6 @@
       "additions": 149,
       "deletions": 7,
       "changedFiles": 3
-    },
-    {
-      "number": 39919,
-      "title": "fix: strip thinking/redacted_thinking blocks from non-latest assistant messages for Anthropic",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T14:08:33Z",
-      "mergedAt": null,
-      "additions": 275,
-      "deletions": 6,
-      "changedFiles": 3
-    },
-    {
-      "number": 38041,
-      "title": "fix: include snake_case param aliases in tool mutation fingerprint keys",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T15:33:10Z",
-      "mergedAt": null,
-      "additions": 53,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 38028,
-      "title": "feat: enforce minRunTimeoutSeconds floor for sessions_spawn",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T15:26:53Z",
-      "mergedAt": null,
-      "additions": 160,
-      "deletions": 1,
-      "changedFiles": 6
-    },
-    {
-      "number": 37974,
-      "title": "fix: include file_path in tool mutation fingerprint keys",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T15:12:02Z",
-      "mergedAt": null,
-      "additions": 43,
-      "deletions": 0,
-      "changedFiles": 2
-    },
-    {
-      "number": 37973,
-      "title": "feat: enforce minRunTimeoutSeconds floor for sessions_spawn",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-06T15:10:56Z",
-      "mergedAt": null,
-      "additions": 117,
-      "deletions": 1,
-      "changedFiles": 4
     }
   ],
   "recentIssues": [],
@@ -153,27 +89,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Discussion"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-06": 1,
-    "2026-02-26": 1,
-    "2026-02-23": 1,
-    "2026-02-12": 1
-  }
+  "achievements": []
 }

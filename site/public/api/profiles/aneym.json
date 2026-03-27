@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/43046102?u=c4e029c11d70aeea50d1a1163ee7f51f5465ccf9&v=4",
   "githubUrl": "https://github.com/aneym",
   "score": {
-    "score": 10.45,
+    "score": 44.95,
     "prScore": 10.45,
-    "issueScore": 0,
+    "issueScore": 34,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Hunter",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,38 +19,29 @@
     "prDeletions": 11,
     "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 0,
-    "issuesClosed": 0,
+    "issues": 5,
+    "issuesClosed": 3,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 0,
+      "prs": 0,
+      "issues": 5,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     },
     "monthly": {
       "prs": 1,
-      "issues": 0,
+      "issues": 5,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-14T18:14:46Z",
-  "lastContribution": "2026-03-14T18:14:46Z",
+  "lastContribution": "2026-03-26T17:24:06Z",
   "recentPRs": [
     {
       "number": 46485,
@@ -64,18 +55,76 @@
       "changedFiles": 3
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 55301,
+      "title": "Discord SafeGatewayPlugin crashes gateway on WebSocket close (maxReconnectAttempts=0 in v2026.3.24)",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T17:24:06Z",
+      "closedAt": null
+    },
+    {
+      "number": 53061,
+      "title": "Heartbeat prompt injected into cron runs targeting non-cron session keys",
+      "state": "CLOSED",
+      "createdAt": "2026-03-23T17:54:58Z",
+      "closedAt": "2026-03-24T04:55:35Z"
+    },
+    {
+      "number": 51821,
+      "title": "Memory leak: chatRunState.buffers not cleaned up for stuck runs",
+      "state": "CLOSED",
+      "createdAt": "2026-03-21T18:57:18Z",
+      "closedAt": "2026-03-22T23:56:21Z"
+    },
+    {
+      "number": 51820,
+      "title": "Memory leak: SESSION_MANAGER_CACHE entries never evicted",
+      "state": "CLOSED",
+      "createdAt": "2026-03-21T18:57:06Z",
+      "closedAt": "2026-03-22T21:54:06Z"
+    },
+    {
+      "number": 51819,
+      "title": "Memory leak: seqByRun Map in agent-events.ts grows unbounded",
+      "state": "OPEN",
+      "createdAt": "2026-03-21T18:57:02Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 3,
+      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "bug-reporter",
+      "label": "Bug Reporter",
+      "description": "5+ issues filed"
+    }
+  ]
 }

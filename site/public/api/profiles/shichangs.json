@@ -1,55 +1,46 @@
 {
   "username": "shichangs",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/46870204?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46870204?u=a508f40eaae2e6d0e84747a6ee1a282d64d8d6d8&v=4",
   "githubUrl": "https://github.com/shichangs",
   "score": {
-    "score": 356.93,
-    "prScore": 268.43,
+    "score": 298.45,
+    "prScore": 226.45,
     "issueScore": 0,
-    "reviewScore": 72,
-    "commentScore": 16.5
+    "reviewScore": 60,
+    "commentScore": 12
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 15,
-    "prsMerged": 1,
-    "prAdditions": 39515,
-    "prDeletions": 2352,
-    "prChangedFiles": 426,
-    "prMergeRate": 7,
+    "prs": 10,
+    "prsMerged": 0,
+    "prAdditions": 31790,
+    "prDeletions": 2075,
+    "prChangedFiles": 317,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 24,
+    "reviews": 20,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 33,
-    "commitAdditions": 2256,
-    "commitDeletions": 12,
-    "commitChangedFiles": 22
+    "comments": 24
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 0,
       "issues": 0,
-      "reviews": 6,
-      "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 15,
+      "prs": 10,
       "issues": 0,
-      "reviews": 24,
-      "comments": 33,
-      "commitAdditions": 2256,
-      "commitDeletions": 12,
-      "commits": 1
+      "reviews": 20,
+      "comments": 24
     }
   },
-  "firstContribution": "2026-03-08T18:40:32Z",
+  "firstContribution": "2026-03-09T16:46:58Z",
   "lastContribution": "2026-03-14T23:06:48Z",
   "recentPRs": [
     {
@@ -161,61 +152,6 @@
       "additions": 5017,
       "deletions": 326,
       "changedFiles": 21
-    },
-    {
-      "number": 40658,
-      "title": "Onboarding: add opt-in rescue watchdog for self-healing gateway recovery",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T06:01:49Z",
-      "mergedAt": null,
-      "additions": 4390,
-      "deletions": 112,
-      "changedFiles": 51
-    },
-    {
-      "number": 40541,
-      "title": "Fix bootstrap reuse gating and zsh completion init",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T03:41:29Z",
-      "mergedAt": null,
-      "additions": 701,
-      "deletions": 129,
-      "changedFiles": 21
-    },
-    {
-      "number": 40437,
-      "title": "[AI-assisted] Follow up bootstrap reuse and zsh completion init",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-09T01:40:58Z",
-      "mergedAt": null,
-      "additions": 133,
-      "deletions": 12,
-      "changedFiles": 5
-    },
-    {
-      "number": 40177,
-      "title": "[AI-assisted] Fix remote auth fields, bootstrap reuse, and zsh completion",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T19:07:08Z",
-      "mergedAt": null,
-      "additions": 245,
-      "deletions": 12,
-      "changedFiles": 10
-    },
-    {
-      "number": 40163,
-      "title": "feat: add local backup CLI",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T18:40:32Z",
-      "mergedAt": "2026-03-08T20:21:20Z",
-      "additions": 2256,
-      "deletions": 12,
-      "changedFiles": 22
     }
   ],
   "recentIssues": [],
@@ -311,14 +247,14 @@
       "createdAt": "2026-03-09T19:05:32Z"
     },
     {
-      "prNumber": 40541,
+      "prNumber": 41274,
       "state": "COMMENTED",
-      "createdAt": "2026-03-09T18:25:23Z"
+      "createdAt": "2026-03-09T17:37:04Z"
     },
     {
       "prNumber": 41274,
       "state": "COMMENTED",
-      "createdAt": "2026-03-09T17:37:04Z"
+      "createdAt": "2026-03-09T17:36:52Z"
     }
   ],
   "recentActivityDays": {
@@ -338,14 +274,9 @@
       "reviews": 6
     },
     "2026-03-09": {
-      "prs": 6,
+      "prs": 3,
       "issues": 0,
-      "reviews": 5
-    },
-    "2026-03-08": {
-      "prs": 2,
-      "issues": 0,
-      "reviews": 3
+      "reviews": 4
     },
     "2026-03-10": {
       "prs": 0,
@@ -380,8 +311,5 @@
       "label": "Prolific Coder",
       "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-08": 1
-  }
+  ]
 }

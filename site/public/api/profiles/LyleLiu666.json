@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/31182860?u=1e3c17d8978550ee33142b3b8f83f2281e6e4c96&v=4",
   "githubUrl": "https://github.com/LyleLiu666",
   "score": {
-    "score": 55.06,
-    "prScore": 46.06,
-    "issueScore": 8,
+    "score": 33,
+    "prScore": 32.5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 0.5
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
@@ -19,37 +19,28 @@
     "prDeletions": 141,
     "prChangedFiles": 8,
     "prMergeRate": 50,
-    "issues": 1,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 233,
-    "commitDeletions": 141,
-    "commitChangedFiles": 6
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 233,
-      "commitDeletions": 141,
-      "commits": 1
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-10T08:33:19Z",
+  "firstContribution": "2026-03-10T08:37:32Z",
   "lastContribution": "2026-03-12T12:18:29Z",
   "recentPRs": [
     {
@@ -75,15 +66,7 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41961,
-      "title": "Agent Core: characterize failover and auth-profile pipeline boundaries",
-      "state": "CLOSED",
-      "createdAt": "2026-03-10T08:33:19Z",
-      "closedAt": "2026-03-11T08:24:22Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
@@ -93,17 +76,13 @@
     },
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-12": 1
-  }
+  "achievements": []
 }

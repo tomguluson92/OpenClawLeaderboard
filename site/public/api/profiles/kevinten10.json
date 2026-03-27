@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/22876610?u=8773fa726d4b552452bc2110ae70dcacdba92460&v=4",
   "githubUrl": "https://github.com/kevinten10",
   "score": {
-    "score": 9.77,
-    "prScore": 9.77,
+    "score": 22.45,
+    "prScore": 21.45,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0
+    "commentScore": 1
   },
   "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 82,
-    "prDeletions": 18,
-    "prChangedFiles": 2,
-    "prMergeRate": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 117,
+    "prDeletions": 22,
+    "prChangedFiles": 3,
+    "prMergeRate": 50,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-19T18:47:25Z",
-  "lastContribution": "2026-03-19T18:47:25Z",
+  "lastContribution": "2026-03-25T03:36:22Z",
   "recentPRs": [
+    {
+      "number": 54202,
+      "title": "fix(agents): correct ClawHub URL in system prompt (clawhub.com → clawhub.ai)",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T03:36:22Z",
+      "mergedAt": "2026-03-25T04:40:37Z",
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    },
     {
       "number": 50586,
       "title": "fix(exec): use gbk encoding for Windows cmd.exe wrapper [AI-assisted]",
@@ -59,14 +61,19 @@
       "merged": false,
       "createdAt": "2026-03-19T18:47:25Z",
       "mergedAt": null,
-      "additions": 82,
-      "deletions": 18,
+      "additions": 116,
+      "deletions": 21,
       "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
@@ -74,8 +81,8 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

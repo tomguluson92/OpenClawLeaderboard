@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/48670012?u=47a8baffdd02b7455c533b6a26f97ec04048f4cb&v=4",
   "githubUrl": "https://github.com/Wangnov",
   "score": {
-    "score": 73.54,
-    "prScore": 56.04,
-    "issueScore": 5,
+    "score": 66.45,
+    "prScore": 53.95,
+    "issueScore": 0,
     "reviewScore": 12,
     "commentScore": 0.5
   },
@@ -19,37 +19,28 @@
     "prDeletions": 54,
     "prChangedFiles": 20,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 4,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 12,
-    "commitDeletions": 0,
-    "commitChangedFiles": 1
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 4,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-10T14:53:41Z",
+  "firstContribution": "2026-03-10T14:54:44Z",
   "lastContribution": "2026-03-13T09:38:01Z",
   "recentPRs": [
     {
@@ -75,15 +66,7 @@
       "changedFiles": 17
     }
   ],
-  "recentIssues": [
-    {
-      "number": 42251,
-      "title": "Session tools: allow tree-scoped access to creator-owned ACP sessions",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T14:53:41Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 42253,
@@ -114,24 +97,14 @@
     },
     "2026-03-10": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 4
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-02-04": 1
-  }
+  "achievements": []
 }

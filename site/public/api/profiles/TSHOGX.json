@@ -1,0 +1,114 @@
+{
+  "username": "TSHOGX",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46259514?u=1549488d48945424c6801ed80ed2a7776523bd45&v=4",
+  "githubUrl": "https://github.com/TSHOGX",
+  "score": {
+    "score": 106.13,
+    "prScore": 94.13,
+    "issueScore": 0,
+    "reviewScore": 12,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 0,
+    "prAdditions": 3052,
+    "prDeletions": 1166,
+    "prChangedFiles": 32,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 4,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 4,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-20T08:58:05Z",
+  "lastContribution": "2026-03-27T03:14:59Z",
+  "recentPRs": [
+    {
+      "number": 55497,
+      "title": "fix(memory): harden builtin sync and reindex semantics",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-27T02:37:10Z",
+      "mergedAt": null,
+      "additions": 2074,
+      "deletions": 396,
+      "changedFiles": 9
+    },
+    {
+      "number": 50955,
+      "title": "fix(acp): unify thread-bound session binding and delivery routing",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T08:58:05Z",
+      "mergedAt": null,
+      "additions": 978,
+      "deletions": 770,
+      "changedFiles": 23
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 55497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-27T03:14:59Z"
+    },
+    {
+      "prNumber": 55497,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-27T03:13:54Z"
+    },
+    {
+      "prNumber": 50955,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T01:48:44Z"
+    },
+    {
+      "prNumber": 50955,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-20T09:23:08Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-27": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review"
+  ],
+  "achievements": []
+}

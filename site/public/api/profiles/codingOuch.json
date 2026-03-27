@@ -1,0 +1,92 @@
+{
+  "username": "codingOuch",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25929878?u=f34662c537c4bc3823058b5c8e67387fd3228a9a&v=4",
+  "githubUrl": "https://github.com/codingOuch",
+  "score": {
+    "score": 33.02,
+    "prScore": 23.02,
+    "issueScore": 10,
+    "reviewScore": 0,
+    "commentScore": 0
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 789,
+    "prDeletions": 2,
+    "prChangedFiles": 8,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-19T17:26:16Z",
+  "lastContribution": "2026-03-20T17:22:42Z",
+  "recentPRs": [
+    {
+      "number": 51163,
+      "title": "feat: add /interrupt command and cross-session thread context store",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T17:22:42Z",
+      "mergedAt": null,
+      "additions": 789,
+      "deletions": 2,
+      "changedFiles": 8
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 50556,
+      "title": "[Feature]: Enable cross-session context understanding for cron/triggered messages within the same IM thread.",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T17:33:44Z",
+      "closedAt": null
+    },
+    {
+      "number": 50554,
+      "title": "[Feature]:  Support Interrupting and Adding Details like chatGPT and Claude Code",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T17:26:16Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting"
+  ],
+  "achievements": []
+}

@@ -1,0 +1,84 @@
+{
+  "username": "thePober",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/258980650?u=929c7c13fa13abc1a954561698edb0d35b8e69eb&v=4",
+  "githubUrl": "https://github.com/thePober",
+  "score": {
+    "score": 20.39,
+    "prScore": 13.39,
+    "issueScore": 0,
+    "reviewScore": 6,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 283,
+    "prDeletions": 1,
+    "prChangedFiles": 2,
+    "prMergeRate": 100,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 2,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 2
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2,
+      "comments": 2
+    }
+  },
+  "firstContribution": "2026-03-24T17:09:40Z",
+  "lastContribution": "2026-03-25T01:20:38Z",
+  "recentPRs": [
+    {
+      "number": 53825,
+      "title": "fix(auth): derive OpenAI Codex OAuth profile ids from JWT claims",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T17:09:40Z",
+      "mergedAt": "2026-03-25T05:49:06Z",
+      "additions": 283,
+      "deletions": 1,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 53825,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T17:25:01Z"
+    },
+    {
+      "prNumber": 53825,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T17:24:22Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": []
+}

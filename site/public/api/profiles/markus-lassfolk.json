@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3661143?v=4",
   "githubUrl": "https://github.com/markus-lassfolk",
   "score": {
-    "score": 27.78,
+    "score": 14.78,
     "prScore": 9.78,
-    "issueScore": 18,
+    "issueScore": 5,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Pathfinder",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 4,
     "prChangedFiles": 3,
     "prMergeRate": 0,
-    "issues": 3,
-    "issuesClosed": 1,
+    "issues": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-09T12:47:58Z",
+  "firstContribution": "2026-03-13T20:21:41Z",
   "lastContribution": "2026-03-13T20:26:32Z",
   "recentPRs": [
     {
@@ -71,20 +62,6 @@
       "state": "OPEN",
       "createdAt": "2026-03-13T20:21:41Z",
       "closedAt": null
-    },
-    {
-      "number": 41075,
-      "title": "[Bug]: Cron run status reports \"disabled\" when job actually executed successfully",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T13:51:42Z",
-      "closedAt": null
-    },
-    {
-      "number": 40993,
-      "title": "[test] ignore - permission check",
-      "state": "CLOSED",
-      "createdAt": "2026-03-09T12:47:58Z",
-      "closedAt": "2026-03-09T12:48:03Z"
     }
   ],
   "recentReviews": [],
@@ -93,17 +70,11 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 0,
-      "issues": 2,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Issue Reporting"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -1,0 +1,105 @@
+{
+  "username": "Maximus-Prime-The-First",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264730159?v=4",
+  "githubUrl": "https://github.com/Maximus-Prime-The-First",
+  "score": {
+    "score": 29.01,
+    "prScore": 9.51,
+    "issueScore": 18,
+    "reviewScore": 0,
+    "commentScore": 1.5
+  },
+  "tier": "beginner",
+  "characterClass": "Hunter",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 65,
+    "prDeletions": 0,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 3,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 3
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 3,
+      "reviews": 0,
+      "comments": 3
+    }
+  },
+  "firstContribution": "2026-03-15T00:32:30Z",
+  "lastContribution": "2026-03-22T19:16:24Z",
+  "recentPRs": [
+    {
+      "number": 52446,
+      "title": "fix(ollama): map thinkingLevel to Ollama-native think parameter",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T19:16:24Z",
+      "mergedAt": null,
+      "additions": 65,
+      "deletions": 0,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 48547,
+      "title": "Compaction summaries absorb system prompt content, causing unbounded growth and stale context",
+      "state": "OPEN",
+      "createdAt": "2026-03-16T23:08:01Z",
+      "closedAt": null
+    },
+    {
+      "number": 46680,
+      "title": "Ollama thinking models produce empty responses — think: false not sent in API requests",
+      "state": "OPEN",
+      "createdAt": "2026-03-15T00:32:34Z",
+      "closedAt": null
+    },
+    {
+      "number": 46679,
+      "title": "Ollama native API: tool_calls arguments sent as JSON string breaks multi-turn tool calling",
+      "state": "CLOSED",
+      "createdAt": "2026-03-15T00:32:30Z",
+      "closedAt": "2026-03-22T19:10:03Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-16": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-15": {
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

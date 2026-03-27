@@ -1,0 +1,99 @@
+{
+  "username": "hpt",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/120404?v=4",
+  "githubUrl": "https://github.com/hpt",
+  "score": {
+    "score": 33.44,
+    "prScore": 32.44,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 1
+  },
+  "tier": "beginner",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 1,
+    "prAdditions": 70,
+    "prDeletions": 38,
+    "prChangedFiles": 6,
+    "prMergeRate": 33,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 2
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 2
+    }
+  },
+  "firstContribution": "2026-03-23T02:35:28Z",
+  "lastContribution": "2026-03-24T12:42:49Z",
+  "recentPRs": [
+    {
+      "number": 53675,
+      "title": "Feishu: avoid CLI startup failure on unresolved SecretRef",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T12:42:41Z",
+      "mergedAt": "2026-03-24T16:47:18Z",
+      "additions": 34,
+      "deletions": 18,
+      "changedFiles": 2
+    },
+    {
+      "number": 53657,
+      "title": "Feishu: avoid CLI startup failure on unresolved SecretRef",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-24T12:15:45Z",
+      "mergedAt": null,
+      "additions": 35,
+      "deletions": 19,
+      "changedFiles": 3
+    },
+    {
+      "number": 52583,
+      "title": "VS Code: disable experimental tsgo for editor TS server",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T02:35:28Z",
+      "mergedAt": null,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": []
+}

@@ -3,71 +3,62 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3967142?u=0a82db11511f1ffae668b7f13dcdcbee441b511b&v=4",
   "githubUrl": "https://github.com/deggertsen",
   "score": {
-    "score": 19.75,
-    "prScore": 19.25,
+    "score": 16.39,
+    "prScore": 15.39,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 0.5
+    "commentScore": 1
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 307,
-    "prDeletions": 34,
-    "prChangedFiles": 7,
+    "prAdditions": 104,
+    "prDeletions": 1,
+    "prChangedFiles": 6,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-08T00:41:25Z",
-  "lastContribution": "2026-03-13T15:28:40Z",
+  "firstContribution": "2026-03-24T12:56:18Z",
+  "lastContribution": "2026-03-25T14:58:43Z",
   "recentPRs": [
     {
-      "number": 39299,
-      "title": "feat(web-search): add Tavily as native search provider",
-      "state": "CLOSED",
+      "number": 54525,
+      "title": "fix(cron): tighten payload recovery guard + clear channel after target promotion",
+      "state": "OPEN",
       "merged": false,
-      "createdAt": "2026-03-08T00:41:25Z",
+      "createdAt": "2026-03-25T14:58:43Z",
       "mergedAt": null,
-      "additions": 307,
-      "deletions": 34,
-      "changedFiles": 7
+      "additions": 104,
+      "deletions": 1,
+      "changedFiles": 6
     }
   ],
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
-    "2026-03-08": {
+    "2026-03-25": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
@@ -77,6 +68,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

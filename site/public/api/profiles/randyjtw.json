@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/50990996?u=ecf3ab7a006ff11d0181f01f8760357c847af66d&v=4",
   "githubUrl": "https://github.com/randyjtw",
   "score": {
-    "score": 304.96,
-    "prScore": 220.96,
+    "score": 270.84,
+    "prScore": 199.34,
     "issueScore": 0,
-    "reviewScore": 75,
-    "commentScore": 9
+    "reviewScore": 66,
+    "commentScore": 5.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 13,
+    "prs": 10,
     "prsMerged": 0,
-    "prAdditions": 5479,
-    "prDeletions": 311,
-    "prChangedFiles": 80,
+    "prAdditions": 5281,
+    "prDeletions": 273,
+    "prChangedFiles": 74,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 25,
+    "reviews": 22,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 18,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 11
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 13,
+      "prs": 10,
       "issues": 0,
-      "reviews": 25,
-      "comments": 18,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 22,
+      "comments": 11
     }
   },
-  "firstContribution": "2026-03-08T16:39:56Z",
+  "firstContribution": "2026-03-09T13:55:14Z",
   "lastContribution": "2026-03-15T09:24:57Z",
   "recentPRs": [
     {
@@ -161,39 +152,6 @@
       "additions": 28,
       "deletions": 0,
       "changedFiles": 1
-    },
-    {
-      "number": 40134,
-      "title": "fix(browser-relay): guard last tab close and add tab validation retries",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T17:56:18Z",
-      "mergedAt": null,
-      "additions": 89,
-      "deletions": 24,
-      "changedFiles": 3
-    },
-    {
-      "number": 40117,
-      "title": "fix(browser-relay): guard last tab close and add tab validation retries",
-      "state": "CLOSED",
-      "merged": false,
-      "createdAt": "2026-03-08T17:28:07Z",
-      "mergedAt": null,
-      "additions": 53,
-      "deletions": 13,
-      "changedFiles": 1
-    },
-    {
-      "number": 40067,
-      "title": "fix(gateway): do not crash on Playwright dialog race unhandled rejection",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T16:39:56Z",
-      "mergedAt": null,
-      "additions": 56,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -324,11 +282,6 @@
       "prs": 3,
       "issues": 0,
       "reviews": 1
-    },
-    "2026-03-08": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 3
     }
   },
   "skills": [
@@ -348,6 +301,5 @@
       "label": "Code Reviewer",
       "description": "10+ reviews"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

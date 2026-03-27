@@ -3,10 +3,10 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258539180?v=4",
   "githubUrl": "https://github.com/chosen67one-source",
   "score": {
-    "score": 272.18,
+    "score": 283.18,
     "prScore": 244.18,
-    "issueScore": 0,
-    "reviewScore": 27,
+    "issueScore": 5,
+    "reviewScore": 33,
     "commentScore": 1
   },
   "tier": "active",
@@ -15,47 +15,38 @@
     "commits": 0,
     "prs": 4,
     "prsMerged": 0,
-    "prAdditions": 1624119,
+    "prAdditions": 1624123,
     "prDeletions": 191306,
     "prChangedFiles": 9185,
     "prMergeRate": 0,
-    "issues": 0,
+    "issues": 1,
     "issuesClosed": 0,
-    "reviews": 9,
+    "reviews": 11,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 4,
-      "issues": 0,
-      "reviews": 9,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 0,
+      "issues": 1,
+      "reviews": 2,
+      "comments": 0
     },
     "monthly": {
       "prs": 4,
-      "issues": 0,
-      "reviews": 9,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "issues": 1,
+      "reviews": 11,
+      "comments": 2
     }
   },
   "firstContribution": "2026-03-16T09:49:24Z",
-  "lastContribution": "2026-03-19T20:50:38Z",
+  "lastContribution": "2026-03-26T15:51:15Z",
   "recentPRs": [
     {
       "number": 49927,
       "title": "Create devcontainer.json",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-18T16:53:14Z",
       "mergedAt": null,
@@ -66,11 +57,11 @@
     {
       "number": 48498,
       "title": "Install",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-16T21:31:09Z",
       "mergedAt": null,
-      "additions": 1623974,
+      "additions": 1623978,
       "deletions": 191283,
       "changedFiles": 9174
     },
@@ -97,8 +88,26 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [],
+  "recentIssues": [
+    {
+      "number": 55256,
+      "title": "**<sub><sub>![P1 Badge](https://img.shields.io/badge/P1-orange?style=flat)</sub></sub>  Preserve media-only tool results in full verbose mode**",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T15:51:15Z",
+      "closedAt": null
+    }
+  ],
   "recentReviews": [
+    {
+      "prNumber": 51845,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T19:42:50Z"
+    },
+    {
+      "prNumber": 51845,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T19:42:03Z"
+    },
     {
       "prNumber": 48498,
       "state": "COMMENTED",
@@ -156,6 +165,16 @@
       "issues": 0,
       "reviews": 4
     },
+    "2026-03-26": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 2
+    },
     "2026-03-19": {
       "prs": 0,
       "issues": 0,
@@ -165,10 +184,16 @@
   "skills": [
     "Pull Requests",
     "Code Review",
+    "Issue Reporting",
     "Discussion",
     "Large-Scale Changes"
   ],
   "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    },
     {
       "id": "prolific",
       "label": "Prolific Coder",
@@ -178,7 +203,11 @@
       "id": "mega-coder",
       "label": "Mega Coder",
       "description": "50K+ lines added"
+    },
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

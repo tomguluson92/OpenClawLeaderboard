@@ -24,29 +24,20 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 47,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 47
   },
   "period": {
     "weekly": {
-      "prs": 28,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 47,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 28,
       "issues": 0,
       "reviews": 0,
-      "comments": 47,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 47
     }
   },
   "firstContribution": "2026-03-15T10:30:25Z",
@@ -298,6 +289,5 @@
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

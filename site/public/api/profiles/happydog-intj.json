@@ -3,50 +3,41 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/212984?u=cd5ac3952f33d265ffb1bc3c25f6ba0e0bcfe682&v=4",
   "githubUrl": "https://github.com/happydog-intj",
   "score": {
-    "score": 210.75,
-    "prScore": 157.25,
-    "issueScore": 13,
+    "score": 192.76,
+    "prScore": 152.26,
+    "issueScore": 0,
     "reviewScore": 36,
     "commentScore": 4.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 2170,
-    "prDeletions": 369,
-    "prChangedFiles": 49,
+    "prAdditions": 3168,
+    "prDeletions": 354,
+    "prChangedFiles": 45,
     "prMergeRate": 0,
-    "issues": 2,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 12,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 9,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 9
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 6,
-      "issues": 2,
+      "issues": 0,
       "reviews": 12,
-      "comments": 9,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 9
     }
   },
   "firstContribution": "2026-03-11T13:22:37Z",
@@ -77,13 +68,13 @@
     {
       "number": 43961,
       "title": "fix(gateway): SIGKILL stale process when graceful shutdown times out on restart/stop",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T10:53:43Z",
       "mergedAt": null,
-      "additions": 183,
-      "deletions": 15,
-      "changedFiles": 6
+      "additions": 1181,
+      "deletions": 0,
+      "changedFiles": 2
     },
     {
       "number": 43873,
@@ -119,22 +110,7 @@
       "changedFiles": 12
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43960,
-      "title": "bug(gateway): restart leaves stale gateway process when launchctl unload is async",
-      "state": "CLOSED",
-      "createdAt": "2026-03-12T10:50:08Z",
-      "closedAt": "2026-03-13T02:38:49Z"
-    },
-    {
-      "number": 43778,
-      "title": "feat(tui): improve UX when gateway is disconnected or restarting",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T07:06:49Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 43793,
@@ -205,7 +181,7 @@
     },
     "2026-03-12": {
       "prs": 3,
-      "issues": 2,
+      "issues": 0,
       "reviews": 9
     },
     "2026-03-11": {
@@ -222,7 +198,6 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
@@ -230,12 +205,6 @@
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

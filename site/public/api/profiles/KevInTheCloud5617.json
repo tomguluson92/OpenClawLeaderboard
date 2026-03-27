@@ -1,0 +1,81 @@
+{
+  "username": "KevInTheCloud5617",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/192471053?u=00dc3c046eb746f9ede6e4d45d7f0e0f5cd7db16&v=4",
+  "githubUrl": "https://github.com/KevInTheCloud5617",
+  "score": {
+    "score": 24,
+    "prScore": 14,
+    "issueScore": 8,
+    "reviewScore": 0,
+    "commentScore": 2
+  },
+  "tier": "beginner",
+  "characterClass": "Contributor",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 84,
+    "prDeletions": 0,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0,
+      "comments": 4
+    }
+  },
+  "firstContribution": "2026-03-25T02:53:49Z",
+  "lastContribution": "2026-03-26T12:48:29Z",
+  "recentPRs": [
+    {
+      "number": 54187,
+      "title": "fix: pass agentId in CLI message command to enable session transcript writes",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-25T02:55:30Z",
+      "mergedAt": "2026-03-26T04:02:43Z",
+      "additions": 84,
+      "deletions": 0,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 54186,
+      "title": "[Bug]: `openclaw message send` CLI does not write to session transcript (missing agentId)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-25T02:53:49Z",
+      "closedAt": "2026-03-26T04:02:45Z"
+    }
+  ],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": []
+}

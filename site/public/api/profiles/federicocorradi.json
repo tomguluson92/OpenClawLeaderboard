@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258326063?u=66aca1b41d1608ab89c92ef34f7829130d42189e&v=4",
   "githubUrl": "https://github.com/federicocorradi",
   "score": {
-    "score": 28.94,
+    "score": 10.44,
     "prScore": 9.44,
-    "issueScore": 18,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1.5
+    "commentScore": 1
   },
   "tier": "beginner",
-  "characterClass": "Hunter",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -19,37 +19,28 @@
     "prDeletions": 46,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 3,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 3,
+      "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-12T01:05:22Z",
+  "firstContribution": "2026-03-13T23:59:05Z",
   "lastContribution": "2026-03-14T00:19:10Z",
   "recentPRs": [
     {
@@ -64,47 +55,18 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43558,
-      "title": "Maintainer request: please delete old issue #43554 and keep #43557",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T01:11:50Z",
-      "closedAt": null
-    },
-    {
-      "number": 43557,
-      "title": "Intermittent 'No auth for gmail' during scheduled runs",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T01:08:58Z",
-      "closedAt": null
-    },
-    {
-      "number": 43554,
-      "title": "Superseded issue",
-      "state": "CLOSED",
-      "createdAt": "2026-03-12T01:05:22Z",
-      "closedAt": "2026-03-12T01:08:57Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-13": {
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-12": {
-      "prs": 0,
-      "issues": 3,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

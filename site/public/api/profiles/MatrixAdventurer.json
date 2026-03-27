@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/85048713?v=4",
   "githubUrl": "https://github.com/MatrixAdventurer",
   "score": {
-    "score": 51.52,
-    "prScore": 51.52,
+    "score": 69.69,
+    "prScore": 69.69,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,45 +13,47 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 5,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 224,
-    "prDeletions": 21,
-    "prChangedFiles": 10,
+    "prAdditions": 439,
+    "prDeletions": 30,
+    "prChangedFiles": 15,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 5,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 5,
+      "prs": 6,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-16T08:15:54Z",
-  "lastContribution": "2026-03-19T05:37:44Z",
+  "lastContribution": "2026-03-24T14:06:57Z",
   "recentPRs": [
+    {
+      "number": 53728,
+      "title": "feat(memory): report startup memory sources",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T14:06:57Z",
+      "mergedAt": null,
+      "additions": 215,
+      "deletions": 9,
+      "changedFiles": 5
+    },
     {
       "number": 50244,
       "title": "feishu: log outbound reply delivery results",
@@ -111,6 +113,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
@@ -130,6 +137,5 @@
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

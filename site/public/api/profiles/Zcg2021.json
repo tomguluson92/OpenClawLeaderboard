@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/80769518?v=4",
   "githubUrl": "https://github.com/Zcg2021",
   "score": {
-    "score": 156.11,
-    "prScore": 137.61,
+    "score": 167.94,
+    "prScore": 153.94,
     "issueScore": 0,
-    "reviewScore": 12,
-    "commentScore": 6.5
+    "reviewScore": 9,
+    "commentScore": 5
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 7,
+    "prs": 6,
     "prsMerged": 0,
-    "prAdditions": 1059,
-    "prDeletions": 73,
-    "prChangedFiles": 42,
+    "prAdditions": 1250,
+    "prDeletions": 491,
+    "prChangedFiles": 69,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 4,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 10
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 7,
+      "prs": 6,
       "issues": 0,
-      "reviews": 4,
-      "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 3,
+      "comments": 10
     }
   },
-  "firstContribution": "2026-03-08T16:02:00Z",
+  "firstContribution": "2026-03-09T22:55:52Z",
   "lastContribution": "2026-03-12T02:30:15Z",
   "recentPRs": [
     {
@@ -59,9 +50,9 @@
       "merged": false,
       "createdAt": "2026-03-12T02:30:15Z",
       "mergedAt": null,
-      "additions": 296,
-      "deletions": 40,
-      "changedFiles": 21
+      "additions": 499,
+      "deletions": 272,
+      "changedFiles": 36
     },
     {
       "number": 42691,
@@ -92,9 +83,9 @@
       "merged": false,
       "createdAt": "2026-03-10T01:11:31Z",
       "mergedAt": null,
-      "additions": 13,
-      "deletions": 7,
-      "changedFiles": 1
+      "additions": 85,
+      "deletions": 106,
+      "changedFiles": 8
     },
     {
       "number": 41561,
@@ -103,9 +94,9 @@
       "merged": false,
       "createdAt": "2026-03-10T00:31:32Z",
       "mergedAt": null,
-      "additions": 109,
-      "deletions": 12,
-      "changedFiles": 4
+      "additions": 154,
+      "deletions": 101,
+      "changedFiles": 11
     },
     {
       "number": 41502,
@@ -117,26 +108,10 @@
       "additions": 229,
       "deletions": 0,
       "changedFiles": 2
-    },
-    {
-      "number": 40041,
-      "title": "refactor: remove dead isAnthropicProvider guard from normalizeToolParameters",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-08T16:02:00Z",
-      "mergedAt": null,
-      "additions": 129,
-      "deletions": 2,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
   "recentReviews": [
-    {
-      "prNumber": 40041,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-12T00:30:18Z"
-    },
     {
       "prNumber": 41502,
       "state": "COMMENTED",
@@ -157,7 +132,7 @@
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
-      "reviews": 3
+      "reviews": 2
     },
     "2026-03-11": {
       "prs": 1,
@@ -173,11 +148,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -185,6 +155,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

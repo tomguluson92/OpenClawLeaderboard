@@ -3,59 +3,116 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/17255546?v=4",
   "githubUrl": "https://github.com/CharZhou",
   "score": {
-    "score": 58.98,
-    "prScore": 22.98,
-    "issueScore": 20,
+    "score": 163.37,
+    "prScore": 129.87,
+    "issueScore": 18,
     "reviewScore": 15,
-    "commentScore": 1
+    "commentScore": 0.5
   },
   "tier": "regular",
-  "characterClass": "Hunter",
+  "characterClass": "Maintainer",
   "stats": {
     "commits": 0,
-    "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 196,
-    "prDeletions": 9,
-    "prChangedFiles": 10,
-    "prMergeRate": 0,
-    "issues": 4,
-    "issuesClosed": 0,
+    "prs": 7,
+    "prsMerged": 1,
+    "prAdditions": 1463,
+    "prDeletions": 198,
+    "prChangedFiles": 35,
+    "prMergeRate": 14,
+    "issues": 3,
+    "issuesClosed": 1,
     "reviews": 5,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
-      "reviews": 5,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 6,
+      "issues": 2,
+      "reviews": 0,
+      "comments": 1
     },
     "monthly": {
-      "prs": 1,
-      "issues": 4,
+      "prs": 7,
+      "issues": 3,
       "reviews": 5,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-11T05:06:09Z",
-  "lastContribution": "2026-03-16T09:59:08Z",
+  "firstContribution": "2026-03-14T08:12:15Z",
+  "lastContribution": "2026-03-26T17:02:50Z",
   "recentPRs": [
+    {
+      "number": 55289,
+      "title": "Responses: stop client tool loops at handoff",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T17:02:50Z",
+      "mergedAt": null,
+      "additions": 247,
+      "deletions": 31,
+      "changedFiles": 6
+    },
+    {
+      "number": 54369,
+      "title": "feat(image-generation): support custom providers with compatible API protocols",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T08:46:47Z",
+      "mergedAt": null,
+      "additions": 173,
+      "deletions": 7,
+      "changedFiles": 6
+    },
+    {
+      "number": 52999,
+      "title": "fix(build): ignore UNRESOLVED_IMPORT from node_modules optional peer deps",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T16:22:12Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 1
+    },
+    {
+      "number": 52779,
+      "title": "feat: add agentId to /tools/invoke for workspace-scoped file operations",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-23T10:10:42Z",
+      "mergedAt": null,
+      "additions": 213,
+      "deletions": 4,
+      "changedFiles": 3
+    },
+    {
+      "number": 52287,
+      "title": "fix: support multiple client tool calls per agent turn",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T14:23:13Z",
+      "mergedAt": null,
+      "additions": 68,
+      "deletions": 63,
+      "changedFiles": 5
+    },
+    {
+      "number": 52171,
+      "title": "fix: pass clientTools to runEmbeddedAttempt in /v1/responses agent path",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-22T09:26:35Z",
+      "mergedAt": "2026-03-22T14:05:00Z",
+      "additions": 563,
+      "deletions": 83,
+      "changedFiles": 4
+    },
     {
       "number": 45872,
       "title": "fix(web-fetch): tighten ssrf config and cache",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T08:12:15Z",
       "mergedAt": null,
@@ -66,31 +123,24 @@
   ],
   "recentIssues": [
     {
+      "number": 52288,
+      "title": "Bug: only last client tool call returned when agent calls multiple tools per turn",
+      "state": "OPEN",
+      "createdAt": "2026-03-22T14:23:34Z",
+      "closedAt": null
+    },
+    {
+      "number": 52172,
+      "title": "Bug: /v1/responses endpoint client tools not passed to Agent",
+      "state": "CLOSED",
+      "createdAt": "2026-03-22T09:26:57Z",
+      "closedAt": "2026-03-22T22:09:47Z"
+    },
+    {
       "number": 48114,
       "title": "[Bug] Remote CDP profile fails with browserContext.newPage: Target page, context or browser has been closed after remote browser restart",
       "state": "OPEN",
       "createdAt": "2026-03-16T09:59:08Z",
-      "closedAt": null
-    },
-    {
-      "number": 44138,
-      "title": "Manual /compact command fails with 'no real conversation messages' on Discord thread sessions",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T14:42:32Z",
-      "closedAt": null
-    },
-    {
-      "number": 43015,
-      "title": "message.send schema overexposes poll/components/modal causing GPT auto-population breakages",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T09:11:37Z",
-      "closedAt": null
-    },
-    {
-      "number": 42820,
-      "title": "message tool: Feishu send action polluted by poll schema/guard prevents file send",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T05:06:09Z",
       "closedAt": null
     }
   ],
@@ -122,6 +172,26 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 2,
+      "reviews": 0
+    },
     "2026-03-14": {
       "prs": 1,
       "issues": 0,
@@ -130,16 +200,6 @@
     "2026-03-16": {
       "prs": 0,
       "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-12": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 2,
       "reviews": 0
     }
   },
@@ -155,6 +215,5 @@
       "label": "Well Rounded",
       "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

@@ -1,67 +1,113 @@
 {
   "username": "Cypherm",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/28184436?u=580872133c27e488ac2eaaada196a6ead518ae8f&v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28184436?v=4",
   "githubUrl": "https://github.com/Cypherm",
   "score": {
-    "score": 72.69,
-    "prScore": 72.69,
+    "score": 227.87,
+    "prScore": 146.37,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 75,
+    "commentScore": 6.5
   },
-  "tier": "regular",
-  "characterClass": "Builder",
+  "tier": "active",
+  "characterClass": "Reviewer",
   "stats": {
-    "commits": 0,
-    "prs": 2,
-    "prsMerged": 0,
-    "prAdditions": 222,
-    "prDeletions": 50,
-    "prChangedFiles": 17,
-    "prMergeRate": 0,
+    "commits": 2,
+    "prs": 7,
+    "prsMerged": 1,
+    "prAdditions": 671,
+    "prDeletions": 137,
+    "prChangedFiles": 42,
+    "prMergeRate": 14,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 25,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 169,
-    "commitDeletions": 10,
-    "commitChangedFiles": 15
+    "comments": 13
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 5,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 25,
+      "comments": 13
     },
     "monthly": {
-      "prs": 2,
+      "prs": 7,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 169,
-      "commitDeletions": 10,
-      "commits": 1
+      "reviews": 25,
+      "comments": 13
     }
   },
   "firstContribution": "2026-03-17T07:15:42Z",
-  "lastContribution": "2026-03-17T08:00:10Z",
+  "lastContribution": "2026-03-25T07:29:24Z",
   "recentPRs": [
+    {
+      "number": 52644,
+      "title": "fix(agents): skip tool-call ID sanitization for Anthropic providers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T05:11:42Z",
+      "mergedAt": null,
+      "additions": 10,
+      "deletions": 6,
+      "changedFiles": 2
+    },
+    {
+      "number": 52137,
+      "title": "fix(config): coerce boolean retry.jitter to number",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T07:40:03Z",
+      "mergedAt": null,
+      "additions": 34,
+      "deletions": 2,
+      "changedFiles": 3
+    },
+    {
+      "number": 52053,
+      "title": "fix(config): add azure-openai-responses to MODEL_APIS enum",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T03:42:49Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 27,
+      "changedFiles": 6
+    },
+    {
+      "number": 51384,
+      "title": "fix(config): prevent synthetic raw content in redaction fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T02:36:36Z",
+      "mergedAt": null,
+      "additions": 33,
+      "deletions": 19,
+      "changedFiles": 2
+    },
+    {
+      "number": 51381,
+      "title": "fix(ui): prevent double-qualifying already-qualified model values",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T02:30:56Z",
+      "mergedAt": null,
+      "additions": 50,
+      "deletions": 1,
+      "changedFiles": 3
+    },
     {
       "number": 48842,
       "title": "feat(telegram): support custom apiRoot for alternative API endpoints",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-17T08:00:10Z",
-      "mergedAt": null,
-      "additions": 107,
-      "deletions": 29,
-      "changedFiles": 16
+      "mergedAt": "2026-03-21T04:40:38Z",
+      "additions": 397,
+      "deletions": 61,
+      "changedFiles": 25
     },
     {
       "number": 48812,
@@ -76,8 +122,124 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 52644,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T16:18:36Z"
+    },
+    {
+      "prNumber": 52644,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T14:25:51Z"
+    },
+    {
+      "prNumber": 52644,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T09:35:23Z"
+    },
+    {
+      "prNumber": 52053,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T09:35:21Z"
+    },
+    {
+      "prNumber": 52644,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T09:22:52Z"
+    },
+    {
+      "prNumber": 52644,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T07:09:38Z"
+    },
+    {
+      "prNumber": 52053,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T07:09:33Z"
+    },
+    {
+      "prNumber": 52053,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T05:58:07Z"
+    },
+    {
+      "prNumber": 52053,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T00:40:58Z"
+    },
+    {
+      "prNumber": 52053,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T00:40:52Z"
+    },
+    {
+      "prNumber": 52137,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:47:27Z"
+    },
+    {
+      "prNumber": 52137,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T16:47:18Z"
+    },
+    {
+      "prNumber": 52137,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T14:14:00Z"
+    },
+    {
+      "prNumber": 51384,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T02:52:57Z"
+    },
+    {
+      "prNumber": 51381,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T02:32:45Z"
+    },
+    {
+      "prNumber": 51384,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T14:08:40Z"
+    },
+    {
+      "prNumber": 51381,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T14:08:30Z"
+    },
+    {
+      "prNumber": 51384,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T13:30:35Z"
+    },
+    {
+      "prNumber": 51384,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T13:30:33Z"
+    },
+    {
+      "prNumber": 51381,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-21T13:30:32Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 10
+    },
+    "2026-03-22": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 5
+    },
+    "2026-03-21": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 10
+    },
     "2026-03-17": {
       "prs": 2,
       "issues": 0,
@@ -85,10 +247,16 @@
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-13": 1
-  }
+  "achievements": [
+    {
+      "id": "reviewer",
+      "label": "Code Reviewer",
+      "description": "10+ reviews"
+    }
+  ]
 }

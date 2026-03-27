@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/258443621?u=b41c9220953d84d03613aaf680b32518aec0d0fc&v=4",
   "githubUrl": "https://github.com/clovericbot",
   "score": {
-    "score": 101.45,
-    "prScore": 91.95,
+    "score": 124.94,
+    "prScore": 114.94,
     "issueScore": 0,
     "reviewScore": 3,
-    "commentScore": 6.5
+    "commentScore": 7
   },
   "tier": "regular",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 6,
+    "prs": 7,
     "prsMerged": 0,
-    "prAdditions": 576,
-    "prDeletions": 27,
-    "prChangedFiles": 26,
+    "prAdditions": 703,
+    "prDeletions": 817,
+    "prChangedFiles": 30,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 13,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 14
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 1,
       "issues": 0,
-      "reviews": 1,
-      "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 1
     },
     "monthly": {
-      "prs": 6,
+      "prs": 7,
       "issues": 0,
       "reviews": 1,
-      "comments": 13,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 14
     }
   },
   "firstContribution": "2026-03-14T01:25:49Z",
-  "lastContribution": "2026-03-18T17:15:41Z",
+  "lastContribution": "2026-03-23T13:50:36Z",
   "recentPRs": [
+    {
+      "number": 52874,
+      "title": "build: keep optional bundled plugins out of generated bundled metadata",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T13:25:20Z",
+      "mergedAt": null,
+      "additions": 111,
+      "deletions": 796,
+      "changedFiles": 4
+    },
     {
       "number": 49807,
       "title": "fix: exclude overloaded errors from auth profile cooldown escalation",
@@ -103,8 +105,8 @@
       "merged": false,
       "createdAt": "2026-03-15T02:17:01Z",
       "mergedAt": null,
-      "additions": 115,
-      "deletions": 9,
+      "additions": 131,
+      "deletions": 3,
       "changedFiles": 6
     },
     {
@@ -128,6 +130,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 3,
       "issues": 0,
@@ -149,6 +156,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

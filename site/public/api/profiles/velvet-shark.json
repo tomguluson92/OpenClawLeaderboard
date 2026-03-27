@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/126378?v=4",
   "githubUrl": "https://github.com/velvet-shark",
   "score": {
-    "score": 253.07,
-    "prScore": 242.57,
+    "score": 190.03,
+    "prScore": 187.03,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 10.5
+    "commentScore": 3
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 10,
-    "prs": 7,
-    "prsMerged": 7,
-    "prAdditions": 1517,
-    "prDeletions": 242,
-    "prChangedFiles": 70,
+    "prs": 4,
+    "prsMerged": 4,
+    "prAdditions": 799,
+    "prDeletions": 174,
+    "prChangedFiles": 47,
     "prMergeRate": 100,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 21,
-    "commitAdditions": 1531,
-    "commitDeletions": 246,
-    "commitChangedFiles": 73
+    "comments": 6
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 4,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 800,
-      "commitDeletions": 175,
-      "commits": 5
-    },
-    "monthly": {
-      "prs": 7,
-      "issues": 0,
-      "reviews": 0,
-      "comments": 21,
-      "commitAdditions": 1531,
-      "commitDeletions": 246,
-      "commits": 10
+      "comments": 6
     }
   },
-  "firstContribution": "2026-03-09T00:21:10Z",
+  "firstContribution": "2026-03-12T08:35:57Z",
   "lastContribution": "2026-03-16T13:22:03Z",
   "recentPRs": [
     {
@@ -95,39 +86,6 @@
       "additions": 80,
       "deletions": 3,
       "changedFiles": 3
-    },
-    {
-      "number": 40892,
-      "title": "fix(ui): preserve control-ui auth across refresh",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T10:56:28Z",
-      "mergedAt": "2026-03-09T11:50:48Z",
-      "additions": 312,
-      "deletions": 26,
-      "changedFiles": 13
-    },
-    {
-      "number": 40420,
-      "title": "docs(changelog): correct Control UI contributor credit",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T01:11:21Z",
-      "mergedAt": "2026-03-09T01:18:30Z",
-      "additions": 2,
-      "deletions": 1,
-      "changedFiles": 1
-    },
-    {
-      "number": 40385,
-      "title": "gateway: fix global Control UI 404s for symlinked wrappers and bundled package roots",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-09T00:21:10Z",
-      "mergedAt": "2026-03-09T00:50:42Z",
-      "additions": 404,
-      "deletions": 41,
-      "changedFiles": 9
     }
   ],
   "recentIssues": [],
@@ -147,11 +105,6 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-09": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -159,28 +112,5 @@
     "Discussion",
     "Direct Commits"
   ],
-  "achievements": [
-    {
-      "id": "merger",
-      "label": "Merger",
-      "description": "5+ merged PRs"
-    },
-    {
-      "id": "conversationalist",
-      "label": "Conversationalist",
-      "description": "20+ comments"
-    },
-    {
-      "id": "precision",
-      "label": "Precision",
-      "description": "90%+ PR merge rate"
-    }
-  ],
-  "recentCommitDays": {
-    "2026-03-16": 1,
-    "2026-03-15": 2,
-    "2026-03-14": 1,
-    "2026-03-13": 1,
-    "2026-03-09": 5
-  }
+  "achievements": []
 }

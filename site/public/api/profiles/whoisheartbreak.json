@@ -1,0 +1,147 @@
+{
+  "username": "whoisheartbreak",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/165145263?u=9a09e20368c249bc3441a33976ee0861e339272d&v=4",
+  "githubUrl": "https://github.com/whoisheartbreak",
+  "score": {
+    "score": 70.82,
+    "prScore": 51.82,
+    "issueScore": 10,
+    "reviewScore": 9,
+    "commentScore": 0
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 3,
+    "prsMerged": 0,
+    "prAdditions": 806,
+    "prDeletions": 135,
+    "prChangedFiles": 15,
+    "prMergeRate": 0,
+    "issues": 2,
+    "issuesClosed": 0,
+    "reviews": 3,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 0
+  },
+  "period": {
+    "weekly": {
+      "prs": 3,
+      "issues": 1,
+      "reviews": 3,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 3,
+      "issues": 2,
+      "reviews": 3,
+      "comments": 0
+    }
+  },
+  "firstContribution": "2026-03-19T21:59:52Z",
+  "lastContribution": "2026-03-26T13:50:17Z",
+  "recentPRs": [
+    {
+      "number": 55194,
+      "title": "fix(plugins): fix regression where cwd source checkout overrides installed plugin root",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-26T13:50:17Z",
+      "mergedAt": null,
+      "additions": 97,
+      "deletions": 27,
+      "changedFiles": 2
+    },
+    {
+      "number": 54422,
+      "title": "Add xAI image-generation provider support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T11:03:34Z",
+      "mergedAt": null,
+      "additions": 604,
+      "deletions": 13,
+      "changedFiles": 8
+    },
+    {
+      "number": 52832,
+      "title": "iOS: align bottom bar with Liquid Glass guidance",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T12:33:47Z",
+      "mergedAt": null,
+      "additions": 105,
+      "deletions": 95,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 55193,
+      "title": "Regression: installed CLI loads source-checkout bundled plugins when run from repo root",
+      "state": "OPEN",
+      "createdAt": "2026-03-26T13:49:58Z",
+      "closedAt": null
+    },
+    {
+      "number": 50659,
+      "title": "[Bug]: agents.defaults.imageGenerationModel unrecognized by config validation / doctor in 2026.3.13 (61d171a) – key gets stripped on --fix",
+      "state": "OPEN",
+      "createdAt": "2026-03-19T21:59:52Z",
+      "closedAt": null
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 54422,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T13:31:36Z"
+    },
+    {
+      "prNumber": 52832,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T13:18:29Z"
+    },
+    {
+      "prNumber": 52832,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-23T13:18:27Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-26": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
+    "2026-03-23": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-19": {
+      "prs": 0,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

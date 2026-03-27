@@ -3,64 +3,77 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/15848762?v=4",
   "githubUrl": "https://github.com/luzhidong",
   "score": {
-    "score": 178.91,
-    "prScore": 154.91,
-    "issueScore": 21,
+    "score": 200.91,
+    "prScore": 168.91,
+    "issueScore": 26,
     "reviewScore": 0,
-    "commentScore": 3
+    "commentScore": 6
   },
-  "tier": "regular",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 5,
     "prsMerged": 1,
-    "prAdditions": 5974,
-    "prDeletions": 39,
-    "prChangedFiles": 354,
-    "prMergeRate": 33,
-    "issues": 3,
+    "prAdditions": 6116,
+    "prDeletions": 51,
+    "prChangedFiles": 366,
+    "prMergeRate": 20,
+    "issues": 4,
     "issuesClosed": 2,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 144,
-    "commitDeletions": 11,
-    "commitChangedFiles": 3
+    "comments": 12
   },
   "period": {
     "weekly": {
-      "prs": 3,
-      "issues": 3,
+      "prs": 2,
+      "issues": 1,
       "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 144,
-      "commitDeletions": 11,
-      "commits": 1
+      "comments": 6
     },
     "monthly": {
-      "prs": 3,
-      "issues": 3,
+      "prs": 5,
+      "issues": 4,
       "reviews": 0,
-      "comments": 6,
-      "commitAdditions": 144,
-      "commitDeletions": 11,
-      "commits": 1
+      "comments": 12
     }
   },
   "firstContribution": "2026-03-13T13:21:41Z",
-  "lastContribution": "2026-03-20T07:56:31Z",
+  "lastContribution": "2026-03-25T00:56:17Z",
   "recentPRs": [
     {
-      "number": 49359,
+      "number": 54105,
+      "title": "feat(ui): add cron sessions filter to mobile WebUI settings dropdown",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-25T00:28:40Z",
+      "mergedAt": null,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 1
+    },
+    {
+      "number": 53812,
       "title": "feat(webchat): implement cursor-based pagination for chat history",
       "state": "OPEN",
       "merged": false,
+      "createdAt": "2026-03-24T16:51:26Z",
+      "mergedAt": null,
+      "additions": 149,
+      "deletions": 15,
+      "changedFiles": 11
+    },
+    {
+      "number": 49359,
+      "title": "feat(webchat): implement cursor-based pagination for chat history",
+      "state": "CLOSED",
+      "merged": false,
       "createdAt": "2026-03-18T02:07:52Z",
       "mergedAt": null,
-      "additions": 164,
-      "deletions": 16,
+      "additions": 137,
+      "deletions": 13,
       "changedFiles": 9
     },
     {
@@ -88,6 +101,13 @@
   ],
   "recentIssues": [
     {
+      "number": 54101,
+      "title": "[Feature]: Add cron sessions filter to mobile WebUI settings dropdown",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T00:15:42Z",
+      "closedAt": null
+    },
+    {
       "number": 48514,
       "title": "WebChat UI freezes and becomes unresponsive with accumulated session history",
       "state": "OPEN",
@@ -111,6 +131,16 @@
   ],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-25": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-18": {
       "prs": 1,
       "issues": 0,
@@ -138,8 +168,5 @@
     "Discussion",
     "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-14": 1
-  }
+  "achievements": []
 }

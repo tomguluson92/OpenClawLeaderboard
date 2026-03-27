@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/45018530?v=4",
   "githubUrl": "https://github.com/TeoSlayer",
   "score": {
-    "score": 85.89,
+    "score": 80.89,
     "prScore": 71.39,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 9,
     "commentScore": 0.5
   },
@@ -19,37 +19,28 @@
     "prDeletions": 758,
     "prChangedFiles": 27,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
-      "reviews": 3,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 3,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-11T13:19:58Z",
+  "firstContribution": "2026-03-11T14:01:07Z",
   "lastContribution": "2026-03-13T14:47:34Z",
   "recentPRs": [
     {
@@ -64,15 +55,7 @@
       "changedFiles": 27
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43197,
-      "title": "Pilot Protocol channel plugin",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T13:19:58Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 43241,
@@ -93,7 +76,7 @@
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     },
     "2026-03-13": {
@@ -105,15 +88,7 @@
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

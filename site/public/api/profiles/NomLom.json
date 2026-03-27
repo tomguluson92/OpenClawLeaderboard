@@ -3,55 +3,57 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/20399614?v=4",
   "githubUrl": "https://github.com/NomLom",
   "score": {
-    "score": 15.96,
-    "prScore": 9.46,
+    "score": 38.86,
+    "prScore": 27.36,
     "issueScore": 0,
-    "reviewScore": 6,
-    "commentScore": 0.5
+    "reviewScore": 9,
+    "commentScore": 2.5
   },
   "tier": "beginner",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 58,
+    "prAdditions": 577,
     "prDeletions": 1,
-    "prChangedFiles": 2,
+    "prChangedFiles": 7,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 2,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 5
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 2,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 2,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 1,
+      "comments": 4
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 3,
+      "comments": 5
     }
   },
   "firstContribution": "2026-03-12T22:44:51Z",
-  "lastContribution": "2026-03-13T12:34:31Z",
+  "lastContribution": "2026-03-23T00:04:19Z",
   "recentPRs": [
+    {
+      "number": 52514,
+      "title": "feat(extensions): add openbrain-native MCP plugin extension",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T23:25:30Z",
+      "mergedAt": null,
+      "additions": 519,
+      "deletions": 0,
+      "changedFiles": 5
+    },
     {
       "number": 44422,
       "title": "fix(chrome-extension): preserve dark mode on attach",
@@ -67,6 +69,11 @@
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 52514,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T23:49:53Z"
+    },
+    {
       "prNumber": 44422,
       "state": "COMMENTED",
       "createdAt": "2026-03-13T12:34:31Z"
@@ -78,6 +85,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 1
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -94,6 +106,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

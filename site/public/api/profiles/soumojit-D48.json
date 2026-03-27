@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/207209292?u=c9d00e3d443dc95954c26d653a0ae6ebdbe2c7f0&v=4",
   "githubUrl": "https://github.com/soumojit-D48",
   "score": {
-    "score": 25.4,
+    "score": 20.4,
     "prScore": 19.9,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
   "tier": "beginner",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,37 +19,28 @@
     "prDeletions": 4,
     "prChangedFiles": 5,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 1
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-11T15:15:41Z",
+  "firstContribution": "2026-03-11T20:41:51Z",
   "lastContribution": "2026-03-11T21:23:37Z",
   "recentPRs": [
     {
@@ -75,28 +66,18 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43284,
-      "title": "[Bug]: Chat tool card sidebar does not show full command for long exec commands",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T15:15:41Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

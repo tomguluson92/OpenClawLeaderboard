@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/261903805?v=4",
   "githubUrl": "https://github.com/Oclw-bot",
   "score": {
-    "score": 25.95,
+    "score": 20.95,
     "prScore": 19.95,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1
   },
@@ -19,37 +19,28 @@
     "prDeletions": 8,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-09T17:15:29Z",
+  "firstContribution": "2026-03-09T17:45:16Z",
   "lastContribution": "2026-03-17T01:37:33Z",
   "recentPRs": [
     {
@@ -75,15 +66,7 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 41293,
-      "title": "Mistral provider fails with 422 (no body) while direct API call succeeds",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T17:15:29Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-17": {
@@ -93,15 +76,13 @@
     },
     "2026-03-09": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

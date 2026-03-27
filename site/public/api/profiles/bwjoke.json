@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1284814?v=4",
   "githubUrl": "https://github.com/bwjoke",
   "score": {
-    "score": 43.61,
-    "prScore": 30.11,
-    "issueScore": 13,
+    "score": 36.1,
+    "prScore": 25.6,
+    "issueScore": 10,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -20,37 +20,28 @@
     "prChangedFiles": 7,
     "prMergeRate": 50,
     "issues": 2,
-    "issuesClosed": 1,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 19,
-    "commitDeletions": 0,
-    "commitChangedFiles": 3
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
       "issues": 2,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 19,
-      "commitDeletions": 0,
-      "commits": 1
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-12T09:54:04Z",
-  "lastContribution": "2026-03-16T05:18:57Z",
+  "firstContribution": "2026-03-12T09:55:00Z",
+  "lastContribution": "2026-03-25T12:43:14Z",
   "recentPRs": [
     {
       "number": 47579,
@@ -77,18 +68,18 @@
   ],
   "recentIssues": [
     {
+      "number": 54463,
+      "title": "QMD memory indexing can recurse into symlink loops in workspace-visible temp monorepos and fail with ENAMETOOLONG",
+      "state": "OPEN",
+      "createdAt": "2026-03-25T12:43:14Z",
+      "closedAt": null
+    },
+    {
       "number": 47576,
       "title": "fix(failover): bare leading 402 assistant errors should still enter model fallback",
       "state": "OPEN",
       "createdAt": "2026-03-15T18:35:15Z",
       "closedAt": null
-    },
-    {
-      "number": 43915,
-      "title": "fix(failover): classify ZenMux subscription-quota 402 as rate_limit for fallback",
-      "state": "CLOSED",
-      "createdAt": "2026-03-12T09:54:04Z",
-      "closedAt": "2026-03-12T21:06:46Z"
     }
   ],
   "recentReviews": [],
@@ -100,6 +91,11 @@
     },
     "2026-03-12": {
       "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-25": {
+      "prs": 0,
       "issues": 1,
       "reviews": 0
     }
@@ -109,8 +105,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-12": 1
-  }
+  "achievements": []
 }

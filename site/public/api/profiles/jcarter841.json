@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/254981202?v=4",
   "githubUrl": "https://github.com/jcarter841",
   "score": {
-    "score": 920.37,
-    "prScore": 920.37,
+    "score": 777.55,
+    "prScore": 777.55,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
@@ -13,43 +13,34 @@
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 106,
+    "prs": 86,
     "prsMerged": 0,
-    "prAdditions": 77814,
-    "prDeletions": 68175,
-    "prChangedFiles": 106,
+    "prAdditions": 64815,
+    "prDeletions": 56187,
+    "prChangedFiles": 86,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 57,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 106,
+      "prs": 86,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-06T08:30:17Z",
+  "firstContribution": "2026-03-09T16:51:46Z",
   "lastContribution": "2026-03-18T12:48:46Z",
   "recentPRs": [
     {
@@ -322,22 +313,7 @@
       "reviews": 0
     },
     "2026-03-09": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 6,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 4,
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     }
@@ -358,11 +334,6 @@
       "description": "50+ pull requests"
     },
     {
-      "id": "pr-legend",
-      "label": "PR Legend",
-      "description": "100+ pull requests"
-    },
-    {
       "id": "prolific",
       "label": "Prolific Coder",
       "description": "10K+ lines added"
@@ -372,6 +343,5 @@
       "label": "Mega Coder",
       "description": "50K+ lines added"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

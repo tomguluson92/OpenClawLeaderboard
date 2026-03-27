@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/10687151?u=121a31564b161fdb2ca1f0f27d1be0a26674913b&v=4",
   "githubUrl": "https://github.com/ToneLoke",
   "score": {
-    "score": 92.04,
+    "score": 87.04,
     "prScore": 87.04,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
@@ -19,37 +19,28 @@
     "prDeletions": 30,
     "prChangedFiles": 22,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 6,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 6,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-08T00:53:58Z",
+  "firstContribution": "2026-03-14T05:26:43Z",
   "lastContribution": "2026-03-18T07:31:29Z",
   "recentPRs": [
     {
@@ -77,7 +68,7 @@
     {
       "number": 45763,
       "title": "feat(agents): structured FallbackSummaryError with human-friendly rate limit messages",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-14T05:27:20Z",
       "mergedAt": null,
@@ -119,15 +110,7 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 39307,
-      "title": "feat: surface mid-thread context reset/compaction to users",
-      "state": "OPEN",
-      "createdAt": "2026-03-08T00:53:58Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-18": {
@@ -139,17 +122,10 @@
       "prs": 4,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

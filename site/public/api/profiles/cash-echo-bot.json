@@ -3,63 +3,79 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/252747386?v=4",
   "githubUrl": "https://github.com/cash-echo-bot",
   "score": {
-    "score": 33.49,
-    "prScore": 33.49,
-    "issueScore": 0,
+    "score": 37.03,
+    "prScore": 29.03,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Pathfinder",
   "stats": {
-    "commits": 2,
-    "prs": 0,
-    "prsMerged": 0,
-    "prAdditions": 0,
-    "prDeletions": 0,
-    "prChangedFiles": 0,
-    "prMergeRate": 0,
-    "issues": 0,
-    "issuesClosed": 0,
+    "commits": 3,
+    "prs": 1,
+    "prsMerged": 1,
+    "prAdditions": 56,
+    "prDeletions": 31,
+    "prChangedFiles": 3,
+    "prMergeRate": 100,
+    "issues": 1,
+    "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 155,
-    "commitDeletions": 29,
-    "commitChangedFiles": 15
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 0,
-      "issues": 0,
+      "prs": 1,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 0,
-      "issues": 0,
+      "prs": 1,
+      "issues": 1,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": null,
-  "lastContribution": null,
-  "recentPRs": [],
-  "recentIssues": [],
+  "firstContribution": "2026-03-21T13:52:16Z",
+  "lastContribution": "2026-03-21T13:52:28Z",
+  "recentPRs": [
+    {
+      "number": 51631,
+      "title": "fix(auth): support remote Codex OAuth manual input",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-21T13:52:28Z",
+      "mergedAt": "2026-03-21T14:10:54Z",
+      "additions": 56,
+      "deletions": 31,
+      "changedFiles": 3
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 51630,
+      "title": "fix(auth): support remote Codex OAuth manual input with pi-ai 0.60.0",
+      "state": "CLOSED",
+      "createdAt": "2026-03-21T13:52:16Z",
+      "closedAt": "2026-03-21T14:10:57Z"
+    }
+  ],
   "recentReviews": [],
-  "recentActivityDays": {},
+  "recentActivityDays": {
+    "2026-03-21": {
+      "prs": 1,
+      "issues": 1,
+      "reviews": 0
+    }
+  },
   "skills": [
+    "Pull Requests",
+    "Issue Reporting",
     "Direct Commits"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-01-21": 1
-  }
+  "achievements": []
 }

@@ -1,0 +1,125 @@
+{
+  "username": "hongsw",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1100974?u=945f6e978450ec122c11ddc3e5e184523422c75c&v=4",
+  "githubUrl": "https://github.com/hongsw",
+  "score": {
+    "score": 62.59,
+    "prScore": 37.59,
+    "issueScore": 8,
+    "reviewScore": 15,
+    "commentScore": 2
+  },
+  "tier": "regular",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 2,
+    "prsMerged": 1,
+    "prAdditions": 288,
+    "prDeletions": 16,
+    "prChangedFiles": 12,
+    "prMergeRate": 50,
+    "issues": 1,
+    "issuesClosed": 1,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 4
+  },
+  "period": {
+    "weekly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 5,
+      "comments": 4
+    },
+    "monthly": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 5,
+      "comments": 4
+    }
+  },
+  "firstContribution": "2026-03-24T07:31:35Z",
+  "lastContribution": "2026-03-25T06:16:47Z",
+  "recentPRs": [
+    {
+      "number": 53553,
+      "title": "fix(talk): Talk Mode TTS improvements for CJK languages",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T08:48:51Z",
+      "mergedAt": null,
+      "additions": 160,
+      "deletions": 3,
+      "changedFiles": 7
+    },
+    {
+      "number": 53511,
+      "title": "fix(talk): prevent double TTS playback when system voice times out",
+      "state": "MERGED",
+      "merged": true,
+      "createdAt": "2026-03-24T07:32:06Z",
+      "mergedAt": "2026-03-26T22:37:41Z",
+      "additions": 128,
+      "deletions": 13,
+      "changedFiles": 5
+    }
+  ],
+  "recentIssues": [
+    {
+      "number": 53510,
+      "title": "[Bug]: Mac app Talk Mode plays every reply twice (duplicate TTS audio)",
+      "state": "CLOSED",
+      "createdAt": "2026-03-24T07:31:35Z",
+      "closedAt": "2026-03-26T22:37:42Z"
+    }
+  ],
+  "recentReviews": [
+    {
+      "prNumber": 53553,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T14:02:09Z"
+    },
+    {
+      "prNumber": 53553,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T13:52:20Z"
+    },
+    {
+      "prNumber": 53553,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T13:52:19Z"
+    },
+    {
+      "prNumber": 53511,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T08:18:56Z"
+    },
+    {
+      "prNumber": 53511,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T08:18:46Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 2,
+      "issues": 1,
+      "reviews": 5
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Issue Reporting",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "well-rounded",
+      "label": "Well Rounded",
+      "description": "Active in PRs, reviews, and issues"
+    }
+  ]
+}

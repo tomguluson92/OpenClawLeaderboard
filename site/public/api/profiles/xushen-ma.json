@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/7592184?u=b95400583ec061ce893bec7f45e0e617af2e768f&v=4",
   "githubUrl": "https://github.com/xushen-ma",
   "score": {
-    "score": 75.13,
-    "prScore": 75.13,
+    "score": 47.9,
+    "prScore": 47.9,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 1331,
-    "prDeletions": 115,
-    "prChangedFiles": 28,
+    "prAdditions": 1215,
+    "prDeletions": 92,
+    "prChangedFiles": 19,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-06T07:00:13Z",
+  "firstContribution": "2026-03-11T21:06:45Z",
   "lastContribution": "2026-03-11T21:06:45Z",
   "recentPRs": [
     {
@@ -62,17 +53,6 @@
       "additions": 1215,
       "deletions": 92,
       "changedFiles": 19
-    },
-    {
-      "number": 37329,
-      "title": "feat(daemon/macos): add `gateway restart --fast` using kickstart for non-destructive restarts",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T07:00:13Z",
-      "mergedAt": null,
-      "additions": 116,
-      "deletions": 23,
-      "changedFiles": 9
     }
   ],
   "recentIssues": [],
@@ -82,16 +62,10 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,54 +3,45 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6257996?u=f99919d6e60034a8bcb6caf716962389e2b5257a&v=4",
   "githubUrl": "https://github.com/lynnzc",
   "score": {
-    "score": 721.49,
-    "prScore": 682.99,
+    "score": 554.12,
+    "prScore": 523.62,
     "issueScore": 0,
     "reviewScore": 6,
-    "commentScore": 32.5
+    "commentScore": 24.5
   },
   "tier": "veteran",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 77,
+    "prs": 55,
     "prsMerged": 0,
-    "prAdditions": 13940,
-    "prDeletions": 791,
-    "prChangedFiles": 320,
+    "prAdditions": 9676,
+    "prDeletions": 640,
+    "prChangedFiles": 232,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 65,
-    "commitAdditions": 24,
-    "commitDeletions": 2,
-    "commitChangedFiles": 3
+    "comments": 49
   },
   "period": {
     "weekly": {
-      "prs": 3,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 7,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 77,
+      "prs": 55,
       "issues": 0,
       "reviews": 2,
-      "comments": 65,
-      "commitAdditions": 24,
-      "commitDeletions": 2,
-      "commits": 1
+      "comments": 49
     }
   },
-  "firstContribution": "2026-03-06T05:10:41Z",
-  "lastContribution": "2026-03-19T04:53:33Z",
+  "firstContribution": "2026-03-09T16:00:37Z",
+  "lastContribution": "2026-03-19T05:22:56Z",
   "recentPRs": [
     {
       "number": 50172,
@@ -313,22 +304,7 @@
       "reviews": 1
     },
     "2026-03-09": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 8,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-07": {
-      "prs": 3,
-      "issues": 0,
-      "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 10,
+      "prs": 2,
       "issues": 0,
       "reviews": 0
     }
@@ -354,14 +330,6 @@
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
-    },
-    {
-      "id": "prolific",
-      "label": "Prolific Coder",
-      "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-04": 1
-  }
+  ]
 }

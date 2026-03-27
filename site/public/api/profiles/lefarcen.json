@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/20859779?u=254966a4f7baf54b9889b8ef80194b5d2cc6e418&v=4",
   "githubUrl": "https://github.com/lefarcen",
   "score": {
-    "score": 20.07,
-    "prScore": 13.57,
-    "issueScore": 5,
+    "score": 19.12,
+    "prScore": 17.62,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 1.5
   },
@@ -14,78 +14,59 @@
   "stats": {
     "commits": 0,
     "prs": 1,
-    "prsMerged": 0,
-    "prAdditions": 73,
-    "prDeletions": 6,
+    "prsMerged": 1,
+    "prAdditions": 159,
+    "prDeletions": 1,
     "prChangedFiles": 5,
-    "prMergeRate": 0,
-    "issues": 1,
+    "prMergeRate": 100,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 3,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 3,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 3
     }
   },
-  "firstContribution": "2026-03-12T02:50:28Z",
+  "firstContribution": "2026-03-12T07:15:09Z",
   "lastContribution": "2026-03-12T07:30:07Z",
   "recentPRs": [
     {
       "number": 43788,
       "title": "fix(feishu): prevent silent group message drops when bot-info probe times out",
-      "state": "OPEN",
-      "merged": false,
+      "state": "MERGED",
+      "merged": true,
       "createdAt": "2026-03-12T07:15:09Z",
-      "mergedAt": null,
-      "additions": 73,
-      "deletions": 6,
+      "mergedAt": "2026-03-24T23:55:37Z",
+      "additions": 159,
+      "deletions": 1,
       "changedFiles": 5
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43612,
-      "title": "Feishu: duplicate card delivery for long streaming responses",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T02:50:28Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

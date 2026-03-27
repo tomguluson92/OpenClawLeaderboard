@@ -3,55 +3,79 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/6381261?u=ea892831ee7725c205a7859e46dc643fdc5a572d&v=4",
   "githubUrl": "https://github.com/BenediktSchackenberg",
   "score": {
-    "score": 402.63,
-    "prScore": 276.13,
+    "score": 481.55,
+    "prScore": 297.05,
     "issueScore": 0,
-    "reviewScore": 126,
-    "commentScore": 0.5
+    "reviewScore": 183,
+    "commentScore": 1.5
   },
   "tier": "active",
   "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
-    "prs": 9,
+    "prs": 12,
     "prsMerged": 0,
-    "prAdditions": 684291,
-    "prDeletions": 797246,
-    "prChangedFiles": 8488,
+    "prAdditions": 683335,
+    "prDeletions": 790252,
+    "prChangedFiles": 8500,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 42,
+    "reviews": 61,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
-      "prs": 9,
+      "prs": 3,
       "issues": 0,
-      "reviews": 42,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 19,
+      "comments": 3
     },
     "monthly": {
-      "prs": 9,
+      "prs": 12,
       "issues": 0,
-      "reviews": 42,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 61,
+      "comments": 3
     }
   },
   "firstContribution": "2026-03-13T14:17:31Z",
-  "lastContribution": "2026-03-19T21:03:45Z",
+  "lastContribution": "2026-03-26T22:02:23Z",
   "recentPRs": [
+    {
+      "number": 51283,
+      "title": "Fix model fallback not triggering on unrecognized provider errors",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T21:25:02Z",
+      "mergedAt": null,
+      "additions": 75,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 51039,
+      "title": "fix(security): block SSRF in nodes-camera writeUrlToFile",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T12:40:21Z",
+      "mergedAt": null,
+      "additions": 52,
+      "deletions": 13,
+      "changedFiles": 3
+    },
+    {
+      "number": 51038,
+      "title": "feat(browser): add headless mode support",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-20T12:40:13Z",
+      "mergedAt": null,
+      "additions": 146,
+      "deletions": 4,
+      "changedFiles": 4
+    },
     {
       "number": 50589,
       "title": "fix: treat HTTP 4xx as permanent delivery errors, exclude 408",
@@ -59,9 +83,9 @@
       "merged": false,
       "createdAt": "2026-03-19T18:58:41Z",
       "mergedAt": null,
-      "additions": 71,
-      "deletions": 554,
-      "changedFiles": 2
+      "additions": 568,
+      "deletions": 38,
+      "changedFiles": 4
     },
     {
       "number": 49218,
@@ -70,7 +94,7 @@
       "merged": false,
       "createdAt": "2026-03-17T19:44:41Z",
       "mergedAt": null,
-      "additions": 47,
+      "additions": 53,
       "deletions": 1,
       "changedFiles": 3
     },
@@ -81,7 +105,7 @@
       "merged": false,
       "createdAt": "2026-03-16T20:31:51Z",
       "mergedAt": null,
-      "additions": 113,
+      "additions": 111,
       "deletions": 8,
       "changedFiles": 2
     },
@@ -114,8 +138,8 @@
       "merged": false,
       "createdAt": "2026-03-13T17:51:27Z",
       "mergedAt": null,
-      "additions": 2953,
-      "deletions": 6457,
+      "additions": 1293,
+      "deletions": 4,
       "changedFiles": 11
     },
     {
@@ -147,115 +171,120 @@
       "merged": false,
       "createdAt": "2026-03-13T14:17:31Z",
       "mergedAt": null,
-      "additions": 110,
-      "deletions": 80,
-      "changedFiles": 2
+      "additions": 40,
+      "deletions": 38,
+      "changedFiles": 3
     }
   ],
   "recentIssues": [],
   "recentReviews": [
     {
+      "prNumber": 51283,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:31:22Z"
+    },
+    {
+      "prNumber": 51283,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:31:20Z"
+    },
+    {
+      "prNumber": 51283,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:31:18Z"
+    },
+    {
+      "prNumber": 51283,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:31:16Z"
+    },
+    {
+      "prNumber": 51283,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:31:14Z"
+    },
+    {
+      "prNumber": 51283,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:31:11Z"
+    },
+    {
+      "prNumber": 51039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:55Z"
+    },
+    {
+      "prNumber": 51039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:53Z"
+    },
+    {
+      "prNumber": 51039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:51Z"
+    },
+    {
+      "prNumber": 51039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:49Z"
+    },
+    {
+      "prNumber": 51039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:47Z"
+    },
+    {
+      "prNumber": 51039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:45Z"
+    },
+    {
+      "prNumber": 51039,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:43Z"
+    },
+    {
+      "prNumber": 51038,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:18Z"
+    },
+    {
+      "prNumber": 51038,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:16Z"
+    },
+    {
+      "prNumber": 51038,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:14Z"
+    },
+    {
+      "prNumber": 51038,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:12Z"
+    },
+    {
+      "prNumber": 51038,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:10Z"
+    },
+    {
+      "prNumber": 51038,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-22T18:30:08Z"
+    },
+    {
       "prNumber": 49218,
       "state": "COMMENTED",
       "createdAt": "2026-03-19T21:03:45Z"
-    },
-    {
-      "prNumber": 49218,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T21:03:38Z"
-    },
-    {
-      "prNumber": 50589,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T20:54:10Z"
-    },
-    {
-      "prNumber": 50589,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T20:54:09Z"
-    },
-    {
-      "prNumber": 50589,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T20:54:08Z"
-    },
-    {
-      "prNumber": 50589,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T20:54:06Z"
-    },
-    {
-      "prNumber": 50589,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T20:53:54Z"
-    },
-    {
-      "prNumber": 50589,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T20:53:52Z"
-    },
-    {
-      "prNumber": 50589,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T20:53:50Z"
-    },
-    {
-      "prNumber": 49218,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-19T20:48:24Z"
-    },
-    {
-      "prNumber": 49218,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T20:06:43Z"
-    },
-    {
-      "prNumber": 49218,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T20:06:42Z"
-    },
-    {
-      "prNumber": 48476,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-17T06:05:29Z"
-    },
-    {
-      "prNumber": 48476,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-16T20:51:09Z"
-    },
-    {
-      "prNumber": 48476,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-16T20:38:37Z"
-    },
-    {
-      "prNumber": 48476,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-16T20:38:35Z"
-    },
-    {
-      "prNumber": 48476,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-16T20:38:25Z"
-    },
-    {
-      "prNumber": 45174,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-15T18:54:20Z"
-    },
-    {
-      "prNumber": 45174,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-15T18:54:18Z"
-    },
-    {
-      "prNumber": 45174,
-      "state": "COMMENTED",
-      "createdAt": "2026-03-15T18:54:17Z"
     }
   ],
   "recentActivityDays": {
+    "2026-03-20": {
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 1,
       "issues": 0,
@@ -281,6 +310,11 @@
       "issues": 0,
       "reviews": 0
     },
+    "2026-03-22": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 19
+    },
     "2026-03-15": {
       "prs": 0,
       "issues": 0,
@@ -295,9 +329,19 @@
   ],
   "achievements": [
     {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
       "id": "reviewer",
       "label": "Code Reviewer",
       "description": "10+ reviews"
+    },
+    {
+      "id": "review-guru",
+      "label": "Review Guru",
+      "description": "50+ reviews"
     },
     {
       "id": "prolific",
@@ -309,6 +353,5 @@
       "label": "Mega Coder",
       "description": "50K+ lines added"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

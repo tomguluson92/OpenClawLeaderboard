@@ -1,0 +1,287 @@
+{
+  "username": "lurui1997",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/163861137?u=0e54751eeae2836ab1f72e6369c95e70d0ae579f&v=4",
+  "githubUrl": "https://github.com/lurui1997",
+  "score": {
+    "score": 246.02,
+    "prScore": 239.52,
+    "issueScore": 0,
+    "reviewScore": 0,
+    "commentScore": 6.5
+  },
+  "tier": "active",
+  "characterClass": "Builder",
+  "stats": {
+    "commits": 0,
+    "prs": 20,
+    "prsMerged": 0,
+    "prAdditions": 695,
+    "prDeletions": 65,
+    "prChangedFiles": 52,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 0,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 13
+  },
+  "period": {
+    "weekly": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 13
+    },
+    "monthly": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 13
+    }
+  },
+  "firstContribution": "2026-03-22T01:00:27Z",
+  "lastContribution": "2026-03-22T02:25:44Z",
+  "recentPRs": [
+    {
+      "number": 52010,
+      "title": "Web UI: fix code block copy on Edge via clipboard fallback (#51664)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:18:49Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 5,
+      "changedFiles": 2
+    },
+    {
+      "number": 52008,
+      "title": "CLI: write plugin bootstrap logs to stderr (#51496)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:18:03Z",
+      "mergedAt": null,
+      "additions": 24,
+      "deletions": 17,
+      "changedFiles": 1
+    },
+    {
+      "number": 52006,
+      "title": "WhatsApp: fix HTML attachment MIME and outbound send (#51561)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:16:54Z",
+      "mergedAt": null,
+      "additions": 53,
+      "deletions": 1,
+      "changedFiles": 4
+    },
+    {
+      "number": 52003,
+      "title": "WhatsApp: ignore quotedMessage mentions for requireMention (#51804)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:15:58Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 2,
+      "changedFiles": 2
+    },
+    {
+      "number": 52000,
+      "title": "Telegram: retry when transient errno is nested under HttpError.cause (#51525)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:15:17Z",
+      "mergedAt": null,
+      "additions": 39,
+      "deletions": 3,
+      "changedFiles": 2
+    },
+    {
+      "number": 51999,
+      "title": "Config: add azure-openai-responses to model provider API enum (#51735)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:14:23Z",
+      "mergedAt": null,
+      "additions": 2,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 51997,
+      "title": "Media: fix PNG mis-sniffed as image/apng (#51881)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:13:46Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51996,
+      "title": "Update: fix false update-available for calver build installs (#51662)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:12:52Z",
+      "mergedAt": null,
+      "additions": 61,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 51995,
+      "title": "Message: ignore empty poll* fields for non-poll actions (#51830)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T02:11:47Z",
+      "mergedAt": null,
+      "additions": 104,
+      "deletions": 4,
+      "changedFiles": 5
+    },
+    {
+      "number": 51993,
+      "title": "Exec: fix pipe-to-shell false positive on || before shell (#51908)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T02:10:52Z",
+      "mergedAt": null,
+      "additions": 9,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51969,
+      "title": "Agents/cron tool: document IANA tz for cron schedules (#51922) (#51922)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T01:00:53Z",
+      "mergedAt": null,
+      "additions": 4,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51968,
+      "title": "Changelog: dedupe Unreleased Fixes header and duplicate entry",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T01:00:50Z",
+      "mergedAt": null,
+      "additions": 0,
+      "deletions": 4,
+      "changedFiles": 1
+    },
+    {
+      "number": 51967,
+      "title": "Polls: require positive duration for poll param detection (#51830) (#51830)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T01:00:46Z",
+      "mergedAt": null,
+      "additions": 12,
+      "deletions": 5,
+      "changedFiles": 3
+    },
+    {
+      "number": 51966,
+      "title": "iMessage: send reply_to_guid in RPC when replyToId is set (#51892) (#51892)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T01:00:44Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 0,
+      "changedFiles": 3
+    },
+    {
+      "number": 51965,
+      "title": "Onboarding: heuristic vision inputs for non-Azure custom models (#51869) (#51869)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T01:00:41Z",
+      "mergedAt": null,
+      "additions": 42,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 51964,
+      "title": "Media: treat sniffed image/apng as image/png (#51881) (#51881)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T01:00:37Z",
+      "mergedAt": null,
+      "additions": 23,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 51962,
+      "title": "Security/audit: know default dangerous node commands in denyCommands check (#51865) (#51865)",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T01:00:35Z",
+      "mergedAt": null,
+      "additions": 119,
+      "deletions": 9,
+      "changedFiles": 3
+    },
+    {
+      "number": 51961,
+      "title": "Gateway: default WebSocket client scopes to admin + read (#51887) (#51887)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T01:00:32Z",
+      "mergedAt": null,
+      "additions": 3,
+      "deletions": 1,
+      "changedFiles": 2
+    },
+    {
+      "number": 51960,
+      "title": "Security: avoid pipe-to-shell false positive on logical OR (||) (#51908) (#51908)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T01:00:30Z",
+      "mergedAt": null,
+      "additions": 8,
+      "deletions": 1,
+      "changedFiles": 3
+    },
+    {
+      "number": 51959,
+      "title": "fix(exec): skip outbound deliver for webchat-only exec approval follow-ups (#51936)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T01:00:27Z",
+      "mergedAt": null,
+      "additions": 99,
+      "deletions": 7,
+      "changedFiles": 4
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [],
+  "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 20,
+      "issues": 0,
+      "reviews": 0
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Discussion"
+  ],
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    }
+  ]
+}

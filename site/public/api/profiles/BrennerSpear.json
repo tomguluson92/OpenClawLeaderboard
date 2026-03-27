@@ -3,9 +3,9 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/12127609?u=9e79138c7126e45a84f4d2324d954c82f1147aef&v=4",
   "githubUrl": "https://github.com/BrennerSpear",
   "score": {
-    "score": 26.4,
-    "prScore": 12.9,
-    "issueScore": 13,
+    "score": 18.27,
+    "prScore": 9.77,
+    "issueScore": 8,
     "reviewScore": 0,
     "commentScore": 0.5
   },
@@ -19,37 +19,28 @@
     "prDeletions": 1,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 2,
+    "issues": 1,
     "issuesClosed": 1,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 32,
-    "commitDeletions": 3,
-    "commitChangedFiles": 2
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 1,
-      "issues": 1,
+      "prs": 0,
+      "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 2,
+      "issues": 1,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 32,
-      "commitDeletions": 3,
-      "commits": 1
+      "comments": 1
     }
   },
-  "firstContribution": "2026-03-10T02:40:49Z",
+  "firstContribution": "2026-03-15T01:25:32Z",
   "lastContribution": "2026-03-17T22:00:41Z",
   "recentPRs": [
     {
@@ -71,13 +62,6 @@
       "state": "CLOSED",
       "createdAt": "2026-03-15T01:25:32Z",
       "closedAt": "2026-03-15T01:28:18Z"
-    },
-    {
-      "number": 41651,
-      "title": "Skill path containment check produces false-positive warnings for symlinks to bundled skills",
-      "state": "OPEN",
-      "createdAt": "2026-03-10T02:40:49Z",
-      "closedAt": null
     }
   ],
   "recentReviews": [],
@@ -91,11 +75,6 @@
       "prs": 0,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-10": {
-      "prs": 0,
-      "issues": 1,
-      "reviews": 0
     }
   },
   "skills": [
@@ -103,8 +82,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-06": 1
-  }
+  "achievements": []
 }

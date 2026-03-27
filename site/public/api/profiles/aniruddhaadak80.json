@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/127435065?u=e066c799d8e4e5548818545d9e3028aaf707d359&v=4",
   "githubUrl": "https://github.com/aniruddhaadak80",
   "score": {
-    "score": 181.04,
+    "score": 128.04,
     "prScore": 128.04,
-    "issueScore": 53,
+    "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0
   },
   "tier": "regular",
-  "characterClass": "Pathfinder",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
     "prs": 10,
@@ -19,38 +19,29 @@
     "prDeletions": 19,
     "prChangedFiles": 34,
     "prMergeRate": 0,
-    "issues": 10,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 10,
-      "issues": 10,
+      "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-12T14:51:13Z",
-  "lastContribution": "2026-03-12T18:07:00Z",
+  "lastContribution": "2026-03-12T16:34:14Z",
   "recentPRs": [
     {
       "number": 44234,
@@ -99,7 +90,7 @@
     {
       "number": 44194,
       "title": "test(compaction): make workspace path assertion portable",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T15:56:42Z",
       "mergedAt": null,
@@ -163,101 +154,23 @@
       "changedFiles": 1
     }
   ],
-  "recentIssues": [
-    {
-      "number": 44298,
-      "title": "Audit docs credential examples for secret-scanner-safe placeholders",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T18:07:00Z",
-      "closedAt": null
-    },
-    {
-      "number": 44297,
-      "title": "Surface Slack external arg-menu fallback as a visible health signal",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T18:07:00Z",
-      "closedAt": null
-    },
-    {
-      "number": 44296,
-      "title": "Show the actual PowerShell profile path during onboarding shell-completion setup",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T18:07:00Z",
-      "closedAt": null
-    },
-    {
-      "number": 44295,
-      "title": "Refresh fallback plugin gateway context after runtime config changes",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T18:07:00Z",
-      "closedAt": null
-    },
-    {
-      "number": 44294,
-      "title": "Preserve structured ACP backend error kinds instead of mapping all errors to `end_turn`",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T18:07:00Z",
-      "closedAt": null
-    },
-    {
-      "number": 44293,
-      "title": "Make `pnpm check:docs` work in native PowerShell",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T18:05:47Z",
-      "closedAt": null
-    },
-    {
-      "number": 44292,
-      "title": "Add an autofix or generator for missing config field labels",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T18:05:46Z",
-      "closedAt": null
-    },
-    {
-      "number": 44291,
-      "title": "Add native PowerShell smoke coverage for contributor commands",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T18:05:45Z",
-      "closedAt": null
-    },
-    {
-      "number": 44290,
-      "title": "Clarify whether Feishu `encryptKey` should remain secretref-eligible",
-      "state": "CLOSED",
-      "createdAt": "2026-03-12T18:05:44Z",
-      "closedAt": "2026-03-16T03:53:45Z"
-    },
-    {
-      "number": 44289,
-      "title": "Generate secretref reference docs from secret target registry metadata",
-      "state": "OPEN",
-      "createdAt": "2026-03-12T18:05:43Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
       "prs": 10,
-      "issues": 10,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
-    "Pull Requests",
-    "Issue Reporting"
+    "Pull Requests"
   ],
   "achievements": [
     {
       "id": "pr-machine",
       "label": "PR Machine",
       "description": "10+ pull requests"
-    },
-    {
-      "id": "bug-reporter",
-      "label": "Bug Reporter",
-      "description": "5+ issues filed"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

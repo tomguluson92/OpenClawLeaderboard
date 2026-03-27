@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/23615754?u=02c96074bce0622f3dad382057f012205ae27525&v=4",
   "githubUrl": "https://github.com/JoshuaLelon",
   "score": {
-    "score": 164.92,
-    "prScore": 119.42,
+    "score": 128.01,
+    "prScore": 82.51,
     "issueScore": 0,
     "reviewScore": 33,
     "commentScore": 12.5
@@ -13,49 +13,40 @@
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 10,
-    "prsMerged": 1,
-    "prAdditions": 180,
-    "prDeletions": 49,
-    "prChangedFiles": 14,
-    "prMergeRate": 10,
+    "prs": 9,
+    "prsMerged": 0,
+    "prAdditions": 177,
+    "prDeletions": 48,
+    "prChangedFiles": 12,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 11,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 25,
-    "commitAdditions": 619,
-    "commitDeletions": 285,
-    "commitChangedFiles": 8
+    "comments": 25
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 10,
+      "prs": 9,
       "issues": 0,
       "reviews": 11,
-      "comments": 25,
-      "commitAdditions": 3,
-      "commitDeletions": 1,
-      "commits": 1
+      "comments": 25
     }
   },
-  "firstContribution": "2026-03-08T15:01:23Z",
+  "firstContribution": "2026-03-12T15:50:40Z",
   "lastContribution": "2026-03-12T20:55:16Z",
   "recentPRs": [
     {
       "number": 44222,
       "title": "fix(imessage): detect FDA permission errors and improve send reporting",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T16:20:57Z",
       "mergedAt": null,
@@ -66,7 +57,7 @@
     {
       "number": 44221,
       "title": "fix(agents): fall back to apt-get for brew skill installs on Linux",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T16:20:54Z",
       "mergedAt": null,
@@ -77,7 +68,7 @@
     {
       "number": 44220,
       "title": "fix(agents): skip bootstrap file injection on continuation messages",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T16:20:51Z",
       "mergedAt": null,
@@ -99,7 +90,7 @@
     {
       "number": 44218,
       "title": "fix(macos): bail early on gateway failure and surface real error",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T16:20:45Z",
       "mergedAt": null,
@@ -110,7 +101,7 @@
     {
       "number": 44217,
       "title": "fix(wizard): warn user when auth is skipped during onboarding",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T16:20:43Z",
       "mergedAt": null,
@@ -121,7 +112,7 @@
     {
       "number": 44192,
       "title": "fix(gateway): filter model picker to configured providers",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T15:51:01Z",
       "mergedAt": null,
@@ -132,7 +123,7 @@
     {
       "number": 44190,
       "title": "fix(web): clear stale Baileys creds before forced WhatsApp relink",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T15:50:52Z",
       "mergedAt": null,
@@ -143,24 +134,13 @@
     {
       "number": 44189,
       "title": "fix(cli): guard zsh compdef call for non-interactive shells",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-12T15:50:40Z",
       "mergedAt": null,
       "additions": 1,
       "deletions": 1,
       "changedFiles": 1
-    },
-    {
-      "number": 39969,
-      "title": "fix(swiftformat): exclude generated security policy from formatters",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T15:01:23Z",
-      "mergedAt": "2026-03-09T14:30:43Z",
-      "additions": 3,
-      "deletions": 1,
-      "changedFiles": 2
     }
   ],
   "recentIssues": [],
@@ -226,11 +206,6 @@
       "prs": 9,
       "issues": 0,
       "reviews": 11
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -239,11 +214,6 @@
     "Discussion"
   ],
   "achievements": [
-    {
-      "id": "pr-machine",
-      "label": "PR Machine",
-      "description": "10+ pull requests"
-    },
     {
       "id": "reviewer",
       "label": "Code Reviewer",
@@ -254,9 +224,5 @@
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-09": 1,
-    "2026-02-16": 1
-  }
+  ]
 }

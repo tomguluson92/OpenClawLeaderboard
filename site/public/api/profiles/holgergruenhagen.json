@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/60438604?u=4e691776ae66b644a61df81858d1a2d70d1c1d98&v=4",
   "githubUrl": "https://github.com/holgergruenhagen",
   "score": {
-    "score": 25.62,
+    "score": 22.12,
     "prScore": 19.62,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 1
+    "commentScore": 2.5
   },
   "tier": "beginner",
-  "characterClass": "Builder",
+  "characterClass": "Contributor",
   "stats": {
     "commits": 0,
     "prs": 2,
@@ -19,38 +19,29 @@
     "prDeletions": 5,
     "prChangedFiles": 4,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 2,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 5
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 3
     },
     "monthly": {
       "prs": 2,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 5
     }
   },
-  "firstContribution": "2026-03-11T23:34:14Z",
-  "lastContribution": "2026-03-12T10:55:57Z",
+  "firstContribution": "2026-03-11T23:43:46Z",
+  "lastContribution": "2026-03-25T00:27:11Z",
   "recentPRs": [
     {
       "number": 43947,
@@ -75,15 +66,7 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43519,
-      "title": "QMD session recall roundtrip breaks because memory_search returns source alias instead of real collection name",
-      "state": "OPEN",
-      "createdAt": "2026-03-11T23:34:14Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-12": {
@@ -93,15 +76,13 @@
     },
     "2026-03-11": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

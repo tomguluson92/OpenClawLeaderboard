@@ -3,11 +3,11 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/4202819?u=de6ef21ccde64f688c1cd8f54177f5957354d883&v=4",
   "githubUrl": "https://github.com/qq157755587",
   "score": {
-    "score": 27.13,
+    "score": 21.63,
     "prScore": 15.63,
-    "issueScore": 5,
+    "issueScore": 0,
     "reviewScore": 6,
-    "commentScore": 0.5
+    "commentScore": 0
   },
   "tier": "beginner",
   "characterClass": "Reviewer",
@@ -19,37 +19,28 @@
     "prDeletions": 10,
     "prChangedFiles": 6,
     "prMergeRate": 0,
-    "issues": 1,
+    "issues": 0,
     "issuesClosed": 0,
     "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 2,
-      "comments": 1,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
-  "firstContribution": "2026-03-13T02:14:00Z",
+  "firstContribution": "2026-03-13T02:56:12Z",
   "lastContribution": "2026-03-13T03:29:33Z",
   "recentPRs": [
     {
@@ -64,15 +55,7 @@
       "changedFiles": 6
     }
   ],
-  "recentIssues": [
-    {
-      "number": 44541,
-      "title": "[Bug]: isolated cron agentTurn can get stuck/rerun stale running state and eventually time out on lightweight ClawHub JSON summarization",
-      "state": "OPEN",
-      "createdAt": "2026-03-13T02:14:00Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 44573,
@@ -88,22 +71,13 @@
   "recentActivityDays": {
     "2026-03-13": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 2
     }
   },
   "skills": [
     "Pull Requests",
-    "Code Review",
-    "Issue Reporting",
-    "Discussion"
+    "Code Review"
   ],
-  "achievements": [
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
-    }
-  ],
-  "recentCommitDays": {}
+  "achievements": []
 }

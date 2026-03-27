@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/99234509?u=6ae23571039131d8134372af89a3b3aba361184c&v=4",
   "githubUrl": "https://github.com/katoue",
   "score": {
-    "score": 75.91,
+    "score": 43.91,
     "prScore": 9.91,
-    "issueScore": 8,
+    "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 58
+    "commentScore": 34
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
@@ -19,37 +19,28 @@
     "prDeletions": 30,
     "prChangedFiles": 2,
     "prMergeRate": 0,
-    "issues": 1,
-    "issuesClosed": 1,
+    "issues": 0,
+    "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 116,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 68
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0,
-      "comments": 116,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 68
     }
   },
-  "firstContribution": "2026-03-11T20:59:07Z",
+  "firstContribution": "2026-03-11T21:28:24Z",
   "lastContribution": "2026-03-12T20:02:12Z",
   "recentPRs": [
     {
@@ -64,26 +55,17 @@
       "changedFiles": 2
     }
   ],
-  "recentIssues": [
-    {
-      "number": 43468,
-      "title": "[Bug]: @buape/carbon dependency needs to be removed entirely",
-      "state": "CLOSED",
-      "createdAt": "2026-03-11T20:59:07Z",
-      "closedAt": "2026-03-15T19:48:28Z"
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
     "2026-03-11": {
       "prs": 1,
-      "issues": 1,
+      "issues": 0,
       "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
-    "Issue Reporting",
     "Discussion"
   ],
   "achievements": [
@@ -92,6 +74,5 @@
       "label": "Conversationalist",
       "description": "20+ comments"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/801241?v=4",
   "githubUrl": "https://github.com/jb510",
   "score": {
-    "score": 34.91,
-    "prScore": 27.91,
+    "score": 19.31,
+    "prScore": 13.31,
     "issueScore": 5,
     "reviewScore": 0,
-    "commentScore": 2
+    "commentScore": 1
   },
   "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 1,
     "prsMerged": 0,
-    "prAdditions": 325,
+    "prAdditions": 188,
     "prDeletions": 3,
-    "prChangedFiles": 8,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 1,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 2
   },
   "period": {
     "weekly": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "comments": 0
+    },
+    "monthly": {
       "prs": 1,
       "issues": 1,
       "reviews": 0,
-      "comments": 2,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
-    },
-    "monthly": {
-      "prs": 2,
-      "issues": 1,
-      "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-06T05:10:05Z",
+  "firstContribution": "2026-03-17T14:25:57Z",
   "lastContribution": "2026-03-18T14:16:13Z",
   "recentPRs": [
     {
@@ -61,17 +52,6 @@
       "mergedAt": null,
       "additions": 188,
       "deletions": 3,
-      "changedFiles": 4
-    },
-    {
-      "number": 37215,
-      "title": "Models/openai-codex: add gpt-5.4 forward-compat support",
-      "state": "OPEN",
-      "merged": false,
-      "createdAt": "2026-03-06T05:10:05Z",
-      "mergedAt": null,
-      "additions": 137,
-      "deletions": 0,
       "changedFiles": 4
     }
   ],
@@ -90,11 +70,6 @@
       "prs": 1,
       "issues": 1,
       "reviews": 0
-    },
-    "2026-03-06": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
@@ -102,6 +77,5 @@
     "Issue Reporting",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

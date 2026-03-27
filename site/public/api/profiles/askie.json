@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/1140973?v=4",
   "githubUrl": "https://github.com/askie",
   "score": {
-    "score": 9.72,
-    "prScore": 7.72,
+    "score": 21.55,
+    "prScore": 19.55,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 2
@@ -13,45 +13,47 @@
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 1,
+    "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 10,
-    "prDeletions": 0,
-    "prChangedFiles": 1,
+    "prAdditions": 91,
+    "prDeletions": 10,
+    "prChangedFiles": 4,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 4,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 4
   },
   "period": {
     "weekly": {
       "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 1,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 4,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 4
     }
   },
   "firstContribution": "2026-03-17T02:49:01Z",
-  "lastContribution": "2026-03-18T11:27:45Z",
+  "lastContribution": "2026-03-22T09:17:01Z",
   "recentPRs": [
+    {
+      "number": 52160,
+      "title": "plugins: fix SDK alias package-root fallback",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T09:17:01Z",
+      "mergedAt": null,
+      "additions": 81,
+      "deletions": 10,
+      "changedFiles": 3
+    },
     {
       "number": 48672,
       "title": "docs(plugins): add ClawPool community plugins",
@@ -67,6 +69,11 @@
   "recentIssues": [],
   "recentReviews": [],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-17": {
       "prs": 1,
       "issues": 0,
@@ -77,6 +84,5 @@
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

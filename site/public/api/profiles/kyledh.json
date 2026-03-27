@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/3477429?v=4",
   "githubUrl": "https://github.com/kyledh",
   "score": {
-    "score": 81.47,
-    "prScore": 78.97,
+    "score": 26.51,
+    "prScore": 25.51,
     "issueScore": 0,
     "reviewScore": 0,
-    "commentScore": 2.5
+    "commentScore": 1
   },
-  "tier": "regular",
+  "tier": "beginner",
   "characterClass": "Contributor",
   "stats": {
     "commits": 0,
-    "prs": 2,
-    "prsMerged": 1,
-    "prAdditions": 489,
-    "prDeletions": 67,
-    "prChangedFiles": 21,
-    "prMergeRate": 50,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 429,
+    "prDeletions": 48,
+    "prChangedFiles": 10,
+    "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 5,
-    "commitAdditions": 60,
-    "commitDeletions": 19,
-    "commitChangedFiles": 11
+    "comments": 2
   },
   "period": {
     "weekly": {
       "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 2,
+      "prs": 1,
       "issues": 0,
       "reviews": 0,
-      "comments": 5,
-      "commitAdditions": 60,
-      "commitDeletions": 19,
-      "commits": 1
+      "comments": 2
     }
   },
-  "firstContribution": "2026-03-08T08:40:12Z",
+  "firstContribution": "2026-03-12T05:17:14Z",
   "lastContribution": "2026-03-12T05:45:13Z",
   "recentPRs": [
     {
@@ -62,17 +53,6 @@
       "additions": 429,
       "deletions": 48,
       "changedFiles": 10
-    },
-    {
-      "number": 39638,
-      "title": "fix(plugin-sdk): remove remaining bundled plugin src imports",
-      "state": "MERGED",
-      "merged": true,
-      "createdAt": "2026-03-08T08:40:12Z",
-      "mergedAt": "2026-03-09T03:32:45Z",
-      "additions": 60,
-      "deletions": 19,
-      "changedFiles": 11
     }
   ],
   "recentIssues": [],
@@ -82,19 +62,11 @@
       "prs": 1,
       "issues": 0,
       "reviews": 0
-    },
-    "2026-03-08": {
-      "prs": 1,
-      "issues": 0,
-      "reviews": 0
     }
   },
   "skills": [
     "Pull Requests",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {
-    "2026-03-09": 1
-  }
+  "achievements": []
 }

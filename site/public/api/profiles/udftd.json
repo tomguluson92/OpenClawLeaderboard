@@ -3,8 +3,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/5563247?v=4",
   "githubUrl": "https://github.com/udftd",
   "score": {
-    "score": 194.01,
-    "prScore": 173.01,
+    "score": 195.2,
+    "prScore": 174.2,
     "issueScore": 0,
     "reviewScore": 21,
     "commentScore": 0
@@ -15,38 +15,29 @@
     "commits": 0,
     "prs": 2,
     "prsMerged": 0,
-    "prAdditions": 30104,
-    "prDeletions": 10057,
-    "prChangedFiles": 797,
+    "prAdditions": 33121,
+    "prDeletions": 10358,
+    "prChangedFiles": 823,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 7,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
-      "reviews": 7,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
       "prs": 2,
       "issues": 0,
       "reviews": 7,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-20T06:27:09Z",
@@ -55,13 +46,13 @@
     {
       "number": 50903,
       "title": "Telegram: fix message loss during proxy network interruptions",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-20T06:52:19Z",
       "mergedAt": null,
-      "additions": 807,
-      "deletions": 72,
-      "changedFiles": 25
+      "additions": 3824,
+      "deletions": 373,
+      "changedFiles": 51
     },
     {
       "number": 50890,
@@ -131,6 +122,5 @@
       "label": "Prolific Coder",
       "description": "10K+ lines added"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

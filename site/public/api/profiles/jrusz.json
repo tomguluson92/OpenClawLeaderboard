@@ -1,0 +1,104 @@
+{
+  "username": "jrusz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55534579?u=7884594c9a6100f2bc3c7e657b9ae726fec9e919&v=4",
+  "githubUrl": "https://github.com/jrusz",
+  "score": {
+    "score": 25.61,
+    "prScore": 10.11,
+    "issueScore": 0,
+    "reviewScore": 15,
+    "commentScore": 0.5
+  },
+  "tier": "beginner",
+  "characterClass": "Reviewer",
+  "stats": {
+    "commits": 0,
+    "prs": 1,
+    "prsMerged": 0,
+    "prAdditions": 170,
+    "prDeletions": 6,
+    "prChangedFiles": 2,
+    "prMergeRate": 0,
+    "issues": 0,
+    "issuesClosed": 0,
+    "reviews": 5,
+    "reviewsApproved": 0,
+    "reviewsChangesRequested": 0,
+    "comments": 1
+  },
+  "period": {
+    "weekly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 0
+    },
+    "monthly": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 5,
+      "comments": 1
+    }
+  },
+  "firstContribution": "2026-03-16T19:37:45Z",
+  "lastContribution": "2026-03-25T20:57:35Z",
+  "recentPRs": [
+    {
+      "number": 53891,
+      "title": "fix(ollama): emit streaming events for text content during generation",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-24T18:59:59Z",
+      "mergedAt": null,
+      "additions": 170,
+      "deletions": 6,
+      "changedFiles": 2
+    }
+  ],
+  "recentIssues": [],
+  "recentReviews": [
+    {
+      "prNumber": 53891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T20:57:35Z"
+    },
+    {
+      "prNumber": 53891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T20:48:29Z"
+    },
+    {
+      "prNumber": 53891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-25T20:42:26Z"
+    },
+    {
+      "prNumber": 53891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T19:09:44Z"
+    },
+    {
+      "prNumber": 53891,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T19:09:34Z"
+    }
+  ],
+  "recentActivityDays": {
+    "2026-03-24": {
+      "prs": 1,
+      "issues": 0,
+      "reviews": 2
+    },
+    "2026-03-25": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
+    }
+  },
+  "skills": [
+    "Pull Requests",
+    "Code Review",
+    "Discussion"
+  ],
+  "achievements": []
+}

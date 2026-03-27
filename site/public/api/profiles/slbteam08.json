@@ -3,14 +3,14 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/2130244?u=162cd2165cca10becc82dddbfab0894f3d380d41&v=4",
   "githubUrl": "https://github.com/slbteam08",
   "score": {
-    "score": 10.21,
+    "score": 13.21,
     "prScore": 7.21,
     "issueScore": 0,
-    "reviewScore": 3,
+    "reviewScore": 6,
     "commentScore": 0
   },
   "tier": "beginner",
-  "characterClass": "Maintainer",
+  "characterClass": "Reviewer",
   "stats": {
     "commits": 0,
     "prs": 1,
@@ -21,36 +21,27 @@
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 1,
+    "reviews": 2,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 0
   },
   "period": {
     "weekly": {
-      "prs": 1,
+      "prs": 0,
       "issues": 0,
       "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
       "prs": 1,
       "issues": 0,
-      "reviews": 1,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 2,
+      "comments": 0
     }
   },
   "firstContribution": "2026-03-19T04:48:41Z",
-  "lastContribution": "2026-03-19T05:05:05Z",
+  "lastContribution": "2026-03-23T06:49:08Z",
   "recentPRs": [
     {
       "number": 50214,
@@ -69,6 +60,11 @@
     {
       "prNumber": 50214,
       "state": "COMMENTED",
+      "createdAt": "2026-03-23T06:49:08Z"
+    },
+    {
+      "prNumber": 50214,
+      "state": "COMMENTED",
       "createdAt": "2026-03-19T05:05:05Z"
     }
   ],
@@ -77,12 +73,16 @@
       "prs": 1,
       "issues": 0,
       "reviews": 1
+    },
+    "2026-03-23": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }

@@ -3,59 +3,204 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/264276174?u=eda608b8564a66f10da459f1de4a84643f8ea5ec&v=4",
   "githubUrl": "https://github.com/aidenwildenbadt",
   "score": {
-    "score": 18.04,
-    "prScore": 18.04,
+    "score": 268.87,
+    "prScore": 258.37,
     "issueScore": 0,
-    "reviewScore": 0,
-    "commentScore": 0
+    "reviewScore": 9,
+    "commentScore": 1.5
   },
-  "tier": "beginner",
+  "tier": "active",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 2,
+    "prs": 16,
     "prsMerged": 0,
-    "prAdditions": 26,
-    "prDeletions": 2,
-    "prChangedFiles": 4,
+    "prAdditions": 14688,
+    "prDeletions": 2604,
+    "prChangedFiles": 98,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
-    "reviews": 0,
+    "reviews": 3,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 0,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 3
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 14,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 3,
+      "comments": 3
     },
     "monthly": {
-      "prs": 2,
+      "prs": 16,
       "issues": 0,
-      "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 3,
+      "comments": 3
     }
   },
   "firstContribution": "2026-03-19T01:10:46Z",
-  "lastContribution": "2026-03-19T01:46:40Z",
+  "lastContribution": "2026-03-24T04:13:19Z",
   "recentPRs": [
+    {
+      "number": 52278,
+      "title": "[codex] fix(embedded): recover orphaned turns without dropping repeats",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T14:00:43Z",
+      "mergedAt": null,
+      "additions": 696,
+      "deletions": 16,
+      "changedFiles": 2
+    },
+    {
+      "number": 52277,
+      "title": "[codex] fix(bluebubbles): dedupe webhook replays without dropping edits",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T14:00:43Z",
+      "mergedAt": null,
+      "additions": 4699,
+      "deletions": 1077,
+      "changedFiles": 6
+    },
+    {
+      "number": 52276,
+      "title": "[codex] fix(dedupe): preserve route-scoped suppression context",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T14:00:42Z",
+      "mergedAt": null,
+      "additions": 365,
+      "deletions": 41,
+      "changedFiles": 13
+    },
+    {
+      "number": 52275,
+      "title": "[codex] fix(outbound): preserve delivery queue recovery metadata",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T14:00:42Z",
+      "mergedAt": null,
+      "additions": 483,
+      "deletions": 17,
+      "changedFiles": 6
+    },
+    {
+      "number": 52274,
+      "title": "[codex] fix(gateway): wait for agents.create readiness before success",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T14:00:42Z",
+      "mergedAt": null,
+      "additions": 734,
+      "deletions": 174,
+      "changedFiles": 4
+    },
+    {
+      "number": 52251,
+      "title": "[codex] fix(dedupe): preserve route-scoped suppression context",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T12:50:38Z",
+      "mergedAt": null,
+      "additions": 124,
+      "deletions": 6,
+      "changedFiles": 9
+    },
+    {
+      "number": 52246,
+      "title": "[codex] fix(embedded): recover orphaned turns without dropping repeats",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T12:43:07Z",
+      "mergedAt": null,
+      "additions": 421,
+      "deletions": 12,
+      "changedFiles": 2
+    },
+    {
+      "number": 52240,
+      "title": "[codex] fix(outbound): preserve delivery queue recovery metadata",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T12:34:19Z",
+      "mergedAt": null,
+      "additions": 225,
+      "deletions": 4,
+      "changedFiles": 2
+    },
+    {
+      "number": 52239,
+      "title": "[codex] fix(bluebubbles): dedupe webhook replays without dropping edits",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T12:30:23Z",
+      "mergedAt": null,
+      "additions": 3693,
+      "deletions": 835,
+      "changedFiles": 5
+    },
+    {
+      "number": 52237,
+      "title": "[codex] fix(gateway): wait for agents.create readiness before success",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-22T12:25:37Z",
+      "mergedAt": null,
+      "additions": 511,
+      "deletions": 65,
+      "changedFiles": 4
+    },
+    {
+      "number": 52234,
+      "title": "[codex] fix(reply): preserve queued replies across session resets",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T12:21:24Z",
+      "mergedAt": null,
+      "additions": 1899,
+      "deletions": 333,
+      "changedFiles": 25
+    },
+    {
+      "number": 52229,
+      "title": "[codex] fix(plugin-sdk): export bluebubbles facade helpers",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-22T12:09:07Z",
+      "mergedAt": null,
+      "additions": 21,
+      "deletions": 0,
+      "changedFiles": 2
+    },
+    {
+      "number": 51931,
+      "title": "[codex] fix telegram polling liveness health monitor",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-21T23:32:43Z",
+      "mergedAt": null,
+      "additions": 498,
+      "deletions": 13,
+      "changedFiles": 6
+    },
+    {
+      "number": 51655,
+      "title": "[codex] fix telegram session reset followups",
+      "state": "CLOSED",
+      "merged": false,
+      "createdAt": "2026-03-21T14:40:16Z",
+      "mergedAt": null,
+      "additions": 293,
+      "deletions": 9,
+      "changedFiles": 8
+    },
     {
       "number": 50128,
       "title": "fix(plugin-sdk): export bluebubbles facade helpers",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T01:46:40Z",
       "mergedAt": null,
@@ -66,7 +211,7 @@
     {
       "number": 50105,
       "title": "[codex] export imessage-core plugin-sdk subpath",
-      "state": "OPEN",
+      "state": "CLOSED",
       "merged": false,
       "createdAt": "2026-03-19T01:10:46Z",
       "mergedAt": null,
@@ -76,17 +221,61 @@
     }
   ],
   "recentIssues": [],
-  "recentReviews": [],
+  "recentReviews": [
+    {
+      "prNumber": 52276,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T04:13:19Z"
+    },
+    {
+      "prNumber": 52278,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T04:13:18Z"
+    },
+    {
+      "prNumber": 52278,
+      "state": "COMMENTED",
+      "createdAt": "2026-03-24T04:13:15Z"
+    }
+  ],
   "recentActivityDays": {
+    "2026-03-22": {
+      "prs": 12,
+      "issues": 0,
+      "reviews": 0
+    },
+    "2026-03-21": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-19": {
       "prs": 2,
       "issues": 0,
       "reviews": 0
+    },
+    "2026-03-24": {
+      "prs": 0,
+      "issues": 0,
+      "reviews": 3
     }
   },
   "skills": [
-    "Pull Requests"
+    "Pull Requests",
+    "Code Review",
+    "Discussion",
+    "Large-Scale Changes"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": [
+    {
+      "id": "pr-machine",
+      "label": "PR Machine",
+      "description": "10+ pull requests"
+    },
+    {
+      "id": "prolific",
+      "label": "Prolific Coder",
+      "description": "10K+ lines added"
+    }
+  ]
 }

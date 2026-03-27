@@ -3,53 +3,44 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/220753637?v=4",
   "githubUrl": "https://github.com/dsantoreis",
   "score": {
-    "score": 752.26,
-    "prScore": 431.26,
-    "issueScore": 5,
-    "reviewScore": 216,
+    "score": 497.87,
+    "prScore": 283.87,
+    "issueScore": 0,
+    "reviewScore": 114,
     "commentScore": 100
   },
-  "tier": "veteran",
+  "tier": "active",
   "characterClass": "Contributor",
   "stats": {
     "commits": 3,
-    "prs": 40,
-    "prsMerged": 3,
-    "prAdditions": 4548,
-    "prDeletions": 289,
-    "prChangedFiles": 137,
-    "prMergeRate": 8,
-    "issues": 1,
+    "prs": 23,
+    "prsMerged": 0,
+    "prAdditions": 1195,
+    "prDeletions": 132,
+    "prChangedFiles": 58,
+    "prMergeRate": 0,
+    "issues": 0,
     "issuesClosed": 0,
-    "reviews": 72,
+    "reviews": 38,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 554,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 497
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
-      "reviews": 21,
-      "comments": 488,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "reviews": 0,
+      "comments": 0
     },
     "monthly": {
-      "prs": 40,
-      "issues": 1,
-      "reviews": 72,
-      "comments": 554,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "prs": 23,
+      "issues": 0,
+      "reviews": 38,
+      "comments": 497
     }
   },
-  "firstContribution": "2026-03-08T23:36:46Z",
+  "firstContribution": "2026-03-09T15:33:26Z",
   "lastContribution": "2026-03-15T05:48:54Z",
   "recentPRs": [
     {
@@ -273,15 +264,7 @@
       "changedFiles": 4
     }
   ],
-  "recentIssues": [
-    {
-      "number": 40445,
-      "title": "feat: passive execution health monitoring for agent death spirals",
-      "state": "OPEN",
-      "createdAt": "2026-03-09T01:49:44Z",
-      "closedAt": null
-    }
-  ],
+  "recentIssues": [],
   "recentReviews": [
     {
       "prNumber": 45858,
@@ -388,7 +371,7 @@
     "2026-03-13": {
       "prs": 10,
       "issues": 0,
-      "reviews": 8
+      "reviews": 6
     },
     "2026-03-12": {
       "prs": 3,
@@ -401,30 +384,19 @@
       "reviews": 13
     },
     "2026-03-09": {
-      "prs": 16,
-      "issues": 1,
-      "reviews": 33
-    },
-    "2026-03-08": {
-      "prs": 3,
+      "prs": 2,
       "issues": 0,
-      "reviews": 0
+      "reviews": 2
     },
     "2026-03-14": {
       "prs": 0,
       "issues": 0,
       "reviews": 15
-    },
-    "2026-03-11": {
-      "prs": 0,
-      "issues": 0,
-      "reviews": 1
     }
   },
   "skills": [
     "Pull Requests",
     "Code Review",
-    "Issue Reporting",
     "Discussion",
     "Direct Commits"
   ],
@@ -440,20 +412,9 @@
       "description": "10+ reviews"
     },
     {
-      "id": "review-guru",
-      "label": "Review Guru",
-      "description": "50+ reviews"
-    },
-    {
       "id": "conversationalist",
       "label": "Conversationalist",
       "description": "20+ comments"
-    },
-    {
-      "id": "well-rounded",
-      "label": "Well Rounded",
-      "description": "Active in PRs, reviews, and issues"
     }
-  ],
-  "recentCommitDays": {}
+  ]
 }

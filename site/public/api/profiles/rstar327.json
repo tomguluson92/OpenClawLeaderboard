@@ -3,13 +3,13 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/114364448?u=c07cca8ec656a34d96f84657528e272f1d032f6c&v=4",
   "githubUrl": "https://github.com/rstar327",
   "score": {
-    "score": 200.94,
-    "prScore": 200.44,
+    "score": 194.18,
+    "prScore": 193.68,
     "issueScore": 0,
     "reviewScore": 0,
     "commentScore": 0.5
   },
-  "tier": "active",
+  "tier": "regular",
   "characterClass": "Builder",
   "stats": {
     "commits": 0,
@@ -24,29 +24,20 @@
     "reviews": 0,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 1,
-    "commitAdditions": 418,
-    "commitDeletions": 20,
-    "commitChangedFiles": 29
+    "comments": 1
   },
   "period": {
     "weekly": {
-      "prs": 2,
+      "prs": 0,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 418,
-      "commitDeletions": 20,
-      "commits": 1
+      "comments": 0
     },
     "monthly": {
       "prs": 13,
       "issues": 0,
       "reviews": 0,
-      "comments": 1,
-      "commitAdditions": 418,
-      "commitDeletions": 20,
-      "commits": 1
+      "comments": 1
     }
   },
   "firstContribution": "2026-03-09T22:20:59Z",
@@ -235,8 +226,5 @@
       "label": "PR Machine",
       "description": "10+ pull requests"
     }
-  ],
-  "recentCommitDays": {
-    "2026-03-15": 1
-  }
+  ]
 }

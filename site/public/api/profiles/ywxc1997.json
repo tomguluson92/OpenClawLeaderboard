@@ -3,55 +3,68 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/55086154?u=20948533e05d0b4fd602b094ac0b56b20a9497cf&v=4",
   "githubUrl": "https://github.com/ywxc1997",
   "score": {
-    "score": 30.17,
-    "prScore": 24.17,
+    "score": 52.84,
+    "prScore": 46.84,
     "issueScore": 0,
     "reviewScore": 3,
     "commentScore": 3
   },
-  "tier": "beginner",
-  "characterClass": "Contributor",
+  "tier": "regular",
+  "characterClass": "Builder",
   "stats": {
     "commits": 0,
-    "prs": 3,
+    "prs": 5,
     "prsMerged": 0,
-    "prAdditions": 25,
-    "prDeletions": 8,
-    "prChangedFiles": 3,
+    "prAdditions": 119,
+    "prDeletions": 19,
+    "prChangedFiles": 8,
     "prMergeRate": 0,
     "issues": 0,
     "issuesClosed": 0,
     "reviews": 1,
     "reviewsApproved": 0,
     "reviewsChangesRequested": 0,
-    "comments": 6,
-    "commitAdditions": 0,
-    "commitDeletions": 0,
-    "commitChangedFiles": 0
+    "comments": 6
   },
   "period": {
     "weekly": {
-      "prs": 0,
+      "prs": 2,
       "issues": 0,
       "reviews": 0,
-      "comments": 0,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 0
     },
     "monthly": {
-      "prs": 3,
+      "prs": 5,
       "issues": 0,
       "reviews": 1,
-      "comments": 6,
-      "commitAdditions": 0,
-      "commitDeletions": 0,
-      "commits": 0
+      "comments": 6
     }
   },
   "firstContribution": "2026-03-10T07:01:26Z",
-  "lastContribution": "2026-03-12T05:14:59Z",
+  "lastContribution": "2026-03-23T12:09:27Z",
   "recentPRs": [
+    {
+      "number": 52822,
+      "title": "fix(matrix): add idempotency guard to prevent duplicate registration (fixes #52780)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T12:09:27Z",
+      "mergedAt": null,
+      "additions": 32,
+      "deletions": 6,
+      "changedFiles": 4
+    },
+    {
+      "number": 52821,
+      "title": "fix: load ~/.openclaw/.env for LaunchAgent environment variables (fixes #52771)",
+      "state": "OPEN",
+      "merged": false,
+      "createdAt": "2026-03-23T12:09:10Z",
+      "mergedAt": null,
+      "additions": 62,
+      "deletions": 5,
+      "changedFiles": 1
+    },
     {
       "number": 43698,
       "title": "fix(matrix): prioritize top-level allowFrom over dm.allowFrom (fixes #43688)",
@@ -95,6 +108,11 @@
     }
   ],
   "recentActivityDays": {
+    "2026-03-23": {
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0
+    },
     "2026-03-12": {
       "prs": 1,
       "issues": 0,
@@ -111,6 +129,5 @@
     "Code Review",
     "Discussion"
   ],
-  "achievements": [],
-  "recentCommitDays": {}
+  "achievements": []
 }
